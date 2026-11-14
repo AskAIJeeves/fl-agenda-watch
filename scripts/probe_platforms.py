@@ -44,7 +44,7 @@ def probe(g):
     return {**g, "hits": hits, "checks": tried}
 
 def main():
-    cfg = json.loads((ROOT / "config/probe_list.json").read_text())
+    cfg = json.loads((ROOT / __import__("os").environ.get("PROBE_LIST", "config/probe_list.json")).read_text())
     with ThreadPoolExecutor(8) as ex:
         res = list(ex.map(probe, cfg["governments"]))
     (ROOT / "data/probe_results.json").write_text(json.dumps(res, indent=1))
