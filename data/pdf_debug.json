@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-14T19:00:47+00:00",
+ "generated_utc": "2026-11-14T19:02:54+00:00",
  "sources": {
   "m-stpetersburg": {
    "name": "St. Petersburg",
@@ -568,24 +568,24 @@
    "pdfs_found": 463,
    "scanned": [
     {
-     "pdf": "https://www.stpete.org/Government/Agendas and Documents/agenda order/Check Back for Proposed Agenda Order.pdf?t=202611061155160",
+     "pdf": "https://www.stpete.org/2026-11-05 Council Agenda AddsDeletes.pdf?t=202611041054340",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://www.stpete.org/2026-11-19 Agenda Packet (compressed).pdf?t=202611061050570",
+     "pdf": "https://www.stpete.org/2026-10-15 Agenda Packet w. Updated AddsDeletes.pdf?t=202610151351220",
      "pages": 400,
-     "hits": 39
+     "hits": 10
     },
     {
-     "pdf": "https://www.stpete.org/2026-11-19 Council Agenda AddsDeletes.pdf?t=202611131409360",
-     "pages": 2,
-     "hits": 1
+     "pdf": "https://www.stpete.org/2026-10-15 Council Agenda AddsDeletes.pdf?t=202610151312000",
+     "pages": 3,
+     "hits": 0
     },
     {
-     "pdf": "https://www.stpete.org/2026-11-05 Agenda Packet w. Revised AddsDeletes.pdf?t=202611041055140",
-     "pages": 400,
-     "hits": 45
+     "pdf": "https://www.stpete.org/2026-10-08 Agenda Packet w. AddsDeletes.pdf?t=202610021209320",
+     "pages": 74,
+     "hits": 0
     }
    ],
    "errors": [],
@@ -611,8 +611,42 @@
    "name": "Orlando",
    "listing": [
     {
+     "url": "https://www.orlando.gov/Our-Government/Records-and-Documents/City-Council-Minutes-and-Agendas/Current-and-Upcoming-Meetings",
+     "links": 9,
+     "sample": [
+      [
+       "https://pub-orlando.escribemeetings.com:443/meetingscalendarview.aspx?Expanded=1st+Budget+Hearing",
+       "1st Budget Hearing ( 2 1 1 )"
+      ],
+      [
+       "https://pub-orlando.escribemeetings.com:443/meetingscalendarview.aspx?Expanded=2nd+Budget+Hearing",
+       "2nd Budget Hearing ( 2 1 1 )"
+      ],
+      [
+       "https://pub-orlando.escribemeetings.com:443/meetingscalendarview.aspx?Expanded=Agenda+Review+Meeting",
+       "Agenda Review Meeting ( 32 15 17 )"
+      ],
+      [
+       "https://pub-orlando.escribemeetings.com:443/meetingscalendarview.aspx?Expanded=City+Council+Meeting",
+       "City Council Meeting ( 32 15 17 )"
+      ],
+      [
+       "https://pub-orlando.escribemeetings.com:443/meetingscalendarview.aspx?Expanded=City+Council+Workshop",
+       "City Council Workshop ( 13 5 8 )"
+      ],
+      [
+       "https://www.escribemeetings.com/privacy-policy/",
+       "Privacy Policy."
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Records-and-Documents/City-Council-Minutes-and-Agendas/Current-and-Upcoming-Meetings",
+       "Resend"
+      ]
+     ]
+    },
+    {
      "url": "https://www.orlando.gov/Our-Government/Public-Meetings",
-     "links": 689,
+     "links": 695,
      "sample": [
       [
        "https://www.orlando.gov/Our-Government/Public-Meetings#main-content",
@@ -623,8 +657,32 @@
        "English Select this as your preferred language"
       ],
       [
+       "https://www.orlando.gov/Our-Government/Public-Meetings?oc_lang=es",
+       "Espa\u00f1ol (Spanish) Select this as your preferred language"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings?oc_lang=ht",
+       "Krey\u00f2l Ayisyen (Haitian Creole) Select this as your preferred language"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings?oc_lang=pt",
+       "Portugu\u00eas (Portuguese) Select this as your preferred language"
+      ],
+      [
        "https://www.orlando.gov/Our-Government/Public-Meetings?oc_lang=en-US",
        "English Select this as your preferred language"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings?oc_lang=es",
+       "Espa\u00f1ol (Spanish) Select this as your preferred language"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings?oc_lang=ht",
+       "Krey\u00f2l Ayisyen (Haitian Creole) Select this as your preferred language"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings?oc_lang=pt",
+       "Portugu\u00eas (Portuguese) Select this as your preferred language"
       ],
       [
        "https://www.orlando.gov/Building-Development/Schedule-an-Appointment/Request-a-Pre-Application-Meeting-with-a-Planner",
@@ -867,238 +925,15 @@
        "Back to top"
       ]
      ]
-    },
-    {
-     "url": "https://www.orlando.gov/Our-Government/Mayor-City-Council/Council-Agendas-and-Minutes",
-     "links": 672,
-     "sample": [
-      [
-       "https://www.orlando.gov/Our-Government/Mayor-City-Council/Council-Agendas-and-Minutes#main-content",
-       "Skip to main content"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Records-and-Documents/City-Council-Minutes-and-Agendas?oc_lang=en-US",
-       "English Select this as your preferred language"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Records-and-Documents/City-Council-Minutes-and-Agendas?oc_lang=es",
-       "Espa\u00f1ol (Spanish) Select this as your preferred language"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Records-and-Documents/City-Council-Minutes-and-Agendas?oc_lang=ht",
-       "Krey\u00f2l Ayisyen (Haitian Creole) Select this as your preferred language"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Records-and-Documents/City-Council-Minutes-and-Agendas?oc_lang=pt",
-       "Portugu\u00eas (Portuguese) Select this as your preferred language"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Records-and-Documents/City-Council-Minutes-and-Agendas?oc_lang=en-US",
-       "English Select this as your preferred language"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Records-and-Documents/City-Council-Minutes-and-Agendas?oc_lang=es",
-       "Espa\u00f1ol (Spanish) Select this as your preferred language"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Records-and-Documents/City-Council-Minutes-and-Agendas?oc_lang=ht",
-       "Krey\u00f2l Ayisyen (Haitian Creole) Select this as your preferred language"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Records-and-Documents/City-Council-Minutes-and-Agendas?oc_lang=pt",
-       "Portugu\u00eas (Portuguese) Select this as your preferred language"
-      ],
-      [
-       "https://www.orlando.gov/Building-Development/Schedule-an-Appointment/Request-a-Pre-Application-Meeting-with-a-Planner",
-       "Request a Pre-Application Meeting with a Planner"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Mayor-City-Council",
-       "Mayor & City Council"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Mayor-City-Council/Buddy-Dyer",
-       "Buddy Dyer"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Mayor-City-Council/Tom-Keen",
-       "Tom Keen - District 1"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Mayor-City-Council/Tony-Ortiz",
-       "Tony Ortiz - District 2"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Mayor-City-Council/Roger-Chapin",
-       "Roger Chapin - District 3"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Mayor-City-Council/Patty-Sheehan",
-       "Patty Sheehan - District 4"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Mayor-City-Council/Shan-Rose",
-       "Shan Rose - District 5"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Mayor-City-Council/Bakari-F.-Burns",
-       "Bakari F. Burns - District 6"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Mayor-City-Council/City-Council-Meetings",
-       "City Council Meetings"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Mayor-City-Council/Council-Agendas-and-Minutes",
-       "Council Agendas and Minutes"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Records-and-Documents/City-Council-Minutes-and-Agendas",
-       "City Council Minutes and Agendas"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Records-and-Documents/City-Council-Meetings",
-       "Find City Council Meetings"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Records-and-Documents/Minutes-Agendas",
-       "View City Board Calendar, Minutes and Agendas"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings",
-       "Public Meetings"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/Municipal-Planning-Board-MPB-111726",
-       "Municipal Planning Board (MPB)"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/Families-Parks-and-Recreation-Advisory-Board-111726",
-       "Families, Parks and Recreation Advisory Board Meeting"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/Board-of-Zoning-Adjustment-BZA-111726",
-       "Board of Zoning Adjustment (BZA)"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/Firefighters-Pension-Board-111826",
-       "Firefighter's Pension Board"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/Downtown-Development-BoardCRA-Advisory-Board-Meeting-111826",
-       "Downtown Development Board/CRA Advisory Board"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/Affordable-Housing-Advisory-Committee-111926",
-       "Affordable Housing Advisory Committee"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/Appearance-Review-Board-111926",
-       "Appearance Review Board"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/Finance-Committee-Meeting-111926",
-       "Finance Committee Meeting"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/Harry-P.-Leu-Gardens-Board-of-Trustees-111826",
-       "Harry P. Leu Gardens Board of Trustees"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/Budget-Review-Committee-111926",
-       "Budget Review Committee"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/CANCELED-General-Session-Executive-Session-of-the-Risk-Management-Committee-111826",
-       "*CANCELED* - Risk Management Committee"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/After-Midnight-Alcohol-Sales-Hearing-112026",
-       "After Midnight Alcohol Sales Hearing"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/2nd-Committee-Meeting-for-RFP26-0439-Grounds-Maintenance-for-Wastewater-Admin-Conserv-II-and-Various-Lift-Station-111726",
-       "2nd Committee Meeting for RFP26-0439"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/1st-Committee-Meeting-for-One-North-Orange-Redevelopment-Solicitation-111826",
-       "1st Committee Meeting for One North Orange Redevelopment Solicitation"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/3rd-Advisory-Committee-Meeting-for-RFP26-0578-Camping-World-Stadium-Converged-Network-System-CNS-Design-and-Install-Project-111826",
-       "3rd Advisory Committee Meeting for RFP26-0578"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/CANCELED-Mayor-Dyer-and-Commissioner-Keen-Meeting-111926",
-       "*CANCELED* - Mayor Dyer and Commissioner Keen Meeting"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/Public-Art-Selection-Committee-Meeting-for-Lake-Nona-Park-111626",
-       "Public Art Selection Committee Meeting for Lake Nona Park"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/2nd-Committee-Meeting-for-RQS26-0612-Design-Services-for-Orlando-Flood-Mitigation-by-Drainwell-Replacement-Block-Grant-112026",
-       "2nd Committee Meeting for RQS26-0612"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/CANCELED-Commissioner-Burns-and-Commissioner-Rose-Meeting-111926",
-       "*CANCELED* - Commissioner Burns and Commissioner Rose Meeting"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/Consultants-Qualification-Board-Meeting-for-RQS27-0008Transportation-Engineering-and-Planning-Services-for-Safe-Speeds-Lab-111826",
-       "Consultants' Qualification Board Meeting for RQS27-0008"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/Mayor-Dyer-and-Commissioner-Keen-Meeting-111826",
-       "Mayor Dyer and Commissioner Keen Meeting"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/EDV-Small-Business-Fa\u00e7ade-Committee-112426",
-       "EDV Small Business Fa\u00e7ade Committee"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Contact-Us/Mayor-City-Council",
-       "Mayor & City Council"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Records-and-Documents/City-Council-Minutes-and-Agendas/Current-and-Upcoming-Meetings",
-       "Current and Upcoming Meetings View agendas and minutes of current and upcoming City Council meetings and workshops."
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Records-and-Documents/City-Council-Minutes-and-Agendas/All-City-Council-Meetings",
-       "All City Council Meetings View minutes and other documentation from all previous City Council meetings and workshops."
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Records-and-Documents/City-Council-Minutes-and-Agendas/Watch-City-Council-Meetings",
-       "Watch City Council Meetings View recording livestreams of City Council meetings and workshops."
-      ],
-      [
-       "https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.orlando.gov%2fOur-Government%2fRecords-and-Documents%2fCity-Council-Minutes-and-Agendas",
-       "Facebook"
-      ],
-      [
-       "https://twitter.com/share?url=https%3a%2f%2fwww.orlando.gov%2fOur-Government%2fRecords-and-Documents%2fCity-Council-Minutes-and-Agendas",
-       "X"
-      ],
-      [
-       "mailto:?Body=https%3a%2f%2fwww.orlando.gov%2fOur-Government%2fRecords-and-Documents%2fCity-Council-Minutes-and-Agendas",
-       "Email"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Mayor-City-Council/Council-Agendas-and-Minutes",
-       "Print"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Mayor-City-Council/Council-Agendas-and-Minutes#body-top",
-       "Back to top"
-      ]
-     ]
     }
    ],
-   "pdfs_found": 0,
+   "pdfs_found": 2,
    "scanned": [],
    "errors": [],
-   "pdf_sample": []
+   "pdf_sample": [
+    "https://www.orlando.gov/files/sharedassets/public/council/virtualmeetinginstructions_boardmembers.pdf",
+    "https://www.orlando.gov/files/sharedassets/public/council/virtualmeetinginstructions_publicmeetingsv2.pdf"
+   ]
   },
   "c-miamidade": {
    "name": "Miami-Dade County",
