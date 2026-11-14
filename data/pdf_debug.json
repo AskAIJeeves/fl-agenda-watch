@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-14T19:30:56+00:00",
+ "generated_utc": "2026-11-14T19:32:08+00:00",
  "sources": {
   "m-stpetersburg": {
    "name": "St. Petersburg",
@@ -7,6 +7,7 @@
     {
      "url": "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
      "links": 513,
+     "head": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<base href=\"https://www.stpete.org/\" />\n\t<meta charset=\"utf-8\">\n\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n\t\r\n\n\t \n\t<!-- Metadata Area Starts -->\r\n\t<title>City Council</title>\r\n",
      "sample": [
       [
        "https://www.stpete.org/government/mayor___city_council/city_council/index.php#main",
@@ -493,6 +494,7 @@
     {
      "url": "http://www.stpete.org/calendar.php?calendar=9",
      "links": 490,
+     "head": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<base href=\"https://www.stpete.org/\" />\n\t<meta charset=\"utf-8\">\n\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n\t\r\n\n\t \n\t<!-- Metadata Area Starts -->\r\n\t<title>Calendar</title>\r\n\t<me",
      "sample": [
       [
        "https://www.stpete.org/government/mayor___city_council/mayor_s_office/index.php",
@@ -1332,6 +1334,7 @@
     {
      "url": "https://www.orlando.gov/Our-Government/Records-and-Documents/City-Council-Minutes-and-Agendas/Current-and-Upcoming-Meetings",
      "links": 9,
+     "head": "<!DOCTYPE html>\r\n\r\n\r\n<html id=\"masterPageHeader\" xmlns=\"http://www.w3.org/1999/xhtml\" lang=\"en\" xml:lang=\"en\">\r\n<head><meta charset=\"utf-8\" /><meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge;chrome=1\" /><meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\" /><title>\r\n\teSCRIBE Publ",
      "sample": [
       [
        "https://pub-orlando.escribemeetings.com:443/meetingscalendarview.aspx?Expanded=1st+Budget+Hearing",
@@ -1366,6 +1369,7 @@
     {
      "url": "https://www.orlando.gov/Our-Government/Public-Meetings",
      "links": 695,
+     "head": "<!DOCTYPE html>\r\n<!--[if lt IE 7]>      <html class=\"no-js lt-ie9 lt-ie8 lt-ie7\" lang=\"en\"> <![endif]-->\r\n<!--[if IE 7]>         <html class=\"no-js lt-ie9 lt-ie8\" lang=\"en\"> <![endif]-->\r\n<!--[if IE 8]>         <html class=\"no-js lt-ie9\" lang=\"en\"> <![endif]-->\r\n<!--[if gt IE 8]><!-->\r\n<html class=\"",
      "sample": [
       [
        "https://www.orlando.gov/Our-Government/Public-Meetings#main-content",
@@ -2400,6 +2404,7 @@
     {
      "url": "https://dunedin.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
      "links": 103,
+     "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>City of Dunedin, Florida: zRETIRE",
      "sample": [
       [
        "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1611",
@@ -2819,24 +2824,24 @@
    "pdfs_found": 103,
    "scanned": [
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1611",
-     "pages": 4,
-     "hits": 0
-    },
-    {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1619",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3662",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1594",
-     "pages": 2,
-     "hits": 0
-    },
-    {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3663",
-     "pages": 3,
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3659",
+     "pages": 5,
      "hits": 2
+    },
+    {
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3654",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3651",
+     "pages": 5,
+     "hits": 5
     }
    ],
    "errors": [],
@@ -2864,6 +2869,7 @@
     {
      "url": "https://tampa.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
      "links": 0,
+     "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>City of Tampa: Tampa View Page (A",
      "sample": []
     }
    ],
@@ -2878,6 +2884,7 @@
     {
      "url": "https://myseminole.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
      "links": 100,
+     "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>City of Seminole, FL: My Seminole",
      "sample": [
       [
        "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=573",
@@ -3283,7 +3290,23 @@
     }
    ],
    "pdfs_found": 100,
-   "scanned": [],
+   "scanned": [
+    {
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=555",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=554",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=549",
+     "pages": 1,
+     "hits": 0
+    }
+   ],
    "errors": [],
    "pdf_sample": [
     "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=573",
@@ -3309,6 +3332,7 @@
     {
      "url": "https://polk.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
      "links": 1,
+     "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>Polk State College: Polk State Co",
      "sample": [
       [
        "https://polk.granicus.com/AgendaViewer.php?view_id=1&clip_id=1",
@@ -3318,13 +3342,7 @@
     }
    ],
    "pdfs_found": 1,
-   "scanned": [
-    {
-     "pdf": "https://polk.granicus.com/AgendaViewer.php?view_id=1&clip_id=1",
-     "pages": 1,
-     "hits": 0
-    }
-   ],
+   "scanned": [],
    "errors": [],
    "pdf_sample": [
     "https://polk.granicus.com/AgendaViewer.php?view_id=1&clip_id=1"
@@ -3336,6 +3354,7 @@
     {
      "url": "https://miamibeachfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
      "links": 0,
+     "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>Miami Beach, FL: Miami Beach FL V",
      "sample": []
     }
    ],
@@ -3348,8 +3367,40 @@
    "name": "Tarpon Springs",
    "listing": [
     {
+     "url": "https://www.ctsfl.us/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=",
+     "links": 45,
+     "head": "\r\n\r\n\r\n\r\n\r\n\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n\r\n\t<meta http-equiv=\"Content-type\" content=\"text/html; charset=UTF-8\" />\r\n<!-- Google Tag Manager for GA4 -->\r\n\t\t\t\t<script>(function(w,d,s,l,i){w.GAMeasurementID='G-M6W9F44HNM';w[l]=w[l]||[];w[l].push({'gtm.start':\r\n\t\t\t\tnew Date().getTime(),even",
+     "sample": [
+      [
+       "https://www.ctsfl.us/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=#contentarea",
+       "Skip to Main Content"
+      ],
+      [
+       "https://www.ctsfl.us/rss.aspx#agendaCenter",
+       "RSS"
+      ],
+      [
+       "https://www.ctsfl.us/list.aspx#agendaCenter",
+       "Notify Me\u00ae"
+      ],
+      [
+       "https://www.ctsfl.us/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=#categoryList",
+       "Select a Category"
+      ],
+      [
+       "https://www.ctsfl.us/AgendaCenter",
+       "\u25c4 Back to all agendas"
+      ],
+      [
+       "https://www.ctsfl.us/129/Agendas-Minutes",
+       "Agendas & Minutes"
+      ]
+     ]
+    },
+    {
      "url": "https://www.ctsfl.us/RSSFeed.aspx?ModID=65&CID=All-0",
      "links": 0,
+     "head": "<?xml version=\"1.0\"?><rss version=\"2.0\"><channel>\r\n\t<title>Tarpon Springs, FL - Agenda Creator</title>\r\n\t<link>https://www.ctsfl.us/AgendaCenter</link>\r\n\t<lastBuildDate>Sat, 14 Nov 2026 14:32:31 -0500</lastBuildDate>\r\n\t<description>Tarpon Springs, FL - Get the latest agendas</description>\r\n\t<languag",
      "sample": []
     }
    ],
@@ -3362,8 +3413,48 @@
    "name": "Safety Harbor",
    "listing": [
     {
+     "url": "https://www.cityofsafetyharbor.com/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=",
+     "links": 48,
+     "head": "\r\n\r\n\r\n\r\n\r\n\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n\r\n\t<meta http-equiv=\"Content-type\" content=\"text/html; charset=UTF-8\" />\r\n<!-- Google Tag Manager for GA4 -->\r\n\t\t\t\t<script>(function(w,d,s,l,i){w.GAMeasurementID='G-HLVCSSBHV9';w[l]=w[l]||[];w[l].push({'gtm.start':\r\n\t\t\t\tnew Date().getTime(),even",
+     "sample": [
+      [
+       "https://www.cityofsafetyharbor.com/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=#contentarea",
+       "Skip to Main Content"
+      ],
+      [
+       "https://www.cityofsafetyharbor.com/37/City-Commission",
+       "Government"
+      ],
+      [
+       "https://www.cityofsafetyharbor.com/37/City-Commission",
+       "City Commission"
+      ],
+      [
+       "https://www.cityofsafetyharbor.com/rss.aspx#agendaCenter",
+       "RSS"
+      ],
+      [
+       "https://www.cityofsafetyharbor.com/list.aspx#agendaCenter",
+       "Notify Me"
+      ],
+      [
+       "https://www.cityofsafetyharbor.com/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=#categoryList",
+       "Select a Category"
+      ],
+      [
+       "https://www.cityofsafetyharbor.com/AgendaCenter",
+       "\u25c4 Back to all agendas"
+      ],
+      [
+       "https://www.cityofsafetyharbor.com/557/Streaming-Media",
+       "Meeting Videos, Minutes & Agendas"
+      ]
+     ]
+    },
+    {
      "url": "https://www.cityofsafetyharbor.com/RSSFeed.aspx?ModID=65&CID=All-0",
      "links": 0,
+     "head": "<?xml version=\"1.0\"?><rss version=\"2.0\"><channel>\r\n\t<title>Safety Harbor - Agenda Creator</title>\r\n\t<link>https://cityofsafetyharbor.com/AgendaCenter</link>\r\n\t<lastBuildDate>Sat, 14 Nov 2026 14:32:34 -0500</lastBuildDate>\r\n\t<description>Safety Harbor - Get the latest agendas</description>\r\n\t<languag",
      "sample": []
     }
    ],
@@ -3376,8 +3467,40 @@
    "name": "Oldsmar",
    "listing": [
     {
+     "url": "https://www.myoldsmar.com/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=",
+     "links": 45,
+     "head": "\r\n\r\n\r\n\r\n\r\n\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n\r\n\t<meta http-equiv=\"Content-type\" content=\"text/html; charset=UTF-8\" />\r\n<!-- Google Tag Manager for GA4 -->\r\n\t\t\t\t<script>(function(w,d,s,l,i){w.GAMeasurementID='G-HKQLH8QLST';w[l]=w[l]||[];w[l].push({'gtm.start':\r\n\t\t\t\tnew Date().getTime(),even",
+     "sample": [
+      [
+       "https://www.myoldsmar.com/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=#contentarea",
+       "Skip to Main Content"
+      ],
+      [
+       "https://www.myoldsmar.com/rss.aspx#agendaCenter",
+       "RSS"
+      ],
+      [
+       "https://www.myoldsmar.com/list.aspx#agendaCenter",
+       "Stay Informed"
+      ],
+      [
+       "https://www.myoldsmar.com/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=#categoryList",
+       "Select a Category"
+      ],
+      [
+       "https://www.myoldsmar.com/AgendaCenter",
+       "\u25c4 Back to all agendas"
+      ],
+      [
+       "https://www.myoldsmar.com/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=",
+       ""
+      ]
+     ]
+    },
+    {
      "url": "https://www.myoldsmar.com/RSSFeed.aspx?ModID=65&CID=All-0",
      "links": 0,
+     "head": "<?xml version=\"1.0\"?><rss version=\"2.0\"><channel>\r\n\t<title>Oldsmar, FL - Agenda Creator</title>\r\n\t<link>https://www.myoldsmar.com/AgendaCenter</link>\r\n\t<lastBuildDate>Sat, 14 Nov 2026 14:32:35 -0500</lastBuildDate>\r\n\t<description>Oldsmar, FL - Get the latest agendas</description>\r\n\t<language>en-us</",
      "sample": []
     }
    ],
@@ -3390,8 +3513,40 @@
    "name": "St. Pete Beach",
    "listing": [
     {
+     "url": "https://www.stpetebeach.org/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=",
+     "links": 47,
+     "head": "\r\n\r\n\r\n\r\n\r\n\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n\r\n\t<meta http-equiv=\"Content-type\" content=\"text/html; charset=UTF-8\" />\r\n<!-- Google Tag Manager for GA4 -->\r\n\t\t\t\t<script>(function(w,d,s,l,i){w.GAMeasurementID='G-C8ZNGC6P10';w[l]=w[l]||[];w[l].push({'gtm.start':\r\n\t\t\t\tnew Date().getTime(),even",
+     "sample": [
+      [
+       "https://www.stpetebeach.org/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=#contentarea",
+       "Skip to Main Content"
+      ],
+      [
+       "https://www.stpetebeach.org/rss.aspx#agendaCenter",
+       "RSS"
+      ],
+      [
+       "https://www.stpetebeach.org/list.aspx#agendaCenter",
+       "Notify Me\u00ae"
+      ],
+      [
+       "https://www.stpetebeach.org/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=#categoryList",
+       "Select a Category"
+      ],
+      [
+       "https://www.stpetebeach.org/AgendaCenter",
+       "\u25c4 Back to all agendas"
+      ],
+      [
+       "https://www.stpetebeach.org/250/Agendas-Minutes",
+       "Agendas & Minutes"
+      ]
+     ]
+    },
+    {
      "url": "https://www.stpetebeach.org/RSSFeed.aspx?ModID=65&CID=All-0",
      "links": 0,
+     "head": "<?xml version=\"1.0\"?><rss version=\"2.0\"><channel>\r\n\t<title>St. Pete Beach, FL  - Agenda Creator</title>\r\n\t<link>https://www.stpetebeach.org/AgendaCenter</link>\r\n\t<lastBuildDate>Sat, 14 Nov 2026 14:32:38 -0500</lastBuildDate>\r\n\t<description>St. Pete Beach, FL  - Get the latest agendas</description>\r\n",
      "sample": []
     }
    ],
