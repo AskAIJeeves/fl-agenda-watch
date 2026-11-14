@@ -99,17 +99,29 @@ def main():
         d["pdfs_found"] = len(cands)
         d["pdf_sample"] = [c[0] for c in cands[:15]]
         def udate(u):
-            m = re.search(r"(20\d\d)[-_ ]?(\d\d)[-_ ]?(\d\d)", urllib.parse.unquote(u))
-            try: return datetime(int(m[1]), int(m[2]), int(m[3]), tzinfo=timezone.utc) if m else None
-            except ValueError: return None
+            uu = urllib.parse.unquote(u)
+            m = re.search(r"(20\d\d)[-_ ]?(\d\d)[-_ ]?(\d\d)", uu)
+            try:
+                if m and 1 <= int(m[2]) <= 12: return datetime(int(m[1]), int(m[2]), int(m[3]), tzinfo=timezone.utc)
+                m = re.search(r"_(\d\d)(\d\d)(20\d\d)-", uu)  # CivicPlus _MMDDYYYY-
+                if m: return datetime(int(m[3]), int(m[1]), int(m[2]), tzinfo=timezone.utc)
+            except ValueError: pass
+            return None
         recent = [c for c in cands if not udate(c[0]) or (now - udate(c[0])).days <= 45]
         new = [c for c in recent if c[0] not in seen][: cfg["max_new_pdfs_per_run"]]
         for u, title, page in new:
             try:
                 data = fetch(u, binary=True)
-                if not data[:5].startswith(b"%PDF"):
+                if data[:5].startswith(b"%PDF"):
+                    pages = pdf_text(data, cfg["max_pages_per_pdf"])
+                elif b"<html" in data[:2000].lower():
+                    html = data.decode("utf-8", "replace")
+                    html = re.sub(r"(?is)<(script|style).*?</\1>", " ", html)
+                    txt = re.sub(r"(?i)<br\s*/?>|</(p|div|tr|li|h\d)>", "\n\n", html)
+                    txt = re.sub(r"<[^>]+>", " ", txt)
+                    import html as _h; pages = [(1, _h.unescape(txt))]
+                else:
                     seen[u] = {"status": "not_pdf", "date": now.date().isoformat()}; continue
-                pages = pdf_text(data, cfg["max_pages_per_pdf"])
                 hits = passages(pages, min_amount)[:30]
                 for pno, top, ch in hits:
                     store["items"].append({

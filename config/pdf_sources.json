@@ -25,15 +25,94 @@
    "_status": "Meeting pages load agenda documents with JavaScript; needs a dedicated reader"
   },
   {
+   "entity_id": "m-dunedin",
+   "name": "Dunedin",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://dunedin.granicus.com/ViewPublisher.php?view_id=2"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)"
+  },
+  {
    "entity_id": "m-tampa",
    "name": "Tampa",
+   "platform": "granicus",
    "listing_urls": [
-    "https://tampagov.hylandcloud.com/251agendaonline/",
-    "https://tampagov.hylandcloud.com/251agendaonline/Meetings"
+    "https://tampa.granicus.com/ViewPublisher.php?view_id=1"
    ],
-   "follow": "(?i)251agendaonline/Meetings/(ViewMeeting|Details)",
-   "pdf": "(?i)251agendaonline/(Documents/(ViewAgenda|ViewDocument|DownloadFile)|.*\\.pdf)",
-   "_status": "OnBase Agenda Online page loads its meeting list with JavaScript; needs a dedicated reader"
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)"
+  },
+  {
+   "entity_id": "m-seminolecity",
+   "name": "Seminole (city)",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://myseminole.granicus.com/ViewPublisher.php?view_id=1"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)"
+  },
+  {
+   "entity_id": "c-polk",
+   "name": "Polk County",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://polk.granicus.com/ViewPublisher.php?view_id=1"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)"
+  },
+  {
+   "entity_id": "m-miamibeach",
+   "name": "Miami Beach",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://miamibeachfl.granicus.com/ViewPublisher.php?view_id=1"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)"
+  },
+  {
+   "entity_id": "m-tarponsprings",
+   "name": "Tarpon Springs",
+   "platform": "civicplus",
+   "listing_urls": [
+    "https://www.ctsfl.us/AgendaCenter"
+   ],
+   "follow": "",
+   "pdf": "(?i)/AgendaCenter/ViewFile/Agenda/"
+  },
+  {
+   "entity_id": "m-safetyharbor",
+   "name": "Safety Harbor",
+   "platform": "civicplus",
+   "listing_urls": [
+    "https://www.cityofsafetyharbor.com/AgendaCenter"
+   ],
+   "follow": "",
+   "pdf": "(?i)/AgendaCenter/ViewFile/Agenda/"
+  },
+  {
+   "entity_id": "m-oldsmar",
+   "name": "Oldsmar",
+   "platform": "civicplus",
+   "listing_urls": [
+    "https://www.myoldsmar.com/AgendaCenter"
+   ],
+   "follow": "",
+   "pdf": "(?i)/AgendaCenter/ViewFile/Agenda/"
+  },
+  {
+   "entity_id": "m-stpetebeach",
+   "name": "St. Pete Beach",
+   "platform": "civicplus",
+   "listing_urls": [
+    "https://www.stpetebeach.org/AgendaCenter"
+   ],
+   "follow": "",
+   "pdf": "(?i)/AgendaCenter/ViewFile/Agenda/"
   }
  ],
  "sequential": [

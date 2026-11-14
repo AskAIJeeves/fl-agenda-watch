@@ -1,19 +1,90 @@
 {
-  "_note": "candidates are possible Legistar client names. The first run tests each one; data/agenda_status.json shows which worked. Unverified until then.",
-  "lookahead_days": 21,
-  "lookback_days": 7,
-  "min_amount": 1000000,
-  "governments": [
-    {"entity_id": "m-fortlauderdale", "name": "Fort Lauderdale", "candidates": ["fortlauderdale"]},
-    {"entity_id": "c-miamidade",      "name": "Miami-Dade County", "candidates": ["miamidade", "miamidadecounty"]},
-    {"entity_id": "c-broward",        "name": "Broward County", "candidates": ["broward", "browardcounty"]},
-    {"entity_id": "c-pinellas",       "name": "Pinellas County", "candidates": ["pinellas", "pinellascounty"]},
-    {"entity_id": "c-hillsborough",   "name": "Hillsborough County", "candidates": ["hillsboroughcounty", "hillsborough"]},
-    {"entity_id": "m-stpetersburg",   "name": "St. Petersburg", "candidates": ["stpete", "stpetersburg"]},
-    {"entity_id": "m-clearwater",     "name": "Clearwater", "candidates": ["clearwater", "myclearwater"]},
-    {"entity_id": "m-jacksonville",   "name": "Jacksonville", "candidates": ["jaxcityc", "jacksonville"]},
-    {"entity_id": "m-orlando",        "name": "Orlando", "candidates": ["orlando", "cityoforlando"]},
-    {"entity_id": "m-miami",          "name": "Miami", "candidates": ["miami", "miamifl"]},
-    {"entity_id": "m-tampa",          "name": "Tampa", "candidates": ["tampa", "tampagov"]}
-  ]
+ "_note": "candidates are possible Legistar client names. The first run tests each one; data/agenda_status.json shows which worked. Unverified until then.",
+ "lookahead_days": 21,
+ "lookback_days": 7,
+ "min_amount": 1000000,
+ "governments": [
+  {
+   "entity_id": "m-fortlauderdale",
+   "name": "Fort Lauderdale",
+   "candidates": [
+    "fortlauderdale"
+   ]
+  },
+  {
+   "entity_id": "c-broward",
+   "name": "Broward County",
+   "candidates": [
+    "broward",
+    "browardcounty"
+   ]
+  },
+  {
+   "entity_id": "c-pinellas",
+   "name": "Pinellas County",
+   "candidates": [
+    "pinellas",
+    "pinellascounty"
+   ]
+  },
+  {
+   "entity_id": "c-hillsborough",
+   "name": "Hillsborough County",
+   "candidates": [
+    "hillsboroughcounty",
+    "hillsborough"
+   ]
+  },
+  {
+   "entity_id": "m-clearwater",
+   "name": "Clearwater",
+   "candidates": [
+    "clearwater",
+    "myclearwater"
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "name": "Jacksonville",
+   "candidates": [
+    "jaxcityc",
+    "jacksonville"
+   ]
+  },
+  {
+   "entity_id": "m-pinellaspark",
+   "name": "Pinellas Park",
+   "candidates": [
+    "pinellaspark"
+   ]
+  },
+  {
+   "entity_id": "c-palmbeach",
+   "name": "Palm Beach County",
+   "candidates": [
+    "pbc"
+   ]
+  },
+  {
+   "entity_id": "m-hollywood",
+   "name": "Hollywood",
+   "candidates": [
+    "hollywoodfl"
+   ]
+  },
+  {
+   "entity_id": "m-gainesville",
+   "name": "Gainesville",
+   "candidates": [
+    "gainesville"
+   ]
+  },
+  {
+   "entity_id": "c-seminole",
+   "name": "Seminole County",
+   "candidates": [
+    "seminolecountyfl"
+   ]
+  }
+ ]
 }
