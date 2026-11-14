@@ -28,15 +28,30 @@ class Links(HTMLParser):
         if tag == "a" and self._a:
             self.out.append((self._a, " ".join(" ".join(self._t).split()))); self._a = None
 
+class FixS3(urllib.request.HTTPRedirectHandler):
+    """Granicus redirects to a bucket hostname with an underscore, which fails TLS; use path-style S3."""
+    def redirect_request(self, req, fp, code, msg, headers, newurl):
+        newurl = re.sub(r"^https?://([a-z0-9_]+_[a-z0-9_]*)\.s3\.amazonaws\.com/", r"https://s3.amazonaws.com/\1/", newurl)
+        return super().redirect_request(req, fp, code, msg, headers, newurl)
+OPENER = urllib.request.build_opener(FixS3)
+
 def fetch(url, binary=False):
     url = urllib.parse.quote(url, safe=":/?&=%#+,;@!$'()*~")
     req = urllib.request.Request(url, headers=UA)
-    with urllib.request.urlopen(req, timeout=60) as r:
+    with OPENER.open(req, timeout=60) as r:
         data = r.read()
         return data if binary else data.decode(r.headers.get_content_charset() or "utf-8", "replace")
 
 def links(url):
-    p = Links(url); p.feed(fetch(url)); return p.out
+    body = fetch(url)
+    if "<rss" in body[:500] or "<channel>" in body[:2000]:  # RSS feed: use item links
+        out = []
+        for item in re.findall(r"(?is)<item>(.*?)</item>", body):
+            lk = re.search(r"(?is)<link>\s*(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?\s*</link>", item)
+            tt = re.search(r"(?is)<title>\s*(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?\s*</title>", item)
+            if lk: out.append((urllib.parse.urljoin(url, lk.group(1).strip().replace("&amp;", "&")), (tt.group(1).strip() if tt else "")))
+        return out
+    p = Links(url); p.feed(body); return p.out
 
 def pdf_text(data, max_pages):
     reader = PdfReader(io.BytesIO(data))
