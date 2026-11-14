@@ -211,23 +211,8 @@ def main():
             except Exception: continue
             age = (now - when).days
             if not m.get("IsAgendaAvailable") or skip.search(m.get("Name") or "") or age > 14 or age < -30: continue
-            u = f"{ob['base']}/Documents/DownloadFile/{urllib.parse.quote(m['AgendaUniqueName'], safe=',')}.pdf?documentType=1&meetingId={m['ID']}"
+            u = f"{ob['base']}/Documents/DownloadFileBytes/{urllib.parse.quote(m['AgendaUniqueName'], safe=',')}.pdf?documentType=1&meetingId={m['ID']}"
             todo.append((u, m["Name"], when.date().isoformat(), m["ID"]))
-        if todo and not d.get("tried_alts"):
-            # one-time diagnostics: try alternate document URLs for the first meeting
-            u0, _, _, mid0 = todo[0]; name0 = u0.split("/DownloadFile/")[1].split(".pdf")[0]
-            alts = [u0, f"{ob['base']}/Documents/ViewDocument/{name0}.pdf?meetingId={mid0}&documentType=1&itemId=0&publishId=0&isSection=false",
-                    f"{ob['base']}/Documents/ViewAgenda?meetingId={mid0}&doctype=1", f"{ob['base']}/Meetings/ViewMeeting?id={mid0}&doctype=1",
-                    f"{ob['base']}/Documents/DownloadFileBytes/{name0}.pdf?documentType=1&meetingId={mid0}"]
-            d["tried_alts"] = []
-            for a in alts:
-                try:
-                    b = fetch(a, binary=True)
-                    t = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", b[:20000].decode("utf-8", "replace")))
-                    d["tried_alts"].append({"url": a, "pdf": b[:5].startswith(b"%PDF"), "len": len(b), "text": t[:400],
-                        "links": re.findall(r'(?:src|href)=["\']([^"\']*(?:Document|pdf|Agenda)[^"\']*)', b[:60000].decode("utf-8", "replace"))[:15]})
-                except Exception as e:
-                    d["tried_alts"].append({"url": a, "error": str(e)[:200]})
         d["with_agenda"] = len(todo)
         for u, body, mdate, mid in [t for t in todo if t[0] not in seen][: cfg["max_new_pdfs_per_run"] + 2]:
             try:
