@@ -188,6 +188,51 @@ def main():
                 d["errors"].append(f"pdf {u}: {e}")
             time.sleep(1)
 
+    # OnBase Agenda Online (Tampa, Osceola): meeting list is JSON embedded in the search page
+    for ob in cfg.get("onbase", []):
+        d = debug[ob["entity_id"] + ":onbase"] = {"name": ob["name"], "platform": "onbase", "meetings": 0, "with_agenda": 0, "scanned": [], "errors": []}
+        try:
+            html = fetch(ob["base"] + "/Meetings/Search?dropid=4&mtids=")
+            i = html.find('"Meetings":['); st = html.rfind("SearchResults(", 0, i) + len("SearchResults(")
+            depth = 0
+            for j in range(st, len(html)):
+                if html[j] == "{": depth += 1
+                elif html[j] == "}":
+                    depth -= 1
+                    if depth == 0: break
+            meetings = json.loads(html[st:j + 1])["Meetings"]
+        except Exception as e:
+            d["errors"].append(f"meeting list: {e}"); continue
+        d["meetings"] = len(meetings)
+        skip = re.compile(ob.get("skip") or "$^")
+        todo = []
+        for m in meetings:
+            try: when = datetime.fromisoformat(m["Time"])
+            except Exception: continue
+            age = (now - when).days
+            if not m.get("IsAgendaAvailable") or skip.search(m.get("Name") or "") or age > 14 or age < -30: continue
+            u = f"{ob['base']}/Documents/DownloadFile/{urllib.parse.quote(m['AgendaUniqueName'])}.pdf?documentType=1&meetingId={m['ID']}"
+            todo.append((u, m["Name"], when.date().isoformat(), m["ID"]))
+        d["with_agenda"] = len(todo)
+        for u, body, mdate, mid in [t for t in todo if t[0] not in seen][: cfg["max_new_pdfs_per_run"] + 2]:
+            try:
+                data = fetch(u, binary=True)
+                if not data[:5].startswith(b"%PDF"):
+                    d["errors"].append(f"not pdf: {u[-80:]} {data[:60]!r}"); continue
+                pages = pdf_text(data, cfg["max_pages_per_pdf"]); hits = passages(pages, min_amount)[:40]
+                for pno, top, ch in hits:
+                    store["items"].append({"entity_id": ob["entity_id"], "government": ob["name"], "client": "onbase",
+                        "body": body, "meeting_date": mdate, "agenda_number": f"p.{pno}", "file_number": None, "title": ch,
+                        "max_amount": top, "keywords": sorted({mm.group(0).lower() for mm in KEYWORDS.finditer(ch)}),
+                        "meeting_url": f"{ob['base']}/Meetings/ViewMeeting?id={mid}&doctype=1", "agenda_pdf": u,
+                        "found_utc": now.isoformat(timespec="seconds")})
+                # agendas get revised before the meeting: only mark done once the meeting has passed
+                if mdate < now.date().isoformat(): seen[u] = {"status": "ok", "pages": len(pages), "hits": len(hits), "date": now.date().isoformat()}
+                d["scanned"].append({"pdf": u[-90:], "meeting": body, "pages": len(pages), "hits": len(hits)})
+            except Exception as e:
+                d["errors"].append(f"pdf {u[-80:]}: {e}")
+            time.sleep(1)
+
     # date-patterned PDFs (Palm Beach, Manatee): try each date from 7 days back to 21 days ahead
     for dt in cfg.get("date_template", []):
         d = debug[dt["entity_id"] + ":date"] = {"name": dt["name"], "platform": "date_template", "found": [], "scanned": [], "errors": []}

@@ -231,5 +231,19 @@
     "https://records.manateeclerk.com/BoardRecords/Browse/Agendas/Board-of-County-Commissioners/{Y}/{m}/BC{Y}{m}{d}DOC001.pdf"
    ]
   }
+ ],
+ "onbase": [
+  {
+   "entity_id": "m-tampa",
+   "name": "Tampa",
+   "base": "https://tampagov.hylandcloud.com/251agendaonline",
+   "skip": "(?i)special magistrate|code enforcement"
+  },
+  {
+   "entity_id": "c-osceola",
+   "name": "Osceola County",
+   "base": "https://docs.osceola.org/OnBaseAgendaOnline",
+   "skip": "(?i)special magistrate|code enforcement|value adjustment|bid and proposal"
+  }
  ]
 }
