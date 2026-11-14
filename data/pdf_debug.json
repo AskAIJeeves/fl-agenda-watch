@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-14T21:16:08+00:00",
+ "generated_utc": "2026-11-14T21:22:40+00:00",
  "sources": {
   "m-stpetersburg": {
    "name": "St. Petersburg",
@@ -2824,23 +2824,23 @@
    "pdfs_found": 103,
    "scanned": [
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3602",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3591",
      "pages": 3,
      "hits": 0
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3596",
-     "pages": 5,
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3589",
+     "pages": 4,
      "hits": 0
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3594",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3580",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3590",
-     "pages": 2,
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3576",
+     "pages": 4,
      "hits": 0
     }
    ],
@@ -3290,28 +3290,7 @@
     }
    ],
    "pdfs_found": 100,
-   "scanned": [
-    {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=517",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=514",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=507",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=508",
-     "pages": 1,
-     "hits": 0
-    }
-   ],
+   "scanned": [],
    "errors": [],
    "pdf_sample": [
     "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=573",
@@ -3826,24 +3805,24 @@
    "pdfs_found": 111,
    "scanned": [
     {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=333",
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=329",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=332",
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=327",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=331",
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=326",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=330",
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=328",
      "pages": 1,
-     "hits": 1
+     "hits": 0
     }
    ],
    "errors": [],
@@ -4279,22 +4258,22 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2610",
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2564",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2611",
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2544",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2580",
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2552",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2579",
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2529",
      "pages": 1,
      "hits": 0
     }
@@ -4732,24 +4711,24 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1228",
-     "pages": 400,
-     "hits": 3
-    },
-    {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1223",
-     "pages": 400,
-     "hits": 16
-    },
-    {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1220",
-     "pages": 5,
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1218",
+     "pages": 134,
      "hits": 0
     },
     {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1221",
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1215",
+     "pages": 4,
+     "hits": 0
+    },
+    {
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
+     "pages": 353,
+     "hits": 9
+    },
+    {
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212",
      "pages": 400,
-     "hits": 13
+     "hits": 8
     }
    ],
    "errors": [],
@@ -5279,13 +5258,7 @@
     }
    ],
    "pdfs_found": 100,
-   "scanned": [
-    {
-     "pdf": "https://bocaraton.granicus.com/AgendaViewer.php?view_id=9&clip_id=3116",
-     "pages": 1,
-     "hits": 0
-    }
-   ],
+   "scanned": [],
    "errors": [
     "listing https://bocaraton.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas: HTTP Error 403: Forbidden"
    ],
@@ -5733,22 +5706,22 @@
    "pdfs_found": 103,
    "scanned": [
     {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=376",
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=370",
+     "pages": 1,
+     "hits": 1
+    },
+    {
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=369",
+     "pages": 1,
+     "hits": 3
+    },
+    {
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=368",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=372",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=373",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=371",
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=367",
      "pages": 1,
      "hits": 0
     }
@@ -5807,29 +5780,7 @@
     "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8175,plainText=false)",
     "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8177,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8165,plainText=false)",
-     "pages": 1,
-     "hits": 0,
-     "chars": 1080,
-     "meeting_date": "2026-11-19"
-    },
-    {
-     "pdf": "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8166,plainText=false)",
-     "pages": 400,
-     "hits": 0,
-     "chars": 826570,
-     "meeting_date": "2026-11-19"
-    },
-    {
-     "pdf": "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8121,plainText=false)",
-     "pages": 1,
-     "hits": 0,
-     "chars": 241,
-     "meeting_date": "2026-12-01"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-seminolecity:civicclerk": {
@@ -5926,32 +5877,11 @@
    ],
    "scanned": [
     {
-     "pdf": "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10208,plainText=false)",
-     "pages": 2,
+     "pdf": "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10211,plainText=false)",
+     "pages": 1,
      "hits": 0,
-     "chars": 2314,
-     "meeting_date": "2026-11-18"
-    },
-    {
-     "pdf": "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10210,plainText=false)",
-     "pages": 13,
-     "hits": 0,
-     "chars": 22492,
-     "meeting_date": "2026-11-18"
-    },
-    {
-     "pdf": "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10212,plainText=false)",
-     "pages": 2,
-     "hits": 0,
-     "chars": 4185,
-     "meeting_date": "2026-11-19"
-    },
-    {
-     "pdf": "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10213,plainText=false)",
-     "pages": 35,
-     "hits": 0,
-     "chars": 69772,
-     "meeting_date": "2026-11-19"
+     "chars": 1308,
+     "meeting_date": "2026-11-30"
     }
    ],
    "errors": []
@@ -6022,32 +5952,32 @@
    ],
    "scanned": [
     {
-     "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5363,plainText=false)",
-     "pages": 26,
+     "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5356,plainText=false)",
+     "pages": 400,
      "hits": 3,
-     "chars": 48529,
-     "meeting_date": "2026-11-09"
-    },
-    {
-     "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5350,plainText=false)",
-     "pages": 2,
-     "hits": 0,
-     "chars": 1560,
-     "meeting_date": "2026-11-09"
-    },
-    {
-     "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5351,plainText=false)",
-     "pages": 18,
-     "hits": 0,
-     "chars": 7167,
-     "meeting_date": "2026-11-09"
-    },
-    {
-     "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5353,plainText=false)",
-     "pages": 2,
-     "hits": 0,
-     "chars": 2816,
+     "chars": 625717,
      "meeting_date": "2026-11-10"
+    },
+    {
+     "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5374,plainText=false)",
+     "pages": 2,
+     "hits": 0,
+     "chars": 2279,
+     "meeting_date": "2026-11-17"
+    },
+    {
+     "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5376,plainText=false)",
+     "pages": 14,
+     "hits": 0,
+     "chars": 14300,
+     "meeting_date": "2026-11-17"
+    },
+    {
+     "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5370,plainText=false)",
+     "pages": 1,
+     "hits": 0,
+     "chars": 1054,
+     "meeting_date": "2026-11-17"
     }
    ],
    "errors": []
@@ -6057,137 +5987,90 @@
    "platform": "onbase",
    "meetings": 52,
    "with_agenda": 6,
-   "scanned": [],
-   "errors": [
-    "not pdf: ber_19,_2026_2941_Agenda_11_19_2026_9_00_00_AM.pdf?documentType=1&meetingId=2941 b'\\r\\n\\r\\n\\r\\n<!DOCTYPE html>\\r\\n\\r\\n<html>\\r\\n<head>\\r\\n    <meta name=\"vie'",
-    "not pdf: ber_17,_2026_2986_Agenda_11_17_2026_1_30_00_PM.pdf?documentType=1&meetingId=2986 b'\\r\\n\\r\\n\\r\\n<!DOCTYPE html>\\r\\n\\r\\n<html>\\r\\n<head>\\r\\n    <meta name=\"vie'",
-    "not pdf: ber_12,_2026_2940_Agenda_11_12_2026_5_01_00_PM.pdf?documentType=1&meetingId=2940 b'\\r\\n\\r\\n\\r\\n<!DOCTYPE html>\\r\\n\\r\\n<html>\\r\\n<head>\\r\\n    <meta name=\"vie'",
-    "not pdf: ber_12,_2026_2939_Agenda_11_12_2026_9_00_00_AM.pdf?documentType=1&meetingId=2939 b'\\r\\n\\r\\n\\r\\n<!DOCTYPE html>\\r\\n\\r\\n<html>\\r\\n<head>\\r\\n    <meta name=\"vie'",
-    "not pdf: ember_5,_2026_3000_Agenda_11_5_2026_9_00_00_AM.pdf?documentType=1&meetingId=3000 b'\\r\\n\\r\\n\\r\\n<!DOCTYPE html>\\r\\n\\r\\n<html>\\r\\n<head>\\r\\n    <meta name=\"vie'",
-    "not pdf: ember_5,_2026_2938_Agenda_11_5_2026_9_00_00_AM.pdf?documentType=1&meetingId=2938 b'\\r\\n\\r\\n\\r\\n<!DOCTYPE html>\\r\\n\\r\\n<html>\\r\\n<head>\\r\\n    <meta name=\"vie'"
-   ],
-   "tried_alts": [
+   "scanned": [
     {
-     "url": "https://tampagov.hylandcloud.com/251agendaonline/Documents/DownloadFile/City_Council_Regular_-_November_19,_2026_2941_Agenda_11_19_2026_9_00_00_AM.pdf?documentType=1&meetingId=2941",
-     "pdf": false,
-     "len": 1448,
-     "text": " Downloading, Please wait... Downloading, Please wait... var repositionSpinner = function () { $(\"#divDownloadIndicator\").css(\"margin-top\", ($(document).height() / 2) - ($(\"#divDownloadIndicator\").height() / 2)); }; $(document).ready ( function (e) { repositionSpinner(); if (window.location.toString().indexOf(\"DownloadFileBytes\") ",
-     "links": []
+     "pdf": "ar_-_November_19,_2026_2941_Agenda_11_19_2026_9_00_00_AM.pdf?documentType=1&meetingId=2941",
+     "meeting": "City Council Regular - November 19, 2026",
+     "pages": 23,
+     "hits": 7
     },
     {
-     "url": "https://tampagov.hylandcloud.com/251agendaonline/Documents/ViewDocument/City_Council_Regular_-_November_19,_2026_2941_Agenda_11_19_2026_9_00_00_AM.pdf?meetingId=2941&documentType=1&itemId=0&publishId=0&isSection=false",
-     "pdf": false,
-     "len": 3854,
-     "text": " Error - OnBase Agenda Online Skip to main content Skip to introduction content Skip to search --> Hide Media Home Meetings --> All Meetings Contact --> Contact Executed Documents Help The web page that you have requested is not available Copyright &#169; 2015-2026 Hyland Software, Inc. Privacy Policy ",
-     "links": []
+     "pdf": "ll_-_November_17,_2026_2986_Agenda_11_17_2026_1_30_00_PM.pdf?documentType=1&meetingId=2986",
+     "meeting": "City Council Special Call - November 17, 2026",
+     "pages": 7,
+     "hits": 0
     },
     {
-     "url": "https://tampagov.hylandcloud.com/251agendaonline/Documents/ViewAgenda?meetingId=2941&doctype=1",
-     "pdf": false,
-     "len": 274627,
-     "text": " <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQ8AAAB2CAYAAADWdRaDAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAIp6SURBVHhe7Z0FYFVH2v539/t/slt3d+pUcLe4e4gbcXd3d3cXYiRAgBAgJLi7u1OhQt1Lu7//zCWhCdICpbv0+/Lsvr3knjlzzz33zDPPO/POO39hCEMYwhBuEP/85z89h8hjCEMYwg1jiDyGMIQh3BSGyGMIQxjCTWGIPIYwhD8hLnz3A0t8cuh0SRtk+1p6+kr88RgijyEM4U+ET0+8x6q4KnrDS0n872nE/XXiIKsc58T+1t6+0n8shsh",
-     "links": [
-      "javascript:loadAgendaItem(13174,true);",
-      "javascript:loadAgendaItem(13190,true);",
-      "javascript:loadAgendaItem(13191,true);",
-      "javascript:loadAgendaItem(13192,true);",
-      "javascript:loadAgendaItem(13193,true);"
-     ]
+     "pdf": "ng_-_November_12,_2026_2940_Agenda_11_12_2026_5_01_00_PM.pdf?documentType=1&meetingId=2940",
+     "meeting": "City Council Evening - November 12, 2026",
+     "pages": 10,
+     "hits": 0
     },
     {
-     "url": "https://tampagov.hylandcloud.com/251agendaonline/Meetings/ViewMeeting?id=2941&doctype=1",
-     "pdf": false,
-     "len": 15392,
-     "text": " City Council Regular - November 19, 2026 - 11/19/2026 9:00:00 AM - OnBase Agenda Online Skip to main content Skip to introduction content Skip to search --> Hide Media Home Meetings --> All Meetings Contact --> Contact Executed Documents Help const TABLET_SIZE = 900; const PHONE_SIZE = 480; var g_isLargeDisplay = true; var g_documentType = '1'; var g_mediaAndItemViewTop = 0; $(window).on('load', ",
-     "links": []
+     "pdf": "ar_-_November_12,_2026_2939_Agenda_11_12_2026_9_00_00_AM.pdf?documentType=1&meetingId=2939",
+     "meeting": "CRA Regular - November 12, 2026",
+     "pages": 11,
+     "hits": 0
     },
     {
-     "url": "https://tampagov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/City_Council_Regular_-_November_19,_2026_2941_Agenda_11_19_2026_9_00_00_AM.pdf?documentType=1&meetingId=2941",
-     "pdf": true,
-     "len": 233476,
-     "text": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 5 0 obj >/XObject >>>/Group >>> endobj 6 0 obj >stream x\ufffd\ufffdZY\ufffd 5\u0010\ufffd+\ufffd\u0007\ufffd\ufffd}H\ufffdJs\ufffd x\ufffdX $\ufffd\u0013\u0012 \ufffd\u0005\ufffd \u007f\ufffd\ufffd]e\ufffd\ufffd\ufffd\u06db\ufffdD\ufffd\ufffd\ufffd(\ufffd\ufffd\ufffd\ufffd\u0019\ufffdH\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u0298Z\ufffd\u0012Z\ufffd?\ufffd/\ufffd\ufffd'>$\ufffd\ufffd\ufffd9)BJ)\ufffd\ufffd`\ufffd\ufffd8\ufffd\ufffd\ufffd6\ufffdj\u0015`j\ufffd \ufffd\ufffd\b \u0013g\ufffd\ufffdC\ufffd\ufffdT\u001a\ufffdR\u001bA\ufffdpP\ufffd\ufffdVt\ufffdu\u0005e\u000f\ufffd\u0018k\ufffd \ufffd&\ufffd\ufffd\u0018E\ufffd\u001b(\ufffd \ufffd\u9dde\ufffd'u\ufffd\ufffd\ufffd\u0659\ufffd\ufffd)\ufffd\u06a7aRI-\ufffd\u0005\ufffd\ufffd:K\ufffd\ufffd.[\u01b5t\"\u0018\ufffd\ufffd\ufffd\u00064'\ufffd\u03b6V)s>\ufffd@\ufffd L\u00186\u001aL \ufffd\u0018s\u01af\u0017J\u0001S\u07a5C~\ufffd\ufffd\ufffd\ufffd?\u0017\ufffd\ufffd\ufffd\ufffdG\ufffd\ufffdd\ufffd\\\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd:\ufffd+[\ufffd\ufffd#!\ufffd\u00171\ufffd \ufffd\ufffd6\ufffd*H\ufffd (%\ufffd0\ufffd\u0013>\ufffd\ufffd\ufffd\u001b\ufffdXx\ufffdmR\ufffd:d\ufffdzx.\ufffd\ufffdJ\u0003\u00a9\u001b\ufffd~\ufffd]+~v\ufffd\ufffdQmC[5\u0226\ufffd\u007fs$\u001b\u0000\ufffd\u0019p*s&\u001b\ufffd\u0012\u0001\ufffd5\u0011-\ufffd^8",
-     "links": []
+     "pdf": "ndum_-_November_5,_2026_3000_Agenda_11_5_2026_9_00_00_AM.pdf?documentType=1&meetingId=3000",
+     "meeting": "City Council Regular Addendum - November 5, 2026",
+     "pages": 3,
+     "hits": 0
+    },
+    {
+     "pdf": "ular_-_November_5,_2026_2938_Agenda_11_5_2026_9_00_00_AM.pdf?documentType=1&meetingId=2938",
+     "meeting": "City Council Regular - November 5, 2026",
+     "pages": 28,
+     "hits": 9
     }
-   ]
+   ],
+   "errors": []
   },
   "c-osceola:onbase": {
    "name": "Osceola County",
    "platform": "onbase",
    "meetings": 14,
    "with_agenda": 12,
-   "scanned": [],
-   "errors": [
-    "not pdf: /Bid_Opening_2199_Agenda_11_17_2026_2_00_00_PM.pdf?documentType=1&meetingId=2199 b'\\r\\n\\r\\n\\r\\n<!DOCTYPE html>\\r\\n\\r\\n<html>\\r\\n<head>\\r\\n    <meta name=\"vie'",
-    "not pdf: cant_Meeting_2100_Agenda_11_17_2026_9_45_00_AM.pdf?documentType=1&meetingId=2100 b'\\r\\n\\r\\n\\r\\n<!DOCTYPE html>\\r\\n\\r\\n<html>\\r\\n<head>\\r\\n    <meta name=\"vie'",
-    "not pdf: ew_Committee_2099_Agenda_11_17_2026_9_30_00_AM.pdf?documentType=1&meetingId=2099 b'\\r\\n\\r\\n\\r\\n<!DOCTYPE html>\\r\\n\\r\\n<html>\\r\\n<head>\\r\\n    <meta name=\"vie'",
-    "not pdf: ommissioners_2193_Agenda_11_16_2026_5_30_00_PM.pdf?documentType=1&meetingId=2193 b'\\r\\n\\r\\n\\r\\n<!DOCTYPE html>\\r\\n\\r\\n<html>\\r\\n<head>\\r\\n    <meta name=\"vie'",
-    "not pdf: e_Villas_CFD_2206_Agenda_11_12_2026_6_00_00_PM.pdf?documentType=1&meetingId=2206 b'\\r\\n\\r\\n\\r\\n<!DOCTYPE html>\\r\\n\\r\\n<html>\\r\\n<head>\\r\\n    <meta name=\"vie'",
-    "not pdf: /Bid_Opening_2198_Agenda_11_10_2026_2_00_00_PM.pdf?documentType=1&meetingId=2198 b'\\r\\n\\r\\n\\r\\n<!DOCTYPE html>\\r\\n\\r\\n<html>\\r\\n<head>\\r\\n    <meta name=\"vie'"
-   ],
-   "tried_alts": [
+   "scanned": [
     {
-     "url": "https://docs.osceola.org/OnBaseAgendaOnline/Documents/DownloadFile/Bid_Opening_2199_Agenda_11_17_2026_2_00_00_PM.pdf?documentType=1&meetingId=2199",
-     "pdf": false,
-     "len": 1454,
-     "text": " Downloading, Please wait... Downloading, Please wait... var repositionSpinner = function () { $(\"#divDownloadIndicator\").css(\"margin-top\", ($(document).height() / 2) - ($(\"#divDownloadIndicator\").height() / 2)); }; $(document).ready ( function (e) { repositionSpinner(); if (window.location.toString().indexOf(\"DownloadFileBytes\") ",
-     "links": [
-      "/OnBaseAgendaOnline/Images/Loading_Dots_290x60.gif",
-      "/OnBaseAgendaOnline/bundles/jquery?v=0XJqbYX4tFhH25_G_qbbiJSeeoDaZY7hjfcdPnQjLwc1"
-     ]
+     "pdf": "dFileBytes/Bid_Opening_2199_Agenda_11_17_2026_2_00_00_PM.pdf?documentType=1&meetingId=2199",
+     "meeting": "Bid Opening",
+     "pages": 1,
+     "hits": 0
     },
     {
-     "url": "https://docs.osceola.org/OnBaseAgendaOnline/Documents/ViewDocument/Bid_Opening_2199_Agenda_11_17_2026_2_00_00_PM.pdf?meetingId=2199&documentType=1&itemId=0&publishId=0&isSection=false",
-     "pdf": false,
-     "len": 3396,
-     "text": " Error - OnBase Agenda Online Skip to main content Skip to introduction content Skip to search Hide Media Home Meetings Contact Osceola.org The web page that you have requested is not available Copyright &#169; 2015-2026 Hyland Software, Inc. ",
-     "links": [
-      "/OnBaseAgendaOnline/favicon.ico",
-      "/OnBaseAgendaOnline/bundles/jquery?v=0XJqbYX4tFhH25_G_qbbiJSeeoDaZY7hjfcdPnQjLwc1",
-      "/OnBaseAgendaOnline/bundles/css?v=70WAfh5_Fryuvc09STu6rVeZuOqzlpEN2LfMECCmFrw1",
-      "/OnBaseAgendaOnline/Scripts/bootstrap.bundle-5.1.3.min.js",
-      "/OnBaseAgendaOnline/Style",
-      "/OnBaseAgendaOnline/Images/Osc_OnBase_Logo.png",
-      "/OnBaseAgendaOnline/",
-      "/OnBaseAgendaOnline/Meetings",
-      "/OnBaseAgendaOnline/Home/Contact",
-      "/OnBaseAgendaOnline/Images/OnBase_Logo.png",
-      "/OnBaseAgendaOnline/bundles/corescripts?v=OoIHuCd2Vo-mvl0Mo7yezhFz4lpe-uKKkUPytMkRrQs1"
-     ]
+     "pdf": "/Pre-Applicant_Meeting_2100_Agenda_11_17_2026_9_45_00_AM.pdf?documentType=1&meetingId=2100",
+     "meeting": "Pre-Applicant Meeting",
+     "pages": 3,
+     "hits": 0
     },
     {
-     "url": "https://docs.osceola.org/OnBaseAgendaOnline/Documents/ViewAgenda?meetingId=2199&doctype=1",
-     "pdf": false,
-     "len": 44229,
-     "text": " &lt;A&gt; <img src=\"data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGIAAACHCAYAAADtLIw/AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAHjFSURBVHhe7b0FeJTntve9re2uY3F3d3d34u7uJCFKAkkgJFiCBhIgBAse3N3dihSo0ZZS6orU2/371qSc73zn3d37bD/7/a6zruu+ZjJJJjPrf6+/PPPM5Ff8b/2P1h/+8IeNv1LU46//t/6H6v8+IP7wB3785iGPPn6DB3cv8/mbZ/jw1eO8e/Mo7716kgdy+9cPPuPbb799/Av/d9S/LRDSb7779ke++vgdPrxxgBu753J0S",
-     "links": []
+     "pdf": "pment_Review_Committee_2099_Agenda_11_17_2026_9_30_00_AM.pdf?documentType=1&meetingId=2099",
+     "meeting": "Development Review Committee",
+     "pages": 4,
+     "hits": 0
     },
     {
-     "url": "https://docs.osceola.org/OnBaseAgendaOnline/Meetings/ViewMeeting?id=2199&doctype=1",
-     "pdf": false,
-     "len": 17934,
-     "text": " Bid Opening - 11/17/2026 2:00:00 PM - OnBase Agenda Online Skip to main content Skip to introduction content Skip to search Hide Media Home Meetings Contact Osceola.org const TABLET_SIZE = 900; const PHONE_SIZE = 480; var g_isLargeDisplay = true; var g_documentType = '1'; var g_mediaAndItemViewTop = 0; $(window).on('load', function () { loadAgendaDocument(g_documentType); }); $(document).ready(fu",
-     "links": [
-      "/OnBaseAgendaOnline/favicon.ico",
-      "/OnBaseAgendaOnline/bundles/jquery?v=0XJqbYX4tFhH25_G_qbbiJSeeoDaZY7hjfcdPnQjLwc1",
-      "/OnBaseAgendaOnline/bundles/css?v=70WAfh5_Fryuvc09STu6rVeZuOqzlpEN2LfMECCmFrw1",
-      "/OnBaseAgendaOnline/Scripts/bootstrap.bundle-5.1.3.min.js",
-      "/OnBaseAgendaOnline/Style",
-      "/OnBaseAgendaOnline/Images/Osc_OnBase_Logo.png",
-      "/OnBaseAgendaOnline/",
-      "/OnBaseAgendaOnline/Meetings",
-      "/OnBaseAgendaOnline/Home/Contact",
-      "/OnBaseAgendaOnline/Images/OnBase_Logo.png",
-      "/OnBaseAgendaOnline/bundles/corescripts?v=OoIHuCd2Vo-mvl0Mo7yezhFz4lpe-uKKkUPytMkRrQs1"
-     ]
+     "pdf": "Board_of_Commissioners_2193_Agenda_11_16_2026_5_30_00_PM.pdf?documentType=1&meetingId=2193",
+     "meeting": "Board of Commissioners",
+     "pages": 16,
+     "hits": 2
     },
     {
-     "url": "https://docs.osceola.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/Bid_Opening_2199_Agenda_11_17_2026_2_00_00_PM.pdf?documentType=1&meetingId=2199",
-     "pdf": true,
-     "len": 69666,
-     "text": "%PDF-1.7 %\ufffd\ufffd\ufffd\ufffd 5 0 obj >/XObject >>>/Group >>> endobj 6 0 obj >stream x\ufffd\ufffdW\u074a+7 ~\u0015\ufffd\ufffd\ufffdX\ufffd\ufffd\u0018\ufffd\ufffdN2\u0003\ufffd]!\ufffdB\ufffdU\ufffd\ufffdE\ufffd \ufffd\ufffd7\ufffdl\ufffdo\ufffdi\ufffd\ufffd\ufffdM\u0192mI\ufffd'Y\u0003\ufffd\ufffd\ufffd\u001b\u043f\ufffdP\ufffd\ufffd\ufffd\ufffdQ\ufffd\ufffd@y\ufffd\ufffd\ufffd\u000fx\ufffd\ufffd\u0003m=\ufffd%E\ufffdZo\ufffd\u0428O\ufffd\u0003h\ufffd\u0012\ufffd}\ufffd\ufffd\ufffd\ufffd p:\ufffd\ufffdO\ufffdD\ufffd\ufffdY\ufffd\ufffd\ufffdY}U\ufffd]}\ufffd?\ufffd\ufffd\u0002T\ufffd?\u0124l&\ufffdv\ufffdyqR\ufffdO\ufffd\ufffdS\ufffd\ufffdN\ufffd\ufffd\ufffd\ufffd\u0000\ufffddi\ufffd\u0011\ufffd#\ufffdX\ufffd;]\ufffd\ufffd\ufffd\u0007\ufffd\ufffd\u0195\ufffde\ufffd\ufffd\ufffd\ufffd \ufffdHc\ufffd\ufffd\ufffdyl\ufffd^\ufffd\u0000\ufffd.`\ufffd\u0003\ufffdr\ufffdC\ufffd\ufffd\ufffd\ufffd:\ufffd\u000e\ufffd\ufffdZN\u00047X\ufffdpH\ufffd[T\ufffd\ufffd\ufffdM\ufffd%\ufffd}\ufffd\ufffd\ufffd\ufffd?\ufffd\ufffd\ufffd~:A\u0306\u0019\ufffd7_d\ufffd'\ufffd\ufffd\u0014\ufffd\u0010 ^\ufffdMvi\ufffd\ufffd\ufffd\ufffdi\ufffd ' :\ufffdy\ufffd-\ufffd\u0000a\u0444 \ufffd O\ufffd\ufffd:s\ufffd\u05cc\ufffd9I \ufffdGc\ufffd\u02fa|\ufffd> \ufffd\ufffd}Z\ufffd\u0013\ufffd\ufffda][s\ufffd\ufffd\u0010JS $\ufffd\ufffd6x\ufffd\ufffd\ufffd\ufffd\u0017K\u656dq\u001a\ufffd\ufffd",
-     "links": []
+     "pdf": "ndian_Ridge_Villas_CFD_2206_Agenda_11_12_2026_6_00_00_PM.pdf?documentType=1&meetingId=2206",
+     "meeting": "Indian Ridge Villas CFD",
+     "pages": 6,
+     "hits": 0
+    },
+    {
+     "pdf": "dFileBytes/Bid_Opening_2198_Agenda_11_10_2026_2_00_00_PM.pdf?documentType=1&meetingId=2198",
+     "meeting": "Bid Opening",
+     "pages": 1,
+     "hits": 0
     }
-   ]
+   ],
+   "errors": []
   },
   "c-palmbeach:date": {
    "name": "Palm Beach County",
