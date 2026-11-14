@@ -1,31 +1,849 @@
-{"_note": "Governments to test against common agenda platforms. slugs are guesses; domains are the city website for CivicPlus Agenda Center checks.",
+{
  "governments": [
-  {"entity_id": "m-dunedin", "name": "Dunedin", "slugs": ["dunedin", "dunedinfl", "cityofdunedin"], "domains": ["www.dunedingov.com", "www.dunedinfl.net"]},
-  {"entity_id": "m-tarponsprings", "name": "Tarpon Springs", "slugs": ["tarponsprings", "ctsfl", "tarponspringsfl", "cityoftarponsprings"], "domains": ["www.ctsfl.us"]},
-  {"entity_id": "m-largo", "name": "Largo", "slugs": ["largo", "largofl", "cityoflargo"], "domains": ["www.largo.com"]},
-  {"entity_id": "m-pinellaspark", "name": "Pinellas Park", "slugs": ["pinellaspark", "pinellas-park", "cityofpinellaspark"], "domains": ["www.pinellas-park.com"]},
-  {"entity_id": "m-safetyharbor", "name": "Safety Harbor", "slugs": ["safetyharbor", "safetyharborfl", "cityofsafetyharbor"], "domains": ["www.cityofsafetyharbor.com"]},
-  {"entity_id": "m-oldsmar", "name": "Oldsmar", "slugs": ["oldsmar", "oldsmarfl", "cityofoldsmar"], "domains": ["www.myoldsmar.com"]},
-  {"entity_id": "m-gulfport", "name": "Gulfport", "slugs": ["gulfport", "gulfportfl", "mygulfport"], "domains": ["www.mygulfport.us"]},
-  {"entity_id": "m-seminole", "name": "Seminole", "slugs": ["seminole", "myseminole", "cityofseminole"], "domains": ["www.myseminole.com"]},
-  {"entity_id": "m-stpetebeach", "name": "St. Pete Beach", "slugs": ["stpetebeach", "stpetebeachfl"], "domains": ["www.stpetebeach.org"]},
-  {"entity_id": "c-pasco", "name": "Pasco County", "slugs": ["pasco", "pascocounty", "pascocountyfl"], "domains": ["www.pascocountyfl.net"]},
-  {"entity_id": "c-manatee", "name": "Manatee County", "slugs": ["manatee", "manateecounty", "mymanatee"], "domains": ["www.mymanatee.org"]},
-  {"entity_id": "c-sarasota", "name": "Sarasota County", "slugs": ["sarasota", "sarasotacounty", "scgov"], "domains": ["www.scgov.net"]},
-  {"entity_id": "m-sarasota", "name": "Sarasota", "slugs": ["sarasotafl", "cityofsarasota", "sarasotagov"], "domains": ["www.sarasotafl.gov"]},
-  {"entity_id": "m-tampa", "name": "Tampa", "slugs": ["tampa", "tampagov", "cityoftampa"], "domains": ["www.tampa.gov"]},
-  {"entity_id": "m-orlando", "name": "Orlando", "slugs": ["orlando", "cityoforlando", "orlandofl"], "domains": ["www.orlando.gov"]},
-  {"entity_id": "c-orange", "name": "Orange County", "slugs": ["orangecountyfl", "ocfl", "orangecounty"], "domains": ["www.ocfl.net"]},
-  {"entity_id": "c-palmbeach", "name": "Palm Beach County", "slugs": ["pbcgov", "palmbeachcounty", "pbc"], "domains": ["discover.pbcgov.org"]},
-  {"entity_id": "m-westpalmbeach", "name": "West Palm Beach", "slugs": ["wpb", "westpalmbeach", "cityofwpb"], "domains": ["www.wpb.org"]},
-  {"entity_id": "m-miamibeach", "name": "Miami Beach", "slugs": ["miamibeach", "miamibeachfl", "miamibeachgov"], "domains": ["www.miamibeachfl.gov"]},
-  {"entity_id": "m-hollywood", "name": "Hollywood", "slugs": ["hollywoodfl", "hollywood", "cityofhollywood"], "domains": ["www.hollywoodfl.org"]},
-  {"entity_id": "m-capecoral", "name": "Cape Coral", "slugs": ["capecoral", "capecoralfl"], "domains": ["www.capecoral.gov"]},
-  {"entity_id": "c-lee", "name": "Lee County", "slugs": ["lee", "leegov", "leecounty"], "domains": ["www.leegov.com"]},
-  {"entity_id": "m-tallahassee", "name": "Tallahassee", "slugs": ["tallahassee", "talgov"], "domains": ["www.talgov.com"]},
-  {"entity_id": "m-gainesville", "name": "Gainesville", "slugs": ["gainesville", "cityofgainesville", "gainesvillefl"], "domains": ["www.gainesvillefl.gov"]},
-  {"entity_id": "c-polk", "name": "Polk County", "slugs": ["polk", "polkcounty", "polkfl"], "domains": ["www.polk-county.net"]},
-  {"entity_id": "c-volusia", "name": "Volusia County", "slugs": ["volusia", "volusiacounty"], "domains": ["www.volusia.org"]},
-  {"entity_id": "c-seminole", "name": "Seminole County", "slugs": ["seminolecounty", "seminolecountyfl"], "domains": ["www.seminolecountyfl.gov"]},
-  {"entity_id": "c-pinellas", "name": "Pinellas County", "slugs": ["pinellas"], "domains": []}
- ]}
+  {
+   "entity_id": "c-miamidade",
+   "name": "Miami-Dade County",
+   "kind": "county",
+   "pop": 2814927,
+   "slugs": [
+    "miamidadecounty",
+    "miamidadecountyfl",
+    "miamidadeco",
+    "miamidade"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-broward",
+   "name": "Broward County",
+   "kind": "county",
+   "pop": 1993535,
+   "slugs": [
+    "browardcounty",
+    "browardcountyfl",
+    "browardco",
+    "broward"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-hillsborough",
+   "name": "Hillsborough County",
+   "kind": "county",
+   "pop": 1575637,
+   "slugs": [
+    "hillsboroughcounty",
+    "hillsboroughcountyfl",
+    "hillsboroughco",
+    "hillsborough"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-palmbeach",
+   "name": "Palm Beach County",
+   "kind": "county",
+   "pop": 1556161,
+   "slugs": [
+    "palmbeachcounty",
+    "palmbeachcountyfl",
+    "palmbeachco",
+    "palmbeach"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-orange",
+   "name": "Orange County",
+   "kind": "county",
+   "pop": 1536045,
+   "slugs": [
+    "orangecounty",
+    "orangecountyfl",
+    "orangeco",
+    "orange"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-pinellas",
+   "name": "Pinellas County",
+   "kind": "county",
+   "pop": 966933,
+   "slugs": [
+    "pinellascounty",
+    "pinellascountyfl",
+    "pinellasco",
+    "pinellas"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-polk",
+   "name": "Polk County",
+   "kind": "county",
+   "pop": 846896,
+   "slugs": [
+    "polkcounty",
+    "polkcountyfl",
+    "polkco",
+    "polk"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-lee",
+   "name": "Lee County",
+   "kind": "county",
+   "pop": 839223,
+   "slugs": [
+    "leecounty",
+    "leecountyfl",
+    "leeco",
+    "lee"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-brevard",
+   "name": "Brevard County",
+   "kind": "county",
+   "pop": 667900,
+   "slugs": [
+    "brevardcounty",
+    "brevardcountyfl",
+    "brevardco",
+    "brevard"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-pasco",
+   "name": "Pasco County",
+   "kind": "county",
+   "pop": 648369,
+   "slugs": [
+    "pascocounty",
+    "pascocountyfl",
+    "pascoco",
+    "pasco"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-volusia",
+   "name": "Volusia County",
+   "kind": "county",
+   "pop": 604533,
+   "slugs": [
+    "volusiacounty",
+    "volusiacountyfl",
+    "volusiaco",
+    "volusia"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-seminole",
+   "name": "Seminole County",
+   "kind": "county",
+   "pop": 495106,
+   "slugs": [
+    "seminolecounty",
+    "seminolecountyfl",
+    "seminoleco",
+    "seminole"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-sarasota",
+   "name": "Sarasota County",
+   "kind": "county",
+   "pop": 487640,
+   "slugs": [
+    "sarasotacounty",
+    "sarasotacountyfl",
+    "sarasotaco",
+    "sarasota"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-osceola",
+   "name": "Osceola County",
+   "kind": "county",
+   "pop": 484915,
+   "slugs": [
+    "osceolacounty",
+    "osceolacountyfl",
+    "osceolaco",
+    "osceola"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-manatee",
+   "name": "Manatee County",
+   "kind": "county",
+   "pop": 466845,
+   "slugs": [
+    "manateecounty",
+    "manateecountyfl",
+    "manateeco",
+    "manatee"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-lake",
+   "name": "Lake County",
+   "kind": "county",
+   "pop": 445881,
+   "slugs": [
+    "lakecounty",
+    "lakecountyfl",
+    "lakeco",
+    "lake"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-marion",
+   "name": "Marion County",
+   "kind": "county",
+   "pop": 433765,
+   "slugs": [
+    "marioncounty",
+    "marioncountyfl",
+    "marionco",
+    "marion"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-collier",
+   "name": "Collier County",
+   "kind": "county",
+   "pop": 413314,
+   "slugs": [
+    "colliercounty",
+    "colliercountyfl",
+    "collierco",
+    "collier"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-stlucie",
+   "name": "St. Lucie County",
+   "kind": "county",
+   "pop": 394074,
+   "slugs": [
+    "stluciecounty",
+    "stluciecountyfl",
+    "stlucieco",
+    "stlucie"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-stjohns",
+   "name": "St. Johns County",
+   "kind": "county",
+   "pop": 348336,
+   "slugs": [
+    "stjohnscounty",
+    "stjohnscountyfl",
+    "stjohnsco",
+    "stjohns"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-escambia",
+   "name": "Escambia County",
+   "kind": "county",
+   "pop": 337728,
+   "slugs": [
+    "escambiacounty",
+    "escambiacountyfl",
+    "escambiaco",
+    "escambia"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-leon",
+   "name": "Leon County",
+   "kind": "county",
+   "pop": 305866,
+   "slugs": [
+    "leoncounty",
+    "leoncountyfl",
+    "leonco",
+    "leon"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-alachua",
+   "name": "Alachua County",
+   "kind": "county",
+   "pop": 298485,
+   "slugs": [
+    "alachuacounty",
+    "alachuacountyfl",
+    "alachuaco",
+    "alachua"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-clay",
+   "name": "Clay County",
+   "kind": "county",
+   "pop": 238605,
+   "slugs": [
+    "claycounty",
+    "claycountyfl",
+    "clayco",
+    "clay"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "c-okaloosa",
+   "name": "Okaloosa County",
+   "kind": "county",
+   "pop": 226193,
+   "slugs": [
+    "okaloosacounty",
+    "okaloosacountyfl",
+    "okaloosaco",
+    "okaloosa"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "name": "Jacksonville",
+   "kind": "city",
+   "pop": 1032601,
+   "slugs": [
+    "jacksonville",
+    "jacksonvillefl",
+    "cityofjacksonville",
+    "jacksonvillegov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-miami",
+   "name": "Miami",
+   "kind": "city",
+   "pop": 478799,
+   "slugs": [
+    "miami",
+    "miamifl",
+    "cityofmiami",
+    "miamigov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-tampa",
+   "name": "Tampa",
+   "kind": "city",
+   "pop": 412684,
+   "slugs": [
+    "tampa",
+    "tampafl",
+    "cityoftampa",
+    "tampagov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-orlando",
+   "name": "Orlando",
+   "kind": "city",
+   "pop": 340681,
+   "slugs": [
+    "orlando",
+    "orlandofl",
+    "cityoforlando",
+    "orlandogov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-stpetersburg",
+   "name": "St. Petersburg",
+   "kind": "city",
+   "pop": 266153,
+   "slugs": [
+    "stpetersburg",
+    "stpetersburgfl",
+    "cityofstpetersburg",
+    "stpetersburggov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-portstlucie",
+   "name": "Port St. Lucie",
+   "kind": "city",
+   "pop": 260194,
+   "slugs": [
+    "portstlucie",
+    "portstluciefl",
+    "cityofportstlucie",
+    "portstluciegov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-hialeah",
+   "name": "Hialeah",
+   "kind": "city",
+   "pop": 232243,
+   "slugs": [
+    "hialeah",
+    "hialeahfl",
+    "cityofhialeah",
+    "hialeahgov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-capecoral",
+   "name": "Cape Coral",
+   "kind": "city",
+   "pop": 222862,
+   "slugs": [
+    "capecoral",
+    "capecoralfl",
+    "cityofcapecoral",
+    "capecoralgov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-tallahassee",
+   "name": "Tallahassee",
+   "kind": "city",
+   "pop": 205623,
+   "slugs": [
+    "tallahassee",
+    "tallahasseefl",
+    "cityoftallahassee",
+    "tallahasseegov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-fortlauderdale",
+   "name": "Fort Lauderdale",
+   "kind": "city",
+   "pop": 192338,
+   "slugs": [
+    "fortlauderdale",
+    "fortlauderdalefl",
+    "cityoffortlauderdale",
+    "fortlauderdalegov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-pembrokepines",
+   "name": "Pembroke Pines",
+   "kind": "city",
+   "pop": 171413,
+   "slugs": [
+    "pembrokepines",
+    "pembrokepinesfl",
+    "cityofpembrokepines",
+    "pembrokepinesgov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-hollywood",
+   "name": "Hollywood",
+   "kind": "city",
+   "pop": 156997,
+   "slugs": [
+    "hollywood",
+    "hollywoodfl",
+    "cityofhollywood",
+    "hollywoodgov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-gainesville",
+   "name": "Gainesville",
+   "kind": "city",
+   "pop": 151275,
+   "slugs": [
+    "gainesville",
+    "gainesvillefl",
+    "cityofgainesville",
+    "gainesvillegov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-palmbay",
+   "name": "Palm Bay",
+   "kind": "city",
+   "pop": 146929,
+   "slugs": [
+    "palmbay",
+    "palmbayfl",
+    "cityofpalmbay",
+    "palmbaygov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-miramar",
+   "name": "Miramar",
+   "kind": "city",
+   "pop": 140807,
+   "slugs": [
+    "miramar",
+    "miramarfl",
+    "cityofmiramar",
+    "miramargov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-coralsprings",
+   "name": "Coral Springs",
+   "kind": "city",
+   "pop": 136062,
+   "slugs": [
+    "coralsprings",
+    "coralspringsfl",
+    "cityofcoralsprings",
+    "coralspringsgov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-westpalmbeach",
+   "name": "West Palm Beach",
+   "kind": "city",
+   "pop": 126944,
+   "slugs": [
+    "westpalmbeach",
+    "westpalmbeachfl",
+    "cityofwestpalmbeach",
+    "westpalmbeachgov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-lakeland",
+   "name": "Lakeland",
+   "kind": "city",
+   "pop": 124725,
+   "slugs": [
+    "lakeland",
+    "lakelandfl",
+    "cityoflakeland",
+    "lakelandgov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-clearwater",
+   "name": "Clearwater",
+   "kind": "city",
+   "pop": 118327,
+   "slugs": [
+    "clearwater",
+    "clearwaterfl",
+    "cityofclearwater",
+    "clearwatergov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-miamigardens",
+   "name": "Miami Gardens",
+   "kind": "city",
+   "pop": 116192,
+   "slugs": [
+    "miamigardens",
+    "miamigardensfl",
+    "cityofmiamigardens",
+    "miamigardensgov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-pompanobeach",
+   "name": "Pompano Beach",
+   "kind": "city",
+   "pop": 115813,
+   "slugs": [
+    "pompanobeach",
+    "pompanobeachfl",
+    "cityofpompanobeach",
+    "pompanobeachgov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-palmcoast",
+   "name": "Palm Coast",
+   "kind": "city",
+   "pop": 110330,
+   "slugs": [
+    "palmcoast",
+    "palmcoastfl",
+    "cityofpalmcoast",
+    "palmcoastgov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-davie",
+   "name": "Davie",
+   "kind": "city",
+   "pop": 107914,
+   "slugs": [
+    "davie",
+    "daviefl",
+    "cityofdavie",
+    "daviegov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-fortmyers",
+   "name": "Fort Myers",
+   "kind": "city",
+   "pop": 102060,
+   "slugs": [
+    "fortmyers",
+    "fortmyersfl",
+    "cityoffortmyers",
+    "fortmyersgov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-bocaraton",
+   "name": "Boca Raton",
+   "kind": "city",
+   "pop": 100897,
+   "slugs": [
+    "bocaraton",
+    "bocaratonfl",
+    "cityofbocaraton",
+    "bocaratongov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-deltona",
+   "name": "Deltona",
+   "kind": "city",
+   "pop": 98792,
+   "slugs": [
+    "deltona",
+    "deltonafl",
+    "cityofdeltona",
+    "deltonagov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-plantation",
+   "name": "Plantation",
+   "kind": "city",
+   "pop": 98437,
+   "slugs": [
+    "plantation",
+    "plantationfl",
+    "cityofplantation",
+    "plantationgov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-sunrise",
+   "name": "Sunrise",
+   "kind": "city",
+   "pop": 98310,
+   "slugs": [
+    "sunrise",
+    "sunrisefl",
+    "cityofsunrise",
+    "sunrisegov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-northport",
+   "name": "North Port",
+   "kind": "city",
+   "pop": 96301,
+   "slugs": [
+    "northport",
+    "northportfl",
+    "cityofnorthport",
+    "northportgov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-melbourne",
+   "name": "Melbourne",
+   "kind": "city",
+   "pop": 88499,
+   "slugs": [
+    "melbourne",
+    "melbournefl",
+    "cityofmelbourne",
+    "melbournegov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-daytonabeach",
+   "name": "Daytona Beach",
+   "kind": "city",
+   "pop": 88144,
+   "slugs": [
+    "daytonabeach",
+    "daytonabeachfl",
+    "cityofdaytonabeach",
+    "daytonabeachgov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-deerfieldbeach",
+   "name": "Deerfield Beach",
+   "kind": "city",
+   "pop": 87712,
+   "slugs": [
+    "deerfieldbeach",
+    "deerfieldbeachfl",
+    "cityofdeerfieldbeach",
+    "deerfieldbeachgov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-kissimmee",
+   "name": "Kissimmee",
+   "kind": "city",
+   "pop": 87664,
+   "slugs": [
+    "kissimmee",
+    "kissimmeefl",
+    "cityofkissimmee",
+    "kissimmeegov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-homestead",
+   "name": "Homestead",
+   "kind": "city",
+   "pop": 85630,
+   "slugs": [
+    "homestead",
+    "homesteadfl",
+    "cityofhomestead",
+    "homesteadgov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-largo",
+   "name": "Largo",
+   "kind": "city",
+   "pop": 84075,
+   "slugs": [
+    "largo",
+    "largofl",
+    "cityoflargo",
+    "largogov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-doral",
+   "name": "Doral",
+   "kind": "city",
+   "pop": 83746,
+   "slugs": [
+    "doral",
+    "doralfl",
+    "cityofdoral",
+    "doralgov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-miamibeach",
+   "name": "Miami Beach",
+   "kind": "city",
+   "pop": 83678,
+   "slugs": [
+    "miamibeach",
+    "miamibeachfl",
+    "cityofmiamibeach",
+    "miamibeachgov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "name": "Boynton Beach",
+   "kind": "city",
+   "pop": 82937,
+   "slugs": [
+    "boyntonbeach",
+    "boyntonbeachfl",
+    "cityofboyntonbeach",
+    "boyntonbeachgov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-lauderhill",
+   "name": "Lauderhill",
+   "kind": "city",
+   "pop": 74772,
+   "slugs": [
+    "lauderhill",
+    "lauderhillfl",
+    "cityoflauderhill",
+    "lauderhillgov"
+   ],
+   "domains": []
+  },
+  {
+   "entity_id": "m-tamarac",
+   "name": "Tamarac",
+   "kind": "city",
+   "pop": 73563,
+   "slugs": [
+    "tamarac",
+    "tamaracfl",
+    "cityoftamarac",
+    "tamaracgov"
+   ],
+   "domains": []
+  }
+ ]
+}

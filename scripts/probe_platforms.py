@@ -22,10 +22,11 @@ CHECKS = {
  "granicus_v3":(lambda s: f"https://{s}.granicus.com/ViewPublisher.php?view_id=3", lambda st, u, b: st == 200 and ("AgendaViewer" in b or "MediaPlayer" in b)),
  "iqm2":       (lambda s: f"https://{s}.iqm2.com/Citizens/Default.aspx", lambda st, u, b: st == 200 and "iqm2" in u.lower() and "Meeting" in b),
  "civicclerk": (lambda s: f"https://{s}.api.civicclerk.com/v1/Events?$top=1", lambda st, u, b: st == 200 and '"value"' in b),
- "primegov":   (lambda s: f"https://{s}.primegov.com/api/v2/PublicPortal/ListUpcomingMeetings", lambda st, u, b: st == 200 and b.strip().startswith("[")),
- "novus":      (lambda s: f"https://{s}.novusagenda.com/agendapublic/", lambda st, u, b: st == 200 and "novus" in b.lower()),
+ "primegov":   (lambda s: f"https://{s}.primegov.com/api/v2/PublicPortal/ListUpcomingMeetings", lambda st, u, b: st == 200 and b.strip().startswith("[") and len(b.strip()) > 2),
  "boarddocs":  (lambda s: f"https://go.boarddocs.com/fl/{s}/Board.nsf/Public", lambda st, u, b: st == 200 and "BoardDocs" in b and "not found" not in b.lower()),
- "escribe":    (lambda s: f"https://pub-{s}.escribemeetings.com/", lambda st, u, b: st == 200 and "escribe" in b.lower()),
+ "civicweb":   (lambda s: f"https://{s}.civicweb.net/Portal/", lambda st, u, b: st == 200 and "civicweb" in u.lower() and "Portal" in b),
+ "onbase":     (lambda s: f"https://{s}.hylandcloud.com/", lambda st, u, b: st in (200, 403) and "hylandcloud" in u),
+ "escribe":    (lambda s: f"https://pub-{s}.escribemeetings.com/", lambda st, u, b: st == 200 and "escribe" in b.lower() and "Meeting" in b),
 }
 
 def probe(g):
