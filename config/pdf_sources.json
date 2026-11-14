@@ -73,6 +73,46 @@
    ],
    "follow": "",
    "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)"
+  },
+  {
+   "entity_id": "m-coralsprings",
+   "name": "Coral Springs",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://coralsprings.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)"
+  },
+  {
+   "entity_id": "m-plantation",
+   "name": "Plantation",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://plantation.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "name": "Sunrise",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)"
+  },
+  {
+   "entity_id": "m-tamarac",
+   "name": "Tamarac",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://tamarac.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)"
   }
  ],
  "sequential": [
@@ -105,6 +145,41 @@
    "entity_id": "m-gainesville",
    "name": "Gainesville",
    "tenant": "gainesvillefl"
+  },
+  {
+   "entity_id": "c-lake",
+   "name": "Lake County",
+   "tenant": "lakecountyfl"
+  },
+  {
+   "entity_id": "m-tallahassee",
+   "name": "Tallahassee",
+   "tenant": "tallahasseefl"
+  },
+  {
+   "entity_id": "m-miamigardens",
+   "name": "Miami Gardens",
+   "tenant": "miamigardensfl"
+  },
+  {
+   "entity_id": "m-davie",
+   "name": "Davie",
+   "tenant": "daviefl"
+  },
+  {
+   "entity_id": "m-melbourne",
+   "name": "Melbourne",
+   "tenant": "melbournefl"
+  },
+  {
+   "entity_id": "m-deerfieldbeach",
+   "name": "Deerfield Beach",
+   "tenant": "deerfieldbeachfl"
+  },
+  {
+   "entity_id": "m-kissimmee",
+   "name": "Kissimmee",
+   "tenant": "kissimmeefl"
   }
  ],
  "_platforms_checked": "CivicPlus Agenda Center RSS feeds were empty for Tarpon Springs, Safety Harbor, Oldsmar, St. Pete Beach (they use other systems). Oldsmar uses CivicWeb (myoldsmar.civicweb.net)."

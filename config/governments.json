@@ -85,6 +85,62 @@
    "candidates": [
     "seminolecountyfl"
    ]
+  },
+  {
+   "entity_id": "c-polk",
+   "name": "Polk County",
+   "candidates": [
+    "polkcountyfl"
+   ]
+  },
+  {
+   "entity_id": "c-lake",
+   "name": "Lake County",
+   "candidates": [
+    "lakecounty"
+   ]
+  },
+  {
+   "entity_id": "c-alachua",
+   "name": "Alachua County",
+   "candidates": [
+    "alachua"
+   ]
+  },
+  {
+   "entity_id": "m-miramar",
+   "name": "Miramar",
+   "candidates": [
+    "miramar"
+   ]
+  },
+  {
+   "entity_id": "m-deltona",
+   "name": "Deltona",
+   "candidates": [
+    "deltona"
+   ]
+  },
+  {
+   "entity_id": "m-northport",
+   "name": "North Port",
+   "candidates": [
+    "cityofnorthport"
+   ]
+  },
+  {
+   "entity_id": "m-doral",
+   "name": "Doral",
+   "candidates": [
+    "doral"
+   ]
+  },
+  {
+   "entity_id": "m-miami",
+   "name": "Miami",
+   "candidates": [
+    "miamifl"
+   ]
   }
  ]
 }
