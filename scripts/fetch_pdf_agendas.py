@@ -97,7 +97,9 @@ def main():
                 ls = links(lu)
             except Exception as e:
                 d["errors"].append(f"listing {lu}: {e}"); continue
-            d["listing"].append({"url": lu, "links": len(ls), "sample": [[u, t] for u, t in ls if re.search(r"(?i)agenda|meeting|council|commission|pdf|onbase|legistar|iqm2|packet", u + " " + t)][:120]})
+            try: head = fetch(lu)[:300]
+            except Exception as e: head = str(e)
+            d["listing"].append({"url": lu, "links": len(ls), "head": head, "sample": [[u, t] for u, t in ls if re.search(r"(?i)agenda|meeting|council|commission|pdf|onbase|legistar|iqm2|packet", u + " " + t)][:120]})
             pages = [lu]
             if follow_re:
                 pages += list(dict.fromkeys(u for u, _ in ls if follow_re.search(u) and u != lu))[:10]

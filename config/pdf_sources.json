@@ -79,6 +79,7 @@
    "name": "Tarpon Springs",
    "platform": "civicplus",
    "listing_urls": [
+    "https://www.ctsfl.us/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=",
     "https://www.ctsfl.us/RSSFeed.aspx?ModID=65&CID=All-0"
    ],
    "follow": "",
@@ -89,6 +90,7 @@
    "name": "Safety Harbor",
    "platform": "civicplus",
    "listing_urls": [
+    "https://www.cityofsafetyharbor.com/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=",
     "https://www.cityofsafetyharbor.com/RSSFeed.aspx?ModID=65&CID=All-0"
    ],
    "follow": "",
@@ -99,6 +101,7 @@
    "name": "Oldsmar",
    "platform": "civicplus",
    "listing_urls": [
+    "https://www.myoldsmar.com/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=",
     "https://www.myoldsmar.com/RSSFeed.aspx?ModID=65&CID=All-0"
    ],
    "follow": "",
@@ -109,6 +112,7 @@
    "name": "St. Pete Beach",
    "platform": "civicplus",
    "listing_urls": [
+    "https://www.stpetebeach.org/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=",
     "https://www.stpetebeach.org/RSSFeed.aspx?ModID=65&CID=All-0"
    ],
    "follow": "",
