@@ -17,11 +17,11 @@
    "entity_id": "m-orlando",
    "name": "Orlando",
    "listing_urls": [
-    "https://www.orlando.gov/Our-Government/Public-Meetings",
-    "https://www.orlando.gov/Our-Government/Mayor-City-Council/Council-Agendas-and-Minutes"
+    "https://www.orlando.gov/Our-Government/Records-and-Documents/City-Council-Minutes-and-Agendas/Current-and-Upcoming-Meetings",
+    "https://www.orlando.gov/Our-Government/Public-Meetings"
    ],
-   "follow": "(?i)/Public-Meetings/(City-Council|Finance-Committee|Budget-Review|Downtown-Development|Firefighters-Pension|Police-Pension|Community-Redevelopment)",
-   "pdf": "(?i)/files/(assets|sharedassets)/.*(agenda|packet|minutes)[^/]*\\.pdf"
+   "follow": "(?i)(/Current-and-Upcoming-Meetings/|/Public-Meetings/(City-Council|Finance-Committee|Budget-Review|Downtown-Development|Community-Redevelopment))",
+   "pdf": "(?i)/files/(assets|sharedassets)/.*\\.pdf"
   },
   {
    "entity_id": "c-miamidade",
@@ -29,7 +29,7 @@
    "listing_urls": [
     "https://www.miamidade.gov/govaction/agendas.asp?Action=Agendas&Oper=DisplayList"
    ],
-   "follow": "(?i)agendas\\.asp\\?.*(meet|key|Oper=Display)(?!List)",
+   "follow": "(?i)Oper=DisplayAgenda&Agenda=(CC|APC|AASC|IITC|TRNS|RTRC|GETC|JAGE|PC)&",
    "pdf": "(?i)legistarfiles/Agendas/\\d+\\.pdf"
   },
   {
@@ -40,7 +40,8 @@
     "https://tampagov.hylandcloud.com/251agendaonline/Meetings"
    ],
    "follow": "(?i)251agendaonline/Meetings/(ViewMeeting|Details)",
-   "pdf": "(?i)251agendaonline/(Documents/(ViewAgenda|ViewDocument|DownloadFile)|.*\\.pdf)"
+   "pdf": "(?i)251agendaonline/(Documents/(ViewAgenda|ViewDocument|DownloadFile)|.*\\.pdf)",
+   "_status": "OnBase Agenda Online page loads its meeting list with JavaScript; needs a dedicated reader"
   }
  ]
 }

@@ -95,18 +95,23 @@ def main():
         cands = list(dict((u, (u, t, p)) for u, t, p in cands).values())
         d["pdfs_found"] = len(cands)
         d["pdf_sample"] = [c[0] for c in cands[:15]]
-        new = [c for c in cands if c[0] not in seen][: cfg["max_new_pdfs_per_run"]]
+        def udate(u):
+            m = re.search(r"(20\d\d)[-_ ]?(\d\d)[-_ ]?(\d\d)", urllib.parse.unquote(u))
+            try: return datetime(int(m[1]), int(m[2]), int(m[3]), tzinfo=timezone.utc) if m else None
+            except ValueError: return None
+        recent = [c for c in cands if not udate(c[0]) or (now - udate(c[0])).days <= 45]
+        new = [c for c in recent if c[0] not in seen][: cfg["max_new_pdfs_per_run"]]
         for u, title, page in new:
             try:
                 data = fetch(u, binary=True)
                 if not data[:5].startswith(b"%PDF"):
                     seen[u] = {"status": "not_pdf", "date": now.date().isoformat()}; continue
                 pages = pdf_text(data, cfg["max_pages_per_pdf"])
-                hits = passages(pages, min_amount)
+                hits = passages(pages, min_amount)[:30]
                 for pno, top, ch in hits:
                     store["items"].append({
                         "entity_id": src["entity_id"], "government": src["name"], "client": "pdf",
-                        "body": title or None, "meeting_date": None, "agenda_number": f"p.{pno}",
+                        "body": title or None, "meeting_date": udate(u).date().isoformat() if udate(u) else None, "agenda_number": f"p.{pno}",
                         "file_number": None, "title": ch, "max_amount": top,
                         "keywords": sorted({m.group(0).lower() for m in KEYWORDS.finditer(ch)}),
                         "meeting_url": page, "agenda_pdf": u, "found_utc": now.isoformat(timespec="seconds")})
