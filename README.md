@@ -21,13 +21,13 @@ Run manually from the Actions tab with "Run workflow".
 
 | Platform | Reader | Governments |
 |---|---|---|
-| Legistar API | fetch_agendas.py | Fort Lauderdale, Broward, Pinellas, Hillsborough, Clearwater, Jacksonville, Seminole County, Hollywood (Pinellas Park, Palm Beach County, Gainesville connect but return no meetings) |
+| Legistar API | fetch_agendas.py | Fort Lauderdale, Broward, Pinellas, Hillsborough, Clearwater, Jacksonville, Seminole County, Hollywood, Port St. Lucie (Pinellas Park, Palm Beach County, Gainesville connect but return no meetings) |
 | CivicClerk API | fetch_pdf_agendas.py | Tarpon Springs, St. Pete Beach, Seminole (city), Gainesville |
 | Granicus RSS | fetch_pdf_agendas.py | Dunedin, Seminole (city), Polk (Tampa and Miami Beach feeds empty) |
 | Agenda PDFs on city site | fetch_pdf_agendas.py | St. Petersburg |
 | Numbered PDFs | fetch_pdf_agendas.py | Miami-Dade County |
 | Date-patterned PDFs | fetch_pdf_agendas.py | Palm Beach County, Manatee County |
-| OnBase Agenda Online | fetch_pdf_agendas.py | Tampa, Osceola County (uses the DownloadFileBytes endpoint; DownloadFile returns a spinner page) |
+| OnBase Agenda Online | fetch_pdf_agendas.py | Tampa, Osceola County, Sarasota County (older version, HTML fallback) (uses the DownloadFileBytes endpoint; DownloadFile returns a spinner page) |
 
 Not yet covered: Orlando, St. Johns County and Cape Coral (eScribe), Pasco County, Daytona Beach, Largo and Miami Gardens (CivicWeb), Miami (iQM2), Miami Beach (PrimeGov), Oldsmar (CivicWeb).
 
