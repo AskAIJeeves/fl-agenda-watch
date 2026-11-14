@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-14T21:22:11+00:00",
- "count": 78,
+ "generated_utc": "2026-11-14T21:27:39+00:00",
+ "count": 81,
  "items": [
   {
    "entity_id": "m-jacksonville",
@@ -1628,6 +1628,68 @@
    ]
   },
   {
+   "entity_id": "m-portstlucie",
+   "government": "Port St. Lucie",
+   "client": "psl",
+   "body": "City Council",
+   "meeting_date": "2026-11-09",
+   "agenda_number": null,
+   "file_number": null,
+   "title": "Notice:  No stenographic record by a certified court reporter will be made of the foregoing meeting.  Accordingly, if a person decides to appeal any decision made by the City Council, board, agency, or commission with respect to any matter considered at such meeting or hearing, he or she will need a record of the proceedings, and that, for such purpose, he or she may need to ensure that a verbatim record of the proceedings is made, which record includes the testimony and evidence upon which the appeal is to be based. (F.S. 286.0105)\r\n\r\nNotice:  Public and Press are invited to review all the backup for Council Meetings. Copies are available in the City Clerk\u2019s Office on Wednesday, Thursday, Friday, and Monday before Council Meetings. On Meeting nights, a copy of backup material is available in the reception area of City Hall for public review.  Please leave the agenda and backup material in good order for others to review.\r\n\r\nNotice:  Anyone wishing to speak during Public to be Heard and/or on any Agenda Item is asked to fill out a white Participation Card and submit it to the City Clerk. Participation Cards are available on the side table in Council Chambers, at the reception desk in City Hall lobby, and in the City Clerk\u2019s Office.\r\n\r\nNotice:  In accordance with the Americans with Disabilities Act of 1990, persons needing special accommodation to participate in this proceeding should contact the City Clerk\u2019s Office at 772-871-5157.\r\n\r\nAs a courtesy to the people recording the",
+   "max_amount": null,
+   "keywords": [
+    "city hall"
+   ],
+   "meeting_url": "https://psl.legistar.com/MeetingDetail.aspx?LEGID=2726&GID=747&G=597EF6D8-E9C6-40B6-8081-E988A76B06A6",
+   "agenda_pdf": "https://psl.legistar1.com/psl/meetings/2026/11/2726_A_City_Council_26-11-09_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-09"
+    },
+    {
+     "body": "City Council Workshop",
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-23"
+    },
+    {
+     "body": "Community Redevelopment Agency",
+     "meeting_date": "2026-11-23"
+    },
+    {
+     "body": "Special City Council",
+     "meeting_date": "2026-11-23"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-portstlucie",
+   "government": "Port St. Lucie",
+   "client": "psl",
+   "body": "City Council",
+   "meeting_date": "2026-11-09",
+   "agenda_number": "7.k",
+   "file_number": "2026-1030",
+   "title": "Approve Sole Source Contract #20270002 for the Purchase of Micron Filters for the Reverse Osmosis (RO) Plants.",
+   "max_amount": null,
+   "keywords": [
+    "contract",
+    "purchase",
+    "sole source"
+   ],
+   "meeting_url": "https://psl.legistar.com/MeetingDetail.aspx?LEGID=2726&GID=747&G=597EF6D8-E9C6-40B6-8081-E988A76B06A6",
+   "agenda_pdf": "https://psl.legistar1.com/psl/meetings/2026/11/2726_A_City_Council_26-11-09_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-09"
+    }
+   ]
+  },
+  {
    "entity_id": "m-jacksonville",
    "government": "Jacksonville",
    "client": "jaxcityc",
@@ -1910,6 +1972,28 @@
    "appearances": [
     {
      "body": "Council Meeting",
+     "meeting_date": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-portstlucie",
+   "government": "Port St. Lucie",
+   "client": "psl",
+   "body": "Special Magistrate Hearing",
+   "meeting_date": "2026-11-18",
+   "agenda_number": null,
+   "file_number": null,
+   "title": "NOTICE: Anyone who requires a translator, auxiliary aid or service for effective communication, or a modification of policies or procedures to participate in a City of Port St. Lucie program, service, or activity, should contact the office of Natalie Cabrera, Human Resources Department, City of Port St. Lucie, City Hall Bldg. A, 121 S.W. Port St. Lucie Boulevard, Port St. Lucie, Florida 34984-5099, as soon as possible but no later than 48 hours before the scheduled event.",
+   "max_amount": null,
+   "keywords": [
+    "city hall"
+   ],
+   "meeting_url": "https://psl.legistar.com/MeetingDetail.aspx?LEGID=2791&GID=747&G=597EF6D8-E9C6-40B6-8081-E988A76B06A6",
+   "agenda_pdf": "https://psl.legistar1.com/psl/meetings/2026/11/2791_A_Special_Magistrate_Hearing_26-11-18_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Special Magistrate Hearing",
      "meeting_date": "2026-11-18"
     }
    ]

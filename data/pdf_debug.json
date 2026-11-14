@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-14T21:22:40+00:00",
+ "generated_utc": "2026-11-14T21:28:18+00:00",
  "sources": {
   "m-stpetersburg": {
    "name": "St. Petersburg",
@@ -2824,22 +2824,22 @@
    "pdfs_found": 103,
    "scanned": [
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3591",
-     "pages": 3,
-     "hits": 0
-    },
-    {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3589",
-     "pages": 4,
-     "hits": 0
-    },
-    {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3580",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3573",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3576",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3575",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3569",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3570",
      "pages": 4,
      "hits": 0
     }
@@ -3290,7 +3290,18 @@
     }
    ],
    "pdfs_found": 100,
-   "scanned": [],
+   "scanned": [
+    {
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=497",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=495",
+     "pages": 1,
+     "hits": 0
+    }
+   ],
    "errors": [],
    "pdf_sample": [
     "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=573",
@@ -3805,23 +3816,23 @@
    "pdfs_found": 111,
    "scanned": [
     {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=329",
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=325",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=324",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=327",
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=323",
      "pages": 1,
-     "hits": 0
+     "hits": 2
     },
     {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=326",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=328",
-     "pages": 1,
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=322",
+     "pages": 3,
      "hits": 0
     }
    ],
@@ -4258,22 +4269,7 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2564",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2544",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2552",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2529",
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2516",
      "pages": 1,
      "hits": 0
     }
@@ -4711,24 +4707,24 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1218",
-     "pages": 134,
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1210",
+     "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1215",
-     "pages": 4,
-     "hits": 0
-    },
-    {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
-     "pages": 353,
-     "hits": 9
-    },
-    {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212",
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1207",
      "pages": 400,
-     "hits": 8
+     "hits": 6
+    },
+    {
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1205",
+     "pages": 270,
+     "hits": 4
+    },
+    {
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1203",
+     "pages": 1,
+     "hits": 0
     }
    ],
    "errors": [],
@@ -5706,22 +5702,22 @@
    "pdfs_found": 103,
    "scanned": [
     {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=370",
-     "pages": 1,
-     "hits": 1
-    },
-    {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=369",
-     "pages": 1,
-     "hits": 3
-    },
-    {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=368",
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=365",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=367",
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=366",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=364",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=363",
      "pages": 1,
      "hits": 0
     }
@@ -5875,15 +5871,7 @@
     "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10195,plainText=false)",
     "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10197,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10211,plainText=false)",
-     "pages": 1,
-     "hits": 0,
-     "chars": 1308,
-     "meeting_date": "2026-11-30"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-deerfieldbeach:civicclerk": {
@@ -5952,32 +5940,32 @@
    ],
    "scanned": [
     {
-     "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5356,plainText=false)",
-     "pages": 400,
-     "hits": 3,
-     "chars": 625717,
-     "meeting_date": "2026-11-10"
+     "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5371,plainText=false)",
+     "pages": 58,
+     "hits": 0,
+     "chars": 27767,
+     "meeting_date": "2026-11-17"
     },
     {
-     "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5374,plainText=false)",
+     "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5364,plainText=false)",
      "pages": 2,
      "hits": 0,
-     "chars": 2279,
-     "meeting_date": "2026-11-17"
+     "chars": 1653,
+     "meeting_date": "2026-11-18"
     },
     {
-     "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5376,plainText=false)",
-     "pages": 14,
+     "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5366,plainText=false)",
+     "pages": 113,
      "hits": 0,
-     "chars": 14300,
-     "meeting_date": "2026-11-17"
+     "chars": 122028,
+     "meeting_date": "2026-11-18"
     },
     {
-     "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5370,plainText=false)",
+     "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5372,plainText=false)",
      "pages": 1,
      "hits": 0,
-     "chars": 1054,
-     "meeting_date": "2026-11-17"
+     "chars": 1659,
+     "meeting_date": "2026-11-18"
     }
    ],
    "errors": []
@@ -5999,30 +5987,6 @@
      "meeting": "City Council Special Call - November 17, 2026",
      "pages": 7,
      "hits": 0
-    },
-    {
-     "pdf": "ng_-_November_12,_2026_2940_Agenda_11_12_2026_5_01_00_PM.pdf?documentType=1&meetingId=2940",
-     "meeting": "City Council Evening - November 12, 2026",
-     "pages": 10,
-     "hits": 0
-    },
-    {
-     "pdf": "ar_-_November_12,_2026_2939_Agenda_11_12_2026_9_00_00_AM.pdf?documentType=1&meetingId=2939",
-     "meeting": "CRA Regular - November 12, 2026",
-     "pages": 11,
-     "hits": 0
-    },
-    {
-     "pdf": "ndum_-_November_5,_2026_3000_Agenda_11_5_2026_9_00_00_AM.pdf?documentType=1&meetingId=3000",
-     "meeting": "City Council Regular Addendum - November 5, 2026",
-     "pages": 3,
-     "hits": 0
-    },
-    {
-     "pdf": "ular_-_November_5,_2026_2938_Agenda_11_5_2026_9_00_00_AM.pdf?documentType=1&meetingId=2938",
-     "meeting": "City Council Regular - November 5, 2026",
-     "pages": 28,
-     "hits": 9
     }
    ],
    "errors": []
@@ -6058,19 +6022,29 @@
      "hits": 2
     },
     {
-     "pdf": "ndian_Ridge_Villas_CFD_2206_Agenda_11_12_2026_6_00_00_PM.pdf?documentType=1&meetingId=2206",
-     "meeting": "Indian Ridge Villas CFD",
-     "pages": 6,
+     "pdf": "Public_Comments_Meeting_2144_Agenda_11_9_2026_5_30_00_PM.pdf?documentType=1&meetingId=2144",
+     "meeting": "BCC Public Comments Meeting",
+     "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "dFileBytes/Bid_Opening_2198_Agenda_11_10_2026_2_00_00_PM.pdf?documentType=1&meetingId=2198",
-     "meeting": "Bid Opening",
+     "pdf": "ytes/Crescent_Lakes_CFD_2207_Agenda_11_5_2026_6_00_00_PM.pdf?documentType=1&meetingId=2207",
+     "meeting": "Crescent Lakes CFD",
      "pages": 1,
      "hits": 0
     }
    ],
    "errors": []
+  },
+  "c-sarasota:onbase": {
+   "name": "Sarasota County",
+   "platform": "onbase",
+   "meetings": 0,
+   "with_agenda": 0,
+   "scanned": [],
+   "errors": [
+    "meeting list: Expecting value: line 1 column 1 (char 0)"
+   ]
   },
   "c-palmbeach:date": {
    "name": "Palm Beach County",
