@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-14T19:06:51+00:00",
+ "generated_utc": "2026-11-14T19:08:19+00:00",
  "sources": {
   "m-stpetersburg": {
    "name": "St. Petersburg",
@@ -568,24 +568,19 @@
    "pdfs_found": 463,
    "scanned": [
     {
-     "pdf": "https://www.stpete.org/2026-11-05 Council Agenda AddsDeletes.pdf?t=202611041054340",
+     "pdf": "https://www.stpete.org/2026-10-08 Council Agenda AddsDeletes.pdf?t=202610021209000",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://www.stpete.org/2026-10-15 Agenda Packet w. Updated AddsDeletes.pdf?t=202610151351220",
+     "pdf": "https://www.stpete.org/2026-10-01 Agenda Packet w. Revised AddsDeletes2 (compressed).pdf?t=202609291016560",
      "pages": 400,
-     "hits": 3
+     "hits": 30
     },
     {
-     "pdf": "https://www.stpete.org/2026-10-15 Council Agenda AddsDeletes.pdf?t=202610151312000",
-     "pages": 3,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.stpete.org/2026-10-08 Agenda Packet w. AddsDeletes.pdf?t=202610021209320",
-     "pages": 74,
-     "hits": 0
+     "pdf": "https://www.stpete.org/2026-10-01 Council Agenda AddsDeletes.pdf?t=202609291016010",
+     "pages": 1,
+     "hits": 1
     }
    ],
    "errors": [],
@@ -2488,90 +2483,102 @@
    "name": "Miami-Dade County",
    "probed": [
     [
-     5561,
-     "ok"
-    ],
-    [
-     5562,
-     "ok"
-    ],
-    [
-     5563,
-     "ok"
-    ],
-    [
-     5564,
+     5570,
      "miss"
     ],
     [
-     5565,
+     5571,
      "ok"
     ],
     [
-     5566,
+     5572,
      "ok"
     ],
     [
-     5567,
+     5573,
+     "miss"
+    ],
+    [
+     5574,
      "ok"
     ],
     [
-     5568,
+     5575,
+     "miss"
+    ],
+    [
+     5576,
      "ok"
     ],
     [
-     5569,
+     5577,
+     "miss"
+    ],
+    [
+     5578,
+     "ok"
+    ],
+    [
+     5579,
+     "ok"
+    ],
+    [
+     5580,
+     "ok"
+    ],
+    [
+     5581,
      "ok"
     ]
    ],
    "scanned": [
     {
-     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5561.pdf",
-     "pages": 9,
-     "hits": 4,
-     "meeting_date": "2026-10-14"
+     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5571.pdf",
+     "pages": 6,
+     "hits": 3,
+     "meeting_date": "2026-11-09"
     },
     {
-     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5562.pdf",
-     "pages": 7,
+     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5572.pdf",
+     "pages": 6,
      "hits": 1,
-     "meeting_date": "2026-10-14"
+     "meeting_date": "2026-11-09"
     },
     {
-     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5563.pdf",
+     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5574.pdf",
+     "pages": 9,
+     "hits": 1,
+     "meeting_date": "2026-11-10"
+    },
+    {
+     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5576.pdf",
      "pages": 6,
-     "hits": 0,
-     "meeting_date": "2026-10-14"
+     "hits": 2,
+     "meeting_date": "2026-11-10"
     },
     {
-     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5565.pdf",
-     "pages": 8,
-     "hits": 3,
-     "meeting_date": "2026-10-15"
+     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5578.pdf",
+     "pages": 19,
+     "hits": 8,
+     "meeting_date": "2026-11-12"
     },
     {
-     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5566.pdf",
-     "pages": 6,
-     "hits": 3,
-     "meeting_date": "2026-10-15"
-    },
-    {
-     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5567.pdf",
-     "pages": 3,
-     "hits": 0,
-     "meeting_date": "2026-10-16"
-    },
-    {
-     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5568.pdf",
-     "pages": 50,
-     "hits": 9,
-     "meeting_date": "2026-10-20"
-    },
-    {
-     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5569.pdf",
+     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5579.pdf",
      "pages": 7,
+     "hits": 2,
+     "meeting_date": "2026-11-12"
+    },
+    {
+     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5580.pdf",
+     "pages": 67,
+     "hits": 12,
+     "meeting_date": "2026-11-17"
+    },
+    {
+     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5581.pdf",
+     "pages": 11,
      "hits": 0,
-     "meeting_date": "2026-10-22"
+     "meeting_date": "2026-11-19"
     }
    ],
    "errors": []
