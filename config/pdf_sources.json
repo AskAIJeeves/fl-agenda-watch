@@ -244,6 +244,12 @@
    "name": "Osceola County",
    "base": "https://docs.osceola.org/OnBaseAgendaOnline",
    "skip": "(?i)special magistrate|code enforcement|value adjustment|bid and proposal"
+  },
+  {
+   "entity_id": "c-sarasota",
+   "name": "Sarasota County",
+   "base": "https://egenda.scgov.net/OnBaseAgendaOnline",
+   "skip": "(?i)special magistrate|code enforcement|value adjustment"
   }
  ]
 }
