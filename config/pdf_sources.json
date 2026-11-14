@@ -73,50 +73,6 @@
    ],
    "follow": "",
    "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)"
-  },
-  {
-   "entity_id": "m-tarponsprings",
-   "name": "Tarpon Springs",
-   "platform": "civicplus",
-   "listing_urls": [
-    "https://www.ctsfl.us/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=",
-    "https://www.ctsfl.us/RSSFeed.aspx?ModID=65&CID=All-0"
-   ],
-   "follow": "",
-   "pdf": "(?i)AgendaCenter/ViewFile/Agenda/"
-  },
-  {
-   "entity_id": "m-safetyharbor",
-   "name": "Safety Harbor",
-   "platform": "civicplus",
-   "listing_urls": [
-    "https://www.cityofsafetyharbor.com/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=",
-    "https://www.cityofsafetyharbor.com/RSSFeed.aspx?ModID=65&CID=All-0"
-   ],
-   "follow": "",
-   "pdf": "(?i)AgendaCenter/ViewFile/Agenda/"
-  },
-  {
-   "entity_id": "m-oldsmar",
-   "name": "Oldsmar",
-   "platform": "civicplus",
-   "listing_urls": [
-    "https://www.myoldsmar.com/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=",
-    "https://www.myoldsmar.com/RSSFeed.aspx?ModID=65&CID=All-0"
-   ],
-   "follow": "",
-   "pdf": "(?i)AgendaCenter/ViewFile/Agenda/"
-  },
-  {
-   "entity_id": "m-stpetebeach",
-   "name": "St. Pete Beach",
-   "platform": "civicplus",
-   "listing_urls": [
-    "https://www.stpetebeach.org/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=",
-    "https://www.stpetebeach.org/RSSFeed.aspx?ModID=65&CID=All-0"
-   ],
-   "follow": "",
-   "pdf": "(?i)AgendaCenter/ViewFile/Agenda/"
   }
  ],
  "sequential": [
@@ -128,5 +84,28 @@
    "probe_ahead": 40,
    "_note": "Agenda PDFs are numbered by meeting key; the reader checks the next keys after the last one found."
   }
- ]
+ ],
+ "civicclerk": [
+  {
+   "entity_id": "m-tarponsprings",
+   "name": "Tarpon Springs",
+   "tenant": "tarponspringsfl"
+  },
+  {
+   "entity_id": "m-stpetebeach",
+   "name": "St. Pete Beach",
+   "tenant": "stpetebeachfl"
+  },
+  {
+   "entity_id": "m-seminolecity",
+   "name": "Seminole (city)",
+   "tenant": "seminolefl"
+  },
+  {
+   "entity_id": "m-gainesville",
+   "name": "Gainesville",
+   "tenant": "gainesvillefl"
+  }
+ ],
+ "_platforms_checked": "CivicPlus Agenda Center RSS feeds were empty for Tarpon Springs, Safety Harbor, Oldsmar, St. Pete Beach (they use other systems). Oldsmar uses CivicWeb (myoldsmar.civicweb.net)."
 }

@@ -3,7 +3,7 @@ download new agenda PDFs, and flag passages with large dollar amounts.
 Adds items to data/pdf_items.json (same fields as agenda_items) and keeps
 data/pdf_seen.json so each PDF is scanned once. Needs: pypdf."""
 import io, json, re, sys, time, urllib.request, urllib.parse
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from html.parser import HTMLParser
 from pathlib import Path
 from pypdf import PdfReader
@@ -152,6 +152,41 @@ def main():
             except Exception as e:
                 d["errors"].append(f"pdf {u}: {e}")
             time.sleep(1)
+    # CivicClerk tenants: list recent/upcoming events with published agenda files via the public API
+    for cc in cfg.get("civicclerk", []):
+        d = debug[cc["entity_id"] + ":civicclerk"] = {"name": cc["name"], "platform": "civicclerk", "events": 0, "files": [], "scanned": [], "errors": []}
+        base = f"https://{cc['tenant']}.api.civicclerk.com/v1"
+        start = (now - timedelta(days=10)).strftime("%Y-%m-%dT00:00:00Z")
+        try:
+            q = urllib.parse.urlencode({"$filter": f"startDateTime ge {start}", "$orderby": "startDateTime asc", "$top": "40"}, safe="$ :")
+            evs = json.loads(fetch(f"{base}/Events?{q}")).get("value", [])
+        except Exception as e:
+            d["errors"].append(f"events: {e}"); continue
+        d["events"] = len(evs)
+        todo = []
+        for ev in evs:
+            for f in ev.get("publishedFiles") or []:
+                if re.search(r"(?i)agenda|packet", (f.get("type") or "") + " " + (f.get("name") or "")) and f.get("fileId"):
+                    u = f"{base}/Meetings/GetMeetingFileStream(fileId={f['fileId']},plainText=false)"
+                    todo.append((u, ev.get("eventName") or ev.get("categoryName"), (ev.get("startDateTime") or "")[:10]))
+        d["files"] = [t[0] for t in todo[:10]]
+        for u, body, mdate in [t for t in todo if t[0] not in seen][: cfg["max_new_pdfs_per_run"]]:
+            try:
+                data = fetch(u, binary=True)
+                if not data[:5].startswith(b"%PDF"):
+                    seen[u] = {"status": "not_pdf", "date": now.date().isoformat()}; d["errors"].append(f"not pdf: {u} {data[:80]!r}"); continue
+                pages = pdf_text(data, cfg["max_pages_per_pdf"]); hits = passages(pages, min_amount)[:30]
+                for pno, top, ch in hits:
+                    store["items"].append({"entity_id": cc["entity_id"], "government": cc["name"], "client": "civicclerk",
+                        "body": body, "meeting_date": mdate, "agenda_number": f"p.{pno}", "file_number": None, "title": ch,
+                        "max_amount": top, "keywords": sorted({m.group(0).lower() for m in KEYWORDS.finditer(ch)}),
+                        "meeting_url": f"https://{cc['tenant']}.portal.civicclerk.com/", "agenda_pdf": u, "found_utc": now.isoformat(timespec="seconds")})
+                seen[u] = {"status": "ok", "pages": len(pages), "hits": len(hits), "date": now.date().isoformat()}
+                d["scanned"].append({"pdf": u, "pages": len(pages), "hits": len(hits), "meeting_date": mdate})
+            except Exception as e:
+                d["errors"].append(f"pdf {u}: {e}")
+            time.sleep(1)
+
     # numbered PDFs (Miami-Dade): probe keys after the last one found
     state_p = ROOT / "data/pdf_state.json"
     state = json.loads(state_p.read_text()) if state_p.exists() else {}
