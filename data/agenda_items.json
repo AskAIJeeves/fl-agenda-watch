@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-14T19:09:49+00:00",
- "count": 36,
+ "generated_utc": "2026-11-14T19:28:54+00:00",
+ "count": 42,
  "items": [
   {
    "entity_id": "m-jacksonville",
@@ -324,6 +324,50 @@
    ]
   },
   {
+   "entity_id": "c-seminole",
+   "government": "Seminole County",
+   "client": "seminolecountyfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "26.",
+   "file_number": "2026-0955",
+   "title": "Approve and authorize the Chairman to execute a Resolution implementing Budget Amendment Request (BAR) #26-050 to facilitate the closeout of the First and Second Generation Infrastructure Sales Tax Funds; to move $3,681,310 in existing projects to the Third Generation Sales Tax Fund; and recognize $350,000 in miscellaneous revenues; and establish $313,009 in interfund transfers to reimburse the Sales Tax Funds for grant related expenditures made in a prior year. Net amount of the BAR is $663,009. Countywide (Timothy Jecks, Budget Director)",
+   "max_amount": 3681310.0,
+   "keywords": [],
+   "meeting_url": "https://seminolecountyfl.legistar.com/MeetingDetail.aspx?LEGID=3595&GID=921&G=E2DF9C83-4A2C-4390-86EE-5C088F5B9D50",
+   "agenda_pdf": "https://seminolecountyfl.legistar1.com/seminolecountyfl/meetings/2026/11/3595_A_Board_of_County_Commissioners_26-11-10_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-seminole",
+   "government": "Seminole County",
+   "client": "seminolecountyfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "11.",
+   "file_number": "2026-0970",
+   "title": "Approve and authorize the Chairman to execute the proposed negotiated Settlement Agreement in the Seminole County v. Benchmark Construction Co., Inc. & Liberty Mutual Insurance Company matters (Case Nos. 2025-CA-1123 & 2025-CA-1143) for the total amount of $3,650,000.00 and execute the Notice of Amendment to the Termination for Cause against Benchmark Construction Co., Inc., Countywide (Kate Latorre, County Attorney)",
+   "max_amount": 3650000.0,
+   "keywords": [
+    "agreement",
+    "construction",
+    "settlement"
+   ],
+   "meeting_url": "https://seminolecountyfl.legistar.com/MeetingDetail.aspx?LEGID=3595&GID=921&G=E2DF9C83-4A2C-4390-86EE-5C088F5B9D50",
+   "agenda_pdf": "https://seminolecountyfl.legistar1.com/seminolecountyfl/meetings/2026/11/3595_A_Board_of_County_Commissioners_26-11-10_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
    "entity_id": "c-broward",
    "government": "Broward County",
    "client": "broward",
@@ -642,6 +686,48 @@
    ]
   },
   {
+   "entity_id": "c-seminole",
+   "government": "Seminole County",
+   "client": "seminolecountyfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "24.",
+   "file_number": "2026-0923",
+   "title": "Approve and authorize the Chairman to execute a Resolution implementing the Budget Amendment Request (BAR) #27-003 in the Public Safety Grants Fund (Federal) to appropriate funding in the amount of $1,900,000 for the awarded Department of Justice Technology and Equipment Program (TEP) grant to upgrade radios at the Seminole County Sheriff\u2019s Office by the Office of Emergency Management. Countywide (Alan Harris, Emergency Management Director)",
+   "max_amount": 1900000.0,
+   "keywords": [],
+   "meeting_url": "https://seminolecountyfl.legistar.com/MeetingDetail.aspx?LEGID=3595&GID=921&G=E2DF9C83-4A2C-4390-86EE-5C088F5B9D50",
+   "agenda_pdf": "https://seminolecountyfl.legistar1.com/seminolecountyfl/meetings/2026/11/3595_A_Board_of_County_Commissioners_26-11-10_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-seminole",
+   "government": "Seminole County",
+   "client": "seminolecountyfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "10.",
+   "file_number": "2026-0958",
+   "title": "Approve and authorize the Chairman to execute a Resolution implementing Budget Amendment Request (BAR) #27-005 in General Fund in the amount of $1,879,698.17 to carryforward a portion of funds returned to the Board from the closeout of the Sheriff\u2019s Office FY 2025/26 accounts, including $1,000,000 for an overhaul of the Alert 1 Helicopter Engine and $879,698.17 for other purchase commitments not completed by 9/30/2026. Countywide (Lisa Spriggs, Chief of Administrative Services)",
+   "max_amount": 1879698.0,
+   "keywords": [
+    "purchase"
+   ],
+   "meeting_url": "https://seminolecountyfl.legistar.com/MeetingDetail.aspx?LEGID=3595&GID=921&G=E2DF9C83-4A2C-4390-86EE-5C088F5B9D50",
+   "agenda_pdf": "https://seminolecountyfl.legistar1.com/seminolecountyfl/meetings/2026/11/3595_A_Board_of_County_Commissioners_26-11-10_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
    "entity_id": "c-broward",
    "government": "Broward County",
    "client": "broward",
@@ -773,6 +859,26 @@
    ]
   },
   {
+   "entity_id": "c-seminole",
+   "government": "Seminole County",
+   "client": "seminolecountyfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "27.",
+   "file_number": "2026-0855",
+   "title": "Approve and authorize the Chairman to execute a Resolution implementing the Budget Amendment Request (BAR) #27-001 in the Transportation Grant Fund to appropriate funding in the amount of $1,427,316 for program funding for Micro-Transit services. Countywide (Timothy Jecks, Budget Director)  Requesting Department - County Manager\u2019s Office",
+   "max_amount": 1427316.0,
+   "keywords": [],
+   "meeting_url": "https://seminolecountyfl.legistar.com/MeetingDetail.aspx?LEGID=3595&GID=921&G=E2DF9C83-4A2C-4390-86EE-5C088F5B9D50",
+   "agenda_pdf": "https://seminolecountyfl.legistar1.com/seminolecountyfl/meetings/2026/11/3595_A_Board_of_County_Commissioners_26-11-10_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
    "entity_id": "m-jacksonville",
    "government": "Jacksonville",
    "client": "jaxcityc",
@@ -823,6 +929,28 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-seminole",
+   "government": "Seminole County",
+   "client": "seminolecountyfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "30.",
+   "file_number": "2026-0910",
+   "title": "Approve and authorize the Chairman to execute a three-year Tourist Development Tax Funding agreement with the Central Florida Zoological Society, Inc., in the amount of $350,000 per year for fiscal years 2027, 2028, and 2029, for a total of $1,050,000 in funding allocation for marketing, advertising, maintenance, enhancements, repairs, and improvements. Countywide (Guilherme Cunha, Economic Development and Tourism Director)",
+   "max_amount": 1050000.0,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://seminolecountyfl.legistar.com/MeetingDetail.aspx?LEGID=3595&GID=921&G=E2DF9C83-4A2C-4390-86EE-5C088F5B9D50",
+   "agenda_pdf": "https://seminolecountyfl.legistar1.com/seminolecountyfl/meetings/2026/11/3595_A_Board_of_County_Commissioners_26-11-10_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
     }
    ]
   },

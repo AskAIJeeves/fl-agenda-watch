@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-14T19:10:08+00:00",
+ "generated_utc": "2026-11-14T19:29:14+00:00",
  "sources": {
   "m-stpetersburg": {
    "name": "St. Petersburg",
@@ -2394,66 +2394,1249 @@
     "https://www.orlando.gov/files/sharedassets/public/council/virtualmeetinginstructions_publicmeetingsv2.pdf"
    ]
   },
+  "m-dunedin": {
+   "name": "Dunedin",
+   "listing": [
+    {
+     "url": "https://dunedin.granicus.com/ViewPublisher.php?view_id=2",
+     "links": 1624,
+     "sample": [
+      [
+       "https://dunedin.granicus.com/home.aspx?page=departments/commission/commission",
+       "City Commission"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1594",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1619",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1611",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=1019",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=1012",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=1007",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=1003",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=998",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=995",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=988",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=985",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=979",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=969",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=962",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=960",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=955",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=953",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=948",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=945",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=940",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=933",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=930",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=928",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=921",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=915",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=912",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=903",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=896",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=893",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=888",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=881",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=877",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=874",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=871",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=864",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=860",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=854",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=847",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=841",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=838",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=832",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=826",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=823",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=812",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=807",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=802",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=796",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=793",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=790",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=781",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=777",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=770",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=771",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=761",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=758",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=755",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=738",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=730",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=727",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=722",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=718",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=711",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=707",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=702",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=692",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=686",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=682",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=675",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=671",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=668",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=661",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=658",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=655",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=648",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=647",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=645",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=641",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=635",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=628",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=626",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=622",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=618",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=613",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=608",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=603",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=600",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=594",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=591",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=586",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=581",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=578",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=575",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=572",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=562",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=554",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=551",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=545",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=544",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=538",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=534",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=533",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=531",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=526",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=521",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=517",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=513",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=507",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=505",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=503",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=500",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=497",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=494",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=488",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=485",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=480",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=475",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=472",
+       "Agenda"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=469",
+       "Agenda"
+      ]
+     ]
+    }
+   ],
+   "pdfs_found": 423,
+   "scanned": [],
+   "errors": [
+    "pdf https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1594: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'granicus_production_attachments.s3.amazonaws.com'. (_ssl.c:1011)>",
+    "pdf https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1619: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'granicus_production_attachments.s3.amazonaws.com'. (_ssl.c:1011)>",
+    "pdf https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1611: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'granicus_production_attachments.s3.amazonaws.com'. (_ssl.c:1011)>"
+   ],
+   "pdf_sample": [
+    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1594",
+    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1619",
+    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1611",
+    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=1019",
+    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=1012",
+    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=1007",
+    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=1003",
+    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=998",
+    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=995",
+    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=988",
+    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=985",
+    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=979",
+    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=969",
+    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=962",
+    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=960"
+   ]
+  },
   "m-tampa": {
    "name": "Tampa",
    "listing": [
     {
-     "url": "https://tampagov.hylandcloud.com/251agendaonline/",
-     "links": 11,
+     "url": "https://tampa.granicus.com/ViewPublisher.php?view_id=1",
+     "links": 7,
      "sample": [
       [
-       "https://tampagov.hylandcloud.com/251agendaonline/#main-content",
-       "Skip to main content"
-      ],
-      [
-       "https://tampagov.hylandcloud.com/251agendaonline/#intro-content",
-       "Skip to introduction content"
-      ],
-      [
-       "https://tampagov.hylandcloud.com/251agendaonline/#search-content",
-       "Skip to search"
-      ],
-      [
-       "https://tampagov.hylandcloud.com/251agendaonline/",
-       "Home"
-      ],
-      [
-       "https://tampagov.hylandcloud.com/251agendaonline/Meetings",
-       "All Meetings"
-      ],
-      [
-       "https://www.tampa.gov/city-clerk/info/onbase",
-       "Help"
+       "https://tampa.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+       "Agenda"
       ]
      ]
-    },
+    }
+   ],
+   "pdfs_found": 0,
+   "scanned": [],
+   "errors": [],
+   "pdf_sample": []
+  },
+  "m-seminolecity": {
+   "name": "Seminole (city)",
+   "listing": [
     {
-     "url": "https://tampagov.hylandcloud.com/251agendaonline/Meetings",
-     "links": 10,
+     "url": "https://myseminole.granicus.com/ViewPublisher.php?view_id=1",
+     "links": 488,
      "sample": [
       [
-       "https://tampagov.hylandcloud.com/251agendaonline/Meetings#main-content",
-       "Skip to main content"
+       "https://myseminole.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+       "Agenda"
       ],
       [
-       "https://tampagov.hylandcloud.com/251agendaonline/Meetings#intro-content",
-       "Skip to introduction content"
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=573",
+       "Agenda"
       ],
       [
-       "https://tampagov.hylandcloud.com/251agendaonline/Meetings#search-content",
-       "Skip to search"
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=569",
+       "Agenda"
       ],
       [
-       "https://tampagov.hylandcloud.com/251agendaonline/",
-       "Home"
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=567",
+       "Agenda"
       ],
       [
-       "https://tampagov.hylandcloud.com/251agendaonline/Meetings",
-       "All Meetings"
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=568",
+       "Agenda"
       ],
       [
-       "https://www.tampa.gov/city-clerk/info/onbase",
-       "Help"
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=564",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=562",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=560",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=558",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=555",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=554",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=552",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=549",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=548",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=542",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=544",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=543",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=541",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=538",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=537",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=534",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=533",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=530",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=529",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=525",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=524",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=520",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=521",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=517",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=514",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=507",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=508",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=505",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=504",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=502",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=499",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=497",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=495",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=493",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=491",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=489",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=488",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=484",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=483",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=482",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=477",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=476",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=475",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=472",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=470",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=467",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=466",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=465",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=462",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=461",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=459",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=453",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=452",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=450",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=446",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=444",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=445",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=440",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=441",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=439",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=436",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=432",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=431",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=425",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=424",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=423",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=419",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=416",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=414",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=411",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=410",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=408",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=407",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=405",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=401",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=400",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=399",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=395",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=394",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=393",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=392",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=389",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=385",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=384",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=382",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=380",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=377",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=376",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=372",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=371",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=370",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=369",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=365",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=360",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=359",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=356",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=355",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=351",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=350",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=349",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=345",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=344",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=343",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=338",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=337",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=335",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=330",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=329",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=328",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=325",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=319",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=318",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=316",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=314",
+       "Agenda"
+      ],
+      [
+       "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=312",
+       "Agenda"
+      ]
+     ]
+    }
+   ],
+   "pdfs_found": 236,
+   "scanned": [
+    {
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=573",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=569",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=567",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=568",
+     "pages": 1,
+     "hits": 0
+    }
+   ],
+   "errors": [],
+   "pdf_sample": [
+    "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=573",
+    "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=569",
+    "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=567",
+    "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=568",
+    "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=564",
+    "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=562",
+    "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=560",
+    "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=558",
+    "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=555",
+    "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=554",
+    "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=552",
+    "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=549",
+    "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=548",
+    "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=542",
+    "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=544"
+   ]
+  },
+  "c-polk": {
+   "name": "Polk County",
+   "listing": [
+    {
+     "url": "https://polk.granicus.com/ViewPublisher.php?view_id=1",
+     "links": 4,
+     "sample": [
+      [
+       "https://polk.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+       "Agenda"
+      ]
+     ]
+    }
+   ],
+   "pdfs_found": 0,
+   "scanned": [],
+   "errors": [],
+   "pdf_sample": []
+  },
+  "m-miamibeach": {
+   "name": "Miami Beach",
+   "listing": [
+    {
+     "url": "https://miamibeachfl.granicus.com/ViewPublisher.php?view_id=1",
+     "links": 4,
+     "sample": [
+      [
+       "https://miamibeachfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+       "Agenda"
+      ]
+     ]
+    }
+   ],
+   "pdfs_found": 0,
+   "scanned": [],
+   "errors": [],
+   "pdf_sample": []
+  },
+  "m-tarponsprings": {
+   "name": "Tarpon Springs",
+   "listing": [
+    {
+     "url": "https://www.ctsfl.us/AgendaCenter",
+     "links": 44,
+     "sample": [
+      [
+       "https://www.ctsfl.us/AgendaCenter#contentarea",
+       "Skip to Main Content"
+      ],
+      [
+       "https://www.ctsfl.us/rss.aspx#agendaCenter",
+       "RSS"
+      ],
+      [
+       "https://www.ctsfl.us/list.aspx#agendaCenter",
+       "Notify Me\u00ae"
+      ],
+      [
+       "https://www.ctsfl.us/AgendaCenter#categoryList",
+       "Select a Category"
+      ],
+      [
+       "https://www.ctsfl.us/129/Agendas-Minutes",
+       "Agendas & Minutes"
+      ]
+     ]
+    }
+   ],
+   "pdfs_found": 0,
+   "scanned": [],
+   "errors": [],
+   "pdf_sample": []
+  },
+  "m-safetyharbor": {
+   "name": "Safety Harbor",
+   "listing": [
+    {
+     "url": "https://www.cityofsafetyharbor.com/AgendaCenter",
+     "links": 47,
+     "sample": [
+      [
+       "https://www.cityofsafetyharbor.com/AgendaCenter#contentarea",
+       "Skip to Main Content"
+      ],
+      [
+       "https://www.cityofsafetyharbor.com/37/City-Commission",
+       "Government"
+      ],
+      [
+       "https://www.cityofsafetyharbor.com/37/City-Commission",
+       "City Commission"
+      ],
+      [
+       "https://www.cityofsafetyharbor.com/rss.aspx#agendaCenter",
+       "RSS"
+      ],
+      [
+       "https://www.cityofsafetyharbor.com/list.aspx#agendaCenter",
+       "Notify Me"
+      ],
+      [
+       "https://www.cityofsafetyharbor.com/AgendaCenter#categoryList",
+       "Select a Category"
+      ],
+      [
+       "https://www.cityofsafetyharbor.com/557/Streaming-Media",
+       "Meeting Videos, Minutes & Agendas"
+      ]
+     ]
+    }
+   ],
+   "pdfs_found": 0,
+   "scanned": [],
+   "errors": [],
+   "pdf_sample": []
+  },
+  "m-oldsmar": {
+   "name": "Oldsmar",
+   "listing": [
+    {
+     "url": "https://www.myoldsmar.com/AgendaCenter",
+     "links": 44,
+     "sample": [
+      [
+       "https://www.myoldsmar.com/AgendaCenter#contentarea",
+       "Skip to Main Content"
+      ],
+      [
+       "https://www.myoldsmar.com/rss.aspx#agendaCenter",
+       "RSS"
+      ],
+      [
+       "https://www.myoldsmar.com/list.aspx#agendaCenter",
+       "Stay Informed"
+      ],
+      [
+       "https://www.myoldsmar.com/AgendaCenter#categoryList",
+       "Select a Category"
+      ],
+      [
+       "https://www.myoldsmar.com/AgendaCenter",
+       ""
+      ]
+     ]
+    }
+   ],
+   "pdfs_found": 0,
+   "scanned": [],
+   "errors": [],
+   "pdf_sample": []
+  },
+  "m-stpetebeach": {
+   "name": "St. Pete Beach",
+   "listing": [
+    {
+     "url": "https://www.stpetebeach.org/AgendaCenter",
+     "links": 46,
+     "sample": [
+      [
+       "https://www.stpetebeach.org/AgendaCenter#contentarea",
+       "Skip to Main Content"
+      ],
+      [
+       "https://www.stpetebeach.org/rss.aspx#agendaCenter",
+       "RSS"
+      ],
+      [
+       "https://www.stpetebeach.org/list.aspx#agendaCenter",
+       "Notify Me\u00ae"
+      ],
+      [
+       "https://www.stpetebeach.org/AgendaCenter#categoryList",
+       "Select a Category"
+      ],
+      [
+       "https://www.stpetebeach.org/250/Agendas-Minutes",
+       "Agendas & Minutes"
       ]
      ]
     }

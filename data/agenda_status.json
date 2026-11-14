@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-14T19:09:49+00:00",
- "count": 36,
+ "generated_utc": "2026-11-14T19:28:54+00:00",
+ "count": 42,
  "governments": {
   "m-fortlauderdale": {
    "name": "Fort Lauderdale",
@@ -8,13 +8,6 @@
    "client": "fortlauderdale",
    "events": 6,
    "flagged": 4
-  },
-  "c-miamidade": {
-   "name": "Miami-Dade County",
-   "status": "ok",
-   "client": "miamidade",
-   "events": 0,
-   "flagged": 0
   },
   "c-broward": {
    "name": "Broward County",
@@ -37,11 +30,6 @@
    "events": 2,
    "flagged": 0
   },
-  "m-stpetersburg": {
-   "name": "St. Petersburg",
-   "status": "failed",
-   "error": "stpetersburg: HTTP Error 500: Internal Server Error"
-  },
   "m-clearwater": {
    "name": "Clearwater",
    "status": "ok",
@@ -56,22 +44,40 @@
    "events": 10,
    "flagged": 47
   },
-  "m-orlando": {
-   "name": "Orlando",
-   "status": "failed",
-   "error": "cityoforlando: HTTP Error 500: Internal Server Error"
-  },
-  "m-miami": {
-   "name": "Miami",
+  "m-pinellaspark": {
+   "name": "Pinellas Park",
    "status": "ok",
-   "client": "miamifl",
+   "client": "pinellaspark",
    "events": 0,
    "flagged": 0
   },
-  "m-tampa": {
-   "name": "Tampa",
-   "status": "failed",
-   "error": "tampagov: HTTP Error 500: Internal Server Error"
+  "c-palmbeach": {
+   "name": "Palm Beach County",
+   "status": "ok",
+   "client": "pbc",
+   "events": 0,
+   "flagged": 0
+  },
+  "m-hollywood": {
+   "name": "Hollywood",
+   "status": "ok",
+   "client": "hollywoodfl",
+   "events": 2,
+   "flagged": 0
+  },
+  "m-gainesville": {
+   "name": "Gainesville",
+   "status": "ok",
+   "client": "gainesville",
+   "events": 0,
+   "flagged": 0
+  },
+  "c-seminole": {
+   "name": "Seminole County",
+   "status": "ok",
+   "client": "seminolecountyfl",
+   "events": 5,
+   "flagged": 6
   }
  }
 }
