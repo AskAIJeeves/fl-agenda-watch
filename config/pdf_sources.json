@@ -1,19 +1,46 @@
 {
-  "_note": "Governments without a usable agenda feed. The reader opens each listing page, optionally follows meeting-page links one level, finds agenda PDFs, and scans new ones for dollar amounts. Patterns are regexes on the full link URL.",
-  "max_new_pdfs_per_run": 4,
-  "max_pages_per_pdf": 400,
-  "sources": [
-    {"entity_id": "m-stpetersburg", "name": "St. Petersburg",
-     "listing_urls": ["https://www.stpete.org/government/meetings___agendas/"],
-     "follow": "", "pdf": "(?i)(council|cow|agenda|packet)[^/]*\\.pdf"},
-    {"entity_id": "m-orlando", "name": "Orlando",
-     "listing_urls": ["https://www.orlando.gov/Our-Government/Public-Meetings"],
-     "follow": "(?i)/Public-Meetings/City-Council", "pdf": "(?i)(\\.pdf|/files/assets/)"},
-    {"entity_id": "c-miamidade", "name": "Miami-Dade County",
-     "listing_urls": ["https://www.miamidade.gov/govaction/commagenda.asp"],
-     "follow": "(?i)(agenda|meeting).*\\.asp", "pdf": "(?i)legistarfiles/Agendas/\\d+\\.pdf"},
-    {"entity_id": "m-tampa", "name": "Tampa",
-     "listing_urls": ["https://www.tampa.gov/node/73436", "https://www.tampa.gov/agendas"],
-     "follow": "(?i)(onbase|agenda)", "pdf": "(?i)(\\.pdf|onbase.*(doc|agenda))"}
-  ]
+ "_note": "Governments without a usable agenda feed. The reader opens each listing page, optionally follows meeting-page links one level, finds agenda PDFs, and scans new ones for dollar amounts. Patterns are regexes on the full link URL.",
+ "max_new_pdfs_per_run": 4,
+ "max_pages_per_pdf": 400,
+ "sources": [
+  {
+   "entity_id": "m-stpetersburg",
+   "name": "St. Petersburg",
+   "listing_urls": [
+    "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
+    "http://www.stpete.org/calendar.php?calendar=9"
+   ],
+   "follow": "(?i)(calendar\\.php\\?.*(event|id)=|council.*agenda|agenda)",
+   "pdf": "(?i)(revize\\.com/.*\\.pdf|agenda[^/]*\\.pdf|packet[^/]*\\.pdf)"
+  },
+  {
+   "entity_id": "m-orlando",
+   "name": "Orlando",
+   "listing_urls": [
+    "https://www.orlando.gov/Our-Government/Public-Meetings",
+    "https://www.orlando.gov/Our-Government/Mayor-City-Council/Council-Agendas-and-Minutes"
+   ],
+   "follow": "(?i)/Public-Meetings/(City-Council|Finance-Committee|Budget-Review|Downtown-Development|Firefighters-Pension|Police-Pension|Community-Redevelopment)",
+   "pdf": "(?i)/files/(assets|sharedassets)/.*(agenda|packet|minutes)[^/]*\\.pdf"
+  },
+  {
+   "entity_id": "c-miamidade",
+   "name": "Miami-Dade County",
+   "listing_urls": [
+    "https://www.miamidade.gov/govaction/agendas.asp?Action=Agendas&Oper=DisplayList"
+   ],
+   "follow": "(?i)agendas\\.asp\\?.*(meet|key|Oper=Display)(?!List)",
+   "pdf": "(?i)legistarfiles/Agendas/\\d+\\.pdf"
+  },
+  {
+   "entity_id": "m-tampa",
+   "name": "Tampa",
+   "listing_urls": [
+    "https://tampagov.hylandcloud.com/251agendaonline/",
+    "https://tampagov.hylandcloud.com/251agendaonline/Meetings"
+   ],
+   "follow": "(?i)251agendaonline/Meetings/(ViewMeeting|Details)",
+   "pdf": "(?i)251agendaonline/(Documents/(ViewAgenda|ViewDocument|DownloadFile)|.*\\.pdf)"
+  }
+ ]
 }

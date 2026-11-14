@@ -84,7 +84,7 @@ def main():
             d["listing"].append({"url": lu, "links": len(ls), "sample": [[u, t] for u, t in ls if re.search(r"(?i)agenda|meeting|council|commission|pdf|onbase|legistar|iqm2|packet", u + " " + t)][:120]})
             pages = [lu]
             if follow_re:
-                pages += list(dict.fromkeys(u for u, _ in ls if follow_re.search(u) and u != lu))[:6]
+                pages += list(dict.fromkeys(u for u, _ in ls if follow_re.search(u) and u != lu))[:10]
             for pu in pages:
                 try:
                     pl = ls if pu == lu else links(pu)
