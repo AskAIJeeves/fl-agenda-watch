@@ -1,502 +1,577 @@
 [
  {
-  "entity_id": "m-dunedin",
-  "name": "Dunedin",
+  "entity_id": "c-miamidade",
+  "name": "Miami-Dade County",
+  "kind": "county",
+  "pop": 2814927,
   "slugs": [
-   "dunedin",
-   "dunedinfl",
-   "cityofdunedin"
+   "miamidadecounty",
+   "miamidadecountyfl",
+   "miamidadeco",
+   "miamidade"
   ],
-  "domains": [
-   "www.dunedingov.com",
-   "www.dunedinfl.net"
-  ],
-  "hits": [
-   {
-    "platform": "granicus_v2",
-    "slug": "dunedin",
-    "url": "https://dunedin.granicus.com/ViewPublisher.php?view_id=2"
-   },
-   {
-    "platform": "novus",
-    "slug": "dunedin",
-    "url": "https://dunedin.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "dunedinfl",
-    "url": "https://dunedinfl.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "cityofdunedin",
-    "url": "https://cityofdunedin.novusagenda.com/agendapublic/"
-   }
-  ],
-  "checks": 30
- },
- {
-  "entity_id": "m-tarponsprings",
-  "name": "Tarpon Springs",
-  "slugs": [
-   "tarponsprings",
-   "ctsfl",
-   "tarponspringsfl",
-   "cityoftarponsprings"
-  ],
-  "domains": [
-   "www.ctsfl.us"
-  ],
-  "hits": [
-   {
-    "platform": "novus",
-    "slug": "tarponsprings",
-    "url": "https://tarponsprings.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "ctsfl",
-    "url": "https://ctsfl.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "civicclerk",
-    "slug": "tarponspringsfl",
-    "url": "https://tarponspringsfl.api.civicclerk.com/v1/Events?$top=1"
-   },
-   {
-    "platform": "novus",
-    "slug": "tarponspringsfl",
-    "url": "https://tarponspringsfl.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "cityoftarponsprings",
-    "url": "https://cityoftarponsprings.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "civicplus_agendacenter",
-    "url": "https://www.ctsfl.us/AgendaCenter"
-   }
-  ],
-  "checks": 40
- },
- {
-  "entity_id": "m-largo",
-  "name": "Largo",
-  "slugs": [
-   "largo",
-   "largofl",
-   "cityoflargo"
-  ],
-  "domains": [
-   "www.largo.com"
-  ],
-  "hits": [
-   {
-    "platform": "novus",
-    "slug": "largo",
-    "url": "https://largo.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "largofl",
-    "url": "https://largofl.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "cityoflargo",
-    "url": "https://cityoflargo.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "homepage_links",
-    "url": "https://www.largo.com/",
-    "links": [
-     "https://library.municode.com/fl/largo/codes/code_of_ordinances"
-    ]
-   }
-  ],
-  "checks": 30
- },
- {
-  "entity_id": "m-pinellaspark",
-  "name": "Pinellas Park",
-  "slugs": [
-   "pinellaspark",
-   "pinellas-park",
-   "cityofpinellaspark"
-  ],
-  "domains": [
-   "www.pinellas-park.com"
-  ],
+  "domains": [],
   "hits": [
    {
     "platform": "legistar",
-    "slug": "pinellaspark",
-    "url": "https://webapi.legistar.com/v1/pinellaspark/bodies?$top=1"
-   },
-   {
-    "platform": "granicus",
-    "slug": "pinellaspark",
-    "url": "https://pinellaspark.granicus.com/ViewPublisher.php?view_id=1"
+    "slug": "miamidade",
+    "url": "https://webapi.legistar.com/v1/miamidade/bodies?$top=1"
    },
    {
     "platform": "granicus_v2",
-    "slug": "pinellaspark",
-    "url": "https://pinellaspark.granicus.com/ViewPublisher.php?view_id=2"
+    "slug": "miamidade",
+    "url": "https://miamidade.granicus.com/ViewPublisher.php?view_id=2"
    },
    {
     "platform": "granicus_v3",
-    "slug": "pinellaspark",
-    "url": "https://pinellaspark.granicus.com/ViewPublisher.php?view_id=3"
-   },
-   {
-    "platform": "novus",
-    "slug": "pinellaspark",
-    "url": "https://pinellaspark.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "pinellas-park",
-    "url": "https://pinellas-park.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "cityofpinellaspark",
-    "url": "https://cityofpinellaspark.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "civicplus_agendacenter",
-    "url": "https://www.pinellas-park.com/AgendaCenter"
+    "slug": "miamidade",
+    "url": "https://miamidade.granicus.com/ViewPublisher.php?view_id=3"
    }
   ],
-  "checks": 30
+  "checks": 44
  },
  {
-  "entity_id": "m-safetyharbor",
-  "name": "Safety Harbor",
+  "entity_id": "c-broward",
+  "name": "Broward County",
+  "kind": "county",
+  "pop": 1993535,
   "slugs": [
-   "safetyharbor",
-   "safetyharborfl",
-   "cityofsafetyharbor"
+   "browardcounty",
+   "browardcountyfl",
+   "browardco",
+   "broward"
   ],
-  "domains": [
-   "www.cityofsafetyharbor.com"
-  ],
+  "domains": [],
   "hits": [
    {
-    "platform": "novus",
-    "slug": "safetyharbor",
-    "url": "https://safetyharbor.novusagenda.com/agendapublic/"
+    "platform": "legistar",
+    "slug": "broward",
+    "url": "https://webapi.legistar.com/v1/broward/bodies?$top=1"
    },
    {
-    "platform": "novus",
-    "slug": "safetyharborfl",
-    "url": "https://safetyharborfl.novusagenda.com/agendapublic/"
+    "platform": "granicus_v2",
+    "slug": "broward",
+    "url": "https://broward.granicus.com/ViewPublisher.php?view_id=2"
    },
    {
-    "platform": "novus",
-    "slug": "cityofsafetyharbor",
-    "url": "https://cityofsafetyharbor.novusagenda.com/agendapublic/"
+    "platform": "granicus_v3",
+    "slug": "broward",
+    "url": "https://broward.granicus.com/ViewPublisher.php?view_id=3"
    },
    {
-    "platform": "civicplus_agendacenter",
-    "url": "https://www.cityofsafetyharbor.com/AgendaCenter"
+    "platform": "onbase",
+    "slug": "broward",
+    "url": "https://broward.hylandcloud.com/"
    }
   ],
-  "checks": 30
+  "checks": 44
  },
  {
-  "entity_id": "m-oldsmar",
-  "name": "Oldsmar",
+  "entity_id": "c-hillsborough",
+  "name": "Hillsborough County",
+  "kind": "county",
+  "pop": 1575637,
   "slugs": [
-   "oldsmar",
-   "oldsmarfl",
-   "cityofoldsmar"
+   "hillsboroughcounty",
+   "hillsboroughcountyfl",
+   "hillsboroughco",
+   "hillsborough"
   ],
-  "domains": [
-   "www.myoldsmar.com"
-  ],
+  "domains": [],
   "hits": [
    {
-    "platform": "novus",
-    "slug": "oldsmar",
-    "url": "https://oldsmar.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "oldsmarfl",
-    "url": "https://oldsmarfl.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "cityofoldsmar",
-    "url": "https://cityofoldsmar.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "civicplus_agendacenter",
-    "url": "https://www.myoldsmar.com/AgendaCenter"
-   },
-   {
-    "platform": "homepage_links",
-    "url": "https://www.myoldsmar.com/",
-    "links": [
-     "https://myoldsmar.civicweb.net/Portal/"
-    ]
-   }
-  ],
-  "checks": 30
- },
- {
-  "entity_id": "m-gulfport",
-  "name": "Gulfport",
-  "slugs": [
-   "gulfport",
-   "gulfportfl",
-   "mygulfport"
-  ],
-  "domains": [
-   "www.mygulfport.us"
-  ],
-  "hits": [
-   {
-    "platform": "novus",
-    "slug": "gulfport",
-    "url": "https://gulfport.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "gulfportfl",
-    "url": "https://gulfportfl.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "mygulfport",
-    "url": "https://mygulfport.novusagenda.com/agendapublic/"
-   }
-  ],
-  "checks": 30
- },
- {
-  "entity_id": "m-seminole",
-  "name": "Seminole",
-  "slugs": [
-   "seminole",
-   "myseminole",
-   "cityofseminole"
-  ],
-  "domains": [
-   "www.myseminole.com"
-  ],
-  "hits": [
-   {
-    "platform": "novus",
-    "slug": "seminole",
-    "url": "https://seminole.novusagenda.com/agendapublic/"
+    "platform": "legistar",
+    "slug": "hillsboroughcounty",
+    "url": "https://webapi.legistar.com/v1/hillsboroughcounty/bodies?$top=1"
    },
    {
     "platform": "granicus",
-    "slug": "myseminole",
-    "url": "https://myseminole.granicus.com/ViewPublisher.php?view_id=1"
+    "slug": "hillsboroughcounty",
+    "url": "https://hillsboroughcounty.granicus.com/ViewPublisher.php?view_id=1"
    },
    {
-    "platform": "novus",
-    "slug": "myseminole",
-    "url": "https://myseminole.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "cityofseminole",
-    "url": "https://cityofseminole.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "civicplus_agendacenter",
-    "url": "https://www.myseminole.com/AgendaCenter"
-   },
-   {
-    "platform": "homepage_links",
-    "url": "https://www.myseminole.com/",
-    "links": [
-     "https://seminolefl.portal.civicclerk.com/"
-    ]
+    "platform": "escribe",
+    "slug": "hillsborough",
+    "url": "https://pub-hillsborough.escribemeetings.com/"
    }
   ],
-  "checks": 30
+  "checks": 44
  },
  {
-  "entity_id": "m-stpetebeach",
-  "name": "St. Pete Beach",
+  "entity_id": "c-palmbeach",
+  "name": "Palm Beach County",
+  "kind": "county",
+  "pop": 1556161,
   "slugs": [
-   "stpetebeach",
-   "stpetebeachfl"
+   "palmbeachcounty",
+   "palmbeachcountyfl",
+   "palmbeachco",
+   "palmbeach"
   ],
-  "domains": [
-   "www.stpetebeach.org"
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "c-orange",
+  "name": "Orange County",
+  "kind": "county",
+  "pop": 1536045,
+  "slugs": [
+   "orangecounty",
+   "orangecountyfl",
+   "orangeco",
+   "orange"
   ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "c-pinellas",
+  "name": "Pinellas County",
+  "kind": "county",
+  "pop": 966933,
+  "slugs": [
+   "pinellascounty",
+   "pinellascountyfl",
+   "pinellasco",
+   "pinellas"
+  ],
+  "domains": [],
   "hits": [
    {
-    "platform": "novus",
-    "slug": "stpetebeach",
-    "url": "https://stpetebeach.novusagenda.com/agendapublic/"
+    "platform": "legistar",
+    "slug": "pinellas",
+    "url": "https://webapi.legistar.com/v1/pinellas/bodies?$top=1"
    },
    {
-    "platform": "civicclerk",
-    "slug": "stpetebeachfl",
-    "url": "https://stpetebeachfl.api.civicclerk.com/v1/Events?$top=1"
-   },
-   {
-    "platform": "novus",
-    "slug": "stpetebeachfl",
-    "url": "https://stpetebeachfl.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "civicplus_agendacenter",
-    "url": "https://www.stpetebeach.org/AgendaCenter"
+    "platform": "granicus",
+    "slug": "pinellas",
+    "url": "https://pinellas.granicus.com/ViewPublisher.php?view_id=1"
    }
   ],
-  "checks": 20
+  "checks": 44
+ },
+ {
+  "entity_id": "c-polk",
+  "name": "Polk County",
+  "kind": "county",
+  "pop": 846896,
+  "slugs": [
+   "polkcounty",
+   "polkcountyfl",
+   "polkco",
+   "polk"
+  ],
+  "domains": [],
+  "hits": [
+   {
+    "platform": "legistar",
+    "slug": "polkcountyfl",
+    "url": "https://webapi.legistar.com/v1/polkcountyfl/bodies?$top=1"
+   },
+   {
+    "platform": "granicus",
+    "slug": "polkcountyfl",
+    "url": "https://polkcountyfl.granicus.com/ViewPublisher.php?view_id=1"
+   },
+   {
+    "platform": "granicus",
+    "slug": "polk",
+    "url": "https://polk.granicus.com/ViewPublisher.php?view_id=1"
+   }
+  ],
+  "checks": 44
+ },
+ {
+  "entity_id": "c-lee",
+  "name": "Lee County",
+  "kind": "county",
+  "pop": 839223,
+  "slugs": [
+   "leecounty",
+   "leecountyfl",
+   "leeco",
+   "lee"
+  ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "c-brevard",
+  "name": "Brevard County",
+  "kind": "county",
+  "pop": 667900,
+  "slugs": [
+   "brevardcounty",
+   "brevardcountyfl",
+   "brevardco",
+   "brevard"
+  ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
  },
  {
   "entity_id": "c-pasco",
   "name": "Pasco County",
+  "kind": "county",
+  "pop": 648369,
   "slugs": [
-   "pasco",
    "pascocounty",
-   "pascocountyfl"
+   "pascocountyfl",
+   "pascoco",
+   "pasco"
   ],
-  "domains": [
-   "www.pascocountyfl.net"
-  ],
+  "domains": [],
   "hits": [
    {
-    "platform": "novus",
+    "platform": "civicweb",
     "slug": "pasco",
-    "url": "https://pasco.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "pascocounty",
-    "url": "https://pascocounty.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "pascocountyfl",
-    "url": "https://pascocountyfl.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "homepage_links",
-    "url": "https://www.pascocountyfl.net/",
-    "links": [
-     "https://library.municode.com/fl/pasco_county",
-     "https://library.municode.com/fl/pasco_county/codes/code_of_ordinances",
-     "https://library.municode.com/fl/pasco_county/codes/comprehensive_plan",
-     "https://library.municode.com/fl/pasco_county/codes/land_development_code",
-     "https://library.municode.com/fl/pasco_county?web=1&wdLOR=c914931E4-EB97-4F80-AC26-03FC7CBD39F2"
-    ]
+    "url": "https://pasco.civicweb.net/Portal/"
    }
   ],
-  "checks": 30
+  "checks": 44
  },
  {
-  "entity_id": "c-manatee",
-  "name": "Manatee County",
+  "entity_id": "c-volusia",
+  "name": "Volusia County",
+  "kind": "county",
+  "pop": 604533,
   "slugs": [
-   "manatee",
-   "manateecounty",
-   "mymanatee"
+   "volusiacounty",
+   "volusiacountyfl",
+   "volusiaco",
+   "volusia"
   ],
-  "domains": [
-   "www.mymanatee.org"
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "c-seminole",
+  "name": "Seminole County",
+  "kind": "county",
+  "pop": 495106,
+  "slugs": [
+   "seminolecounty",
+   "seminolecountyfl",
+   "seminoleco",
+   "seminole"
   ],
+  "domains": [],
   "hits": [
    {
-    "platform": "novus",
-    "slug": "manatee",
-    "url": "https://manatee.novusagenda.com/agendapublic/"
+    "platform": "legistar",
+    "slug": "seminolecountyfl",
+    "url": "https://webapi.legistar.com/v1/seminolecountyfl/bodies?$top=1"
    },
    {
-    "platform": "novus",
-    "slug": "manateecounty",
-    "url": "https://manateecounty.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "mymanatee",
-    "url": "https://mymanatee.novusagenda.com/agendapublic/"
+    "platform": "granicus",
+    "slug": "seminolecountyfl",
+    "url": "https://seminolecountyfl.granicus.com/ViewPublisher.php?view_id=1"
    }
   ],
-  "checks": 30
+  "checks": 44
  },
  {
   "entity_id": "c-sarasota",
   "name": "Sarasota County",
+  "kind": "county",
+  "pop": 487640,
   "slugs": [
-   "sarasota",
    "sarasotacounty",
-   "scgov"
+   "sarasotacountyfl",
+   "sarasotaco",
+   "sarasota"
   ],
-  "domains": [
-   "www.scgov.net"
-  ],
-  "hits": [
-   {
-    "platform": "novus",
-    "slug": "sarasota",
-    "url": "https://sarasota.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "sarasotacounty",
-    "url": "https://sarasotacounty.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "scgov",
-    "url": "https://scgov.novusagenda.com/agendapublic/"
-   }
-  ],
-  "checks": 30
+  "domains": [],
+  "hits": [],
+  "checks": 44
  },
  {
-  "entity_id": "m-sarasota",
-  "name": "Sarasota",
+  "entity_id": "c-osceola",
+  "name": "Osceola County",
+  "kind": "county",
+  "pop": 484915,
   "slugs": [
-   "sarasotafl",
-   "cityofsarasota",
-   "sarasotagov"
+   "osceolacounty",
+   "osceolacountyfl",
+   "osceolaco",
+   "osceola"
   ],
-  "domains": [
-   "www.sarasotafl.gov"
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "c-manatee",
+  "name": "Manatee County",
+  "kind": "county",
+  "pop": 466845,
+  "slugs": [
+   "manateecounty",
+   "manateecountyfl",
+   "manateeco",
+   "manatee"
   ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "c-lake",
+  "name": "Lake County",
+  "kind": "county",
+  "pop": 445881,
+  "slugs": [
+   "lakecounty",
+   "lakecountyfl",
+   "lakeco",
+   "lake"
+  ],
+  "domains": [],
   "hits": [
    {
-    "platform": "novus",
-    "slug": "sarasotafl",
-    "url": "https://sarasotafl.novusagenda.com/agendapublic/"
+    "platform": "legistar",
+    "slug": "lakecounty",
+    "url": "https://webapi.legistar.com/v1/lakecounty/bodies?$top=1"
    },
    {
-    "platform": "novus",
-    "slug": "cityofsarasota",
-    "url": "https://cityofsarasota.novusagenda.com/agendapublic/"
+    "platform": "granicus",
+    "slug": "lakecounty",
+    "url": "https://lakecounty.granicus.com/ViewPublisher.php?view_id=1"
    },
    {
-    "platform": "novus",
-    "slug": "sarasotagov",
-    "url": "https://sarasotagov.novusagenda.com/agendapublic/"
+    "platform": "civicclerk",
+    "slug": "lakecountyfl",
+    "url": "https://lakecountyfl.api.civicclerk.com/v1/Events?$top=1"
    }
   ],
-  "checks": 30
+  "checks": 44
+ },
+ {
+  "entity_id": "c-marion",
+  "name": "Marion County",
+  "kind": "county",
+  "pop": 433765,
+  "slugs": [
+   "marioncounty",
+   "marioncountyfl",
+   "marionco",
+   "marion"
+  ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "c-collier",
+  "name": "Collier County",
+  "kind": "county",
+  "pop": 413314,
+  "slugs": [
+   "colliercounty",
+   "colliercountyfl",
+   "collierco",
+   "collier"
+  ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "c-stlucie",
+  "name": "St. Lucie County",
+  "kind": "county",
+  "pop": 394074,
+  "slugs": [
+   "stluciecounty",
+   "stluciecountyfl",
+   "stlucieco",
+   "stlucie"
+  ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "c-stjohns",
+  "name": "St. Johns County",
+  "kind": "county",
+  "pop": 348336,
+  "slugs": [
+   "stjohnscounty",
+   "stjohnscountyfl",
+   "stjohnsco",
+   "stjohns"
+  ],
+  "domains": [],
+  "hits": [
+   {
+    "platform": "escribe",
+    "slug": "stjohns",
+    "url": "https://pub-stjohns.escribemeetings.com/"
+   }
+  ],
+  "checks": 44
+ },
+ {
+  "entity_id": "c-escambia",
+  "name": "Escambia County",
+  "kind": "county",
+  "pop": 337728,
+  "slugs": [
+   "escambiacounty",
+   "escambiacountyfl",
+   "escambiaco",
+   "escambia"
+  ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "c-leon",
+  "name": "Leon County",
+  "kind": "county",
+  "pop": 305866,
+  "slugs": [
+   "leoncounty",
+   "leoncountyfl",
+   "leonco",
+   "leon"
+  ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "c-alachua",
+  "name": "Alachua County",
+  "kind": "county",
+  "pop": 298485,
+  "slugs": [
+   "alachuacounty",
+   "alachuacountyfl",
+   "alachuaco",
+   "alachua"
+  ],
+  "domains": [],
+  "hits": [
+   {
+    "platform": "escribe",
+    "slug": "alachuacounty",
+    "url": "https://pub-alachuacounty.escribemeetings.com/"
+   },
+   {
+    "platform": "legistar",
+    "slug": "alachua",
+    "url": "https://webapi.legistar.com/v1/alachua/bodies?$top=1"
+   },
+   {
+    "platform": "granicus_v2",
+    "slug": "alachua",
+    "url": "https://alachua.granicus.com/ViewPublisher.php?view_id=2"
+   },
+   {
+    "platform": "granicus_v3",
+    "slug": "alachua",
+    "url": "https://alachua.granicus.com/ViewPublisher.php?view_id=3"
+   }
+  ],
+  "checks": 44
+ },
+ {
+  "entity_id": "c-clay",
+  "name": "Clay County",
+  "kind": "county",
+  "pop": 238605,
+  "slugs": [
+   "claycounty",
+   "claycountyfl",
+   "clayco",
+   "clay"
+  ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "c-okaloosa",
+  "name": "Okaloosa County",
+  "kind": "county",
+  "pop": 226193,
+  "slugs": [
+   "okaloosacounty",
+   "okaloosacountyfl",
+   "okaloosaco",
+   "okaloosa"
+  ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-jacksonville",
+  "name": "Jacksonville",
+  "kind": "city",
+  "pop": 1032601,
+  "slugs": [
+   "jacksonville",
+   "jacksonvillefl",
+   "cityofjacksonville",
+   "jacksonvillegov"
+  ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-miami",
+  "name": "Miami",
+  "kind": "city",
+  "pop": 478799,
+  "slugs": [
+   "miami",
+   "miamifl",
+   "cityofmiami",
+   "miamigov"
+  ],
+  "domains": [],
+  "hits": [
+   {
+    "platform": "legistar",
+    "slug": "miamifl",
+    "url": "https://webapi.legistar.com/v1/miamifl/bodies?$top=1"
+   },
+   {
+    "platform": "granicus",
+    "slug": "miamifl",
+    "url": "https://miamifl.granicus.com/ViewPublisher.php?view_id=1"
+   },
+   {
+    "platform": "granicus_v3",
+    "slug": "miamifl",
+    "url": "https://miamifl.granicus.com/ViewPublisher.php?view_id=3"
+   }
+  ],
+  "checks": 44
  },
  {
   "entity_id": "m-tampa",
   "name": "Tampa",
+  "kind": "city",
+  "pop": 412684,
   "slugs": [
    "tampa",
-   "tampagov",
-   "cityoftampa"
+   "tampafl",
+   "cityoftampa",
+   "tampagov"
   ],
-  "domains": [
-   "www.tampa.gov"
-  ],
+  "domains": [],
   "hits": [
    {
     "platform": "granicus",
@@ -504,234 +579,179 @@
     "url": "https://tampa.granicus.com/ViewPublisher.php?view_id=1"
    },
    {
-    "platform": "novus",
-    "slug": "tampa",
-    "url": "https://tampa.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
+    "platform": "onbase",
     "slug": "tampagov",
-    "url": "https://tampagov.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "cityoftampa",
-    "url": "https://cityoftampa.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "homepage_links",
-    "url": "https://www.tampa.gov/",
-    "links": [
-     "https://tampagov.hylandcloud.com/221",
-     "https://tampagov.hylandcloud.com/251",
-     "https://tampagov.hylandcloud.com/251agendaonline/"
-    ]
+    "url": "https://tampagov.hylandcloud.com/"
    }
   ],
-  "checks": 30
+  "checks": 44
  },
  {
   "entity_id": "m-orlando",
   "name": "Orlando",
+  "kind": "city",
+  "pop": 340681,
   "slugs": [
    "orlando",
+   "orlandofl",
    "cityoforlando",
-   "orlandofl"
+   "orlandogov"
   ],
-  "domains": [
-   "www.orlando.gov"
-  ],
+  "domains": [],
   "hits": [
-   {
-    "platform": "novus",
-    "slug": "orlando",
-    "url": "https://orlando.novusagenda.com/agendapublic/"
-   },
    {
     "platform": "escribe",
     "slug": "orlando",
     "url": "https://pub-orlando.escribemeetings.com/"
-   },
-   {
-    "platform": "novus",
-    "slug": "cityoforlando",
-    "url": "https://cityoforlando.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "orlandofl",
-    "url": "https://orlandofl.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "homepage_links",
-    "url": "https://www.orlando.gov/",
-    "links": [
-     "https://granicus.com/product/opencities",
-     "https://granicus.com/solution/govaccess/opencities/",
-     "https://gxa.granicus.com/chatbot/app/a1d9a415-6314-3ee6-b1a3-b1940fe74632"
-    ]
    }
   ],
-  "checks": 30
+  "checks": 44
  },
  {
-  "entity_id": "c-orange",
-  "name": "Orange County",
+  "entity_id": "m-stpetersburg",
+  "name": "St. Petersburg",
+  "kind": "city",
+  "pop": 266153,
   "slugs": [
-   "orangecountyfl",
-   "ocfl",
-   "orangecounty"
+   "stpetersburg",
+   "stpetersburgfl",
+   "cityofstpetersburg",
+   "stpetersburggov"
   ],
-  "domains": [
-   "www.ocfl.net"
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-portstlucie",
+  "name": "Port St. Lucie",
+  "kind": "city",
+  "pop": 260194,
+  "slugs": [
+   "portstlucie",
+   "portstluciefl",
+   "cityofportstlucie",
+   "portstluciegov"
   ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-hialeah",
+  "name": "Hialeah",
+  "kind": "city",
+  "pop": 232243,
+  "slugs": [
+   "hialeah",
+   "hialeahfl",
+   "cityofhialeah",
+   "hialeahgov"
+  ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-capecoral",
+  "name": "Cape Coral",
+  "kind": "city",
+  "pop": 222862,
+  "slugs": [
+   "capecoral",
+   "capecoralfl",
+   "cityofcapecoral",
+   "capecoralgov"
+  ],
+  "domains": [],
   "hits": [
    {
-    "platform": "novus",
-    "slug": "orangecountyfl",
-    "url": "https://orangecountyfl.novusagenda.com/agendapublic/"
+    "platform": "onbase",
+    "slug": "capecoral",
+    "url": "https://capecoral.hylandcloud.com/"
    },
    {
-    "platform": "novus",
-    "slug": "ocfl",
-    "url": "https://ocfl.novusagenda.com/agendapublic/"
+    "platform": "escribe",
+    "slug": "capecoral",
+    "url": "https://pub-capecoral.escribemeetings.com/"
    }
   ],
-  "checks": 30
+  "checks": 44
  },
  {
-  "entity_id": "c-palmbeach",
-  "name": "Palm Beach County",
+  "entity_id": "m-tallahassee",
+  "name": "Tallahassee",
+  "kind": "city",
+  "pop": 205623,
   "slugs": [
-   "pbcgov",
-   "palmbeachcounty",
-   "pbc"
+   "tallahassee",
+   "tallahasseefl",
+   "cityoftallahassee",
+   "tallahasseegov"
   ],
-  "domains": [
-   "discover.pbcgov.org"
-  ],
+  "domains": [],
   "hits": [
    {
-    "platform": "novus",
-    "slug": "pbcgov",
-    "url": "https://pbcgov.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "palmbeachcounty",
-    "url": "https://palmbeachcounty.novusagenda.com/agendapublic/"
-   },
+    "platform": "civicclerk",
+    "slug": "tallahasseefl",
+    "url": "https://tallahasseefl.api.civicclerk.com/v1/Events?$top=1"
+   }
+  ],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-fortlauderdale",
+  "name": "Fort Lauderdale",
+  "kind": "city",
+  "pop": 192338,
+  "slugs": [
+   "fortlauderdale",
+   "fortlauderdalefl",
+   "cityoffortlauderdale",
+   "fortlauderdalegov"
+  ],
+  "domains": [],
+  "hits": [
    {
     "platform": "legistar",
-    "slug": "pbc",
-    "url": "https://webapi.legistar.com/v1/pbc/bodies?$top=1"
-   },
-   {
-    "platform": "granicus",
-    "slug": "pbc",
-    "url": "https://pbc.granicus.com/ViewPublisher.php?view_id=1"
+    "slug": "fortlauderdale",
+    "url": "https://webapi.legistar.com/v1/fortlauderdale/bodies?$top=1"
    },
    {
     "platform": "granicus_v2",
-    "slug": "pbc",
-    "url": "https://pbc.granicus.com/ViewPublisher.php?view_id=2"
-   },
-   {
-    "platform": "novus",
-    "slug": "pbc",
-    "url": "https://pbc.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "homepage_links",
-    "url": "https://discover.pbcgov.org/",
-    "links": [
-     "http://www.municode.com/resources/gateway.aspx?productid=10323"
-    ]
+    "slug": "fortlauderdale",
+    "url": "https://fortlauderdale.granicus.com/ViewPublisher.php?view_id=2"
    }
   ],
-  "checks": 30
+  "checks": 44
  },
  {
-  "entity_id": "m-westpalmbeach",
-  "name": "West Palm Beach",
+  "entity_id": "m-pembrokepines",
+  "name": "Pembroke Pines",
+  "kind": "city",
+  "pop": 171413,
   "slugs": [
-   "wpb",
-   "westpalmbeach",
-   "cityofwpb"
+   "pembrokepines",
+   "pembrokepinesfl",
+   "cityofpembrokepines",
+   "pembrokepinesgov"
   ],
-  "domains": [
-   "www.wpb.org"
-  ],
-  "hits": [
-   {
-    "platform": "novus",
-    "slug": "wpb",
-    "url": "https://wpb.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "westpalmbeach",
-    "url": "https://westpalmbeach.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "cityofwpb",
-    "url": "https://cityofwpb.novusagenda.com/agendapublic/"
-   }
-  ],
-  "checks": 30
- },
- {
-  "entity_id": "m-miamibeach",
-  "name": "Miami Beach",
-  "slugs": [
-   "miamibeach",
-   "miamibeachfl",
-   "miamibeachgov"
-  ],
-  "domains": [
-   "www.miamibeachfl.gov"
-  ],
-  "hits": [
-   {
-    "platform": "novus",
-    "slug": "miamibeach",
-    "url": "https://miamibeach.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "granicus",
-    "slug": "miamibeachfl",
-    "url": "https://miamibeachfl.granicus.com/ViewPublisher.php?view_id=1"
-   },
-   {
-    "platform": "primegov",
-    "slug": "miamibeachfl",
-    "url": "https://miamibeachfl.primegov.com/api/v2/PublicPortal/ListUpcomingMeetings"
-   },
-   {
-    "platform": "novus",
-    "slug": "miamibeachfl",
-    "url": "https://miamibeachfl.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "miamibeachgov",
-    "url": "https://miamibeachgov.novusagenda.com/agendapublic/"
-   }
-  ],
-  "checks": 30
+  "domains": [],
+  "hits": [],
+  "checks": 44
  },
  {
   "entity_id": "m-hollywood",
   "name": "Hollywood",
+  "kind": "city",
+  "pop": 156997,
   "slugs": [
-   "hollywoodfl",
    "hollywood",
-   "cityofhollywood"
+   "hollywoodfl",
+   "cityofhollywood",
+   "hollywoodgov"
   ],
-  "domains": [
-   "www.hollywoodfl.org"
-  ],
+  "domains": [],
   "hits": [
    {
     "platform": "legistar",
@@ -747,139 +767,22 @@
     "platform": "granicus_v3",
     "slug": "hollywoodfl",
     "url": "https://hollywoodfl.granicus.com/ViewPublisher.php?view_id=3"
-   },
-   {
-    "platform": "novus",
-    "slug": "hollywoodfl",
-    "url": "https://hollywoodfl.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "hollywood",
-    "url": "https://hollywood.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "cityofhollywood",
-    "url": "https://cityofhollywood.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "civicplus_agendacenter",
-    "url": "https://www.hollywoodfl.org/AgendaCenter"
    }
   ],
-  "checks": 30
- },
- {
-  "entity_id": "m-capecoral",
-  "name": "Cape Coral",
-  "slugs": [
-   "capecoral",
-   "capecoralfl"
-  ],
-  "domains": [
-   "www.capecoral.gov"
-  ],
-  "hits": [
-   {
-    "platform": "novus",
-    "slug": "capecoral",
-    "url": "https://capecoral.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "escribe",
-    "slug": "capecoral",
-    "url": "https://pub-capecoral.escribemeetings.com/"
-   },
-   {
-    "platform": "novus",
-    "slug": "capecoralfl",
-    "url": "https://capecoralfl.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "homepage_links",
-    "url": "https://www.capecoral.gov/",
-    "links": [
-     "https://capecoral.hylandcloud.com/241publicaccess/",
-     "https://library.municode.com/fl/cape_coral/codes/code_of_ordinances",
-     "https://www.municode.com/library/fl/cape_coral/codes/code_of_ordinances"
-    ]
-   }
-  ],
-  "checks": 20
- },
- {
-  "entity_id": "c-lee",
-  "name": "Lee County",
-  "slugs": [
-   "lee",
-   "leegov",
-   "leecounty"
-  ],
-  "domains": [
-   "www.leegov.com"
-  ],
-  "hits": [
-   {
-    "platform": "novus",
-    "slug": "lee",
-    "url": "https://lee.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "leegov",
-    "url": "https://leegov.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "leecounty",
-    "url": "https://leecounty.novusagenda.com/agendapublic/"
-   }
-  ],
-  "checks": 30
- },
- {
-  "entity_id": "m-tallahassee",
-  "name": "Tallahassee",
-  "slugs": [
-   "tallahassee",
-   "talgov"
-  ],
-  "domains": [
-   "www.talgov.com"
-  ],
-  "hits": [
-   {
-    "platform": "novus",
-    "slug": "tallahassee",
-    "url": "https://tallahassee.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "talgov",
-    "url": "https://talgov.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "homepage_links",
-    "url": "https://www.talgov.com/",
-    "links": [
-     "https://www.municode.com/library/fl/tallahassee/codes/code_of_ordinances?nodeId=PTICHLATA_SPACH"
-    ]
-   }
-  ],
-  "checks": 20
+  "checks": 44
  },
  {
   "entity_id": "m-gainesville",
   "name": "Gainesville",
+  "kind": "city",
+  "pop": 151275,
   "slugs": [
    "gainesville",
+   "gainesvillefl",
    "cityofgainesville",
-   "gainesvillefl"
+   "gainesvillegov"
   ],
-  "domains": [
-   "www.gainesvillefl.gov"
-  ],
+  "domains": [],
   "hits": [
    {
     "platform": "legistar",
@@ -892,157 +795,578 @@
     "url": "https://gainesville.granicus.com/ViewPublisher.php?view_id=2"
    },
    {
-    "platform": "novus",
-    "slug": "gainesville",
-    "url": "https://gainesville.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "cityofgainesville",
-    "url": "https://cityofgainesville.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "escribe",
-    "slug": "cityofgainesville",
-    "url": "https://pub-cityofgainesville.escribemeetings.com/"
-   },
-   {
     "platform": "civicclerk",
     "slug": "gainesvillefl",
     "url": "https://gainesvillefl.api.civicclerk.com/v1/Events?$top=1"
    },
    {
-    "platform": "novus",
-    "slug": "gainesvillefl",
-    "url": "https://gainesvillefl.novusagenda.com/agendapublic/"
+    "platform": "escribe",
+    "slug": "cityofgainesville",
+    "url": "https://pub-cityofgainesville.escribemeetings.com/"
    }
   ],
-  "checks": 30
+  "checks": 44
  },
  {
-  "entity_id": "c-polk",
-  "name": "Polk County",
+  "entity_id": "m-palmbay",
+  "name": "Palm Bay",
+  "kind": "city",
+  "pop": 146929,
   "slugs": [
-   "polk",
-   "polkcounty",
-   "polkfl"
+   "palmbay",
+   "palmbayfl",
+   "cityofpalmbay",
+   "palmbaygov"
   ],
-  "domains": [
-   "www.polk-county.net"
-  ],
-  "hits": [
-   {
-    "platform": "granicus",
-    "slug": "polk",
-    "url": "https://polk.granicus.com/ViewPublisher.php?view_id=1"
-   },
-   {
-    "platform": "novus",
-    "slug": "polk",
-    "url": "https://polk.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "polkcounty",
-    "url": "https://polkcounty.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "polkfl",
-    "url": "https://polkfl.novusagenda.com/agendapublic/"
-   }
-  ],
-  "checks": 30
+  "domains": [],
+  "hits": [],
+  "checks": 44
  },
  {
-  "entity_id": "c-volusia",
-  "name": "Volusia County",
+  "entity_id": "m-miramar",
+  "name": "Miramar",
+  "kind": "city",
+  "pop": 140807,
   "slugs": [
-   "volusia",
-   "volusiacounty"
-  ],
-  "domains": [
-   "www.volusia.org"
-  ],
-  "hits": [
-   {
-    "platform": "novus",
-    "slug": "volusia",
-    "url": "https://volusia.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "novus",
-    "slug": "volusiacounty",
-    "url": "https://volusiacounty.novusagenda.com/agendapublic/"
-   }
-  ],
-  "checks": 20
- },
- {
-  "entity_id": "c-seminole",
-  "name": "Seminole County",
-  "slugs": [
-   "seminolecounty",
-   "seminolecountyfl"
-  ],
-  "domains": [
-   "www.seminolecountyfl.gov"
-  ],
-  "hits": [
-   {
-    "platform": "novus",
-    "slug": "seminolecounty",
-    "url": "https://seminolecounty.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "legistar",
-    "slug": "seminolecountyfl",
-    "url": "https://webapi.legistar.com/v1/seminolecountyfl/bodies?$top=1"
-   },
-   {
-    "platform": "granicus",
-    "slug": "seminolecountyfl",
-    "url": "https://seminolecountyfl.granicus.com/ViewPublisher.php?view_id=1"
-   },
-   {
-    "platform": "novus",
-    "slug": "seminolecountyfl",
-    "url": "https://seminolecountyfl.novusagenda.com/agendapublic/"
-   },
-   {
-    "platform": "homepage_links",
-    "url": "https://www.seminolecountyfl.gov/",
-    "links": [
-     "https://seminolecountyfl.legistar.com/Calendar.aspx"
-    ]
-   }
-  ],
-  "checks": 20
- },
- {
-  "entity_id": "c-pinellas",
-  "name": "Pinellas County",
-  "slugs": [
-   "pinellas"
+   "miramar",
+   "miramarfl",
+   "cityofmiramar",
+   "miramargov"
   ],
   "domains": [],
   "hits": [
    {
     "platform": "legistar",
-    "slug": "pinellas",
-    "url": "https://webapi.legistar.com/v1/pinellas/bodies?$top=1"
+    "slug": "miramar",
+    "url": "https://webapi.legistar.com/v1/miramar/bodies?$top=1"
    },
    {
     "platform": "granicus",
-    "slug": "pinellas",
-    "url": "https://pinellas.granicus.com/ViewPublisher.php?view_id=1"
-   },
-   {
-    "platform": "novus",
-    "slug": "pinellas",
-    "url": "https://pinellas.novusagenda.com/agendapublic/"
+    "slug": "miramar",
+    "url": "https://miramar.granicus.com/ViewPublisher.php?view_id=1"
    }
   ],
-  "checks": 10
+  "checks": 44
+ },
+ {
+  "entity_id": "m-coralsprings",
+  "name": "Coral Springs",
+  "kind": "city",
+  "pop": 136062,
+  "slugs": [
+   "coralsprings",
+   "coralspringsfl",
+   "cityofcoralsprings",
+   "coralspringsgov"
+  ],
+  "domains": [],
+  "hits": [
+   {
+    "platform": "granicus",
+    "slug": "coralsprings",
+    "url": "https://coralsprings.granicus.com/ViewPublisher.php?view_id=1"
+   },
+   {
+    "platform": "granicus_v3",
+    "slug": "coralsprings",
+    "url": "https://coralsprings.granicus.com/ViewPublisher.php?view_id=3"
+   }
+  ],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-westpalmbeach",
+  "name": "West Palm Beach",
+  "kind": "city",
+  "pop": 126944,
+  "slugs": [
+   "westpalmbeach",
+   "westpalmbeachfl",
+   "cityofwestpalmbeach",
+   "westpalmbeachgov"
+  ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-lakeland",
+  "name": "Lakeland",
+  "kind": "city",
+  "pop": 124725,
+  "slugs": [
+   "lakeland",
+   "lakelandfl",
+   "cityoflakeland",
+   "lakelandgov"
+  ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-clearwater",
+  "name": "Clearwater",
+  "kind": "city",
+  "pop": 118327,
+  "slugs": [
+   "clearwater",
+   "clearwaterfl",
+   "cityofclearwater",
+   "clearwatergov"
+  ],
+  "domains": [],
+  "hits": [
+   {
+    "platform": "legistar",
+    "slug": "clearwater",
+    "url": "https://webapi.legistar.com/v1/clearwater/bodies?$top=1"
+   }
+  ],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-miamigardens",
+  "name": "Miami Gardens",
+  "kind": "city",
+  "pop": 116192,
+  "slugs": [
+   "miamigardens",
+   "miamigardensfl",
+   "cityofmiamigardens",
+   "miamigardensgov"
+  ],
+  "domains": [],
+  "hits": [
+   {
+    "platform": "civicweb",
+    "slug": "miamigardens",
+    "url": "https://miamigardens.civicweb.net/Portal/"
+   },
+   {
+    "platform": "civicclerk",
+    "slug": "miamigardensfl",
+    "url": "https://miamigardensfl.api.civicclerk.com/v1/Events?$top=1"
+   }
+  ],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-pompanobeach",
+  "name": "Pompano Beach",
+  "kind": "city",
+  "pop": 115813,
+  "slugs": [
+   "pompanobeach",
+   "pompanobeachfl",
+   "cityofpompanobeach",
+   "pompanobeachgov"
+  ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-palmcoast",
+  "name": "Palm Coast",
+  "kind": "city",
+  "pop": 110330,
+  "slugs": [
+   "palmcoast",
+   "palmcoastfl",
+   "cityofpalmcoast",
+   "palmcoastgov"
+  ],
+  "domains": [],
+  "hits": [
+   {
+    "platform": "primegov",
+    "slug": "palmcoast",
+    "url": "https://palmcoast.primegov.com/api/v2/PublicPortal/ListUpcomingMeetings"
+   }
+  ],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-davie",
+  "name": "Davie",
+  "kind": "city",
+  "pop": 107914,
+  "slugs": [
+   "davie",
+   "daviefl",
+   "cityofdavie",
+   "daviegov"
+  ],
+  "domains": [],
+  "hits": [
+   {
+    "platform": "civicclerk",
+    "slug": "daviefl",
+    "url": "https://daviefl.api.civicclerk.com/v1/Events?$top=1"
+   }
+  ],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-fortmyers",
+  "name": "Fort Myers",
+  "kind": "city",
+  "pop": 102060,
+  "slugs": [
+   "fortmyers",
+   "fortmyersfl",
+   "cityoffortmyers",
+   "fortmyersgov"
+  ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-bocaraton",
+  "name": "Boca Raton",
+  "kind": "city",
+  "pop": 100897,
+  "slugs": [
+   "bocaraton",
+   "bocaratonfl",
+   "cityofbocaraton",
+   "bocaratongov"
+  ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-deltona",
+  "name": "Deltona",
+  "kind": "city",
+  "pop": 98792,
+  "slugs": [
+   "deltona",
+   "deltonafl",
+   "cityofdeltona",
+   "deltonagov"
+  ],
+  "domains": [],
+  "hits": [
+   {
+    "platform": "legistar",
+    "slug": "deltona",
+    "url": "https://webapi.legistar.com/v1/deltona/bodies?$top=1"
+   },
+   {
+    "platform": "granicus",
+    "slug": "deltona",
+    "url": "https://deltona.granicus.com/ViewPublisher.php?view_id=1"
+   },
+   {
+    "platform": "granicus_v2",
+    "slug": "deltona",
+    "url": "https://deltona.granicus.com/ViewPublisher.php?view_id=2"
+   }
+  ],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-plantation",
+  "name": "Plantation",
+  "kind": "city",
+  "pop": 98437,
+  "slugs": [
+   "plantation",
+   "plantationfl",
+   "cityofplantation",
+   "plantationgov"
+  ],
+  "domains": [],
+  "hits": [
+   {
+    "platform": "granicus_v2",
+    "slug": "plantation",
+    "url": "https://plantation.granicus.com/ViewPublisher.php?view_id=2"
+   }
+  ],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-sunrise",
+  "name": "Sunrise",
+  "kind": "city",
+  "pop": 98310,
+  "slugs": [
+   "sunrise",
+   "sunrisefl",
+   "cityofsunrise",
+   "sunrisegov"
+  ],
+  "domains": [],
+  "hits": [
+   {
+    "platform": "granicus_v2",
+    "slug": "sunrisefl",
+    "url": "https://sunrisefl.granicus.com/ViewPublisher.php?view_id=2"
+   },
+   {
+    "platform": "granicus_v3",
+    "slug": "sunrisefl",
+    "url": "https://sunrisefl.granicus.com/ViewPublisher.php?view_id=3"
+   }
+  ],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-northport",
+  "name": "North Port",
+  "kind": "city",
+  "pop": 96301,
+  "slugs": [
+   "northport",
+   "northportfl",
+   "cityofnorthport",
+   "northportgov"
+  ],
+  "domains": [],
+  "hits": [
+   {
+    "platform": "legistar",
+    "slug": "cityofnorthport",
+    "url": "https://webapi.legistar.com/v1/cityofnorthport/bodies?$top=1"
+   },
+   {
+    "platform": "granicus_v2",
+    "slug": "cityofnorthport",
+    "url": "https://cityofnorthport.granicus.com/ViewPublisher.php?view_id=2"
+   },
+   {
+    "platform": "granicus_v3",
+    "slug": "cityofnorthport",
+    "url": "https://cityofnorthport.granicus.com/ViewPublisher.php?view_id=3"
+   }
+  ],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-melbourne",
+  "name": "Melbourne",
+  "kind": "city",
+  "pop": 88499,
+  "slugs": [
+   "melbourne",
+   "melbournefl",
+   "cityofmelbourne",
+   "melbournegov"
+  ],
+  "domains": [],
+  "hits": [
+   {
+    "platform": "civicclerk",
+    "slug": "melbournefl",
+    "url": "https://melbournefl.api.civicclerk.com/v1/Events?$top=1"
+   }
+  ],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-daytonabeach",
+  "name": "Daytona Beach",
+  "kind": "city",
+  "pop": 88144,
+  "slugs": [
+   "daytonabeach",
+   "daytonabeachfl",
+   "cityofdaytonabeach",
+   "daytonabeachgov"
+  ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-deerfieldbeach",
+  "name": "Deerfield Beach",
+  "kind": "city",
+  "pop": 87712,
+  "slugs": [
+   "deerfieldbeach",
+   "deerfieldbeachfl",
+   "cityofdeerfieldbeach",
+   "deerfieldbeachgov"
+  ],
+  "domains": [],
+  "hits": [
+   {
+    "platform": "civicclerk",
+    "slug": "deerfieldbeachfl",
+    "url": "https://deerfieldbeachfl.api.civicclerk.com/v1/Events?$top=1"
+   }
+  ],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-kissimmee",
+  "name": "Kissimmee",
+  "kind": "city",
+  "pop": 87664,
+  "slugs": [
+   "kissimmee",
+   "kissimmeefl",
+   "cityofkissimmee",
+   "kissimmeegov"
+  ],
+  "domains": [],
+  "hits": [
+   {
+    "platform": "civicclerk",
+    "slug": "kissimmeefl",
+    "url": "https://kissimmeefl.api.civicclerk.com/v1/Events?$top=1"
+   }
+  ],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-homestead",
+  "name": "Homestead",
+  "kind": "city",
+  "pop": 85630,
+  "slugs": [
+   "homestead",
+   "homesteadfl",
+   "cityofhomestead",
+   "homesteadgov"
+  ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-largo",
+  "name": "Largo",
+  "kind": "city",
+  "pop": 84075,
+  "slugs": [
+   "largo",
+   "largofl",
+   "cityoflargo",
+   "largogov"
+  ],
+  "domains": [],
+  "hits": [
+   {
+    "platform": "civicweb",
+    "slug": "largo",
+    "url": "https://largo.civicweb.net/Portal/"
+   }
+  ],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-doral",
+  "name": "Doral",
+  "kind": "city",
+  "pop": 83746,
+  "slugs": [
+   "doral",
+   "doralfl",
+   "cityofdoral",
+   "doralgov"
+  ],
+  "domains": [],
+  "hits": [
+   {
+    "platform": "legistar",
+    "slug": "doral",
+    "url": "https://webapi.legistar.com/v1/doral/bodies?$top=1"
+   },
+   {
+    "platform": "granicus_v2",
+    "slug": "cityofdoral",
+    "url": "https://cityofdoral.granicus.com/ViewPublisher.php?view_id=2"
+   }
+  ],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-miamibeach",
+  "name": "Miami Beach",
+  "kind": "city",
+  "pop": 83678,
+  "slugs": [
+   "miamibeach",
+   "miamibeachfl",
+   "cityofmiamibeach",
+   "miamibeachgov"
+  ],
+  "domains": [],
+  "hits": [
+   {
+    "platform": "granicus",
+    "slug": "miamibeachfl",
+    "url": "https://miamibeachfl.granicus.com/ViewPublisher.php?view_id=1"
+   },
+   {
+    "platform": "primegov",
+    "slug": "miamibeachfl",
+    "url": "https://miamibeachfl.primegov.com/api/v2/PublicPortal/ListUpcomingMeetings"
+   }
+  ],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-boyntonbeach",
+  "name": "Boynton Beach",
+  "kind": "city",
+  "pop": 82937,
+  "slugs": [
+   "boyntonbeach",
+   "boyntonbeachfl",
+   "cityofboyntonbeach",
+   "boyntonbeachgov"
+  ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-lauderhill",
+  "name": "Lauderhill",
+  "kind": "city",
+  "pop": 74772,
+  "slugs": [
+   "lauderhill",
+   "lauderhillfl",
+   "cityoflauderhill",
+   "lauderhillgov"
+  ],
+  "domains": [],
+  "hits": [],
+  "checks": 44
+ },
+ {
+  "entity_id": "m-tamarac",
+  "name": "Tamarac",
+  "kind": "city",
+  "pop": 73563,
+  "slugs": [
+   "tamarac",
+   "tamaracfl",
+   "cityoftamarac",
+   "tamaracgov"
+  ],
+  "domains": [],
+  "hits": [
+   {
+    "platform": "granicus_v2",
+    "slug": "tamarac",
+    "url": "https://tamarac.granicus.com/ViewPublisher.php?view_id=2"
+   },
+   {
+    "platform": "granicus_v3",
+    "slug": "tamarac",
+    "url": "https://tamarac.granicus.com/ViewPublisher.php?view_id=3"
+   }
+  ],
+  "checks": 44
  }
 ]
