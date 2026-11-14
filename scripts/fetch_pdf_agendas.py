@@ -191,20 +191,38 @@ def main():
     # OnBase Agenda Online (Tampa, Osceola): meeting list is JSON embedded in the search page
     for ob in cfg.get("onbase", []):
         d = debug[ob["entity_id"] + ":onbase"] = {"name": ob["name"], "platform": "onbase", "meetings": 0, "with_agenda": 0, "scanned": [], "errors": []}
+        meetings, html = None, ""
         try:
             html = fetch(ob["base"] + "/Meetings/Search?dropid=4&mtids=")
-            i = html.find('"Meetings":['); st = html.rfind("SearchResults(", 0, i) + len("SearchResults(")
-            depth = 0
-            for j in range(st, len(html)):
-                if html[j] == "{": depth += 1
-                elif html[j] == "}":
-                    depth -= 1
-                    if depth == 0: break
-            meetings = json.loads(html[st:j + 1])["Meetings"]
+            i = html.find('"Meetings":[')
+            if i > 0:
+                st = html.rfind("SearchResults(", 0, i) + len("SearchResults(")
+                depth = 0
+                for j in range(st, len(html)):
+                    if html[j] == "{": depth += 1
+                    elif html[j] == "}":
+                        depth -= 1
+                        if depth == 0: break
+                meetings = json.loads(html[st:j + 1])["Meetings"]
         except Exception as e:
-            try: hh = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html))[:500]; i2 = html.find("Meetings")
-            except Exception: hh, i2 = "", -1
-            d["errors"].append(f"meeting list: {e} | page text: {hh} | len {len(html) if 'html' in dir() else 0} | ctx {html[i2-200:i2+300] if i2 > 0 else ''}"); continue
+            d["errors"].append(f"meeting list: {e}")
+        if meetings is None:
+            # older OnBase versions render the list as HTML: pull agenda download links directly
+            meetings = []
+            for extra in ["", "/Meetings/Search?dropid=11&mtids=", "/Meetings/Search?dropid=7&mtids="]:
+                try: page = html if not extra else fetch(ob["base"] + extra)
+                except Exception: continue
+                for href in re.findall(r'href="([^"]*DownloadFile[^"]*documentType=1[^"]*)"', page):
+                    href = href.replace("&amp;", "&")
+                    mid = re.search(r"meetingId=(\d+)", href); nm = re.search(r"DownloadFile/([^?]+?)\.pdf", href)
+                    if not mid or not nm: continue
+                    name = urllib.parse.unquote(nm.group(1))
+                    dm = re.search(r"_(\d{1,2})_(\d{1,2})_(20\d\d)_", name)
+                    when = datetime(int(dm[3]), int(dm[1]), int(dm[2]), tzinfo=timezone.utc).isoformat() if dm else now.isoformat()
+                    meetings.append({"ID": int(mid.group(1)), "Name": re.sub(r"_\d+_Agenda.*$", "", name).replace("_", " "),
+                                     "Time": when, "IsAgendaAvailable": True, "AgendaUniqueName": name})
+            meetings = list({m["ID"]: m for m in meetings}.values())
+            d["html_fallback"] = len(meetings)
         d["meetings"] = len(meetings)
         skip = re.compile(ob.get("skip") or "$^")
         todo = []
