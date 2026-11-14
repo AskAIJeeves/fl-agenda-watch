@@ -1,0 +1,19 @@
+{
+  "_note": "Governments without a usable agenda feed. The reader opens each listing page, optionally follows meeting-page links one level, finds agenda PDFs, and scans new ones for dollar amounts. Patterns are regexes on the full link URL.",
+  "max_new_pdfs_per_run": 4,
+  "max_pages_per_pdf": 400,
+  "sources": [
+    {"entity_id": "m-stpetersburg", "name": "St. Petersburg",
+     "listing_urls": ["https://www.stpete.org/government/meetings___agendas/"],
+     "follow": "", "pdf": "(?i)(council|cow|agenda|packet)[^/]*\\.pdf"},
+    {"entity_id": "m-orlando", "name": "Orlando",
+     "listing_urls": ["https://www.orlando.gov/Our-Government/Public-Meetings"],
+     "follow": "(?i)/Public-Meetings/City-Council", "pdf": "(?i)(\\.pdf|/files/assets/)"},
+    {"entity_id": "c-miamidade", "name": "Miami-Dade County",
+     "listing_urls": ["https://www.miamidade.gov/govaction/commagenda.asp"],
+     "follow": "(?i)(agenda|meeting).*\\.asp", "pdf": "(?i)legistarfiles/Agendas/\\d+\\.pdf"},
+    {"entity_id": "m-tampa", "name": "Tampa",
+     "listing_urls": ["https://www.tampa.gov/node/73436", "https://www.tampa.gov/agendas"],
+     "follow": "(?i)(onbase|agenda)", "pdf": "(?i)(\\.pdf|onbase.*(doc|agenda))"}
+  ]
+}
