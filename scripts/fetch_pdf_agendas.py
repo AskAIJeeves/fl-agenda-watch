@@ -202,7 +202,9 @@ def main():
                     if depth == 0: break
             meetings = json.loads(html[st:j + 1])["Meetings"]
         except Exception as e:
-            d["errors"].append(f"meeting list: {e}"); continue
+            try: hh = re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", html))[:500]; i2 = html.find("Meetings")
+            except Exception: hh, i2 = "", -1
+            d["errors"].append(f"meeting list: {e} | page text: {hh} | len {len(html) if 'html' in dir() else 0} | ctx {html[i2-200:i2+300] if i2 > 0 else ''}"); continue
         d["meetings"] = len(meetings)
         skip = re.compile(ob.get("skip") or "$^")
         todo = []
