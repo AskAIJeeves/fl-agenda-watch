@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-14T19:59:05+00:00",
- "count": 65,
+ "generated_utc": "2026-11-14T20:42:37+00:00",
+ "count": 78,
  "items": [
   {
    "entity_id": "m-jacksonville",
@@ -35,6 +35,26 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-orange",
+   "government": "Orange County",
+   "client": "occompt",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "2.",
+   "file_number": "26-1323",
+   "title": "Approval of the check register authorizing the most recently disbursed County funds, having been certified that no accounts have been overdrawn due to the issuance of same.  (Finance/Accounting)\n\nDisbursement periods cover: \n               \n\u2022\tOctober 23, 2026 to October 29, 2026; $90,545,463.40\n\u2022\tOctober 30, 2026 to November 5, 2026; $60,468,141.84",
+   "max_amount": 90545463.0,
+   "keywords": [],
+   "meeting_url": "https://occompt.legistar.com/MeetingDetail.aspx?LEGID=1804&GID=661&G=671217FC-A8C9-41BD-BA90-3804D546A607",
+   "agenda_pdf": "https://occompt.legistar1.com/occompt/meetings/2026/11/1804_A_Board_of_County_Commissioners_26-11-10_Board_of_County_Commissioners_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
     }
    ]
   },
@@ -147,6 +167,28 @@
    ]
   },
   {
+   "entity_id": "c-orange",
+   "government": "Orange County",
+   "client": "occompt",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "7.",
+   "file_number": "26-1312",
+   "title": "Approval to award Invitation for Bids Y26-181-ZR, Supply and Installation of Traffic Signal Equipment to the low responsive and responsible bidders, Yunex LLC, in the estimated contract award amount of $26,072,242.11 for a five-year term, Traffic Control Devices, LLC, in the estimated contract award amount of $30,262,664.50 for a five-year term, and The New Florida Industrial Electric, Inc., in the estimated contract award amount of $30,880,050.29 for a five-year term. ([Public Works Department Traffic Engineering Division] Procurement Division).",
+   "max_amount": 30880050.0,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://occompt.legistar.com/MeetingDetail.aspx?LEGID=1804&GID=661&G=671217FC-A8C9-41BD-BA90-3804D546A607",
+   "agenda_pdf": "https://occompt.legistar1.com/occompt/meetings/2026/11/1804_A_Board_of_County_Commissioners_26-11-10_Board_of_County_Commissioners_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
    "entity_id": "m-jacksonville",
    "government": "Jacksonville",
    "client": "jaxcityc",
@@ -244,6 +286,28 @@
    ]
   },
   {
+   "entity_id": "c-orange",
+   "government": "Orange County",
+   "client": "occompt",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "3.",
+   "file_number": "26-1301",
+   "title": "Approval to award Contract Y26-1005, Flygt Pumps, Parts and Repairs, with Xylem Water Solutions U.S.A., Inc., in the estimated contract award amount of $15,183,347.02 for a five-year term.  ([Utilities Department Field Services Division] Procurement Division)",
+   "max_amount": 15183347.0,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://occompt.legistar.com/MeetingDetail.aspx?LEGID=1804&GID=661&G=671217FC-A8C9-41BD-BA90-3804D546A607",
+   "agenda_pdf": "https://occompt.legistar1.com/occompt/meetings/2026/11/1804_A_Board_of_County_Commissioners_26-11-10_Board_of_County_Commissioners_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
    "entity_id": "m-jacksonville",
    "government": "Jacksonville",
    "client": "jaxcityc",
@@ -271,6 +335,26 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-orange",
+   "government": "Orange County",
+   "client": "occompt",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "3.",
+   "file_number": "26-1335",
+   "title": "Approval and execution of Subrecipient Agreements between Orange County, Florida and United Against Poverty, Inc. regarding U.S. Department of Housing and Urban Development (\u201cHUD\u201d) Community Development Block Grant - Disaster Recovery (\u201cCDBG-DR\u201d) Program B-23-UN-12-0003 in the amount of $15,000,000 and Catholic Charities of Central Florida, Inc. in the amount of $295,000.  All Districts. (Housing and Community Development Division)",
+   "max_amount": 15000000.0,
+   "keywords": [],
+   "meeting_url": "https://occompt.legistar.com/MeetingDetail.aspx?LEGID=1804&GID=661&G=671217FC-A8C9-41BD-BA90-3804D546A607",
+   "agenda_pdf": "https://occompt.legistar1.com/occompt/meetings/2026/11/1804_A_Board_of_County_Commissioners_26-11-10_Board_of_County_Commissioners_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
     }
    ]
   },
@@ -321,6 +405,29 @@
    ]
   },
   {
+   "entity_id": "c-orange",
+   "government": "Orange County",
+   "client": "occompt",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "1.",
+   "file_number": "26-1258",
+   "title": "Approval to award Invitation for Bids Y26-153-MV, Staff Augmentation - Administrative, to the low responsive and responsible bidders, BJ Concepts, Inc., in the estimated total contract amount of $2,500,000 for a five-year term, Blue Arbor, Inc., in the estimated contract amount of $2,500,000 for a five-year term, Naztec International Group, L.L.C., in the estimated contract amount of $2,500,000 for a five-year term, and 22nd Century Technologies, Inc., in the estimated contract amount of $2,500,000 for a five-year term. The total budget for all contract awards is $10,000,000 for the five-year term.\n\nIn the event the bidders recommended above fail to achieve timely compliance with pre-award deliverables, as defined in the Invitation for Bids, including, but not limited to, State Division of Corporations registration, E-verify, insurance and bonds, further request authorization for the Procurement Division to award to the next low responsive and responsible bidder as listed in the bid tabulation herein, to the extent practicable and advantageous to the County. ([Administration and Fiscal Services Department Human Resources Division] Procurement Division)",
+   "max_amount": 10000000.0,
+   "keywords": [
+    "bonds",
+    "contract"
+   ],
+   "meeting_url": "https://occompt.legistar.com/MeetingDetail.aspx?LEGID=1804&GID=661&G=671217FC-A8C9-41BD-BA90-3804D546A607",
+   "agenda_pdf": "https://occompt.legistar1.com/occompt/meetings/2026/11/1804_A_Board_of_County_Commissioners_26-11-10_Board_of_County_Commissioners_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
    "entity_id": "c-broward",
    "government": "Broward County",
    "client": "broward",
@@ -363,6 +470,28 @@
    ]
   },
   {
+   "entity_id": "c-orange",
+   "government": "Orange County",
+   "client": "occompt",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "9.",
+   "file_number": "26-1317",
+   "title": "Approval of Amendment No. 17, Contract Y3-1021, Transfer, Processing, and Marketing of Recyclables, with Waste Management, Inc. of Florida in the not-to-exceed amount of $7,000,000, annually, for a three-year extension. \r\n\r\nFurther request Board authorization for the Procurement Division to extend the contract for two additional one-year periods in the not-to-exceed amount of $7,000,000, annually. ([Utilities Department Solid Waste Division] Procurement Division)",
+   "max_amount": 7000000.0,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://occompt.legistar.com/MeetingDetail.aspx?LEGID=1804&GID=661&G=671217FC-A8C9-41BD-BA90-3804D546A607",
+   "agenda_pdf": "https://occompt.legistar1.com/occompt/meetings/2026/11/1804_A_Board_of_County_Commissioners_26-11-10_Board_of_County_Commissioners_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
    "entity_id": "m-jacksonville",
    "government": "Jacksonville",
    "client": "jaxcityc",
@@ -389,6 +518,28 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-orange",
+   "government": "Orange County",
+   "client": "occompt",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "4.",
+   "file_number": "26-1304",
+   "title": "Approval of Amendment No. 10, Contract Y25-115B, Recycle and Waste Disposal, with Waste Pro of Florida, Inc., in the amount of $45,000, for a revised estimated contract amount of $5,136,924.09. ([Community and Family Services Department Parks and Recreation Division] Procurement Division)",
+   "max_amount": 5136924.0,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://occompt.legistar.com/MeetingDetail.aspx?LEGID=1804&GID=661&G=671217FC-A8C9-41BD-BA90-3804D546A607",
+   "agenda_pdf": "https://occompt.legistar1.com/occompt/meetings/2026/11/1804_A_Board_of_County_Commissioners_26-11-10_Board_of_County_Commissioners_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
     }
    ]
   },
@@ -431,6 +582,28 @@
     {
      "body": "Road and Drainage District Governing Body",
      "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-orange",
+   "government": "Orange County",
+   "client": "occompt",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "10.",
+   "file_number": "26-1233",
+   "title": "Selection of Avcon, Inc. to provide Design Services for the International Drive and Sand Lake Road Pedestrian Bridge, Request for Proposals Y26-806-CR. \r\n\r\nFurther request the Board authorization for the Procurement Division to negotiate and execute the final contract in the not to exceed the budget of $4,400,000. ([Public Works Department Engineering Division] Procurement Division)",
+   "max_amount": 4400000.0,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://occompt.legistar.com/MeetingDetail.aspx?LEGID=1804&GID=661&G=671217FC-A8C9-41BD-BA90-3804D546A607",
+   "agenda_pdf": "https://occompt.legistar1.com/occompt/meetings/2026/11/1804_A_Board_of_County_Commissioners_26-11-10_Board_of_County_Commissioners_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
     }
    ]
   },
@@ -584,6 +757,28 @@
     {
      "body": "Board of County Commissioners (Organizational)",
      "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-orange",
+   "government": "Orange County",
+   "client": "occompt",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "5.",
+   "file_number": "26-1306",
+   "title": "Approval to award Invitation for Bids Y26-1011-KS, Commercial Doors and Gates Preventative Maintenance and Repairs for Fire Rescue, to the low responsive and responsible bidder, Miner, Ltd., in the estimated contract award amount of $3,052,000, for a five-year term. ([Fire Rescue Department Logistics Division] Procurement Division]",
+   "max_amount": 3052000.0,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://occompt.legistar.com/MeetingDetail.aspx?LEGID=1804&GID=661&G=671217FC-A8C9-41BD-BA90-3804D546A607",
+   "agenda_pdf": "https://occompt.legistar1.com/occompt/meetings/2026/11/1804_A_Board_of_County_Commissioners_26-11-10_Board_of_County_Commissioners_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
     }
    ]
   },
@@ -948,6 +1143,29 @@
    ]
   },
   {
+   "entity_id": "c-orange",
+   "government": "Orange County",
+   "client": "occompt",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "2.",
+   "file_number": "26-1313",
+   "title": "Selection of one firm and an alternate to provide Design Services for Orange County Goldenrod Village, Request for Proposals Y26-811-JF from the following firms listed alphabetically:\r\n \r\n\u2022\tKMF Architects, LLC\r\n\u2022\tFugleberg Koch, LLC dba FK Architecture\r\n\r\nRequest Board authorization for the Procurement Division to negotiate and execute a contract within the not exceed the budget of $1,900,000. Further request Board authorization for the Procurement Division to formally terminate negotiations with the top ranked firm, if we are unable to come to a favorable negotiated agreement, and commence negotiations with the next ranked alternate, until a successful negotiation is reached. ([Administrative Services Department Capital Projects Division] Procurement Division)",
+   "max_amount": 1900000.0,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://occompt.legistar.com/MeetingDetail.aspx?LEGID=1804&GID=661&G=671217FC-A8C9-41BD-BA90-3804D546A607",
+   "agenda_pdf": "https://occompt.legistar1.com/occompt/meetings/2026/11/1804_A_Board_of_County_Commissioners_26-11-10_Board_of_County_Commissioners_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
    "entity_id": "c-seminole",
    "government": "Seminole County",
    "client": "seminolecountyfl",
@@ -1123,6 +1341,29 @@
    ]
   },
   {
+   "entity_id": "c-orange",
+   "government": "Orange County",
+   "client": "occompt",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "1.",
+   "file_number": "26-1307",
+   "title": "Selection of two firms and an alternate to provide Engineering Design Services for Long Lake and Verona Park - CDBG-DR Infrastructure and Mitigation Projects, Request for Proposals Y26-810-JF, from the following firms listed alphabetically:\n \n\u2022\tDrummond Carpenter, PLLC\n\u2022\tGeosyntec Consultants, Inc. \n\u2022\tHalff Associates, Inc.\n\nRequest Board authorization for the Procurement Division to negotiate and execute a contract within the not-to-exceed budget amount of $1,486,702 for Engineering Design Services for Long Lake. Further request Board authorization for the Procurement Division to negotiate and execute a contract within the not-to-exceed budget amount of $390,455.30 for Engineering Design Services for Verona Park. \n\nFurther request Board authorization for the Procurement Division to formally terminate negotiations with the top ranked firm, if we are unable to come to a favorable negotiated agreement, and commence negotiations with the next ranked alternate, until a successful negotiation is reached. ([Public Works Department Stormwater Management Division] Procurement Division)",
+   "max_amount": 1486702.0,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://occompt.legistar.com/MeetingDetail.aspx?LEGID=1804&GID=661&G=671217FC-A8C9-41BD-BA90-3804D546A607",
+   "agenda_pdf": "https://occompt.legistar1.com/occompt/meetings/2026/11/1804_A_Board_of_County_Commissioners_26-11-10_Board_of_County_Commissioners_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
    "entity_id": "c-seminole",
    "government": "Seminole County",
    "client": "seminolecountyfl",
@@ -1286,6 +1527,29 @@
    ]
   },
   {
+   "entity_id": "c-orange",
+   "government": "Orange County",
+   "client": "occompt",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "2.",
+   "file_number": "26-1268",
+   "title": "Approval of Change Order No. 1, Task Authorization No. 12, Contract Y24-905C, Continuing Professional Transportation Planning Services, Apopka Vineland Boulevard Safety and Operational Study, with Vanasse Hangin Brustlin, Inc., in the amount of $299,994.83, for a revised total amount of $436,311.36. ([Public Works Department Traffic Engineering Division] Procurement Division)",
+   "max_amount": 436311.0,
+   "keywords": [
+    "change order",
+    "contract"
+   ],
+   "meeting_url": "https://occompt.legistar.com/MeetingDetail.aspx?LEGID=1804&GID=661&G=671217FC-A8C9-41BD-BA90-3804D546A607",
+   "agenda_pdf": "https://occompt.legistar1.com/occompt/meetings/2026/11/1804_A_Board_of_County_Commissioners_26-11-10_Board_of_County_Commissioners_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
    "entity_id": "m-clearwater",
    "government": "Clearwater",
    "client": "clearwater",
@@ -1306,6 +1570,29 @@
     {
      "body": "Council Work Session",
      "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-pembrokepines",
+   "government": "Pembroke Pines",
+   "client": "ppines",
+   "body": "City Commission",
+   "meeting_date": "2026-11-18",
+   "agenda_number": "1.",
+   "file_number": "26-3079",
+   "title": "MOTION TO APPROVE AN AGREEMENT WITH H&R PAVING, INC., FOR THE MILLING AND RESURFACING OF NW 125TH AVE FROM SHERIDAN STREET TO TAFT STREET, UTILIZING PRICING ESTABLISHED BY THE CITY OF MIAMI IFB NO. 1115382, FOR AN AMOUNT NOT TO EXCEED $226,978.50, WHICH INCLUDES $1,088 FOR PAYMENT AND PERFORMANCE BONDS, AND A 10% OWNER'S CONTINGENCY IN THE AMOUNT OF $20,535.50, PURSUANT TO SECTION 35.18(C)(5) OF THE CITY\u2019S CODE OF ORDINANCES.",
+   "max_amount": 226978.0,
+   "keywords": [
+    "agreement",
+    "bonds"
+   ],
+   "meeting_url": "https://ppines.legistar.com/MeetingDetail.aspx?LEGID=1799&GID=38&G=11F1DFCB-631E-4C18-8D1F-165ADB0EFC0A",
+   "agenda_pdf": "https://ppines.legistar1.com/ppines/meetings/2026/11/1799_A_City_Commission_26-11-18_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "City Commission",
+     "meeting_date": "2026-11-18"
     }
    ]
   },
