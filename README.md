@@ -16,3 +16,17 @@ Run manually from the Actions tab with "Run workflow".
 - **Numbered sources** (Miami-Dade): agenda PDFs are numbered by meeting key; each run checks the keys after the last one found.
 - Output: `data/pdf_items.json` (last 60 days), `data/pdf_seen.json` (PDFs already scanned), `data/pdf_debug.json` (what each source found, for tuning).
 - Not yet covered: Tampa (OnBase Agenda Online) and Orlando. Both load their meeting lists with JavaScript and need dedicated readers.
+
+## Coverage (Nov 14, 2026)
+
+| Platform | Reader | Governments |
+|---|---|---|
+| Legistar API | fetch_agendas.py | Fort Lauderdale, Broward, Pinellas, Hillsborough, Clearwater, Jacksonville, Seminole County, Hollywood (Pinellas Park, Palm Beach County, Gainesville connect but return no meetings) |
+| CivicClerk API | fetch_pdf_agendas.py | Tarpon Springs, St. Pete Beach, Seminole (city), Gainesville |
+| Granicus RSS | fetch_pdf_agendas.py | Dunedin, Seminole (city), Polk (Tampa and Miami Beach feeds empty) |
+| Agenda PDFs on city site | fetch_pdf_agendas.py | St. Petersburg |
+| Numbered PDFs | fetch_pdf_agendas.py | Miami-Dade County |
+
+Not yet covered: Tampa (OnBase), Orlando and Cape Coral (eScribe), Miami (iQM2), Miami Beach (PrimeGov), Oldsmar (CivicWeb).
+
+`scripts/probe_platforms.py` (Actions tab, "Platform probe") tests governments listed in `config/probe_list.json` against common platforms. Its Novus check gives false positives.

@@ -181,8 +181,9 @@ def main():
                         "body": body, "meeting_date": mdate, "agenda_number": f"p.{pno}", "file_number": None, "title": ch,
                         "max_amount": top, "keywords": sorted({m.group(0).lower() for m in KEYWORDS.finditer(ch)}),
                         "meeting_url": f"https://{cc['tenant']}.portal.civicclerk.com/", "agenda_pdf": u, "found_utc": now.isoformat(timespec="seconds")})
-                seen[u] = {"status": "ok", "pages": len(pages), "hits": len(hits), "date": now.date().isoformat()}
-                d["scanned"].append({"pdf": u, "pages": len(pages), "hits": len(hits), "meeting_date": mdate})
+                chars = sum(len(t) for _, t in pages)
+                seen[u] = {"status": "ok", "pages": len(pages), "hits": len(hits), "chars": chars, "date": now.date().isoformat()}
+                d["scanned"].append({"pdf": u, "pages": len(pages), "hits": len(hits), "chars": chars, "meeting_date": mdate})
             except Exception as e:
                 d["errors"].append(f"pdf {u}: {e}")
             time.sleep(1)
