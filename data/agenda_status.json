@@ -1,0 +1,77 @@
+{
+ "generated_utc": "2026-11-14T18:40:58+00:00",
+ "count": 65,
+ "governments": {
+  "m-fortlauderdale": {
+   "name": "Fort Lauderdale",
+   "status": "ok",
+   "client": "fortlauderdale",
+   "events": 6,
+   "flagged": 4
+  },
+  "c-miamidade": {
+   "name": "Miami-Dade County",
+   "status": "ok",
+   "client": "miamidade",
+   "events": 0,
+   "flagged": 0
+  },
+  "c-broward": {
+   "name": "Broward County",
+   "status": "ok",
+   "client": "broward",
+   "events": 2,
+   "flagged": 11
+  },
+  "c-pinellas": {
+   "name": "Pinellas County",
+   "status": "ok",
+   "client": "pinellas",
+   "events": 2,
+   "flagged": 1
+  },
+  "c-hillsborough": {
+   "name": "Hillsborough County",
+   "status": "ok",
+   "client": "hillsboroughcounty",
+   "events": 2,
+   "flagged": 0
+  },
+  "m-stpetersburg": {
+   "name": "St. Petersburg",
+   "status": "failed",
+   "error": "stpetersburg: HTTP Error 500: Internal Server Error"
+  },
+  "m-clearwater": {
+   "name": "Clearwater",
+   "status": "ok",
+   "client": "clearwater",
+   "events": 5,
+   "flagged": 2
+  },
+  "m-jacksonville": {
+   "name": "Jacksonville",
+   "status": "ok",
+   "client": "jaxcityc",
+   "events": 10,
+   "flagged": 47
+  },
+  "m-orlando": {
+   "name": "Orlando",
+   "status": "failed",
+   "error": "cityoforlando: HTTP Error 500: Internal Server Error"
+  },
+  "m-miami": {
+   "name": "Miami",
+   "status": "ok",
+   "client": "miamifl",
+   "events": 0,
+   "flagged": 0
+  },
+  "m-tampa": {
+   "name": "Tampa",
+   "status": "failed",
+   "error": "tampagov: HTTP Error 500: Internal Server Error"
+  }
+ }
+}
