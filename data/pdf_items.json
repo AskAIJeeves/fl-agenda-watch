@@ -2454,8 +2454,47 @@
    "meeting_url": null,
    "agenda_pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5580.pdf",
    "found_utc": "2026-11-14T19:08:19+00:00"
+  },
+  {
+   "entity_id": "m-dunedin",
+   "government": "Dunedin",
+   "client": "pdf",
+   "body": "CITY COMMISSION REGULAR MEETING - Nov 05, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.2",
+   "file_number": null,
+   "title": "Motion to approve Resolution 26-28 authorizing execution of revised Amendment No. 4 to the Loan Agreement with the FDEP for the SRF Construction Loan Agreement WW5202C1, for various Wastewater Projects, to decrease that loan by $17,077,603 to $6,417,549, and subsequent execution of SRF Construction Loan Agreement WW5202C2, in an amount equal to $17,540,003. EXHIBIT:",
+   "max_amount": 17540003.0,
+   "keywords": [
+    "agreement",
+    "construction",
+    "loan"
+   ],
+   "meeting_url": "https://dunedin.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3663",
+   "found_utc": "2026-11-14T19:30:56+00:00"
+  },
+  {
+   "entity_id": "m-dunedin",
+   "government": "Dunedin",
+   "client": "pdf",
+   "body": "CITY COMMISSION REGULAR MEETING - Nov 05, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "3. ACTION ITEMS 3.a Resolution 26-28 authorizing execution of revised Amendment No. 4 to the Loan Agreement with the Florida Department of Environmental Protection (FDEP) for the State Revolving Fund (SRF) Construction Loan Agreement WW5202C1, for various Wastewater Projects, to decrease that loan by $17,077,603 to $6,417,549, and subsequent execution of SRF Construction Loan Agreement WW5202C2, in NOTICE OF PUBLIC MEETING CITY COMMISSION REGULAR MEETING DUNEDIN CITY HALL, 737 LOUDEN AVE NOVEMBER 5, 2026 6:00 PM AGENDA CALL TO ORDER INVOCATION AND THE PLEDGE OF ALLEGIANCE",
+   "max_amount": 17077603.0,
+   "keywords": [
+    "agreement",
+    "city hall",
+    "construction",
+    "loan"
+   ],
+   "meeting_url": "https://dunedin.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3663",
+   "found_utc": "2026-11-14T19:30:56+00:00"
   }
  ],
- "generated_utc": "2026-11-14T19:29:14+00:00",
- "count": 144
+ "generated_utc": "2026-11-14T19:30:56+00:00",
+ "count": 146
 }

@@ -108,5 +108,51 @@
   "pages": 1,
   "hits": 0,
   "date": "2026-11-14"
+ },
+ "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1611": {
+  "status": "ok",
+  "pages": 4,
+  "hits": 0,
+  "date": "2026-11-14"
+ },
+ "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1619": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "date": "2026-11-14"
+ },
+ "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1594": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "date": "2026-11-14"
+ },
+ "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3663": {
+  "status": "ok",
+  "pages": 3,
+  "hits": 2,
+  "date": "2026-11-14"
+ },
+ "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=564": {
+  "status": "not_pdf",
+  "date": "2026-11-14"
+ },
+ "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=562": {
+  "status": "not_pdf",
+  "date": "2026-11-14"
+ },
+ "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=560": {
+  "status": "not_pdf",
+  "date": "2026-11-14"
+ },
+ "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=558": {
+  "status": "not_pdf",
+  "date": "2026-11-14"
+ },
+ "https://polk.granicus.com/AgendaViewer.php?view_id=1&clip_id=1": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "date": "2026-11-14"
  }
 }
