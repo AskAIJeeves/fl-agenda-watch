@@ -87,7 +87,18 @@ def main():
         status[gov["entity_id"]] = {"name": gov["name"], **st}
         all_items += items
         print(gov["name"], st, file=sys.stderr)
-    all_items.sort(key=lambda x: (x["meeting_date"], -(x["max_amount"] or 0)))
+    # one row per matter: merge repeat appearances across committees and meetings
+    merged = {}
+    for it in all_items:
+        key = (it["client"], it["file_number"] or it["title"][:200])
+        m = merged.get(key)
+        if not m:
+            it["appearances"] = [{"body": it["body"], "meeting_date": it["meeting_date"]}]
+            merged[key] = it
+        else:
+            m["appearances"].append({"body": it["body"], "meeting_date": it["meeting_date"]})
+    all_items = list(merged.values())
+    all_items.sort(key=lambda x: (-(x["max_amount"] or 0), x["meeting_date"]))
     (ROOT / "data").mkdir(exist_ok=True)
     meta = {"generated_utc": now.isoformat(timespec="seconds"), "count": len(all_items)}
     (ROOT / "data/agenda_items.json").write_text(json.dumps({**meta, "items": all_items}, indent=1))
