@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-14T19:32:08+00:00",
+ "generated_utc": "2026-11-14T19:33:39+00:00",
  "sources": {
   "m-stpetersburg": {
    "name": "St. Petersburg",
@@ -2824,24 +2824,24 @@
    "pdfs_found": 103,
    "scanned": [
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3662",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3646",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3659",
-     "pages": 5,
-     "hits": 2
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3647",
+     "pages": 4,
+     "hits": 0
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3654",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3637",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3651",
-     "pages": 5,
-     "hits": 5
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3634",
+     "pages": 2,
+     "hits": 0
     }
    ],
    "errors": [],
@@ -3292,17 +3292,17 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=555",
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=548",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=554",
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=542",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=549",
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=543",
      "pages": 1,
      "hits": 0
     }
@@ -3363,197 +3363,154 @@
    "errors": [],
    "pdf_sample": []
   },
-  "m-tarponsprings": {
+  "m-tarponsprings:civicclerk": {
    "name": "Tarpon Springs",
-   "listing": [
+   "platform": "civicclerk",
+   "events": 15,
+   "files": [
+    "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3768,plainText=false)",
+    "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3781,plainText=false)",
+    "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3782,plainText=false)",
+    "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3777,plainText=false)",
+    "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3783,plainText=false)",
+    "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3790,plainText=false)",
+    "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3791,plainText=false)",
+    "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3784,plainText=false)",
+    "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3785,plainText=false)",
+    "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3797,plainText=false)"
+   ],
+   "scanned": [
     {
-     "url": "https://www.ctsfl.us/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=",
-     "links": 45,
-     "head": "\r\n\r\n\r\n\r\n\r\n\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n\r\n\t<meta http-equiv=\"Content-type\" content=\"text/html; charset=UTF-8\" />\r\n<!-- Google Tag Manager for GA4 -->\r\n\t\t\t\t<script>(function(w,d,s,l,i){w.GAMeasurementID='G-M6W9F44HNM';w[l]=w[l]||[];w[l].push({'gtm.start':\r\n\t\t\t\tnew Date().getTime(),even",
-     "sample": [
-      [
-       "https://www.ctsfl.us/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=#contentarea",
-       "Skip to Main Content"
-      ],
-      [
-       "https://www.ctsfl.us/rss.aspx#agendaCenter",
-       "RSS"
-      ],
-      [
-       "https://www.ctsfl.us/list.aspx#agendaCenter",
-       "Notify Me\u00ae"
-      ],
-      [
-       "https://www.ctsfl.us/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=#categoryList",
-       "Select a Category"
-      ],
-      [
-       "https://www.ctsfl.us/AgendaCenter",
-       "\u25c4 Back to all agendas"
-      ],
-      [
-       "https://www.ctsfl.us/129/Agendas-Minutes",
-       "Agendas & Minutes"
-      ]
-     ]
+     "pdf": "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3768,plainText=false)",
+     "pages": 1,
+     "hits": 0,
+     "meeting_date": "2026-11-05"
     },
     {
-     "url": "https://www.ctsfl.us/RSSFeed.aspx?ModID=65&CID=All-0",
-     "links": 0,
-     "head": "<?xml version=\"1.0\"?><rss version=\"2.0\"><channel>\r\n\t<title>Tarpon Springs, FL - Agenda Creator</title>\r\n\t<link>https://www.ctsfl.us/AgendaCenter</link>\r\n\t<lastBuildDate>Sat, 14 Nov 2026 14:32:31 -0500</lastBuildDate>\r\n\t<description>Tarpon Springs, FL - Get the latest agendas</description>\r\n\t<languag",
-     "sample": []
-    }
-   ],
-   "pdfs_found": 0,
-   "scanned": [],
-   "errors": [],
-   "pdf_sample": []
-  },
-  "m-safetyharbor": {
-   "name": "Safety Harbor",
-   "listing": [
-    {
-     "url": "https://www.cityofsafetyharbor.com/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=",
-     "links": 48,
-     "head": "\r\n\r\n\r\n\r\n\r\n\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n\r\n\t<meta http-equiv=\"Content-type\" content=\"text/html; charset=UTF-8\" />\r\n<!-- Google Tag Manager for GA4 -->\r\n\t\t\t\t<script>(function(w,d,s,l,i){w.GAMeasurementID='G-HLVCSSBHV9';w[l]=w[l]||[];w[l].push({'gtm.start':\r\n\t\t\t\tnew Date().getTime(),even",
-     "sample": [
-      [
-       "https://www.cityofsafetyharbor.com/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=#contentarea",
-       "Skip to Main Content"
-      ],
-      [
-       "https://www.cityofsafetyharbor.com/37/City-Commission",
-       "Government"
-      ],
-      [
-       "https://www.cityofsafetyharbor.com/37/City-Commission",
-       "City Commission"
-      ],
-      [
-       "https://www.cityofsafetyharbor.com/rss.aspx#agendaCenter",
-       "RSS"
-      ],
-      [
-       "https://www.cityofsafetyharbor.com/list.aspx#agendaCenter",
-       "Notify Me"
-      ],
-      [
-       "https://www.cityofsafetyharbor.com/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=#categoryList",
-       "Select a Category"
-      ],
-      [
-       "https://www.cityofsafetyharbor.com/AgendaCenter",
-       "\u25c4 Back to all agendas"
-      ],
-      [
-       "https://www.cityofsafetyharbor.com/557/Streaming-Media",
-       "Meeting Videos, Minutes & Agendas"
-      ]
-     ]
+     "pdf": "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3781,plainText=false)",
+     "pages": 1,
+     "hits": 0,
+     "meeting_date": "2026-11-10"
     },
     {
-     "url": "https://www.cityofsafetyharbor.com/RSSFeed.aspx?ModID=65&CID=All-0",
-     "links": 0,
-     "head": "<?xml version=\"1.0\"?><rss version=\"2.0\"><channel>\r\n\t<title>Safety Harbor - Agenda Creator</title>\r\n\t<link>https://cityofsafetyharbor.com/AgendaCenter</link>\r\n\t<lastBuildDate>Sat, 14 Nov 2026 14:32:34 -0500</lastBuildDate>\r\n\t<description>Safety Harbor - Get the latest agendas</description>\r\n\t<languag",
-     "sample": []
-    }
-   ],
-   "pdfs_found": 0,
-   "scanned": [],
-   "errors": [],
-   "pdf_sample": []
-  },
-  "m-oldsmar": {
-   "name": "Oldsmar",
-   "listing": [
-    {
-     "url": "https://www.myoldsmar.com/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=",
-     "links": 45,
-     "head": "\r\n\r\n\r\n\r\n\r\n\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n\r\n\t<meta http-equiv=\"Content-type\" content=\"text/html; charset=UTF-8\" />\r\n<!-- Google Tag Manager for GA4 -->\r\n\t\t\t\t<script>(function(w,d,s,l,i){w.GAMeasurementID='G-HKQLH8QLST';w[l]=w[l]||[];w[l].push({'gtm.start':\r\n\t\t\t\tnew Date().getTime(),even",
-     "sample": [
-      [
-       "https://www.myoldsmar.com/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=#contentarea",
-       "Skip to Main Content"
-      ],
-      [
-       "https://www.myoldsmar.com/rss.aspx#agendaCenter",
-       "RSS"
-      ],
-      [
-       "https://www.myoldsmar.com/list.aspx#agendaCenter",
-       "Stay Informed"
-      ],
-      [
-       "https://www.myoldsmar.com/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=#categoryList",
-       "Select a Category"
-      ],
-      [
-       "https://www.myoldsmar.com/AgendaCenter",
-       "\u25c4 Back to all agendas"
-      ],
-      [
-       "https://www.myoldsmar.com/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=",
-       ""
-      ]
-     ]
+     "pdf": "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3782,plainText=false)",
+     "pages": 396,
+     "hits": 0,
+     "meeting_date": "2026-11-10"
     },
     {
-     "url": "https://www.myoldsmar.com/RSSFeed.aspx?ModID=65&CID=All-0",
-     "links": 0,
-     "head": "<?xml version=\"1.0\"?><rss version=\"2.0\"><channel>\r\n\t<title>Oldsmar, FL - Agenda Creator</title>\r\n\t<link>https://www.myoldsmar.com/AgendaCenter</link>\r\n\t<lastBuildDate>Sat, 14 Nov 2026 14:32:35 -0500</lastBuildDate>\r\n\t<description>Oldsmar, FL - Get the latest agendas</description>\r\n\t<language>en-us</",
-     "sample": []
+     "pdf": "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3777,plainText=false)",
+     "pages": 1,
+     "hits": 0,
+     "meeting_date": "2026-11-10"
     }
    ],
-   "pdfs_found": 0,
-   "scanned": [],
-   "errors": [],
-   "pdf_sample": []
+   "errors": []
   },
-  "m-stpetebeach": {
+  "m-stpetebeach:civicclerk": {
    "name": "St. Pete Beach",
-   "listing": [
+   "platform": "civicclerk",
+   "events": 15,
+   "files": [
+    "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8146,plainText=false)",
+    "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8147,plainText=false)",
+    "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8168,plainText=false)",
+    "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8169,plainText=false)",
+    "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8163,plainText=false)",
+    "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8164,plainText=false)",
+    "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8178,plainText=false)",
+    "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8180,plainText=false)",
+    "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8175,plainText=false)",
+    "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8177,plainText=false)"
+   ],
+   "scanned": [
     {
-     "url": "https://www.stpetebeach.org/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=",
-     "links": 47,
-     "head": "\r\n\r\n\r\n\r\n\r\n\r\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n\r\n\t<meta http-equiv=\"Content-type\" content=\"text/html; charset=UTF-8\" />\r\n<!-- Google Tag Manager for GA4 -->\r\n\t\t\t\t<script>(function(w,d,s,l,i){w.GAMeasurementID='G-C8ZNGC6P10';w[l]=w[l]||[];w[l].push({'gtm.start':\r\n\t\t\t\tnew Date().getTime(),even",
-     "sample": [
-      [
-       "https://www.stpetebeach.org/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=#contentarea",
-       "Skip to Main Content"
-      ],
-      [
-       "https://www.stpetebeach.org/rss.aspx#agendaCenter",
-       "RSS"
-      ],
-      [
-       "https://www.stpetebeach.org/list.aspx#agendaCenter",
-       "Notify Me\u00ae"
-      ],
-      [
-       "https://www.stpetebeach.org/AgendaCenter/Search/?term=&CIDs=all&startDate=&endDate=&dateRange=&dateSelector=#categoryList",
-       "Select a Category"
-      ],
-      [
-       "https://www.stpetebeach.org/AgendaCenter",
-       "\u25c4 Back to all agendas"
-      ],
-      [
-       "https://www.stpetebeach.org/250/Agendas-Minutes",
-       "Agendas & Minutes"
-      ]
-     ]
+     "pdf": "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8146,plainText=false)",
+     "pages": 1,
+     "hits": 0,
+     "meeting_date": "2026-11-04"
     },
     {
-     "url": "https://www.stpetebeach.org/RSSFeed.aspx?ModID=65&CID=All-0",
-     "links": 0,
-     "head": "<?xml version=\"1.0\"?><rss version=\"2.0\"><channel>\r\n\t<title>St. Pete Beach, FL  - Agenda Creator</title>\r\n\t<link>https://www.stpetebeach.org/AgendaCenter</link>\r\n\t<lastBuildDate>Sat, 14 Nov 2026 14:32:38 -0500</lastBuildDate>\r\n\t<description>St. Pete Beach, FL  - Get the latest agendas</description>\r\n",
-     "sample": []
+     "pdf": "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8147,plainText=false)",
+     "pages": 37,
+     "hits": 0,
+     "meeting_date": "2026-11-04"
+    },
+    {
+     "pdf": "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8168,plainText=false)",
+     "pages": 2,
+     "hits": 0,
+     "meeting_date": "2026-11-05"
+    },
+    {
+     "pdf": "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8169,plainText=false)",
+     "pages": 245,
+     "hits": 0,
+     "meeting_date": "2026-11-05"
     }
    ],
-   "pdfs_found": 0,
-   "scanned": [],
-   "errors": [],
-   "pdf_sample": []
+   "errors": []
+  },
+  "m-seminolecity:civicclerk": {
+   "name": "Seminole (city)",
+   "platform": "civicclerk",
+   "events": 6,
+   "files": [
+    "https://seminolefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=747,plainText=false)"
+   ],
+   "scanned": [
+    {
+     "pdf": "https://seminolefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=747,plainText=false)",
+     "pages": 2,
+     "hits": 0,
+     "meeting_date": "2026-11-10"
+    }
+   ],
+   "errors": []
+  },
+  "m-gainesville:civicclerk": {
+   "name": "Gainesville",
+   "platform": "civicclerk",
+   "events": 15,
+   "files": [
+    "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=304,plainText=false)",
+    "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=305,plainText=false)",
+    "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=275,plainText=false)",
+    "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=276,plainText=false)",
+    "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=306,plainText=false)",
+    "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=307,plainText=false)",
+    "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=298,plainText=false)",
+    "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=303,plainText=false)",
+    "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=302,plainText=false)",
+    "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=367,plainText=false)"
+   ],
+   "scanned": [
+    {
+     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=304,plainText=false)",
+     "pages": 3,
+     "hits": 0,
+     "meeting_date": "2026-11-04"
+    },
+    {
+     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=305,plainText=false)",
+     "pages": 70,
+     "hits": 8,
+     "meeting_date": "2026-11-04"
+    },
+    {
+     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=275,plainText=false)",
+     "pages": 3,
+     "hits": 0,
+     "meeting_date": "2026-11-04"
+    },
+    {
+     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=276,plainText=false)",
+     "pages": 204,
+     "hits": 2,
+     "meeting_date": "2026-11-04"
+    }
+   ],
+   "errors": []
   },
   "c-miamidade": {
    "name": "Miami-Dade County",
