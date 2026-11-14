@@ -21,16 +21,8 @@
     "https://www.orlando.gov/Our-Government/Public-Meetings"
    ],
    "follow": "(?i)(/Current-and-Upcoming-Meetings/|/Public-Meetings/(City-Council|Finance-Committee|Budget-Review|Downtown-Development|Community-Redevelopment))",
-   "pdf": "(?i)/files/(assets|sharedassets)/.*\\.pdf"
-  },
-  {
-   "entity_id": "c-miamidade",
-   "name": "Miami-Dade County",
-   "listing_urls": [
-    "https://www.miamidade.gov/govaction/agendas.asp?Action=Agendas&Oper=DisplayList"
-   ],
-   "follow": "(?i)Oper=DisplayAgenda&Agenda=(CC|APC|AASC|IITC|TRNS|RTRC|GETC|JAGE|PC)&",
-   "pdf": "(?i)legistarfiles/Agendas/\\d+\\.pdf"
+   "pdf": "(?i)/files/(assets|sharedassets)/.*\\.pdf",
+   "_status": "Meeting pages load agenda documents with JavaScript; needs a dedicated reader"
   },
   {
    "entity_id": "m-tampa",
@@ -42,6 +34,16 @@
    "follow": "(?i)251agendaonline/Meetings/(ViewMeeting|Details)",
    "pdf": "(?i)251agendaonline/(Documents/(ViewAgenda|ViewDocument|DownloadFile)|.*\\.pdf)",
    "_status": "OnBase Agenda Online page loads its meeting list with JavaScript; needs a dedicated reader"
+  }
+ ],
+ "sequential": [
+  {
+   "entity_id": "c-miamidade",
+   "name": "Miami-Dade County",
+   "url": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/{key}.pdf",
+   "start_key": 5560,
+   "probe_ahead": 40,
+   "_note": "Agenda PDFs are numbered by meeting key; the reader checks the next keys after the last one found."
   }
  ]
 }

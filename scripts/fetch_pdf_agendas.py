@@ -123,6 +123,40 @@ def main():
             except Exception as e:
                 d["errors"].append(f"pdf {u}: {e}")
             time.sleep(1)
+    # numbered PDFs (Miami-Dade): probe keys after the last one found
+    state_p = ROOT / "data/pdf_state.json"
+    state = json.loads(state_p.read_text()) if state_p.exists() else {}
+    for sq in cfg.get("sequential", []):
+        d = debug[sq["entity_id"]] = {"name": sq["name"], "probed": [], "scanned": [], "errors": []}
+        last = state.get(sq["entity_id"], sq["start_key"])
+        misses, key, scanned = 0, last + 1, 0
+        while misses < 12 and key <= last + sq["probe_ahead"] and scanned < cfg["max_new_pdfs_per_run"] + 4:
+            u = sq["url"].format(key=key)
+            try:
+                data = fetch(u, binary=True)
+                if not data[:5].startswith(b"%PDF"): raise ValueError("not pdf")
+            except Exception:
+                misses += 1; d["probed"].append([key, "miss"]); key += 1; continue
+            misses = 0; d["probed"].append([key, "ok"]); state[sq["entity_id"]] = key; scanned += 1
+            try:
+                pages = pdf_text(data, cfg["max_pages_per_pdf"])
+                first = " ".join((pages[0][1] if pages else "").split())[:400]
+                m = re.search(r"(January|February|March|April|May|June|July|August|September|October|November|December) (\d{1,2}), (20\d\d)", first)
+                mdate = datetime.strptime(" ".join(m.groups()), "%B %d %Y").date().isoformat() if m else None
+                body = next((b for b in ["Board of County Commissioners", "Committee", "Policy Council"] if b in first), None)
+                hits = passages(pages, min_amount)[:30]
+                for pno, top, ch in hits:
+                    store["items"].append({
+                        "entity_id": sq["entity_id"], "government": sq["name"], "client": "pdf",
+                        "body": body, "meeting_date": mdate, "agenda_number": f"p.{pno}", "file_number": None,
+                        "title": ch, "max_amount": top,
+                        "keywords": sorted({mm.group(0).lower() for mm in KEYWORDS.finditer(ch)}),
+                        "meeting_url": None, "agenda_pdf": u, "found_utc": now.isoformat(timespec="seconds")})
+                d["scanned"].append({"pdf": u, "pages": len(pages), "hits": len(hits), "meeting_date": mdate})
+            except Exception as e:
+                d["errors"].append(f"pdf {u}: {e}")
+            key += 1; time.sleep(1)
+    state_p.write_text(json.dumps(state, indent=1))
     # keep last 60 days of PDF findings
     cutoff = now.timestamp() - 60 * 86400
     store["items"] = [i for i in store["items"] if datetime.fromisoformat(i["found_utc"]).timestamp() >= cutoff]
