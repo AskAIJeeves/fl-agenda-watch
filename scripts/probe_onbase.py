@@ -19,6 +19,8 @@ for b in BASES:
             body, st, fu = e.read(3000).decode("utf-8", "replace"), e.code, u
         except Exception as e:
             body, st, fu = str(e), None, u
+        if p in ("/Meetings/Search?dropid=4&mtids=", "/Meetings/ViewMeeting?id=1000&doctype=1"):
+            (ROOT / "data" / ("onbase_" + ("tampa" if "tampa" in b else "osceola") + ("_search" if "Search" in p else "_view") + ".html")).write_text(body)
         links = sorted(set(re.findall(r'(?:href|src|data-url|action)=["\']([^"\']+)', body)))[:80]
         scripts = re.findall(r"(?:url|ajax|fetch)\s*[:(]\s*['\"]([^'\"]+)", body)[:30]
         res.append({"url": u, "final": fu, "status": st, "len": len(body), "head": body[:600], "links": links, "script_urls": scripts,
