@@ -1,0 +1,24 @@
+name: Agenda watch
+on:
+  schedule:
+    - cron: "17 10 * * *"   # 10:17 UTC daily, before the 11:43 UTC digest
+  workflow_dispatch: {}
+permissions:
+  contents: write
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python scripts/fetch_agendas.py
+      - name: Commit results
+        run: |
+          git config user.name "agenda-bot"
+          git config user.email "agenda-bot@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Agenda data $(date -u +%F)"
+          git push
