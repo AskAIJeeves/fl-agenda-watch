@@ -1,0 +1,983 @@
+
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+	<meta charset="utf-8" />
+	<title>Meeting Search Results - OnBase Agenda Online</title>
+	<link href="/251agendaonline/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	<meta name="viewport" content="width=device-width" />
+	
+	<meta name="format-detection" content="telephone=no" />
+
+	<script src="/251agendaonline/bundles/jquery?v=0XJqbYX4tFhH25_G_qbbiJSeeoDaZY7hjfcdPnQjLwc1"></script>
+
+
+	<link href="/251agendaonline/bundles/css?v=70WAfh5_Fryuvc09STu6rVeZuOqzlpEN2LfMECCmFrw1" rel="stylesheet"/>
+
+
+
+	<script src="/251agendaonline/Scripts/bootstrap.bundle-5.1.3.min.js" type="text/javascript"></script>
+
+	<!-- Dynamic Stylesheet -->
+	<link href="/251agendaonline/Style" rel="stylesheet" />
+</head>
+<body>
+	<div id="accessible-nav" class="visually-hidden-focusable accessible-nav navbar">
+		<ul class="nav navbar-nav">
+			<li class="nav-link">
+				<a id="skip-to-main-content" href="#main-content">Skip to main content</a>
+			</li>
+			<li class="nav-link">
+				<a id="skip-to-intro-content" class="hidden" href="#intro-content">Skip to introduction content</a>
+			</li>
+			<li class="nav-link">
+				<a id="skip-to-search-content" class="hidden" href="#search-content">Skip to search</a>
+			</li>
+		</ul>
+	</div>
+	<div id="logo-container">
+		
+<!-- <div class="logo"><img src="~/Images/OnBase_Logo.png" alt="OnBase Logo" /></div> -->
+<div class="logo"><a href="https://www.tampa.gov/"><img src="/251agendaonline/Images/COT-logo-sm.png" alt="City of Tampa logo"></a></div>
+	</div>
+	<div id="navbar" class="navbar navbar-expand-sm navbar-dark" role="navigation">
+		<div class="navbar-header">
+			<button class="navbar-toggler"
+					type="button"
+					data-bs-toggle="collapse"
+					data-bs-target="#navbarNavAltMarkup"
+					aria-controls="navbarNavAltMarkup"
+					aria-expanded="false"
+					aria-label="Toggle navigation menu">
+				<span class="navbar-toggler-icon header"></span>
+			</button>
+			<div class="media-collapse">
+				<span id="media-collapse-text">Hide Media</span>
+			</div>
+		</div>
+		<div id="navbarNavAltMarkup" class="navbar-collapse collapse">
+			<ul class="nav navbar-nav">
+				<li class="nav-link"><a href="/251agendaonline/" id="lnkNavHome" title="Navigate to home page">Home</a></li>
+				<!-- <li class="nav-link"><a href="/251agendaonline/Meetings" id="lnkNavMeetings" title="Navigate to meeting search page">Meetings</a></li> -->
+				<li class="nav-link"><a href="/251agendaonline/Meetings" id="lnkNavMeetings" title="Navigate to meeting search page">All Meetings</a></li>
+				<!-- <li class="nav-link"><a href="/251agendaonline/Home/Contact" id="lnkNavContact" title="Navigate to contact info page">Contact</a></li> -->
+				<li class="nav-link"><a href="https://www.tampa.gov/city-clerk">Contact</a></li>
+				<li class="nav-link"><a href="https://tampagov.hylandcloud.com/251publicaccess/">Executed Documents</a></li>
+				<li class="nav-link"><a href="https://www.tampa.gov/city-clerk/info/onbase">Help</a></li>
+			</ul>
+		</div>
+
+	</div>
+	<div>
+		
+		<section class="content-wrapper clear-fix">
+			
+
+
+<div id="search-content">
+    
+	<div id="search-controls" class="card-group">
+		<div class="card card-primary">
+			<div class="card-body" id="searchOptions">
+				<div class="search-header">
+					Search Meeting Content
+					<p>To enter a date range, select "Custom Date Range" in the date range dropdown.</p>
+				</div>
+
+<form action="/251agendaonline/Meetings" id="searchForm" method="post"><input name="__RequestVerificationToken" type="hidden" value="ETpgFwQdvpQqqkUyXZPZBKQJmfRCFK8g6UcPUgkz3bOCeRF2rW94yyu52RzPvMt95DjSJaYJ_sQ8BUucDltDEksdlDG_irvCZ4aY4Ao4OOo1" />			<fieldset>
+				<legend class="visually-hidden" aria-label="Parameters include fields to Search by specific Text, Search by Meeting Types, and Search by Meeting Date Range. Use Tab key to navigate list of Meeting Type checkboxes. Use Spacebar or Enter key to check a checkbox to select a Meeting Type">
+					Meeting search parameters
+				</legend>
+
+													<div class="row form-group">
+						<label class="col-md-2 control-label" for="Keywords">Search Text</label>
+						<div class="col-md-10">
+							<input class="form-control" id="Keywords" name="Keywords" type="text" value="" />
+						</div>
+					</div>
+									<div class="row form-group">
+						<label class="col-md-2 control-label" for="MeetingTypeIDs">Meeting Type</label>
+						<div class="col-md-10">
+							<div class="multi-select form-control"
+								 id="MeetingTypeIDs"
+								 name="MeetingTypeIDs"
+								 noselectiontext="No Meeting Types selected. Select one or more Meeting Types"
+								 selectiontext="{0} Meeting Types selected"
+								 checkalltext="Check All"
+								 uncheckalltext="Uncheck All"
+								 nextfocusid="DateRangeOptionID"
+								 selectedvalues="">
+									<button id="btnListItem" value="101" style="display: none;">Code Enforcement</button>
+									<button id="btnListItem" value="102" style="display: none;">Council Calendar</button>
+									<button id="btnListItem" value="103" style="display: none;">Council Evening</button>
+									<button id="btnListItem" value="104" style="display: none;">Council Regular</button>
+									<button id="btnListItem" value="105" style="display: none;">Council Special</button>
+									<button id="btnListItem" value="106" style="display: none;">Council Workshop</button>
+									<button id="btnListItem" value="107" style="display: none;">CRA Regular</button>
+									<button id="btnListItem" value="108" style="display: none;">CRA Special</button>
+							</div>
+						</div>
+					</div>
+									<div class="row form-group">
+						<label class="col-md-2 control-label" for="DateRangeOptionID">Date Range</label>
+						<div class="col-md-10">
+							<div class="drop-down btn btn-default form-control">
+								<select id="DateRangeOptionID" name="DateRangeOptionID"><option value="1">Last Year</option>
+<option value="2">Last Month</option>
+<option value="3">Last Week</option>
+<option selected="selected" value="4">Recent/Upcoming</option>
+<option value="5">This Week</option>
+<option value="6">This Month</option>
+<option value="7">This Year</option>
+<option value="8">Next Week</option>
+<option value="9">Next Month</option>
+<option value="10">Next Year</option>
+<option value="11">Custom Date Range</option>
+</select>
+							</div>
+						</div>
+					</div>
+					<div id="divDatePicker" class="row form-group" style="display: none;">
+						<label class="col-md-2 control-label d-xs-none d-sm-none d-md-block"></label>
+						<div class="col-md-10">
+							<div class="d-xs-none d-sm-inline d-md-inline meetingPadding"></div>
+							<label for="DateRangeCustomStartDate" class="hidden">Start Date</label>
+							<input class="input-normal" id="DateRangeCustomStartDate" name="DateRangeCustomStartDate" type="text" value="" />
+							<span class="control-label meetingPadding"></span>
+							<label for="DateRangeCustomEndDate" class="hidden">End Date</label>
+							<input class="input-normal" id="DateRangeCustomEndDate" name="DateRangeCustomEndDate" type="text" value="" />
+						</div>
+					</div>
+
+				<div class="row form-group">
+					<div class="col-md-10 col-md-offset-2">
+						<input type="submit" id="btnSearch" value="Search" class="btn btn-primary" />
+					</div>
+				</div>
+			</fieldset>
+</form>
+			</div>
+		</div>
+	</div>
+
+<!-- Can't bundle this due to the language .js files-->
+<script type="text/javascript" src="/251agendaonline/Scripts/datepicker-6.3.6.min.js"></script>
+
+<script type="text/javascript">
+	$(document).ready(function ()
+    {
+		$("#DateRangeOptionID").change(function (e)
+		{
+			showCustomDateRangePicker();
+		});
+
+		datePickerController.createDatePicker(
+		{
+			// Associate the text input to a Local date format
+			formElements: { "DateRangeCustomStartDate": "%n/%j/%Y" }
+		});
+		datePickerController.createDatePicker(
+		{
+			// Associate the text input to a Local date format
+			formElements: { "DateRangeCustomEndDate": "%n/%j/%Y" }
+		});
+
+        showCustomDateRangePicker();
+		showMeetingTypeButtonText();
+
+		$("#btnSearch").click(function (e) {
+			btnSearchClick();
+			return false;
+		});
+	})
+
+	function btnSearchClick() {
+		$("#btnSearch").prop("disabled", true);
+		$("#btnSearch").val("Searching...");
+
+		// Navigate to run search
+		window.location = getUrlForSearch();
+	}
+
+	function getUrlForSearch() {
+		let dateRangeOption = $("#DateRangeOptionID").val();
+		let meetingTypeIds = $("#MeetingTypeIDs").val();
+		let searchText = $("#Keywords").val();
+
+		let url = "/251agendaonline/Meetings/Search?dropid=" + encodeURIComponent(dateRangeOption);
+		if (meetingTypeIds.length > 0) {
+			url += "&mtids=" + encodeURIComponent(meetingTypeIds);
+		}
+		if (searchText.length > 0) {
+			url += "&searchTerm=" + encodeURIComponent(searchText);
+		}
+		if (dateRangeOption == 11) {
+			if ($("#DateRangeCustomStartDate").val().length > 0)
+			{
+				url += "&dropsv=" + encodeURIComponent($("#DateRangeCustomStartDate").val());
+			}
+			if ($("#DateRangeCustomEndDate").val().length > 0) {
+				url += "&dropev=" + encodeURIComponent($("#DateRangeCustomEndDate").val());
+			}
+		}
+
+		return url;
+	}
+
+	function showCustomDateRangePicker()
+	{
+		if ($("#DateRangeOptionID").val() == 11)
+		{
+			$("#divDatePicker").show();
+			showDatePickerHoverText();
+		}
+		else
+		{
+			$("#divDatePicker").hide();
+		}
+	}
+
+	function showDatePickerHoverText()
+	{
+		$("#fd-but-DateRangeCustomStartDate").attr("title", "Show Calendar for Starting Date");
+		$("#fd-but-DateRangeCustomStartDate span + span").remove();
+		$("#fd-but-DateRangeCustomEndDate").attr("title", "Show Calendar for Ending Date");
+		$("#fd-but-DateRangeCustomEndDate span + span").remove();
+	}
+
+	function showMeetingTypeButtonText() {
+		var meetingTypeInput = $('#lblMeetingTypeIDs');
+		$("#divMainMeetingTypeIDs").find('input').change(function (e) {
+			var selectedValues = $("#MeetingTypeIDs").val();
+			var selectedValuesCount = selectedValues.split(',').length;
+
+			if ((selectedValues.length > 0) && (selectedValuesCount > 0) && (selectedValuesCount < 3)) {
+				meetingTypeInput.text(format("Selected Meeting Types: {0}", meetingTypeInput.text()));
+			}
+		});
+	}
+</script>
+
+</div>
+
+    <div class="header">Meeting Search Results</div>
+    <div id="main-content">
+        
+<script src="/251agendaonline/bundles/meetinglisttabs?v=z0SndkfEbolZMMAbsKhpq72KG-zrLzdhS35kmJ3JlBE1"></script>
+
+<script src="/251agendaonline/bundles/meetinglistsort?v=VqWgu2oX8K78ZAE1nyhu9Wx8WXZ9geVZXUQ5bIOItaQ1"></script>
+
+
+<div id="meetings-list">
+</div>
+
+<div id="getMoreResultsError" class="alert alert-dismissible alert-danger hidden">
+</div>
+<div id="getMoreResultsWarning" class="alert alert-dismissible alert-warning hidden">
+</div>
+
+<form action="/251agendaonline/Meetings/GetMoreFullTextResults" id="getMoreResultsForm" method="post"><input name="__RequestVerificationToken" type="hidden" value="7PHP8Shr7dhZrLdKVpEh3JbAhpyrVwRivwKm7v6TfXkryUX24q_D4B18WKIbARs80ERsVvedBDS_PHg8ZwLAueGIgbLyG2ZpPm4MaPVB2TU1" />	<fieldset>
+		<input type="hidden" id="dropid" name="dropid" value="4" />
+		<input type="hidden" id="mtids" name="mtids" value="" />
+		<input type="hidden" id="searchTerm" name="searchTerm" />
+		<input type="hidden" id="dropsv" name="dropsv" />
+		<input type="hidden" id="dropev" name="dropev" />
+		<input type="hidden" id="lastMeetingIdSearched" name="lastMeetingIdSearched" />
+		<div class="">
+			<input type="button" id="btnGetMoreResults" value="Get More Results" class="btn btn-primary hidden" />
+		</div>
+	</fieldset>
+</form>
+<script type="text/javascript">
+	$(document).ready(function () {
+		$("#btnGetMoreResults").click(function (e) {
+			var yScrollPositionBeforeSearch = window.scrollY;
+			var xScrollPositionBeforeSearch = window.scrollX;
+
+			$("#btnGetMoreResults").val(Translations.GETTING_MORE_RESULTS_TEXT).prop("disabled", true);
+			$.post(
+				$("#getMoreResultsForm")[0].getAttribute("action"),
+				$("#getMoreResultsForm").serialize()
+			)
+				.done(function (data) {
+					let searchResults = new SearchResults(data);
+					showSearchResults(searchResults);
+
+					window.scroll(xScrollPositionBeforeSearch, yScrollPositionBeforeSearch);
+				})
+				.fail(function (ex) {
+					console.error("Error occurred while getting the search results: " + ex.toString());
+					$("#getMoreResultsError").removeClass("hidden").text("Error occurred running search, please try again or try again later.");
+				});
+			return false;
+		});
+
+		showSearchResults(new SearchResults({"MeetingTypes":[{"ID":"101","Name":"Code Enforcement","DisplayName":"Code Enforcement"},{"ID":"102","Name":"Council Calendar","DisplayName":"Council Calendar"},{"ID":"103","Name":"Council Evening","DisplayName":"Council Evening"},{"ID":"104","Name":"Council Regular","DisplayName":"Council Regular"},{"ID":"105","Name":"Council Special","DisplayName":"Council Special"},{"ID":"106","Name":"Council Workshop","DisplayName":"Council Workshop"},{"ID":"107","Name":"CRA Regular","DisplayName":"CRA Regular"},{"ID":"108","Name":"CRA Special","DisplayName":"CRA Special"}],"MeetingTypeIDs":"","DateRangeOptionID":4,"DateRangeCustomStartDate":null,"DateRangeCustomEndDate":null,"Meetings":[{"ID":2988,"Name":"City Council Evening - January 14, 2027","MeetingTypeName":"Council Evening","PublishedMeetingTypeName":null,"IsAgendaAvailable":false,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2027-01-14T17:01:00-05:00","TimeString":"1/14/2027 5:01:00 PM","TimeStamp":1799964060,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Evening_-_January_14,_2027_2988_Agenda_1_14_2027_5_01_00_PM","AgendaPacketUniqueName":"City_Council_Evening_-_January_14,_2027_2988_Agenda_Packet_1_14_2027_5_01_00_PM","MinutesPacketUniqueName":"City_Council_Evening_-_January_14,_2027_2988_Minutes_Packet_1_14_2027_5_01_00_PM","MinutesUniqueName":"City_Council_Evening_-_January_14,_2027_2988_Minutes_1_14_2027_5_01_00_PM","SummaryUniqueName":"City_Council_Evening_-_January_14,_2027_2988_Summary_1_14_2027_5_01_00_PM","LatestDocumentType":1},{"ID":2977,"Name":"CRA Regular - January 14, 2027","MeetingTypeName":"CRA Regular","PublishedMeetingTypeName":null,"IsAgendaAvailable":false,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2027-01-14T09:00:00-05:00","TimeString":"1/14/2027 9:00:00 AM","TimeStamp":1799935200,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"CRA_Regular_-_January_14,_2027_2977_Agenda_1_14_2027_9_00_00_AM","AgendaPacketUniqueName":"CRA_Regular_-_January_14,_2027_2977_Agenda_Packet_1_14_2027_9_00_00_AM","MinutesPacketUniqueName":"CRA_Regular_-_January_14,_2027_2977_Minutes_Packet_1_14_2027_9_00_00_AM","MinutesUniqueName":"CRA_Regular_-_January_14,_2027_2977_Minutes_1_14_2027_9_00_00_AM","SummaryUniqueName":"CRA_Regular_-_January_14,_2027_2977_Summary_1_14_2027_9_00_00_AM","LatestDocumentType":1},{"ID":2838,"Name":"City Council Regular - January 7, 2027","MeetingTypeName":"Council Regular","PublishedMeetingTypeName":null,"IsAgendaAvailable":false,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2027-01-07T09:00:00-05:00","TimeString":"1/7/2027 9:00:00 AM","TimeStamp":1799330400,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Regular_-_January_7,_2027_2838_Agenda_1_7_2027_9_00_00_AM","AgendaPacketUniqueName":"City_Council_Regular_-_January_7,_2027_2838_Agenda_Packet_1_7_2027_9_00_00_AM","MinutesPacketUniqueName":"City_Council_Regular_-_January_7,_2027_2838_Minutes_Packet_1_7_2027_9_00_00_AM","MinutesUniqueName":"City_Council_Regular_-_January_7,_2027_2838_Minutes_1_7_2027_9_00_00_AM","SummaryUniqueName":"City_Council_Regular_-_January_7,_2027_2838_Summary_1_7_2027_9_00_00_AM","LatestDocumentType":1},{"ID":2945,"Name":"City Council Regular - December 17, 2026","MeetingTypeName":"Council Regular","PublishedMeetingTypeName":null,"IsAgendaAvailable":false,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-12-17T09:00:00-05:00","TimeString":"12/17/2026 9:00:00 AM","TimeStamp":1797516000,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Regular_-_December_17,_2026_2945_Agenda_12_17_2026_9_00_00_AM","AgendaPacketUniqueName":"City_Council_Regular_-_December_17,_2026_2945_Agenda_Packet_12_17_2026_9_00_00_AM","MinutesPacketUniqueName":"City_Council_Regular_-_December_17,_2026_2945_Minutes_Packet_12_17_2026_9_00_00_AM","MinutesUniqueName":"City_Council_Regular_-_December_17,_2026_2945_Minutes_12_17_2026_9_00_00_AM","SummaryUniqueName":"City_Council_Regular_-_December_17,_2026_2945_Summary_12_17_2026_9_00_00_AM","LatestDocumentType":1},{"ID":2944,"Name":"City Council Evening - December 10, 2026","MeetingTypeName":"Council Evening","PublishedMeetingTypeName":null,"IsAgendaAvailable":false,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-12-10T17:01:00-05:00","TimeString":"12/10/2026 5:01:00 PM","TimeStamp":1796940060,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Evening_-_December_10,_2026_2944_Agenda_12_10_2026_5_01_00_PM","AgendaPacketUniqueName":"City_Council_Evening_-_December_10,_2026_2944_Agenda_Packet_12_10_2026_5_01_00_PM","MinutesPacketUniqueName":"City_Council_Evening_-_December_10,_2026_2944_Minutes_Packet_12_10_2026_5_01_00_PM","MinutesUniqueName":"City_Council_Evening_-_December_10,_2026_2944_Minutes_12_10_2026_5_01_00_PM","SummaryUniqueName":"City_Council_Evening_-_December_10,_2026_2944_Summary_12_10_2026_5_01_00_PM","LatestDocumentType":1},{"ID":2943,"Name":"CRA Regular - December 10, 2026","MeetingTypeName":"CRA Regular","PublishedMeetingTypeName":null,"IsAgendaAvailable":false,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-12-10T09:00:00-05:00","TimeString":"12/10/2026 9:00:00 AM","TimeStamp":1796911200,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"CRA_Regular_-_December_10,_2026_2943_Agenda_12_10_2026_9_00_00_AM","AgendaPacketUniqueName":"CRA_Regular_-_December_10,_2026_2943_Agenda_Packet_12_10_2026_9_00_00_AM","MinutesPacketUniqueName":"CRA_Regular_-_December_10,_2026_2943_Minutes_Packet_12_10_2026_9_00_00_AM","MinutesUniqueName":"CRA_Regular_-_December_10,_2026_2943_Minutes_12_10_2026_9_00_00_AM","SummaryUniqueName":"CRA_Regular_-_December_10,_2026_2943_Summary_12_10_2026_9_00_00_AM","LatestDocumentType":1},{"ID":2973,"Name":"City Council Evening, December 3, 2026","MeetingTypeName":"Council Evening","PublishedMeetingTypeName":null,"IsAgendaAvailable":false,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-12-03T17:01:00-05:00","TimeString":"12/3/2026 5:01:00 PM","TimeStamp":1796335260,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Evening,_December_3,_2026_2973_Agenda_12_3_2026_5_01_00_PM","AgendaPacketUniqueName":"City_Council_Evening,_December_3,_2026_2973_Agenda_Packet_12_3_2026_5_01_00_PM","MinutesPacketUniqueName":"City_Council_Evening,_December_3,_2026_2973_Minutes_Packet_12_3_2026_5_01_00_PM","MinutesUniqueName":"City_Council_Evening,_December_3,_2026_2973_Minutes_12_3_2026_5_01_00_PM","SummaryUniqueName":"City_Council_Evening,_December_3,_2026_2973_Summary_12_3_2026_5_01_00_PM","LatestDocumentType":1},{"ID":2942,"Name":"City Council Regular - December 3, 2026","MeetingTypeName":"Council Regular","PublishedMeetingTypeName":null,"IsAgendaAvailable":false,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-12-03T09:00:00-05:00","TimeString":"12/3/2026 9:00:00 AM","TimeStamp":1796306400,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Regular_-_December_3,_2026_2942_Agenda_12_3_2026_9_00_00_AM","AgendaPacketUniqueName":"City_Council_Regular_-_December_3,_2026_2942_Agenda_Packet_12_3_2026_9_00_00_AM","MinutesPacketUniqueName":"City_Council_Regular_-_December_3,_2026_2942_Minutes_Packet_12_3_2026_9_00_00_AM","MinutesUniqueName":"City_Council_Regular_-_December_3,_2026_2942_Minutes_12_3_2026_9_00_00_AM","SummaryUniqueName":"City_Council_Regular_-_December_3,_2026_2942_Summary_12_3_2026_9_00_00_AM","LatestDocumentType":1},{"ID":2941,"Name":"City Council Regular - November 19, 2026","MeetingTypeName":"Council Regular","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-11-19T09:00:00-05:00","TimeString":"11/19/2026 9:00:00 AM","TimeStamp":1795096800,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Regular_-_November_19,_2026_2941_Agenda_11_19_2026_9_00_00_AM","AgendaPacketUniqueName":"City_Council_Regular_-_November_19,_2026_2941_Agenda_Packet_11_19_2026_9_00_00_AM","MinutesPacketUniqueName":"City_Council_Regular_-_November_19,_2026_2941_Minutes_Packet_11_19_2026_9_00_00_AM","MinutesUniqueName":"City_Council_Regular_-_November_19,_2026_2941_Minutes_11_19_2026_9_00_00_AM","SummaryUniqueName":"City_Council_Regular_-_November_19,_2026_2941_Summary_11_19_2026_9_00_00_AM","LatestDocumentType":1},{"ID":3005,"Name":"Special Magistrate PM- November 18, 2026","MeetingTypeName":"Code Enforcement","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-11-18T13:00:00-05:00","TimeString":"11/18/2026 1:00:00 PM","TimeStamp":1795024800,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Special_Magistrate_PM-_November_18,_2026_3005_Agenda_11_18_2026_1_00_00_PM","AgendaPacketUniqueName":"Special_Magistrate_PM-_November_18,_2026_3005_Agenda_Packet_11_18_2026_1_00_00_PM","MinutesPacketUniqueName":"Special_Magistrate_PM-_November_18,_2026_3005_Minutes_Packet_11_18_2026_1_00_00_PM","MinutesUniqueName":"Special_Magistrate_PM-_November_18,_2026_3005_Minutes_11_18_2026_1_00_00_PM","SummaryUniqueName":"Special_Magistrate_PM-_November_18,_2026_3005_Summary_11_18_2026_1_00_00_PM","LatestDocumentType":1},{"ID":3004,"Name":"Special Magistrate AM- November 18, 2026","MeetingTypeName":"Code Enforcement","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-11-18T09:00:00-05:00","TimeString":"11/18/2026 9:00:00 AM","TimeStamp":1795010400,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Special_Magistrate_AM-_November_18,_2026_3004_Agenda_11_18_2026_9_00_00_AM","AgendaPacketUniqueName":"Special_Magistrate_AM-_November_18,_2026_3004_Agenda_Packet_11_18_2026_9_00_00_AM","MinutesPacketUniqueName":"Special_Magistrate_AM-_November_18,_2026_3004_Minutes_Packet_11_18_2026_9_00_00_AM","MinutesUniqueName":"Special_Magistrate_AM-_November_18,_2026_3004_Minutes_11_18_2026_9_00_00_AM","SummaryUniqueName":"Special_Magistrate_AM-_November_18,_2026_3004_Summary_11_18_2026_9_00_00_AM","LatestDocumentType":1},{"ID":2986,"Name":"City Council Special Call - November 17, 2026","MeetingTypeName":"Council Special","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-11-17T13:30:00-05:00","TimeString":"11/17/2026 1:30:00 PM","TimeStamp":1794940200,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Special_Call_-_November_17,_2026_2986_Agenda_11_17_2026_1_30_00_PM","AgendaPacketUniqueName":"City_Council_Special_Call_-_November_17,_2026_2986_Agenda_Packet_11_17_2026_1_30_00_PM","MinutesPacketUniqueName":"City_Council_Special_Call_-_November_17,_2026_2986_Minutes_Packet_11_17_2026_1_30_00_PM","MinutesUniqueName":"City_Council_Special_Call_-_November_17,_2026_2986_Minutes_11_17_2026_1_30_00_PM","SummaryUniqueName":"City_Council_Special_Call_-_November_17,_2026_2986_Summary_11_17_2026_1_30_00_PM","LatestDocumentType":1},{"ID":2940,"Name":"City Council Evening - November 12, 2026","MeetingTypeName":"Council Evening","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-11-12T17:01:00-05:00","TimeString":"11/12/2026 5:01:00 PM","TimeStamp":1794520860,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Evening_-_November_12,_2026_2940_Agenda_11_12_2026_5_01_00_PM","AgendaPacketUniqueName":"City_Council_Evening_-_November_12,_2026_2940_Agenda_Packet_11_12_2026_5_01_00_PM","MinutesPacketUniqueName":"City_Council_Evening_-_November_12,_2026_2940_Minutes_Packet_11_12_2026_5_01_00_PM","MinutesUniqueName":"City_Council_Evening_-_November_12,_2026_2940_Minutes_11_12_2026_5_01_00_PM","SummaryUniqueName":"City_Council_Evening_-_November_12,_2026_2940_Summary_11_12_2026_5_01_00_PM","LatestDocumentType":2},{"ID":2939,"Name":"CRA Regular - November 12, 2026","MeetingTypeName":"CRA Regular","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-11-12T09:00:00-05:00","TimeString":"11/12/2026 9:00:00 AM","TimeStamp":1794492000,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"CRA_Regular_-_November_12,_2026_2939_Agenda_11_12_2026_9_00_00_AM","AgendaPacketUniqueName":"CRA_Regular_-_November_12,_2026_2939_Agenda_Packet_11_12_2026_9_00_00_AM","MinutesPacketUniqueName":"CRA_Regular_-_November_12,_2026_2939_Minutes_Packet_11_12_2026_9_00_00_AM","MinutesUniqueName":"CRA_Regular_-_November_12,_2026_2939_Minutes_11_12_2026_9_00_00_AM","SummaryUniqueName":"CRA_Regular_-_November_12,_2026_2939_Summary_11_12_2026_9_00_00_AM","LatestDocumentType":2},{"ID":3003,"Name":"Council Calendar - Updated November 11, 2026","MeetingTypeName":"Council Calendar","PublishedMeetingTypeName":null,"IsAgendaAvailable":false,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":true,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-11-11T11:27:59-05:00","TimeString":"11/11/2026 11:27:59 AM","TimeStamp":1794414479,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Council_Calendar_-_Updated_November_11,_2026_3003_Agenda_11_11_2026_11_27_59_AM","AgendaPacketUniqueName":"Council_Calendar_-_Updated_November_11,_2026_3003_Agenda_Packet_11_11_2026_11_27_59_AM","MinutesPacketUniqueName":"Council_Calendar_-_Updated_November_11,_2026_3003_Minutes_Packet_11_11_2026_11_27_59_AM","MinutesUniqueName":"Council_Calendar_-_Updated_November_11,_2026_3003_Minutes_11_11_2026_11_27_59_AM","SummaryUniqueName":"Council_Calendar_-_Updated_November_11,_2026_3003_Summary_11_11_2026_11_27_59_AM","LatestDocumentType":3},{"ID":3000,"Name":"City Council Regular Addendum - November 5, 2026","MeetingTypeName":"Council Regular","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-11-05T09:00:00-05:00","TimeString":"11/5/2026 9:00:00 AM","TimeStamp":1793887200,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Regular_Addendum_-_November_5,_2026_3000_Agenda_11_5_2026_9_00_00_AM","AgendaPacketUniqueName":"City_Council_Regular_Addendum_-_November_5,_2026_3000_Agenda_Packet_11_5_2026_9_00_00_AM","MinutesPacketUniqueName":"City_Council_Regular_Addendum_-_November_5,_2026_3000_Minutes_Packet_11_5_2026_9_00_00_AM","MinutesUniqueName":"City_Council_Regular_Addendum_-_November_5,_2026_3000_Minutes_11_5_2026_9_00_00_AM","SummaryUniqueName":"City_Council_Regular_Addendum_-_November_5,_2026_3000_Summary_11_5_2026_9_00_00_AM","LatestDocumentType":1},{"ID":2938,"Name":"City Council Regular - November 5, 2026","MeetingTypeName":"Council Regular","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-11-05T09:00:00-05:00","TimeString":"11/5/2026 9:00:00 AM","TimeStamp":1793887200,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Regular_-_November_5,_2026_2938_Agenda_11_5_2026_9_00_00_AM","AgendaPacketUniqueName":"City_Council_Regular_-_November_5,_2026_2938_Agenda_Packet_11_5_2026_9_00_00_AM","MinutesPacketUniqueName":"City_Council_Regular_-_November_5,_2026_2938_Minutes_Packet_11_5_2026_9_00_00_AM","MinutesUniqueName":"City_Council_Regular_-_November_5,_2026_2938_Minutes_11_5_2026_9_00_00_AM","SummaryUniqueName":"City_Council_Regular_-_November_5,_2026_2938_Summary_11_5_2026_9_00_00_AM","LatestDocumentType":2},{"ID":2999,"Name":"Special Magistrate PM- November 4, 2026","MeetingTypeName":"Code Enforcement","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-11-04T13:00:00-05:00","TimeString":"11/4/2026 1:00:00 PM","TimeStamp":1793815200,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Special_Magistrate_PM-_November_4,_2026_2999_Agenda_11_4_2026_1_00_00_PM","AgendaPacketUniqueName":"Special_Magistrate_PM-_November_4,_2026_2999_Agenda_Packet_11_4_2026_1_00_00_PM","MinutesPacketUniqueName":"Special_Magistrate_PM-_November_4,_2026_2999_Minutes_Packet_11_4_2026_1_00_00_PM","MinutesUniqueName":"Special_Magistrate_PM-_November_4,_2026_2999_Minutes_11_4_2026_1_00_00_PM","SummaryUniqueName":"Special_Magistrate_PM-_November_4,_2026_2999_Summary_11_4_2026_1_00_00_PM","LatestDocumentType":2},{"ID":2998,"Name":"Special Magistrate AM- November 4, 2026","MeetingTypeName":"Code Enforcement","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-11-04T09:00:00-05:00","TimeString":"11/4/2026 9:00:00 AM","TimeStamp":1793800800,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Special_Magistrate_AM-_November_4,_2026_2998_Agenda_11_4_2026_9_00_00_AM","AgendaPacketUniqueName":"Special_Magistrate_AM-_November_4,_2026_2998_Agenda_Packet_11_4_2026_9_00_00_AM","MinutesPacketUniqueName":"Special_Magistrate_AM-_November_4,_2026_2998_Minutes_Packet_11_4_2026_9_00_00_AM","MinutesUniqueName":"Special_Magistrate_AM-_November_4,_2026_2998_Minutes_11_4_2026_9_00_00_AM","SummaryUniqueName":"Special_Magistrate_AM-_November_4,_2026_2998_Summary_11_4_2026_9_00_00_AM","LatestDocumentType":2},{"ID":2997,"Name":"Council Calendar - Updated November 3, 2026","MeetingTypeName":"Council Calendar","PublishedMeetingTypeName":null,"IsAgendaAvailable":false,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-11-03T11:10:46-05:00","TimeString":"11/3/2026 11:10:46 AM","TimeStamp":1793722246,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Council_Calendar_-_Updated_November_3,_2026_2997_Agenda_11_3_2026_11_10_46_AM","AgendaPacketUniqueName":"Council_Calendar_-_Updated_November_3,_2026_2997_Agenda_Packet_11_3_2026_11_10_46_AM","MinutesPacketUniqueName":"Council_Calendar_-_Updated_November_3,_2026_2997_Minutes_Packet_11_3_2026_11_10_46_AM","MinutesUniqueName":"Council_Calendar_-_Updated_November_3,_2026_2997_Minutes_11_3_2026_11_10_46_AM","SummaryUniqueName":"Council_Calendar_-_Updated_November_3,_2026_2997_Summary_11_3_2026_11_10_46_AM","LatestDocumentType":1},{"ID":2995,"Name":"City Council Special Call Addendum - October 29, 2026","MeetingTypeName":"Council Special","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-10-29T09:00:00-04:00","TimeString":"10/29/2026 9:00:00 AM","TimeStamp":1793278800,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Special_Call_Addendum_-_October_29,_2026_2995_Agenda_10_29_2026_9_00_00_AM","AgendaPacketUniqueName":"City_Council_Special_Call_Addendum_-_October_29,_2026_2995_Agenda_Packet_10_29_2026_9_00_00_AM","MinutesPacketUniqueName":"City_Council_Special_Call_Addendum_-_October_29,_2026_2995_Minutes_Packet_10_29_2026_9_00_00_AM","MinutesUniqueName":"City_Council_Special_Call_Addendum_-_October_29,_2026_2995_Minutes_10_29_2026_9_00_00_AM","SummaryUniqueName":"City_Council_Special_Call_Addendum_-_October_29,_2026_2995_Summary_10_29_2026_9_00_00_AM","LatestDocumentType":1},{"ID":2989,"Name":"City Council Special Call - October 29, 2026","MeetingTypeName":"Council Special","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-10-29T09:00:00-04:00","TimeString":"10/29/2026 9:00:00 AM","TimeStamp":1793278800,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Special_Call_-_October_29,_2026_2989_Agenda_10_29_2026_9_00_00_AM","AgendaPacketUniqueName":"City_Council_Special_Call_-_October_29,_2026_2989_Agenda_Packet_10_29_2026_9_00_00_AM","MinutesPacketUniqueName":"City_Council_Special_Call_-_October_29,_2026_2989_Minutes_Packet_10_29_2026_9_00_00_AM","MinutesUniqueName":"City_Council_Special_Call_-_October_29,_2026_2989_Minutes_10_29_2026_9_00_00_AM","SummaryUniqueName":"City_Council_Special_Call_-_October_29,_2026_2989_Summary_10_29_2026_9_00_00_AM","LatestDocumentType":2},{"ID":2992,"Name":"Special Magistrate PM- October 28, 2026","MeetingTypeName":"Code Enforcement","PublishedMeetingTypeName":null,"IsAgendaAvailable":false,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-10-28T13:00:00-04:00","TimeString":"10/28/2026 1:00:00 PM","TimeStamp":1793206800,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Special_Magistrate_PM-_October_28,_2026_2992_Agenda_10_28_2026_1_00_00_PM","AgendaPacketUniqueName":"Special_Magistrate_PM-_October_28,_2026_2992_Agenda_Packet_10_28_2026_1_00_00_PM","MinutesPacketUniqueName":"Special_Magistrate_PM-_October_28,_2026_2992_Minutes_Packet_10_28_2026_1_00_00_PM","MinutesUniqueName":"Special_Magistrate_PM-_October_28,_2026_2992_Minutes_10_28_2026_1_00_00_PM","SummaryUniqueName":"Special_Magistrate_PM-_October_28,_2026_2992_Summary_10_28_2026_1_00_00_PM","LatestDocumentType":2},{"ID":2994,"Name":"Council Calendar - Updated October 27, 2026","MeetingTypeName":"Council Calendar","PublishedMeetingTypeName":null,"IsAgendaAvailable":false,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":true,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-10-27T15:00:24-04:00","TimeString":"10/27/2026 3:00:24 PM","TimeStamp":1793127624,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Council_Calendar_-_Updated_October_27,_2026_2994_Agenda_10_27_2026_3_00_24_PM","AgendaPacketUniqueName":"Council_Calendar_-_Updated_October_27,_2026_2994_Agenda_Packet_10_27_2026_3_00_24_PM","MinutesPacketUniqueName":"Council_Calendar_-_Updated_October_27,_2026_2994_Minutes_Packet_10_27_2026_3_00_24_PM","MinutesUniqueName":"Council_Calendar_-_Updated_October_27,_2026_2994_Minutes_10_27_2026_3_00_24_PM","SummaryUniqueName":"Council_Calendar_-_Updated_October_27,_2026_2994_Summary_10_27_2026_3_00_24_PM","LatestDocumentType":3},{"ID":2937,"Name":"City Council Evening - October 22, 2026","MeetingTypeName":"Council Evening","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-10-22T17:01:00-04:00","TimeString":"10/22/2026 5:01:00 PM","TimeStamp":1792702860,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Evening_-_October_22,_2026_2937_Agenda_10_22_2026_5_01_00_PM","AgendaPacketUniqueName":"City_Council_Evening_-_October_22,_2026_2937_Agenda_Packet_10_22_2026_5_01_00_PM","MinutesPacketUniqueName":"City_Council_Evening_-_October_22,_2026_2937_Minutes_Packet_10_22_2026_5_01_00_PM","MinutesUniqueName":"City_Council_Evening_-_October_22,_2026_2937_Minutes_10_22_2026_5_01_00_PM","SummaryUniqueName":"City_Council_Evening_-_October_22,_2026_2937_Summary_10_22_2026_5_01_00_PM","LatestDocumentType":2},{"ID":2842,"Name":"City Council Workshop Session - October 22, 2026","MeetingTypeName":"Council Workshop","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-10-22T09:00:00-04:00","TimeString":"10/22/2026 9:00:00 AM","TimeStamp":1792674000,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Workshop_Session_-_October_22,_2026_2842_Agenda_10_22_2026_9_00_00_AM","AgendaPacketUniqueName":"City_Council_Workshop_Session_-_October_22,_2026_2842_Agenda_Packet_10_22_2026_9_00_00_AM","MinutesPacketUniqueName":"City_Council_Workshop_Session_-_October_22,_2026_2842_Minutes_Packet_10_22_2026_9_00_00_AM","MinutesUniqueName":"City_Council_Workshop_Session_-_October_22,_2026_2842_Minutes_10_22_2026_9_00_00_AM","SummaryUniqueName":"City_Council_Workshop_Session_-_October_22,_2026_2842_Summary_10_22_2026_9_00_00_AM","LatestDocumentType":2},{"ID":2987,"Name":"Council Calendar - Updated October 21, 2026","MeetingTypeName":"Council Calendar","PublishedMeetingTypeName":null,"IsAgendaAvailable":false,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":true,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-10-21T13:52:36-04:00","TimeString":"10/21/2026 1:52:36 PM","TimeStamp":1792605156,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Council_Calendar_-_Updated_October_21,_2026_2987_Agenda_10_21_2026_1_52_36_PM","AgendaPacketUniqueName":"Council_Calendar_-_Updated_October_21,_2026_2987_Agenda_Packet_10_21_2026_1_52_36_PM","MinutesPacketUniqueName":"Council_Calendar_-_Updated_October_21,_2026_2987_Minutes_Packet_10_21_2026_1_52_36_PM","MinutesUniqueName":"Council_Calendar_-_Updated_October_21,_2026_2987_Minutes_10_21_2026_1_52_36_PM","SummaryUniqueName":"Council_Calendar_-_Updated_October_21,_2026_2987_Summary_10_21_2026_1_52_36_PM","LatestDocumentType":3},{"ID":2991,"Name":"Special Magistrate PM- October 21, 2026","MeetingTypeName":"Code Enforcement","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-10-21T13:00:00-04:00","TimeString":"10/21/2026 1:00:00 PM","TimeStamp":1792602000,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Special_Magistrate_PM-_October_21,_2026_2991_Agenda_10_21_2026_1_00_00_PM","AgendaPacketUniqueName":"Special_Magistrate_PM-_October_21,_2026_2991_Agenda_Packet_10_21_2026_1_00_00_PM","MinutesPacketUniqueName":"Special_Magistrate_PM-_October_21,_2026_2991_Minutes_Packet_10_21_2026_1_00_00_PM","MinutesUniqueName":"Special_Magistrate_PM-_October_21,_2026_2991_Minutes_10_21_2026_1_00_00_PM","SummaryUniqueName":"Special_Magistrate_PM-_October_21,_2026_2991_Summary_10_21_2026_1_00_00_PM","LatestDocumentType":2},{"ID":2990,"Name":"Special Magistrate AM - October 21, 2026","MeetingTypeName":"Code Enforcement","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-10-21T09:00:00-04:00","TimeString":"10/21/2026 9:00:00 AM","TimeStamp":1792587600,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Special_Magistrate_AM_-_October_21,_2026_2990_Agenda_10_21_2026_9_00_00_AM","AgendaPacketUniqueName":"Special_Magistrate_AM_-_October_21,_2026_2990_Agenda_Packet_10_21_2026_9_00_00_AM","MinutesPacketUniqueName":"Special_Magistrate_AM_-_October_21,_2026_2990_Minutes_Packet_10_21_2026_9_00_00_AM","MinutesUniqueName":"Special_Magistrate_AM_-_October_21,_2026_2990_Minutes_10_21_2026_9_00_00_AM","SummaryUniqueName":"Special_Magistrate_AM_-_October_21,_2026_2990_Summary_10_21_2026_9_00_00_AM","LatestDocumentType":2},{"ID":2984,"Name":"City Council Regular Addendum - October 15, 2026","MeetingTypeName":"Council Regular","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-10-15T09:00:00-04:00","TimeString":"10/15/2026 9:00:00 AM","TimeStamp":1792069200,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Regular_Addendum_-_October_15,_2026_2984_Agenda_10_15_2026_9_00_00_AM","AgendaPacketUniqueName":"City_Council_Regular_Addendum_-_October_15,_2026_2984_Agenda_Packet_10_15_2026_9_00_00_AM","MinutesPacketUniqueName":"City_Council_Regular_Addendum_-_October_15,_2026_2984_Minutes_Packet_10_15_2026_9_00_00_AM","MinutesUniqueName":"City_Council_Regular_Addendum_-_October_15,_2026_2984_Minutes_10_15_2026_9_00_00_AM","SummaryUniqueName":"City_Council_Regular_Addendum_-_October_15,_2026_2984_Summary_10_15_2026_9_00_00_AM","LatestDocumentType":1},{"ID":2936,"Name":"City Council Regular - October 15, 2026","MeetingTypeName":"Council Regular","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-10-15T09:00:00-04:00","TimeString":"10/15/2026 9:00:00 AM","TimeStamp":1792069200,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Regular_-_October_15,_2026_2936_Agenda_10_15_2026_9_00_00_AM","AgendaPacketUniqueName":"City_Council_Regular_-_October_15,_2026_2936_Agenda_Packet_10_15_2026_9_00_00_AM","MinutesPacketUniqueName":"City_Council_Regular_-_October_15,_2026_2936_Minutes_Packet_10_15_2026_9_00_00_AM","MinutesUniqueName":"City_Council_Regular_-_October_15,_2026_2936_Minutes_10_15_2026_9_00_00_AM","SummaryUniqueName":"City_Council_Regular_-_October_15,_2026_2936_Summary_10_15_2026_9_00_00_AM","LatestDocumentType":2},{"ID":2981,"Name":"Special Magistrate PM - October 14, 2026","MeetingTypeName":"Code Enforcement","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-10-14T13:00:00-04:00","TimeString":"10/14/2026 1:00:00 PM","TimeStamp":1791997200,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Special_Magistrate_PM_-_October_14,_2026_2981_Agenda_10_14_2026_1_00_00_PM","AgendaPacketUniqueName":"Special_Magistrate_PM_-_October_14,_2026_2981_Agenda_Packet_10_14_2026_1_00_00_PM","MinutesPacketUniqueName":"Special_Magistrate_PM_-_October_14,_2026_2981_Minutes_Packet_10_14_2026_1_00_00_PM","MinutesUniqueName":"Special_Magistrate_PM_-_October_14,_2026_2981_Minutes_10_14_2026_1_00_00_PM","SummaryUniqueName":"Special_Magistrate_PM_-_October_14,_2026_2981_Summary_10_14_2026_1_00_00_PM","LatestDocumentType":2},{"ID":2982,"Name":"Special Magistatre AM - October 14, 2026","MeetingTypeName":"Code Enforcement","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-10-14T09:00:00-04:00","TimeString":"10/14/2026 9:00:00 AM","TimeStamp":1791982800,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Special_Magistatre_AM_-_October_14,_2026_2982_Agenda_10_14_2026_9_00_00_AM","AgendaPacketUniqueName":"Special_Magistatre_AM_-_October_14,_2026_2982_Agenda_Packet_10_14_2026_9_00_00_AM","MinutesPacketUniqueName":"Special_Magistatre_AM_-_October_14,_2026_2982_Minutes_Packet_10_14_2026_9_00_00_AM","MinutesUniqueName":"Special_Magistatre_AM_-_October_14,_2026_2982_Minutes_10_14_2026_9_00_00_AM","SummaryUniqueName":"Special_Magistatre_AM_-_October_14,_2026_2982_Summary_10_14_2026_9_00_00_AM","LatestDocumentType":2},{"ID":2983,"Name":"Council Calendar - Updated October 13, 2026","MeetingTypeName":"Council Calendar","PublishedMeetingTypeName":null,"IsAgendaAvailable":false,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":true,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-10-13T14:10:21-04:00","TimeString":"10/13/2026 2:10:21 PM","TimeStamp":1791915021,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Council_Calendar_-_Updated_October_13,_2026_2983_Agenda_10_13_2026_2_10_21_PM","AgendaPacketUniqueName":"Council_Calendar_-_Updated_October_13,_2026_2983_Agenda_Packet_10_13_2026_2_10_21_PM","MinutesPacketUniqueName":"Council_Calendar_-_Updated_October_13,_2026_2983_Minutes_Packet_10_13_2026_2_10_21_PM","MinutesUniqueName":"Council_Calendar_-_Updated_October_13,_2026_2983_Minutes_10_13_2026_2_10_21_PM","SummaryUniqueName":"Council_Calendar_-_Updated_October_13,_2026_2983_Summary_10_13_2026_2_10_21_PM","LatestDocumentType":3},{"ID":2935,"Name":"City Council Evening - October 8, 2026","MeetingTypeName":"Council Evening","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-10-08T17:01:00-04:00","TimeString":"10/8/2026 5:01:00 PM","TimeStamp":1791493260,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Evening_-_October_8,_2026_2935_Agenda_10_8_2026_5_01_00_PM","AgendaPacketUniqueName":"City_Council_Evening_-_October_8,_2026_2935_Agenda_Packet_10_8_2026_5_01_00_PM","MinutesPacketUniqueName":"City_Council_Evening_-_October_8,_2026_2935_Minutes_Packet_10_8_2026_5_01_00_PM","MinutesUniqueName":"City_Council_Evening_-_October_8,_2026_2935_Minutes_10_8_2026_5_01_00_PM","SummaryUniqueName":"City_Council_Evening_-_October_8,_2026_2935_Summary_10_8_2026_5_01_00_PM","LatestDocumentType":2},{"ID":2934,"Name":"CRA Regular - October 8, 2026","MeetingTypeName":"CRA Regular","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-10-08T09:00:00-04:00","TimeString":"10/8/2026 9:00:00 AM","TimeStamp":1791464400,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"CRA_Regular_-_October_8,_2026_2934_Agenda_10_8_2026_9_00_00_AM","AgendaPacketUniqueName":"CRA_Regular_-_October_8,_2026_2934_Agenda_Packet_10_8_2026_9_00_00_AM","MinutesPacketUniqueName":"CRA_Regular_-_October_8,_2026_2934_Minutes_Packet_10_8_2026_9_00_00_AM","MinutesUniqueName":"CRA_Regular_-_October_8,_2026_2934_Minutes_10_8_2026_9_00_00_AM","SummaryUniqueName":"CRA_Regular_-_October_8,_2026_2934_Summary_10_8_2026_9_00_00_AM","LatestDocumentType":2},{"ID":2975,"Name":"Special Magistrate PM Hearing - October 7, 2026","MeetingTypeName":"Code Enforcement","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-10-07T13:00:00-04:00","TimeString":"10/7/2026 1:00:00 PM","TimeStamp":1791392400,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Special_Magistrate_PM_Hearing_-_October_7,_2026_2975_Agenda_10_7_2026_1_00_00_PM","AgendaPacketUniqueName":"Special_Magistrate_PM_Hearing_-_October_7,_2026_2975_Agenda_Packet_10_7_2026_1_00_00_PM","MinutesPacketUniqueName":"Special_Magistrate_PM_Hearing_-_October_7,_2026_2975_Minutes_Packet_10_7_2026_1_00_00_PM","MinutesUniqueName":"Special_Magistrate_PM_Hearing_-_October_7,_2026_2975_Minutes_10_7_2026_1_00_00_PM","SummaryUniqueName":"Special_Magistrate_PM_Hearing_-_October_7,_2026_2975_Summary_10_7_2026_1_00_00_PM","LatestDocumentType":2},{"ID":2976,"Name":"Council Calendar - Updated October 7, 2026","MeetingTypeName":"Council Calendar","PublishedMeetingTypeName":null,"IsAgendaAvailable":false,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":true,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-10-07T11:46:59-04:00","TimeString":"10/7/2026 11:46:59 AM","TimeStamp":1791388019,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Council_Calendar_-_Updated_October_7,_2026_2976_Agenda_10_7_2026_11_46_59_AM","AgendaPacketUniqueName":"Council_Calendar_-_Updated_October_7,_2026_2976_Agenda_Packet_10_7_2026_11_46_59_AM","MinutesPacketUniqueName":"Council_Calendar_-_Updated_October_7,_2026_2976_Minutes_Packet_10_7_2026_11_46_59_AM","MinutesUniqueName":"Council_Calendar_-_Updated_October_7,_2026_2976_Minutes_10_7_2026_11_46_59_AM","SummaryUniqueName":"Council_Calendar_-_Updated_October_7,_2026_2976_Summary_10_7_2026_11_46_59_AM","LatestDocumentType":3},{"ID":2974,"Name":"Special Magistrate AM Hearing- October 7, 2026","MeetingTypeName":"Code Enforcement","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-10-07T09:00:00-04:00","TimeString":"10/7/2026 9:00:00 AM","TimeStamp":1791378000,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Special_Magistrate_AM_Hearing-_October_7,_2026_2974_Agenda_10_7_2026_9_00_00_AM","AgendaPacketUniqueName":"Special_Magistrate_AM_Hearing-_October_7,_2026_2974_Agenda_Packet_10_7_2026_9_00_00_AM","MinutesPacketUniqueName":"Special_Magistrate_AM_Hearing-_October_7,_2026_2974_Minutes_Packet_10_7_2026_9_00_00_AM","MinutesUniqueName":"Special_Magistrate_AM_Hearing-_October_7,_2026_2974_Minutes_10_7_2026_9_00_00_AM","SummaryUniqueName":"Special_Magistrate_AM_Hearing-_October_7,_2026_2974_Summary_10_7_2026_9_00_00_AM","LatestDocumentType":2},{"ID":2933,"Name":"City Council Reguar - October 1, 2026","MeetingTypeName":"Council Regular","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-10-01T09:00:00-04:00","TimeString":"10/1/2026 9:00:00 AM","TimeStamp":1790859600,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Reguar_-_October_1,_2026_2933_Agenda_10_1_2026_9_00_00_AM","AgendaPacketUniqueName":"City_Council_Reguar_-_October_1,_2026_2933_Agenda_Packet_10_1_2026_9_00_00_AM","MinutesPacketUniqueName":"City_Council_Reguar_-_October_1,_2026_2933_Minutes_Packet_10_1_2026_9_00_00_AM","MinutesUniqueName":"City_Council_Reguar_-_October_1,_2026_2933_Minutes_10_1_2026_9_00_00_AM","SummaryUniqueName":"City_Council_Reguar_-_October_1,_2026_2933_Summary_10_1_2026_9_00_00_AM","LatestDocumentType":2},{"ID":2972,"Name":"City Council Regular Addendum - October 1, 2026","MeetingTypeName":"Council Regular","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-09-30T09:00:00-04:00","TimeString":"9/30/2026 9:00:00 AM","TimeStamp":1790773200,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Regular_Addendum_-_October_1,_2026_2972_Agenda_9_30_2026_9_00_00_AM","AgendaPacketUniqueName":"City_Council_Regular_Addendum_-_October_1,_2026_2972_Agenda_Packet_9_30_2026_9_00_00_AM","MinutesPacketUniqueName":"City_Council_Regular_Addendum_-_October_1,_2026_2972_Minutes_Packet_9_30_2026_9_00_00_AM","MinutesUniqueName":"City_Council_Regular_Addendum_-_October_1,_2026_2972_Minutes_9_30_2026_9_00_00_AM","SummaryUniqueName":"City_Council_Regular_Addendum_-_October_1,_2026_2972_Summary_9_30_2026_9_00_00_AM","LatestDocumentType":1},{"ID":2971,"Name":"Council  Calendar - Updated September 29, 2026","MeetingTypeName":"Council Calendar","PublishedMeetingTypeName":null,"IsAgendaAvailable":false,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":true,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-09-29T13:52:11-04:00","TimeString":"9/29/2026 1:52:11 PM","TimeStamp":1790704331,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Council__Calendar_-_Updated_September_29,_2026_2971_Agenda_9_29_2026_1_52_11_PM","AgendaPacketUniqueName":"Council__Calendar_-_Updated_September_29,_2026_2971_Agenda_Packet_9_29_2026_1_52_11_PM","MinutesPacketUniqueName":"Council__Calendar_-_Updated_September_29,_2026_2971_Minutes_Packet_9_29_2026_1_52_11_PM","MinutesUniqueName":"Council__Calendar_-_Updated_September_29,_2026_2971_Minutes_9_29_2026_1_52_11_PM","SummaryUniqueName":"Council__Calendar_-_Updated_September_29,_2026_2971_Summary_9_29_2026_1_52_11_PM","LatestDocumentType":3},{"ID":2932,"Name":"City Council Evening - September 24, 2026","MeetingTypeName":"Council Evening","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-09-24T17:01:00-04:00","TimeString":"9/24/2026 5:01:00 PM","TimeStamp":1790283660,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Evening_-_September_24,_2026_2932_Agenda_9_24_2026_5_01_00_PM","AgendaPacketUniqueName":"City_Council_Evening_-_September_24,_2026_2932_Agenda_Packet_9_24_2026_5_01_00_PM","MinutesPacketUniqueName":"City_Council_Evening_-_September_24,_2026_2932_Minutes_Packet_9_24_2026_5_01_00_PM","MinutesUniqueName":"City_Council_Evening_-_September_24,_2026_2932_Minutes_9_24_2026_5_01_00_PM","SummaryUniqueName":"City_Council_Evening_-_September_24,_2026_2932_Summary_9_24_2026_5_01_00_PM","LatestDocumentType":2},{"ID":2825,"Name":"City Council Workshop Session - September 24, 2026","MeetingTypeName":"Council Workshop","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-09-24T09:00:00-04:00","TimeString":"9/24/2026 9:00:00 AM","TimeStamp":1790254800,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Workshop_Session_-_September_24,_2026_2825_Agenda_9_24_2026_9_00_00_AM","AgendaPacketUniqueName":"City_Council_Workshop_Session_-_September_24,_2026_2825_Agenda_Packet_9_24_2026_9_00_00_AM","MinutesPacketUniqueName":"City_Council_Workshop_Session_-_September_24,_2026_2825_Minutes_Packet_9_24_2026_9_00_00_AM","MinutesUniqueName":"City_Council_Workshop_Session_-_September_24,_2026_2825_Minutes_9_24_2026_9_00_00_AM","SummaryUniqueName":"City_Council_Workshop_Session_-_September_24,_2026_2825_Summary_9_24_2026_9_00_00_AM","LatestDocumentType":2},{"ID":2922,"Name":"Special Magisrate PM Hearing - September 23, 2026","MeetingTypeName":"Code Enforcement","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-09-23T13:00:00-04:00","TimeString":"9/23/2026 1:00:00 PM","TimeStamp":1790182800,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Special_Magisrate_PM_Hearing_-_September_23,_2026_2922_Agenda_9_23_2026_1_00_00_PM","AgendaPacketUniqueName":"Special_Magisrate_PM_Hearing_-_September_23,_2026_2922_Agenda_Packet_9_23_2026_1_00_00_PM","MinutesPacketUniqueName":"Special_Magisrate_PM_Hearing_-_September_23,_2026_2922_Minutes_Packet_9_23_2026_1_00_00_PM","MinutesUniqueName":"Special_Magisrate_PM_Hearing_-_September_23,_2026_2922_Minutes_9_23_2026_1_00_00_PM","SummaryUniqueName":"Special_Magisrate_PM_Hearing_-_September_23,_2026_2922_Summary_9_23_2026_1_00_00_PM","LatestDocumentType":2},{"ID":2970,"Name":"Council Calendar - Updated September 23, 2026","MeetingTypeName":"Council Calendar","PublishedMeetingTypeName":null,"IsAgendaAvailable":false,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":true,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-09-23T09:55:00-04:00","TimeString":"9/23/2026 9:55:00 AM","TimeStamp":1790171700,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Council_Calendar_-_Updated_September_23,_2026_2970_Agenda_9_23_2026_9_55_00_AM","AgendaPacketUniqueName":"Council_Calendar_-_Updated_September_23,_2026_2970_Agenda_Packet_9_23_2026_9_55_00_AM","MinutesPacketUniqueName":"Council_Calendar_-_Updated_September_23,_2026_2970_Minutes_Packet_9_23_2026_9_55_00_AM","MinutesUniqueName":"Council_Calendar_-_Updated_September_23,_2026_2970_Minutes_9_23_2026_9_55_00_AM","SummaryUniqueName":"Council_Calendar_-_Updated_September_23,_2026_2970_Summary_9_23_2026_9_55_00_AM","LatestDocumentType":3},{"ID":2931,"Name":"City Council Budget Public Hearing - September 22, 2026","MeetingTypeName":"Council Evening","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-09-22T17:01:00-04:00","TimeString":"9/22/2026 5:01:00 PM","TimeStamp":1790110860,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Budget_Public_Hearing_-_September_22,_2026_2931_Agenda_9_22_2026_5_01_00_PM","AgendaPacketUniqueName":"City_Council_Budget_Public_Hearing_-_September_22,_2026_2931_Agenda_Packet_9_22_2026_5_01_00_PM","MinutesPacketUniqueName":"City_Council_Budget_Public_Hearing_-_September_22,_2026_2931_Minutes_Packet_9_22_2026_5_01_00_PM","MinutesUniqueName":"City_Council_Budget_Public_Hearing_-_September_22,_2026_2931_Minutes_9_22_2026_5_01_00_PM","SummaryUniqueName":"City_Council_Budget_Public_Hearing_-_September_22,_2026_2931_Summary_9_22_2026_5_01_00_PM","LatestDocumentType":2},{"ID":2967,"Name":"City Council Regular Addendum - September 17, 2026","MeetingTypeName":"Council Regular","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-09-17T09:00:00-04:00","TimeString":"9/17/2026 9:00:00 AM","TimeStamp":1789650000,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Regular_Addendum_-_September_17,_2026_2967_Agenda_9_17_2026_9_00_00_AM","AgendaPacketUniqueName":"City_Council_Regular_Addendum_-_September_17,_2026_2967_Agenda_Packet_9_17_2026_9_00_00_AM","MinutesPacketUniqueName":"City_Council_Regular_Addendum_-_September_17,_2026_2967_Minutes_Packet_9_17_2026_9_00_00_AM","MinutesUniqueName":"City_Council_Regular_Addendum_-_September_17,_2026_2967_Minutes_9_17_2026_9_00_00_AM","SummaryUniqueName":"City_Council_Regular_Addendum_-_September_17,_2026_2967_Summary_9_17_2026_9_00_00_AM","LatestDocumentType":1},{"ID":2925,"Name":"City Council Regular - September 17, 2026","MeetingTypeName":"Council Regular","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-09-17T09:00:00-04:00","TimeString":"9/17/2026 9:00:00 AM","TimeStamp":1789650000,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"City_Council_Regular_-_September_17,_2026_2925_Agenda_9_17_2026_9_00_00_AM","AgendaPacketUniqueName":"City_Council_Regular_-_September_17,_2026_2925_Agenda_Packet_9_17_2026_9_00_00_AM","MinutesPacketUniqueName":"City_Council_Regular_-_September_17,_2026_2925_Minutes_Packet_9_17_2026_9_00_00_AM","MinutesUniqueName":"City_Council_Regular_-_September_17,_2026_2925_Minutes_9_17_2026_9_00_00_AM","SummaryUniqueName":"City_Council_Regular_-_September_17,_2026_2925_Summary_9_17_2026_9_00_00_AM","LatestDocumentType":2},{"ID":2968,"Name":"Council Calendar - Updated September 16, 2026","MeetingTypeName":"Council Calendar","PublishedMeetingTypeName":null,"IsAgendaAvailable":false,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":true,"IsMinutesAvailable":false,"IsMinutesPacketAvailable":false,"Time":"2026-09-16T14:56:27-04:00","TimeString":"9/16/2026 2:56:27 PM","TimeStamp":1789584987,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Council_Calendar_-_Updated_September_16,_2026_2968_Agenda_9_16_2026_2_56_27_PM","AgendaPacketUniqueName":"Council_Calendar_-_Updated_September_16,_2026_2968_Agenda_Packet_9_16_2026_2_56_27_PM","MinutesPacketUniqueName":"Council_Calendar_-_Updated_September_16,_2026_2968_Minutes_Packet_9_16_2026_2_56_27_PM","MinutesUniqueName":"Council_Calendar_-_Updated_September_16,_2026_2968_Minutes_9_16_2026_2_56_27_PM","SummaryUniqueName":"Council_Calendar_-_Updated_September_16,_2026_2968_Summary_9_16_2026_2_56_27_PM","LatestDocumentType":3},{"ID":2921,"Name":"Special Magistrate PM Hearing - September 16, 2026","MeetingTypeName":"Code Enforcement","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-09-16T13:00:00-04:00","TimeString":"9/16/2026 1:00:00 PM","TimeStamp":1789578000,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Special_Magistrate_PM_Hearing_-_September_16,_2026_2921_Agenda_9_16_2026_1_00_00_PM","AgendaPacketUniqueName":"Special_Magistrate_PM_Hearing_-_September_16,_2026_2921_Agenda_Packet_9_16_2026_1_00_00_PM","MinutesPacketUniqueName":"Special_Magistrate_PM_Hearing_-_September_16,_2026_2921_Minutes_Packet_9_16_2026_1_00_00_PM","MinutesUniqueName":"Special_Magistrate_PM_Hearing_-_September_16,_2026_2921_Minutes_9_16_2026_1_00_00_PM","SummaryUniqueName":"Special_Magistrate_PM_Hearing_-_September_16,_2026_2921_Summary_9_16_2026_1_00_00_PM","LatestDocumentType":2},{"ID":2909,"Name":"Special Magistrate AM Hearing - September 16, 2026","MeetingTypeName":"Code Enforcement","PublishedMeetingTypeName":null,"IsAgendaAvailable":true,"IsAgendaPacketAvailable":false,"IsSummaryAvailable":false,"IsMinutesAvailable":true,"IsMinutesPacketAvailable":false,"Time":"2026-09-16T09:00:00-04:00","TimeString":"9/16/2026 9:00:00 AM","TimeStamp":1789563600,"Location":null,"Documents":[],"HasDocuments":false,"Media":null,"HasMedia":false,"AgendaUniqueName":"Special_Magistrate_AM_Hearing_-_September_16,_2026_2909_Agenda_9_16_2026_9_00_00_AM","AgendaPacketUniqueName":"Special_Magistrate_AM_Hearing_-_September_16,_2026_2909_Agenda_Packet_9_16_2026_9_00_00_AM","MinutesPacketUniqueName":"Special_Magistrate_AM_Hearing_-_September_16,_2026_2909_Minutes_Packet_9_16_2026_9_00_00_AM","MinutesUniqueName":"Special_Magistrate_AM_Hearing_-_September_16,_2026_2909_Minutes_9_16_2026_9_00_00_AM","SummaryUniqueName":"Special_Magistrate_AM_Hearing_-_September_16,_2026_2909_Summary_9_16_2026_9_00_00_AM","LatestDocumentType":2}],"NoMoreResults":false,"Keywords":null,"SearchType":0,"FromDisplayDate":"11/14/2026","FromDate":"2026-11-14T16:08:11.9812763-05:00","ToDisplayDate":"11/14/2026","ToDate":"2026-11-14T16:08:11.9812763-05:00","ErrorOccurred":false,"ErrorCode":"","WarningOccurred":false,"WarningCode":"","ModelStateError":null,"Error":null,"HasError":false,"ShowErrorOnly":false}));
+	});
+
+	var _searchResults = null; // In Memory storage of search results
+	var _runningFullTextSearch = "".length > 0;
+
+	const PublishDocType = Object.freeze({
+		Agenda: 1,
+		Minutes: 2,
+		Summary: 3,
+		Supporting: 4,
+		AgendaPacket: 5,
+		MinutesPacket: 6
+	});
+
+	var localeSortableStrings =
+	{
+        FILTER_MENU_ALL: 'All',
+        FILTER_BY_SELECTION: 'Filter by {0} - {1}',
+		COUNT_LABEL: 'Showing {0} Meeting(s).',
+		MEETING_AND_DOCUMENT_COUNT_LABEL: 'Showing {0} Meeting(s) and {1} Document(s).',
+        COLUMN_SORT_TITLE: 'Click to Sort by {0} Descending',
+        COLUMN_SORT_TITLE_ASC: 'Sorted by {0} Ascending. Click to sort Descending',
+        COLUMN_SORT_TITLE_DESC: 'Sorted by {0} Descending. Click to sort Ascending',
+	};
+
+	class Options {
+		static isUpcomingSeparate = true;
+		static isTabbed = true;
+	}
+
+	class Translations {
+		static UPCOMING_LABEL = "Upcoming";
+		static RECENT_LABEL = "Recent";
+		static MEETING_COUNT_LABEL = "Showing {0} Meeting(s).";
+		static TABLE_SUMMARY = "Table includes Meeting Name, Meeting Type, Meeting Date and Time, and any available document links. Showing {0} Meeting(s).";
+		static TABLE_SUMMARY_FT = "Table includes Meeting Name, Meeting Type, Meeting Date and Time, and any available document links. Showing {0} Meeting(s) and {1} Document(s).";
+		static MEETING_NAME_LABEL = "Meeting Name";
+		static MEETING_TYPE_LABEL = "Meeting Type";
+		static MEETING_DATE_LABEL = "Meeting Date";
+		static MEETING_INFO_LABEL = "Meeting Info";
+		static LINKS_LABEL = "Links";
+
+		static AGENDA_LABEL = "Agenda";
+		static AGENDA_TITLE = "View Agenda for {0} {1} on {2}";
+		static AGENDA_PACKET_LABEL = "Agenda Packet";
+		static AGENDA_PACKET_TITLE = "View PDF of Agenda Packet for {0} {1} on {2} in a new tab";
+
+		static SUMMARY_LABEL = "Summary";
+		static SUMMARY_TITLE = "View Summary for {0} {1} on {2}";
+
+		static MINUTES_LABEL = "Minutes";
+		static MINUTES_TITLE = "View Minutes for {0} {1} on {2}";
+		static MINUTES_PACKET_LABEL = "Minutes Packet";
+		static MINUTES_PACKET_TITLE = "View PDF of Minutes Packet for {0} {1} on {2} in a new tab";
+
+		static VIEW_MEETING_PDF_NEW_TAB_TITLE = "View PDF of {0} for {1} {2} on {3} in a new tab";
+
+		static ITEM_TITLE = "Agenda Item";
+		static VIEW_PDF_IN_NEW_TAB_TITLE = "View PDF of {0} in a new tab";
+		static PDF_ICON_TITLE = "PDF Icon";
+		static GET_MORE_RESULTS_TEXT = "Get More Results";
+		static GETTING_MORE_RESULTS_TEXT = "Getting More...";
+		static NO_MORE_RESULTS_TEXT = "No More Results";
+
+		static LIVE_MEDIA = "Live Media";
+		static VOD_MEDIA = "View Media";
+		static MEDIA_TITLE = "View Media for {0} {1} on {2}";
+	}
+
+	function showSearchResults(searchResults) {
+		try {
+			loadSearchResults(searchResults);
+
+			// Clear out results
+			let meetingListDiv = $("#meetings-list");
+			meetingListDiv.empty();
+
+			if (_searchResults.Meetings.length == 0) {
+				// No meetings returned
+				meetingListDiv.append(createMeetingTable(meetingListDiv, []));
+			}
+			else if (_runningFullTextSearch) {
+				// For full-text searches don't show tabs
+				showErrorMessages(searchResults);
+				setupGetMoreResults(searchResults);
+
+				meetingListDiv.append(createMeetingTable(meetingListDiv, _searchResults.Meetings));
+			}
+			else if (!Options.isTabbed && !Options.isUpcomingSeparate) {
+				meetingListDiv.append(createMeetingTable(meetingListDiv, _searchResults.Meetings));
+			}
+			else {
+				createMeetingTabs(meetingListDiv);
+			}
+
+			initializeMeetingSorting();
+		}
+		catch (ex) {
+			console.error("Error occurred while loading the search results: " + ex.toString());
+			$("#getMoreResultsError").removeClass("hidden").text("Error occurred running search, please try again or try again later.");
+		}
+	}
+
+	function setupGetMoreResults(searchResults) {
+		if (searchResults.Meetings.length == 0 || searchResults.NoMoreResults) {
+			$("#btnGetMoreResults").val(Translations.NO_MORE_RESULTS_TEXT);
+			$("#btnGetMoreResults").prop("disabled", true);
+		}
+		else {
+			$("#lastMeetingIdSearched").val(searchResults.Meetings[searchResults.Meetings.length - 1].ID);
+			$("#btnGetMoreResults").removeClass("hidden").val(Translations.GET_MORE_RESULTS_TEXT).prop("disabled", false);
+		}
+	}
+
+	function showErrorMessages(searchResults) {
+		if (searchResults.ErrorOccurred) {
+			$("#getMoreResultsError").removeClass("hidden").text(searchResults.getErrorMessage());
+		} else {
+			$("#getMoreResultsError").addClass("hidden")
+		}
+		if (searchResults.WarningOccurred) {
+			$("#getMoreResultsWarning").removeClass("hidden").text(searchResults.getWarningMEssage());
+		} else {
+			$("#getMoreResultsWarning").addClass("hidden")
+		}
+	}
+
+	function loadSearchResults(searchResults) {
+		if (_searchResults == null) {
+			_searchResults = searchResults;
+		}
+		else {
+			searchResults.Meetings.forEach(meeting => {
+				let currentMeeting = _searchResults.Meetings.find((m) => m.ID == meeting.ID);
+				if (currentMeeting) {
+					// Merge new found documents
+					meeting.Documents.forEach(document => {
+						currentMeeting.Documents.push(document);
+					});
+				}
+				else {
+					// New meeting was returned
+					_searchResults.Meetings.push(meeting);
+				}
+			});
+		}
+	}
+
+	class SearchResults {
+		constructor(data) {
+			this.Meetings = [];
+			this.DocIdsRemaining = data.DocIdsRemaining;
+			this.ErrorOccurred = data.ErrorOccurred;
+			this.ErrorCode = data.ErrorCode;
+			this.WarningOccurred = data.WarningOccurred;
+			this.WarningCode = data.WarningCode;
+			this.NoMoreResults = data.NoMoreResults;
+
+			if (Array.isArray(data.Meetings)) {
+				data.Meetings.forEach(meeting => {
+					this.Meetings.push(new Meeting(meeting));
+				});
+			}
+		}
+
+		getUpcomingMeetings() {
+			// Any meeting on a future date
+			let today = new Date(Date.parse(new Date(Date.now()).toLocaleDateString()));
+			return this.Meetings.filter((m) => m.TimeStamp.getTime() > today.getTime())
+				.sort((a, b) => a.TimeStamp.getTime() - b.TimeStamp.getTime()); // Sort ascending
+		}
+
+		getPastMeetings() {
+			// Any meeting, even for today, which start time has passed
+			let now = new Date(Date.now());
+			return this.Meetings.filter((m) => m.TimeStamp.getTime() <= now.getTime())
+				.sort((a, b) => b.TimeStamp.getTime() - a.TimeStamp.getTime()); // Sort descending
+		}
+
+		getPastMeetingsByYear(year) {
+			return this.getPastMeetings().filter((m) => m.TimeStamp.getFullYear() == year);
+		}
+
+		hasUpcomingMeetings() {
+			return this.getUpcomingMeetings().length > 0;
+		}
+
+		hasPastMeetings() {
+			return this.getPastMeetings().length > 0;
+		}
+
+		getYearsOfPastMeetings() {
+			let years = [];
+			this.getPastMeetings().forEach((m) => {
+				let year = m.TimeStamp.getFullYear();
+				if (years.includes(year) == false) {
+					years.push(year);
+				}
+			});
+			return years.sort((a, b) => b - a); // Sort descending
+		}
+
+		getYearsOfUpcomingMeetings() {
+			let years = [];
+			this.getUpcomingMeetings().forEach((m) => {
+				let year = m.TimeStamp.getFullYear();
+				if (years.includes(year) == false) {
+					years.push(year);
+				}
+			});
+			return years;
+		}
+
+		getTotalDocumentCount() {
+			let count = 0;
+			this.Meetings.forEach(meeting => {
+				count += meeting.Documents.length;
+			});
+			return count;
+		}
+
+		getErrorMessage() {
+			// User entered a query containing an invalid syntax such as one consisting only of noise words or words that are too short
+			if (this.ErrorCode == "PARAMINVALID") {
+				return "The search text was incorrectly formatted, please edit your search text and try again.";
+			}
+			// User entered a query that took to long to process so the server timed out or the server could not establish, or maintain, a connection to IDOL
+			else if (this.ErrorCode == "NETWORK") {
+				return "The search took too long to run, please narrow your query or try again later.";
+			}
+			// None of the above errors apply but we still don't have the criteria for
+			// a successful search (ErrorCode is empty) so display a generic server error message instead
+			else if (this.ErrorCode && this.ErrorCode.length > 0) {
+				return "Error occurred running search, please try again or try again later.";
+			}
+			return "";
+		}
+
+		getWarningMEssage() {
+			if (this.WarningCode == "SEARCHLIMITHIT") {
+				return "The Search Limit has been reached, please refine your search if desired results are not found.";
+			}
+			else if (this.WarningCode && this.WarningCode.length > 0) {
+				return "Error occurred running search, please try again or try again later.";
+			}
+			return "";
+		}
+	}
+
+	class Meeting {
+		constructor(data) {
+			this.ID = data.ID;
+			this.Name = data.Name;
+			this.MeetingTypeName = data.MeetingTypeName;
+			this.IsAgendaAvailable = data.IsAgendaAvailable;
+			this.IsAgendaPacketAvailable = data.IsAgendaPacketAvailable;
+			this.IsSummaryAvailable = data.IsSummaryAvailable;
+			this.IsMinutesAvailable = data.IsMinutesAvailable;
+			this.IsMinutesPacketAvailable = data.IsMinutesPacketAvailable;
+			this.Time = data.TimeString;
+			this.Date = data.TimeString.split(' ')[0];
+			this.TimeStamp = new Date(parseInt(data.TimeStamp) * 1000);
+			this.Documents = [];
+			this.HasDocuments = data.HasDocuments;
+			this.Media = data.Media;
+			this.HasMedia = data.HasMedia;
+			this.AgendaUniqueName = data.AgendaUniqueName;
+			this.AgendaPacketUniqueName = data.AgendaPacketUniqueName;
+			this.MinutesPacketUniqueName = data.MinutesPacketUniqueName;
+			this.MinutesUniqueName = data.MinutesUniqueName;
+			this.SummaryUniqueName = data.SummaryUniqueName;
+			this.LatestDocumentType = data.LatestDocumentType;
+
+			if (Array.isArray(data.Documents)) {
+				data.Documents.forEach(document => {
+					this.Documents.push(new Document(document));
+				});
+			}
+		}
+	}
+
+	class Document {
+		constructor(data) {
+			this.ID = data.ID;
+			this.Name = data.Name;
+			this.ItemID = data.ItemID;
+			this.ItemTitle = data.ItemTitle;
+			this.ItemOutlineNum = data.ItemOutlineNum;
+			this.PublishType = data.PublishType;
+			this.MeetingDocumentType = data.MeetingDocumentType;
+			this.UrlFriendlyName = data.UrlFriendlyName;
+		}
+	}
+
+	function createMeetingTabs(meetingListDiv) {
+		if (Options.isUpcomingSeparate) {
+			meetingListDiv.append(createSeparateUpcomingMeetingsTab());
+		}
+		meetingListDiv.append(createAllMeetingsTabs());
+
+		initializeMeetingTabs();
+	}
+
+	function createSeparateUpcomingMeetingsTab() {
+		if (_searchResults.hasUpcomingMeetings()) {
+			let div = $("<div>").append(
+				$("<ul>").attr("id", "meetings-upcoming-list-tabs").addClass("nav nav-tabs").append(
+					createTab("lnkUpcoming", "#meetings-list-upcoming", Translations.UPCOMING_LABEL)
+				)
+			);
+
+			let tabContent = $("<div>").attr("id", "meetings-upcoming-list-content").addClass("tab-content");
+			let tabPane = $("<div>").attr("id", "meetings-list-upcoming").addClass("tab-pane");
+
+			createMeetingTable(tabPane, _searchResults.getUpcomingMeetings(), true);
+
+			tabContent.append(tabPane);
+			div.append(tabContent);
+
+			return div;
+		} else {
+			return null;
+		}
+	}
+
+	function createAllMeetingsTabs() {
+		let includeRecent = !Options.isUpcomingSeparate && _searchResults.hasUpcomingMeetings();
+		let includePast = _searchResults.hasPastMeetings();
+		let div = $("<div>");
+		div.append(createTabs(includeRecent, includePast));
+		div.append(createTabContent(includeRecent, includePast));
+		return div;
+	}
+
+	function createTabs(includeUpcoming, includePast) {
+		let ul = $("<ul>").attr("id", "meetings-list-tabs").addClass("nav nav-tabs");
+
+		if (includeUpcoming) {
+			ul.append(createTab("lnkUpcoming", "#meetings-list-upcoming", Translations.UPCOMING_LABEL));
+		}
+		if (includePast) {
+			if (Options.isTabbed) {
+				for (let year of _searchResults.getYearsOfPastMeetings()) {
+					ul.append(createTab("lnkMeetingYear-" + year, "#meetings-list-" + year, year));
+				}
+			}
+			else {
+				ul.append(createTab("lnkRecent", "#meetings-list-recent", Translations.RECENT_LABEL));
+			}
+		}
+		return ul;
+	}
+
+	function createTab(id, href, text) {
+		return $("<li>").addClass("nav-item").append(
+			$("<a>").addClass("nav-link").attr("href", href).attr("data-toggle", "tabs").attr("id", id).text(text)
+		);
+	}
+
+	function createTabContent(includeUpcoming, includePast) {
+		let div = $("<div>").attr("id", "meetings-list-content").addClass("tab-content");
+
+		if (includeUpcoming) {
+			let tab = $("<div>").addClass("tab-pane").attr("id", "meetings-list-upcoming");
+			createMeetingTable(tab, _searchResults.getUpcomingMeetings(), true)
+			div.append(tab);
+		}
+		if (includePast) {
+			if (Options.isTabbed) {
+				for (let year of _searchResults.getYearsOfPastMeetings()) {
+					let tab = $("<div>").addClass("tab-pane").attr("id", "meetings-list-" + year);
+					createMeetingTable(tab, _searchResults.getPastMeetingsByYear(year))
+					div.append(tab);
+				}
+			}
+			else {
+				let tab = $("<div>").addClass("tab-pane").attr("id", "meetings-list-recent");
+				createMeetingTable(tab, _searchResults.getPastMeetings());
+				div.append(tab);
+			}
+		}
+		return div;
+	}
+
+	function createMeetingTable(parent, meetings, sortAscending = false) {
+		parent.append(createCount(meetings));
+
+		let table = $("<table>").addClass("table table-hover");
+
+		if (_runningFullTextSearch)
+		{
+			table.attr("summary", Translations.TABLE_SUMMARY_FT.format(meetings.length, _searchResults.getTotalDocumentCount()));
+		}
+		else {
+			table.attr("summary", Translations.TABLE_SUMMARY.format(meetings.length));
+		}
+		table.append($("<colgroup>").append($("<col>").attr("span", "3")).append($("<col>")));
+
+		let header = $("<tr>");
+
+		// The following columns are only visible on medium and large displays
+		let meetingNameHeader = $("<th>").attr("scope", "col").addClass("d-none d-md-table-cell").attr("data-sortable-type", "mtgName");
+		let meetingNameLink = $("<a>").attr("href", "#").attr("id", "lnkMeetingNameLabel").attr("data-sortable-label", "1")
+		meetingNameLink.text(Translations.MEETING_NAME_LABEL);
+		meetingNameHeader.append($("<div>").append(meetingNameLink).append(createChevron()));
+		header.append(meetingNameHeader);
+
+		let meetingTypeHeader = $("<th>").attr("scope", "col").addClass("d-none d-md-table-cell").attr("data-sortable-type", "mtgType");
+		let meetingTypeLink = $("<a>").attr("href", "#").attr("id", "lnkMeetingTypeLabel").attr("data-sortable-label", "1")
+		meetingTypeLink.text(Translations.MEETING_TYPE_LABEL);
+		meetingTypeHeader.append($("<div>").append(meetingTypeLink).append(createChevron()));
+		header.append(meetingTypeHeader);
+
+		let meetingTimeHeader = $("<th>").attr("scope", "col").addClass("d-none d-md-table-cell").attr("data-sortable-type", "mtgTime").attr("data-sortable-numeric", "true").attr("data-sortable-order", sortAscending ? "asc" : "dec");
+		let meetingTimeLink = $("<a>").attr("href", "#").attr("id", "lnkMeetingDate").attr("data-sortable-label", "1")
+		meetingTimeLink.text(Translations.MEETING_DATE_LABEL);
+		meetingTimeHeader.append($("<div>").append(meetingTimeLink).append(createChevron()));
+		header.append(meetingTimeHeader);
+
+		// The following column is only visible on small displays
+		header.append($("<th>").addClass("d-none d-sm-table-cell d-md-none").text(Translations.MEETING_INFO_LABEL).append(createPadding()));
+
+		// The following column is only visible on extra small displays
+		header.append($("<th>").addClass("d-sm-none").text(Translations.MEETING_INFO_LABEL).append(createPadding()));
+
+		// The following column is only visible on small, medium and large displays
+		header.append($("<th>").addClass("d-none d-sm-table-cell").text(Translations.LINKS_LABEL).append(createPadding()));
+
+		table.append($("<thead>").append(header));
+
+		let tableBody = $("<tbody>").attr("id", "meetingTableBody");
+		addMeetings(tableBody, meetings);
+
+		table.append(tableBody);
+		parent.append(table);
+
+		if (_runningFullTextSearch) {
+			parent.append(createCount(meetings));
+		}
+	}
+
+	function createCount(meetings) {
+		return $("<span>").addClass("results-count").append(
+			$("<span>").addClass("meeting-results-count")
+		);
+	}
+
+	function createChevron() {
+		return $("<span>").addClass("chevron").attr("role", "presentation");
+	}
+
+	function addMeetings(parent, meetings) {
+		meetings.forEach(meeting => {
+			let meetingRow = $("<tr>").attr("id", "meeting-" + meeting.ID + "-row").addClass("meeting-row").attr("data-meeting-id", meeting.ID);
+
+			meetingRow.append($("<td>").addClass("d-none d-md-table-cell").attr("data-sortable-type", "mtgName").text(meeting.Name));
+			meetingRow.append($("<td>").addClass("d-none d-md-table-cell").attr("data-sortable-type", "mtgType").text(meeting.MeetingTypeName));
+			meetingRow.append($("<td>").addClass("d-none d-md-table-cell").attr("data-sortable-type", "mtgTime").attr("data-sortable-label", meeting.Date)
+				.attr("data-sortable-data", meeting.TimeStamp.getTime()).text(meeting.Time));
+
+			// The following cell is only visible on small displays
+			meetingRow.append($("<td>").addClass("d-none d-sm-table-cell d-md-none")
+				.append(meeting.Name).append($("<br>"))
+				.append(meeting.MeetingTypeName).append($("<br>")).append(meeting.Time));
+
+			// The following cell is only visible on extra small displays
+			let tdExSmallName = $("<td>").addClass("d-sm-none")
+				.append(meeting.Name).append($("<br>"))
+				.append(meeting.MeetingTypeName).append($("<br>"))
+				.append(meeting.Time).append($("<br>"));
+			createMeetingDocumentLinks(tdExSmallName, meeting, "_small");
+			tdExSmallName.append(createPadding())
+			meetingRow.append(tdExSmallName);
+
+			// The following cell is only visible on small, medium and large displays
+			let tdLinks = $("<td>").addClass("d-none d-sm-table-cell");
+			createMeetingDocumentLinks(tdLinks, meeting);
+			tdLinks.append(createPadding());
+			meetingRow.append(tdLinks);
+
+			parent.append(meetingRow);
+
+			if (meeting.HasDocuments) {
+				let meetingDocumentRow = $("<tr>").attr("id", "meeting-" + meeting.ID + "-document-row").addClass("meeting-document-row").attr("data-meeting-id", meeting.ID);
+				let tdDocuments = $("<td>").attr("colspan", 4);
+
+				meetingDocumentRow.append(tdDocuments);
+				parent.append(meetingDocumentRow);
+
+				let lastItemTitle = "";
+				let i = 0;
+				for (let doc of meeting.Documents) {
+					tdDocuments.append($("<div>").addClass("col-lg-1"));
+					let documentDiv = $("<div>").addClass("col-lg-11");
+
+					if (doc.ItemTitle != "") {
+						// Item Attachment
+						if (lastItemTitle != doc.ItemTitle) {
+							if (i != 0) {
+								documentDiv.append($("<br>"));
+							}
+							let itemDiv = $("<div>");
+							let itemIcon = $("<img>").attr("src", "/251agendaonline/Images/AgendaItem.png").attr("alt", Translations.ITEM_TITLE).addClass("agenda-item");
+							itemDiv.append(itemIcon).append(doc.ItemOutlineNum).append(createPadding()).append(doc.ItemTitle);
+							documentDiv.append(itemDiv);
+						}
+						lastItemTitle = doc.ItemTitle;
+
+						let docDiv = $("<div>").append($("<div>").addClass("col-lg-1"));
+						let docLinkDiv = $("<div>").addClass("col-lg-11");
+						let link = $("<a>")
+							.attr("href", "/251agendaonline/Documents/DownloadFile/" + encodeURIComponent(doc.UrlFriendlyName) + ".pdf?documentType=" + doc.MeetingDocumentType + "&meetingId=" + meeting.ID + "&itemId=" + doc.ItemID + "&publishId=" + doc.ID + "&isSection=False" + "&isAttachment=" + (doc.PublishType == 4 ? "True" : "False"))
+							.attr("id", "lnkAttachment_" + doc.ItemID + "_" + i)
+							.attr("target", "_blank")
+							.attr("title", Translations.VIEW_PDF_IN_NEW_TAB_TITLE.format(doc.Name));
+
+						link.append(createPdfIcon());
+						link.append(doc.Name);
+						docLinkDiv.append(link);
+
+						docDiv.append(docLinkDiv);
+						documentDiv.append(docDiv);
+					}
+					else {
+						// Meeting Document
+						let docLinkDiv = $("<div>");
+						let link = $("<a>")
+							.attr("href", "/251agendaonline/Documents/DownloadFile/" + encodeURIComponent(doc.UrlFriendlyName) + ".pdf?documentType=" + doc.MeetingDocumentType + "&meetingId=" + meeting.ID)
+							.attr("id", "lnkMeetingDocument_" + meeting.ID + "_" + i).attr("target", "_blank")
+							.attr("title", Translations.VIEW_PDF_IN_NEW_TAB_TITLE.format(doc.Name));
+
+						link.append(createPdfIcon());
+						link.append(doc.Name);
+						docLinkDiv.append(link);
+
+						documentDiv.append(docLinkDiv);
+					}
+
+					tdDocuments.append(documentDiv);
+					i++;
+				};
+			}
+		});
+	}
+
+	function createMeetingDocumentLinks(parent, meeting, linkSize = "") {
+		if (meeting.IsAgendaAvailable) {
+			parent.append(createMeetingLink(meeting, "Agenda", PublishDocType.Agenda, Translations.AGENDA_TITLE, Translations.AGENDA_LABEL, linkSize));
+			parent.append(createMeetingPdfLink(meeting, "Agenda", 1, Translations.AGENDA_LABEL, Translations.VIEW_MEETING_PDF_NEW_TAB_TITLE, linkSize));
+		}
+		if (meeting.IsAgendaPacketAvailable) {
+			parent.append(createPacketLink(meeting, "Agenda", PublishDocType.AgendaPacket, Translations.AGENDA_PACKET_TITLE, Translations.AGENDA_PACKET_LABEL, linkSize));
+		}
+		if (meeting.IsSummaryAvailable) {
+			parent.append(createMeetingLink(meeting, "Summary", PublishDocType.Summary, Translations.SUMMARY_TITLE, Translations.SUMMARY_LABEL, linkSize));
+			parent.append(createMeetingPdfLink(meeting, "Summary", 3, Translations.SUMMARY_LABEL, Translations.VIEW_MEETING_PDF_NEW_TAB_TITLE, linkSize));
+		}
+		if (meeting.IsMinutesAvailable) {
+			parent.append(createMeetingLink(meeting, "Minutes", PublishDocType.Minutes, Translations.MINUTES_TITLE, Translations.MINUTES_LABEL, linkSize));
+			parent.append(createMeetingPdfLink(meeting, "Minutes", 2, Translations.MINUTES_LABEL, Translations.VIEW_MEETING_PDF_NEW_TAB_TITLE, linkSize));
+		}
+		if (meeting.IsMinutesPacketAvailable) {
+			parent.append(createPacketLink(meeting, "Minutes", PublishDocType.MinutesPacket, Translations.MINUTES_PACKET_TITLE, Translations.MINUTES_PACKET_LABEL, linkSize));
+		}
+		if (meeting.HasMedia) {
+			if (meeting.Media.IsLive) {
+				parent.append(
+					$("<a>")
+						.attr("href", "/251agendaonline/Meetings/ViewMeeting?id=" + meeting.ID + "&doctype=" + meeting.LatestDocumentType)
+						.addClass("meetingPadding")
+						.attr("Id", "lnkViewMedia_" + meeting.ID + linkSize)
+						.attr("title", Translations.MEDIA_TITLE.format(meeting.Name, meeting.MeetingTypeName, meeting.Time))
+						.text(Translations.LIVE_MEDIA)
+					);
+			} else if (meeting.Media.IsOnDemand) {
+				parent.append(
+					$("<a>")
+						.attr("href", "/251agendaonline/Meetings/ViewMeeting?id=" + meeting.ID + "&doctype=" + meeting.LatestDocumentType)
+						.addClass("meetingPadding")
+						.attr("Id", "lnkViewMedia_" + meeting.ID + linkSize)
+						.attr("title", Translations.MEDIA_TITLE.format(meeting.Name, meeting.MeetingTypeName, meeting.Time))
+						.text(Translations.VOD_MEDIA)
+					);
+			}
+		}
+	}
+
+	function createMeetingLink(meeting, type, docType, titleFormat, text, linkSize) {
+		return $("<a>")
+			.attr("href", "/251agendaonline/Meetings/ViewMeeting?id=" + meeting.ID + "&doctype=" + docType)
+			.attr("id", "lnkMeeting" + type + "_" + meeting.ID + linkSize)
+			.attr("title", titleFormat.format(meeting.Name, meeting.MeetingTypeName, meeting.Time))
+			.addClass("meeting-link")
+			.text(text);
+	}
+
+	function createMeetingPdfLink(meeting, type, docType, docName, titleFormat, linkSize) {
+		let name = meeting.AgendaUniqueName;
+		if (docType == PublishDocType.Summary) {
+			name = meeting.SummaryUniqueName
+		}
+		else if (docType == PublishDocType.Minutes)
+		{
+			name = meeting.MinutesUniqueName
+		}
+
+		return $("<a>")
+			.attr("href", "/251agendaonline/Documents/DownloadFile/" + name + ".pdf?documentType=" + docType + "&meetingId=" + meeting.ID)
+			.addClass("meetingPadding").attr("id", "lnkMeeting" + type + "Doc_" + meeting.ID + linkSize).attr("target", "_blank")
+			.attr("title", titleFormat.format(docName, meeting.Name, meeting.MeetingTypeName, meeting.Time))
+			.append(createPdfIcon());
+	}
+
+	function createPacketLink(meeting, type, docType, titleFormat, text, linkSize) {
+		let name = meeting.AgendaPacketUniqueName;
+		if (docType == PublishDocType.MinutesPacket) {
+			name = meeting.MinutesPacketUniqueName
+		}
+		return $("<a>")
+			.attr("href", "/251agendaonline/Documents/DownloadFile/" + name + ".pdf?documentType=" + docType + "&meetingId=" + meeting.ID + "&isAttachment=true")
+			.addClass("meetingPadding").attr("id", "lnk" + type + "Packet_" + meeting.ID + linkSize).attr("target", "_blank")
+			.attr("title", titleFormat.format(meeting.Name, meeting.MeetingTypeName, meeting.Time))
+			.append($("<span>").addClass("packet").text(text))
+			.append(createPdfIcon());
+	}
+
+	function createPdfIcon() {
+		return $("<img>")
+			.addClass("meetingPadding")
+			.attr("src", "/251agendaonline/Images/PDF_16x16.png")
+			.attr("alt", Translations.PDF_ICON_TITLE);
+	}
+
+	function createPadding() {
+		return $("<span>").addClass("meetingPadding");
+	}
+</script>
+    </div>
+    <div class="post-meeting-grid-spacer">
+    </div>
+<script type="text/javascript">
+    $(window).on('load',
+        function () {
+            // Show accessible "Skip to search content" link
+            $('#skip-to-search-content').attr('class', '');
+        }
+    );
+</script>
+		</section>
+	</div>
+	<div class="footer">
+		<div class="container">
+			<div class="row">
+				<div class="no-padding-left copyright">
+					<img src="/251agendaonline/Images/OnBase_Logo.png" class="onbase-logo" alt="OnBase Logo" />
+					Copyright &#169; 2015-2026 Hyland Software, Inc.
+				    <a href="https://www.tampa.gov/about-us/tampagov/privacy-policy" target="_blank">Privacy Policy</a>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<script src="/251agendaonline/bundles/corescripts?v=OoIHuCd2Vo-mvl0Mo7yezhFz4lpe-uKKkUPytMkRrQs1"></script>
+
+
+	<!--Version: 25.1.16.1000-->
+</body>
+</html>
