@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-14T21:28:18+00:00",
+ "generated_utc": "2026-11-14T21:32:29+00:00",
  "sources": {
   "m-stpetersburg": {
    "name": "St. Petersburg",
@@ -2824,23 +2824,23 @@
    "pdfs_found": 103,
    "scanned": [
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3573",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3567",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3575",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3565",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3569",
-     "pages": 2,
-     "hits": 0
-    },
-    {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3570",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3561",
      "pages": 4,
+     "hits": 0
+    },
+    {
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3558",
+     "pages": 3,
      "hits": 0
     }
    ],
@@ -3292,12 +3292,22 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=497",
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=489",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=495",
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=488",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=484",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=483",
      "pages": 1,
      "hits": 0
     }
@@ -3816,24 +3826,24 @@
    "pdfs_found": 111,
    "scanned": [
     {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=325",
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=321",
+     "pages": 8,
+     "hits": 0
+    },
+    {
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=319",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=320",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=324",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=323",
-     "pages": 1,
-     "hits": 2
-    },
-    {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=322",
-     "pages": 3,
-     "hits": 0
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=318",
+     "pages": 5,
+     "hits": 1
     }
    ],
    "errors": [],
@@ -4269,7 +4279,22 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2516",
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2499",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2487",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2486",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2485",
      "pages": 1,
      "hits": 0
     }
@@ -4707,24 +4732,24 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1210",
-     "pages": 1,
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1202",
+     "pages": 215,
      "hits": 0
     },
     {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1207",
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1200",
+     "pages": 400,
+     "hits": 1
+    },
+    {
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1196",
+     "pages": 8,
+     "hits": 0
+    },
+    {
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1197",
      "pages": 400,
      "hits": 6
-    },
-    {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1205",
-     "pages": 270,
-     "hits": 4
-    },
-    {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1203",
-     "pages": 1,
-     "hits": 0
     }
    ],
    "errors": [],
@@ -5254,7 +5279,13 @@
     }
    ],
    "pdfs_found": 100,
-   "scanned": [],
+   "scanned": [
+    {
+     "pdf": "https://bocaraton.granicus.com/AgendaViewer.php?view_id=9&clip_id=3098",
+     "pages": 1,
+     "hits": 0
+    }
+   ],
    "errors": [
     "listing https://bocaraton.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas: HTTP Error 403: Forbidden"
    ],
@@ -5702,22 +5733,22 @@
    "pdfs_found": 103,
    "scanned": [
     {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=365",
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=362",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=366",
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=361",
+     "pages": 1,
+     "hits": 1
+    },
+    {
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=360",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=364",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=363",
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=359",
      "pages": 1,
      "hits": 0
     }
@@ -5940,31 +5971,10 @@
    ],
    "scanned": [
     {
-     "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5371,plainText=false)",
-     "pages": 58,
+     "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5373,plainText=false)",
+     "pages": 3,
      "hits": 0,
-     "chars": 27767,
-     "meeting_date": "2026-11-17"
-    },
-    {
-     "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5364,plainText=false)",
-     "pages": 2,
-     "hits": 0,
-     "chars": 1653,
-     "meeting_date": "2026-11-18"
-    },
-    {
-     "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5366,plainText=false)",
-     "pages": 113,
-     "hits": 0,
-     "chars": 122028,
-     "meeting_date": "2026-11-18"
-    },
-    {
-     "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5372,plainText=false)",
-     "pages": 1,
-     "hits": 0,
-     "chars": 1659,
+     "chars": 3231,
      "meeting_date": "2026-11-18"
     }
    ],
@@ -6022,15 +6032,15 @@
      "hits": 2
     },
     {
-     "pdf": "Public_Comments_Meeting_2144_Agenda_11_9_2026_5_30_00_PM.pdf?documentType=1&meetingId=2144",
-     "meeting": "BCC Public Comments Meeting",
-     "pages": 2,
+     "pdf": "tes/Planning_Commission_1988_Agenda_11_5_2026_6_00_00_PM.pdf?documentType=1&meetingId=1988",
+     "meeting": "Planning Commission",
+     "pages": 7,
      "hits": 0
     },
     {
-     "pdf": "ytes/Crescent_Lakes_CFD_2207_Agenda_11_5_2026_6_00_00_PM.pdf?documentType=1&meetingId=2207",
+     "pdf": "ytes/Crescent_Lakes_CFD_2201_Agenda_11_5_2026_6_00_00_PM.pdf?documentType=1&meetingId=2201",
      "meeting": "Crescent Lakes CFD",
-     "pages": 1,
+     "pages": 4,
      "hits": 0
     }
    ],
@@ -6043,7 +6053,7 @@
    "with_agenda": 0,
    "scanned": [],
    "errors": [
-    "meeting list: Expecting value: line 1 column 1 (char 0)"
+    "meeting list: Expecting value: line 1 column 1 (char 0) | page text:  Meeting Search Results - OnBase Agenda Online Hide Media Home Meetings Contact Search Meeting Content Meeting Type BCC-Regular BCC-Special Date Range Last Year Last Month Last Week Recent/Upcoming This Week This Month This Year Next Week Next Month Next Year Custom Date Range &nbsp; Start Date -&nbsp; End Date $(document).ready(function () { $(\"#DateRangeOptionID\").change(function (e) { showCustomDateRangePicker(); }); datePickerController.createDatePicker( { // Associate the text input to a Lo | len 21101 | ctx avbar-collapse collapse\">\r\n\t\t\t<ul class=\"nav navbar-nav\">\r\n\t\t\t\t<li class=\"nav-link\"><a href=\"/OnBaseAgendaOnline/\" id=\"lnkNavHome\">Home</a></li>\r\n\t\t\t\t<li class=\"nav-link\"><a href=\"/OnBaseAgendaOnline/Meetings\" id=\"lnkNavMeetings\">Meetings</a></li>\r\n\t\t\t\t<li class=\"nav-link\"><a href=\"/OnBaseAgendaOnline/Home/Contact\" id=\"lnkNavContact\">Contact</a></li>\r\n\t\t\t</ul>\r\n\t\t</div>\r\n\r\n\t</div>\r\n\t<div>\r\n\t\t\r\n\t\t<section class=\"content-wrapper clear-fix\">\r\n\t\t\t\r\n\r\n\r\n\r\n\t<div class=\"card-group\">\r\n\t\t<div class=\"card"
    ]
   },
   "c-palmbeach:date": {
