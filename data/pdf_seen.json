@@ -324,5 +324,365 @@
   "pages": 204,
   "hits": 2,
   "date": "2026-11-14"
+ },
+ "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3638": {
+  "status": "ok",
+  "pages": 5,
+  "hits": 3,
+  "date": "2026-11-14"
+ },
+ "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3633": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "date": "2026-11-14"
+ },
+ "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3630": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "date": "2026-11-14"
+ },
+ "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3626": {
+  "status": "ok",
+  "pages": 5,
+  "hits": 0,
+  "date": "2026-11-14"
+ },
+ "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=541": {
+  "status": "not_pdf",
+  "date": "2026-11-14"
+ },
+ "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=538": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "date": "2026-11-14"
+ },
+ "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=537": {
+  "status": "not_pdf",
+  "date": "2026-11-14"
+ },
+ "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=534": {
+  "status": "not_pdf",
+  "date": "2026-11-14"
+ },
+ "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2281": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "date": "2026-11-14"
+ },
+ "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2599": {
+  "status": "ok",
+  "pages": 3,
+  "hits": 0,
+  "date": "2026-11-14"
+ },
+ "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2664": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "date": "2026-11-14"
+ },
+ "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=1880": {
+  "status": "ok",
+  "pages": 33,
+  "hits": 0,
+  "date": "2026-11-14"
+ },
+ "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2775": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "date": "2026-11-14"
+ },
+ "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2773": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "date": "2026-11-14"
+ },
+ "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2747": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "date": "2026-11-14"
+ },
+ "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2745": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "date": "2026-11-14"
+ },
+ "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1282": {
+  "status": "ok",
+  "pages": 6,
+  "hits": 0,
+  "date": "2026-11-14"
+ },
+ "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1283": {
+  "status": "ok",
+  "pages": 6,
+  "hits": 0,
+  "date": "2026-11-14"
+ },
+ "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1279": {
+  "status": "ok",
+  "pages": 6,
+  "hits": 0,
+  "date": "2026-11-14"
+ },
+ "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1272": {
+  "status": "ok",
+  "pages": 5,
+  "hits": 0,
+  "date": "2026-11-14"
+ },
+ "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=1605": {
+  "status": "ok",
+  "pages": 144,
+  "hits": 4,
+  "date": "2026-11-14"
+ },
+ "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=1519": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "date": "2026-11-14"
+ },
+ "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=1503": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "date": "2026-11-14"
+ },
+ "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=730": {
+  "status": "not_pdf",
+  "date": "2026-11-14"
+ },
+ "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3783,plainText=false)": {
+  "status": "ok",
+  "pages": 294,
+  "hits": 0,
+  "chars": 333651,
+  "date": "2026-11-14"
+ },
+ "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3790,plainText=false)": {
+  "status": "ok",
+  "pages": 5,
+  "hits": 0,
+  "chars": 6065,
+  "date": "2026-11-14"
+ },
+ "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3791,plainText=false)": {
+  "status": "ok",
+  "pages": 162,
+  "hits": 0,
+  "chars": 8391,
+  "date": "2026-11-14"
+ },
+ "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3784,plainText=false)": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "chars": 1383,
+  "date": "2026-11-14"
+ },
+ "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8163,plainText=false)": {
+  "status": "ok",
+  "pages": 4,
+  "hits": 0,
+  "chars": 5741,
+  "date": "2026-11-14"
+ },
+ "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8164,plainText=false)": {
+  "status": "ok",
+  "pages": 182,
+  "hits": 0,
+  "chars": 103908,
+  "date": "2026-11-14"
+ },
+ "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8178,plainText=false)": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "chars": 2684,
+  "date": "2026-11-14"
+ },
+ "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8180,plainText=false)": {
+  "status": "ok",
+  "pages": 24,
+  "hits": 3,
+  "chars": 65235,
+  "date": "2026-11-14"
+ },
+ "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=306,plainText=false)": {
+  "status": "ok",
+  "pages": 3,
+  "hits": 0,
+  "chars": 2248,
+  "date": "2026-11-14"
+ },
+ "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=307,plainText=false)": {
+  "status": "ok",
+  "pages": 79,
+  "hits": 2,
+  "chars": 106603,
+  "date": "2026-11-14"
+ },
+ "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=298,plainText=false)": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "chars": 2063,
+  "date": "2026-11-14"
+ },
+ "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=303,plainText=false)": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "chars": 2078,
+  "date": "2026-11-14"
+ },
+ "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7850,plainText=false)": {
+  "status": "ok",
+  "pages": 10,
+  "hits": 3,
+  "chars": 17033,
+  "date": "2026-11-14"
+ },
+ "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7855,plainText=false)": {
+  "status": "ok",
+  "pages": 400,
+  "hits": 10,
+  "chars": 412236,
+  "date": "2026-11-14"
+ },
+ "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7840,plainText=false)": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "chars": 716,
+  "date": "2026-11-14"
+ },
+ "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7843,plainText=false)": {
+  "status": "ok",
+  "pages": 10,
+  "hits": 1,
+  "chars": 19623,
+  "date": "2026-11-14"
+ },
+ "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1076,plainText=false)": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "chars": 303,
+  "date": "2026-11-14"
+ },
+ "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1077,plainText=false)": {
+  "status": "ok",
+  "pages": 3,
+  "hits": 0,
+  "chars": 876,
+  "date": "2026-11-14"
+ },
+ "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1080,plainText=false)": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "chars": 815,
+  "date": "2026-11-14"
+ },
+ "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1081,plainText=false)": {
+  "status": "ok",
+  "pages": 86,
+  "hits": 0,
+  "chars": 160036,
+  "date": "2026-11-14"
+ },
+ "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10174,plainText=false)": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "chars": 2731,
+  "date": "2026-11-14"
+ },
+ "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10177,plainText=false)": {
+  "status": "ok",
+  "pages": 30,
+  "hits": 0,
+  "chars": 67736,
+  "date": "2026-11-14"
+ },
+ "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10173,plainText=false)": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "chars": 1347,
+  "date": "2026-11-14"
+ },
+ "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10188,plainText=false)": {
+  "status": "ok",
+  "pages": 5,
+  "hits": 1,
+  "chars": 9583,
+  "date": "2026-11-14"
+ },
+ "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3338,plainText=false)": {
+  "status": "ok",
+  "pages": 12,
+  "hits": 4,
+  "chars": 18502,
+  "date": "2026-11-14"
+ },
+ "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3339,plainText=false)": {
+  "status": "ok",
+  "pages": 400,
+  "hits": 30,
+  "chars": 1109911,
+  "date": "2026-11-14"
+ },
+ "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3331,plainText=false)": {
+  "status": "ok",
+  "pages": 3,
+  "hits": 0,
+  "chars": 2829,
+  "date": "2026-11-14"
+ },
+ "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3332,plainText=false)": {
+  "status": "ok",
+  "pages": 372,
+  "hits": 0,
+  "chars": 315343,
+  "date": "2026-11-14"
+ },
+ "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11229,plainText=false)": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "chars": 1384,
+  "date": "2026-11-14"
+ },
+ "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11223,plainText=false)": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "chars": 1068,
+  "date": "2026-11-14"
+ },
+ "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11225,plainText=false)": {
+  "status": "ok",
+  "pages": 5,
+  "hits": 0,
+  "chars": 3859,
+  "date": "2026-11-14"
+ },
+ "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11227,plainText=false)": {
+  "status": "ok",
+  "pages": 30,
+  "hits": 1,
+  "chars": 42774,
+  "date": "2026-11-14"
  }
 }

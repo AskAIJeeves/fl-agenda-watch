@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-14T19:33:19+00:00",
- "count": 42,
+ "generated_utc": "2026-11-14T19:59:05+00:00",
+ "count": 65,
  "governments": {
   "m-fortlauderdale": {
    "name": "Fort Lauderdale",
@@ -78,6 +78,60 @@
    "client": "seminolecountyfl",
    "events": 5,
    "flagged": 6
+  },
+  "c-polk": {
+   "name": "Polk County",
+   "status": "ok",
+   "client": "polkcountyfl",
+   "events": 2,
+   "flagged": 6
+  },
+  "c-lake": {
+   "name": "Lake County",
+   "status": "failed",
+   "error": "lakecounty: HTTP Error 500: Internal Server Error"
+  },
+  "c-alachua": {
+   "name": "Alachua County",
+   "status": "ok",
+   "client": "alachua",
+   "events": 0,
+   "flagged": 0
+  },
+  "m-miramar": {
+   "name": "Miramar",
+   "status": "ok",
+   "client": "miramar",
+   "events": 2,
+   "flagged": 4
+  },
+  "m-deltona": {
+   "name": "Deltona",
+   "status": "ok",
+   "client": "deltona",
+   "events": 9,
+   "flagged": 8
+  },
+  "m-northport": {
+   "name": "North Port",
+   "status": "ok",
+   "client": "cityofnorthport",
+   "events": 16,
+   "flagged": 18
+  },
+  "m-doral": {
+   "name": "Doral",
+   "status": "ok",
+   "client": "doral",
+   "events": 1,
+   "flagged": 5
+  },
+  "m-miami": {
+   "name": "Miami",
+   "status": "ok",
+   "client": "miamifl",
+   "events": 0,
+   "flagged": 0
   }
  }
 }

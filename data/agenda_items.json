@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-14T19:33:19+00:00",
- "count": 42,
+ "generated_utc": "2026-11-14T19:59:05+00:00",
+ "count": 65,
  "items": [
   {
    "entity_id": "m-jacksonville",
@@ -34,6 +34,31 @@
     },
     {
      "body": "Finance Committee",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-polk",
+   "government": "Polk County",
+   "client": "polkcountyfl",
+   "body": "Board of County Commissioners (Organizational)",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "G.1.",
+   "file_number": "26-2281",
+   "title": "Approve the Construction Manager at Risk (CMAR), Guaranteed Maximum Price (GMP) Addendum No. 4 to Agreement 2023-074 with Wharton-Smith, Inc. for the Northeast Regional Wastewater Facility (NERWWTF). ($75,930,310.00 one-time expense)",
+   "max_amount": 75930310.0,
+   "keywords": [
+    "agreement",
+    "construction",
+    "gmp",
+    "guaranteed maximum price"
+   ],
+   "meeting_url": "https://polkcountyfl.legistar.com/MeetingDetail.aspx?LEGID=1830&GID=899&G=8E3CAEE1-3439-4CE8-90D8-F1ABD849BB66",
+   "agenda_pdf": "https://polkcountyfl.legistar1.com/polkcountyfl/meetings/2026/11/1830_A_Board_of_County_Commissioners_%28Organizational%29_26-11-17_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners (Organizational)",
      "meeting_date": "2026-11-17"
     }
    ]
@@ -175,6 +200,50 @@
    ]
   },
   {
+   "entity_id": "m-miramar",
+   "government": "Miramar",
+   "client": "miramar",
+   "body": "CITY COMMISSION REGULAR MEETING",
+   "meeting_date": "2026-11-18",
+   "agenda_number": "16.",
+   "file_number": "#R8850",
+   "title": "Temp. Reso. #R8850 approving the award of Request For Proposals No. 26-03-14 for Employee Group Medical Program to Aetna, Inc., for the provision of self-funded health insurance programs  for city employees, dependents and retirees and authorizing the execution of a negotiated agreement for an initial term of four years with the option to renew for four one-year renewal terms; establishing actuarial equivalent rates for insurance premiums for Calendar Year 2027 to include 100% of expected claims in an amount of $19,137,270.00; a contingency amount of 5% of claims in an amount of $1,577,530.00; administration and stop loss fees in an amount of $3,398,870.00  totaling an amount of $24,113,670.00. (Human Resources Director Kanika Stampp)",
+   "max_amount": 24113670.0,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://miramar.legistar.com/MeetingDetail.aspx?LEGID=1275&GID=613&G=57B8BDD8-6449-424C-A934-A183396682C2",
+   "agenda_pdf": "https://miramar.legistar1.com/miramar/meetings/2026/11/1275_A_CITY_COMMISSION_REGULAR_MEETING_26-11-18_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "CITY COMMISSION REGULAR MEETING",
+     "meeting_date": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-polk",
+   "government": "Polk County",
+   "client": "polkcountyfl",
+   "body": "Board of County Commissioners (Organizational)",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "G.2.",
+   "file_number": "26-2283",
+   "title": "Approve a Locally Funded Agreement and Resolution with the Florida Department of Transportation (FDOT) for the Grandview Parkway I-4 Flyover Project. ($20,000,000.00 one-time expense)",
+   "max_amount": 20000000.0,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://polkcountyfl.legistar.com/MeetingDetail.aspx?LEGID=1830&GID=899&G=8E3CAEE1-3439-4CE8-90D8-F1ABD849BB66",
+   "agenda_pdf": "https://polkcountyfl.legistar1.com/polkcountyfl/meetings/2026/11/1830_A_Board_of_County_Commissioners_%28Organizational%29_26-11-17_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners (Organizational)",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "m-jacksonville",
    "government": "Jacksonville",
    "client": "jaxcityc",
@@ -274,6 +343,26 @@
    ]
   },
   {
+   "entity_id": "m-northport",
+   "government": "North Port",
+   "client": "cityofnorthport",
+   "body": "City Commission Regular Meeting",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "E.",
+   "file_number": "ORD. NO. 2026-37",
+   "title": "An Ordinance of the City of North Port, Florida, Amending the Non-District Budget and Capital Improvement Budget for Fiscal Year 2026-2027 for the Emergency Operations Center Project, Police Mobile Command Unit Replacement, Fire Rescue Reserve Apparatus, Police Headquarters HVAC System Replacement, and Tax Collector Fees in the Amount of $7,469,657; Providing for Findings; Providing for Posting; Providing for Conflicts; Providing for Severability; and Providing an Effective Date.",
+   "max_amount": 7469657.0,
+   "keywords": [],
+   "meeting_url": "https://cityofnorthport.legistar.com/MeetingDetail.aspx?LEGID=3753&GID=408&G=FED9DAC1-C02A-4668-A6AA-7D5B31BA7971",
+   "agenda_pdf": "https://legistar2.granicus.com/cityofnorthport/meetings/2026/11/3753_A_City_Commission_Regular_Meeting_26-11-17_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "City Commission Regular Meeting",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "m-jacksonville",
    "government": "Jacksonville",
    "client": "jaxcityc",
@@ -304,6 +393,48 @@
    ]
   },
   {
+   "entity_id": "c-polk",
+   "government": "Polk County",
+   "client": "polkcountyfl",
+   "body": "Board of County Commissioners (Organizational)",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "M.5.",
+   "file_number": "26-2277",
+   "title": "Board approve agreement with &Barr for advertising and marketing services. ($5,000,000 estimated annual recurring expense)",
+   "max_amount": 5000000.0,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://polkcountyfl.legistar.com/MeetingDetail.aspx?LEGID=1830&GID=899&G=8E3CAEE1-3439-4CE8-90D8-F1ABD849BB66",
+   "agenda_pdf": "https://polkcountyfl.legistar1.com/polkcountyfl/meetings/2026/11/1830_A_Board_of_County_Commissioners_%28Organizational%29_26-11-17_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners (Organizational)",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-northport",
+   "government": "North Port",
+   "client": "cityofnorthport",
+   "body": "Road and Drainage District Governing Body",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "B.",
+   "file_number": "26-1228",
+   "title": "Approve Amendment No. 3 to Work Assignment 2022-18PW.01 with Rostan Solutions, LLC for Assistance with Federal Emergency Management Agency Reimbursement and Other Grants Management Services After Hurricane Ian in the Amount of $500,000 for a Total Amount of $4,500,000.",
+   "max_amount": 4500000.0,
+   "keywords": [],
+   "meeting_url": "https://cityofnorthport.legistar.com/MeetingDetail.aspx?LEGID=3786&GID=408&G=FED9DAC1-C02A-4668-A6AA-7D5B31BA7971",
+   "agenda_pdf": "https://legistar2.granicus.com/cityofnorthport/meetings/2026/11/3786_A_Road_and_Drainage_District_Governing_Body_26-11-17_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Road and Drainage District Governing Body",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "m-fortlauderdale",
    "government": "Fort Lauderdale",
    "client": "fortlauderdale",
@@ -319,6 +450,29 @@
    "appearances": [
     {
      "body": "City Commission Regular Meeting",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-polk",
+   "government": "Polk County",
+   "client": "polkcountyfl",
+   "body": "Board of County Commissioners (Organizational)",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "G.3.",
+   "file_number": "26-2280",
+   "title": "Approve construction contract with Strickland Construction, Inc. for new office and maintenance buildings at Saddle Creek Park project ($3,809,996.00 one-time expense)",
+   "max_amount": 3809996.0,
+   "keywords": [
+    "construction",
+    "contract"
+   ],
+   "meeting_url": "https://polkcountyfl.legistar.com/MeetingDetail.aspx?LEGID=1830&GID=899&G=8E3CAEE1-3439-4CE8-90D8-F1ABD849BB66",
+   "agenda_pdf": "https://polkcountyfl.legistar1.com/polkcountyfl/meetings/2026/11/1830_A_Board_of_County_Commissioners_%28Organizational%29_26-11-17_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners (Organizational)",
      "meeting_date": "2026-11-17"
     }
    ]
@@ -408,6 +562,28 @@
     {
      "body": "County Commission",
      "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-polk",
+   "government": "Polk County",
+   "client": "polkcountyfl",
+   "body": "Board of County Commissioners (Organizational)",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "M.17.",
+   "file_number": "26-2106",
+   "title": "Approve purchase of twenty-six Motorola Command Central AXS Dispatch Consoles and implementation/warranty services for the Public Safety Radio System. ($3,267,947.00 one-time expense)",
+   "max_amount": 3267947.0,
+   "keywords": [
+    "purchase"
+   ],
+   "meeting_url": "https://polkcountyfl.legistar.com/MeetingDetail.aspx?LEGID=1830&GID=899&G=8E3CAEE1-3439-4CE8-90D8-F1ABD849BB66",
+   "agenda_pdf": "https://polkcountyfl.legistar1.com/polkcountyfl/meetings/2026/11/1830_A_Board_of_County_Commissioners_%28Organizational%29_26-11-17_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners (Organizational)",
+     "meeting_date": "2026-11-17"
     }
    ]
   },
@@ -538,6 +714,28 @@
    ]
   },
   {
+   "entity_id": "m-doral",
+   "government": "Doral",
+   "client": "doral",
+   "body": "Council Meeting",
+   "meeting_date": "2026-11-18",
+   "agenda_number": "6H",
+   "file_number": "26-6822",
+   "title": "A RESOLUTION OF THE MAYOR AND THE CITY COUNCIL OF THE CITY OF DORAL, FLORIDA, APPROVING BUDGET TRANSFERS IN THE TOTAL AMOUNT OF TWO MILLION FOUR HUNDRED EIGHT THOUSAND NINE HUNDRED AND SIXTY-SIX DOLLARS AND 56/100 ($2,408,996.56) FOR PARKS AND RECREATION CAPITAL IMPROVEMENT PROJECTS; AUTHORIZING THE CITY MANAGER TO PROCESS THE TRANSFERS AND RELATED PURCHASE ORDER ACCOUNT ADJUSTMENTS; PROVIDING FOR IMPLEMENTATION; PROVIDING FOR INCORPORATION OF RECITALS; AND PROVIDING FOR AN EFFECTIVE DATE",
+   "max_amount": 2408996.0,
+   "keywords": [
+    "purchase"
+   ],
+   "meeting_url": "https://doral.legistar.com/MeetingDetail.aspx?LEGID=1515&GID=204&G=D82F2348-2767-4256-B89E-318FCD920820",
+   "agenda_pdf": "https://legistar1.granicus.com/Doral/meetings/2026/11/1515_A_Council_Meeting_26-11-18_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Council Meeting",
+     "meeting_date": "2026-11-18"
+    }
+   ]
+  },
+  {
    "entity_id": "m-jacksonville",
    "government": "Jacksonville",
    "client": "jaxcityc",
@@ -610,6 +808,26 @@
    ]
   },
   {
+   "entity_id": "c-polk",
+   "government": "Polk County",
+   "client": "polkcountyfl",
+   "body": "Board of County Commissioners (Organizational)",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "M.13.",
+   "file_number": "26-2176",
+   "title": "Approve a CIP Amendment to the FY 26-30 Parks & Natural Resources Five-Year CIP for projects funded through the American Rescue Plan (ARP). ($2,121,626.00 One-time expense)",
+   "max_amount": 2121626.0,
+   "keywords": [],
+   "meeting_url": "https://polkcountyfl.legistar.com/MeetingDetail.aspx?LEGID=1830&GID=899&G=8E3CAEE1-3439-4CE8-90D8-F1ABD849BB66",
+   "agenda_pdf": "https://polkcountyfl.legistar1.com/polkcountyfl/meetings/2026/11/1830_A_Board_of_County_Commissioners_%28Organizational%29_26-11-17_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners (Organizational)",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "m-fortlauderdale",
    "government": "Fort Lauderdale",
    "client": "fortlauderdale",
@@ -659,6 +877,30 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-miramar",
+   "government": "Miramar",
+   "client": "miramar",
+   "body": "CITY COMMISSION REGULAR MEETING",
+   "meeting_date": "2026-11-18",
+   "agenda_number": "14.",
+   "file_number": "#R8823",
+   "title": "Temp. Reso. #R8823 approving the purchase of sanitary sewer line and manhole rehabilitation services from SAK Construction, L.L.C., in an amount of $1,799,902.00 with an additional contingency amount of $200,000.00 for a total amount of $1,999,902.00 through the utilization of City of Gainesville D/B/A Gainesville Regional Utilities Contract No. 2024-083-E, \u201cSanitary Sewer Line & Manhole Rehabilitation Services\u201d. (Utilities Division Director Mark Williams & Procurement Director Natalie Richmond)",
+   "max_amount": 1999902.0,
+   "keywords": [
+    "construction",
+    "contract",
+    "purchase"
+   ],
+   "meeting_url": "https://miramar.legistar.com/MeetingDetail.aspx?LEGID=1275&GID=613&G=57B8BDD8-6449-424C-A934-A183396682C2",
+   "agenda_pdf": "https://miramar.legistar1.com/miramar/meetings/2026/11/1275_A_CITY_COMMISSION_REGULAR_MEETING_26-11-18_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "CITY COMMISSION REGULAR MEETING",
+     "meeting_date": "2026-11-18"
     }
    ]
   },
@@ -859,6 +1101,28 @@
    ]
   },
   {
+   "entity_id": "m-miramar",
+   "government": "Miramar",
+   "client": "miramar",
+   "body": "CITY COMMISSION REGULAR MEETING",
+   "meeting_date": "2026-11-18",
+   "agenda_number": "15.",
+   "file_number": "#R8822",
+   "title": "Temp. Reso. #R8822 approving the purchase of lift station rehabilitation and repair services from Trio Development Corporation, through the utilization of the City of Pompano Beach Request For Proposals No. E-04-24, \u201cLift Station Rehabilitation and Repair Services,\u201d in an amount not-to-exceed $1,400,000.00 and a $140,000.00 project allowance for a total amount of $1,540,000.00. (Utilities Division Director Mark Williams & Procurement Director Natalie Richmond)",
+   "max_amount": 1540000.0,
+   "keywords": [
+    "purchase"
+   ],
+   "meeting_url": "https://miramar.legistar.com/MeetingDetail.aspx?LEGID=1275&GID=613&G=57B8BDD8-6449-424C-A934-A183396682C2",
+   "agenda_pdf": "https://miramar.legistar1.com/miramar/meetings/2026/11/1275_A_CITY_COMMISSION_REGULAR_MEETING_26-11-18_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "CITY COMMISSION REGULAR MEETING",
+     "meeting_date": "2026-11-18"
+    }
+   ]
+  },
+  {
    "entity_id": "c-seminole",
    "government": "Seminole County",
    "client": "seminolecountyfl",
@@ -875,6 +1139,50 @@
     {
      "body": "Board of County Commissioners",
      "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-doral",
+   "government": "Doral",
+   "client": "doral",
+   "body": "Council Meeting",
+   "meeting_date": "2026-11-18",
+   "agenda_number": "6G",
+   "file_number": "26-6821",
+   "title": "A RESOLUTION OF THE MAYOR AND THE CITY COUNCIL OF THE CITY OF DORAL, FLORIDA, AUTHORIZING THE CITY MANAGER TO UTILIZE SOURCEWELL CONTRACT No. 031622-SNT FOR SYNTHETIC TURF REPLACEMENT SERVICES AT DORAL MEADOW PARK AND DORAL LEGACY PARK FROM SPRINTURF, LLC IN AN AMOUNT NOT TO EXCEED ONE MILLION THREE HUNDRED SIXTY THOUSAND TWO HUNDRED AND NINETY THREE DOLLARS AND 00/100 ($1,360,293.00), WHICH INCLUDES A TEN PERCENT (10%) CONTINGENCY; AUTHORIZING THE CITY MANAGER TO EXPEND BUDGETED FUNDS IN FURTHERANCE HEREOF; PROVIDING FOR IMPLEMENTATION; PROVIDING FOR INCORPORATION OF RECITALS; AND PROVIDING FOR AN EFFECTIVE DATE",
+   "max_amount": 1360293.0,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://doral.legistar.com/MeetingDetail.aspx?LEGID=1515&GID=204&G=D82F2348-2767-4256-B89E-318FCD920820",
+   "agenda_pdf": "https://legistar1.granicus.com/Doral/meetings/2026/11/1515_A_Council_Meeting_26-11-18_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Council Meeting",
+     "meeting_date": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-miramar",
+   "government": "Miramar",
+   "client": "miramar",
+   "body": "CITY COMMISSION REGULAR MEETING",
+   "meeting_date": "2026-11-18",
+   "agenda_number": "11.",
+   "file_number": "#R8846",
+   "title": "Temp. Reso. #R8846 approving the third renewal agreement with Standard Insurance Company for group life, accidental death and dismemberment, long term disability and voluntary insurance programs for city employees, dependents and retirees in an amount of $1,357,830.00 for Calendar Year 2027. (Human Resources Director Kanika Stampp)",
+   "max_amount": 1357830.0,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://miramar.legistar.com/MeetingDetail.aspx?LEGID=1275&GID=613&G=57B8BDD8-6449-424C-A934-A183396682C2",
+   "agenda_pdf": "https://miramar.legistar1.com/miramar/meetings/2026/11/1275_A_CITY_COMMISSION_REGULAR_MEETING_26-11-18_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "CITY COMMISSION REGULAR MEETING",
+     "meeting_date": "2026-11-18"
     }
    ]
   },
@@ -1002,6 +1310,37 @@
    ]
   },
   {
+   "entity_id": "m-deltona",
+   "government": "Deltona",
+   "client": "deltona",
+   "body": "Special City Commission Meeting",
+   "meeting_date": "2026-11-09",
+   "agenda_number": null,
+   "file_number": null,
+   "title": "NOTE: If any person decides to appeal any decision made by the City Commission with respect to any matter considered at this meeting or hearing, he/she will need a record of the proceedings, and for such purpose he/she may need to ensure that a verbatim record of the proceedings is made, which record includes the testimony and evidence upon which the appeal is to be based (F.S. 286.0105).\r\n\r\nIndividuals with disabilities needing assistance to participate in any of these proceedings should contact the City Manager in writing at CityManager@deltonafl.gov or to Deltona City Hall, 2345 Providence Blvd., Deltona, FL 32725 at least 48 hours prior to the meeting at which the person wishes to attend. The City is not permitted to provide the use of human physical assistance to physically handicapped persons in lieu of the construction or use of ramps or other mechanical devices in order to comply with Florida law. If proper accommodations for handicapped access cannot be made at a particular public meeting venue pursuant to a timely written request under Section 286.26 F.S., the City Manager shall change the venue of that meeting to a location where those accommodations can be provided.",
+   "max_amount": null,
+   "keywords": [
+    "city hall",
+    "construction"
+   ],
+   "meeting_url": "https://deltona.legistar.com/MeetingDetail.aspx?LEGID=3904&GID=562&G=6D6C7992-D947-405A-8FE2-3F91618125C6",
+   "agenda_pdf": "https://deltona.legistar1.com/deltona/meetings/2026/11/3904_A_Special_City_Commission_Meeting_26-11-09_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Special City Commission Meeting",
+     "meeting_date": "2026-11-09"
+    },
+    {
+     "body": "Special City Commission Meeting",
+     "meeting_date": "2026-11-12"
+    },
+    {
+     "body": "Special City Commission Meeting",
+     "meeting_date": "2026-11-16"
+    }
+   ]
+  },
+  {
    "entity_id": "m-jacksonville",
    "government": "Jacksonville",
    "client": "jaxcityc",
@@ -1020,6 +1359,160 @@
     {
      "body": "City Council",
      "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-northport",
+   "government": "North Port",
+   "client": "cityofnorthport",
+   "body": "City Commission Regular Meeting",
+   "meeting_date": "2026-11-10",
+   "agenda_number": null,
+   "file_number": null,
+   "title": "NOTICE OF AVAILABILITY OF REPORTS - The Agenda is a summary of the proposed actions to be taken by the City Commission. For almost every agenda item, the City staff has prepared materials for Commission consideration and provided a staff recommendation. Questions on these materials may be directed to the staff member who prepared them, or to the City Clerk's Office, who will refer you to the appropriate person. \r\n\r\nThe North Port City Hall is accessible in accordance with the Americans with Disabilities Act (ADA). Designated, accessible parking is available on the west side of City Hall, with building access from the parking area. Accommodations and translation services are available at no cost. Any person requiring a reasonable accommodation to participate in this meeting is asked to contact the City Clerk\u2019s Office at least 48 hours in advance by email at cityclerk@northportfl.gov or by telephone at (941) 429-7270. Persons using TTY/TDD may access this number via the Florida Relay Service by dialing 711. \r\n\r\nNONDISCRIMINATION: The City of North Port does not discriminate on the basis of race, color, national origin, sex, age, disability, family or religious status, marital status, sexual orientation, gender identity or expression, or physical characteristic in administration of its programs, activities or services. \r\n\r\nNo stenographic record by a certified court reporter is made of these recordings. Accordingly, anyone seeking to appeal any of the decisions involving the mat",
+   "max_amount": null,
+   "keywords": [
+    "city hall"
+   ],
+   "meeting_url": "https://cityofnorthport.legistar.com/MeetingDetail.aspx?LEGID=3752&GID=408&G=FED9DAC1-C02A-4668-A6AA-7D5B31BA7971",
+   "agenda_pdf": "https://legistar2.granicus.com/cityofnorthport/meetings/2026/11/3752_A_City_Commission_Regular_Meeting_26-11-10_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "City Commission Regular Meeting",
+     "meeting_date": "2026-11-10"
+    },
+    {
+     "body": "City Commission Special Meeting",
+     "meeting_date": "2026-11-13"
+    },
+    {
+     "body": "City Commission Special Meeting",
+     "meeting_date": "2026-11-14"
+    },
+    {
+     "body": "City Commission Regular Meeting",
+     "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "Fire Rescue District Governing Body",
+     "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "Road and Drainage District Governing Body",
+     "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "Solid Waste District Governing Body",
+     "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "Activity Center 6 and 10 Infrastructure District Governing Body",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-northport",
+   "government": "North Port",
+   "client": "cityofnorthport",
+   "body": "Art Advisory Board",
+   "meeting_date": "2026-11-10",
+   "agenda_number": null,
+   "file_number": null,
+   "title": "No stenographic record by a certified court reporter is made of these meetings. Accordingly, anyone seeking to appeal any decisions involving the matters herein will be responsible for making a verbatim record of the meeting/testimony and evidence upon which any appeal is to be based. (SEE: F.S. 286.0105) \r\n \r\nNONDISCRIMINATION: The City of North Port does not discriminate on the basis of race, color, national origin, sex, age, disability, family or religious status in administration of its programs, activities or services. \r\n\r\nThe North Port City Hall is accessible in accordance with the Americans with Disabilities Act (ADA). Designated, accessible parking is available on the west side of City Hall, with building access from the parking area. Accommodations and translation services are available at no cost. Any person requiring a reasonable accommodation to participate in this meeting is asked to contact the City Clerk\u2019s Office at least 48 hours in advance by email at cityclerk@northportfl.gov or by telephone at (941) 429-7270. Persons using TTY/TDD may access this number via the Florida Relay Service by dialing 711. ",
+   "max_amount": null,
+   "keywords": [
+    "city hall"
+   ],
+   "meeting_url": "https://cityofnorthport.legistar.com/MeetingDetail.aspx?LEGID=3820&GID=408&G=FED9DAC1-C02A-4668-A6AA-7D5B31BA7971",
+   "agenda_pdf": "https://legistar2.granicus.com/cityofnorthport/meetings/2026/11/3820_A_Art_Advisory_Board_26-11-10_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Art Advisory Board",
+     "meeting_date": "2026-11-10"
+    },
+    {
+     "body": "Auditor Selection Committee",
+     "meeting_date": "2026-11-12"
+    },
+    {
+     "body": "North Port Non-Profits United (NP2)",
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Community Economic Development Advisory Board",
+     "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "Planning & Zoning Advisory Board",
+     "meeting_date": "2026-11-19"
+    },
+    {
+     "body": "Parks & Recreation Advisory Board",
+     "meeting_date": "2026-11-19"
+    },
+    {
+     "body": "Joint Management Advisory Board",
+     "meeting_date": "2026-11-19"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-deltona",
+   "government": "Deltona",
+   "client": "deltona",
+   "body": "Development Review Committee",
+   "meeting_date": "2026-11-12",
+   "agenda_number": "8.",
+   "file_number": null,
+   "title": "ADJOURNMENT:",
+   "max_amount": null,
+   "keywords": [
+    "city hall",
+    "construction"
+   ],
+   "meeting_url": "https://deltona.legistar.com/MeetingDetail.aspx?LEGID=3912&GID=562&G=6D6C7992-D947-405A-8FE2-3F91618125C6",
+   "agenda_pdf": "https://deltona.legistar1.com/deltona/meetings/2026/11/3912_A_Development_Review_Committee_26-11-12_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Development Review Committee",
+     "meeting_date": "2026-11-12"
+    },
+    {
+     "body": "City Commission Workshop",
+     "meeting_date": "2026-11-12"
+    },
+    {
+     "body": "City Commission Workshop",
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Special Magistrate",
+     "meeting_date": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-deltona",
+   "government": "Deltona",
+   "client": "deltona",
+   "body": "City Commission",
+   "meeting_date": "2026-11-12",
+   "agenda_number": "13.",
+   "file_number": null,
+   "title": "ADJOURNMENT:                                       ",
+   "max_amount": null,
+   "keywords": [
+    "city hall",
+    "construction"
+   ],
+   "meeting_url": "https://deltona.legistar.com/MeetingDetail.aspx?LEGID=3950&GID=562&G=6D6C7992-D947-405A-8FE2-3F91618125C6",
+   "agenda_pdf": "https://deltona.legistar1.com/deltona/meetings/2026/11/3950_A_City_Commission_26-11-12_Regular_Commission_Meeting.pdf",
+   "appearances": [
+    {
+     "body": "City Commission",
+     "meeting_date": "2026-11-12"
     }
    ]
   },
@@ -1043,6 +1536,94 @@
     {
      "body": "Board of County Commissioners",
      "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-northport",
+   "government": "North Port",
+   "client": "cityofnorthport",
+   "body": "City Commission Regular Meeting",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "C.",
+   "file_number": "ORD. NO. 2026-33",
+   "title": "An Ordinance of the City of North Port, Florida, Amending Section 74-151 of the Code of the City of North Port, Florida, Relating to the Operation of Golf Carts on Designated Sidewalk Segments; Providing for Findings; Providing for Conflicts; Providing for Severability; Providing for Codification; and Providing an Effective Date.",
+   "max_amount": null,
+   "keywords": [
+    "golf"
+   ],
+   "meeting_url": "https://cityofnorthport.legistar.com/MeetingDetail.aspx?LEGID=3753&GID=408&G=FED9DAC1-C02A-4668-A6AA-7D5B31BA7971",
+   "agenda_pdf": "https://legistar2.granicus.com/cityofnorthport/meetings/2026/11/3753_A_City_Commission_Regular_Meeting_26-11-17_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "City Commission Regular Meeting",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-doral",
+   "government": "Doral",
+   "client": "doral",
+   "body": "Council Meeting",
+   "meeting_date": "2026-11-18",
+   "agenda_number": "11A",
+   "file_number": "26-6812",
+   "title": "Doral Parks Bond Program September 2026 Monthly Report",
+   "max_amount": null,
+   "keywords": [
+    "bond"
+   ],
+   "meeting_url": "https://doral.legistar.com/MeetingDetail.aspx?LEGID=1515&GID=204&G=D82F2348-2767-4256-B89E-318FCD920820",
+   "agenda_pdf": "https://legistar1.granicus.com/Doral/meetings/2026/11/1515_A_Council_Meeting_26-11-18_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Council Meeting",
+     "meeting_date": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-doral",
+   "government": "Doral",
+   "client": "doral",
+   "body": "Council Meeting",
+   "meeting_date": "2026-11-18",
+   "agenda_number": "19B",
+   "file_number": "26-6807",
+   "title": "Ordinance #2026-28 \"FY 26-27 Budget Amendment\"\r\n\r\nAN ORDINANCE OF THE MAYOR AND THE CITY COUNCIL OF THE CITY OF DORAL, FLORIDA, PROVIDING FOR AN AMENDMENT TO THE PARK GENERAL OBLIGATION BOND SERIES 2019 FUND BUDGET FOR FISCAL YEAR 2026-2027; APPROPRIATING AND AUTHORIZING THE EXPENDITURE OF FUNDS FOR A ONE-TIME PAYMENT OF OUTSTANDING BOND INTEREST OWED ON THE PARK GENERAL OBLIGATIONS BOND SERIES 2019; AS REVIEWED, MODIFIED AND APPROVED BY THE CITY COUNCIL AT THE MEETINGS HELD ON NOVEMBER 18, 2026 AND DECEMBER 9, 2026; PROVIDING FOR TRANSMITTAL BY THE CITY CLERK; PROVIDING FOR IMPLEMENTATION; PROVIDING FOR SEVERABILITY; PROVIDING FOR CONFLICTS; AND PROVIDING FOR AN EFFECTIVE DATE",
+   "max_amount": null,
+   "keywords": [
+    "bond"
+   ],
+   "meeting_url": "https://doral.legistar.com/MeetingDetail.aspx?LEGID=1515&GID=204&G=D82F2348-2767-4256-B89E-318FCD920820",
+   "agenda_pdf": "https://legistar1.granicus.com/Doral/meetings/2026/11/1515_A_Council_Meeting_26-11-18_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Council Meeting",
+     "meeting_date": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-doral",
+   "government": "Doral",
+   "client": "doral",
+   "body": "Council Meeting",
+   "meeting_date": "2026-11-18",
+   "agenda_number": "6B",
+   "file_number": "26-6823",
+   "title": "A RESOLUTION OF THE MAYOR AND THE CITY COUNCIL OF THE CITY OF DORAL, FLORIDA, ADJUSTING THE CITY\u2019S GENERAL FUND BUDGET; THE TRANSPORTATION FUND BUDGET; THE BUILDING FUND BUDGET; THE PARK BOND SERIES 2021 FUND BUDGET; AND THE STORMWATER FUND BUDGET FOR FISCAL YEAR 2025-2026 BY APPROVING BUDGET TRANSFERS WITHIN THE GENERAL FUND, THE TRANSPORTATION FUND, THE BUILDING FUND, THE PARK BOND SERIES 2021 FUND, AND THE STORMWATER FUND BUDGET WITH NO NET INCREASE IN THE APPROPRIATIONS TO THE FUNDS; PROVIDING FOR INCORPORATION OF RECITALS; PROVIDING FOR IMPLEMENTATION; AND PROVIDING FOR AN EFFECTIVE DATE",
+   "max_amount": null,
+   "keywords": [
+    "bond"
+   ],
+   "meeting_url": "https://doral.legistar.com/MeetingDetail.aspx?LEGID=1515&GID=204&G=D82F2348-2767-4256-B89E-318FCD920820",
+   "agenda_pdf": "https://legistar1.granicus.com/Doral/meetings/2026/11/1515_A_Council_Meeting_26-11-18_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Council Meeting",
+     "meeting_date": "2026-11-18"
     }
    ]
   }

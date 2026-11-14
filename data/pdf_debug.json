@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-14T19:33:39+00:00",
+ "generated_utc": "2026-11-14T19:59:43+00:00",
  "sources": {
   "m-stpetersburg": {
    "name": "St. Petersburg",
@@ -2824,23 +2824,23 @@
    "pdfs_found": 103,
    "scanned": [
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3646",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3638",
+     "pages": 5,
+     "hits": 3
+    },
+    {
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3633",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3647",
-     "pages": 4,
-     "hits": 0
-    },
-    {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3637",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3630",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3634",
-     "pages": 2,
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3626",
+     "pages": 5,
      "hits": 0
     }
    ],
@@ -3292,17 +3292,7 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=548",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=542",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=543",
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=538",
      "pages": 1,
      "hits": 0
     }
@@ -3363,6 +3353,1521 @@
    "errors": [],
    "pdf_sample": []
   },
+  "m-coralsprings": {
+   "name": "Coral Springs",
+   "listing": [
+    {
+     "url": "https://coralsprings.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+     "links": 111,
+     "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>Coral Springs, FL: Coral Springs ",
+     "sample": [
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2281",
+       "Permitting Workshop - Dec 03, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2599",
+       "Special Magistrate Set Hearing - Reasonable Accommodation - Dec 01, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2664",
+       "Evaluation Committee Meeting (RFP #26-H-314) - Nov 19, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=1880",
+       "Special Magistrate Hearing - Nov 19, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=1849",
+       "Community Involved Government Committee Meeting - Nov 18, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2523",
+       "Historical Advisory Committee Meeting - Nov 17, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2314",
+       "Coral Springs City Commission Swearing-In Ceremony - Nov 17, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2165",
+       "Accessibility Advisory Group Meeting - Nov 17, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2666",
+       "Public Art Committee Meeting - Nov 16, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2596",
+       "Northwest Council of Elected Officials - Nov 16, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2665",
+       "Sports Grant Committee Meeting - Nov 16, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=334",
+       "Coral Springs Charter School Board of Directors Regular Meeting - Oct 26, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=333",
+       "Coral Springs Museum of Art Board of Directors Regular Meeting - Oct 22, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=332",
+       "Coral Springs City Commission Regular Meeting - Oct 22, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=331",
+       "Coral Springs City Commission Second Budget Hearing &amp; Regular Meeting - Oct 08, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=330",
+       "Coral Springs City Commission Regular Meeting - Sep 24, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=329",
+       "Coral Springs City Commission First Budget Hearing - Sep 24, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=327",
+       "Coral Springs City Commission Workshop - Sep 16, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=326",
+       "Coral Springs City Commission Retreat - Sep 16, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=328",
+       "Coral Springs City Commission Regular Meeting - Sep 16, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=325",
+       "Coral Springs Museum of Art Board of Directors Regular Meeting - Sep 10, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=324",
+       "Coral Springs City Commission Regular Meeting - Sep 03, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=323",
+       "Coral Springs City Commission Regular Meeting - Aug 20, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=322",
+       "Coral Springs City Commission Special Meeting: TRIM &amp; Non-Ad Valorem - Aug 07, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=321",
+       "Coral Springs City Commission Regular Meeting - Aug 07, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=319",
+       "Coral Springs Charter School Board of Directors Regular Meeting - Aug 07, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=320",
+       "Coral Springs Charter School Board of Directors Regular Meeting - Aug 07, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=318",
+       "Coral Springs City Commission Regular Meeting - Jun 26, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=315",
+       "Coral Springs Museum of Art Board of Directors Special Meeting - Jun 18, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=316",
+       "Coral Springs Charter School Board of Directors Workshop - Jun 18, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=317",
+       "Coral Springs Charter School Board of Directors Regular Meeting  - Jun 18, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=314",
+       "Coral Springs City Commission Regular Meeting - May 21, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=312",
+       "Coral Springs City Commission Workshop - May 07, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=311",
+       "Coral Springs City Commission Retreat - May 07, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=313",
+       "Coral Springs City Commission Regular Meeting - May 07, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=310",
+       "Coral Springs Charter School Board of Directors Regular Meeting - May 07, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=305",
+       "Coral Springs City Commission Workshop - Apr 20, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=307",
+       "Coral Springs City Commission Workshop - Apr 20, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=308",
+       "Coral Springs City Commission Special Meeting - Apr 20, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=306",
+       "Coral Springs City Commission Regular Meeting - Apr 20, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=309",
+       "Coral Springs City Commission Regular Meeting - Apr 20, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=304",
+       "Coral Springs City Commission Strategic Planning Retreat - Apr 17, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=303",
+       "Coral Springs Charter School Board of Directors Regular Meeting - Apr 01, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=299",
+       "Coral Springs Museum of Art Board of Directors Regular Meeting - Mar 30, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=300",
+       "Coral Springs City Commission Workshop  - Mar 30, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=301",
+       "Coral Springs City Commission Regular Meeting - Mar 30, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=302",
+       "Coral Springs City Commission Regular Meeting - Mar 30, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=297",
+       "Coral Springs City Commission &amp; Coral Springs Community Redevelopment Agency Joint Workshop - Mar 05, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=298",
+       "Coral Springs Charter School Board of Directors &amp; Coral Springs City Commission Strategic Planning Retreat - Mar 05, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=296",
+       "Coral Springs City Commission Meeting Regular Meeting - Feb 18, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=295",
+       "Coral Springs City Commission Regular Meeting - Feb 05, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=294",
+       "Coral Springs City Commission Retreat - Feb 04, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=293",
+       "Coral Springs Charter School Board of Directors Regular Meeting - Feb 04, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=292",
+       "Coral Springs City Commission Regular Meeting - Jan 22, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=291",
+       "Coral Springs City Commission Regular Meeting - Jan 08, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=290",
+       "Coral Springs Charter School Board of Directors Workshop - Jan 08, 2026"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=289",
+       "Coral Springs Museum of Art Board of Directors Regular Meeting - Dec 30, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=288",
+       "Coral Springs Charter School Board of Directors Regular Meeting - Dec 29, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=287",
+       "Coral Springs City Commission Retreat - Dec 18, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=286",
+       "Coral Springs City Commission Regular Meeting - Dec 18, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=282",
+       "Coral Springs City Commission Workshop - Dec 04, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=283",
+       "Coral Springs City Commission Regular Meeting  - Dec 04, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=284",
+       "Coral Springs City Commission Regular Meeting - Dec 04, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=285",
+       "Coral Springs Charter School Board of Directors Regular Meeting - Dec 04, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=280",
+       "Coral Springs City Commission Regular Meeting - Dec 02, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=281",
+       "Coral Springs Charter School Board of Directors Regular Meeting - Dec 02, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=279",
+       "Coral Springs Charter School Board of Directors Regular Meeting - Nov 12, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=277",
+       "Coral Springs City Commission Workshop - Oct 16, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=278",
+       "Coral Springs City Commission Second Budget Hearing and Regular Meeting - Oct 16, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=274",
+       "Coral Springs City Commission Workshop - Sep 29, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=276",
+       "Coral Springs City Commission Retreat - Sep 29, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=273",
+       "Coral Springs City Commission Regular Meeting - Sep 29, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=275",
+       "Coral Springs City Commission First Budget Hearing - Sep 29, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=272",
+       "Coral Springs City Commission Regular Meeting - Sep 24, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=269",
+       "Coral Springs City Commission Workshop - Sep 09, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=271",
+       "Coral Springs City Commission Special Meeting - TRIM &amp; Non-Ad Valorem  - Sep 09, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=270",
+       "Coral Springs City Commission Regular Meeting - Sep 09, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=268",
+       "Coral Springs City Commission Regular Meeting &amp; City Commission Workshop (Immediately following the regular meeting.) - Sep 02, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=267",
+       "Coral Springs City Commission Regular Meeting - Jun 24, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=265",
+       "Coral Springs City Commission Workshop - Jun 05, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=264",
+       "Coral Springs Charter School Board of Directors Regular Meeting - Jun 05, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=266",
+       "City Commission Regular Meeting &amp; Coral Springs Charter School Board of Directors Special Meeting - Jun 05, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=263",
+       "Coral Springs City Commission Regular Meeting - May 27, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=262",
+       "Coral Springs City Commission Retreat - May 07, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=261",
+       "Coral Springs City Commission Regular Meeting - May 07, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=260",
+       "Coral Springs Charter School Board of Directors Regular Meeting - May 07, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=259",
+       "Community Redevelopment Agency Meeting - Apr 29, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=258",
+       "Coral Springs City Commission Regular Meeting - Apr 17, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=256",
+       "Coral Springs City Commission Workshop - Apr 03, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=253",
+       "Coral Springs City Commission Special Workshop - Apr 03, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=255",
+       "Coral Springs City Commission Regular Meeting - Apr 03, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=257",
+       "Coral Springs City Commission Regular Meeting - Apr 03, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=254",
+       "Coral Springs Charter School Board of Directors - Apr 03, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=250",
+       "Coral Springs City Commission Workshop - Mar 19, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=251",
+       "Coral Springs City Commission Strategic Planning Retreat - Mar 19, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=252",
+       "Coral Springs City Commission Strategic Planning Retreat - Mar 19, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=249",
+       "Community Redevelopment Agency Meeting - Mar 19, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=248",
+       "Coral Springs City Commission Regular Meeting - Mar 10, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=247",
+       "Coral Springs Charter School Board of Directors Regular Meeting - Mar 10, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=245",
+       "Coral Springs Museum of Art Board of Directors - Feb 20, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=246",
+       "Coral Springs City Commission Regular Meeting - Feb 20, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=243",
+       "Coral Springs City Commission Retreat - Feb 06, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=244",
+       "Coral Springs City Commission Regular Meeting - Feb 06, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=242",
+       "Coral Springs Charter School Board of Directors Special Meeting - Feb 06, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=241",
+       "Coral Springs Charter School Board of Directors Meeting - Feb 06, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=239",
+       "Coral Springs City Commission Workshop - Jan 16, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=240",
+       "Coral Springs City Commission Regular Meeting - Jan 16, 2025"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=238",
+       "Coral Springs City Commission Meeting - Dec 19, 2024"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=236",
+       "Coral Springs City Commission Workshop - Dec 05, 2024"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=235",
+       "Coral Springs City Commission Regular Meeting - Dec 05, 2024"
+      ],
+      [
+       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=237",
+       "Coral Springs Charter School Board of Directors - Dec 05, 2024"
+      ]
+     ]
+    }
+   ],
+   "pdfs_found": 111,
+   "scanned": [
+    {
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2281",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2599",
+     "pages": 3,
+     "hits": 0
+    },
+    {
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2664",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=1880",
+     "pages": 33,
+     "hits": 0
+    }
+   ],
+   "errors": [],
+   "pdf_sample": [
+    "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2281",
+    "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2599",
+    "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2664",
+    "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=1880",
+    "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=1849",
+    "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2523",
+    "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2314",
+    "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2165",
+    "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2666",
+    "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2596",
+    "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2665",
+    "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=334",
+    "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=333",
+    "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=332",
+    "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=331"
+   ]
+  },
+  "m-plantation": {
+   "name": "Plantation",
+   "listing": [
+    {
+     "url": "https://plantation.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+     "links": 100,
+     "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>The City of Plantation, FL: Publi",
+     "sample": [
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2775",
+       "Sustainability &amp; Resiliency Advisory Board - Cancelled - Nov 09, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2773",
+       "Affordable Housing Advisory Committee - Nov 05, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2747",
+       "Plantation Gateway Advisory Board - Oct 14, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2745",
+       "Sustainability &amp; Resiliency Advisory Board - Oct 12, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2744",
+       "Affordable Housing Advisory Committee - Oct 08, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2693",
+       "Affordable Housing Advisory Committee - Sep 03, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2674",
+       "Plantation Gateway Advisory Board - Cancelled - Aug 19, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2660",
+       "Sustainability &amp; Resiliency Advisory Board - Aug 10, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2659",
+       "Affordable Housing Advisory Committee -Cancelled - Aug 06, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2637",
+       "Sustainability &amp; Resiliency Advisory Board - Jul 13, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2622",
+       "Affordable Housing Advisory Committee -Cancelled - Jul 02, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2624",
+       "Plantation Gateway Advisory Board - Jun 17, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2610",
+       "Sustainability &amp; Resiliency Advisory Board - Jun 08, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2611",
+       "Affordable Housing Advisory Committee -Cancelled - Jun 04, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2580",
+       "Sustainability &amp; Resiliency Advisory Board - May 11, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2579",
+       "Affordable Housing Advisory Committee - May 07, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2564",
+       "Sustainability &amp; Resiliency Advisory Board - Cancelled - Apr 20, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2544",
+       "Affordable Housing Advisory Committee -Cancelled - Apr 16, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2552",
+       "Plantation Gateway Advisory Board - Cancelled - Apr 15, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2529",
+       "Sustainability &amp; Resiliency Advisory Board - Mar 16, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2517",
+       "Test Event Zoom/Teams Laptop Presentation - Mar 06, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2518",
+       "Test Event Zoom/Teams Laptop Presentation - Mar 06, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2519",
+       "Test Event Zoom/Teams Laptop Presentation - Mar 06, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2516",
+       "Affordable Housing Advisory Committee - Mar 05, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2499",
+       "Plantation Gateway Advisory Board - Feb 18, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2487",
+       "Sustainability &amp; Resiliency Advisory Board - Feb 09, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2486",
+       "Accessory Dwelling Units Workshop - Feb 06, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2485",
+       "Affordable Housing Advisory Committee - Feb 05, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2460",
+       "Sustainability &amp; Resiliency Advisory Board - Jan 12, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2459",
+       "Affordable Housing Advisory Committee - Jan 08, 2026"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2440",
+       "Plantation Gateway Advisory Board - Cancelled - Dec 17, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2447",
+       "Sustainability &amp; Resiliency Advisory Board - Dec 08, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2432",
+       "Affordable Housing Advisory Committee-Cancelled - Dec 04, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2425",
+       "Granicus test - Nov 18, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2426",
+       "Granicus test - Nov 18, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2420",
+       "Sustainability &amp; Resiliency Advisory Board - Nov 10, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2419",
+       "Affordable Housing- Silver Linings Town Hall - Nov 06, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2418",
+       "Affordable Housing Advisory Committee - Nov 06, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2392",
+       "Plantation Gateway Advisory Board - Oct 15, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2384",
+       "Sustainability &amp; Resiliency Advisory Board - Oct 13, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2383",
+       "Affordable Housing Advisory Committee - Oct 09, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2338",
+       "Affordable Housing Advisory Committee - Sep 04, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2336",
+       "New Event VolPark Audio Test 2 - Aug 29, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2294",
+       "Plantation Gateway Advisory Board - Aug 20, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2271",
+       "Sustainability &amp; Resiliency Advisory Board - Aug 11, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2264",
+       "Affordable Housing Advisory Committee - Aug 07, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2233",
+       "Sustainability &amp; Resiliency Advisory Board - Jul 14, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2232",
+       "Affordable Housing Advisory Committee - Jul 10, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2208",
+       "Plantation Gateway Advisory Board - Jun 18, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2189",
+       "Sustainability &amp; Resiliency Advisory Board - Jun 09, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2201",
+       "Affordable Housing Advisory Committee-- Cancelled - Jun 05, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2162",
+       "Sustainability &amp; Resiliency Advisory Board - May 12, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2152",
+       "Affordable Housing Advisory Committee - May 01, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2141",
+       "Sustainability &amp; Resiliency Advisory Board - Apr 21, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2137",
+       "Plantation Gateway Advisory Board - Apr 16, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2118",
+       "Affordable Housing Advisory Committee - Apr 03, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2072",
+       "Sustainability &amp; Resiliency Advisory Board - Mar 10, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2066",
+       "Affordable Housing Advisory Committee - Mar 06, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2044",
+       "Plantation Gateway Advisory Board - Feb 19, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2021",
+       "Sustainability &amp; Resiliency Advisory Board - Feb 10, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2020",
+       "Affordable Housing Advisory Committee - Feb 06, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1958",
+       "Sustainability &amp; Resiliency Advisory Board - Jan 13, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1957",
+       "Affordable Housing Advisory Committee - Jan 09, 2025"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1928",
+       "Plantation Gateway Advisory Board - Cancelled - Dec 18, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1936",
+       "Sustainability &amp; Resiliency Advisory Board - Dec 09, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1926",
+       "Affordable Housing Advisory Committee- Cancelled - Dec 05, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1908",
+       "Sustainability &amp; Resiliency Advisory Board - Nov 18, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1905",
+       "Affordable Housing Town Hall - Nov 07, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1904",
+       "Affordable Housing Advisory Committee - Nov 07, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1879",
+       "Plantation Gateway Advisory Board - Cancelled - Oct 16, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1877",
+       "Sustainability &amp; Resiliency Advisory Board - Oct 14, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2202",
+       "Affordable Housing Advisory Committee--Cancelled - Oct 10, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1837",
+       "Affordable Housing Advisory Committee - Sep 05, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1812",
+       "Plantation Gateway Advisory Board - Aug 21, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1794",
+       "Sustainability &amp; Resiliency Advisory Board - Aug 12, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1834",
+       "Affordable Housing Advisory Committee -Cancelled - Aug 01, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1727",
+       "Digital Plan Room Public User training - 2024.07.17 - Jul 19, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1574",
+       "Affordable Housing Advisory Committee - Jul 11, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1565",
+       "Sustainability &amp; Resiliency Advisory Board - Jul 08, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1547",
+       "Plantation Gateway Advisory Board - Jun 26, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1531",
+       "Sustainability &amp; Resiliency Advisory Board - Jun 10, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1529",
+       "Affordable Housing Advisory Committee - Jun 06, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1506",
+       "Sustainability &amp; Resiliency Advisory Board - May 13, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1496",
+       "Affordable Housing Advisory Committee - May 02, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1476",
+       "Plantation Gateway Advisory Board - Cancelled - Apr 17, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1471",
+       "Sustainability &amp; Resiliency Advisory Board - Apr 08, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1675",
+       "Affordable Housing Advisory Committee -Cancelled - Apr 04, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1450",
+       "Sustainability &amp; Resiliency Advisory Board - Mar 11, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1449",
+       "Affordable Housing Advisory Committee - Mar 07, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1430",
+       "Plantation Gateway Advisory Board - Feb 21, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1422",
+       "Sustainability &amp; Resiliency Advisory Board - Feb 12, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1408",
+       "Affordable Housing Advisory Committee - Feb 01, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1395",
+       "Sustainability &amp; Resiliency Advisory Board - Jan 22, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1372",
+       "Affordable Housing Advisory Committee - Jan 04, 2024"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1387",
+       "Sustainability &amp; Resiliency Advisory Board - Dec 12, 2023"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1355",
+       "Boards and Commissions QA Call - Dec 12, 2023"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1356",
+       "Boards and Commissions Instructor-Led Training - Dec 12, 2023"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1345",
+       "Affordable Housing Advisory Committee - Dec 04, 2023"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1343",
+       "Boards and Commissions Instructor-Led Training - Nov 30, 2023"
+      ],
+      [
+       "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=1324",
+       "Sustainability &amp; Resiliency Advisory Board - Nov 13, 2023"
+      ]
+     ]
+    }
+   ],
+   "pdfs_found": 100,
+   "scanned": [
+    {
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2775",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2773",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2747",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2745",
+     "pages": 1,
+     "hits": 0
+    }
+   ],
+   "errors": [],
+   "pdf_sample": [
+    "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2775",
+    "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2773",
+    "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2747",
+    "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2745",
+    "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2744",
+    "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2693",
+    "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2674",
+    "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2660",
+    "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2659",
+    "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2637",
+    "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2622",
+    "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2624",
+    "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2610",
+    "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2611",
+    "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2580"
+   ]
+  },
+  "m-sunrise": {
+   "name": "Sunrise",
+   "listing": [
+    {
+     "url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+     "links": 100,
+     "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>City of Sunrise, FL: Sunrise City",
+     "sample": [
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1282",
+       "City Commission Meeting - Nov 10, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1283",
+       "City Commission Meeting - Nov 10, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1279",
+       "City Commission Meeting - Oct 27, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1272",
+       "City Commission Meeting - Oct 13, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1267",
+       "Special City Commission Meeting - Second Budget Hearing - Sep 23, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1265",
+       "Local Planning Agency - Sep 23, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1266",
+       "City Commission Meeting - Sep 23, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1239",
+       "Special City Commission Meeting - First Budget Hearing - Sep 14, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1237",
+       "City Commission Meeting - Sep 08, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1232",
+       "Local Planning Agency - Aug 11, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1233",
+       "City Commission Meeting - Aug 11, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1230",
+       "City Commission Meeting - Jul 14, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1228",
+       "City Commission Meeting - Jun 23, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1223",
+       "City Commission Meeting - Jun 09, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1220",
+       "Local Planning Agency - May 26, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1221",
+       "City Commission Meeting - May 26, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1218",
+       "Special City Commission Meeting - May 22, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1215",
+       "Local Planning Agency - May 12, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
+       "City Commission Meeting - May 12, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212",
+       "City Commission Meeting - Apr 28, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1210",
+       "City Commission Meeting - Apr 14, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1207",
+       "City Commission Meeting - Mar 24, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1205",
+       "City Commission Meeting - Mar 10, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1203",
+       "Special City Commission Meeting - Mar 03, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1202",
+       "Local Planning Agency - Mar 03, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1200",
+       "City Commission Meeting - Feb 24, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1196",
+       "Local Planning Agency - Feb 10, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1197",
+       "City Commission Meeting - Feb 10, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1193",
+       "Special City Commission Meeting - Feb 03, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1192",
+       "Local Planning Agency - Feb 03, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1190",
+       "City Commission Meeting - Jan 27, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1185",
+       "Local Planning Agency - Jan 13, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1186",
+       "City Commission Meeting - Jan 13, 2026"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1182",
+       "Local Planning Agency - Dec 09, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1183",
+       "City Commission Meeting - Dec 09, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1178",
+       "Local Planning Agency - Nov 12, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1179",
+       "City Commission Meeting - Nov 12, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1175",
+       "City Commission Meeting - Oct 28, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1172",
+       "Local Planning Agency - Oct 14, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1173",
+       "City Commission Meeting - Oct 14, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1170",
+       "Special Tax District No. 1 - Second Budget Hearing - Sep 23, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1169",
+       "Special City Commission Meeting - Second Budget Hearing - Sep 23, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1167",
+       "Local Planning Agency - Sep 23, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1168",
+       "City Commission Meeting - Sep 23, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1165",
+       "Special City Commission Meeting - Sep 15, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1164",
+       "Local Planning Agency - Sep 15, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1162",
+       "Special Tax District No. 1 Meeting - First Budget Hearing - Sep 10, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1161",
+       "Special City Commission Meeting - First Budget Hearing - Sep 10, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1158",
+       "Local Planning Agency - Aug 12, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1159",
+       "City Commission Meeting - Aug 12, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1153",
+       "test test 072425 - Jul 24, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1146",
+       "City Commission  Meeting - Jul 08, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1143",
+       "Local Planning Agency - Jun 24, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1144",
+       "City Commission Meeting - Jun 24, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1141",
+       "City Commission Meeting - Jun 10, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1139",
+       "City Commission Meeting - May 27, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1137",
+       "City Commission Meeting - May 13, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1131",
+       "City Commission Meeting - Apr 22, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1124",
+       "test video 041025 - Apr 10, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1123",
+       "City Commission Meeting - Apr 08, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1115",
+       "Test special tax sg OM - Apr 04, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1102",
+       "City Commission Meeting - Mar 25, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1098",
+       "City Commission Meeting - Feb 25, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1096",
+       "City Commission Meeting - Feb 11, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1084",
+       "City Commission Meeting - Jan 28, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1073",
+       "Local Planning Agency - Jan 14, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1075",
+       "City Commission Meeting - Jan 14, 2025"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1061",
+       "City Commission Meeting - Dec 10, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1052",
+       "Special City Commission Meeting - Nov 20, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1051",
+       "City Commission Meeting - Nov 12, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1048",
+       "Local Planning Agency - Oct 22, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1049",
+       "City Commission Meeting - Oct 22, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046",
+       "City Commission Meeting - Oct 08, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1044",
+       "Special Tax District No. 1 Meeting - Second Budget Hearing - Sep 24, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043",
+       "Special City Commission Meeting - Second Budget Hearing - Sep 24, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1041",
+       "Local Planning Agency - Sep 24, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1042",
+       "City Commission Meeting - Sep 24, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1038",
+       "Special Tax District No. 1 Meeting - First Budget Hearing - Sep 12, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1037",
+       "Special City Commission Meeting - First Budget Hearing - Sep 12, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1036",
+       "City Commission Meeting - Sep 10, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1021",
+       "City Commission Meeting - Aug 13, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1017",
+       "Local Planning Agency - Jul 09, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1018",
+       "City Commission Meeting - Jul 09, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1015",
+       "City Commission Meeting - Jun 25, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1011",
+       "City Commission Meeting - Jun 11, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1001",
+       "Local Planning Agency - No video archive of this meeting exists - May 28, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1009",
+       "City Commission Meeting - May 28, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=993",
+       "City Commission Meeting - May 14, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=990",
+       "City Commission Meeting - Apr 23, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=989",
+       "City Commission Workshop - Visioning Session - Apr 16, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=987",
+       "Local Planning Agency - Apr 09, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=988",
+       "City Commission Meeting - Apr 09, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=984",
+       "City Commission Meeting - Mar 26, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=982",
+       "City Commission Meeting - Mar 12, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=978",
+       "Local Planning Agency - Feb 27, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=979",
+       "City Commission Meeting  - Feb 27, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=977",
+       "City Commission Meeting - Feb 13, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=976",
+       "City Commission Meeting - Jan 23, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=975",
+       "City Commission Meeting - Jan 09, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=973",
+       "Local Planning Agency - Dec 12, 2023"
+      ]
+     ]
+    }
+   ],
+   "pdfs_found": 100,
+   "scanned": [
+    {
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1282",
+     "pages": 6,
+     "hits": 0
+    },
+    {
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1283",
+     "pages": 6,
+     "hits": 0
+    },
+    {
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1279",
+     "pages": 6,
+     "hits": 0
+    },
+    {
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1272",
+     "pages": 5,
+     "hits": 0
+    }
+   ],
+   "errors": [],
+   "pdf_sample": [
+    "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1282",
+    "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1283",
+    "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1279",
+    "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1272",
+    "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1267",
+    "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1265",
+    "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1266",
+    "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1239",
+    "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1237",
+    "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1232",
+    "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1233",
+    "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1230",
+    "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1228",
+    "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1223",
+    "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1220"
+   ]
+  },
+  "m-tamarac": {
+   "name": "Tamarac",
+   "listing": [
+    {
+     "url": "https://tamarac.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+     "links": 16,
+     "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>Tamarac, FL: Training Videos (Age",
+     "sample": [
+      [
+       "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=1605",
+       "General Employees Pension Board - Aug 19, 2026"
+      ],
+      [
+       "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=1519",
+       "General Employees Pension Board - May 20, 2026"
+      ],
+      [
+       "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=1503",
+       "General Employees Pension Board - Feb 18, 2026"
+      ],
+      [
+       "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=730",
+       "Boards and Commissions Q+A - Mar 08, 2024"
+      ],
+      [
+       "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=728",
+       "Boards and Commissions Instructor-Led Training - Nov 30, 2023"
+      ],
+      [
+       "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=11",
+       "eComment Training - Jan 14, 2022"
+      ],
+      [
+       "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=10",
+       "Drafter Approver 12-7-2021 - Dec 07, 2021"
+      ],
+      [
+       "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=9",
+       "Peak Agenda 10/14/21 - Oct 14, 2021"
+      ],
+      [
+       "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=8",
+       "Peak Minutes Session 4 - 10-12-2021 - Oct 12, 2021"
+      ],
+      [
+       "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=7",
+       "Peak Admin Session 1 - 9-27-2021 - Sep 27, 2021"
+      ],
+      [
+       "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=6",
+       "Peak Agenda Coordinator Session 3 - 9-21-2021 - Sep 21, 2021"
+      ],
+      [
+       "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=5",
+       "Peak Drafter Approver Session 2 - 9-16-2021 - Sep 16, 2021"
+      ],
+      [
+       "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=4",
+       "Peak Admin - Session 1 9-14-2021 - Sep 14, 2021"
+      ],
+      [
+       "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=3",
+       "Peak Minutes September 9th 2021 - Sep 09, 2021"
+      ],
+      [
+       "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=2",
+       "Peak Agendas September 7th, 2021 - Sep 07, 2021"
+      ],
+      [
+       "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=1",
+       "Peak Drafter/Approver - 9/3/2021 - Sep 03, 2021"
+      ]
+     ]
+    }
+   ],
+   "pdfs_found": 16,
+   "scanned": [
+    {
+     "pdf": "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=1605",
+     "pages": 144,
+     "hits": 4
+    },
+    {
+     "pdf": "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=1519",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=1503",
+     "pages": 1,
+     "hits": 0
+    }
+   ],
+   "errors": [],
+   "pdf_sample": [
+    "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=1605",
+    "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=1519",
+    "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=1503",
+    "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=730",
+    "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=728",
+    "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=11",
+    "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=10",
+    "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=9",
+    "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=8",
+    "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=7",
+    "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=6",
+    "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=5",
+    "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=4",
+    "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=3",
+    "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=2"
+   ]
+  },
   "m-tarponsprings:civicclerk": {
    "name": "Tarpon Springs",
    "platform": "civicclerk",
@@ -3381,28 +4886,32 @@
    ],
    "scanned": [
     {
-     "pdf": "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3768,plainText=false)",
-     "pages": 1,
+     "pdf": "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3783,plainText=false)",
+     "pages": 294,
      "hits": 0,
-     "meeting_date": "2026-11-05"
-    },
-    {
-     "pdf": "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3781,plainText=false)",
-     "pages": 1,
-     "hits": 0,
+     "chars": 333651,
      "meeting_date": "2026-11-10"
     },
     {
-     "pdf": "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3782,plainText=false)",
-     "pages": 396,
+     "pdf": "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3790,plainText=false)",
+     "pages": 5,
      "hits": 0,
-     "meeting_date": "2026-11-10"
+     "chars": 6065,
+     "meeting_date": "2026-11-12"
     },
     {
-     "pdf": "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3777,plainText=false)",
-     "pages": 1,
+     "pdf": "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3791,plainText=false)",
+     "pages": 162,
      "hits": 0,
-     "meeting_date": "2026-11-10"
+     "chars": 8391,
+     "meeting_date": "2026-11-12"
+    },
+    {
+     "pdf": "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3784,plainText=false)",
+     "pages": 2,
+     "hits": 0,
+     "chars": 1383,
+     "meeting_date": "2026-11-16"
     }
    ],
    "errors": []
@@ -3425,28 +4934,32 @@
    ],
    "scanned": [
     {
-     "pdf": "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8146,plainText=false)",
-     "pages": 1,
+     "pdf": "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8163,plainText=false)",
+     "pages": 4,
      "hits": 0,
-     "meeting_date": "2026-11-04"
+     "chars": 5741,
+     "meeting_date": "2026-11-09"
     },
     {
-     "pdf": "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8147,plainText=false)",
-     "pages": 37,
+     "pdf": "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8164,plainText=false)",
+     "pages": 182,
      "hits": 0,
-     "meeting_date": "2026-11-04"
+     "chars": 103908,
+     "meeting_date": "2026-11-09"
     },
     {
-     "pdf": "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8168,plainText=false)",
+     "pdf": "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8178,plainText=false)",
      "pages": 2,
      "hits": 0,
-     "meeting_date": "2026-11-05"
+     "chars": 2684,
+     "meeting_date": "2026-11-12"
     },
     {
-     "pdf": "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8169,plainText=false)",
-     "pages": 245,
-     "hits": 0,
-     "meeting_date": "2026-11-05"
+     "pdf": "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8180,plainText=false)",
+     "pages": 24,
+     "hits": 3,
+     "chars": 65235,
+     "meeting_date": "2026-11-12"
     }
    ],
    "errors": []
@@ -3458,14 +4971,7 @@
    "files": [
     "https://seminolefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=747,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://seminolefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=747,plainText=false)",
-     "pages": 2,
-     "hits": 0,
-     "meeting_date": "2026-11-10"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-gainesville:civicclerk": {
@@ -3486,28 +4992,280 @@
    ],
    "scanned": [
     {
-     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=304,plainText=false)",
+     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=306,plainText=false)",
      "pages": 3,
      "hits": 0,
-     "meeting_date": "2026-11-04"
+     "chars": 2248,
+     "meeting_date": "2026-11-05"
     },
     {
-     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=305,plainText=false)",
-     "pages": 70,
-     "hits": 8,
-     "meeting_date": "2026-11-04"
-    },
-    {
-     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=275,plainText=false)",
-     "pages": 3,
-     "hits": 0,
-     "meeting_date": "2026-11-04"
-    },
-    {
-     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=276,plainText=false)",
-     "pages": 204,
+     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=307,plainText=false)",
+     "pages": 79,
      "hits": 2,
-     "meeting_date": "2026-11-04"
+     "chars": 106603,
+     "meeting_date": "2026-11-05"
+    },
+    {
+     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=298,plainText=false)",
+     "pages": 2,
+     "hits": 0,
+     "chars": 2063,
+     "meeting_date": "2026-11-05"
+    },
+    {
+     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=303,plainText=false)",
+     "pages": 2,
+     "hits": 0,
+     "chars": 2078,
+     "meeting_date": "2026-11-05"
+    }
+   ],
+   "errors": []
+  },
+  "c-lake:civicclerk": {
+   "name": "Lake County",
+   "platform": "civicclerk",
+   "events": 15,
+   "files": [
+    "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7850,plainText=false)",
+    "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7855,plainText=false)",
+    "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7840,plainText=false)",
+    "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7843,plainText=false)",
+    "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7853,plainText=false)"
+   ],
+   "scanned": [
+    {
+     "pdf": "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7850,plainText=false)",
+     "pages": 10,
+     "hits": 3,
+     "chars": 17033,
+     "meeting_date": "2026-11-17"
+    },
+    {
+     "pdf": "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7855,plainText=false)",
+     "pages": 400,
+     "hits": 10,
+     "chars": 412236,
+     "meeting_date": "2026-11-17"
+    },
+    {
+     "pdf": "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7840,plainText=false)",
+     "pages": 1,
+     "hits": 0,
+     "chars": 716,
+     "meeting_date": "2026-11-17"
+    },
+    {
+     "pdf": "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7843,plainText=false)",
+     "pages": 10,
+     "hits": 1,
+     "chars": 19623,
+     "meeting_date": "2026-11-17"
+    }
+   ],
+   "errors": []
+  },
+  "m-tallahassee:civicclerk": {
+   "name": "Tallahassee",
+   "platform": "civicclerk",
+   "events": 4,
+   "files": [
+    "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1076,plainText=false)",
+    "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1077,plainText=false)",
+    "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1080,plainText=false)",
+    "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1081,plainText=false)",
+    "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1082,plainText=false)",
+    "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1083,plainText=false)",
+    "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1078,plainText=false)",
+    "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1079,plainText=false)"
+   ],
+   "scanned": [
+    {
+     "pdf": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1076,plainText=false)",
+     "pages": 1,
+     "hits": 0,
+     "chars": 303,
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "pdf": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1077,plainText=false)",
+     "pages": 3,
+     "hits": 0,
+     "chars": 876,
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "pdf": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1080,plainText=false)",
+     "pages": 2,
+     "hits": 0,
+     "chars": 815,
+     "meeting_date": "2026-11-17"
+    },
+    {
+     "pdf": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1081,plainText=false)",
+     "pages": 86,
+     "hits": 0,
+     "chars": 160036,
+     "meeting_date": "2026-11-17"
+    }
+   ],
+   "errors": []
+  },
+  "m-miamigardens:civicclerk": {
+   "name": "Miami Gardens",
+   "platform": "civicclerk",
+   "events": 0,
+   "files": [],
+   "scanned": [],
+   "errors": []
+  },
+  "m-davie:civicclerk": {
+   "name": "Davie",
+   "platform": "civicclerk",
+   "events": 0,
+   "files": [],
+   "scanned": [],
+   "errors": []
+  },
+  "m-melbourne:civicclerk": {
+   "name": "Melbourne",
+   "platform": "civicclerk",
+   "events": 15,
+   "files": [
+    "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10174,plainText=false)",
+    "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10177,plainText=false)",
+    "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10173,plainText=false)",
+    "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10188,plainText=false)",
+    "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10190,plainText=false)",
+    "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10179,plainText=false)",
+    "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10180,plainText=false)",
+    "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10193,plainText=false)",
+    "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10195,plainText=false)",
+    "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10197,plainText=false)"
+   ],
+   "scanned": [
+    {
+     "pdf": "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10174,plainText=false)",
+     "pages": 2,
+     "hits": 0,
+     "chars": 2731,
+     "meeting_date": "2026-11-05"
+    },
+    {
+     "pdf": "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10177,plainText=false)",
+     "pages": 30,
+     "hits": 0,
+     "chars": 67736,
+     "meeting_date": "2026-11-05"
+    },
+    {
+     "pdf": "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10173,plainText=false)",
+     "pages": 1,
+     "hits": 0,
+     "chars": 1347,
+     "meeting_date": "2026-11-06"
+    },
+    {
+     "pdf": "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10188,plainText=false)",
+     "pages": 5,
+     "hits": 1,
+     "chars": 9583,
+     "meeting_date": "2026-11-10"
+    }
+   ],
+   "errors": []
+  },
+  "m-deerfieldbeach:civicclerk": {
+   "name": "Deerfield Beach",
+   "platform": "civicclerk",
+   "events": 5,
+   "files": [
+    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3338,plainText=false)",
+    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3339,plainText=false)",
+    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3331,plainText=false)",
+    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3332,plainText=false)",
+    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3346,plainText=false)",
+    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3347,plainText=false)",
+    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3340,plainText=false)",
+    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3341,plainText=false)",
+    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3351,plainText=false)",
+    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3352,plainText=false)"
+   ],
+   "scanned": [
+    {
+     "pdf": "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3338,plainText=false)",
+     "pages": 12,
+     "hits": 4,
+     "chars": 18502,
+     "meeting_date": "2026-11-05"
+    },
+    {
+     "pdf": "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3339,plainText=false)",
+     "pages": 400,
+     "hits": 30,
+     "chars": 1109911,
+     "meeting_date": "2026-11-05"
+    },
+    {
+     "pdf": "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3331,plainText=false)",
+     "pages": 3,
+     "hits": 0,
+     "chars": 2829,
+     "meeting_date": "2026-11-09"
+    },
+    {
+     "pdf": "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3332,plainText=false)",
+     "pages": 372,
+     "hits": 0,
+     "chars": 315343,
+     "meeting_date": "2026-11-09"
+    }
+   ],
+   "errors": []
+  },
+  "m-kissimmee:civicclerk": {
+   "name": "Kissimmee",
+   "platform": "civicclerk",
+   "events": 15,
+   "files": [
+    "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11229,plainText=false)",
+    "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11223,plainText=false)",
+    "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11225,plainText=false)",
+    "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11227,plainText=false)",
+    "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11226,plainText=false)",
+    "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11231,plainText=false)",
+    "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11232,plainText=false)",
+    "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11219,plainText=false)",
+    "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11220,plainText=false)"
+   ],
+   "scanned": [
+    {
+     "pdf": "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11229,plainText=false)",
+     "pages": 1,
+     "hits": 0,
+     "chars": 1384,
+     "meeting_date": "2026-11-17"
+    },
+    {
+     "pdf": "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11223,plainText=false)",
+     "pages": 1,
+     "hits": 0,
+     "chars": 1068,
+     "meeting_date": "2026-11-17"
+    },
+    {
+     "pdf": "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11225,plainText=false)",
+     "pages": 5,
+     "hits": 0,
+     "chars": 3859,
+     "meeting_date": "2026-11-17"
+    },
+    {
+     "pdf": "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11227,plainText=false)",
+     "pages": 30,
+     "hits": 1,
+     "chars": 42774,
+     "meeting_date": "2026-11-17"
     }
    ],
    "errors": []
