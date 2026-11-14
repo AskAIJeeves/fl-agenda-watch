@@ -7,3 +7,12 @@ Daily GitHub Action that pulls upcoming and recent agenda items from Florida gov
 - `data/agenda_status.json` shows which governments worked and which failed. Governments that don't use Legistar (Tampa uses OnBase, for example) will show as failed.
 
 Run manually from the Actions tab with "Run workflow".
+
+## PDF reader (governments without a usable feed)
+
+`scripts/fetch_pdf_agendas.py` covers governments that post agendas as PDFs. Config is in `config/pdf_sources.json`.
+
+- **Listing-page sources** (St. Petersburg): opens the listing page, follows meeting pages one level, downloads new agenda PDFs from the last 45 days, and keeps passages that contain an action word (approve, contract, agreement, bond, etc.) and a dollar amount of $1M or more.
+- **Numbered sources** (Miami-Dade): agenda PDFs are numbered by meeting key; each run checks the keys after the last one found.
+- Output: `data/pdf_items.json` (last 60 days), `data/pdf_seen.json` (PDFs already scanned), `data/pdf_debug.json` (what each source found, for tuning).
+- Not yet covered: Tampa (OnBase Agenda Online) and Orlando. Both load their meeting lists with JavaScript and need dedicated readers.
