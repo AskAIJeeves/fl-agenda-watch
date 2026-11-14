@@ -141,6 +141,20 @@
    "candidates": [
     "miamifl"
    ]
+  },
+  {
+   "entity_id": "m-pembrokepines",
+   "name": "Pembroke Pines",
+   "candidates": [
+    "ppines"
+   ]
+  },
+  {
+   "entity_id": "c-orange",
+   "name": "Orange County",
+   "candidates": [
+    "occompt"
+   ]
   }
  ]
 }

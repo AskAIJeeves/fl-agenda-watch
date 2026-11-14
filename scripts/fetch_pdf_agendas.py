@@ -188,6 +188,33 @@ def main():
                 d["errors"].append(f"pdf {u}: {e}")
             time.sleep(1)
 
+    # date-patterned PDFs (Palm Beach, Manatee): try each date from 7 days back to 21 days ahead
+    for dt in cfg.get("date_template", []):
+        d = debug[dt["entity_id"] + ":date"] = {"name": dt["name"], "platform": "date_template", "found": [], "scanned": [], "errors": []}
+        for off in range(-7, 22):
+            day = now + timedelta(days=off)
+            for tpl in dt["urls"]:
+                u = tpl.format(Y=day.strftime("%Y"), m=day.strftime("%m"), d=day.strftime("%d"))
+                if u in seen: continue
+                try:
+                    data = fetch(u, binary=True)
+                    if not data[:5].startswith(b"%PDF"): continue
+                except Exception:
+                    continue
+                d["found"].append(u)
+                try:
+                    pages = pdf_text(data, cfg["max_pages_per_pdf"]); hits = passages(pages, min_amount)[:30]
+                    for pno, top, ch in hits:
+                        store["items"].append({"entity_id": dt["entity_id"], "government": dt["name"], "client": "pdf",
+                            "body": dt.get("body"), "meeting_date": day.date().isoformat(), "agenda_number": f"p.{pno}", "file_number": None,
+                            "title": ch, "max_amount": top, "keywords": sorted({m.group(0).lower() for m in KEYWORDS.finditer(ch)}),
+                            "meeting_url": None, "agenda_pdf": u, "found_utc": now.isoformat(timespec="seconds")})
+                    # re-check future agendas (they get revised); mark past ones done
+                    if off < 0: seen[u] = {"status": "ok", "pages": len(pages), "hits": len(hits), "date": now.date().isoformat()}
+                    d["scanned"].append({"pdf": u, "pages": len(pages), "hits": len(hits)})
+                except Exception as e:
+                    d["errors"].append(f"pdf {u}: {e}")
+
     # numbered PDFs (Miami-Dade): probe keys after the last one found
     state_p = ROOT / "data/pdf_state.json"
     state = json.loads(state_p.read_text()) if state_p.exists() else {}

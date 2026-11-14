@@ -113,6 +113,27 @@
    ],
    "follow": "",
    "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)"
+  },
+  {
+   "entity_id": "m-bocaraton",
+   "name": "Boca Raton",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://bocaraton.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+    "https://bocaraton.granicus.com/ViewPublisherRSS.php?view_id=9&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)"
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "name": "Boynton Beach",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)"
   }
  ],
  "sequential": [
@@ -180,7 +201,35 @@
    "entity_id": "m-kissimmee",
    "name": "Kissimmee",
    "tenant": "kissimmeefl"
+  },
+  {
+   "entity_id": "c-lee",
+   "name": "Lee County",
+   "tenant": "leecofl"
+  },
+  {
+   "entity_id": "c-escambia",
+   "name": "Escambia County",
+   "tenant": "escambiacofl"
   }
  ],
- "_platforms_checked": "CivicPlus Agenda Center RSS feeds were empty for Tarpon Springs, Safety Harbor, Oldsmar, St. Pete Beach (they use other systems). Oldsmar uses CivicWeb (myoldsmar.civicweb.net)."
+ "_platforms_checked": "CivicPlus Agenda Center RSS feeds were empty for Tarpon Springs, Safety Harbor, Oldsmar, St. Pete Beach (they use other systems). Oldsmar uses CivicWeb (myoldsmar.civicweb.net).",
+ "date_template": [
+  {
+   "entity_id": "c-palmbeach",
+   "name": "Palm Beach County",
+   "body": "Board of County Commissioners",
+   "urls": [
+    "https://discover.pbcgov.org/countycommissioners/Agenda_Master/{Y}{m}{d}.pdf"
+   ]
+  },
+  {
+   "entity_id": "c-manatee",
+   "name": "Manatee County",
+   "body": "Board of County Commissioners",
+   "urls": [
+    "https://records.manateeclerk.com/BoardRecords/Browse/Agendas/Board-of-County-Commissioners/{Y}/{m}/BC{Y}{m}{d}DOC001.pdf"
+   ]
+  }
+ ]
 }
