@@ -12,6 +12,7 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 from fetch_agendas import amounts, KEYWORDS  # shared filters
 
+ACTION = re.compile(r"(?i)\b(approv\w*|award\w*|authoriz\w*|not[- ]to[- ]exceed|contract|agreement|amendment|change order|purchase|resolution|ordinance|appropriat\w*|bond|loan)\b")
 UA = {"User-Agent": "Mozilla/5.0 (fl-agenda-watch; public records research)"}
 
 class Links(HTMLParser):
@@ -55,7 +56,7 @@ def passages(pages, min_amount):
             if len(ch) < 40: continue
             a = amounts(ch)
             top = max(a) if a else None
-            if top and top >= min_amount:
+            if top and top >= min_amount and ACTION.search(ch):
                 out.append((pno, top, ch[:1200]))
     # drop near-duplicate passages (agenda + packet repeat the same item)
     seen, uniq = set(), []
@@ -90,6 +91,8 @@ def main():
                     pl = ls if pu == lu else links(pu)
                 except Exception as e:
                     d["errors"].append(f"page {pu}: {e}"); continue
+                if pu != lu:
+                    d.setdefault("followed", []).append({"url": pu, "links": len(pl), "sample": [[u, t] for u, t in pl if re.search(r"(?i)agenda|meeting|pdf|document|file|packet|legistar", u + " " + t)][:60]})
                 for u, t in pl:
                     if pdf_re.search(u): cands.append((u, t, pu))
         cands = list(dict((u, (u, t, p)) for u, t, p in cands).values())
