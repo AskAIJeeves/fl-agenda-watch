@@ -26,7 +26,9 @@ Run manually from the Actions tab with "Run workflow".
 | Granicus RSS | fetch_pdf_agendas.py | Dunedin, Seminole (city), Polk (Tampa and Miami Beach feeds empty) |
 | Agenda PDFs on city site | fetch_pdf_agendas.py | St. Petersburg |
 | Numbered PDFs | fetch_pdf_agendas.py | Miami-Dade County |
+| Date-patterned PDFs | fetch_pdf_agendas.py | Palm Beach County, Manatee County |
+| OnBase Agenda Online | fetch_pdf_agendas.py | Tampa, Osceola County (uses the DownloadFileBytes endpoint; DownloadFile returns a spinner page) |
 
-Not yet covered: Tampa (OnBase), Orlando and Cape Coral (eScribe), Miami (iQM2), Miami Beach (PrimeGov), Oldsmar (CivicWeb).
+Not yet covered: Orlando, St. Johns County and Cape Coral (eScribe), Pasco County, Daytona Beach, Largo and Miami Gardens (CivicWeb), Miami (iQM2), Miami Beach (PrimeGov), Oldsmar (CivicWeb).
 
 `scripts/probe_platforms.py` (Actions tab, "Platform probe") tests governments listed in `config/probe_list.json` against common platforms. Its Novus check gives false positives.
