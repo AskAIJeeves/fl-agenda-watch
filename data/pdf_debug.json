@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-14T18:58:36+00:00",
+ "generated_utc": "2026-11-14T18:59:38+00:00",
  "sources": {
   "m-stpetersburg": {
    "name": "St. Petersburg",
@@ -8,46 +8,486 @@
      "url": "https://www.stpete.org/government/meetings___agendas/",
      "links": 486,
      "sample": [
-      "https://www.stpete.org/government/meetings___agendas/#main",
-      "https://www.stpete.org/./",
-      "https://www.stpete.org/government/mayor___city_council/mayor_s_office/index.php",
-      "https://www.stpete.org/residents/index.php",
-      "https://www.stpete.org/residents/community/accessibility_in_stpete.php",
-      "https://www.stpete.org/visitors/arts_culture.php",
-      "https://www.stpete.org/residents/parks___recreation/african_american_heritage_trail.php",
-      "https://www.stpete.org/visitors/art_districts.php",
-      "https://www.stpete.org/visitors/attractions/museums_galleries_and_theaters.php",
-      "https://www.stpete.org/visitors/public_art_collection.php",
-      "https://www.stpete.org/visitors/sister_cities_international_relations.php",
-      "https://www.stpete.org/business/business_assistance/index.php",
-      "https://www.stpete.org/residents/current_projects/index.php",
-      "https://www.stpete.org/residents/current_projects/community_projects/index.php",
-      "https://www.stpete.org/residents/current_projects/development_projects.php",
-      "https://www.stpete.org/residents/current_projects/infrastructure_projects.php",
-      "https://www.stpete.org/residents/current_projects/planning_projects/index.php",
-      "https://www.stpete.org/residents/current_projects/transportation_projects.php",
-      "https://www.stpete.org/residents/education___youth_programs/index.php",
-      "http://www.splibraries.org/",
-      "https://stpeteyouthfarm.org/",
-      "https://www.stpeteparksrec.org/programs___events/index.php",
-      "https://www.stpete.org/calendar.php?view=week",
-      "https://www.stpete.org/residents/parking___transportation/index.php",
-      "https://www.stpete.org/residents/parking___transportation/albert_whitted_airport.php",
-      "https://www.stpete.org/residents/parking___transportation/marina.php",
-      "https://www.stpete.org/residents/parking___transportation/where_to_park.php",
-      "https://www.stpete.org/residents/parking___transportation/port_st_pete.php",
-      "https://www.stpete.org/visitors/getting_around.php",
-      "https://www.stpete.org/residents/good_neighbor_guides/index.php",
-      "https://www.stpete.org/residents/grants___loans/index.php",
-      "https://www.stpete.org/residents/grants___loans/business.php",
-      "https://www.stpete.org/residents/grants___loans/community.php",
-      "https://www.stpete.org/residents/grants___loans/housing.php",
-      "https://www.stpete.org/residents/grants___loans/for_south_stpete.php",
-      "https://www.stpete.org/residents/grants___loans/youth.php",
-      "https://www.stpete.org/residents/grants___loans/sunrise_st._pete/index.php",
-      "https://www.stpete.org/residents/housing/index.php",
-      "https://www.stpete.org/residents/housing/housing_opportunities_for_all.php",
-      "https://www.stpete.org/residents/housing/developers/index.php"
+      [
+       "https://www.stpete.org/government/meetings___agendas/#main",
+       "Skip to main content"
+      ],
+      [
+       "https://www.stpete.org/government/mayor___city_council/mayor_s_office/index.php",
+       ""
+      ],
+      [
+       "http://www.stpete.org/calendar.php?calendar=9",
+       "City Meeting Calendar"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/index.php",
+       "Meetings"
+      ],
+      [
+       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
+       "Office of City Council"
+      ],
+      [
+       "https://www.stpete.org/government/mayor___city_council/mayor_s_office/index.php",
+       "Office of the Mayor"
+      ],
+      [
+       "https://www.stpete.org/government/mayor___city_council/mayor_s_office/education_youth_opportunities.php",
+       "Education and Youth Opportunities"
+      ],
+      [
+       "https://www.stpete.org/government/mayor___city_council/mayor_s_office/equitable_development_arts_business_opportunities.php",
+       "Equitable Development, Arts & Business Opportunities"
+      ],
+      [
+       "https://www.stpete.org/government/mayor___city_council/mayor_s_office/neighborhood_health_safety.php",
+       "Neighborhood Health & Safety"
+      ],
+      [
+       "https://www.stpete.org/government/mayor___city_council/mayor_s_office/housing_opportunities_for_all.php",
+       "Housing Opportunities For All"
+      ],
+      [
+       "https://www.stpete.org/government/mayor___city_council/mayor_s_office/environment_infrastructure_resilience.php",
+       "Environment, Infrastructure & Resilience"
+      ],
+      [
+       "https://www.stpete.org/Government/Transparency/City Management Org Chart.pdf",
+       "City Organizational Chart"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/index.php",
+       "Attend a Meeting"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Afrikaans"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Albanian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Arabic"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Armenian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Azerbaijani"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Basque"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Belarusian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Bengali"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Bosnian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Bulgarian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Catalan"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Cebuano"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Chinese (Simplified)"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Chinese (Traditional)"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Croatian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Czech"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Danish"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Dutch"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "English"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Esperanto"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Estonian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Filipino"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Finnish"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "French"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Galician"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Georgian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "German"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Greek"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Gujarati"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Haitian Creole"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Hausa"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Hebrew"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Hindi"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Hmong"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Hungarian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Icelandic"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Igbo"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Indonesian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Irish"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Italian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Japanese"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Javanese"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Kannada"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Khmer"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Korean"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Lao"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Latin"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Latvian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Lithuanian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Macedonian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Malay"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Maltese"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Maori"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Marathi"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Mongolian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Nepali"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Norwegian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Persian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Polish"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Portuguese"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Punjabi"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Romanian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Russian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Serbian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Slovak"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Slovenian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Somali"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Spanish"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Swahili"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Swedish"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Tamil"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Telugu"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Thai"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Turkish"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Ukrainian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Urdu"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Vietnamese"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Welsh"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Yiddish"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Yoruba"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Zulu"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Print this page"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       ""
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       ""
+      ],
+      [
+       "https://www.stpete.org/Government/Government/Boards and Committees/docs/City Hall Visitor Parking Map.pdf?t=202401220837200",
+       "City Hall Visitor Parking Map"
+      ],
+      [
+       "https://www.stpete.org/calendar.php?calendar=9&view=week",
+       "Meeting Calendar"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/recorded_city_meetings.php",
+       "Recorded City Meetings"
+      ],
+      [
+       "https://www.facebook.com/sharer/sharer.php?u=http://www.stpete.org/government/meetings___agendas/",
+       "Facebook"
+      ],
+      [
+       "https://www.twitter.com/home?status=http://www.stpete.org/government/meetings___agendas/",
+       "Twitter"
+      ],
+      [
+       "https://www.reddit.com/submit?url=http://www.stpete.org/government/meetings___agendas/",
+       "Reddit"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/index.php",
+       "Meetings"
+      ],
+      [
+       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
+       "Office of City Council"
+      ],
+      [
+       "https://www.stpete.org/government/mayor___city_council/mayor_s_office/index.php",
+       "Office of the Mayor"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Afrikaans"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Albanian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Arabic"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Armenian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Azerbaijani"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Basque"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Belarusian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Bengali"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Bosnian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Bulgarian"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Catalan"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Cebuano"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Chinese (Simplified)"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/",
+       "Chinese (Traditional)"
+      ]
      ]
     }
    ],
@@ -61,64 +501,289 @@
    "listing": [
     {
      "url": "https://www.orlando.gov/Our-Government/Public-Meetings",
-     "links": 689,
+     "links": 695,
      "sample": [
-      "https://www.orlando.gov/Our-Government/Public-Meetings#main-content",
-      "https://www.orlando.gov/Our-Government/Public-Meetings?oc_lang=en-US",
-      "https://www.orlando.gov/Our-Government/Public-Meetings?oc_lang=en-US",
-      "https://www.orlando.gov/Home",
-      "https://www.orlando.gov/Home",
-      "https://www.orlando.gov/Report-a-Problem",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Crime",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Code-Enforcement-Violation",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Transportation-Problem",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Transportation-Problem/Report-a-Pothole",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Transportation-Problem/Report-a-Broken-Sidewalk",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Transportation-Problem/Report-a-Traffic-Signal-Issue",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Transportation-Problem/Report-a-Damaged-Traffic-Sign",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Transportation-Problem/Report-Speeding-in-Your-Neighborhood",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Transportation-Problem/Report-Nuisance-Parking",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Transportation-Problem/Incorrectly-Parked-Dockless-Bike-or-Scooter",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Transportation-Problem/Report-a-Broken-Parking-Meter",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Transportation-Problem/Report-a-Streetlight-Outage",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Transportation-Problem/Report-Other-Traffic-Safety-Issues",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Solid-Waste-and-Environment-Problem",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Solid-Waste-and-Environment-Problem/Report-Flooding",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Solid-Waste-and-Environment-Problem/Report-a-Missed-Garbage-Cart-Pick-Up",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Solid-Waste-and-Environment-Problem/Report-a-Missed-Garbage-Dumpster-Pick-Up",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Solid-Waste-and-Environment-Problem/Report-Lake-or-Stormwater-Pollution",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Solid-Waste-and-Environment-Problem/Report-Sanitary-Overflow-or-Stopped-Sewer",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Parks-and-Beautification-Problem",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Parks-and-Beautification-Problem/Report-a-Problem-Tree",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Parks-and-Beautification-Problem/Report-Something-Broken-in-a-Park",
-      "https://www.orlando.gov/Report-a-Problem/Report-a-Parks-and-Beautification-Problem/Report-Graffiti",
-      "https://www.orlando.gov/Report-a-Problem/Report-Public-Resource-Misuse",
-      "https://www.orlando.gov/Report-a-Problem/Report-Public-Resource-Misuse/Report-City-Fraud-Waste-or-Abuse",
-      "https://www.orlando.gov/Report-a-Problem/Report-Public-Resource-Misuse/Report-Bad-Driving-in-a-City-Vehicle",
-      "https://www.orlando.gov/Building-Development",
-      "https://www.orlando.gov/Building-Development/Permits-Inspections",
-      "https://www.orlando.gov/Building-Development/Permits-Inspections/Get-a-Permit",
-      "https://www.orlando.gov/Building-Development/Permits-Inspections/Renew-Extend-Close-or-Withdraw-a-Permit",
-      "https://www.orlando.gov/Building-Development/Permits-Inspections/Schedule-an-Appointment",
-      "https://www.orlando.gov/Building-Development/Permits-Inspections/Figure-Out-What-Permits-You-Need",
-      "https://www.orlando.gov/Building-Development/Permits-Inspections/Submit-Construction-Project-Plans",
-      "https://www.orlando.gov/Building-Development/Permits-Inspections/Check-Permit-Status"
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings#main-content",
+       "Skip to main content"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings?oc_lang=en-US",
+       "English Select this as your preferred language"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings?oc_lang=es",
+       "Espa\u00f1ol (Spanish) Select this as your preferred language"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings?oc_lang=ht",
+       "Krey\u00f2l Ayisyen (Haitian Creole) Select this as your preferred language"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings?oc_lang=pt",
+       "Portugu\u00eas (Portuguese) Select this as your preferred language"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings?oc_lang=en-US",
+       "English Select this as your preferred language"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings?oc_lang=es",
+       "Espa\u00f1ol (Spanish) Select this as your preferred language"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings?oc_lang=ht",
+       "Krey\u00f2l Ayisyen (Haitian Creole) Select this as your preferred language"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings?oc_lang=pt",
+       "Portugu\u00eas (Portuguese) Select this as your preferred language"
+      ],
+      [
+       "https://www.orlando.gov/Building-Development/Schedule-an-Appointment/Request-a-Pre-Application-Meeting-with-a-Planner",
+       "Request a Pre-Application Meeting with a Planner"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Mayor-City-Council",
+       "Mayor & City Council"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Mayor-City-Council/Buddy-Dyer",
+       "Buddy Dyer"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Mayor-City-Council/Tom-Keen",
+       "Tom Keen - District 1"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Mayor-City-Council/Tony-Ortiz",
+       "Tony Ortiz - District 2"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Mayor-City-Council/Roger-Chapin",
+       "Roger Chapin - District 3"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Mayor-City-Council/Patty-Sheehan",
+       "Patty Sheehan - District 4"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Mayor-City-Council/Shan-Rose",
+       "Shan Rose - District 5"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Mayor-City-Council/Bakari-F.-Burns",
+       "Bakari F. Burns - District 6"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Mayor-City-Council/City-Council-Meetings",
+       "City Council Meetings"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Mayor-City-Council/Council-Agendas-and-Minutes",
+       "Council Agendas and Minutes"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Records-and-Documents/City-Council-Minutes-and-Agendas",
+       "City Council Minutes and Agendas"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Records-and-Documents/City-Council-Meetings",
+       "Find City Council Meetings"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Records-and-Documents/Minutes-Agendas",
+       "View City Board Calendar, Minutes and Agendas"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings",
+       "Public Meetings"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Municipal-Planning-Board-MPB-111726",
+       "Municipal Planning Board (MPB)"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Families-Parks-and-Recreation-Advisory-Board-111726",
+       "Families, Parks and Recreation Advisory Board Meeting"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Board-of-Zoning-Adjustment-BZA-111726",
+       "Board of Zoning Adjustment (BZA)"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Firefighters-Pension-Board-111826",
+       "Firefighter's Pension Board"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Downtown-Development-BoardCRA-Advisory-Board-Meeting-111826",
+       "Downtown Development Board/CRA Advisory Board"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Affordable-Housing-Advisory-Committee-111926",
+       "Affordable Housing Advisory Committee"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Appearance-Review-Board-111926",
+       "Appearance Review Board"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Finance-Committee-Meeting-111926",
+       "Finance Committee Meeting"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Harry-P.-Leu-Gardens-Board-of-Trustees-111826",
+       "Harry P. Leu Gardens Board of Trustees"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Budget-Review-Committee-111926",
+       "Budget Review Committee"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/CANCELED-General-Session-Executive-Session-of-the-Risk-Management-Committee-111826",
+       "*CANCELED* - Risk Management Committee"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/After-Midnight-Alcohol-Sales-Hearing-112026",
+       "After Midnight Alcohol Sales Hearing"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/2nd-Committee-Meeting-for-RFP26-0439-Grounds-Maintenance-for-Wastewater-Admin-Conserv-II-and-Various-Lift-Station-111726",
+       "2nd Committee Meeting for RFP26-0439"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/1st-Committee-Meeting-for-One-North-Orange-Redevelopment-Solicitation-111826",
+       "1st Committee Meeting for One North Orange Redevelopment Solicitation"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/3rd-Advisory-Committee-Meeting-for-RFP26-0578-Camping-World-Stadium-Converged-Network-System-CNS-Design-and-Install-Project-111826",
+       "3rd Advisory Committee Meeting for RFP26-0578"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/CANCELED-Mayor-Dyer-and-Commissioner-Keen-Meeting-111926",
+       "*CANCELED* - Mayor Dyer and Commissioner Keen Meeting"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Public-Art-Selection-Committee-Meeting-for-Lake-Nona-Park-111626",
+       "Public Art Selection Committee Meeting for Lake Nona Park"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/2nd-Committee-Meeting-for-RQS26-0612-Design-Services-for-Orlando-Flood-Mitigation-by-Drainwell-Replacement-Block-Grant-112026",
+       "2nd Committee Meeting for RQS26-0612"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/CANCELED-Commissioner-Burns-and-Commissioner-Rose-Meeting-111926",
+       "*CANCELED* - Commissioner Burns and Commissioner Rose Meeting"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Consultants-Qualification-Board-Meeting-for-RQS27-0008Transportation-Engineering-and-Planning-Services-for-Safe-Speeds-Lab-111826",
+       "Consultants' Qualification Board Meeting for RQS27-0008"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Mayor-Dyer-and-Commissioner-Keen-Meeting-111826",
+       "Mayor Dyer and Commissioner Keen Meeting"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/EDV-Small-Business-Fa\u00e7ade-Committee-112426",
+       "EDV Small Business Fa\u00e7ade Committee"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Contact-Us/Mayor-City-Council",
+       "Mayor & City Council"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings#instructions",
+       "Public Meeting Instructions and Notices"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Public-Art-Selection-Committee-Meeting-for-Lake-Nona-Park-111626",
+       "Public Art Selection Committee Meeting for Lake Nona Park November 16, 2026 In-Person Meeting"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Municipal-Planning-Board-MPB-111726",
+       "Municipal Planning Board (MPB) November 17, 2026 Hybrid Meeting"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/2nd-Committee-Meeting-for-RFP26-0439-Grounds-Maintenance-for-Wastewater-Admin-Conserv-II-and-Various-Lift-Station-111726",
+       "2nd Committee Meeting for RFP26-0439 November 17, 2026 In-Person Meeting"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Families-Parks-and-Recreation-Advisory-Board-111726",
+       "Families, Parks and Recreation Advisory Board Meeting November 17, 2026 In-Person Meeting"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Board-of-Zoning-Adjustment-BZA-111726",
+       "Board of Zoning Adjustment (BZA) November 17, 2026 Hybrid Meeting"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Harry-P.-Leu-Gardens-Board-of-Trustees-111826",
+       "Harry P. Leu Gardens Board of Trustees November 18, 2026 Virtual Meeting"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Firefighters-Pension-Board-111826",
+       "Firefighter's Pension Board November 18, 2026 In-Person Meeting"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/1st-Committee-Meeting-for-One-North-Orange-Redevelopment-Solicitation-111826",
+       "1st Committee Meeting for One North Orange Redevelopment Solicitation November 18, 2026 In-Person Meeting"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/3rd-Advisory-Committee-Meeting-for-RFP26-0578-Camping-World-Stadium-Converged-Network-System-CNS-Design-and-Install-Project-111826",
+       "3rd Advisory Committee Meeting for RFP26-0578 November 18, 2026 In-Person Meeting"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Mayor-Dyer-and-Commissioner-Keen-Meeting-111826",
+       "Mayor Dyer and Commissioner Keen Meeting November 18, 2026 In-Person Meeting"
+      ],
+      [
+       "https://www.orlando.gov/Events/City-Council-Meeting",
+       "City Council Meeting 07 Dec 2026 The Orlando City Council meets regularly to discuss and vote on official city business. Members of the Orlando City Council are the Mayor, elected at-large, and six City Commissioners who are elected from respective districts. 10 more dates Tagged as: , Council Meetings & Workshops , Talks & workshops"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Records-and-Documents/Registrations-and-Applications/Submit-Public-Comments-for-Virtual-Meetings",
+       "orlando.gov/publiccomments"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Records-and-Documents/Registrations-and-Applications/Submit-Public-Comments-for-Virtual-Meetings",
+       "orlando.gov/publiccomments"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Records-and-Documents/Registrations-and-Applications/Submit-Public-Comments-for-Virtual-Meetings",
+       "orlando.gov/publiccomments"
+      ],
+      [
+       "https://www.orlando.gov/files/sharedassets/public/council/virtualmeetinginstructions_boardmembers.pdf",
+       "Instructions for board members(PDF, 66KB)"
+      ],
+      [
+       "https://www.orlando.gov/files/sharedassets/public/council/virtualmeetinginstructions_publicmeetingsv2.pdf",
+       "Instructions for the public(PDF, 43KB)"
+      ],
+      [
+       "https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.orlando.gov%2fOur-Government%2fPublic-Meetings",
+       "Facebook"
+      ],
+      [
+       "https://twitter.com/share?url=https%3a%2f%2fwww.orlando.gov%2fOur-Government%2fPublic-Meetings",
+       "X"
+      ],
+      [
+       "mailto:?Body=https%3a%2f%2fwww.orlando.gov%2fOur-Government%2fPublic-Meetings",
+       "Email"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings",
+       "Print"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings#body-top",
+       "Back to top"
+      ]
      ]
     }
    ],
    "pdfs_found": 2,
-   "scanned": [
-    {
-     "pdf": "https://www.orlando.gov/files/sharedassets/public/council/virtualmeetinginstructions_boardmembers.pdf",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.orlando.gov/files/sharedassets/public/council/virtualmeetinginstructions_publicmeetingsv2.pdf",
-     "pages": 1,
-     "hits": 0
-    }
-   ],
+   "scanned": [],
    "errors": [],
    "pdf_sample": [
     "https://www.orlando.gov/files/sharedassets/public/council/virtualmeetinginstructions_boardmembers.pdf",
@@ -132,46 +797,90 @@
      "url": "https://www.miamidade.gov/govaction/commagenda.asp",
      "links": 69,
      "sample": [
-      "https://www.miamidade.gov/govaction/commagenda.asp#contentBody",
-      "https://miamidade.gov",
-      "https://www.miamidade.gov/global/navigation/your-government.page",
-      "https://secure.miamidade.gov/employee/home.page",
-      "https://www.miamidade.gov/global/calendar/global.page",
-      "https://www.miamidade.gov/global/311.page",
-      "https://www.miamidade.gov/govaction/commagenda.asp",
-      "https://www.miamidade.gov/govaction/commagenda.asp",
-      "https://www.miamidade.gov/govaction/commagenda.asp",
-      "https://www.miamidade.gov/govaction/commagenda.asp",
-      "https://www.miamidade.gov/govaction/commagenda.asp",
-      "https://www.miamidade.gov/govaction/commagenda.asp",
-      "https://www.miamidade.gov/govaction/commagenda.asp",
-      "http://miamidade.gov",
-      "https://www.miamidade.gov/govaction/online-services.asp",
-      "http://www.miamidade.gov/cob/county-commission-meetings.asp",
-      "https://www.miamidade.gov/govaction/contact.asp",
-      "https://www.miamidade.gov/govaction/home.asp",
-      "https://www.miamidade.gov/govaction/search.asp",
-      "https://www.miamidade.gov/govaction/keywordsearch.asp",
-      "https://www.miamidade.gov/govaction/searchleg.asp",
-      "https://www.miamidade.gov/govaction/agendas.asp?Action=Agendas&Oper=DisplayList",
-      "https://www.miamidade.gov/govaction/minutes.asp?Action=Minutes&Oper=DisplayList",
-      "https://www.miamidadeclerk.gov/clerk/cob-lobbyist-registration.page",
-      "https://www.miamidade.gov/govaction/legislative_reports.asp",
-      "https://www.miamidade.gov/govaction/legislative-glossary.asp",
-      "https://www.miamidade.gov/govaction/Board_Directives.asp?function=reports&type=boarddirectives2&status=clear",
-      "http://www.miamidade.gov/emergency",
-      "https://www.miamidade.gov/govaction/contact.asp",
-      "https://www.miamidade.gov/govaction/search.asp",
-      "https://www.miamidade.gov/govaction/agendas.asp?Action=Agendas&Oper=DisplayList",
-      "https://www.miamidade.gov/govaction/minutes.asp?Action=Minutes&Oper=DisplayList",
-      "https://www.miamidadeclerk.gov/clerk/cob-lobbyist-registration.page",
-      "https://www.miamidade.gov/govaction/legislative_reports.asp",
-      "https://www.miamidade.gov/global/webcasting/home.page",
-      "about:/govaction/LSubMain.asp",
-      "https://www.municode.com/library/fl/miami_-_dade_county/codes/code_of_ordinances",
-      "https://www.miamidade.gov/global/policies/orders-search.page",
-      "https://www.miamidade.gov/govaction/commagenda.asp#top",
-      "https://www.miamidade.gov/global/webcasting/home.page"
+      [
+       "https://www.miamidade.gov/govaction/commagenda.asp#contentBody",
+       "Skip Navigation"
+      ],
+      [
+       "https://www.miamidade.gov/govaction/commagenda.asp",
+       "Login"
+      ],
+      [
+       "https://www.miamidade.gov/govaction/commagenda.asp",
+       "Create Account"
+      ],
+      [
+       "https://www.miamidade.gov/govaction/commagenda.asp",
+       ""
+      ],
+      [
+       "https://www.miamidade.gov/govaction/commagenda.asp",
+       "Dashboard"
+      ],
+      [
+       "https://www.miamidade.gov/govaction/commagenda.asp",
+       "Update Profile"
+      ],
+      [
+       "https://www.miamidade.gov/govaction/commagenda.asp",
+       "Sign Out"
+      ],
+      [
+       "https://www.miamidade.gov/govaction/commagenda.asp",
+       "Sign Out"
+      ],
+      [
+       "http://www.miamidade.gov/cob/county-commission-meetings.asp",
+       "Government Meetings"
+      ],
+      [
+       "https://www.miamidade.gov/govaction/agendas.asp?Action=Agendas&Oper=DisplayList",
+       "Agendas"
+      ],
+      [
+       "https://www.miamidade.gov/govaction/contact.asp",
+       "Agenda Coordination"
+      ],
+      [
+       "https://www.miamidade.gov/govaction/agendas.asp?Action=Agendas&Oper=DisplayList",
+       "Agendas"
+      ],
+      [
+       "about:/govaction/LSubMain.asp",
+       "receive agendas by email"
+      ],
+      [
+       "https://www.miamidade.gov/govaction/commagenda.asp#top",
+       "Back to Top"
+      ],
+      [
+       "https://www.miamidade.gov/global/webcasting/home.page",
+       "View live or archived meetings"
+      ],
+      [
+       "https://www.miamidade.gov/govaction/lsubmain.asp",
+       "Receive Agendas by Email"
+      ],
+      [
+       "https://www.miamidade.gov/global/government/commission/home.page",
+       "Commissioners"
+      ],
+      [
+       "https://www.miamidade.gov/govaction/commagenda.asp",
+       "Print"
+      ],
+      [
+       "https://www.miamidade.gov/govaction/commagenda.asp",
+       ""
+      ],
+      [
+       "https://www.miamidade.gov/govaction/commagenda.asp",
+       "Minimize Tools"
+      ],
+      [
+       "https://www.miamidade.gov/govaction/commagenda.asp",
+       "Tools"
+      ]
      ]
     }
    ],
@@ -187,63 +896,100 @@
      "url": "https://www.tampa.gov/node/73436",
      "links": 191,
      "sample": [
-      "https://www.tampa.gov/node/73436#main-content",
-      "https://www.tampa.gov/accessibility/website",
-      "https://www.tampa.gov/news",
-      "https://www.tampa.gov/",
-      "https://www.tampa.gov/node/73436",
-      "https://www.tampa.gov/guide/resident",
-      "https://www.tampa.gov/guide/neighborhoods",
-      "https://www.tampa.gov/guide/events",
-      "https://www.tampa.gov/guide/business",
-      "https://www.tampa.gov/guide/commercial",
-      "https://www.tampa.gov/guide/city-projects",
-      "https://www.tampa.gov/guide/zoning",
-      "https://www.tampa.gov/guide/employees",
-      "https://www.tampa.gov/guide/jobs",
-      "https://www.tampa.gov/guide/boards",
-      "https://www.tampa.gov/guide/public-records",
-      "https://www.tampa.gov/guide/utilities",
-      "https://www.tampa.gov/guide/payments",
-      "https://www.tampa.gov/guide/zoning",
-      "https://www.tampa.gov/guide",
-      "https://www.tampa.gov/node/73436",
-      "https://www.tampa.gov/contract-administration",
-      "https://www.tampa.gov/construction-services/fees",
-      "https://www.tampa.gov/development-coordination/zoning/maps",
-      "https://aca-prod.accela.com/TAMPA/Default.aspx",
-      "https://www.tampa.gov/business-tax",
-      "https://www.tampa.gov/construction-services",
-      "https://www.tampa.gov/city-planning",
-      "https://www.tampa.gov/historic-preservation",
-      "https://www.tampa.gov/msbd",
-      "https://www.tampa.gov/how-to-do-business",
-      "https://www.tampa.gov/msbd#certify",
-      "https://tampa.gob2g.com/",
-      "https://www.tampa.gov/CRAs",
-      "https://www.tampa.gov/DEO/programs",
-      "https://www.tampa.gov/economic-and-urban-development/programs/incentives",
-      "https://www.tampa.gov/info/utilities",
-      "https://www.tampa.gov/purchasing",
-      "https://www.tampa.gov/purchasing/info/bid-schedule",
-      "https://www.tampa.gov/guide/business"
+      [
+       "https://www.tampa.gov/guide/boards-and-commissions",
+       "Boards & Commissions"
+      ],
+      [
+       "https://www.tampa.gov/city-council",
+       "City Council"
+      ],
+      [
+       "https://www.tampa.gov/city-clerk/info/boards-and-commissions",
+       "Boards & Commissions"
+      ],
+      [
+       "https://www.tampa.gov/calendar?event_collection%5B%5D=96&combine=",
+       "Public Meetings"
+      ],
+      [
+       "https://tampagov.hylandcloud.com/251agendaonline/",
+       "Meeting Agendas"
+      ],
+      [
+       "https://www.tampa.gov/cable-communication/programs/cttv-on-demand",
+       "Meeting Videos"
+      ],
+      [
+       "https://www.tampa.gov/city-council",
+       "City Council"
+      ],
+      [
+       "https://tampagov.hylandcloud.com/251agendaonline/",
+       "City Council Final Agendas"
+      ],
+      [
+       "https://www.tampa.gov/service-tags/council",
+       "Council"
+      ],
+      [
+       "https://www.tampa.gov/service/city-council-regular-meeting-agendas",
+       "City Council Regular Meeting Agendas"
+      ],
+      [
+       "https://www.tampa.gov/service/official-records-city-council-agendas-and-meeting-minutes",
+       "Official Records of City Council Agendas and Meeting Minutes"
+      ],
+      [
+       "https://www.tampa.gov/service/city-council-calendar",
+       "City Council Calendar"
+      ],
+      [
+       "https://www.tampa.gov/service/public-meetings-calendar",
+       "Public Meetings Calendar"
+      ],
+      [
+       "https://www.tampa.gov/service/tampa-city-council",
+       "Tampa City Council"
+      ],
+      [
+       "https://www.tampa.gov/service/city-council-and-other-meeting-agendas",
+       "City Council and other meeting agendas"
+      ],
+      [
+       "https://www.tampa.gov/service/city-council-closed-captioning-meeting-transcripts",
+       "City Council Closed Captioning Meeting Transcripts"
+      ]
      ]
     },
     {
      "url": "https://www.tampa.gov/agendas",
      "links": 11,
      "sample": [
-      "https://www.tampa.gov/agendas#main-content",
-      "https://www.tampa.gov/agendas#intro-content",
-      "https://www.tampa.gov/agendas#search-content",
-      "https://www.tampa.gov/",
-      "https://www.tampa.gov/251agendaonline/",
-      "https://www.tampa.gov/251agendaonline/Meetings",
-      "https://www.tampa.gov/city-clerk",
-      "https://tampagov.hylandcloud.com/251publicaccess/",
-      "https://www.tampa.gov/city-clerk/info/onbase",
-      "https://www.tampa.gov/accessibility",
-      "https://www.tampa.gov/about-us/tampagov/privacy-policy"
+      [
+       "https://www.tampa.gov/agendas#main-content",
+       "Skip to main content"
+      ],
+      [
+       "https://www.tampa.gov/agendas#intro-content",
+       "Skip to introduction content"
+      ],
+      [
+       "https://www.tampa.gov/agendas#search-content",
+       "Skip to search"
+      ],
+      [
+       "https://www.tampa.gov/251agendaonline/",
+       "Home"
+      ],
+      [
+       "https://www.tampa.gov/251agendaonline/Meetings",
+       "All Meetings"
+      ],
+      [
+       "https://www.tampa.gov/city-clerk/info/onbase",
+       "Help"
+      ]
      ]
     }
    ],
