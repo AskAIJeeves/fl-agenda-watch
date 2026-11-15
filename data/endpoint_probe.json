@@ -1,52 +1,23 @@
 {
- "https://mypas.co/BCCAgenda": [
+ "fortlauderdale": [
+  "https://fortlauderdale.legistar.com/gateway.aspx?M=L&ID=22146",
   200,
-  "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-  "\n\n\n\n\n\n\n\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n\t<base href=\"https://www.pascocountyfl.gov/\" />\r\n\t<meta charset=\"utf-8\">\r\n\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n\r\n\t\r\n\r\n\t<link rel=\"stylesheet\" href=\"/revize/plu"
+  "https://fortlauderdale.legistar.com/LegislationDetail.aspx?ID=8318480&GUID=351E277C-4D9A-4B34-8932-63A656854412",
+  true,
+  "Resolution Approving a Local Agency Program Agreement with the Florida Departmen"
  ],
- "http://mypas.co/BCCAgenda": [
+ "jaxcityc": [
+  "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9062",
   200,
-  "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-  "\n\n\n\n\n\n\n\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n\t<base href=\"https://www.pascocountyfl.gov/\" />\r\n\t<meta charset=\"utf-8\">\r\n\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n\r\n\t\r\n\r\n\t<link rel=\"stylesheet\" href=\"/revize/plu"
+  "https://jaxcityc.legistar.com/LegislationDetail.aspx?ID=8314729&GUID=E57EBB2F-CC40-4151-AFE2-06E958C81268",
+  true,
+  "ORD-MC re Candidate Qualification Requirements for Consolidated Gov\u2019t Elections;"
  ],
- "https://www.pascocountyfl.net/AgendaCenter": [
-  404,
-  "https://www.pascocountyfl.net/AgendaCenter",
-  ""
- ],
- "https://www.pascocountyfl.gov/AgendaCenter": [
-  404,
-  "https://www.pascocountyfl.gov/AgendaCenter",
-  ""
- ],
- "civicclerk:pascocountyfl": [
-  404,
-  "https://pascocountyfl.api.civicclerk.com/v1/Events?$top=2",
-  ""
- ],
- "civicclerk:pascofl": [
-  404,
-  "https://pascofl.api.civicclerk.com/v1/Events?$top=2",
-  ""
- ],
- "civicclerk:pascocounty": [
-  404,
-  "https://pascocounty.api.civicclerk.com/v1/Events?$top=2",
-  ""
- ],
- "civicclerk:pascoco": [
-  404,
-  "https://pascoco.api.civicclerk.com/v1/Events?$top=2",
-  ""
- ],
- "civicclerk:pascocountybcc": [
-  404,
-  "https://pascocountybcc.api.civicclerk.com/v1/Events?$top=2",
-  ""
- ],
- "civicclerk:pasco": [
-  404,
-  "https://pasco.api.civicclerk.com/v1/Events?$top=2",
-  ""
+ "broward": [
+  "https://broward.legistar.com/gateway.aspx?M=L&ID=19116",
+  200,
+  "https://broward.legistar.com/LegislationDetail.aspx?ID=8312844&GUID=38B390C7-3EE5-4AD0-A4F1-6B8A9F6538ED",
+  true,
+  "A. MOTION TO DISCUSS administration and implementation of the Broward County Hea"
  ]
 }
