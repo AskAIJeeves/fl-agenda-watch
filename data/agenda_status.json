@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-15T01:42:40+00:00",
- "count": 169,
+ "generated_utc": "2026-11-15T01:56:29+00:00",
+ "count": 162,
  "governments": {
   "m-fortlauderdale": {
    "name": "Fort Lauderdale",
@@ -14,14 +14,14 @@
    "status": "ok",
    "client": "broward",
    "events": 2,
-   "flagged": 20
+   "flagged": 19
   },
   "c-pinellas": {
    "name": "Pinellas County",
    "status": "ok",
    "client": "pinellas",
    "events": 2,
-   "flagged": 0
+   "flagged": 1
   },
   "c-hillsborough": {
    "name": "Hillsborough County",
@@ -42,7 +42,7 @@
    "status": "ok",
    "client": "jaxcityc",
    "events": 10,
-   "flagged": 128
+   "flagged": 97
   },
   "m-pinellaspark": {
    "name": "Pinellas Park",
@@ -84,7 +84,7 @@
    "status": "ok",
    "client": "polkcountyfl",
    "events": 2,
-   "flagged": 10
+   "flagged": 11
   },
   "c-lake": {
    "name": "Lake County",
@@ -117,14 +117,14 @@
    "status": "ok",
    "client": "cityofnorthport",
    "events": 16,
-   "flagged": 14
+   "flagged": 13
   },
   "m-doral": {
    "name": "Doral",
    "status": "ok",
    "client": "doral",
    "events": 1,
-   "flagged": 11
+   "flagged": 12
   },
   "m-miami": {
    "name": "Miami",
@@ -138,7 +138,7 @@
    "status": "ok",
    "client": "ppines",
    "events": 2,
-   "flagged": 2
+   "flagged": 3
   },
   "c-orange": {
    "name": "Orange County",
@@ -152,7 +152,7 @@
    "status": "ok",
    "client": "psl",
    "events": 10,
-   "flagged": 2
+   "flagged": 3
   }
  }
 }

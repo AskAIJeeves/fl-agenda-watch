@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-15T01:42:40+00:00",
- "count": 169,
+ "generated_utc": "2026-11-15T01:56:29+00:00",
+ "count": 162,
  "items": [
   {
    "entity_id": "m-jacksonville",
@@ -49,14 +49,14 @@
    "client": "jaxcityc",
    "body": "City Council",
    "meeting_date": "2026-11-10",
-   "agenda_number": "154.",
-   "file_number": "2026-0922",
-   "title": "ORD Approp $644,037.00 from the Special Law Enforcement Trust Fund to Fund Various Crime Prevention & Law Enforcement Expenditures & Activities Including: (1) Transferring $20,000.00 from the Fund to the Teen Driver Special Revenue Fund in Accordance with Sec 111.365, Ord Code, to Fund the Teen Driver Challenge Prog; (2) Transferring $25,000.00 from the Fund to the Police Explorer Trust Fund in Accordance with Sec 111.340, Ord Code, to Fund the JSO Police Explorer Post; (3) $140,000.00 to Downtown Vision Alliance, Inc. for Cont\u2019d Operation of the Homeward Bound Prog; (4) $54,742.00 for Security Camera Maintenance for JSO Facilities; (5) $78,295.00 for Equipment for JSO Patrol Operations; (6) $292,000.00 for Equipment for JSO Investigations; (7) $32,000.00 for JSO Malware Analytic Software; & (8) $2,000.00 for a Donation to Florida Sheriffs Youth Ranches, Inc., in Accordance with Sec 932.7055, F.S., to Support Drug Treatment, Drug Abuse Education, Drug Prevention, Crime Prevention, Safe Neighborhoods, & School Resource Officer Prog; Invoking the Exemption in Sec 126.108(G) (Exemptions From Competitive Solicitation), Pt 1 (General Regulations; Ethics & Transparency in Public Contracting), Ch 126 (Procurement Code), Ord Code, to Allow for a Direct Contract with Downtown Vision Alliance, Inc. For the Prog; Waiving 118.107 (Nonprofits to Receive Funding Through a Competitive Evaluated Award Process; Waiver & Disclosures), Pt 1 (General Provisions), Ch 118 (City Grants), Ord Code, ",
-   "max_amount": 644037.0,
+   "agenda_number": "84.",
+   "file_number": "2026-0802-E",
+   "title": "ORD Approp $590,000.00, in Grant Funds Awarded by the State of FL, Dept of State, Div of Elections, to Prov Reimb to the City for the Costs of Purchasing a Clearaudit Post-Election Voting Audit System; Invoking the Exemption in Sec 126.108(G) (Exemptions from Competitive Solicitation), Pt 1 (General Regulations; Ethics & Transparency in Public Contracting), Ch 126 (Procurement Code), Ord Code, to Allow for a Direct Contract with Clear Ballot Group, Inc.; Apv, & Auth the SOE to Execute & Deliver on Behalf of the City the Memo of Agrmt for 26-27 Grant Award for Post Election Voting System Audit btwn the State of FL, Dept of State, Div of Elections & the SOE for Duval County, FL; Prov Oversight by the SOE (Revised B.T. 26-106) (Dillard) (Req of Mayor)  (Co-Sponsor CM Johnson)\r\n10/13/26 CO Introduced: NCSPHS, F \r\n10/19/26 NCSPHS Read 2nd & Rerefer\r\n10/20/26 F Read 2nd & Rerefer\r\n10/27/26 CO PH Read 2nd & Rerefer \r\n11/2/26 NCSPHS Amend/Approve 7-0\r\n11/4/26 F Amend/Approve 6-0\r\n11/10/26 CO Amend/Approve 17-0\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 10/27/26",
+   "max_amount": 590000.0,
    "signals": [],
    "outgoing_grant": true,
    "bypass_competition": true,
-   "recipient": "Fund Various Crime Prevention",
+   "recipient": "Prov Reimb",
    "signal_score": 5.8,
    "keywords": [
     "contract"
@@ -67,18 +67,6 @@
     {
      "body": "City Council",
      "meeting_date": "2026-11-10"
-    },
-    {
-     "body": "Rules Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
     }
    ]
   },
@@ -124,24 +112,94 @@
    "client": "jaxcityc",
    "body": "Rules Committee",
    "meeting_date": "2026-11-16",
-   "agenda_number": null,
-   "file_number": null,
-   "title": "\u2022 Appropriates $20,000 from unspent funding originally appropriated for direct contracts with El Beth El Development Center ($15,000) and Northeast Florida Immigrant Resource Alliance ($5,000) for a direct contract with Prospera Initiatives, Inc. for the period of October 1, 2026 through September 30, 2027\r\n\u2022 Prospera Initiatives will use the funding to pay for a portion of the salaries and benefits for a Small Business Consultant and a Small Business Specialist for their Small Business Assistance Program, which will provide business development services to a minimum of ten Duval County entrepreneurs and at least four business seminars within Duval County\r\n\u2022 Waives the requirement in Code Sec. 106.330 that City funding awarded to a for-profit or not-for-profit organization through a direct appropriation in accordance with the exemption from competitive solicitation outlined in subsection 126.108(g) shall be in an amount not less than $25,000\r\n\u2022 Waives the requirement in Code Sec. 118.107 that City funds appropriated to nonprofit organizations shall be subject to a competitive evaluated award process in order to authorize a direct contract with Prospera Initiatives, Inc.\r\n",
-   "max_amount": 25000.0,
+   "agenda_number": "5.",
+   "file_number": "2026-0677",
+   "title": "ORD Making Certain Findings, & Auth the Mayor, or Her Desig, to Execute: (1) an Amend & Restated Redev Agrmt btwn the City & Springfield Lofts, LLC; & (2) Loan Docs & Related Docs as Described in the Agrmt, to Support the Redev by Developer an 2.12\u00b1  Acre Site Located at 1335 N Pearl St & 205 W 3rd St, in the City of Jax; Auth a Redev Completion Grant in the Amt of $3,000,000 to the Developer Upon Substantial Completion of the Proj, to Be Approp by Subsequent Legislation; Auth a Dev Loan in the Amt of $3,000,000 with a Term of 20 Yrs in Connection with the Proj, to Be Approp  by Subsequent Legislation; Waiver of Sec 91.113, Ord Code, That Auths Settlement &/or Compromise of Fines & Liens Imposed by the MCEB or Special Magistrate; Waiver of Sec 91.114, Ord Code, re the Procedure to Request That a Fine or Line Imposed Pursuant to Sec 91.107 Be Reduced; Waiver of Sec 518.145(D) (Collection & Settlement of Nuisance Abatement & Demolition Liens), Ord Code,  to Auth Removal of the Nuisance Liens Upon Substantial Completion of the Proj; Desig the OED as Contract Monitor for the Agrmt & Related Agrmts; Prov for City Oversight of the Proj by the Dept of PW & the OED; Auth the Execution of All Docs Relating to the Above Agrmts & Transactions, & Auth Technical Changes to the Docs; Prov a Deadline for the Developer to Execute the Agrmts After They Are Delivered to the Developer; Waiver of the Public Investment Policy Adopted by Ord 2024-286-E, as Amend, to Auth a Redev Completion Grant &",
+   "max_amount": 3000000.0,
    "signals": [
-    "consultants"
+    "legal"
    ],
    "outgoing_grant": true,
-   "bypass_competition": true,
-   "recipient": null,
-   "signal_score": 5.4,
+   "bypass_competition": false,
+   "recipient": "Execute",
+   "signal_score": 5.5,
    "keywords": [
-    "consultant",
-    "contract"
+    "contract",
+    "loan",
+    "settlement"
    ],
    "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3726&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
    "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3726_A_Rules_Committee_26-11-16_Agenda.pdf",
    "appearances": [
+    {
+     "body": "Rules Committee",
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Finance Committee",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-broward",
+   "government": "Broward County",
+   "client": "broward",
+   "body": "County Commission",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "10.",
+   "file_number": "26-1434",
+   "title": "MOTION TO APPROVE Public Transportation Grant Agreement (\u201cPTGA\u201d) between the Florida Department of Transportation (\u201cFDOT\u201d) and Broward County for Financial Project No. 453802-1-94-01, with FDOT agreeing to grant up to $14,999,397 to Broward County for the Port Everglades\u2019 New Bulkheads at Berths 16, 17, and 18 Project (\u201cProject\u201d), but no more than 75% of the total eligible cost of the Project, and County agreeing to match  FDOT\u2019s grant and cover any cost overruns; authorize the Mayor and Clerk to execute the PTGA; authorize the County Administrator or designee to take the necessary administrative and budgetary actions resulting from approval of the PTGA; and authorize the County Administrator to approve any amendments to the PTGA that do not increase the County\u2019s local match percentage 25%, subject to review by the Office of the County Attorney for legal sufficiency.",
+   "max_amount": 14999397.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Financial Project No",
+   "signal_score": 5.2,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://broward.legistar.com/MeetingDetail.aspx?LEGID=1211&GID=728&G=9CC0A88F-9982-4209-A126-7C71741CABC2",
+   "agenda_pdf": "https://broward.legistar1.com/broward/meetings/2026/11/1211_A_County_Commission_26-11-10_Regular_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "County Commission",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "City Council",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "58.",
+   "file_number": "2026-0868",
+   "title": "ORD Apv, Ratifying, & Auth the Execution of a Settlement Agrmt btwn the City & Paul Stefanko, Case No. 3:25-cv-01134-WWB-LLL, U.S. Dist Court for the Middle Dist of FL; Approp $150,000 from Gen Fund Operating Fund (Operating Reserves) to the Gen Fund Operating Fund (Judgments, Claims, & Losses Over $50,000) to Prov Funding for Settlement of Pending Litigation; Auth the General Counsel, or His Desig, to Execute the Settlement Agrmt & Take Further Action, as Necessary, to Effectuate the Settlement & Conclude the Litigation; Waiving the Provisions of Sec 106.303 (Format & Determination of Amounts Appropriated), Subpt A (General Provisions), Pt 3 (Appropriations), Ch 106 (Budget & Accounting Code), Ord Code, to Allow Modification of the Approp of Funds Exhibit to Facilitate Compliance with the Requirements of the ADA (B.T. 27-016) (Mairs) (Req of OGC)\r\n10/27/26 CO Introduced: R, F \r\n11/2/26 R Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
+   "max_amount": 150000.0,
+   "signals": [
+    "consultants",
+    "legal"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Middle Dist of FL",
+   "signal_score": 5.2,
+   "keywords": [
+    "settlement"
+   ],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-10"
+    },
     {
      "body": "Rules Committee",
      "meeting_date": "2026-11-16"
@@ -153,29 +211,30 @@
    ]
   },
   {
-   "entity_id": "c-orange",
-   "government": "Orange County",
-   "client": "occompt",
-   "body": "Board of County Commissioners",
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "City Council",
    "meeting_date": "2026-11-10",
-   "agenda_number": "1.",
-   "file_number": "26-1258",
-   "title": "Approval to award Invitation for Bids Y26-153-MV, Staff Augmentation - Administrative, to the low responsive and responsible bidders, BJ Concepts, Inc., in the estimated total contract amount of $2,500,000 for a five-year term, Blue Arbor, Inc., in the estimated contract amount of $2,500,000 for a five-year term, Naztec International Group, L.L.C., in the estimated contract amount of $2,500,000 for a five-year term, and 22nd Century Technologies, Inc., in the estimated contract amount of $2,500,000 for a five-year term. The total budget for all contract awards is $10,000,000 for the five-year term.\n\nIn the event the bidders recommended above fail to achieve timely compliance with pre-award deliverables, as defined in the Invitation for Bids, including, but not limited to, State Division of Corporations registration, E-verify, insurance and bonds, further request authorization for the Procurement Division to award to the next low responsive and responsible bidder as listed in the bid tabulation herein, to the extent practicable and advantageous to the County. ([Administration and Fiscal Services Department Human Resources Division] Procurement Division)",
-   "max_amount": 10000000.0,
-   "signals": [],
+   "agenda_number": "59.",
+   "file_number": "2026-0869-D",
+   "title": "ORD Approp $70,000 from the Council Operating Contingency - Contingency Acct to the CCSS Council Staff Svcs - Furniture & Equipment Under $5,000 Acct to Prov Funding for the Purchase of New Furniture for the City Council Suite & Conference Rooms; Req 1 Cycle Emerg Passage (Teal) (Introduced by CM Amaro)(Co-Sponsor CM Johnson)\r\n10/27/26 CO Introduced: F \r\n11/4/26 F Emergency/Approve 3-3 (Defer) (Lahnen, Gay, Diamond)\r\n11/10/26 CO PH Emergency/Approve 8-11(Fail) (Boylan, Howland, Lahnen, Carrico, Diamond, Airas, Carlucci, Gay, Miller, Peluso, Salem)\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
+   "max_amount": 70000.0,
+   "signals": [
+    "officials"
+   ],
    "outgoing_grant": true,
    "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 5.0,
+   "recipient": "CCSS Council Staff Svcs",
+   "signal_score": 4.8,
    "keywords": [
-    "bonds",
-    "contract"
+    "purchase"
    ],
-   "meeting_url": "https://occompt.legistar.com/MeetingDetail.aspx?LEGID=1804&GID=661&G=671217FC-A8C9-41BD-BA90-3804D546A607",
-   "agenda_pdf": "https://occompt.legistar1.com/occompt/meetings/2026/11/1804_A_Board_of_County_Commissioners_26-11-10_Board_of_County_Commissioners_Agenda.pdf",
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
    "appearances": [
     {
-     "body": "Board of County Commissioners",
+     "body": "City Council",
      "meeting_date": "2026-11-10"
     }
    ]
@@ -279,6 +338,33 @@
    "client": "broward",
    "body": "County Commission",
    "meeting_date": "2026-11-10",
+   "agenda_number": "9.",
+   "file_number": "26-1432",
+   "title": "MOTION TO APPROVE Public Transportation Grant Agreement (\u201cPTGA\u201d) between the Florida Department of Transportation (\u201cFDOT\u201d) and Broward County for Financial Project No. 457516-1-94-01, with FDOT agreeing to grant up to $3,000,000 to Broward County for the Port Everglades\u2019 Cruise Terminal 29 Improvements/Expansion Project (\u201cProject\u201d), but no more than fifty percent 50% of the total eligible cost of the Project, and County agreeing to match  FDOT\u2019s grant and cover any cost overruns; authorize the Mayor and Clerk to execute the PTGA; authorize the County Administrator or designee to take the necessary administrative and budgetary actions resulting from approval of the PTGA; and authorize the County Administrator to approve any amendments to the PTGA that do not increase the County\u2019s local match percentage 50%, subject to review by the Office of the County Attorney for legal sufficiency.",
+   "max_amount": 3000000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Financial Project No",
+   "signal_score": 4.5,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://broward.legistar.com/MeetingDetail.aspx?LEGID=1211&GID=728&G=9CC0A88F-9982-4209-A126-7C71741CABC2",
+   "agenda_pdf": "https://broward.legistar1.com/broward/meetings/2026/11/1211_A_County_Commission_26-11-10_Regular_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "County Commission",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-broward",
+   "government": "Broward County",
+   "client": "broward",
+   "body": "County Commission",
+   "meeting_date": "2026-11-10",
    "agenda_number": "15.",
    "file_number": "26-1292",
    "title": "MOTION TO APPROVE Amendment 01 to Contract No. 34346-26 between Broward Behavioral Health Coalition, Inc., and Broward County, increasing total funding to the County by $37,500 (from $3,424,955 to $3,462,455), with an additional 3.2% County local match requirement of $12,375 (from $386,355 to $398,730) bringing the total match amount to 11.5% to reimburse the County for care coordination team services provided between July 1 and September 30, 2026; authorize the County Administrator to execute subsequent amendments to the Contract that do not increase the County\u2019s local match requirement percentage or pose material risks to the County, subject to legal sufficiency review and approval by the County Attorney\u2019s Office; and authorize the County Administrator to take all necessary administrative and budgetary actions to implement the Contract as amended.",
@@ -290,6 +376,33 @@
    "signal_score": 4.5,
    "keywords": [
     "contract"
+   ],
+   "meeting_url": "https://broward.legistar.com/MeetingDetail.aspx?LEGID=1211&GID=728&G=9CC0A88F-9982-4209-A126-7C71741CABC2",
+   "agenda_pdf": "https://broward.legistar1.com/broward/meetings/2026/11/1211_A_County_Commission_26-11-10_Regular_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "County Commission",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-broward",
+   "government": "Broward County",
+   "client": "broward",
+   "body": "County Commission",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "21.",
+   "file_number": "26-1208",
+   "title": "MOTION TO APPROVE Federally Funded Subgrant Umbrella Agreement No. E2265 between the Florida Department of Commerce and Broward County, in the anticipated amounts of $2,016,000 for the Community Services Block Grant and  $3,500,000 for the Low-Income Home Energy Assistance Program, effective from July 1, 2026, through June 30, 2027, with up to three renewal options, to provide economic self-sufficiency services and home energy assistance benefits to eligible households; authorize the County Administrator to execute renewals, amendments, and modifications to the Subgrant Agreement that do not impose any additional financial obligations or material risks on the County, subject to legal sufficiency review and approval by the County Attorney\u2019s Office; and authorize the County Administrator to take all necessary administrative and budgetary actions to implement the Subgrant Agreement.",
+   "max_amount": 3500000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Community Services Block Grant",
+   "signal_score": 4.5,
+   "keywords": [
+    "agreement"
    ],
    "meeting_url": "https://broward.legistar.com/MeetingDetail.aspx?LEGID=1211&GID=728&G=9CC0A88F-9982-4209-A126-7C71741CABC2",
    "agenda_pdf": "https://broward.legistar1.com/broward/meetings/2026/11/1211_A_County_Commission_26-11-10_Regular_Meeting_Agenda.pdf",
@@ -361,27 +474,42 @@
    ]
   },
   {
-   "entity_id": "c-seminole",
-   "government": "Seminole County",
-   "client": "seminolecountyfl",
-   "body": "Board of County Commissioners",
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "City Council",
    "meeting_date": "2026-11-10",
-   "agenda_number": "24.",
-   "file_number": "2026-0923",
-   "title": "Approve and authorize the Chairman to execute a Resolution implementing the Budget Amendment Request (BAR) #27-003 in the Public Safety Grants Fund (Federal) to appropriate funding in the amount of $1,900,000 for the awarded Department of Justice Technology and Equipment Program (TEP) grant to upgrade radios at the Seminole County Sheriff\u2019s Office by the Office of Emergency Management. Countywide (Alan Harris, Emergency Management Director)",
-   "max_amount": 1900000.0,
+   "agenda_number": "56.",
+   "file_number": "2026-0866",
+   "title": "ORD Approp $1,818,000 from the Auth Capital Projs - FY 2023 & Forward Fund - Resiliency Infrastructure Improvements - DM Other Construction Costs Acct, to Prov Funding for the City\u2019s Acquisition Of 3 Parcels of Land, All Located In Jax, FL, in Council Dist 10, as Required for the Resilient Ribault Initiative Proj, with Such Parcels Identified as Follows: 0 New Kings Rd (R.E. #: 040554-0010), 0 Pope Place (R.E. #: 040542-0000), # 0 Pope Place (R.E. #: 040542-0025), (Collectively, the Property); Apv & Auth the Mayor, or Her Designee, & The Corp Sec to Execute & Deliver those Certain Real Estate Purchase & Sale Agrmts Required for the City to Effectuate its Acquisition of the Propty, as Follows: Real Estate Purchase & Sale Agrmt Btwn the City & Nathan D. Goldman, Sharon Paryani, & Hilda Goldman Dreher for the Purchase Of 0 New Kings Rd (R.E. #: 040554-0010) for the Negotiated Purchase Price of $1,370,000, Real Estate Purchase & Sale Agrmt Btwn the City & Ralph Danson, Thaddeus Danson, Barbara Ann Lee, Priscilla Pounds Hodge & Joseph Stanley Jones for the Purchase of 0 Pope Place (R.E. #: 040542-0000) for the Negotiated Purchase Price of $264,000, & Real Estate Purchase & Sale Agrmt Btwn the City & Joseph Stanley Jones for the Purchase of 0 Pope Place (R.E. #: 040542-0025) for a Negotiated Purchase Price of $14,000 (Collectively, the Agreements), & all Closing & Other Docs Contemplated Therein or Relating Thereto, & to Otherwise Take all Necessary Action to Effectuate the Purpose",
+   "max_amount": 1818000.0,
    "signals": [],
    "outgoing_grant": true,
    "bypass_competition": false,
-   "recipient": null,
+   "recipient": "Prov Funding for the City",
    "signal_score": 4.3,
-   "keywords": [],
-   "meeting_url": "https://seminolecountyfl.legistar.com/MeetingDetail.aspx?LEGID=3595&GID=921&G=E2DF9C83-4A2C-4390-86EE-5C088F5B9D50",
-   "agenda_pdf": "https://seminolecountyfl.legistar1.com/seminolecountyfl/meetings/2026/11/3595_A_Board_of_County_Commissioners_26-11-10_Meeting_Agenda.pdf",
+   "keywords": [
+    "construction",
+    "purchase"
+   ],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
    "appearances": [
     {
-     "body": "Board of County Commissioners",
+     "body": "City Council",
      "meeting_date": "2026-11-10"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-10"
+    },
+    {
+     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Finance Committee",
+     "meeting_date": "2026-11-17"
     }
    ]
   },
@@ -409,6 +537,102 @@
     {
      "body": "Rules Committee",
      "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Finance Committee",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "City Council",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "53.",
+   "file_number": "2026-0863",
+   "title": "ORD Approp $1,556,500 From the Jax Recreation & Environmental Land Acquisition Fund - Gain-Loss Sale Real Propty Acct to the Jax Recreation & Environmental Land Acquisition Fund - Land Acquisition Cost Acct to Prov Funding for the City\u2019s Purchase of  5 Properties Located at 2830 Edison Ave (R.E. No. 056342-0000), 2827 Lenox Ave (R.E. No. 056338-0000), 538 Locust St (R.E. No. 063840-0000), 0 Locust St (R.E. No. 063839-0000), & 2826 Lenox Ave (R.E. No. 063836-0000) Jax, in Council Dist 9 (Collectively, the \u201cProperty\u201d), to Be Used as a Passive Park; Apv & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver That Certain Purchase & Sale Agrmt (the \u201cAgreement\u201d) Btwn the City & 2626 River City Investments, LLC, & All Closing & Other Docs Contemplated Therein or Relating Thereto, & to Otherwise Take All Necessary Action to Effectuate the Purposes of the Agrmt to Purchase the Subj Prop at a Negotiated Purchase Price Not to Exceed $1,556,500; Prov for Oversight by the Real Estate Div of the PW Dept for the Acquisition of the Prop & by the Pks, Recreation, & Community Svcs Dept Thereafter (Loy, Jr.) (Req of the Mayor & Co-Introduced by CM Peluso)\r\n10/27/26 CO Introduced: NCSPHS, F\r\n11/2/26 NCSPHS Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
+   "max_amount": 1556500.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Jax Recreation",
+   "signal_score": 4.2,
+   "keywords": [
+    "agreement",
+    "purchase"
+   ],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-10"
+    },
+    {
+     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Finance Committee",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-seminole",
+   "government": "Seminole County",
+   "client": "seminolecountyfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "27.",
+   "file_number": "2026-0855",
+   "title": "Approve and authorize the Chairman to execute a Resolution implementing the Budget Amendment Request (BAR) #27-001 in the Transportation Grant Fund to appropriate funding in the amount of $1,427,316 for program funding for Micro-Transit services. Countywide (Timothy Jecks, Budget Director)  Requesting Department - County Manager\u2019s Office",
+   "max_amount": 1427316.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Micro-Transit",
+   "signal_score": 4.2,
+   "keywords": [],
+   "meeting_url": "https://seminolecountyfl.legistar.com/MeetingDetail.aspx?LEGID=3595&GID=921&G=E2DF9C83-4A2C-4390-86EE-5C088F5B9D50",
+   "agenda_pdf": "https://seminolecountyfl.legistar1.com/seminolecountyfl/meetings/2026/11/3595_A_Board_of_County_Commissioners_26-11-10_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "City Council",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "47.",
+   "file_number": "2026-0857",
+   "title": "ORD Approp $1,150,000.00 in Grant Funds from the Build America Bureau within the U.S. DOT, Thru the Regional Infrastructure Accelerator Grant Prog, for the Jax Regional Infrastructure Accelerator Proj; Amend the 27-31 5-Yr CIP Appvd by Ord 2026-505-E to Reflect This Approp of Funds to the New Proj Entitled \u201cJacksonville Regional Infrastructure Accelerator\u201d; Prov for City Oversight by the Engineering & Construction Mgmt Div of the Dept of PW (B.T. 27-013) (Dillard) (Req of Mayor)\r\n10/27/26 CO Introduced: NCSPHS, F \r\n11/2/26 NCSPHS Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
+   "max_amount": 1150000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Jax Regional Infrastructure Accelerator Proj",
+   "signal_score": 4.1,
+   "keywords": [
+    "construction"
+   ],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-10"
     },
     {
      "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
@@ -539,37 +763,52 @@
    ]
   },
   {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "City Council",
+   "entity_id": "c-seminole",
+   "government": "Seminole County",
+   "client": "seminolecountyfl",
+   "body": "Board of County Commissioners",
    "meeting_date": "2026-11-10",
-   "agenda_number": "52.",
-   "file_number": "2026-0862",
-   "title": "ORD Approp Funds in the Total Amt of $764,358.08 From the Propty Taxes, Investment Pool Earnings, & Intrafund Equity Transfer in LINE Items Witin the Downtown Southbank CRA Trust Fund for Cleanup of Prior Yrs, to Reverse Transfer From Fund Balance Entries in the Amt of $560,168.08, & to Approp Funds to the Misc Non-Departmental Expenditures Acct for Riverwalk Wayfaring Signage in the Amt of $204,190.00; Prov the Purpose for the Approp (Lavie) (Req of DIA)\r\n10/27/26 CO Introduced: NCSPHS, F\r\n11/2/26 NCSPHS Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
-   "max_amount": 764358.0,
-   "signals": [
-    "vanity"
-   ],
-   "outgoing_grant": false,
+   "agenda_number": "20.",
+   "file_number": "2026-0942",
+   "title": "Approve the recommended funding allocations to the agencies listed for Community Services Agency (CSA) Partnership Grant funds in the amount of $842,115 for FY 26/27 and authorize the Chairman to execute the CSA Grant Agreements and any amendments upon agency execution. Countywide (Allison Thall, Community Services Director)",
+   "max_amount": 842115.0,
+   "signals": [],
+   "outgoing_grant": true,
    "bypass_competition": false,
-   "recipient": null,
+   "recipient": "Community Services Agency",
    "signal_score": 3.9,
    "keywords": [],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
+   "meeting_url": "https://seminolecountyfl.legistar.com/MeetingDetail.aspx?LEGID=3595&GID=921&G=E2DF9C83-4A2C-4390-86EE-5C088F5B9D50",
+   "agenda_pdf": "https://seminolecountyfl.legistar1.com/seminolecountyfl/meetings/2026/11/3595_A_Board_of_County_Commissioners_26-11-10_Meeting_Agenda.pdf",
    "appearances": [
     {
-     "body": "City Council",
+     "body": "Board of County Commissioners",
      "meeting_date": "2026-11-10"
-    },
+    }
+   ]
+  },
+  {
+   "entity_id": "c-seminole",
+   "government": "Seminole County",
+   "client": "seminolecountyfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "14.",
+   "file_number": "2026-0956",
+   "title": "Request Board approval to submit a grant application to the U.S. Department of Justice, Office of Juvenile Justice and Delinquency Prevention for the FY 2026 Family Treatment Court Program requesting up to $850,000 for the establishment of Seminole County Family Treatment Court; and the approval of one new grant funded FTE if awarded; and authorize the County Manager or designee to execute all necessary grant documents.  Countywide (Lorie Bailey Brown, CFO/Administrative Services Director) Requesting Department - Administrative Services",
+   "max_amount": 850000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "U.S. Department of Justice",
+   "signal_score": 3.9,
+   "keywords": [],
+   "meeting_url": "https://seminolecountyfl.legistar.com/MeetingDetail.aspx?LEGID=3595&GID=921&G=E2DF9C83-4A2C-4390-86EE-5C088F5B9D50",
+   "agenda_pdf": "https://seminolecountyfl.legistar1.com/seminolecountyfl/meetings/2026/11/3595_A_Board_of_County_Commissioners_26-11-10_Meeting_Agenda.pdf",
+   "appearances": [
     {
-     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
     }
    ]
   },
@@ -691,24 +930,30 @@
    "client": "jaxcityc",
    "body": "City Council",
    "meeting_date": "2026-11-10",
-   "agenda_number": "84.",
-   "file_number": "2026-0802-E",
-   "title": "ORD Approp $590,000.00, in Grant Funds Awarded by the State of FL, Dept of State, Div of Elections, to Prov Reimb to the City for the Costs of Purchasing a Clearaudit Post-Election Voting Audit System; Invoking the Exemption in Sec 126.108(G) (Exemptions from Competitive Solicitation), Pt 1 (General Regulations; Ethics & Transparency in Public Contracting), Ch 126 (Procurement Code), Ord Code, to Allow for a Direct Contract with Clear Ballot Group, Inc.; Apv, & Auth the SOE to Execute & Deliver on Behalf of the City the Memo of Agrmt for 26-27 Grant Award for Post Election Voting System Audit btwn the State of FL, Dept of State, Div of Elections & the SOE for Duval County, FL; Prov Oversight by the SOE (Revised B.T. 26-106) (Dillard) (Req of Mayor)  (Co-Sponsor CM Johnson)\r\n10/13/26 CO Introduced: NCSPHS, F \r\n10/19/26 NCSPHS Read 2nd & Rerefer\r\n10/20/26 F Read 2nd & Rerefer\r\n10/27/26 CO PH Read 2nd & Rerefer \r\n11/2/26 NCSPHS Amend/Approve 7-0\r\n11/4/26 F Amend/Approve 6-0\r\n11/10/26 CO Amend/Approve 17-0\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 10/27/26",
-   "max_amount": 590000.0,
+   "agenda_number": "142.",
+   "file_number": "2026-0910",
+   "title": "ORD Approp $610,000.00 in Grant Funding From the FDLE for the Drone First Responder Prog, Prov for Oversight by the JSO (B.T. 27-025) (Dillard) (Req of Sheriff)\r\n11/10/26 CO Introduced: NCSPHS, F\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/24/26",
+   "max_amount": 610000.0,
    "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": true,
-   "recipient": null,
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Drone First Responder Prog",
    "signal_score": 3.8,
-   "keywords": [
-    "contract"
-   ],
+   "keywords": [],
    "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
    "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
    "appearances": [
     {
      "body": "City Council",
      "meeting_date": "2026-11-10"
+    },
+    {
+     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Finance Committee",
+     "meeting_date": "2026-11-17"
     }
    ]
   },
@@ -737,41 +982,6 @@
    "appearances": [
     {
      "body": "City Commission Regular Meeting",
-     "meeting_date": "2026-11-17"
-    }
-   ]
-  },
-  {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "City Council",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "98.",
-   "file_number": "2026-0878",
-   "title": "RESO, Upon an Acknowledgement of Due Auth & the Making of Findings, Apv the Issuance by the JHFA of Its Multifamily Housing Revenue Bonds (Treetop  Apartments), in 1 or More Series, in an Aggregate Principal Amt Not to Exceed $35,500,000 for the Purpose of Financing All or a Portion of the Costs Related to the Acquisition & Rehabilitation of a Multifamily Residential Housing Facility for Persons or Families of Low, Middle or Moderate Income, to Be Located at 6355 Morse Ave, Jax, Duval County, FL, 32244, & to Be Commonly Known as \u201cTreetop  Apartments\u201d; Determining Credit Not Being Pledged (Dillard) (Req of JHFA)\r\n10/27/26 CO Introduced: NCSPHS, F\r\n11/2/26 NCSPHS Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO Read 2nd & Rerefer",
-   "max_amount": 35500000.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 3.6,
-   "keywords": [
-    "bonds"
-   ],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Council",
-     "meeting_date": "2026-11-10"
-    },
-    {
-     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Finance Committee",
      "meeting_date": "2026-11-17"
     }
    ]
@@ -835,34 +1045,6 @@
    ]
   },
   {
-   "entity_id": "c-broward",
-   "government": "Broward County",
-   "client": "broward",
-   "body": "County Commission",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "17.",
-   "file_number": "26-1403",
-   "title": "MOTION TO APPROVE allocation in the amount of $300,000 to Junior Achievement of South Florida, Inc., for the Financial Literacy and Business Skills Training Program for Broward County youth, effective October 1, 2026, through September 30, 2027; authorize the Human Services Department Director or Deputy Director to approve and execute a contract adjustment reflecting the allocation for the current term; and authorize the County Administrator to take all necessary administrative and budgetary actions to implement the Agreement.",
-   "max_amount": 300000.0,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Junior Achievement of South Florida",
-   "signal_score": 3.5,
-   "keywords": [
-    "agreement",
-    "contract"
-   ],
-   "meeting_url": "https://broward.legistar.com/MeetingDetail.aspx?LEGID=1211&GID=728&G=9CC0A88F-9982-4209-A126-7C71741CABC2",
-   "agenda_pdf": "https://broward.legistar1.com/broward/meetings/2026/11/1211_A_County_Commission_26-11-10_Regular_Meeting_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "County Commission",
-     "meeting_date": "2026-11-10"
-    }
-   ]
-  },
-  {
    "entity_id": "m-jacksonville",
    "government": "Jacksonville",
    "client": "jaxcityc",
@@ -902,42 +1084,6 @@
    ]
   },
   {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "City Council",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "97.",
-   "file_number": "2026-0877",
-   "title": "RESO, Upon an Acknowledgement of Due Auth & the Making of Findings, Apv the Issuance by the JHFA of Its Multifamily Housing Revenue Bonds (Tori Meadows), in 1 or More Series, in an Aggregate Principal Amt Not to Exceed $31,200,000 for the Purpose of Financing All or a Portion of the Costs Related to the Acquisition & Construction of a Multifamily Residential Housing Facility for Persons or Families of Low, Middle or Moderate Income, to Be Located at San Diego Rd, NW of the Intersection of San Diego Rd & Spring Park Rd, Jax, Duval County, FL, 32207, & to Be Commonly Known as \u201cTori Meadows\u201d; Determining Credit Not Being Pledged (Dillard) (Req of JHFA)\r\n10/27/26 CO Introduced: NCSPHS, F\r\n11/2/26 NCSPHS Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO Read 2nd & Rerefer",
-   "max_amount": 31200000.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 3.5,
-   "keywords": [
-    "bonds",
-    "construction"
-   ],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Council",
-     "meeting_date": "2026-11-10"
-    },
-    {
-     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
-    }
-   ]
-  },
-  {
    "entity_id": "c-orange",
    "government": "Orange County",
    "client": "occompt",
@@ -961,81 +1107,6 @@
     {
      "body": "Board of County Commissioners",
      "meeting_date": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "Rules Committee",
-   "meeting_date": "2026-11-16",
-   "agenda_number": "5.",
-   "file_number": "2026-0677",
-   "title": "ORD Making Certain Findings, & Auth the Mayor, or Her Desig, to Execute: (1) an Amend & Restated Redev Agrmt btwn the City & Springfield Lofts, LLC; & (2) Loan Docs & Related Docs as Described in the Agrmt, to Support the Redev by Developer an 2.12\u00b1  Acre Site Located at 1335 N Pearl St & 205 W 3rd St, in the City of Jax; Auth a Redev Completion Grant in the Amt of $3,000,000 to the Developer Upon Substantial Completion of the Proj, to Be Approp by Subsequent Legislation; Auth a Dev Loan in the Amt of $3,000,000 with a Term of 20 Yrs in Connection with the Proj, to Be Approp  by Subsequent Legislation; Waiver of Sec 91.113, Ord Code, That Auths Settlement &/or Compromise of Fines & Liens Imposed by the MCEB or Special Magistrate; Waiver of Sec 91.114, Ord Code, re the Procedure to Request That a Fine or Line Imposed Pursuant to Sec 91.107 Be Reduced; Waiver of Sec 518.145(D) (Collection & Settlement of Nuisance Abatement & Demolition Liens), Ord Code,  to Auth Removal of the Nuisance Liens Upon Substantial Completion of the Proj; Desig the OED as Contract Monitor for the Agrmt & Related Agrmts; Prov for City Oversight of the Proj by the Dept of PW & the OED; Auth the Execution of All Docs Relating to the Above Agrmts & Transactions, & Auth Technical Changes to the Docs; Prov a Deadline for the Developer to Execute the Agrmts After They Are Delivered to the Developer; Waiver of the Public Investment Policy Adopted by Ord 2024-286-E, as Amend, to Auth a Redev Completion Grant &",
-   "max_amount": 3000000.0,
-   "signals": [
-    "legal"
-   ],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 3.5,
-   "keywords": [
-    "contract",
-    "loan",
-    "settlement"
-   ],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3726&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3726_A_Rules_Committee_26-11-16_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "Rules Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
-    }
-   ]
-  },
-  {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "Rules Committee",
-   "meeting_date": "2026-11-16",
-   "agenda_number": null,
-   "file_number": null,
-   "title": "\u2022 Appropriates $64,737 from the Council District 7 Community Benefits Agreement contingency account to provide additional funding for the direct contract previously approved by Ord. 2025-893-E with the Jacksonville Association of Firefighters, IAFF Local No. 122, Inc. (\u201cJAFF\u201d) for the restoration of the Fire Tower located at 625 Stockton Street\r\n\u2022 Authorizes an amendment to the agreement with JAFF to 1) extend the contract from March 31, 2027 to March 31, 2028 and 2) increase the maximum indebtedness from $245,220 to $309,957 \r\n\u2022 Waives the requirement in Code Sec. 118.107 that City funds appropriated to nonprofit organizations shall be subject to a competitive evaluated award process in order to authorize an amendment to the direct contract with JAFF\r\n",
-   "max_amount": 309957.0,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 3.5,
-   "keywords": [
-    "agreement",
-    "contract"
-   ],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3726&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3726_A_Rules_Committee_26-11-16_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "Rules Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
     }
    ]
   },
@@ -1104,6 +1175,43 @@
    "client": "jaxcityc",
    "body": "City Council",
    "meeting_date": "2026-11-10",
+   "agenda_number": "48.",
+   "file_number": "2026-0858",
+   "title": "ORD-MC Amend Sec 111.940 (Affordable Housing Special Revenue Fund), Pt 9 (Neighborhood Development), Ch 111 (Special Revenue & Trust Accounts), Ord Code, to Change the Name of the Affordable Housing Special Revenue Fund & to Revise the Procedures for Disbursements from the Fund; Approp $245,000.00 from Various Accts within the Fund to Prov Funding for the Admin of the Fund; Prov for Codification Instructions (B.T. 27-015) (Dillard) (Req of Mayor)\r\n10/27/26 CO Introduced: R, NCSPHS, F \r\n11/2/26 R Read 2nd & Rerefer\r\n11/2/26 NCSPHS Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
+   "max_amount": 245000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Change the Name of the Affordable Housing Special Revenue Fund",
+   "signal_score": 3.4,
+   "keywords": [],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-10"
+    },
+    {
+     "body": "Rules Committee",
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Finance Committee",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "City Council",
+   "meeting_date": "2026-11-10",
    "agenda_number": "149.",
    "file_number": "2026-0917",
    "title": "ORD Approp $225,000 From the Multiyear Progs & Initiatives - Council Dist 9 CBA - Contingency Acct to the Council Dist 9 - Subsidies & Contributions to Private Org Acct to Prov Funding to Myvillage Project, INC. (\u201cMVP\u201d), for the Techroots Learning Ctr Coding in Color Prog (the \u201cProgram\u201d) as Described Herein; Waiving Sec 118.107 (Nonprofits to Receive Funding Through a Competitive Evaluated Award Process; Waiver & Disclosures), Pt 1 (General Provisions), Ch 118 (City Grants), Ord Code, to Allow for a Direct Contract With MVP; Apv, & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver on Behalf of the City an Agrmt Btwn the City & Myvillage Project, INC. For the Prog; Prov for Oversight by the Grants & Contracts Compliance Div of the Finance Dept (Staffopoulos) (Introduced by CM Clark-Murray)\r\n11/10/26 CO Introduced: R, NCSPHS, F\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/24/26",
@@ -1138,6 +1246,40 @@
    ]
   },
   {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "Rules Committee",
+   "meeting_date": "2026-11-16",
+   "agenda_number": null,
+   "file_number": null,
+   "title": "\u2022 Appropriates $20,000 from unspent funding originally appropriated for direct contracts with El Beth El Development Center ($15,000) and Northeast Florida Immigrant Resource Alliance ($5,000) for a direct contract with Prospera Initiatives, Inc. for the period of October 1, 2026 through September 30, 2027\r\n\u2022 Prospera Initiatives will use the funding to pay for a portion of the salaries and benefits for a Small Business Consultant and a Small Business Specialist for their Small Business Assistance Program, which will provide business development services to a minimum of ten Duval County entrepreneurs and at least four business seminars within Duval County\r\n\u2022 Waives the requirement in Code Sec. 106.330 that City funding awarded to a for-profit or not-for-profit organization through a direct appropriation in accordance with the exemption from competitive solicitation outlined in subsection 126.108(g) shall be in an amount not less than $25,000\r\n\u2022 Waives the requirement in Code Sec. 118.107 that City funds appropriated to nonprofit organizations shall be subject to a competitive evaluated award process in order to authorize a direct contract with Prospera Initiatives, Inc.\r\n",
+   "max_amount": 25000.0,
+   "signals": [
+    "consultants"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.4,
+   "keywords": [
+    "consultant",
+    "contract"
+   ],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3726&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3726_A_Rules_Committee_26-11-16_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Rules Committee",
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Finance Committee",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "m-clearwater",
    "government": "Clearwater",
    "client": "clearwater",
@@ -1161,6 +1303,33 @@
    "appearances": [
     {
      "body": "Council Work Session",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-northport",
+   "government": "North Port",
+   "client": "cityofnorthport",
+   "body": "City Commission Regular Meeting",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "B.",
+   "file_number": "26-1351",
+   "title": "Discussion and Possible Action Regarding a $250,000 Contribution From the City of North Port, Florida, to the YMCA for Construction of the YMCA Early Learning Facility on the King Plastic Corporation Property Located at 1100 North Toledo Blade Boulevard, North Port, Florida, 34288. ",
+   "max_amount": 250000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "YMCA for Construction of the YMCA Early Learning Facility",
+   "signal_score": 3.4,
+   "keywords": [
+    "construction"
+   ],
+   "meeting_url": "https://cityofnorthport.legistar.com/MeetingDetail.aspx?LEGID=3753&GID=408&G=FED9DAC1-C02A-4668-A6AA-7D5B31BA7971",
+   "agenda_pdf": "https://legistar2.granicus.com/cityofnorthport/meetings/2026/11/3753_A_City_Commission_Regular_Meeting_26-11-17_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "City Commission Regular Meeting",
      "meeting_date": "2026-11-17"
     }
    ]
@@ -1226,6 +1395,91 @@
    ]
   },
   {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "City Council",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "152.",
+   "file_number": "2026-0920",
+   "title": "ORD Approp $203,000.00 in Grant Funding From the Library Foundation of Jax to the Jax Public Library (the \u201cLibrary\u201d) to Fund 1 Full-Time Support Svcs Specialist Position, for the Provision of Technical & Operational Support for the Library, Auth 1 Full-Time Position, Prov for Oversight by the Jax Public Library (R.C. 27-021) (B.T. 27-021) (Loy, Jr.) (Req of the Mayor)\r\n11/10/26 CO Introduced: NCSPHS, F\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/24/26",
+   "max_amount": 203000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Jax Public Library",
+   "signal_score": 3.3,
+   "keywords": [
+    "library"
+   ],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-10"
+    },
+    {
+     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Finance Committee",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-northport",
+   "government": "North Port",
+   "client": "cityofnorthport",
+   "body": "City Commission Regular Meeting",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "F.",
+   "file_number": "26-1215",
+   "title": "Approve the Application to the U.S. Department of Justice Office of Community Oriented Policing Services Fiscal Year 2026 Law Enforcement Mental Health and Wellness Act (LEMHWA) Implementation Projects in the Amount of $200,000, and Authorize the City Manager or the Mayor, as Applicable Under the City Charter, to Execute all Funding Documents After Legal Review, Should the Grant be Awarded to the City.",
+   "max_amount": 200000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "U.S. Department of Justice Office of Community Oriented Policing Services",
+   "signal_score": 3.3,
+   "keywords": [],
+   "meeting_url": "https://cityofnorthport.legistar.com/MeetingDetail.aspx?LEGID=3752&GID=408&G=FED9DAC1-C02A-4668-A6AA-7D5B31BA7971",
+   "agenda_pdf": "https://legistar2.granicus.com/cityofnorthport/meetings/2026/11/3752_A_City_Commission_Regular_Meeting_26-11-10_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "City Commission Regular Meeting",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "Finance Committee",
+   "meeting_date": "2026-11-17",
+   "agenda_number": null,
+   "file_number": null,
+   "title": "AMENDMENT\r\nChange the coordinating department from Grants and Compliance Division to Animal Care and Protective Services Division\r\n\r\n\r\n\u2022 First Coast No More Homeless Pets (FCNMHP) was placed on the Non-Compliance List in October 2008 for not providing the required report for a grant of $215,000\r\n\u2022 FCNMHP currently provides the same services pursuant to agreements with the City that do not require compliance with Chapter 118\r\n",
+   "max_amount": 215000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Animal Care and Protective Services Division",
+   "signal_score": 3.3,
+   "keywords": [],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3822&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3822_A_Finance_Committee_26-11-17_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Finance Committee",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "c-polk",
    "government": "Polk County",
    "client": "polkcountyfl",
@@ -1253,29 +1507,29 @@
    ]
   },
   {
-   "entity_id": "c-broward",
-   "government": "Broward County",
-   "client": "broward",
-   "body": "County Commission",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "10.",
-   "file_number": "26-1434",
-   "title": "MOTION TO APPROVE Public Transportation Grant Agreement (\u201cPTGA\u201d) between the Florida Department of Transportation (\u201cFDOT\u201d) and Broward County for Financial Project No. 453802-1-94-01, with FDOT agreeing to grant up to $14,999,397 to Broward County for the Port Everglades\u2019 New Bulkheads at Berths 16, 17, and 18 Project (\u201cProject\u201d), but no more than 75% of the total eligible cost of the Project, and County agreeing to match  FDOT\u2019s grant and cover any cost overruns; authorize the Mayor and Clerk to execute the PTGA; authorize the County Administrator or designee to take the necessary administrative and budgetary actions resulting from approval of the PTGA; and authorize the County Administrator to approve any amendments to the PTGA that do not increase the County\u2019s local match percentage 25%, subject to review by the Office of the County Attorney for legal sufficiency.",
-   "max_amount": 14999397.0,
-   "signals": [],
-   "outgoing_grant": false,
+   "entity_id": "m-doral",
+   "government": "Doral",
+   "client": "doral",
+   "body": "Council Meeting",
+   "meeting_date": "2026-11-18",
+   "agenda_number": "6V",
+   "file_number": "26-6800",
+   "title": "A RESOLUTION OF THE MAYOR AND THE CITY COUNCIL OF THE CITY OF DORAL, FLORIDA, AUTHORIZING THE CITY MANAGER TO EXECUTE A WORK ORDER WITH GANNETT FLEMING, INC. FOR PROFESSIONAL ENGINEERING SERVICES TO PERFORM A NO THRU TRUCKS ROUTE STUDY ALONG DORAL ACADEMY CHARTER SCHOOL ADJACENT ROADS IN AN AMOUNT NOT TO EXCEED EIGHTEEN THOUSAND EIGHT HUNDRED THIRTY EIGHT DOLLARS AND THIRTY FIVE CENTS ($18,838.35); APPROVING A BUDGET TRANSFER IN AN AMOUNT OF $18,838.35 FROM ACCOUNT No. 101.80005.500633 TO ACCOUNT No. 101.80005.500310, TO PROVIDE SUFFICIENT FUNDING FOR THIS REQUEST; AUTHORIZING THE CITY MANAGER TO EXECUTE ANY NECESSARY DOCUMENTS AND EXPEND BUDGETED FUNDS ON BEHALF OF THE CITY; PROVIDING FOR IMPLEMENTATION; PROVIDING FOR INCORPORATION OF RECITALS; AND PROVIDING FOR AN EFFECTIVE DATE",
+   "max_amount": 18838.0,
+   "signals": [
+    "consultants"
+   ],
+   "outgoing_grant": true,
    "bypass_competition": false,
    "recipient": null,
-   "signal_score": 3.2,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://broward.legistar.com/MeetingDetail.aspx?LEGID=1211&GID=728&G=9CC0A88F-9982-4209-A126-7C71741CABC2",
-   "agenda_pdf": "https://broward.legistar1.com/broward/meetings/2026/11/1211_A_County_Commission_26-11-10_Regular_Meeting_Agenda.pdf",
+   "signal_score": 3.3,
+   "keywords": [],
+   "meeting_url": "https://doral.legistar.com/MeetingDetail.aspx?LEGID=1515&GID=204&G=D82F2348-2767-4256-B89E-318FCD920820",
+   "agenda_pdf": "https://legistar1.granicus.com/Doral/meetings/2026/11/1515_A_Council_Meeting_26-11-18_Meeting_Agenda.pdf",
    "appearances": [
     {
-     "body": "County Commission",
-     "meeting_date": "2026-11-10"
+     "body": "Council Meeting",
+     "meeting_date": "2026-11-18"
     }
    ]
   },
@@ -1310,44 +1564,6 @@
    "client": "jaxcityc",
    "body": "City Council",
    "meeting_date": "2026-11-10",
-   "agenda_number": "58.",
-   "file_number": "2026-0868",
-   "title": "ORD Apv, Ratifying, & Auth the Execution of a Settlement Agrmt btwn the City & Paul Stefanko, Case No. 3:25-cv-01134-WWB-LLL, U.S. Dist Court for the Middle Dist of FL; Approp $150,000 from Gen Fund Operating Fund (Operating Reserves) to the Gen Fund Operating Fund (Judgments, Claims, & Losses Over $50,000) to Prov Funding for Settlement of Pending Litigation; Auth the General Counsel, or His Desig, to Execute the Settlement Agrmt & Take Further Action, as Necessary, to Effectuate the Settlement & Conclude the Litigation; Waiving the Provisions of Sec 106.303 (Format & Determination of Amounts Appropriated), Subpt A (General Provisions), Pt 3 (Appropriations), Ch 106 (Budget & Accounting Code), Ord Code, to Allow Modification of the Approp of Funds Exhibit to Facilitate Compliance with the Requirements of the ADA (B.T. 27-016) (Mairs) (Req of OGC)\r\n10/27/26 CO Introduced: R, F \r\n11/2/26 R Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
-   "max_amount": 150000.0,
-   "signals": [
-    "consultants",
-    "legal"
-   ],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 3.2,
-   "keywords": [
-    "settlement"
-   ],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Council",
-     "meeting_date": "2026-11-10"
-    },
-    {
-     "body": "Rules Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
-    }
-   ]
-  },
-  {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "City Council",
-   "meeting_date": "2026-11-10",
    "agenda_number": "88.",
    "file_number": "2026-0813-E",
    "title": "ORD Auth Disbursement of $162,640 From the Homelessness Initiatives Special Revenue Fund Described in Sec 111.920 (Homelessness Initiatives Special Revenue Fund), Ord Code, to Prov Funding to Youth Crisis Center, Inc. (\u201cYCC\u201d) for the House of Hope Prog (the \u201cProgram\u201d) as Described Herein; Waiving Sec 118.107 (Nonprofits to Receive Funding Through a Competitive Evaluated Award Process; Waiver & Disclosures), Pt 1 (General Provisions), Ch 118 (City Grants), Ord Code, to Allow for a Direct Contract With YCC; Waiving the Conflicting Provisions of Sec 118.805 (Eligibility to Apply for Public Service Grants), Pt 8 (Public Service Grants), Ch 118 (City Grants), Ord Code, to Allow YCC to Receive This Funding in Addition to PSG Funding for the Prog; Apv, & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver on Behalf of the City a Grant Agrmt Btwn the City & Youth Crisis Center, Inc. For the Prog; Prov for Oversight by the Grants & Contract Compliance Div of the Finance Dept (Staffopoulos) (Introduced by CM Peluso)\r\n10/13/26 CO Introduced: R, NCSPHS, F\r\n10/19/26 R Read 2nd & Rerefer\r\n10/19/26 NCSPHS Read 2nd & Rerefer\r\n10/20/26 F Read 2nd & Rerefer\r\n10/27/26 CO PH Read 2nd & Rerefer\r\n11/2/26 R Amend/Approve 7-0\r\n11/2/26 NCSPHS Amend/Approve 7-0\r\n11/4/26 F Amend/Approve 5-1 (Diamond)\r\n11/10/26 CO Amend/Approve 15-2 (Diamond/Gay)\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 10/27/26",
@@ -1370,69 +1586,6 @@
    ]
   },
   {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "City Council",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "96.",
-   "file_number": "2026-0876",
-   "title": "RESO, Upon an Acknowledgement of Due Auth & the Making of Findings, Apv the Issuance by the JHFA of Its Multifamily Housing Revenue Bonds (Leon Landing), in 1 or More Series, in an Aggregate Principal Amt Not to Exceed $15,000,000 for the Purpose of Financing All or a Portion of the Costs Related to the Acquisition & Construction of a Multifamily Residential Housing Facility for Persons or Families of Low, Middle or Moderate Income, to Be Located at Restlawn Dr, 0.001 Miles SE of Restlawn Dr & Toni Ave, Jax, Duval County, FL, 32208, & to Be Commonly Known as \u201cLeon Landing\u201d; Determining Credit Not Being Pledged (Dillard) (Req of JHFA)\r\n10/27/26 CO Introduced: NCSPHS, F\r\n11/2/26 NCSPHS Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO Read 2nd & Rerefer",
-   "max_amount": 15000000.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 3.2,
-   "keywords": [
-    "bonds",
-    "construction"
-   ],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Council",
-     "meeting_date": "2026-11-10"
-    },
-    {
-     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
-    }
-   ]
-  },
-  {
-   "entity_id": "c-seminole",
-   "government": "Seminole County",
-   "client": "seminolecountyfl",
-   "body": "Board of County Commissioners",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "16.",
-   "file_number": "2026-0926",
-   "title": "Approve and authorize staff to terminate the Non-Profit Capacity Building/Operating Cost and Supportive Services Agreement in the amount of $170,000 between Seminole County and Boys Town Central Florida, Inc. Countywide (Allison Thall, Community Services Director)",
-   "max_amount": 170000.0,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 3.2,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://seminolecountyfl.legistar.com/MeetingDetail.aspx?LEGID=3595&GID=921&G=E2DF9C83-4A2C-4390-86EE-5C088F5B9D50",
-   "agenda_pdf": "https://seminolecountyfl.legistar1.com/seminolecountyfl/meetings/2026/11/3595_A_Board_of_County_Commissioners_26-11-10_Meeting_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "Board of County Commissioners",
-     "meeting_date": "2026-11-10"
-    }
-   ]
-  },
-  {
    "entity_id": "c-orange",
    "government": "Orange County",
    "client": "occompt",
@@ -1449,6 +1602,33 @@
    "signal_score": 3.2,
    "keywords": [
     "contract"
+   ],
+   "meeting_url": "https://occompt.legistar.com/MeetingDetail.aspx?LEGID=1804&GID=661&G=671217FC-A8C9-41BD-BA90-3804D546A607",
+   "agenda_pdf": "https://occompt.legistar1.com/occompt/meetings/2026/11/1804_A_Board_of_County_Commissioners_26-11-10_Board_of_County_Commissioners_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-orange",
+   "government": "Orange County",
+   "client": "occompt",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "1.",
+   "file_number": "26-1310",
+   "title": "Approval and execution of Amended and Restated Project Administration Agreements between Orange County, Florida and Homes In Partnership, Inc. regarding the Donation of County-owned Properties for the Construction of Permanent Affordable Housing in the amount of $25,000 per unit for a total of $150,000 and Future Leaders Community Development Corporation, Inc. in the amount of $25,000 per unit for a total of $100,000 and $82,000 for pre-development costs. District 2 and 6. (Housing and Community Development Division)",
+   "max_amount": 150000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Construction of Permanent Affordable Housing in",
+   "signal_score": 3.2,
+   "keywords": [
+    "construction"
    ],
    "meeting_url": "https://occompt.legistar.com/MeetingDetail.aspx?LEGID=1804&GID=661&G=671217FC-A8C9-41BD-BA90-3804D546A607",
    "agenda_pdf": "https://occompt.legistar1.com/occompt/meetings/2026/11/1804_A_Board_of_County_Commissioners_26-11-10_Board_of_County_Commissioners_Agenda.pdf",
@@ -1511,33 +1691,6 @@
     {
      "body": "Council Work Session",
      "meeting_date": "2026-11-17"
-    }
-   ]
-  },
-  {
-   "entity_id": "m-miramar",
-   "government": "Miramar",
-   "client": "miramar",
-   "body": "CITY COMMISSION REGULAR MEETING",
-   "meeting_date": "2026-11-18",
-   "agenda_number": "4.",
-   "file_number": "#R8805",
-   "title": "Temp. Reso. #R8805 authorizing the City Manager to execute an agreement and related documents between the City of Miramar and the State of Florida, Department of State, Division of Arts and Culture to secure a grant in the amount of $150,000.00 to support Miramar Cultural Center Arts & Cultural Programs. (Cultural Affairs Assistant Director Zakiya Kelley)",
-   "max_amount": 150000.0,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 3.2,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://miramar.legistar.com/MeetingDetail.aspx?LEGID=1275&GID=613&G=57B8BDD8-6449-424C-A934-A183396682C2",
-   "agenda_pdf": "https://miramar.legistar1.com/miramar/meetings/2026/11/1275_A_CITY_COMMISSION_REGULAR_MEETING_26-11-18_Meeting_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "CITY COMMISSION REGULAR MEETING",
-     "meeting_date": "2026-11-18"
     }
    ]
   },
@@ -1627,6 +1780,34 @@
    ]
   },
   {
+   "entity_id": "c-orange",
+   "government": "Orange County",
+   "client": "occompt",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "1.",
+   "file_number": "26-1258",
+   "title": "Approval to award Invitation for Bids Y26-153-MV, Staff Augmentation - Administrative, to the low responsive and responsible bidders, BJ Concepts, Inc., in the estimated total contract amount of $2,500,000 for a five-year term, Blue Arbor, Inc., in the estimated contract amount of $2,500,000 for a five-year term, Naztec International Group, L.L.C., in the estimated contract amount of $2,500,000 for a five-year term, and 22nd Century Technologies, Inc., in the estimated contract amount of $2,500,000 for a five-year term. The total budget for all contract awards is $10,000,000 for the five-year term.\n\nIn the event the bidders recommended above fail to achieve timely compliance with pre-award deliverables, as defined in the Invitation for Bids, including, but not limited to, State Division of Corporations registration, E-verify, insurance and bonds, further request authorization for the Procurement Division to award to the next low responsive and responsible bidder as listed in the bid tabulation herein, to the extent practicable and advantageous to the County. ([Administration and Fiscal Services Department Human Resources Division] Procurement Division)",
+   "max_amount": 10000000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 3.0,
+   "keywords": [
+    "bonds",
+    "contract"
+   ],
+   "meeting_url": "https://occompt.legistar.com/MeetingDetail.aspx?LEGID=1804&GID=661&G=671217FC-A8C9-41BD-BA90-3804D546A607",
+   "agenda_pdf": "https://occompt.legistar1.com/occompt/meetings/2026/11/1804_A_Board_of_County_Commissioners_26-11-10_Board_of_County_Commissioners_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
    "entity_id": "c-broward",
    "government": "Broward County",
    "client": "broward",
@@ -1659,35 +1840,6 @@
    "client": "jaxcityc",
    "body": "City Council",
    "meeting_date": "2026-11-10",
-   "agenda_number": "59.",
-   "file_number": "2026-0869-D",
-   "title": "ORD Approp $70,000 from the Council Operating Contingency - Contingency Acct to the CCSS Council Staff Svcs - Furniture & Equipment Under $5,000 Acct to Prov Funding for the Purchase of New Furniture for the City Council Suite & Conference Rooms; Req 1 Cycle Emerg Passage (Teal) (Introduced by CM Amaro)(Co-Sponsor CM Johnson)\r\n10/27/26 CO Introduced: F \r\n11/4/26 F Emergency/Approve 3-3 (Defer) (Lahnen, Gay, Diamond)\r\n11/10/26 CO PH Emergency/Approve 8-11(Fail) (Boylan, Howland, Lahnen, Carrico, Diamond, Airas, Carlucci, Gay, Miller, Peluso, Salem)\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
-   "max_amount": 70000.0,
-   "signals": [
-    "officials"
-   ],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2.8,
-   "keywords": [
-    "purchase"
-   ],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Council",
-     "meeting_date": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "City Council",
-   "meeting_date": "2026-11-10",
    "agenda_number": "31.",
    "file_number": "2026-0855-A",
    "title": "RESO Making Certain Findings & Apv & Auth the Execution of an Economic Development Agrmt btwn the City & Shore Manufacturing of FL LLC, to Support the Expansion of the Company\u2019s Existing Manufacturing Facility Located in the NW Jax Economic Dev Area, Located Generally at 5245 Commonwealth Ave, Which Is Within a Level 1 Economically Distressed Area; Auth the Mayor, or Her Desig, & Corp Sec, to Execute & Deliver, for & on Behalf of the City, the Agrmt btwn Company & the City; Auth Appvl of Technical Amdts by the Exec Director of the OED; Auth a $65,000 NW Jax Small Business Dev Initiative Grant to the Company; Prov for Oversight by the OED; Affirming the Proj\u2019s Compliance with the NWJEDF Guidelines Appvd & Adopted by Ord 2016-779-E; Affirming the Proj\u2019s Compliance with the Public Investment Policy Adopted by Ord 2024 286-E, as Amend; Req 2 Reading Passage Pursuant to Council Rule 3.305 (Sawyer) (Req of Mayor)\n10/27/26 CO Introduced: F\n11/4/26 F Amend/Approve 5-1 (Diamond)\n11/10/26 CO Amend/Approve 16-1 (Diamond)",
@@ -1704,6 +1856,31 @@
     {
      "body": "City Council",
      "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-polk",
+   "government": "Polk County",
+   "client": "polkcountyfl",
+   "body": "Board of County Commissioners (Organizational)",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "M.18.",
+   "file_number": "26-2292",
+   "title": "Approve to establish capital budget amendment and transfer from the COPs Technology and Equipment Program Grant (COPS) to the Emergency Management Performance Grant (EMPG). ($66,154.00 one-time transfer)",
+   "max_amount": 66154.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Emergency Management Performance Grant",
+   "signal_score": 2.8,
+   "keywords": [],
+   "meeting_url": "https://polkcountyfl.legistar.com/MeetingDetail.aspx?LEGID=1830&GID=899&G=8E3CAEE1-3439-4CE8-90D8-F1ABD849BB66",
+   "agenda_pdf": "https://polkcountyfl.legistar1.com/polkcountyfl/meetings/2026/11/1830_A_Board_of_County_Commissioners_%28Organizational%29_26-11-17_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners (Organizational)",
+     "meeting_date": "2026-11-17"
     }
    ]
   },
@@ -1912,34 +2089,6 @@
    ]
   },
   {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "Finance Committee",
-   "meeting_date": "2026-11-17",
-   "agenda_number": null,
-   "file_number": null,
-   "title": "\u2022 Appropriates $40,000 from unspent funding originally appropriated for a direct contract with Northeast Florida Immigrant Resource Alliance to fund a direct contract with FSCJ for the Culinary Management Program\r\n\u2022 The contract term is from October 1, 2026 to September 30, 2027\r\n\u2022 FSCJ will use the funding to purchase equipment and supplies to support the program\r\n",
-   "max_amount": 40000.0,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2.6,
-   "keywords": [
-    "contract",
-    "purchase"
-   ],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3822&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3822_A_Finance_Committee_26-11-17_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
-    }
-   ]
-  },
-  {
    "entity_id": "c-polk",
    "government": "Polk County",
    "client": "polkcountyfl",
@@ -1991,60 +2140,6 @@
     {
      "body": "Council Meeting",
      "meeting_date": "2026-11-18"
-    }
-   ]
-  },
-  {
-   "entity_id": "c-broward",
-   "government": "Broward County",
-   "client": "broward",
-   "body": "County Commission",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "9.",
-   "file_number": "26-1432",
-   "title": "MOTION TO APPROVE Public Transportation Grant Agreement (\u201cPTGA\u201d) between the Florida Department of Transportation (\u201cFDOT\u201d) and Broward County for Financial Project No. 457516-1-94-01, with FDOT agreeing to grant up to $3,000,000 to Broward County for the Port Everglades\u2019 Cruise Terminal 29 Improvements/Expansion Project (\u201cProject\u201d), but no more than fifty percent 50% of the total eligible cost of the Project, and County agreeing to match  FDOT\u2019s grant and cover any cost overruns; authorize the Mayor and Clerk to execute the PTGA; authorize the County Administrator or designee to take the necessary administrative and budgetary actions resulting from approval of the PTGA; and authorize the County Administrator to approve any amendments to the PTGA that do not increase the County\u2019s local match percentage 50%, subject to review by the Office of the County Attorney for legal sufficiency.",
-   "max_amount": 3000000.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2.5,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://broward.legistar.com/MeetingDetail.aspx?LEGID=1211&GID=728&G=9CC0A88F-9982-4209-A126-7C71741CABC2",
-   "agenda_pdf": "https://broward.legistar1.com/broward/meetings/2026/11/1211_A_County_Commission_26-11-10_Regular_Meeting_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "County Commission",
-     "meeting_date": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "entity_id": "c-broward",
-   "government": "Broward County",
-   "client": "broward",
-   "body": "County Commission",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "21.",
-   "file_number": "26-1208",
-   "title": "MOTION TO APPROVE Federally Funded Subgrant Umbrella Agreement No. E2265 between the Florida Department of Commerce and Broward County, in the anticipated amounts of $2,016,000 for the Community Services Block Grant and  $3,500,000 for the Low-Income Home Energy Assistance Program, effective from July 1, 2026, through June 30, 2027, with up to three renewal options, to provide economic self-sufficiency services and home energy assistance benefits to eligible households; authorize the County Administrator to execute renewals, amendments, and modifications to the Subgrant Agreement that do not impose any additional financial obligations or material risks on the County, subject to legal sufficiency review and approval by the County Attorney\u2019s Office; and authorize the County Administrator to take all necessary administrative and budgetary actions to implement the Subgrant Agreement.",
-   "max_amount": 3500000.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2.5,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://broward.legistar.com/MeetingDetail.aspx?LEGID=1211&GID=728&G=9CC0A88F-9982-4209-A126-7C71741CABC2",
-   "agenda_pdf": "https://broward.legistar1.com/broward/meetings/2026/11/1211_A_County_Commission_26-11-10_Regular_Meeting_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "County Commission",
-     "meeting_date": "2026-11-10"
     }
    ]
   },
@@ -2107,38 +2202,6 @@
     {
      "body": "Board of County Commissioners",
      "meeting_date": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "Rules Committee",
-   "meeting_date": "2026-11-16",
-   "agenda_number": null,
-   "file_number": null,
-   "title": "\u2022 Appropriates $30,000 from unspent funding originally appropriated for a direct contract with Northeast Florida Immigrant Resource Alliance to fund a direct contract with the North Florida School of Special Education, Inc. (\u201cNFSSE\u201d) for the period of October 1, 2026 \u2013 September 30, 2027\r\n\u2022 NFSSE will use the funding to repair a walking and running track on their campus, pay a portion of the salaries for a physical education teacher, health and fitness coach, and fitness coordinator, and to purchase athletic equipment to support various physical education programs\r\n\u2022 Waives the requirement in Code Sec. 118.107 that City funds appropriated to nonprofit organizations shall be subject to a competitive evaluated award process in order to authorize a direct contract with the NFSSE\r\n",
-   "max_amount": 30000.0,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2.5,
-   "keywords": [
-    "contract",
-    "purchase"
-   ],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3726&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3726_A_Rules_Committee_26-11-16_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "Rules Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
     }
    ]
   },
@@ -2345,127 +2408,6 @@
    ]
   },
   {
-   "entity_id": "c-broward",
-   "government": "Broward County",
-   "client": "broward",
-   "body": "County Commission",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "24.",
-   "file_number": "26-1481",
-   "title": "A. MOTION TO ADOPT budget Resolution transferring funds within the Law Enforcement Trust Fund (LETF) for the Broward Sheriff\u2019s Office in the amount of $170,000 for the Digital Evidence Compliance Program.\r\n\r\nB. MOTION TO ADOPT budget Resolution transferring funds within the Law Enforcement Trust Fund (LETF) for the Broward Sheriff\u2019s Office in the amount of $202,750 to fund the Organized Crime Task Force.\r\n\r\nC. MOTION TO ADOPT budget Resolution transferring funds within the Law Enforcement Trust Fund (LETF) for the Broward Sheriff\u2019s Office in the amount of $166,481 for the Gang Investigative Task Force.\r\n\r\nD. MOTION TO ADOPT budget Resolution transferring funds within the Law Enforcement Trust Fund (LETF) for the Broward Sheriff\u2019s Office in the amount of $130,000 for the Narcotics Detection Canine Program. \r\n\r\nE. MOTION TO ADOPT budget Resolution transferring funds within the Law Enforcement Trust Fund (LETF) for the Broward Sheriff\u2019s Office in the amount of $211,000 for the Broward County Drug Task Force. \r\n\r\nF.  MOTION TO ADOPT budget Resolution transferring funds within the Law Enforcement Trust Fund (LETF) for the Broward Sheriff\u2019s Office in the amount of $294,227 for the Narcotics Interdiction Task Force.\r\n\r\nG. MOTION TO ADOPT budget Resolution transferring funds within the Law Enforcement Trust Fund (LETF) for the Broward Sheriff\u2019s Office in the amount of $1,810,500 for the Broward County Money Laundering Task Force.",
-   "max_amount": 1810500.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2.3,
-   "keywords": [],
-   "meeting_url": "https://broward.legistar.com/MeetingDetail.aspx?LEGID=1211&GID=728&G=9CC0A88F-9982-4209-A126-7C71741CABC2",
-   "agenda_pdf": "https://broward.legistar1.com/broward/meetings/2026/11/1211_A_County_Commission_26-11-10_Regular_Meeting_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "County Commission",
-     "meeting_date": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "City Council",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "51.",
-   "file_number": "2026-0861",
-   "title": "ORD Approp Interest Income, Loan Repayment Revenue, & Investment Pool Earnings Within the Downtown Economic Dev Fund to Clean Up the All Years Budget & Actuals for the Vestcor Loans Related to Carling & Lynch 11-E & to Approp Funds to the Retail Enhancement Prog Forgivable Loans Accts in the Amt of $2,233,288.22; Prov the Purpose for the Approp (Lavie) (Req of the DIA)\r\n10/27/26 CO Introduced: F\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
-   "max_amount": 2233288.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2.3,
-   "keywords": [
-    "loan"
-   ],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Council",
-     "meeting_date": "2026-11-10"
-    },
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
-    }
-   ]
-  },
-  {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "City Council",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "56.",
-   "file_number": "2026-0866",
-   "title": "ORD Approp $1,818,000 from the Auth Capital Projs - FY 2023 & Forward Fund - Resiliency Infrastructure Improvements - DM Other Construction Costs Acct, to Prov Funding for the City\u2019s Acquisition Of 3 Parcels of Land, All Located In Jax, FL, in Council Dist 10, as Required for the Resilient Ribault Initiative Proj, with Such Parcels Identified as Follows: 0 New Kings Rd (R.E. #: 040554-0010), 0 Pope Place (R.E. #: 040542-0000), # 0 Pope Place (R.E. #: 040542-0025), (Collectively, the Property); Apv & Auth the Mayor, or Her Designee, & The Corp Sec to Execute & Deliver those Certain Real Estate Purchase & Sale Agrmts Required for the City to Effectuate its Acquisition of the Propty, as Follows: Real Estate Purchase & Sale Agrmt Btwn the City & Nathan D. Goldman, Sharon Paryani, & Hilda Goldman Dreher for the Purchase Of 0 New Kings Rd (R.E. #: 040554-0010) for the Negotiated Purchase Price of $1,370,000, Real Estate Purchase & Sale Agrmt Btwn the City & Ralph Danson, Thaddeus Danson, Barbara Ann Lee, Priscilla Pounds Hodge & Joseph Stanley Jones for the Purchase of 0 Pope Place (R.E. #: 040542-0000) for the Negotiated Purchase Price of $264,000, & Real Estate Purchase & Sale Agrmt Btwn the City & Joseph Stanley Jones for the Purchase of 0 Pope Place (R.E. #: 040542-0025) for a Negotiated Purchase Price of $14,000 (Collectively, the Agreements), & all Closing & Other Docs Contemplated Therein or Relating Thereto, & to Otherwise Take all Necessary Action to Effectuate the Purpose",
-   "max_amount": 1818000.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2.3,
-   "keywords": [
-    "construction",
-    "purchase"
-   ],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Council",
-     "meeting_date": "2026-11-10"
-    },
-    {
-     "body": "City Council",
-     "meeting_date": "2026-11-10"
-    },
-    {
-     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
-    }
-   ]
-  },
-  {
-   "entity_id": "m-northport",
-   "government": "North Port",
-   "client": "cityofnorthport",
-   "body": "City Commission Regular Meeting",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "G.",
-   "file_number": "26-1226",
-   "title": "Approve the Acceptance of the Harry Shapiro Charitable Foundation Grant in the Amount of $20,000 to Support Public Safety Initiatives, and Authorize the City Manager or the Mayor, as Applicable Under the City Charter, to Execute all Funding Documents After Legal Review.\r\n",
-   "max_amount": 20000.0,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Support Public Safety Initiatives",
-   "signal_score": 2.3,
-   "keywords": [],
-   "meeting_url": "https://cityofnorthport.legistar.com/MeetingDetail.aspx?LEGID=3752&GID=408&G=FED9DAC1-C02A-4668-A6AA-7D5B31BA7971",
-   "agenda_pdf": "https://legistar2.granicus.com/cityofnorthport/meetings/2026/11/3752_A_City_Commission_Regular_Meeting_26-11-10_Meeting_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Commission Regular Meeting",
-     "meeting_date": "2026-11-10"
-    }
-   ]
-  },
-  {
    "entity_id": "c-orange",
    "government": "Orange County",
    "client": "occompt",
@@ -2631,42 +2573,6 @@
    ]
   },
   {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "City Council",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "53.",
-   "file_number": "2026-0863",
-   "title": "ORD Approp $1,556,500 From the Jax Recreation & Environmental Land Acquisition Fund - Gain-Loss Sale Real Propty Acct to the Jax Recreation & Environmental Land Acquisition Fund - Land Acquisition Cost Acct to Prov Funding for the City\u2019s Purchase of  5 Properties Located at 2830 Edison Ave (R.E. No. 056342-0000), 2827 Lenox Ave (R.E. No. 056338-0000), 538 Locust St (R.E. No. 063840-0000), 0 Locust St (R.E. No. 063839-0000), & 2826 Lenox Ave (R.E. No. 063836-0000) Jax, in Council Dist 9 (Collectively, the \u201cProperty\u201d), to Be Used as a Passive Park; Apv & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver That Certain Purchase & Sale Agrmt (the \u201cAgreement\u201d) Btwn the City & 2626 River City Investments, LLC, & All Closing & Other Docs Contemplated Therein or Relating Thereto, & to Otherwise Take All Necessary Action to Effectuate the Purposes of the Agrmt to Purchase the Subj Prop at a Negotiated Purchase Price Not to Exceed $1,556,500; Prov for Oversight by the Real Estate Div of the PW Dept for the Acquisition of the Prop & by the Pks, Recreation, & Community Svcs Dept Thereafter (Loy, Jr.) (Req of the Mayor & Co-Introduced by CM Peluso)\r\n10/27/26 CO Introduced: NCSPHS, F\r\n11/2/26 NCSPHS Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
-   "max_amount": 1556500.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2.2,
-   "keywords": [
-    "agreement",
-    "purchase"
-   ],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Council",
-     "meeting_date": "2026-11-10"
-    },
-    {
-     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
-    }
-   ]
-  },
-  {
    "entity_id": "c-orange",
    "government": "Orange County",
    "client": "occompt",
@@ -2718,70 +2624,6 @@
     {
      "body": "CITY COMMISSION REGULAR MEETING",
      "meeting_date": "2026-11-18"
-    }
-   ]
-  },
-  {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "City Council",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "46.",
-   "file_number": "2026-0856",
-   "title": "ORD Approp $1,329,510.00 from the Gen Operating Fund - IP Hospital Care - Medicaid Acct to the Multiyear Progs & Initiatives - Economic Dev - Contingency Acct to Fund Unfunded Non-Recurring Future Obligations (B.T. 27-018) (Dillard) (Req of Mayor)\r\n10/27/26 CO Introduced:  F \r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
-   "max_amount": 1329510.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2.1,
-   "keywords": [],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Council",
-     "meeting_date": "2026-11-10"
-    },
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
-    }
-   ]
-  },
-  {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "City Council",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "47.",
-   "file_number": "2026-0857",
-   "title": "ORD Approp $1,150,000.00 in Grant Funds from the Build America Bureau within the U.S. DOT, Thru the Regional Infrastructure Accelerator Grant Prog, for the Jax Regional Infrastructure Accelerator Proj; Amend the 27-31 5-Yr CIP Appvd by Ord 2026-505-E to Reflect This Approp of Funds to the New Proj Entitled \u201cJacksonville Regional Infrastructure Accelerator\u201d; Prov for City Oversight by the Engineering & Construction Mgmt Div of the Dept of PW (B.T. 27-013) (Dillard) (Req of Mayor)\r\n10/27/26 CO Introduced: NCSPHS, F \r\n11/2/26 NCSPHS Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
-   "max_amount": 1150000.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2.1,
-   "keywords": [
-    "construction"
-   ],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Council",
-     "meeting_date": "2026-11-10"
-    },
-    {
-     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
     }
    ]
   },
@@ -2874,6 +2716,31 @@
    "client": "psl",
    "body": "City Council",
    "meeting_date": "2026-11-09",
+   "agenda_number": "7.i",
+   "file_number": "2026-1028",
+   "title": "Sponsorship Request for Port St. Lucie High School",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Port St. Lucie High School",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://psl.legistar.com/MeetingDetail.aspx?LEGID=2726&GID=747&G=597EF6D8-E9C6-40B6-8081-E988A76B06A6",
+   "agenda_pdf": "https://psl.legistar1.com/psl/meetings/2026/11/2726_A_City_Council_26-11-09_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-09"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-portstlucie",
+   "government": "Port St. Lucie",
+   "client": "psl",
+   "body": "City Council",
+   "meeting_date": "2026-11-09",
    "agenda_number": "7.k",
    "file_number": "2026-1030",
    "title": "Approve Sole Source Contract #20270002 for the Purchase of Micron Filters for the Reverse Osmosis (RO) Plants.",
@@ -2926,27 +2793,132 @@
    "entity_id": "m-jacksonville",
    "government": "Jacksonville",
    "client": "jaxcityc",
-   "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
-   "meeting_date": "2026-11-16",
-   "agenda_number": null,
-   "file_number": null,
-   "title": "AMENDMENT\r\n1. Correct fiscal year of appropriation\r\n2. Reference additional fund balance clean-up items in the amount of $165,159, remove $30,000 appropriation of Intrafund Equity Transfer In, and increase total appropriation amount to $899,517.08\r\n3. Attach Revised Exhibit 1 (BT) to include additional clean-up entry and remove Intrafund Equity Transfer In appropriation\r\n4. Correct Scrivener\u2019s",
-   "max_amount": 899517.0,
+   "body": "City Council",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "17.",
+   "file_number": "2026-0815-A",
+   "title": "RESO Conf the Appt of Alexandra Field, a Duval County Resident, as a Member of the Opioid & Substance Use Disorder Grants Committee, as a Mental Health Professional Rep, Pursuant to Sec 84.202(a)(1), Ord Code, Filling a Seat Held Previously by Nancy A. Rice, for a 1st Full Term Exp on 6/30/29 (Hampsey) (Introduced by CP Howland)  (Co-Sponsor CM Miller)\r\n10/13/26 CO Introduced: R\r\n10/19/26 R Read 2nd & Rerefer\r\n10/27/26 CO Read 2nd & Rerefer\r\n11/2/26 R Approve 6-0\r\n11/10/26 CO Approve 17-0",
+   "max_amount": null,
    "signals": [],
-   "outgoing_grant": false,
+   "outgoing_grant": true,
    "bypass_competition": false,
    "recipient": null,
-   "signal_score": 2.0,
+   "signal_score": 2,
    "keywords": [],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3782&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3782_A_Neighborhoods%2C_Community_Services%2C_Public_Health_and_Safety_Committee_26-11-16_Agenda.pdf",
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
    "appearances": [
     {
-     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
-     "meeting_date": "2026-11-16"
+     "body": "City Council",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "City Council",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "45.",
+   "file_number": "2026-0854",
+   "title": "ORD Prov Forgiveness to First Coast No More Homeless Pets, Inc. (\u201cFCNMHP\u201d), for Non-Compliance With Audit Reporting Requirements of Sec 118.201 (Release of Appropriations) & 118.202 (Content of Audits by Independent Certified Public Accountant), Pt 2 (Disbursement of City Grants), Ch 118 (City Grants), Ord Code; Auth the Council Auditor to Remove FCNMHP From the Ch 118 Non-Compliance List; Requiring the Grants & Contract Compliance Div of the Finance Dept to Coordinate With the Council Auditor\u2019s Office to Effectuate This Ord (Staffopoulos) (Introduced by CM Pittman)\r\n10/27/26 CO Introduced: F\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "First Coast No More Homeless Pets",
+   "signal_score": 2,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-10"
     },
     {
      "body": "Finance Committee",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "City Council",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "83.",
+   "file_number": "2026-0756-E",
+   "title": "ORD-MC re City Grants; Amend Sec 118.301 (Expenditure of Appropriated Funds), Pt 3 (Administration of City Grants), Ch 118 (City Grants), Ord Code, to Update the List of Prohibited Expenditures of Approp Funds to Include the Purchase or Lease of a Motor Vehicle (Smith) (Introduced by CM Boylan)\r\n9/22/26 CO Introduced: R, NCSPHS, F \r\n10/5/26 R Read 2nd & Rerefer\r\n10/6/26 F Read 2nd & Rerefer\r\n10/13/26 CO PH Read 2nd & Rerefer\r\n10/19/26 NCSPHS Read 2nd & Rerefer\r\n11/2/26 R Amend/Approve 6-0\r\n11/2/26 NCSPHS Amend/Approve 7-0\r\n11/4/26 F Amend/Approve 6-0\r\n11/10/26 CO Amend/Approve 17-0\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 10/13/26",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Update the List of Prohibited Expenditures of Approp Funds",
+   "signal_score": 2,
+   "keywords": [
+    "lease",
+    "purchase"
+   ],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "City Council",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "24.",
+   "file_number": "2026-0832-E",
+   "title": "ORD-MC re the Eastside Community Grants Prog; Amend Sec 118.904 (Composition; Qualifications; City Council Liaison; Terms; Removal.), Pt 9 (Eastside Community Grants Program), Ch 118 (City Grants), Ord Code, to Add That the 9th Voting Member May Be an Employee of the Jacksonville Jaguars Foundation, Inc. Or Any Entity Affiliated with Jacksonville Jaguars, LLC or Jacksonville Jaguars Foundation, Inc. (Smith) (Req of Mayor)  (Co-Sponsor CM Johnson)\r\n10/13/26 CO Introduced: R, NCSPHS\r\n10/19/26 R Read 2nd & Rerefer\r\n10/19/26 NCSPHS Read 2nd & Rerefer\r\n10/27/26 CO PH Read 2nd & Rerefer\r\n11/2/26 R Approve 7-0 \r\n11/2/26 NCSPHS Approve 7-0\r\n11/10/26 CO Approve 17-0\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 10/27/26",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Add That",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-pinellas",
+   "government": "Pinellas County",
+   "client": "pinellas",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "17.",
+   "file_number": "26-1640A",
+   "title": "Ratification of County Administrator approval and execution of the Promoting Resilient Operations for Transformative, Efficient, and Cost-saving Transportation grant application to the United States Department of Transportation for the San Martin Boulevard Bridge Replacement Project.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Transformative",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://pinellas.legistar.com/MeetingDetail.aspx?LEGID=10165&GID=532&G=4892F4D9-36FE-48F2-8E4D-022D5221CB08",
+   "agenda_pdf": "https://pinellas.legistar1.com/pinellas/meetings/2026/11/10165_A_Board_of_County_Commissioners_26-11-17_Hybrid_In-Person_and_Virtual_Regular_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
      "meeting_date": "2026-11-17"
     }
    ]
@@ -3034,6 +3006,31 @@
    ]
   },
   {
+   "entity_id": "m-pembrokepines",
+   "government": "Pembroke Pines",
+   "client": "ppines",
+   "body": "City Commission",
+   "meeting_date": "2026-11-18",
+   "agenda_number": "14.",
+   "file_number": "26-3094",
+   "title": "MAYOR CASTILLO ITEM NO. 1: DISCUSSION AND POSSIBLE ACTION TO RENAME THE POOL AT THE ACADEMIC VILLAGE CAMPUS THE \u201cSTEFANO G. DIOGUARDI R. POOL\u201d IN HONOR OF STEFANO G. DIOGUARDI R., A FORMER STUDENT AND CAPTAIN OF THE WATER POLO TEAM WHO TRAGICALLY LOST HIS LIFE IN JULY 2019 FOLLOWING A COURAGEOUS BATTLE WITH EWING SARCOMA. FOR THE PAST 10 YEARS, THE FORZA STEFANO CHARITABLE FOUNDATION HAS HOSTED THE ANNUAL FORZA STEFANO WATER POLO TOURNAMENT AT THE ACADEMIC VILLAGE POOL. THE FOUNDATION HAS ALSO AGREED TO MAKE AN ANNUAL DONATION OF $1,000 FOR THE NEXT 10 YEARS TO THE ACADEMIC VILLAGE AQUATIC CENTER TO HELP COVER POOL-RELATED NEEDS AND/OR SUPPORT THE PEMBROKE PINES CHARTER HIGH SCHOOL (PPCHS) WATER POLO TEAM.",
+   "max_amount": 1000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://ppines.legistar.com/MeetingDetail.aspx?LEGID=1799&GID=38&G=11F1DFCB-631E-4C18-8D1F-165ADB0EFC0A",
+   "agenda_pdf": "https://ppines.legistar1.com/ppines/meetings/2026/11/1799_A_City_Commission_26-11-18_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "City Commission",
+     "meeting_date": "2026-11-18"
+    }
+   ]
+  },
+  {
    "entity_id": "c-broward",
    "government": "Broward County",
    "client": "broward",
@@ -3110,91 +3107,6 @@
    "appearances": [
     {
      "body": "County Commission",
-     "meeting_date": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "City Council",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "135.",
-   "file_number": "2026-0903",
-   "title": "ORD Approp $756,800.00, Including $567,600.00 in Grant Funding Awarded by the U.S. Dept of Homeland Security Thru Its FY 26 Port Security Grant Prog & a $189,200.00 City Match, to Purchase Equipment & Related Upgrades to Support Protection of Jax Port Infrastructure; Prov for Oversight by JSO (B.T. 27-033) (Dillard) (Req of JSO)\r\n11/10/26 CO Introduced: NCSPHS, F \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/24/26",
-   "max_amount": 756800.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 1.9,
-   "keywords": [
-    "purchase"
-   ],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Council",
-     "meeting_date": "2026-11-10"
-    },
-    {
-     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
-    }
-   ]
-  },
-  {
-   "entity_id": "c-seminole",
-   "government": "Seminole County",
-   "client": "seminolecountyfl",
-   "body": "Board of County Commissioners",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "20.",
-   "file_number": "2026-0942",
-   "title": "Approve the recommended funding allocations to the agencies listed for Community Services Agency (CSA) Partnership Grant funds in the amount of $842,115 for FY 26/27 and authorize the Chairman to execute the CSA Grant Agreements and any amendments upon agency execution. Countywide (Allison Thall, Community Services Director)",
-   "max_amount": 842115.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 1.9,
-   "keywords": [],
-   "meeting_url": "https://seminolecountyfl.legistar.com/MeetingDetail.aspx?LEGID=3595&GID=921&G=E2DF9C83-4A2C-4390-86EE-5C088F5B9D50",
-   "agenda_pdf": "https://seminolecountyfl.legistar1.com/seminolecountyfl/meetings/2026/11/3595_A_Board_of_County_Commissioners_26-11-10_Meeting_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "Board of County Commissioners",
-     "meeting_date": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "entity_id": "c-seminole",
-   "government": "Seminole County",
-   "client": "seminolecountyfl",
-   "body": "Board of County Commissioners",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "14.",
-   "file_number": "2026-0956",
-   "title": "Request Board approval to submit a grant application to the U.S. Department of Justice, Office of Juvenile Justice and Delinquency Prevention for the FY 2026 Family Treatment Court Program requesting up to $850,000 for the establishment of Seminole County Family Treatment Court; and the approval of one new grant funded FTE if awarded; and authorize the County Manager or designee to execute all necessary grant documents.  Countywide (Lorie Bailey Brown, CFO/Administrative Services Director) Requesting Department - Administrative Services",
-   "max_amount": 850000.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 1.9,
-   "keywords": [],
-   "meeting_url": "https://seminolecountyfl.legistar.com/MeetingDetail.aspx?LEGID=3595&GID=921&G=E2DF9C83-4A2C-4390-86EE-5C088F5B9D50",
-   "agenda_pdf": "https://seminolecountyfl.legistar1.com/seminolecountyfl/meetings/2026/11/3595_A_Board_of_County_Commissioners_26-11-10_Meeting_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "Board of County Commissioners",
      "meeting_date": "2026-11-10"
     }
    ]
@@ -3357,39 +3269,6 @@
     {
      "body": "County Commission",
      "meeting_date": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "City Council",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "142.",
-   "file_number": "2026-0910",
-   "title": "ORD Approp $610,000.00 in Grant Funding From the FDLE for the Drone First Responder Prog, Prov for Oversight by the JSO (B.T. 27-025) (Dillard) (Req of Sheriff)\r\n11/10/26 CO Introduced: NCSPHS, F\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/24/26",
-   "max_amount": 610000.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 1.8,
-   "keywords": [],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Council",
-     "meeting_date": "2026-11-10"
-    },
-    {
-     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
     }
    ]
   },
@@ -3606,6 +3485,34 @@
    ]
   },
   {
+   "entity_id": "c-broward",
+   "government": "Broward County",
+   "client": "broward",
+   "body": "County Commission",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "17.",
+   "file_number": "26-1403",
+   "title": "MOTION TO APPROVE allocation in the amount of $300,000 to Junior Achievement of South Florida, Inc., for the Financial Literacy and Business Skills Training Program for Broward County youth, effective October 1, 2026, through September 30, 2027; authorize the Human Services Department Director or Deputy Director to approve and execute a contract adjustment reflecting the allocation for the current term; and authorize the County Administrator to take all necessary administrative and budgetary actions to implement the Agreement.",
+   "max_amount": 300000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.5,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://broward.legistar.com/MeetingDetail.aspx?LEGID=1211&GID=728&G=9CC0A88F-9982-4209-A126-7C71741CABC2",
+   "agenda_pdf": "https://broward.legistar1.com/broward/meetings/2026/11/1211_A_County_Commission_26-11-10_Regular_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "County Commission",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
    "entity_id": "m-northport",
    "government": "North Port",
    "client": "cityofnorthport",
@@ -3691,6 +3598,42 @@
    ]
   },
   {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "Rules Committee",
+   "meeting_date": "2026-11-16",
+   "agenda_number": null,
+   "file_number": null,
+   "title": "\u2022 Appropriates $64,737 from the Council District 7 Community Benefits Agreement contingency account to provide additional funding for the direct contract previously approved by Ord. 2025-893-E with the Jacksonville Association of Firefighters, IAFF Local No. 122, Inc. (\u201cJAFF\u201d) for the restoration of the Fire Tower located at 625 Stockton Street\r\n\u2022 Authorizes an amendment to the agreement with JAFF to 1) extend the contract from March 31, 2027 to March 31, 2028 and 2) increase the maximum indebtedness from $245,220 to $309,957 \r\n\u2022 Waives the requirement in Code Sec. 118.107 that City funds appropriated to nonprofit organizations shall be subject to a competitive evaluated award process in order to authorize an amendment to the direct contract with JAFF\r\n",
+   "max_amount": 309957.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.5,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3726&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3726_A_Rules_Committee_26-11-16_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Rules Committee",
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Finance Committee",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "m-doral",
    "government": "Doral",
    "client": "doral",
@@ -3771,78 +3714,6 @@
    ]
   },
   {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "City Council",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "43.",
-   "file_number": "2026-0852",
-   "title": "ORD Approp $280,000 From the Multiyear Progs & Initiatives - Council Dist 14-Activity CBA - Contingency Acct to the Auth Capital Projs - FY23 & Forward - Argyle Forest Entry Sign Improvements - Other Construction Costs Acct, to Prov Funds for Improvements to the Argyle Forest Blvd Entry Sign Located at the Corner of Argyle Forest Blvd & Blanding Blvd in Council Dist 14; Amend the 2027-2031 5-Yr CIP Appvd by Ord 2026-505-E to Reflect This Approp of Funds to the New Proj Entitled \u201cArgyle Forest Entry Sign Improvements\u201d; Provid for Oversight by the Public Works Dept (Staffopoulos) (Introduced by CM Johnson)\r\n10/27/26 CO Introduced: NCSPHS, F\r\n11/2/26 NCSPHS Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
-   "max_amount": 280000.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 1.4,
-   "keywords": [
-    "construction"
-   ],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Council",
-     "meeting_date": "2026-11-10"
-    },
-    {
-     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
-    }
-   ]
-  },
-  {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "City Council",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "48.",
-   "file_number": "2026-0858",
-   "title": "ORD-MC Amend Sec 111.940 (Affordable Housing Special Revenue Fund), Pt 9 (Neighborhood Development), Ch 111 (Special Revenue & Trust Accounts), Ord Code, to Change the Name of the Affordable Housing Special Revenue Fund & to Revise the Procedures for Disbursements from the Fund; Approp $245,000.00 from Various Accts within the Fund to Prov Funding for the Admin of the Fund; Prov for Codification Instructions (B.T. 27-015) (Dillard) (Req of Mayor)\r\n10/27/26 CO Introduced: R, NCSPHS, F \r\n11/2/26 R Read 2nd & Rerefer\r\n11/2/26 NCSPHS Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
-   "max_amount": 245000.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 1.4,
-   "keywords": [],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Council",
-     "meeting_date": "2026-11-10"
-    },
-    {
-     "body": "Rules Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
-    }
-   ]
-  },
-  {
    "entity_id": "c-polk",
    "government": "Polk County",
    "client": "polkcountyfl",
@@ -3863,33 +3734,6 @@
    "appearances": [
     {
      "body": "Board of County Commissioners (Organizational)",
-     "meeting_date": "2026-11-17"
-    }
-   ]
-  },
-  {
-   "entity_id": "m-northport",
-   "government": "North Port",
-   "client": "cityofnorthport",
-   "body": "City Commission Regular Meeting",
-   "meeting_date": "2026-11-17",
-   "agenda_number": "B.",
-   "file_number": "26-1351",
-   "title": "Discussion and Possible Action Regarding a $250,000 Contribution From the City of North Port, Florida, to the YMCA for Construction of the YMCA Early Learning Facility on the King Plastic Corporation Property Located at 1100 North Toledo Blade Boulevard, North Port, Florida, 34288. ",
-   "max_amount": 250000.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 1.4,
-   "keywords": [
-    "construction"
-   ],
-   "meeting_url": "https://cityofnorthport.legistar.com/MeetingDetail.aspx?LEGID=3753&GID=408&G=FED9DAC1-C02A-4668-A6AA-7D5B31BA7971",
-   "agenda_pdf": "https://legistar2.granicus.com/cityofnorthport/meetings/2026/11/3753_A_City_Commission_Regular_Meeting_26-11-17_Meeting_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Commission Regular Meeting",
      "meeting_date": "2026-11-17"
     }
    ]
@@ -3951,70 +3795,6 @@
    ]
   },
   {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "City Council",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "136.",
-   "file_number": "2026-0904",
-   "title": "ORD Approp $203,974.64 from the Federal Forfeitures Trust Fund to Estab the FY 26-27 Operating Budget for the Federal Forfeitures Trust Fund (B.T. 27-026) (Dillard) (Req of JSO)\r\n11/10/26 CO Introduced:  F \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/24/26",
-   "max_amount": 203974.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 1.3,
-   "keywords": [],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Council",
-     "meeting_date": "2026-11-10"
-    },
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
-    }
-   ]
-  },
-  {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "City Council",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "152.",
-   "file_number": "2026-0920",
-   "title": "ORD Approp $203,000.00 in Grant Funding From the Library Foundation of Jax to the Jax Public Library (the \u201cLibrary\u201d) to Fund 1 Full-Time Support Svcs Specialist Position, for the Provision of Technical & Operational Support for the Library, Auth 1 Full-Time Position, Prov for Oversight by the Jax Public Library (R.C. 27-021) (B.T. 27-021) (Loy, Jr.) (Req of the Mayor)\r\n11/10/26 CO Introduced: NCSPHS, F\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/24/26",
-   "max_amount": 203000.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 1.3,
-   "keywords": [
-    "library"
-   ],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Council",
-     "meeting_date": "2026-11-10"
-    },
-    {
-     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
-    }
-   ]
-  },
-  {
    "entity_id": "c-seminole",
    "government": "Seminole County",
    "client": "seminolecountyfl",
@@ -4070,31 +3850,6 @@
    ]
   },
   {
-   "entity_id": "m-northport",
-   "government": "North Port",
-   "client": "cityofnorthport",
-   "body": "City Commission Regular Meeting",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "F.",
-   "file_number": "26-1215",
-   "title": "Approve the Application to the U.S. Department of Justice Office of Community Oriented Policing Services Fiscal Year 2026 Law Enforcement Mental Health and Wellness Act (LEMHWA) Implementation Projects in the Amount of $200,000, and Authorize the City Manager or the Mayor, as Applicable Under the City Charter, to Execute all Funding Documents After Legal Review, Should the Grant be Awarded to the City.",
-   "max_amount": 200000.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 1.3,
-   "keywords": [],
-   "meeting_url": "https://cityofnorthport.legistar.com/MeetingDetail.aspx?LEGID=3752&GID=408&G=FED9DAC1-C02A-4668-A6AA-7D5B31BA7971",
-   "agenda_pdf": "https://legistar2.granicus.com/cityofnorthport/meetings/2026/11/3752_A_City_Commission_Regular_Meeting_26-11-10_Meeting_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Commission Regular Meeting",
-     "meeting_date": "2026-11-10"
-    }
-   ]
-  },
-  {
    "entity_id": "c-orange",
    "government": "Orange County",
    "client": "occompt",
@@ -4118,31 +3873,6 @@
     {
      "body": "Board of County Commissioners",
      "meeting_date": "2026-11-10"
-    }
-   ]
-  },
-  {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "Finance Committee",
-   "meeting_date": "2026-11-17",
-   "agenda_number": null,
-   "file_number": null,
-   "title": "AMENDMENT\r\nChange the coordinating department from Grants and Compliance Division to Animal Care and Protective Services Division\r\n\r\n\r\n\u2022 First Coast No More Homeless Pets (FCNMHP) was placed on the Non-Compliance List in October 2008 for not providing the required report for a grant of $215,000\r\n\u2022 FCNMHP currently provides the same services pursuant to agreements with the City that do not require compliance with Chapter 118\r\n",
-   "max_amount": 215000.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 1.3,
-   "keywords": [],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3822&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3822_A_Finance_Committee_26-11-17_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
     }
    ]
   },
@@ -4234,6 +3964,33 @@
    "client": "seminolecountyfl",
    "body": "Board of County Commissioners",
    "meeting_date": "2026-11-10",
+   "agenda_number": "16.",
+   "file_number": "2026-0926",
+   "title": "Approve and authorize staff to terminate the Non-Profit Capacity Building/Operating Cost and Supportive Services Agreement in the amount of $170,000 between Seminole County and Boys Town Central Florida, Inc. Countywide (Allison Thall, Community Services Director)",
+   "max_amount": 170000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.2,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://seminolecountyfl.legistar.com/MeetingDetail.aspx?LEGID=3595&GID=921&G=E2DF9C83-4A2C-4390-86EE-5C088F5B9D50",
+   "agenda_pdf": "https://seminolecountyfl.legistar1.com/seminolecountyfl/meetings/2026/11/3595_A_Board_of_County_Commissioners_26-11-10_Meeting_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-seminole",
+   "government": "Seminole County",
+   "client": "seminolecountyfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-10",
    "agenda_number": "28.",
    "file_number": "2026-0914",
    "title": "Approve and authorize the Chairman to execute the Economic Incentive Partnership Agreement between Seminole County and CareerSource Central Florida in the amount of $150,000.00 for the purpose of providing two tailored workforce development programs targeting young adults and adults in Seminole County. Countywide (Guilherme Cunha, Director, Economic Development & Tourism)",
@@ -4256,14 +4013,14 @@
    ]
   },
   {
-   "entity_id": "c-orange",
-   "government": "Orange County",
-   "client": "occompt",
-   "body": "Board of County Commissioners",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "1.",
-   "file_number": "26-1310",
-   "title": "Approval and execution of Amended and Restated Project Administration Agreements between Orange County, Florida and Homes In Partnership, Inc. regarding the Donation of County-owned Properties for the Construction of Permanent Affordable Housing in the amount of $25,000 per unit for a total of $150,000 and Future Leaders Community Development Corporation, Inc. in the amount of $25,000 per unit for a total of $100,000 and $82,000 for pre-development costs. District 2 and 6. (Housing and Community Development Division)",
+   "entity_id": "m-miramar",
+   "government": "Miramar",
+   "client": "miramar",
+   "body": "CITY COMMISSION REGULAR MEETING",
+   "meeting_date": "2026-11-18",
+   "agenda_number": "4.",
+   "file_number": "#R8805",
+   "title": "Temp. Reso. #R8805 authorizing the City Manager to execute an agreement and related documents between the City of Miramar and the State of Florida, Department of State, Division of Arts and Culture to secure a grant in the amount of $150,000.00 to support Miramar Cultural Center Arts & Cultural Programs. (Cultural Affairs Assistant Director Zakiya Kelley)",
    "max_amount": 150000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4271,14 +4028,14 @@
    "recipient": null,
    "signal_score": 1.2,
    "keywords": [
-    "construction"
+    "agreement"
    ],
-   "meeting_url": "https://occompt.legistar.com/MeetingDetail.aspx?LEGID=1804&GID=661&G=671217FC-A8C9-41BD-BA90-3804D546A607",
-   "agenda_pdf": "https://occompt.legistar1.com/occompt/meetings/2026/11/1804_A_Board_of_County_Commissioners_26-11-10_Board_of_County_Commissioners_Agenda.pdf",
+   "meeting_url": "https://miramar.legistar.com/MeetingDetail.aspx?LEGID=1275&GID=613&G=57B8BDD8-6449-424C-A934-A183396682C2",
+   "agenda_pdf": "https://miramar.legistar1.com/miramar/meetings/2026/11/1275_A_CITY_COMMISSION_REGULAR_MEETING_26-11-18_Meeting_Agenda.pdf",
    "appearances": [
     {
-     "body": "Board of County Commissioners",
-     "meeting_date": "2026-11-10"
+     "body": "CITY COMMISSION REGULAR MEETING",
+     "meeting_date": "2026-11-18"
     }
    ]
   },
@@ -4491,68 +4248,6 @@
     {
      "body": "Council Meeting",
      "meeting_date": "2026-11-18"
-    }
-   ]
-  },
-  {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "City Council",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "131.",
-   "file_number": "2026-0899",
-   "title": "ORD Reapprop $92,070.00 in CDBG Prog Funding btwn Prog Budget Line Items (B.T. 27-024) (Smith) (Req of Mayor)\r\n11/10/26 CO Introduced: NCSPHS, F \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/24/26",
-   "max_amount": 92070.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 1.0,
-   "keywords": [],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Council",
-     "meeting_date": "2026-11-10"
-    },
-    {
-     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
-    }
-   ]
-  },
-  {
-   "entity_id": "m-jacksonville",
-   "government": "Jacksonville",
-   "client": "jaxcityc",
-   "body": "City Council",
-   "meeting_date": "2026-11-10",
-   "agenda_number": "143.",
-   "file_number": "2026-0911",
-   "title": "ORD Approp $103,106.00 From Available Rev Balance in the Domestic Battery Surcharge Trust Fund (the \u201cFund\u201d) to Est the FY 2026-2027 Operating Budget for the Fund and to Prov Add\u2019l Training to Law Enforcement Personnel in Combating Domestic Violence (B.T. 27-023) (Dillard) (Req of Sheriff)\r\n11/10/26 CO Introduced: F\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/24/26",
-   "max_amount": 103106.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 1.0,
-   "keywords": [],
-   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Council",
-     "meeting_date": "2026-11-10"
-    },
-    {
-     "body": "Finance Committee",
-     "meeting_date": "2026-11-17"
     }
    ]
   },
@@ -4855,6 +4550,38 @@
     {
      "body": "Council Meeting",
      "meeting_date": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "Rules Committee",
+   "meeting_date": "2026-11-16",
+   "agenda_number": null,
+   "file_number": null,
+   "title": "\u2022 Appropriates $30,000 from unspent funding originally appropriated for a direct contract with Northeast Florida Immigrant Resource Alliance to fund a direct contract with the North Florida School of Special Education, Inc. (\u201cNFSSE\u201d) for the period of October 1, 2026 \u2013 September 30, 2027\r\n\u2022 NFSSE will use the funding to repair a walking and running track on their campus, pay a portion of the salaries for a physical education teacher, health and fitness coach, and fitness coordinator, and to purchase athletic equipment to support various physical education programs\r\n\u2022 Waives the requirement in Code Sec. 118.107 that City funds appropriated to nonprofit organizations shall be subject to a competitive evaluated award process in order to authorize a direct contract with the NFSSE\r\n",
+   "max_amount": 30000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 0.5,
+   "keywords": [
+    "contract",
+    "purchase"
+   ],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3726&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3726_A_Rules_Committee_26-11-16_Agenda.pdf",
+   "appearances": [
+    {
+     "body": "Rules Committee",
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Finance Committee",
+     "meeting_date": "2026-11-17"
     }
    ]
   },

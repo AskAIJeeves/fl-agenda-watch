@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-15T01:42:57+00:00",
+ "generated_utc": "2026-11-15T01:57:09+00:00",
  "sources": {
   "m-stpetersburg": {
    "name": "St. Petersburg",
@@ -577,7 +577,7 @@
     {
      "pdf": "https://www.stpete.org/2026-11-19 Agenda Packet (compressed).pdf?t=202611061050570",
      "pages": 400,
-     "hits": 60
+     "hits": 52
     },
     {
      "pdf": "https://www.stpete.org/2026-11-19 Council Agenda AddsDeletes.pdf?t=202611131409360",
@@ -587,7 +587,7 @@
     {
      "pdf": "https://www.stpete.org/2026-11-05 Agenda Packet w. Revised AddsDeletes.pdf?t=202611041055140",
      "pages": 400,
-     "hits": 60
+     "hits": 35
     },
     {
      "pdf": "https://www.stpete.org/2026-11-05 Council Agenda AddsDeletes.pdf?t=202611041054340",
@@ -597,7 +597,7 @@
     {
      "pdf": "https://www.stpete.org/2026-10-15 Agenda Packet w. Updated AddsDeletes.pdf?t=202610151351220",
      "pages": 400,
-     "hits": 34
+     "hits": 23
     },
     {
      "pdf": "https://www.stpete.org/2026-10-15 Council Agenda AddsDeletes.pdf?t=202610151312000",
@@ -607,7 +607,7 @@
     {
      "pdf": "https://www.stpete.org/2026-10-08 Agenda Packet w. AddsDeletes.pdf?t=202610021209320",
      "pages": 74,
-     "hits": 2
+     "hits": 1
     }
    ],
    "errors": [],
@@ -2878,7 +2878,7 @@
     {
      "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1611",
      "pages": 4,
-     "hits": 0
+     "hits": 1
     },
     {
      "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1619",
@@ -2903,7 +2903,7 @@
     {
      "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3659",
      "pages": 5,
-     "hits": 9
+     "hits": 8
     },
     {
      "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3654",
@@ -3363,16 +3363,6 @@
    ],
    "pdfs_found": 100,
    "scanned": [
-    {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=564",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=562",
-     "pages": 1,
-     "hits": 0
-    },
     {
      "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=560",
      "pages": 1,
@@ -4862,7 +4852,7 @@
     {
      "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1279",
      "pages": 6,
-     "hits": 1
+     "hits": 3
     },
     {
      "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1272",
@@ -4882,12 +4872,12 @@
     {
      "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1266",
      "pages": 1,
-     "hits": 1
+     "hits": 2
     },
     {
      "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1239",
      "pages": 357,
-     "hits": 31
+     "hits": 10
     }
    ],
    "errors": [],
@@ -4989,7 +4979,7 @@
     {
      "pdf": "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=1605",
      "pages": 144,
-     "hits": 13
+     "hits": 3
     },
     {
      "pdf": "https://tamarac.granicus.com/AgendaViewer.php?view_id=2&clip_id=1519",
@@ -5919,7 +5909,7 @@
     {
      "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=378",
      "pages": 1,
-     "hits": 0
+     "hits": 1
     },
     {
      "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=379",
@@ -6019,7 +6009,7 @@
     {
      "pdf": "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3782,plainText=false)",
      "pages": 396,
-     "hits": 4,
+     "hits": 1,
      "chars": 528780,
      "meeting_date": "2026-11-10"
     },
@@ -6033,7 +6023,7 @@
     {
      "pdf": "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3783,plainText=false)",
      "pages": 294,
-     "hits": 4,
+     "hits": 1,
      "chars": 333651,
      "meeting_date": "2026-11-10"
     },
@@ -6088,7 +6078,7 @@
     {
      "pdf": "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8169,plainText=false)",
      "pages": 245,
-     "hits": 2,
+     "hits": 0,
      "chars": 248513,
      "meeting_date": "2026-11-05"
     },
@@ -6116,7 +6106,7 @@
     {
      "pdf": "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8180,plainText=false)",
      "pages": 24,
-     "hits": 15,
+     "hits": 0,
      "chars": 65235,
      "meeting_date": "2026-11-12"
     },
@@ -6130,7 +6120,7 @@
     {
      "pdf": "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8177,plainText=false)",
      "pages": 94,
-     "hits": 3,
+     "hits": 1,
      "chars": 113135,
      "meeting_date": "2026-11-16"
     }
@@ -6182,7 +6172,7 @@
     {
      "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=307,plainText=false)",
      "pages": 79,
-     "hits": 3,
+     "hits": 0,
      "chars": 106603,
      "meeting_date": "2026-11-05"
     },
@@ -6210,7 +6200,7 @@
     {
      "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=367,plainText=false)",
      "pages": 16,
-     "hits": 12,
+     "hits": 8,
      "chars": 34977,
      "meeting_date": "2026-11-10"
     },
@@ -6246,14 +6236,14 @@
     {
      "pdf": "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7850,plainText=false)",
      "pages": 10,
-     "hits": 8,
+     "hits": 3,
      "chars": 17033,
      "meeting_date": "2026-11-17"
     },
     {
      "pdf": "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7855,plainText=false)",
      "pages": 400,
-     "hits": 34,
+     "hits": 15,
      "chars": 412236,
      "meeting_date": "2026-11-17"
     },
@@ -6327,14 +6317,14 @@
     {
      "pdf": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1082,plainText=false)",
      "pages": 3,
-     "hits": 0,
+     "hits": 1,
      "chars": 6073,
      "meeting_date": "2026-11-18"
     },
     {
      "pdf": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1083,plainText=false)",
      "pages": 400,
-     "hits": 60,
+     "hits": 29,
      "chars": 795291,
      "meeting_date": "2026-11-18"
     },
@@ -6348,7 +6338,7 @@
     {
      "pdf": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1079,plainText=false)",
      "pages": 108,
-     "hits": 60,
+     "hits": 36,
      "chars": 144559,
      "meeting_date": "2026-11-19"
     }
@@ -6398,7 +6388,7 @@
     {
      "pdf": "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10177,plainText=false)",
      "pages": 30,
-     "hits": 2,
+     "hits": 3,
      "chars": 67736,
      "meeting_date": "2026-11-05"
     },
@@ -6412,14 +6402,14 @@
     {
      "pdf": "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10188,plainText=false)",
      "pages": 5,
-     "hits": 8,
+     "hits": 0,
      "chars": 9583,
      "meeting_date": "2026-11-10"
     },
     {
      "pdf": "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10190,plainText=false)",
      "pages": 400,
-     "hits": 56,
+     "hits": 27,
      "chars": 562127,
      "meeting_date": "2026-11-10"
     },
@@ -6467,7 +6457,7 @@
     {
      "pdf": "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3338,plainText=false)",
      "pages": 12,
-     "hits": 9,
+     "hits": 10,
      "chars": 18502,
      "meeting_date": "2026-11-05"
     },
@@ -6488,7 +6478,7 @@
     {
      "pdf": "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3332,plainText=false)",
      "pages": 372,
-     "hits": 2,
+     "hits": 1,
      "chars": 315343,
      "meeting_date": "2026-11-09"
     },
@@ -6502,7 +6492,7 @@
     {
      "pdf": "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3347,plainText=false)",
      "pages": 15,
-     "hits": 5,
+     "hits": 4,
      "chars": 24197,
      "meeting_date": "2026-11-10"
     },
@@ -6516,7 +6506,7 @@
     {
      "pdf": "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3341,plainText=false)",
      "pages": 25,
-     "hits": 17,
+     "hits": 8,
      "chars": 52607,
      "meeting_date": "2026-11-10"
     }
@@ -6563,14 +6553,14 @@
     {
      "pdf": "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11227,plainText=false)",
      "pages": 30,
-     "hits": 17,
+     "hits": 15,
      "chars": 42774,
      "meeting_date": "2026-11-17"
     },
     {
      "pdf": "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11226,plainText=false)",
      "pages": 400,
-     "hits": 57,
+     "hits": 44,
      "chars": 630079,
      "meeting_date": "2026-11-17"
     },
@@ -6584,7 +6574,7 @@
     {
      "pdf": "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11232,plainText=false)",
      "pages": 248,
-     "hits": 2,
+     "hits": 0,
      "chars": 379442,
      "meeting_date": "2026-11-18"
     },
@@ -6610,7 +6600,7 @@
     {
      "pdf": "https://leecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=897,plainText=false)",
      "pages": 15,
-     "hits": 23,
+     "hits": 15,
      "chars": 31997,
      "meeting_date": "2026-11-17"
     },
@@ -6651,7 +6641,7 @@
     {
      "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5360,plainText=false)",
      "pages": 34,
-     "hits": 53,
+     "hits": 27,
      "chars": 64789,
      "meeting_date": "2026-11-05"
     },
@@ -6665,14 +6655,14 @@
     {
      "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5362,plainText=false)",
      "pages": 5,
-     "hits": 17,
+     "hits": 4,
      "chars": 4730,
      "meeting_date": "2026-11-09"
     },
     {
      "pdf": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5363,plainText=false)",
      "pages": 26,
-     "hits": 24,
+     "hits": 5,
      "chars": 48529,
      "meeting_date": "2026-11-09"
     },
@@ -6710,7 +6700,7 @@
      "pdf": "ar_-_November_19,_2026_2941_Agenda_11_19_2026_9_00_00_AM.pdf?documentType=1&meetingId=2941",
      "meeting": "City Council Regular - November 19, 2026",
      "pages": 23,
-     "hits": 37
+     "hits": 39
     },
     {
      "pdf": "ll_-_November_17,_2026_2986_Agenda_11_17_2026_1_30_00_PM.pdf?documentType=1&meetingId=2986",
@@ -6728,7 +6718,7 @@
      "pdf": "ar_-_November_12,_2026_2939_Agenda_11_12_2026_9_00_00_AM.pdf?documentType=1&meetingId=2939",
      "meeting": "CRA Regular - November 12, 2026",
      "pages": 11,
-     "hits": 2
+     "hits": 3
     },
     {
      "pdf": "ndum_-_November_5,_2026_3000_Agenda_11_5_2026_9_00_00_AM.pdf?documentType=1&meetingId=3000",
@@ -6740,7 +6730,7 @@
      "pdf": "ular_-_November_5,_2026_2938_Agenda_11_5_2026_9_00_00_AM.pdf?documentType=1&meetingId=2938",
      "meeting": "City Council Regular - November 5, 2026",
      "pages": 28,
-     "hits": 41
+     "hits": 40
     }
    ],
    "errors": []
@@ -6773,7 +6763,7 @@
      "pdf": "Board_of_Commissioners_2193_Agenda_11_16_2026_5_30_00_PM.pdf?documentType=1&meetingId=2193",
      "meeting": "Board of Commissioners",
      "pages": 16,
-     "hits": 8
+     "hits": 6
     },
     {
      "pdf": "ndian_Ridge_Villas_CFD_2206_Agenda_11_12_2026_6_00_00_PM.pdf?documentType=1&meetingId=2206",
@@ -6824,19 +6814,19 @@
      "pdf": "ssion___Public_Hearing_1979_Agenda_11_17_2026_9_00_00_AM.pdf?documentType=1&meetingId=1979",
      "meeting": "Tuesday \u2013 Consent   Discussion   Public Hearing",
      "pages": 7,
-     "hits": 12
+     "hits": 15
     },
     {
      "pdf": "ssion___Public_Hearing_1987_Agenda_11_18_2026_9_00_00_AM.pdf?documentType=1&meetingId=1987",
      "meeting": "Wednesday \u2013 Discussion   Public Hearing",
      "pages": 3,
-     "hits": 2
+     "hits": 0
     },
     {
      "pdf": "ussion___Public_Hearing_1989_Agenda_11_4_2026_9_00_00_AM.pdf?documentType=1&meetingId=1989",
      "meeting": "Wednesday - Consent   Discussion   Public Hearing",
      "pages": 8,
-     "hits": 13
+     "hits": 14
     }
    ],
    "errors": [],
@@ -6853,12 +6843,12 @@
     {
      "pdf": "https://discover.pbcgov.org/countycommissioners/Agenda_Master/20261110.pdf",
      "pages": 86,
-     "hits": 60
+     "hits": 53
     },
     {
      "pdf": "https://discover.pbcgov.org/countycommissioners/Agenda_Master/20261117.pdf",
      "pages": 37,
-     "hits": 47
+     "hits": 33
     }
    ],
    "errors": []
@@ -6881,7 +6871,7 @@
     {
      "pdf": "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/11-16-26/11-16-26 Agenda.pdf",
      "pages": 3,
-     "hits": 0
+     "hits": 1
     },
     {
      "pdf": "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/12-04-26/12-04-26 Agenda.pdf",
@@ -6894,46 +6884,6 @@
   "c-miamidade": {
    "name": "Miami-Dade County",
    "probed": [
-    [
-     5572,
-     "ok"
-    ],
-    [
-     5573,
-     "miss"
-    ],
-    [
-     5574,
-     "ok"
-    ],
-    [
-     5575,
-     "miss"
-    ],
-    [
-     5576,
-     "ok"
-    ],
-    [
-     5577,
-     "miss"
-    ],
-    [
-     5578,
-     "ok"
-    ],
-    [
-     5579,
-     "ok"
-    ],
-    [
-     5580,
-     "ok"
-    ],
-    [
-     5581,
-     "ok"
-    ],
     [
      5582,
      "miss"
@@ -6983,50 +6933,7 @@
      "miss"
     ]
    ],
-   "scanned": [
-    {
-     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5572.pdf",
-     "pages": 6,
-     "hits": 1,
-     "meeting_date": "2026-11-09"
-    },
-    {
-     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5574.pdf",
-     "pages": 9,
-     "hits": 2,
-     "meeting_date": "2026-11-10"
-    },
-    {
-     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5576.pdf",
-     "pages": 6,
-     "hits": 4,
-     "meeting_date": "2026-11-10"
-    },
-    {
-     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5578.pdf",
-     "pages": 19,
-     "hits": 8,
-     "meeting_date": "2026-11-12"
-    },
-    {
-     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5579.pdf",
-     "pages": 7,
-     "hits": 3,
-     "meeting_date": "2026-11-12"
-    },
-    {
-     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5580.pdf",
-     "pages": 67,
-     "hits": 18,
-     "meeting_date": "2026-11-17"
-    },
-    {
-     "pdf": "https://www.miamidade.gov/govaction/legistarfiles/Agendas/5581.pdf",
-     "pages": 11,
-     "hits": 0,
-     "meeting_date": "2026-11-19"
-    }
-   ],
+   "scanned": [],
    "errors": []
   }
  }
