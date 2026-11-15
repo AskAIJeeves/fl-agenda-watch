@@ -334,5 +334,6 @@
    "host": "okaloosacountyfl.iqm2.com"
   }
  ],
- "meeting_skip": "(?i)code enforcement|special magistrate|value adjustment|board of adjustment|cancel+ed|pre-?application|bid opening|nuisance abatement"
+ "meeting_skip": "(?i)code enforcement|special magistrate|value adjustment|board of adjustment|cancel+ed|pre-?application|bid opening|nuisance abatement",
+ "_escribe_note": "eScribe agenda PDFs sit behind a Cloudflare browser check; the reader uses the HTML agenda (item titles, no dollar amounts) and keeps titles with discretionary signals, outgoing grants or no-bid language."
 }

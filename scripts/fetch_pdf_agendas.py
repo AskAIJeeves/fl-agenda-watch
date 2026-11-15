@@ -62,14 +62,14 @@ def pdf_text(data, max_pages):
         except Exception: pages.append((i + 1, ""))
     return pages
 
-def passages(pages, min_amount=None):
+def passages(pages, min_amount=None, titles_only=False):
     """Split pages into item-sized chunks; keep those the shared rules flag. Returns (page, tags, text)."""
     out = []
     for pno, txt in pages:
         chunks = re.split(r"\n\s*\n|(?=\n\s*(?:\d{1,3}|[A-Z])[\.\)]\s)", txt)
         for ch in chunks:
             ch = " ".join(ch.split())
-            tags = rules.classify(ch)
+            tags = rules.classify(ch, titles_only=titles_only)
             if tags: out.append((pno, tags, ch[:1200]))
     seen, uniq = set(), []
     for p in sorted(out, key=lambda x: -x[1]["signal_score"]):
@@ -155,7 +155,7 @@ def scan_platforms(cfg, store, seen, debug, now):
                     except Exception as e: d["errors"].append(f"filestream: {e}")
                 if data and data[:4] == b"%PDF": pages = pdf_text(data, cfg["max_pages_per_pdf"]); src = fu
                 else: pages = html_text(page); src = mu
-                hits = passages(pages)[:60]
+                hits = passages(pages, titles_only=(src == mu))[:60]
                 for pno, tags, ch in hits:
                     store["items"].append({"entity_id": g["entity_id"], "government": g["name"], "client": "escribe", "body": m["MeetingName"],
                         "meeting_date": mdate, "agenda_number": f"p.{pno}", "file_number": None, "title": ch, **tags,
@@ -185,7 +185,7 @@ def scan_platforms(cfg, store, seen, debug, now):
     # iQM2: calendar RSS (HTML view), meeting detail page, agenda FileOpen Type=1
     for g in cfg.get("iqm2", []):
         d = debug[g["entity_id"] + ":iqm2"] = {"name": g["name"], "platform": "iqm2", "meetings": 0, "scanned": [], "errors": []}
-        try: portal = fetch(f"https://{g['host']}/Citizens/Default.aspx")
+        try: portal = OPENER.open(urllib.request.Request(f"https://{g['host']}/Citizens/Default.aspx", headers=UA), timeout=180).read().decode("utf-8", "replace")
         except Exception as e: d["errors"].append(f"portal: {e}"); continue
         ids = sorted({int(x) for x in re.findall(r"Detail_Meeting\.aspx\?ID=(\d+)", portal)}, reverse=True)[:25]
         out = []

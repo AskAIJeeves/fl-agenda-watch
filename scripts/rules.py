@@ -36,7 +36,7 @@ def norm(name):
     n = re.sub(r"(?i)\b(inc|incorporated|corp|corporation|llc|co|the|of|and|&)\b\.?", " ", name or "")
     return " ".join(re.sub(r"[^a-z0-9 ]", " ", n.lower()).split())
 
-def classify(text):
+def classify(text, titles_only=False):
     """Return None to drop, else a dict of tags. Wide net: $25K+ spending actions, any outgoing grant, any bypass of competition."""
     if not text or len(text) < 30: return None
     amts = [a for a in amounts(text) if a <= CFG["max_plausible_amount"]]
@@ -50,6 +50,8 @@ def classify(text):
     routine = bool(ROUTINE.search(text)) and not (outgoing or bypass or sig)
     action = bool(ACTION.search(text))
     keep = outgoing or bypass or (decision and not is_table and top is not None and top >= CFG["capture_min"] and not routine)
+    if titles_only and not keep:   # agenda pages that list item titles without dollar amounts (eScribe)
+        keep = bool(sig) and not routine
     if not keep: return None
     score = sum(W.get(k, 0) for k in sig) + (W["outgoing_grant"] if outgoing else 0) + (W["bypass"] if bypass else 0)
     score += round(math.log10(top) - 4, 1) if top and top > 10000 else 0      # $100K +1, $1M +2, $10M +3
