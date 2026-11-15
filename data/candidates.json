@@ -1,9 +1,9 @@
 {
- "generated_utc": "2026-11-15T03:24:45+00:00",
+ "generated_utc": "2026-11-15T03:56:37+00:00",
  "counts": {
-  "pool": 1512,
-  "outgoing_grants": 409,
-  "bypass": 189,
+  "pool": 1556,
+  "outgoing_grants": 426,
+  "bypass": 197,
   "other_top": 150
  },
  "outgoing_grants": [
@@ -890,6 +890,31 @@
    "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
    "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1175",
    "found_utc": "2026-11-15T03:12:11+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Special City Commission Meeting - Second Budget Hearing - Sep 23, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.29",
+   "file_number": null,
+   "title": "13 Department Highlights Utilities Department Public Works/Facilities Maintenance \u2022 New Programs \u2022 Public Safety Fountain Repurposing \u2022 City Hall Historical Museum \u2022 ADA Facilities Enhancements \u2022 Remodel Office Space - 4th Floor Fire Rescue Non-Departmental \u2022 Programs \u2022 Continued Funding for Public Art Program \u2022 Continuation of On-Demand Transportation Services \u2022 Replacement Capital Outlay \u2022 Fire Station 83 Roof \u2022 Switchgear Panel \u2022 Irrigation Pump at Oscar Wind Park",
+   "max_amount": null,
+   "signals": [
+    "facilities",
+    "vanity"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Public Art Program",
+   "signal_score": 5,
+   "keywords": [
+    "city hall"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1169",
+   "found_utc": "2026-11-15T03:45:03+00:00"
   },
   {
    "entity_id": "c-escambia",
@@ -2644,6 +2669,50 @@
    "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
    "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1175",
    "found_utc": "2026-11-15T03:12:11+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Special Tax District No. 1 - Second Budget Hearing - Sep 23, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.8",
+   "file_number": null,
+   "title": "SPECIAL TAX DISTRICT NO. 1 OF THE CITY OF SUNRISE, FLORIDA ORDINANCE NO. AN ORDINANCE OF SPECIAL TAX DISTRICT NO. 1 OF THE CITY OF SUNRISE, FLORIDA, ADOPTING A BUDGET FOR THE 2025/2026 FISCAL YEAR BASED UPON THE ESTIMATE OF REVENUES AND REQUESTED APPROPRIATIONS AS SUBMITTED BY THE DISTRICT MANAGER; PROVIDING FOR CONFLICT; PROVIDING FOR SEVERABILITY; AND PROVIDING AN EFFECTIVE DATE. WHEREAS, the estimate of revenues and requested appropriations for Special Tax District No. 1 of the City of Sunrise, Florida for the fiscal year commencing on October 1, 2025, and ending September 30, 2026, has been prepared by the District Manager and submitted to the Board of Supervisors as required by the District Charter; and WHEREAS, public hearings on the fiscal year 2025/2026 budget have been advertised and conducted pursuant to law. NOW THEREFORE, BE IT ORDAINED BY THE BOARD OF SUPERVISORS OF SPECIAL TAX DISTRICT NO. 1 OF THE CITY OF SUNRISE, FLORIDA: Section 1. Budget Adoption. The estimate of revenues and requested appropriations for the fiscal year 2025/2026 for Special Tax District No. 1 of the City of Sunrise, Florida, as set forth in the annual budget attached to and made a part of this Or",
+   "max_amount": null,
+   "signals": [
+    "vanity"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Special Tax District No",
+   "signal_score": 4,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1170",
+   "found_utc": "2026-11-15T03:45:03+00:00"
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "Community Redevelopment Agency Board - Feb 10, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "N. Approval of the Commercial Business Marketing Grant Program in the amount of $2,500 to Shiny Touch Nails located in Ocean Palm Plaza at 1550 N. Federal Highway, #15, Boynton Beach, FL 33435",
+   "max_amount": 2500.0,
+   "signals": [
+    "vanity"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Shiny Touch Nails",
+   "signal_score": 4,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=335",
+   "found_utc": "2026-11-15T03:45:03+00:00"
   },
   {
    "entity_id": "m-tallahassee",
@@ -4686,6 +4755,26 @@
    "found_utc": "2026-11-15T02:19:31+00:00"
   },
   {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "Community Redevelopment Agency Board (Monday, not the usual Tuesday) - Mar 09, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "F. Approval of the Commercial Property Improvement Grant Program in the Amount of $60,000 to WhatSub Boynton LLC located in Riverwalk Plaza at 630 E.Woolbright Road, Suite G",
+   "max_amount": 60000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "WhatSub Boynton LLC",
+   "signal_score": 2.8,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=340",
+   "found_utc": "2026-11-15T03:45:03+00:00"
+  },
+  {
    "entity_id": "m-sunrise",
    "government": "Sunrise",
    "client": "pdf",
@@ -5109,6 +5198,28 @@
    "found_utc": "2026-11-15T03:12:11+00:00"
   },
   {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Local Planning Agency - Sep 23, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.5",
+   "file_number": null,
+   "title": "The major revisions within the Fourth Amended and Restated Development Agreement are as follows: Provides for a $50,000 contribution to the City of Sunrise to be used toward the Stormwater Pump Station No. 8 Rehabilitation Project with release of conservation easement Updates Metropica Long Term Development Plan to update the roadway pattern, pod configuration, creation of an infrastructure area, and to allow each pod to be developed independently of other pods Revision to Landscape Plan to include hardscape and timing requirements when improvements are required to be constructed Addition of Special Events section to acknowledge streets can be temporarily closed for festivals and the like subject to City permits Updates Off-site Improvements to be consistent with revised Metropica Long Term Development Plan Updates Off-site improvements to remove transit station obligation consistent with proposed DRI DO amendment and include developers\u2019 funding commitment to participate in the existing City\u2019s on-demand shuttle service (Freebee)",
+   "max_amount": 50000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Landscape Plan",
+   "signal_score": 2.7,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1167",
+   "found_utc": "2026-11-15T03:45:03+00:00"
+  },
+  {
    "entity_id": "c-lee",
    "government": "Lee County",
    "client": "civicclerk",
@@ -5301,6 +5412,46 @@
    "found_utc": "2026-11-15T03:12:11+00:00"
   },
   {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "Community Redevelopment Agency Board (Monday, not the usual Tuesday) - Mar 09, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "E. Approval of the Commercial Rent Reimbursement Grant Program in the Amount of $24,000 to WhatSub Boynton LLC located in Riverwalk Plaza at 630 E. Woolbright Road, Suite G",
+   "max_amount": 24000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "WhatSub Boynton LLC",
+   "signal_score": 2.4,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=340",
+   "found_utc": "2026-11-15T03:45:03+00:00"
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "Community Redevelopment Agency Board - Feb 10, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "I. Approval of the Commercial Property Improvement Grant Program in the Amount of $25,000 to A&A Investments located at 332 W. Boynton Beach Boulevard",
+   "max_amount": 25000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "A&A Investments",
+   "signal_score": 2.4,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=335",
+   "found_utc": "2026-11-15T03:45:03+00:00"
+  },
+  {
    "entity_id": "m-kissimmee",
    "government": "Kissimmee",
    "client": "civicclerk",
@@ -5341,6 +5492,26 @@
    "meeting_url": "https://tarponspringsfl.portal.civicclerk.com/",
    "agenda_pdf": "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3798,plainText=false)",
    "found_utc": "2026-11-15T02:19:31+00:00"
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "Community Redevelopment Agency Board - Feb 10, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "J. Approval of the Commercial Rent Reimbursement Grant Program in the Amount of $19,200 to Second Rodeo Hospitality LLC d/b/a Second Rodeo located in Ocean Plaza at 640 E. Ocean Avenue, Unit 5-6",
+   "max_amount": 19200.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Second Rodeo Hospitality LLC",
+   "signal_score": 2.3,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=335",
+   "found_utc": "2026-11-15T03:45:03+00:00"
   },
   {
    "entity_id": "m-kissimmee",
@@ -8942,6 +9113,201 @@
    "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
    "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=347",
    "found_utc": "2026-11-15T03:12:11+00:00"
+  },
+  {
+   "entity_id": "m-coralsprings",
+   "government": "Coral Springs",
+   "client": "pdf",
+   "body": "Coral Springs City Commission Regular Meeting - Mar 30, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.2",
+   "file_number": null,
+   "title": "6. Agreement Between Broward County and the City of Coral Springs for Swim Central Water Safety Instruction and Education (Robert Hunter) Request to approve the agreement between Broward County and the City of Coral Springs for Swim Central Water Safety Instruction and Education. Funding Source: Funded by External Agency - No Cost to City. Strategic Goal: An Active, Healthy Community. (REQUEST TO APPROVE)",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Swim Central Water Safety Instruction and Education",
+   "signal_score": 2,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://coralsprings.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=302",
+   "found_utc": "2026-11-15T03:45:03+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Special City Commission Meeting - Second Budget Hearing - Sep 23, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.4",
+   "file_number": null,
+   "title": "ATTACHMENTS: Description ATY Resolution - C25224 DR-420 - Millage DR-420DEBT - Form Background: The current FY 2024/2025 adopted millage rate is 6.0543 mills. On September 10, 2025, the City Commission adopted a tentative millage rate of 6.0543 mills for FY 2025/2026. This rate is the same as the current adopted millage rate and is 7.23% more than the roll-back rate of 5.6463 mills. The gross taxable value of property in the City, to be utilized for the next fiscal year's budget, including new construction, is $11,584,204,638. The Resolution adopts the final ad valorem tax levy necessary to fund the FY 2025/2026 budget for the City. In November 2014, residents voted and approved funding for the General Obligation Bonds for development, design, acquisition, and construction for certain parks, recreation and leisure projects within the City. On September 10, 2025, the City Commission adopted a tentative millage rate of .3019 mills for the annual debt service for FY 2025/2026. The Resolution adopts the final voter approved debt service tax levy necessary to fund the FY 2025/2026 budget for the debt service necessary to pay principal and interest on the General Obligation Bonds. It sho",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "General Obligation Bonds for",
+   "signal_score": 2,
+   "keywords": [
+    "bonds",
+    "construction",
+    "debt"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1169",
+   "found_utc": "2026-11-15T03:45:03+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Local Planning Agency - Sep 23, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.84",
+   "file_number": null,
+   "title": "QEWXIV#TPER#HIWMKR#VIKYPEXMSRW Witxiqfiv#</#5358 Exhibit C Teki#76#sj#7;#Tekiw# a. Preference shall be shown in the plan for preservation and on site relocation of healthy trees; b. For trees that cannot be preserved or relocated on site, Owners shall propose to relocate and/or donate an equivalent canopy square footage of new trees to the City of Sunrise, or adopt a City of Sunrise park after consultation and consent of the City of Sunrise and plant an equivalent number of relocated and new trees in said park; c. In the event Owners cannot relocate a sufficient number of trees, and/or donate a sufficient number of new trees, Owners shall make a cash contribution to the City\u2019s Reforestation Account at a rate of $600 per 300 square feet of canopy removed. Does not apply to former 8 acre Conservation Area on Pod(s) B2, B4, B5, B6, and B7 (See Section 15.E.2 Landscape Requirements). d. . e. The tree removal, relocation, and replacement plan may be phased, provided Owners complete all components of the plan prior to issuance of a final certificate of occupancy for the last vertical structure; f. All relocation and planting of new trees on City of Sunrise property shall comply with Sect",
+   "max_amount": 600.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1167",
+   "found_utc": "2026-11-15T03:45:03+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Local Planning Agency - Sep 23, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.315",
+   "file_number": null,
+   "title": "a. Preference shall be shown in the plan for preservation and on site relocation of healthy trees; b. For trees that cannot be preserved or relocated on site, Owners shall propose to relocate and/or donate an equivalent canopy square number ofootage of n new trees to the City of Sunrise, or adopt a City of Sunrise park after consultation and consent of the City of Sunrise and plant an equivalent number of relocated and new trees in said park; c. In the event Owners cannot relocate a sufficient number of trees, and/or donate a sufficient number of new trees, Owners shall obtain a tree appraisal by an independent certified arborist for the trees proposed to be completely removed and make a cash contribution to the City of Sunrise Reforestation Account in an amount equal to the tree appraisal amount;Owners shall make a cash contribution to the City\u2019s Reforestation Account at a rate of $600 per 300 square feet of canopy removed. Does not apply to former 8 acre Conservation Area on Pod(s) B2, B4, B5, B6, and B7 (See Section 15.E.2 Landscape Requirements). d. . e. The tree removal, relocation, and replacement plan may be phased, provided Owners complete all components of the plan prior t",
+   "max_amount": 600.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1167",
+   "found_utc": "2026-11-15T03:45:03+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Local Planning Agency - Sep 23, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.316",
+   "file_number": null,
+   "title": "tree appraisal by an independent certified arborist for the trees proposed to be completely removed and make a cash contribution to the City of Sunrise Reforestation Account in an amount equal to the tree appraisal amount; iv. The tree removal, relocation, and replacement plan may be phased, provided Owners complete all components of the plan prior to issuance of a final certificate of occupancy for the last vertical structure in Pods B or C; v. All relocation and planting of new trees on City of Sunrise property shall comply with Section 16-172 of the City of Sunrise Land Development Code.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1167",
+   "found_utc": "2026-11-15T03:45:03+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Special City Commission Meeting - First Budget Hearing - Sep 10, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.4",
+   "file_number": null,
+   "title": "ATTACHMENTS: Description ATY Resolution - C25204 DR-420 - Millage DR-420DEBT - Form Background: The current FY 2024/2025 adopted millage rate is 6.0543 mills. On July 8, 2025, the City Commission authorized a tentative millage rate of 6.0543 mills for FY 2025/2026. This rate is the same as the current adopted millage rate and is 7.23% more than the roll-back rate of 5.6463 mills. The gross taxable value of property in the City, to be utilized for the next fiscal year's budget, including new construction, is $11,584,204,638. The proposed Resolution adopts the tentative ad valorem tax levy necessary to fund the FY 2025/2026 budget for the City. In November 2014, residents voted and approved funding for the General Obligation Bonds for development, design, acquisition, and construction for certain parks, recreation and leisure projects within the City. On July 8, 2025, the City Commission authorized a tentative millage rate of .3019 mills for the annual debt service for FY 2025/2026. The proposed Resolution adopts the voter approved debt service tax levy necessary to fund the FY 2025/2026 budget for the debt service necessary to pay principal and interest on the General Obligation Bon",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "General Obligation Bonds for",
+   "signal_score": 2,
+   "keywords": [
+    "bonds",
+    "construction",
+    "debt"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1161",
+   "found_utc": "2026-11-15T03:45:03+00:00"
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "Community Redevelopment Agency Board (Monday, not the usual Tuesday) - Mar 09, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "C. Consideration of the Revision to \"Exhibit A\" to the Interlocal Agreement between the Boynton Beach CRA and the City of Boynton Beach for Funding Construction and Professional Services for Additional Funding for the Demolition of 480 W. Boynton Beach Blvd.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Interlocal Agreement",
+   "signal_score": 2,
+   "keywords": [
+    "agreement",
+    "construction"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=340",
+   "found_utc": "2026-11-15T03:45:03+00:00"
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "Community Redevelopment Agency Board - Feb 10, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "F. Bond Funding for Property Acquisition",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Property Acquisition",
+   "signal_score": 2,
+   "keywords": [
+    "bond"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=335",
+   "found_utc": "2026-11-15T03:45:03+00:00"
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "Community Redevelopment Agency Board - Feb 10, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "M. Approval of the Increase in Design Fees and Waiver for the Proof of Payment Date for the Commercial Property Improvement Grant Program in the Amount of $2,806 to Forward Leaders Group, LLC d/b/a Big John's To-Go located in Heart of Boynton Shops at 137 NE 10th Avenue, Unit 105",
+   "max_amount": 2806.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Proof of Payment Date for the Commercial Property Improvement Grant",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=335",
+   "found_utc": "2026-11-15T03:45:03+00:00"
   }
  ],
  "bypass_competition": [
@@ -10133,6 +10499,29 @@
    "found_utc": "2026-11-15T03:12:11+00:00"
   },
   {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Feb 17, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "A. Proposed Resolution No. R26-027- Approving the sole source purchase of software licenses with Peregrine Technologies, Inc., in an amount not to exceed $370,900.",
+   "max_amount": 370900.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.6,
+   "keywords": [
+    "purchase",
+    "sole source"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=336",
+   "found_utc": "2026-11-15T03:45:03+00:00"
+  },
+  {
    "entity_id": "m-clearwater",
    "government": "Clearwater",
    "client": "clearwater",
@@ -10736,6 +11125,28 @@
    "entity_id": "m-boyntonbeach",
    "government": "Boynton Beach",
    "client": "pdf",
+   "body": "City Commission - Feb 03, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "A. Proposed Resolution No. R26-021- Approving a renewal agreement and annual service and expenditure with Motorola, Inc. for the continued maintenance and repair of the City's P25 radio telecommunications systems as a sole-source vendor with an expenditure not to exceed $200,000 annually for the next five years.",
+   "max_amount": 200000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.3,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=333",
+   "found_utc": "2026-11-15T03:45:03+00:00"
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
    "body": "City Commission - Oct 20, 2026",
    "meeting_date": null,
    "agenda_number": "p.1",
@@ -10872,6 +11283,29 @@
    "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
    "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=349",
    "found_utc": "2026-11-15T03:12:11+00:00"
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Mar 03, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "B. Proposed Resolution No. R26-032- Approving a Piggyback Agreement between the City and Herc Rentals, Inc. for Rental Equipment, Products, and Related Services in an amount not to exceed $150,000 per year.",
+   "max_amount": 150000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.2,
+   "keywords": [
+    "agreement",
+    "piggyback"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=339",
+   "found_utc": "2026-11-15T03:45:03+00:00"
   },
   {
    "entity_id": "c-lee",
@@ -13386,6 +13820,119 @@
    "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
    "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=343",
    "found_utc": "2026-11-15T03:12:11+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Sep 23, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "A Resolution of the City of Sunrise, Florida, approving \u201cPiggyback Agreement No. 25-15-07-CM between the City of Sunrise and Blue Line Solutions LLC\u201d for School Zone Speed Enforcement Program utilizing City of Wauchula Professional Services Agreement; and providing an effective date. City Manager Mark Lubelski. Daniel Ransone, Chief of Police.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "agreement",
+    "piggyback"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1168",
+   "found_utc": "2026-11-15T03:45:03+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Special City Commission Meeting - Sep 15, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "A Resolution of the City of Sunrise, Florida, approving the purchase of Indoor and Outdoor Athletic Equipment for Gymnasium Improvements from List Industries Inc. D/B/A Storagecraft as the Sole Source provider for Draper, Inc. products; and providing an effective date. Mark Lubelski, City Manager. Kevin Pickard, Director of Leisure Services.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "purchase",
+    "sole source"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1165",
+   "found_utc": "2026-11-15T03:45:03+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Special City Commission Meeting - Sep 15, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "A Resolution of the City of Sunrise, Florida, approving \u201cStandard Contract No. C 25-29-02-CM between the City of Sunrise, Florida and ABB Inc. for the Purchase of Maintenance, Repair and Replacement Services, and Equipment for ABB Power Delivery Equipment\u201d as the Sole Source provider; and providing an effective date; and providing an effective date. City Manager Mark Lubelski. Rodrigo de Castro, Director of Utilities.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "contract",
+    "purchase",
+    "sole source"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1165",
+   "found_utc": "2026-11-15T03:45:03+00:00"
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Feb 17, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "B. Proposed Resolution No. R26-028- Approve Amendment No. 1 to the Piggyback Agreement between the City and IPS Group, Inc. for parking management solutions for the City's parking enforcement services.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "agreement",
+    "piggyback"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=336",
+   "found_utc": "2026-11-15T03:45:03+00:00"
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Feb 03, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "B. Approve the annual expenditure and authorize the Mayor to sign the renewal amendments for RFPs/Bids and/or piggybacks for the procurement of services and/or commodities as described in Exhibit A for February 3, 2026 - Amendment Request for Bid Extensions and/or Piggybacks.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=333",
+   "found_utc": "2026-11-15T03:45:03+00:00"
   }
  ],
  "other": [
@@ -15128,6 +15675,30 @@
    "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
    "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1207",
    "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-dunedin",
+   "government": "Dunedin",
+   "client": "pdf",
+   "body": "COMMUNITY REDEVELOPMENT AGENCY - Mar 19, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "1. BUSINESS 1.a The Draft Minutes from the January 22, 2026 Community Redevelopment Agency 1.b CRA Resolution 26-01 FY 2026 Community Redevelopment Agency Carryforward Budget Amendment in the amount of $2,396,582.66 1.c Fiscal Year 2025 Community Redevelopment Annual Report 1.d Community Redevelopment Agency Advisory Committee Membership Recommendation 1.e Community Redevelopment Agency Advisory Committee Chair's Report NOTICE OF PUBLIC MEETING COMMUNITY REDEVELOPMENT AGENCY CITY HALL, 737 LOUDEN AVE. MARCH 19, 2026 4:30 PM AGENDA AGENDA CALL TO ORDER CITIZEN INPUT",
+   "max_amount": 2396582.0,
+   "signals": [
+    "facilities"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 3.4,
+   "keywords": [
+    "city hall"
+   ],
+   "meeting_url": "https://dunedin.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3547",
+   "found_utc": "2026-11-15T03:45:03+00:00"
   },
   {
    "entity_id": "c-polk",
@@ -16934,31 +17505,6 @@
    "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
    "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1179",
    "found_utc": "2026-11-15T03:12:11+00:00"
-  },
-  {
-   "entity_id": "m-northport",
-   "government": "North Port",
-   "client": "cityofnorthport",
-   "body": "Road and Drainage District Governing Body",
-   "meeting_date": "2026-11-17",
-   "agenda_number": "B.",
-   "file_number": "26-1228",
-   "title": "Approve Amendment No. 3 to Work Assignment 2022-18PW.01 with Rostan Solutions, LLC for Assistance with Federal Emergency Management Agency Reimbursement and Other Grants Management Services After Hurricane Ian in the Amount of $500,000 for a Total Amount of $4,500,000.",
-   "max_amount": 4500000.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2.7,
-   "keywords": [],
-   "meeting_url": "https://cityofnorthport.legistar.com/MeetingDetail.aspx?LEGID=3786&GID=408&G=FED9DAC1-C02A-4668-A6AA-7D5B31BA7971",
-   "agenda_pdf": "https://legistar2.granicus.com/cityofnorthport/meetings/2026/11/3786_A_Road_and_Drainage_District_Governing_Body_26-11-17_Meeting_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "Road and Drainage District Governing Body",
-     "meeting_date": "2026-11-17"
-    }
-   ]
   }
  ]
 }
