@@ -1,0 +1,39 @@
+{
+  "_about": "Curated list of large approved projects whose money is mostly unspent. The daily digest flags any agenda item or news story that touches one. Every figure needs a source; update status when a new vote happens.",
+  "projects": [
+    {
+      "id": "ftl-city-hall",
+      "government": "City of Fort Lauderdale",
+      "project": "New City Hall (developer-built, FTL City Hall Partners)",
+      "keywords": ["city hall", "FTL City Hall Partners", "interim agreement", "comprehensive agreement", "government center"],
+      "total_cost": 217100000,
+      "annual_payment": 15800000,
+      "term_years": 30,
+      "votes": [
+        {"date": "2026-07-02", "body": "City Commission", "result": "3-2", "action": "Approved preliminary interim agreement; does not commit the city to the project or a comprehensive agreement"}
+      ],
+      "status": "Preliminary approval; comprehensive agreement vote still ahead",
+      "next_decision": "Comprehensive agreement vote (date not yet known)",
+      "sources": [
+        "https://therealdeal.com/miami/2026/07/07/fort-lauderdale-oks-217-million-city-hall-development/",
+        "https://therealdeal.com/miami/2026/06/26/fort-lauderdale-city-hall-construction-item-back-for-a-vote/",
+        "https://www.gflalliance.org/news/2026/07/07/in-the-news/fort-lauderdale-backs-217-million-plan-for-new-city-hall-over-downtown-tower-renovations/"
+      ]
+    },
+    {
+      "id": "broward-gov-center",
+      "government": "Broward County",
+      "project": "New Broward County Government Center",
+      "keywords": ["government center", "governmental center"],
+      "total_cost": 322000000,
+      "votes": [
+        {"date": "2023-11", "body": "County Commission", "result": "7-1", "action": "Approved construction of new government center"}
+      ],
+      "status": "Approved; spending status to be verified",
+      "next_decision": "To be determined",
+      "sources": [
+        "https://flvoicenews.com/?p=67809"
+      ]
+    }
+  ]
+}
