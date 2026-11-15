@@ -32,3 +32,10 @@ jobs:
           git diff --cached --quiet || git commit -m "Agenda data $(date -u +%F)"
           git pull --rebase -X theirs || true
           git push
+      - name: Publish SQLite database as a release asset (not committed to git)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python scripts/build_sqlite.py
+          gh release view db >/dev/null 2>&1 || gh release create db --title "Agenda database (rebuilt nightly)" --notes "SQLite build of data/archive. Download fl_agenda.sqlite and open with DB Browser for SQLite."
+          gh release upload db data/fl_agenda.sqlite --clobber
