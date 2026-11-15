@@ -75,6 +75,7 @@ def scan(gov, cfg, now):
                         "title": (it.get("EventItemTitle") or "")[:1500], **tags,
                         "keywords": sorted({m.group(0).lower() for m in KEYWORDS.finditer(text)}),
                         "meeting_url": ev.get("EventInSiteURL"), "agenda_pdf": ev.get("EventAgendaFile"),
+                        "item_url": (f"https://{client}.legistar.com/gateway.aspx?M=L&ID={it['EventItemMatterId']}" if it.get("EventItemMatterId") else ev.get("EventInSiteURL")),
                     })
         return {"status": "ok", "client": client, "events": len(events), "flagged": len(items)}, items
     return {"status": "failed", "error": last_err}, []

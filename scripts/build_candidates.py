@@ -14,7 +14,16 @@ def load(name):
 EARLY = __import__("re").compile(r"(?i)workshop|work session|budget hearing|budget workshop|retreat|committee of the whole|agenda review|strategic planning")
 DEBT = __import__("re").compile(r"(?i)\b(bonds?|loan|debt|refund(ing)?|line of credit|note[s]? payable|financing)\b")
 
+def best_link(it):
+    """Most specific link: the item's own page, else the PDF opened at the right page, else the meeting page."""
+    if it.get("item_url"): return it["item_url"]
+    pdf, pg = it.get("agenda_pdf"), str(it.get("agenda_number") or "")
+    if pdf and pg.startswith("p.") and "#" not in pdf and not pdf.endswith("lang=English"):
+        return f"{pdf}#page={pg[2:]}"
+    return pdf or it.get("meeting_url")
+
 def tag_stage_category(it, today):
+    it["link"] = best_link(it)
     md = it.get("meeting_date")
     days = (datetime.fromisoformat(md).date() - today).days if md else None
     early = bool(EARLY.search(it.get("body") or ""))
@@ -63,6 +72,7 @@ def main():
                       "by_category": dict(Counter(c for x in pool for c in x["categories"]))},
            "upcoming": sorted([x for x in pool if x["stage"] in ("upcoming", "early_warning")], key=lambda x: (x["days_until_meeting"], -(x.get("signal_score") or 0)))[:200],
            "outgoing_grants": grants, "bypass_competition": bypass, "other": rest}
+    out["counts"]["missing_link"] = sum(1 for x in pool if not x.get("link"))
     (ROOT / "data/candidates.json").write_text(json.dumps(out, indent=1))
 
     # running ledger of outgoing grant recipients (all time, all governments)
