@@ -115,7 +115,7 @@ def scan_platforms(cfg, store, seen, debug, now):
         d = debug[g["entity_id"] + ":civicweb"] = {"name": g["name"], "platform": "civicweb", "meetings": 0, "scanned": [], "errors": []}
         try: ms = json.loads(fetch(f"https://{g['host']}/Services/MeetingsService.svc/meetings?from={t0}&to={t1}"))
         except Exception as e: d["errors"].append(f"list: {e}"); continue
-        ms = [m for m in ms if m.get("Published") and not skip.search(m.get("Name", ""))]; d["meetings"] = len(ms)
+        ms = [m for m in ms if not skip.search(m.get("Name", "")) and m.get("MeetingDate", "") <= (now + timedelta(days=21)).date().isoformat()]; d["meetings"] = len(ms)
         n = 0
         for m in ms:
             if n >= cap: break
@@ -141,8 +141,16 @@ def scan_platforms(cfg, store, seen, debug, now):
         for m in ms:
             if n >= cap: break
             mdate = (m.get("StartDate") or "")[:10].replace("/", "-")
-            u = f"https://{g['host']}/Meeting.aspx?Id={m['ID']}&Agenda=Agenda&lang=English"
-            if u not in seen: scan_doc(store, seen, d, cfg, now, g["entity_id"], g["name"], "escribe", m["MeetingName"], mdate, u, u); n += 1
+            mu = f"https://{g['host']}/Meeting.aspx?Id={m['ID']}&Agenda=Agenda&lang=English"
+            u = mu
+            try:
+                page = fetch(mu)
+                pdfs = re.findall(r'(FileStream\.ashx\?DocumentId=\d+)', page)
+                d.setdefault("pages_seen", []).append({"meeting": m["MeetingName"], "chars": len(page), "filestreams": pdfs[:5]})
+                if pdfs: u = f"https://{g['host']}/{pdfs[0]}"
+            except Exception as e:
+                d["errors"].append(f"meeting page: {e}")
+            if u not in seen: scan_doc(store, seen, d, cfg, now, g["entity_id"], g["name"], "escribe", m["MeetingName"], mdate, u, mu); n += 1
     # PrimeGov: upcoming + this year's archive JSON; compiled agenda PDF per meeting
     for g in cfg.get("primegov", []):
         d = debug[g["entity_id"] + ":primegov"] = {"name": g["name"], "platform": "primegov", "meetings": 0, "scanned": [], "errors": []}
@@ -162,8 +170,14 @@ def scan_platforms(cfg, store, seen, debug, now):
     # iQM2: calendar RSS (HTML view), meeting detail page, agenda FileOpen Type=1
     for g in cfg.get("iqm2", []):
         d = debug[g["entity_id"] + ":iqm2"] = {"name": g["name"], "platform": "iqm2", "meetings": 0, "scanned": [], "errors": []}
-        try: rss = fetch(f"https://{g['host']}/Services/RSS.aspx?Feed=Calendar")
-        except Exception as e: d["errors"].append(f"list: {e}"); continue
+        rss = ""
+        for attempt in range(2):
+            try:
+                with OPENER.open(urllib.request.Request(f"https://{g['host']}/Services/RSS.aspx?Feed=Calendar", headers=UA), timeout=150) as r:
+                    rss = r.read().decode("utf-8", "replace"); break
+            except Exception as e:
+                d["errors"].append(f"rss try {attempt}: {e}")
+        if not rss: continue
         ms = re.findall(r"<h2>([^<]+)</h2>.*?Detail_Meeting\.aspx\?ID=(\d+)", rss, re.S)
         out = []
         for title, mid in ms:
