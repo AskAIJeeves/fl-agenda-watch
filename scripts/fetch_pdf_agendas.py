@@ -454,7 +454,7 @@ def main():
     items_p.write_text(json.dumps(store, indent=1))
     seen_p.write_text(json.dumps(seen, indent=1))
     (ROOT / "data/pdf_debug.json").write_text(json.dumps({"generated_utc": now.isoformat(timespec="seconds"), "sources": debug}, indent=1))
-    for k, v in debug.items(): print(v["name"], v["pdfs_found"], len(v["scanned"]), v["errors"][:2], file=sys.stderr)
+    for k, v in debug.items(): print(v["name"], v.get("pdfs_found", v.get("meetings", v.get("events", ""))), len(v.get("scanned", [])), v.get("errors", [])[:2], file=sys.stderr)
 
 if __name__ == "__main__":
     main()
