@@ -1,12 +1,12 @@
 {
- "generated_utc": "2026-11-14T21:36:33+00:00",
+ "generated_utc": "2026-11-15T01:16:11+00:00",
  "count": 81,
  "governments": {
   "m-fortlauderdale": {
    "name": "Fort Lauderdale",
    "status": "ok",
    "client": "fortlauderdale",
-   "events": 6,
+   "events": 5,
    "flagged": 4
   },
   "c-broward": {
