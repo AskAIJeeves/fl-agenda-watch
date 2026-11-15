@@ -68,12 +68,14 @@ def main():
                         "amount": it.get("max_amount"), "passed": it.get("passed"), "recipient": it.get("recipient"),
                         "signal_score": it.get("signal_score"), "link": it["link"], "text": t[:900]})
     out.sort(key=lambda x: (x["group"], -(x["signal_score"] or 0), x["meeting_date"] or "0000"), reverse=False)
-    # bound the review work: at most PER_GOV items per government and TOTAL overall, in priority order
-    PER_GOV, TOTAL, kept, per = 45, 700, [], {}
+    # bound the review work: at most PER_GOV items per government and a quota per priority group, in priority order
+    PER_GOV, QUOTA, kept, per, pg = 45, {1: 150, 2: 150, 3: 200, 4: 120, 5: 80}, [], {}, {}
     for x in out:
-        if per.get(x["government"], 0) < PER_GOV and len(kept) < TOTAL:
+        g = x["group"]
+        if per.get(x["government"], 0) < PER_GOV and pg.get(g, 0) < QUOTA[g]:
             kept.append(x)
             per[x["government"]] = per.get(x["government"], 0) + 1
+            pg[g] = pg.get(g, 0) + 1
     out = kept
     for i, x in enumerate(out, 1):
         x["n"] = i
