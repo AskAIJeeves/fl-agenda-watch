@@ -1,7 +1,8 @@
 name: Agenda watch
 on:
   schedule:
-    - cron: "17 10 * * *"   # 10:17 UTC daily, before the 11:43 UTC digest
+    - cron: "7 8 * * *"     # 2:07 AM Central (GitHub schedules can run late or skip; two slots for safety)
+    - cron: "37 9 * * *"    # 3:37 AM Central, both before the 5:43 AM Central digest
   workflow_dispatch: {}
 permissions:
   contents: write
