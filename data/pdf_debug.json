@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-15T01:16:35+00:00",
+ "generated_utc": "2026-11-15T01:19:57+00:00",
  "sources": {
   "m-stpetersburg": {
    "name": "St. Petersburg",
@@ -2824,24 +2824,24 @@
    "pdfs_found": 103,
    "scanned": [
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3552",
-     "pages": 3,
-     "hits": 0
-    },
-    {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3551",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3548",
      "pages": 5,
-     "hits": 0
+     "hits": 3
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3550",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3546",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3547",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3544",
+     "pages": 4,
+     "hits": 0
+    },
+    {
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3540",
      "pages": 2,
-     "hits": 1
+     "hits": 0
     }
    ],
    "errors": [],
@@ -3292,7 +3292,22 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=466",
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=465",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=462",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=461",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=459",
      "pages": 1,
      "hits": 0
     }
@@ -3811,24 +3826,24 @@
    "pdfs_found": 111,
    "scanned": [
     {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=312",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=311",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=313",
-     "pages": 4,
-     "hits": 1
-    },
-    {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=310",
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=305",
      "pages": 2,
      "hits": 0
+    },
+    {
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=307",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=308",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=306",
+     "pages": 5,
+     "hits": 1
     }
    ],
    "errors": [],
@@ -4264,12 +4279,22 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2432",
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2419",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2420",
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2418",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2392",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2384",
      "pages": 1,
      "hits": 0
     }
@@ -4707,24 +4732,24 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1186",
-     "pages": 1,
-     "hits": 0
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1179",
+     "pages": 400,
+     "hits": 15
     },
     {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1182",
-     "pages": 17,
-     "hits": 0
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1175",
+     "pages": 400,
+     "hits": 10
     },
     {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1183",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1178",
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1172",
      "pages": 135,
-     "hits": 2
+     "hits": 0
+    },
+    {
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1173",
+     "pages": 400,
+     "hits": 0
     }
    ],
    "errors": [],
@@ -5702,22 +5727,22 @@
    "pdfs_found": 103,
    "scanned": [
     {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=352",
-     "pages": 1,
-     "hits": 1
-    },
-    {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=351",
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=349",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=350",
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=357",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=348",
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=347",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=346",
      "pages": 1,
      "hits": 0
     }
@@ -5745,1835 +5770,37 @@
    "name": "Volusia County",
    "listing": [
     {
-     "url": "https://www.volusia.org/government/county-council/",
-     "links": 233,
-     "head": "<!DOCTYPE html>\r\n<!--[if gt IE 8]><!--> <html class=\"no-js\" lang=\"en\"> <!--<![endif]-->\n<head>\n  <meta charset=\"utf-8\" />\n  <title>County Council</title>\n  <meta name=\"description\" content=\"About the County Council Under Volusia County\u2019s Council/Manager form of government, voters elect a County Coun",
+     "url": "https://vcservices.vcgov.org/agenda/agenda-minutes.asp",
+     "links": 3,
+     "head": "\r\n\r\n<html>\r\n\t<head>\r\n\t\t<title>Volusia County Agenda Minutes</title>\r\n\t\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\r\n\t\t<meta http-equiv=\"Cache-Control\" content=\"no-cache, no-store, must-revalidate\" />\r\n\t\t<meta http-equiv=\"Pragma\" content=\"no-cache\" />\r\n\t\t<meta http-equiv=\"Expires\" content",
      "sample": [
       [
-       "https://www.volusia.org/government/county-council/#mainContent",
-       "Skip to main content"
+       "https://vcservices.vcgov.org/agenda/agenda-minutes-search.asp",
+       "Search the agendas and minutes"
       ],
       [
-       "https://vcservices.vcgov.org/agenda/agenda-minutes.asp",
-       "Agendas & Minutes"
+       "https://library.municode.com/fl/volusia_county/codes/code_of_ordinances?nodeId=PTIICOOR_CH2AD_ARTIICOCO_DIV2RUOR",
+       "Public meeting decorum ordinance"
       ],
       [
-       "https://www.volusia.org/government/county-council/",
-       ""
-      ],
-      [
-       "https://www.volusia.org/government/county-council/",
-       ""
-      ],
-      [
-       "https://vcservices.vcgov.org/agenda/agenda-minutes.asp",
-       "Agendas and minutes"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/advisory-boards/",
-       "Boards and Committees"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/advisory-boards/meeting-dates.stml",
-       "Board and Committee Meetings"
-      ],
-      [
-       "https://www.volusia.org/government/2026-charter-review-commission.stml",
-       "Charter Review Commission"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/",
-       "County Council"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-meetings/actions.stml",
-       "County Council actions"
-      ],
-      [
-       "https://www.volusia.org/services/financial-and-administrative-services/management-and-budget/budget-resolutions.stml",
-       "County Council Budget Resolutions"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/council-events.stml",
-       "County Council Events"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-goals/",
-       "County Council's goals"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-meetings/county-council-calendar.stml",
-       "County Council meeting calendar"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-meetings/",
-       "County Council Meeting Information"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-meetings/proclamations.stml",
-       "County Council Proclamations"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-meetings/live-audio.stml",
-       "Watch Live Meetings"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/how-county-government-works/home-rule-charter.stml",
-       "Home Rule Charter"
-      ],
-      [
-       "https://www.volusia.org/about-us/county-calendar.stml?portalProcess_dd_0_1_1=showPublicEvent&datatable_category_id=24",
-       "Meetings Calendar"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-meetings/archived-audio-captioning-transcripts.stml",
-       "Meeting Closed Captioning"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-meetings/live-audio.stml#archivedmeetings",
-       "Watch Archived Meetings"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-meetings/live-audio.stml",
-       "Watch Live Meetings"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/government-organizational-chart.stml",
-       "Organizational chart"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-meetings/",
-       "County Council meeting information"
-      ],
-      [
-       "https://www.volusia.org/about-us/county-calendar.stml",
-       "Events and Meetings Calendar"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-meetings/live-audio.stml",
-       "Watch Live Meetings"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/",
-       ""
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-meetings/actions.stml",
-       "Actions"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/advisory-boards/",
-       "Advisory Boards and Committees"
-      ],
-      [
-       "https://vcservices.vcgov.org/agenda/agenda-minutes.asp",
-       "Agendas and Minutes"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/auditor-selection-committee.stml",
-       "Auditor Selection Committee"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-meetings/",
-       "County Council Meeting Information"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/council-events.stml",
-       "Council Events"
-      ],
-      [
-       "http://www.volusia.org/government/county-council/county-council-meetings/proclamations.stml",
-       "County Council Proclamations"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-goals/",
-       "County Council's Goals"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/districts-map.stml",
-       "Districts map"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/government-organizational-chart.stml",
-       "Government organizational chart"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/how-county-government-works/",
-       "How County Government Works"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-meetings/county-council-calendar.stml",
-       "Meeting Calendar"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-meetings/text.stml",
-       "Meeting Closed Captioning"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/previous.stml",
-       "Previous Council Members"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/fuel-terminal/index.stml",
-       "Proposed Fuel Terminal"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/resolutions.stml",
-       "Resolutions"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/state-of-the-county.stml",
-       "State of the County"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-meetings/live-audio.stml#archivedmeetings",
-       "Watch Archived Meetings"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-meetings/live-audio.stml",
-       "Watch Live Meetings"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-meetings/live-audio.stml",
-       "Watch Live Meetings"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-members-details.stml?portalProcess_dd_0_1_1_0=showPublicEntry&calendar_entry_id=27829",
-       "Read more"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-members-details.stml?portalProcess_dd_0_1_1_0=showPublicEntry&calendar_entry_id=85935",
-       "Jake Johansson At-Large Representative"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-members-details.stml?portalProcess_dd_0_1_1_0=showPublicEntry&calendar_entry_id=85934",
-       "Don Dempsey District 1 Representative"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-members-details.stml?portalProcess_dd_0_1_1_0=showPublicEntry&calendar_entry_id=85931",
-       "Matt Reinhart Vice Chair, District 2 Representative"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-members-details.stml?portalProcess_dd_0_1_1_0=showPublicEntry&calendar_entry_id=27830",
-       "Danny Robins District 3 Representative"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-members-details.stml?portalProcess_dd_0_1_1_0=showPublicEntry&calendar_entry_id=85932",
-       "Troy Kent District 4 Representative"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-members-details.stml?portalProcess_dd_0_1_1_0=showPublicEntry&calendar_entry_id=85933",
-       "David Santiago District 5 Representative"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/county-council-members-details.stml?portalProcess_dd_0_1_1_0=showPublicEntry&calendar_entry_id=27776",
-       "George Recktenwald County Manager"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/council-events.stml",
-       "County Council Events"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/council-events.stml",
-       "County Council Events"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/",
-       "A"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/",
-       "A"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/",
-       "A"
-      ],
-      [
-       "https://www.volusia.org/government/county-council/",
-       "Accept"
+       "https://vcservices.vcgov.org/agenda/.\\QJ Procedures v6 (2023.09.29) - CLEAN w added Res_508.pdf",
+       "Quasi-Judicial Procedures"
       ]
      ]
     }
    ],
-   "pdfs_found": 0,
-   "scanned": [],
-   "errors": [
-    "listing https://www.volusia.org/government/county-council/county-council-agenda.stml: HTTP Error 404: Not Found"
-   ],
-   "pdf_sample": []
-  },
-  "c-leon": {
-   "name": "Leon County",
-   "listing": [],
-   "pdfs_found": 0,
-   "scanned": [],
-   "errors": [
-    "listing https://www2.leoncountyfl.gov/coadmin/agenda/list.asp: HTTP Error 403: Forbidden"
-   ],
-   "pdf_sample": []
-  },
-  "m-lakeland": {
-   "name": "Lakeland",
-   "listing": [
-    {
-     "url": "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-     "links": 271,
-     "head": "\n<!DOCTYPE html>\n<!--[if lt IE 7 ]> <html lang=\"en\" class=\"no-js ie6\"> <![endif]-->\n<!--[if IE 7 ]>    <html lang=\"en\" class=\"no-js ie7\"> <![endif]-->\n<!--[if IE 8 ]>    <html lang=\"en\" class=\"no-js ie8\"> <![endif]-->\n<!--[if IE 9 ]>    <html lang=\"en\" class=\"no-js ie9\"> <![endif]-->\n<!--[if (gt IE ",
-     "sample": [
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/#mpanel7945",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/portals/cityclerk/city commission/agendas/calendarofevents.pdf",
-       "Commission Calendar"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/agendas/",
-       "Commission Meetings"
-      ],
-      [
-       "https://www.lakelandgov.net/government/mayor-city-commission/",
-       "Mayor & City Commission"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/#mpanel8016",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/media/22785/2026-cc-distict-map-plan-scenario-25-adop-comm-dist-_25.pdf",
-       "Commission Districts Map"
-      ],
-      [
-       "https://experience.arcgis.com/experience/6e65b4f7df1940d099f3c6c8ccc7afbb/page/page_3/",
-       "Find My Commissioner Interactive Map"
-      ],
-      [
-       "https://www.lakelandgov.net/government/mayor-city-commission/ashley-c-troutman/",
-       "Ashley C. Troutman"
-      ],
-      [
-       "https://www.lakelandgov.net/government/mayor-city-commission/stephanie-madden/",
-       "Stephanie Madden"
-      ],
-      [
-       "https://www.lakelandgov.net/government/mayor-city-commission/sara-roberts-mccarley/",
-       "Sara Roberts McCarley"
-      ],
-      [
-       "https://www.lakelandgov.net/government/mayor-city-commission/chad-mcleod/",
-       "Chad McLeod"
-      ],
-      [
-       "https://www.lakelandgov.net/government/mayor-city-commission/terry-g-coney/",
-       "Terry G. Coney"
-      ],
-      [
-       "https://www.lakelandgov.net/government/mayor-city-commission/mike-musick/",
-       "Mike Musick"
-      ],
-      [
-       "https://www.lakelandgov.net/government/mayor-city-commission/guy-lalonde-jr/",
-       "Guy LaLonde Jr."
-      ],
-      [
-       "https://www.lakelandgov.net/government/mayor-city-commission/commission-committee-assignments/",
-       "Commission Committee Assignments"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-       "City Commission Agendas"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-       "Contact Us"
-      ],
-      [
-       "https://www.lakelandgov.net/media/23281/reso-5407-re-appearing-before-the-cc.pdf",
-       "View/Download Resolution NO. 5407."
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/#CityCommission2026",
-       "City Commission Meetings"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/01-05-26/01-05-26 Agenda.pdf",
-       "January 5, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/01-20-26/01-20-26 Agenda.pdf",
-       "January 20, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-02-26/02-02-26 Agenda.pdf",
-       "February 2, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-06-26/02-06-26 Agenda.pdf",
-       "February 6, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-16-26/02-16-26 Agenda.pdf",
-       "February 16, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-27-26/02-27-26 Agenda.pdf",
-       "February 27, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/03-02-26/03-02-26 Agenda.pdf",
-       "March 2, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/03-16-26/03-16-26 Agenda.pdf",
-       "March 16, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-03-26/04-03-26 Agenda.pdf",
-       "April 3, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-06-26/04-06-26 Agenda.pdf",
-       "April 6, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-20-26/04-20-26 Agenda.pdf",
-       "April 20, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-23-26_04-24-26_Strategic Planning/04-23-26_04-24-26_Strategic Planning.pdf",
-       "April 23-24, 2026 - Strategic Planning"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/05-01-26/05-01-26 Agenda.pdf",
-       "May 1, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/05-04-26/05-04-26 Agenda.pdf",
-       "May 4, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/05-18-26/05-18-26 Agenda.pdf",
-       "May 18, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/05-29-26/05-29-26 Agenda.pdf",
-       "May 29, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/06-01-26/06-01-26 Agenda.pdf",
-       "June 1, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/06-15-26/06-15-26 Agenda.pdf",
-       "June 15, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/07-06-26/07-06-26 Agenda.pdf",
-       "July 6, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/07-06-26_PM/07-06-26_PM.pdf",
-       "July 6, 2026 - PM"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/07-20-26/07-20-26 Agenda.pdf",
-       "July 20, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/07-31-26/07-31-26 Agenda.pdf",
-       "July 31, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/08-03-26/08-03-26 Agenda.pdf",
-       "August 3, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/08-17-26/08-17-26 Agenda.pdf",
-       "August 17, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-04-26/09-04-26 Agenda.pdf",
-       "September 4, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-08-26/09-08-26 Agenda.pdf",
-       "September 8, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-10-26_Budget Hearing/09-10-26_Budget Hearing.pdf",
-       "September 10, 2026 - Budget Hearing"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-21-26/09-21-26 Agenda.pdf",
-       "September 21, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-21-26_Special Called/09-21-26_Special Called.pdf",
-       "September 21, 2026 - Special Called"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-24-26_Budget Hearing/09-24-26_Budget Hearing.pdf",
-       "September 24, 2026 - Budget Hearing"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/10-02-26/10-02-26 Agenda.pdf",
-       "October 2, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/10-05-26/10-05-26 Agenda.pdf",
-       "October 5, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/10-19-26/10-19-26 Agenda.pdf",
-       "October 19, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/10-30-26/10-30-26 Agenda.pdf",
-       "October 30, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/11-02-26/11-02-26 Agenda.pdf",
-       "November 2, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/11-16-26/11-16-26 Agenda.pdf",
-       "November 16, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/12-04-26/12-04-26 Agenda.pdf",
-       "December 4, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/12-07-26/12-07-26 Agenda.pdf",
-       "December 7, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/12-21-26/12-21-26 Agenda.pdf",
-       "December 21, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/#CityCommission2025",
-       "City Commission Meetings"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/01-06-25/01-06-25 Agenda.pdf",
-       "January 6, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/01-21-25/01-21-25 Agenda.pdf",
-       "January 21, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/02-03-25/02-03-25 Agenda.pdf",
-       "February 3, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/02-17-25/02-17-25 Agenda.pdf",
-       "February 17, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/03-03-25/03-03-25 Agenda.pdf",
-       "March 3, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/03-17-25/03-17-25 Agenda.pdf",
-       "March 17, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/04-07-25/04-07-25 Agenda.pdf",
-       "April 7, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/04-21-25/04-21-25 Agenda.pdf",
-       "April 21, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/05-05-25/05-05-25 Agenda.pdf",
-       "May 5, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/05-19-25/05-19-25 Agenda.pdf",
-       "May 19, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/06-02-25/06-02-25 Agenda.pdf",
-       "June 2, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/06-16-25/06-16-25 Agenda.pdf",
-       "June 16, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/07-07-25/07-07-25 Agenda.pdf",
-       "July 7, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/07-21-25/07-21-25 Agenda.pdf",
-       "July 21, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/08-04-25/08-04-25 Agenda.pdf",
-       "August 4, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/08-18-25/08-18-25 Agenda.pdf",
-       "August 18, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/09-02-25/09-02-25 Agenda.pdf",
-       "September 2, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/09-04-25_Budget Hearing/09-04-25_Budget Hearing.pdf",
-       "September 4, 2025 - Budget Hearing"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/09-15-25/09-15-25 Agenda.pdf",
-       "September 15, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/09-18-25_Budget Hearing/09-18-25_Budget Hearing.pdf",
-       "September 18, 2025 - Budget Hearing"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/10-06-25/10-06-25 Agenda.pdf",
-       "October 6, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/10-20-25/10-20-25 Agenda.pdf",
-       "October 20, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/11-03-25/11-03-25 Agenda.pdf",
-       "November 3, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/11-17-25/11-17-25 Agenda.pdf",
-       "November 17, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/12-01-25/12-01-25 Agenda.pdf",
-       "December 1, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/12-15-25/12-15-25 Agenda.pdf",
-       "December 15, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/#CityCommission2024",
-       "City Commission Meetings"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/01-02-24/01-02-24 Agenda.pdf",
-       "January 2, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/01-16-24/01-16-24 Agenda.pdf",
-       "January 16, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/02-05-24/02-05-24 Agenda.pdf",
-       "February 5, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/02-19-24/02-19-24 Agenda.pdf",
-       "February 19, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/03-04-24/03-04-24 Agenda.pdf",
-       "March 4, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/03-18-24/03-18-24 Agenda.pdf",
-       "March 18, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/03-28-24_Retreat/03-28-24_Retreat.pdf",
-       "March 28, 2024 - Retreat"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/04-01-24/04-01-24 Agenda.pdf",
-       "April 1, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/04-15-24/04-15-24 Agenda.pdf",
-       "April 15, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/05-06-24/05-06-24 Agenda.pdf",
-       "May 6, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/05-13-24_05-14-24_Retreat/05-13-24_05-14-24_Retreat.pdf",
-       "May 13-14, 2024 - Retreat"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/05-20-24/05-20-24 Agenda.pdf",
-       "May 20, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/06-03-24/06-03-24 Agenda.pdf",
-       "June 3, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/06-17-24/06-17-24 Agenda.pdf",
-       "June 17, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/07-01-24/07-01-24 Agenda.pdf",
-       "July 1, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/07-11-24_FY25 Budget Workshop/07-11-24_FY25 Budget Workshop.pdf",
-       "July 11, 2024 - FY25 Budget Workshop"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/07-15-24/07-15-24 Agenda.pdf",
-       "July 15, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/08-05-24/08-05-24 Agenda.pdf",
-       "August 5, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/08-12-24_FY25 Budget Workshop/08-12-24_FY25 Budget Workshop.pdf",
-       "August 12, 2024 - FY25 Budget Workshop"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/08-19-24/08-19-24 Agenda.pdf",
-       "August 19, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/09-03-24/09-03-24 Agenda.pdf",
-       "September 3, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/09-05-24_Budget Hearing/09-05-24_Budget Hearing.pdf",
-       "September 5, 2024 - Budget Hearing"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/09-16-24/09-16-24 Agenda.pdf",
-       "September 16, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/09-19-24_Budget Hearing/09-19-24_Budget Hearing.pdf",
-       "September 19, 2024 - Budget Hearing"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/10-07-24/10-07-24 Agenda.pdf",
-       "October 7, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/10-21-24/10-21-24 Agenda.pdf",
-       "October 21, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/11-04-24/11-04-24 Agenda.pdf",
-       "November 4, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/11-06-24_Special Called/11-06-24_Special Called.pdf",
-       "November 6, 2024 - Special Called"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/11-18-24/11-18-24 Agenda.pdf",
-       "November 18, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/12-02-24/12-02-24 Agenda.pdf",
-       "December 2, 2024"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2024/12-16-24/12-16-24 Agenda.pdf",
-       "December 16, 2024"
-      ]
-     ]
-    }
-   ],
-   "pdfs_found": 153,
+   "pdfs_found": 1,
    "scanned": [
     {
-     "pdf": "https://www.lakelandgov.net/portals/cityclerk/city commission/agendas/calendarofevents.pdf",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.lakelandgov.net/media/22785/2026-cc-distict-map-plan-scenario-25-adop-comm-dist-_25.pdf",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.lakelandgov.net/media/23281/reso-5407-re-appearing-before-the-cc.pdf",
-     "pages": 5,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/01-05-26/01-05-26 Agenda.pdf",
-     "pages": 3,
+     "pdf": "https://vcservices.vcgov.org/agenda/.\\QJ Procedures v6 (2023.09.29) - CLEAN w added Res_508.pdf",
+     "pages": 9,
      "hits": 0
     }
    ],
-   "errors": [
-    "listing https://www.lakelandgov.net/government/city-commission/: HTTP Error 404: Not Found"
-   ],
-   "followed": [
-    {
-     "url": "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/#mpanel7945",
-     "links": 271,
-     "sample": [
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/#mpanel7945",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/portals/cityclerk/city commission/agendas/calendarofevents.pdf",
-       "Commission Calendar"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/agendas/",
-       "Commission Meetings"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/#mpanel8016",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/media/22785/2026-cc-distict-map-plan-scenario-25-adop-comm-dist-_25.pdf",
-       "Commission Districts Map"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-       "City Commission Agendas"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-       "Contact Us"
-      ],
-      [
-       "https://www.lakelandgov.net/media/23281/reso-5407-re-appearing-before-the-cc.pdf",
-       "View/Download Resolution NO. 5407."
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/#CityCommission2026",
-       "City Commission Meetings"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/01-05-26/01-05-26 Agenda.pdf",
-       "January 5, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/01-20-26/01-20-26 Agenda.pdf",
-       "January 20, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-02-26/02-02-26 Agenda.pdf",
-       "February 2, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-06-26/02-06-26 Agenda.pdf",
-       "February 6, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-16-26/02-16-26 Agenda.pdf",
-       "February 16, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-27-26/02-27-26 Agenda.pdf",
-       "February 27, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/03-02-26/03-02-26 Agenda.pdf",
-       "March 2, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/03-16-26/03-16-26 Agenda.pdf",
-       "March 16, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-03-26/04-03-26 Agenda.pdf",
-       "April 3, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-06-26/04-06-26 Agenda.pdf",
-       "April 6, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-20-26/04-20-26 Agenda.pdf",
-       "April 20, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-23-26_04-24-26_Strategic Planning/04-23-26_04-24-26_Strategic Planning.pdf",
-       "April 23-24, 2026 - Strategic Planning"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/05-01-26/05-01-26 Agenda.pdf",
-       "May 1, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/05-04-26/05-04-26 Agenda.pdf",
-       "May 4, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/05-18-26/05-18-26 Agenda.pdf",
-       "May 18, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/05-29-26/05-29-26 Agenda.pdf",
-       "May 29, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/06-01-26/06-01-26 Agenda.pdf",
-       "June 1, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/06-15-26/06-15-26 Agenda.pdf",
-       "June 15, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/07-06-26/07-06-26 Agenda.pdf",
-       "July 6, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/07-06-26_PM/07-06-26_PM.pdf",
-       "July 6, 2026 - PM"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/07-20-26/07-20-26 Agenda.pdf",
-       "July 20, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/07-31-26/07-31-26 Agenda.pdf",
-       "July 31, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/08-03-26/08-03-26 Agenda.pdf",
-       "August 3, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/08-17-26/08-17-26 Agenda.pdf",
-       "August 17, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-04-26/09-04-26 Agenda.pdf",
-       "September 4, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-08-26/09-08-26 Agenda.pdf",
-       "September 8, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-10-26_Budget Hearing/09-10-26_Budget Hearing.pdf",
-       "September 10, 2026 - Budget Hearing"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-21-26/09-21-26 Agenda.pdf",
-       "September 21, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-21-26_Special Called/09-21-26_Special Called.pdf",
-       "September 21, 2026 - Special Called"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-24-26_Budget Hearing/09-24-26_Budget Hearing.pdf",
-       "September 24, 2026 - Budget Hearing"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/10-02-26/10-02-26 Agenda.pdf",
-       "October 2, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/10-05-26/10-05-26 Agenda.pdf",
-       "October 5, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/10-19-26/10-19-26 Agenda.pdf",
-       "October 19, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/10-30-26/10-30-26 Agenda.pdf",
-       "October 30, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/11-02-26/11-02-26 Agenda.pdf",
-       "November 2, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/11-16-26/11-16-26 Agenda.pdf",
-       "November 16, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/12-04-26/12-04-26 Agenda.pdf",
-       "December 4, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/12-07-26/12-07-26 Agenda.pdf",
-       "December 7, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/12-21-26/12-21-26 Agenda.pdf",
-       "December 21, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/#CityCommission2025",
-       "City Commission Meetings"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/01-06-25/01-06-25 Agenda.pdf",
-       "January 6, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/01-21-25/01-21-25 Agenda.pdf",
-       "January 21, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/02-03-25/02-03-25 Agenda.pdf",
-       "February 3, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/02-17-25/02-17-25 Agenda.pdf",
-       "February 17, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/03-03-25/03-03-25 Agenda.pdf",
-       "March 3, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/03-17-25/03-17-25 Agenda.pdf",
-       "March 17, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/04-07-25/04-07-25 Agenda.pdf",
-       "April 7, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/04-21-25/04-21-25 Agenda.pdf",
-       "April 21, 2025"
-      ]
-     ]
-    },
-    {
-     "url": "https://www.lakelandgov.net/portals/cityclerk/city commission/agendas/calendarofevents.pdf",
-     "links": 0,
-     "sample": []
-    },
-    {
-     "url": "https://www.lakelandgov.net/departments/city-clerk/agendas/",
-     "links": 271,
-     "sample": [
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/agendas/#mpanel7945",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/portals/cityclerk/city commission/agendas/calendarofevents.pdf",
-       "Commission Calendar"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/agendas/",
-       "Commission Meetings"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/agendas/#mpanel8016",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/media/22785/2026-cc-distict-map-plan-scenario-25-adop-comm-dist-_25.pdf",
-       "Commission Districts Map"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/agendas/",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/agendas/",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/agendas/",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-       "City Commission Agendas"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/agendas/",
-       "Contact Us"
-      ],
-      [
-       "https://www.lakelandgov.net/media/23281/reso-5407-re-appearing-before-the-cc.pdf",
-       "View/Download Resolution NO. 5407."
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/agendas/#CityCommission2026",
-       "City Commission Meetings"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/01-05-26/01-05-26 Agenda.pdf",
-       "January 5, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/01-20-26/01-20-26 Agenda.pdf",
-       "January 20, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-02-26/02-02-26 Agenda.pdf",
-       "February 2, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-06-26/02-06-26 Agenda.pdf",
-       "February 6, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-16-26/02-16-26 Agenda.pdf",
-       "February 16, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-27-26/02-27-26 Agenda.pdf",
-       "February 27, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/03-02-26/03-02-26 Agenda.pdf",
-       "March 2, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/03-16-26/03-16-26 Agenda.pdf",
-       "March 16, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-03-26/04-03-26 Agenda.pdf",
-       "April 3, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-06-26/04-06-26 Agenda.pdf",
-       "April 6, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-20-26/04-20-26 Agenda.pdf",
-       "April 20, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-23-26_04-24-26_Strategic Planning/04-23-26_04-24-26_Strategic Planning.pdf",
-       "April 23-24, 2026 - Strategic Planning"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/05-01-26/05-01-26 Agenda.pdf",
-       "May 1, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/05-04-26/05-04-26 Agenda.pdf",
-       "May 4, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/05-18-26/05-18-26 Agenda.pdf",
-       "May 18, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/05-29-26/05-29-26 Agenda.pdf",
-       "May 29, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/06-01-26/06-01-26 Agenda.pdf",
-       "June 1, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/06-15-26/06-15-26 Agenda.pdf",
-       "June 15, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/07-06-26/07-06-26 Agenda.pdf",
-       "July 6, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/07-06-26_PM/07-06-26_PM.pdf",
-       "July 6, 2026 - PM"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/07-20-26/07-20-26 Agenda.pdf",
-       "July 20, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/07-31-26/07-31-26 Agenda.pdf",
-       "July 31, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/08-03-26/08-03-26 Agenda.pdf",
-       "August 3, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/08-17-26/08-17-26 Agenda.pdf",
-       "August 17, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-04-26/09-04-26 Agenda.pdf",
-       "September 4, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-08-26/09-08-26 Agenda.pdf",
-       "September 8, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-10-26_Budget Hearing/09-10-26_Budget Hearing.pdf",
-       "September 10, 2026 - Budget Hearing"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-21-26/09-21-26 Agenda.pdf",
-       "September 21, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-21-26_Special Called/09-21-26_Special Called.pdf",
-       "September 21, 2026 - Special Called"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-24-26_Budget Hearing/09-24-26_Budget Hearing.pdf",
-       "September 24, 2026 - Budget Hearing"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/10-02-26/10-02-26 Agenda.pdf",
-       "October 2, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/10-05-26/10-05-26 Agenda.pdf",
-       "October 5, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/10-19-26/10-19-26 Agenda.pdf",
-       "October 19, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/10-30-26/10-30-26 Agenda.pdf",
-       "October 30, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/11-02-26/11-02-26 Agenda.pdf",
-       "November 2, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/11-16-26/11-16-26 Agenda.pdf",
-       "November 16, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/12-04-26/12-04-26 Agenda.pdf",
-       "December 4, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/12-07-26/12-07-26 Agenda.pdf",
-       "December 7, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/12-21-26/12-21-26 Agenda.pdf",
-       "December 21, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/agendas/#CityCommission2025",
-       "City Commission Meetings"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/01-06-25/01-06-25 Agenda.pdf",
-       "January 6, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/01-21-25/01-21-25 Agenda.pdf",
-       "January 21, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/02-03-25/02-03-25 Agenda.pdf",
-       "February 3, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/02-17-25/02-17-25 Agenda.pdf",
-       "February 17, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/03-03-25/03-03-25 Agenda.pdf",
-       "March 3, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/03-17-25/03-17-25 Agenda.pdf",
-       "March 17, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/04-07-25/04-07-25 Agenda.pdf",
-       "April 7, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/04-21-25/04-21-25 Agenda.pdf",
-       "April 21, 2025"
-      ]
-     ]
-    },
-    {
-     "url": "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/#mpanel8016",
-     "links": 271,
-     "sample": [
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/#mpanel7945",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/portals/cityclerk/city commission/agendas/calendarofevents.pdf",
-       "Commission Calendar"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/agendas/",
-       "Commission Meetings"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/#mpanel8016",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/media/22785/2026-cc-distict-map-plan-scenario-25-adop-comm-dist-_25.pdf",
-       "Commission Districts Map"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-       "City Commission Agendas"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-       "Contact Us"
-      ],
-      [
-       "https://www.lakelandgov.net/media/23281/reso-5407-re-appearing-before-the-cc.pdf",
-       "View/Download Resolution NO. 5407."
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/#CityCommission2026",
-       "City Commission Meetings"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/01-05-26/01-05-26 Agenda.pdf",
-       "January 5, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/01-20-26/01-20-26 Agenda.pdf",
-       "January 20, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-02-26/02-02-26 Agenda.pdf",
-       "February 2, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-06-26/02-06-26 Agenda.pdf",
-       "February 6, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-16-26/02-16-26 Agenda.pdf",
-       "February 16, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-27-26/02-27-26 Agenda.pdf",
-       "February 27, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/03-02-26/03-02-26 Agenda.pdf",
-       "March 2, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/03-16-26/03-16-26 Agenda.pdf",
-       "March 16, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-03-26/04-03-26 Agenda.pdf",
-       "April 3, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-06-26/04-06-26 Agenda.pdf",
-       "April 6, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-20-26/04-20-26 Agenda.pdf",
-       "April 20, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-23-26_04-24-26_Strategic Planning/04-23-26_04-24-26_Strategic Planning.pdf",
-       "April 23-24, 2026 - Strategic Planning"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/05-01-26/05-01-26 Agenda.pdf",
-       "May 1, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/05-04-26/05-04-26 Agenda.pdf",
-       "May 4, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/05-18-26/05-18-26 Agenda.pdf",
-       "May 18, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/05-29-26/05-29-26 Agenda.pdf",
-       "May 29, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/06-01-26/06-01-26 Agenda.pdf",
-       "June 1, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/06-15-26/06-15-26 Agenda.pdf",
-       "June 15, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/07-06-26/07-06-26 Agenda.pdf",
-       "July 6, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/07-06-26_PM/07-06-26_PM.pdf",
-       "July 6, 2026 - PM"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/07-20-26/07-20-26 Agenda.pdf",
-       "July 20, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/07-31-26/07-31-26 Agenda.pdf",
-       "July 31, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/08-03-26/08-03-26 Agenda.pdf",
-       "August 3, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/08-17-26/08-17-26 Agenda.pdf",
-       "August 17, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-04-26/09-04-26 Agenda.pdf",
-       "September 4, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-08-26/09-08-26 Agenda.pdf",
-       "September 8, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-10-26_Budget Hearing/09-10-26_Budget Hearing.pdf",
-       "September 10, 2026 - Budget Hearing"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-21-26/09-21-26 Agenda.pdf",
-       "September 21, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-21-26_Special Called/09-21-26_Special Called.pdf",
-       "September 21, 2026 - Special Called"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-24-26_Budget Hearing/09-24-26_Budget Hearing.pdf",
-       "September 24, 2026 - Budget Hearing"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/10-02-26/10-02-26 Agenda.pdf",
-       "October 2, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/10-05-26/10-05-26 Agenda.pdf",
-       "October 5, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/10-19-26/10-19-26 Agenda.pdf",
-       "October 19, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/10-30-26/10-30-26 Agenda.pdf",
-       "October 30, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/11-02-26/11-02-26 Agenda.pdf",
-       "November 2, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/11-16-26/11-16-26 Agenda.pdf",
-       "November 16, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/12-04-26/12-04-26 Agenda.pdf",
-       "December 4, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/12-07-26/12-07-26 Agenda.pdf",
-       "December 7, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/12-21-26/12-21-26 Agenda.pdf",
-       "December 21, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/#CityCommission2025",
-       "City Commission Meetings"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/01-06-25/01-06-25 Agenda.pdf",
-       "January 6, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/01-21-25/01-21-25 Agenda.pdf",
-       "January 21, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/02-03-25/02-03-25 Agenda.pdf",
-       "February 3, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/02-17-25/02-17-25 Agenda.pdf",
-       "February 17, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/03-03-25/03-03-25 Agenda.pdf",
-       "March 3, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/03-17-25/03-17-25 Agenda.pdf",
-       "March 17, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/04-07-25/04-07-25 Agenda.pdf",
-       "April 7, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/04-21-25/04-21-25 Agenda.pdf",
-       "April 21, 2025"
-      ]
-     ]
-    },
-    {
-     "url": "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/#CityCommission2026",
-     "links": 271,
-     "sample": [
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/#mpanel7945",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/portals/cityclerk/city commission/agendas/calendarofevents.pdf",
-       "Commission Calendar"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/agendas/",
-       "Commission Meetings"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/#mpanel8016",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/media/22785/2026-cc-distict-map-plan-scenario-25-adop-comm-dist-_25.pdf",
-       "Commission Districts Map"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-       ""
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-       "City Commission Agendas"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-       "Contact Us"
-      ],
-      [
-       "https://www.lakelandgov.net/media/23281/reso-5407-re-appearing-before-the-cc.pdf",
-       "View/Download Resolution NO. 5407."
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/#CityCommission2026",
-       "City Commission Meetings"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/01-05-26/01-05-26 Agenda.pdf",
-       "January 5, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/01-20-26/01-20-26 Agenda.pdf",
-       "January 20, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-02-26/02-02-26 Agenda.pdf",
-       "February 2, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-06-26/02-06-26 Agenda.pdf",
-       "February 6, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-16-26/02-16-26 Agenda.pdf",
-       "February 16, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-27-26/02-27-26 Agenda.pdf",
-       "February 27, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/03-02-26/03-02-26 Agenda.pdf",
-       "March 2, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/03-16-26/03-16-26 Agenda.pdf",
-       "March 16, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-03-26/04-03-26 Agenda.pdf",
-       "April 3, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-06-26/04-06-26 Agenda.pdf",
-       "April 6, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-20-26/04-20-26 Agenda.pdf",
-       "April 20, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-23-26_04-24-26_Strategic Planning/04-23-26_04-24-26_Strategic Planning.pdf",
-       "April 23-24, 2026 - Strategic Planning"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/05-01-26/05-01-26 Agenda.pdf",
-       "May 1, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/05-04-26/05-04-26 Agenda.pdf",
-       "May 4, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/05-18-26/05-18-26 Agenda.pdf",
-       "May 18, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/05-29-26/05-29-26 Agenda.pdf",
-       "May 29, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/06-01-26/06-01-26 Agenda.pdf",
-       "June 1, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/06-15-26/06-15-26 Agenda.pdf",
-       "June 15, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/07-06-26/07-06-26 Agenda.pdf",
-       "July 6, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/07-06-26_PM/07-06-26_PM.pdf",
-       "July 6, 2026 - PM"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/07-20-26/07-20-26 Agenda.pdf",
-       "July 20, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/07-31-26/07-31-26 Agenda.pdf",
-       "July 31, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/08-03-26/08-03-26 Agenda.pdf",
-       "August 3, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/08-17-26/08-17-26 Agenda.pdf",
-       "August 17, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-04-26/09-04-26 Agenda.pdf",
-       "September 4, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-08-26/09-08-26 Agenda.pdf",
-       "September 8, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-10-26_Budget Hearing/09-10-26_Budget Hearing.pdf",
-       "September 10, 2026 - Budget Hearing"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-21-26/09-21-26 Agenda.pdf",
-       "September 21, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-21-26_Special Called/09-21-26_Special Called.pdf",
-       "September 21, 2026 - Special Called"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/09-24-26_Budget Hearing/09-24-26_Budget Hearing.pdf",
-       "September 24, 2026 - Budget Hearing"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/10-02-26/10-02-26 Agenda.pdf",
-       "October 2, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/10-05-26/10-05-26 Agenda.pdf",
-       "October 5, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/10-19-26/10-19-26 Agenda.pdf",
-       "October 19, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/10-30-26/10-30-26 Agenda.pdf",
-       "October 30, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/11-02-26/11-02-26 Agenda.pdf",
-       "November 2, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/11-16-26/11-16-26 Agenda.pdf",
-       "November 16, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/12-04-26/12-04-26 Agenda.pdf",
-       "December 4, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/12-07-26/12-07-26 Agenda.pdf",
-       "December 7, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/12-21-26/12-21-26 Agenda.pdf",
-       "December 21, 2026"
-      ],
-      [
-       "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/#CityCommission2025",
-       "City Commission Meetings"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/01-06-25/01-06-25 Agenda.pdf",
-       "January 6, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/01-21-25/01-21-25 Agenda.pdf",
-       "January 21, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/02-03-25/02-03-25 Agenda.pdf",
-       "February 3, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/02-17-25/02-17-25 Agenda.pdf",
-       "February 17, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/03-03-25/03-03-25 Agenda.pdf",
-       "March 3, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/03-17-25/03-17-25 Agenda.pdf",
-       "March 17, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/04-07-25/04-07-25 Agenda.pdf",
-       "April 7, 2025"
-      ],
-      [
-       "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2025/04-21-25/04-21-25 Agenda.pdf",
-       "April 21, 2025"
-      ]
-     ]
-    },
-    {
-     "url": "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/01-05-26/01-05-26 Agenda.pdf",
-     "links": 0,
-     "sample": []
-    },
-    {
-     "url": "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/01-20-26/01-20-26 Agenda.pdf",
-     "links": 0,
-     "sample": []
-    },
-    {
-     "url": "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-02-26/02-02-26 Agenda.pdf",
-     "links": 0,
-     "sample": []
-    },
-    {
-     "url": "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-06-26/02-06-26 Agenda.pdf",
-     "links": 0,
-     "sample": []
-    },
-    {
-     "url": "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-16-26/02-16-26 Agenda.pdf",
-     "links": 0,
-     "sample": []
-    }
-   ],
+   "errors": [],
    "pdf_sample": [
-    "https://www.lakelandgov.net/portals/cityclerk/city commission/agendas/calendarofevents.pdf",
-    "https://www.lakelandgov.net/media/22785/2026-cc-distict-map-plan-scenario-25-adop-comm-dist-_25.pdf",
-    "https://www.lakelandgov.net/media/23281/reso-5407-re-appearing-before-the-cc.pdf",
-    "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/01-05-26/01-05-26 Agenda.pdf",
-    "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/01-20-26/01-20-26 Agenda.pdf",
-    "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-02-26/02-02-26 Agenda.pdf",
-    "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-06-26/02-06-26 Agenda.pdf",
-    "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-16-26/02-16-26 Agenda.pdf",
-    "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/02-27-26/02-27-26 Agenda.pdf",
-    "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/03-02-26/03-02-26 Agenda.pdf",
-    "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/03-16-26/03-16-26 Agenda.pdf",
-    "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-03-26/04-03-26 Agenda.pdf",
-    "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-06-26/04-06-26 Agenda.pdf",
-    "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-20-26/04-20-26 Agenda.pdf",
-    "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/04-23-26_04-24-26_Strategic Planning/04-23-26_04-24-26_Strategic Planning.pdf"
+    "https://vcservices.vcgov.org/agenda/.\\QJ Procedures v6 (2023.09.29) - CLEAN w added Res_508.pdf"
    ]
-  },
-  "m-westpalmbeach": {
-   "name": "West Palm Beach",
-   "listing": [],
-   "pdfs_found": 0,
-   "scanned": [],
-   "errors": [
-    "listing https://www.wpb.org/government/city-clerk/commission-cra-agendas: HTTP Error 403: Forbidden",
-    "listing https://www.wpb.org/Government/City-Clerk/Commission-CRA-Agendas: HTTP Error 403: Forbidden"
-   ],
-   "pdf_sample": []
   },
   "m-tarponsprings:civicclerk": {
    "name": "Tarpon Springs",
@@ -7639,22 +5866,7 @@
     "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=376,plainText=false)",
     "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=350,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=311,plainText=false)",
-     "pages": 3,
-     "hits": 0,
-     "chars": 2051,
-     "meeting_date": "2026-11-12"
-    },
-    {
-     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=312,plainText=false)",
-     "pages": 11,
-     "hits": 0,
-     "chars": 8826,
-     "meeting_date": "2026-11-12"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "c-lake:civicclerk": {
@@ -7886,6 +6098,27 @@
    "platform": "date_template",
    "found": [],
    "scanned": [],
+   "errors": []
+  },
+  "m-lakeland:date": {
+   "name": "Lakeland",
+   "platform": "date_template",
+   "found": [
+    "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/11-16-26/11-16-26 Agenda.pdf",
+    "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/12-04-26/12-04-26 Agenda.pdf"
+   ],
+   "scanned": [
+    {
+     "pdf": "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/11-16-26/11-16-26 Agenda.pdf",
+     "pages": 3,
+     "hits": 0
+    },
+    {
+     "pdf": "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/12-04-26/12-04-26 Agenda.pdf",
+     "pages": 1,
+     "hits": 0
+    }
+   ],
    "errors": []
   },
   "c-miamidade": {
