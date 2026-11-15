@@ -4650,12 +4650,20 @@
      "amount": null,
      "text": "7. LICENSES a. Service Description or SOW, and the End User License Agreement (EULA) set forth in Exhibit 1, Cisco grants to Customer a worldwide, non-exclusive and non-transferable license to use for in object code form; (ii) other Deliverables specified in an applicable AS Service Description or L",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "1. License Grant. Subject to the terms and conditions specified below and upon payment of the applicable fees set forth in the Quote, Axon grants to Customer a nonexclusive, nontransferable license to install, use, and display the Axon Investigate software (\"Software\") solely for its own internal us",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1179"
     }
    ],
    "governments": [
     "Sunrise"
    ],
-   "award_count": 3,
+   "award_count": 4,
    "total_amount": 300000.0
   },
   "teen services": {
@@ -4832,13 +4840,21 @@
      "amount": 50000.0,
      "text": "14.12.1 Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Artist shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,000 or more that was received or",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1200"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "\uf052 m. _ Foreign Gifts and Contracts. Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Contractor shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1179"
     }
    ],
    "governments": [
     "Sunrise"
    ],
-   "award_count": 17,
-   "total_amount": 950000.0
+   "award_count": 18,
+   "total_amount": 1000000.0
   },
   "federal assistance sf": {
    "name": "Federal Assistance SF",
@@ -5338,13 +5354,21 @@
      "amount": 151833.0,
      "text": "A. Proposed Resolution R26-135- Award Request for Qualifications No. 26-011Q for Comprehensive Vulnerability Assessment (Grant Funded), to Collective Water Resources, LLC, and approve a Professional Services Agreement between the City of Boynton Beach and Collective Water Resources, LLC in the amoun",
      "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=369"
+    },
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 2074704.0,
+     "text": "A. Proposed Resolution No. R26-059- Award Request for Qualifications No. 25-045Q for NW 3rd Street - SFWMD C-16, (Heart of Boynton), Flood Risk Reduction Project (Grant Funded) to Keith & Associates for Engineering Design and Environmental Review Services, and approve a professional services agreeme",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=345"
     }
    ],
    "governments": [
     "Boynton Beach"
    ],
-   "award_count": 1,
-   "total_amount": 151833.0
+   "award_count": 2,
+   "total_amount": 2226537.0
   },
   "highway traffic safety": {
    "name": "Highway Traffic Safety",
@@ -6106,12 +6130,20 @@
      "amount": null,
      "text": "E. Approval of a Waiver for the Commercial Rent Reimbursement Grant Program to Bungalow at Boynton LLC d/b/a The Bungalow Bar & Grill located at 511 NE 4th Street",
      "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=351"
+    },
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "D. Approval of a Waiver for the Commercial Rent Reimbursement Grant Program to EGVV LLC d/b/a Paloma Mexican Restaurant located in 500 Ocean at 510 E. Ocean Avenue, Unit 105",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=347"
     }
    ],
    "governments": [
     "Boynton Beach"
    ],
-   "award_count": 1,
+   "award_count": 2,
    "total_amount": 0
   },
   "extension construction commencement": {
@@ -6149,9 +6181,359 @@
    ],
    "award_count": 1,
    "total_amount": 0
+  },
+  "lacrossewear": {
+   "name": "LacrosseWear",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "9. Economic Development Incentive Program Grant (Kaitlyn Collier) Request to award the Economic Development Incentive Program Grant in the amount of $50,000 to LacrosseWear, Inc. Funding Source: Approved Operating Budget. Strategic Goal: A Thriving, Resilient Business Community. (REQUEST TO AWARD)",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=313"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 50000.0
+  },
+  "bus shelter replacement": {
+   "name": "Bus Shelter Replacement",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": 325000.0,
+     "text": "13. Bus Shelter Replacement (Chad Maraj) Request to award the contract for Bid #25-B-210F for Bus Shelter Replacement to Naysac Corp. of Miami, Florida in the amount of $325,000.21; and to authorize the Purchasing Manager to approve change orders that are within the designated procurement authority ",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=306"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 325000.0
+  },
+  "florida missing children": {
+   "name": "Florida Missing Children",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": 5000.0,
+     "text": "11. Use of Forfeiture Funds (Brad Mock) Request to authorize the use of $5,000 in Law Enforcement Trust Funds to pay $5,000 for the fiscal year 2026 donation to the Florida Missing Children\u2019s Day Foundation. Funding Source: Receiving Forfeiture to Expend. Strategic Goal: A Thriving, Resilient Busine",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=306"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 5000.0
+  },
+  "motorola solutions": {
+   "name": "Motorola Solutions",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "SUNRISE, FLORIDA RESOLUTION NO. _______ A RESOLUTION OF THE CITY OF SUNRISE, FLORIDA, APPROVING \u201cCOOPERATIVE AGREEMENT NO. 25-29-09-WL BETWEEN THE CITY OF SUNRISE AND MOTOROLA SOLUTIONS, INC.\u201d FOR THE PURCHASE OF RADIOS, ACCESSORIES, AND SERVICES UTILIZING THE STATE OF FLORIDA ALTERNATE CONTRACT SOU",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1179"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "provided data axon": {
+   "name": "Provided Data. Axon",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "14. TASER Data Science Program. Axon will provide a quantitative evaluation on the performance and effectiveness of TASER energy weapons in the field across a variety of circumstances. 14.1. If Customer purchases the TASER Data Science Program, Customer grants Axon, its affiliates, and assignees an ",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1179"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "american cancer society": {
+   "name": "American Cancer Society",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 5000.0,
+     "text": "SUNRISE, FLORIDA RESOLUTION NO. _____ A RESOLUTION OF THE CITY OF SUNRISE, FLORIDA, AUTHORIZING A DONATION TO THE AMERICAN CANCER SOCIETY FOR THE CITY\u2019S PARTICIPATION IN \"PANTHERS ON THE PROWL\" PUBLIC ART CAMPAIGN AND FUNDRAISER; DETERMINING THAT A PUBLIC PURPOSE EXISTS FOR THE DONATION; AND PROVIDI",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1175"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 5000.0
+  },
+  "american cancer society for city": {
+   "name": "American Cancer Society for the City",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "AGENDA ITEM REQUEST Originating Department: City Manager Item Title: Donation Item Number: 4D Meeting Date: 10/28/2025 City Reference Number (C#): C25270 Item Description: A Resolution of The City of Sunrise, Florida, authorizing a Donation to the American Cancer Society for the City\u2019s Participation",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1175"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "american cancer society for public art campaign attachments": {
+   "name": "American Cancer Society for the Public Art Campaign ATTACHMENTS",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 5000.0,
+     "text": "Amount: $5,000.00 Donation to the American Cancer Society for the Public Art Campaign ATTACHMENTS:",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1175"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 5000.0
+  },
+  "exhibit i": {
+   "name": "EXHIBIT I",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "properly disclosed such interests, contracts, grants or gifts to City before execution of this Agreement, and it will remain in compliance with Fla. Stat. \u00a7286.101 for the duration of this Agreement. (D) Section \"14.26 Antitrust Violations\" under Article \"XIV. MISCELLANEOUS\" of the ASA is hereby cre",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1175"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "service legal process": {
+   "name": "Service of Legal Process",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "SUMMARY PLAN DESCRIPTIO lNFORMATION Official Plan Name: Plan Sponsor: Plan Administrator: Claims Administrator: Plan Year: Effective Date of the Plan: Employer Identification o.: Plan Type: Source of Funding for the Plan: Sources of Contribution: Agent for Service of Legal Process: Organization that",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1175"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "SUMMARY PLAN DESCRIPTIO INFORMATIO Official Plan ame: Plan Sponsor: Plan Administrator: Claims Administrator: Plan Year: Effective Date of the Plan: Employer Identification No.: Plan Type: Source of Funding for the Plan: Sources of Contribution: Agent for Service of Legal Process: Organization that ",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1175"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 2,
+   "total_amount": 0
+  },
+  "employer": {
+   "name": "Employer",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "7. AvMed will notify Employer of any unusuall y large claims that may exceed the worlcing deposit amount maintained by Employer in the depository account. Such unusually large claims may also be di sclosed and noticed o n the funding report request every Monday from AvMed to Employer.",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1175"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "normal working hours non normal working hours sub contractor": {
+   "name": "Normal Working Hours and Non-Normal Working Hours. Sub-contractor",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "8 1 Oral Communications concerning this RFP shall not be binding and shall in no way excuse an Offeror of the obligations set forth in this proposal. Yes 8 2 Please download and thoroughly review the Terms and Conditions, located on the Attachments Tab. Indicate your review and acceptance. Yes 8 3 P",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1175"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "rob s golf carts": {
+   "name": "Rob's Golf Carts Corp",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 15600.0,
+     "text": "G. Approval of the Commercial Rent Reimbursement Grant Program in the Amount of $15,600 to Rob's Golf Carts Corp located at 805 N. Federal Highway",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=347"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 15600.0
+  },
+  "shiv shakti donut": {
+   "name": "Shiv Shakti Donut Corporation",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "H. Approval of the Commercial Property Improvement Grant Program in the Amount of $50,000 to Shiv Shakti Donut Corporation d/b/a Dunkin located at 2728 N. Federal Highway",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=347"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 50000.0
+  },
+  "commercial property improvement grant program in amount": {
+   "name": "Commercial Property Improvement Grant Program in the Amount",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 25000.0,
+     "text": "E. Approval of Waiver and Approval for the Commercial Property Improvement Grant Program in the Amount of $25,000 to Civic Center Condominium Association Inc. located at 612 N. Federal Highway",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=347"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 25000.0
+  },
+  "go french concept": {
+   "name": "Go French Concept LLC",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 24000.0,
+     "text": "J. Approval of the Commercial Rent Reimbursement Grant Program in the Amount of $24,000 to Go French Concept LLC d/b/a Le Petit Pain French Bakery located at 618 E. Ocean Avenue",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=347"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 24000.0
+  },
+  "commercial property improvement grant program": {
+   "name": "Commercial Property Improvement Grant Program",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "L. Approval of a Grant Extension until December 1, 2026, for the Commercial Property Improvement Grant Program to DSS Restaurant Management Inc. d/b/a Two Georges Waterfront Grill located at 728 Casa Loma Boulevard",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=347"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "interlocal agreement": {
+   "name": "Interlocal Agreement",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "B. Discussion and Consideration of the Revision to \"Exhibit A\" to the Interlocal Agreement between the Boynton Beach CRA and the City of Boynton Beach for Funding Construction and Professional Services for the Demolition of 670 Oak Street",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=347"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "construction professional services funding for demolition": {
+   "name": "Construction and Professional Services Funding for the Demolition of",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 33248.0,
+     "text": "C. Proposed Resolution No. R26-054- Approving Revised Exhibit A of the Interlocal Agreement between the City of Boynton Beach and the Boynton Beach Community Redevelopment Agency (CRA) for Construction and Professional Services Funding for the Demolition of the Structure Located at 480 W. Boynton Be",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=345"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 33248.0
   }
  },
- "generated_utc": "2026-11-15T03:10:03+00:00",
+ "generated_utc": "2026-11-15T03:24:45+00:00",
  "multi_government": [
   "section",
   "contractor",
