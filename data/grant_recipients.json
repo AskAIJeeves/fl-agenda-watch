@@ -1122,13 +1122,21 @@
      "amount": null,
      "text": "The Contractor will not be responsible for delay resulting from its failure to perform if neither the fault nor the negligence of the Contractor or its employees or agents contributed to the delay, and the delay is due directly to fire, explosion, earthquake, windstorm, flood, radioactive or toxic c",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "DocuSign Envelope ID: 2A07F287-F55A-464B-98C9-343C427BDE88 The Contractor will not be responsible for delay resulting from its failure to perform if neither the fault nor the negligence of the Contractor or its employees or agents contributed to the delay, and the delay is due directly to fire, expl",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1084"
     }
    ],
    "governments": [
     "Deerfield Beach",
     "Sunrise"
    ],
-   "award_count": 4,
+   "award_count": 5,
    "total_amount": 10000000.0
   },
   "purchasing entities": {
@@ -7248,12 +7256,20 @@
      "amount": null,
      "text": "D. Discussion and Consideration of Additional Funding for the Tax Increment Revenue Funding (TIRFA) for the Ocean One Project Located at 114-222 N. Federal Highway",
      "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=325"
+    },
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "E. Discussion and Consideration of the First Amendment to the Tax Increment Revenue Funding (TIRFA) for the Ocean One Project located at 114-222 N. Federal Highway",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=311"
     }
    ],
    "governments": [
     "Boynton Beach"
    ],
-   "award_count": 1,
+   "award_count": 2,
    "total_amount": 0
   },
   "dunedin exhibit": {
@@ -7782,12 +7798,20 @@
      "amount": 20073.0,
      "text": "AGENDA ITEM REQUEST Originating Department: Police Item Title: Agreement Item Number: 4B Meeting Date: 2/11/2025 City Reference Number (C#): C25017 Item Description: A Resolution of the City of Sunrise, Florida, approving an \u201cAgreement for State Financial Assistance between Florida Department of Law",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1096"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "A Resolution of the City of Sunrise, Florida, approving an \u201cAgreement for State Financial Assistance between Florida Department of Law Enforcement and Sunrise Police Department\u201d for the Online Sting Operations Grant Program for Local Law Enforcement; and providing an effective date. City Manager Mar",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1061"
     }
    ],
    "governments": [
     "Sunrise"
    ],
-   "award_count": 1,
+   "award_count": 2,
    "total_amount": 20073.0
   },
   "online s": {
@@ -7915,9 +7939,521 @@
    ],
    "award_count": 1,
    "total_amount": 0
+  },
+  "roadway milling resurfacing": {
+   "name": "Roadway Milling and Resurfacing",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": 1535603.0,
+     "text": "16. Roadway Milling and Resurfacing (Chad Maraj) Request to award the contract for Bid #25-B-018F for Roadway Milling and Resurfacing to Weekley Asphalt Paving, Inc. of Pembroke Pines, Florida in the amount of $1,535,603.50; and to authorize the Purchasing Manager to approve change orders that are w",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=280"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 1535603.0
+  },
+  "seasonal school resource officers": {
+   "name": "Seasonal School Resource Officers",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": 411315.0,
+     "text": "8. Use of Forfeiture Funds (Brad Mock) Request to authorize the use of a total of $411,315 in Law Enforcement Trust Funds, $300,000 to pay for Seasonal School Resource Officers\u2019 salaries, Paying $80,000 for overtime expenses. It is anticipated that we will receive reimbursement from Broward County S",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=280"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 411315.0
+  },
+  "emergency communications training software": {
+   "name": "Emergency Communications Training Software",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": 100000.0,
+     "text": "11. Emergency Communications Training Software (Brad Mock) Request to award contract 25-D-233 for Emergency Communications Training Software to GovWorx, Inc. of Denver, Colorado; and to authorize the Purchasing Manager to approve any change orders within the designated procurement authority up to $7",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=280"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 100000.0
+  },
+  "community development block grant coronavirus": {
+   "name": "Community Development Block Grant Coronavirus",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": null,
+     "text": "17. Amendment to Community Development Block Grant Coronavirus (CDBG-CV) Agreement with Meals on Wheels South Florida (Tracey-Ann Anthony) Request to amend the Community Development Block Grant Coronavirus (CDBG-CV) Agreement between the City of Coral Springs and Human Services Network Inc. Meals on",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=278"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "west oakland park boulevard": {
+   "name": "West Oakland Park Boulevard",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 2500000.0,
+     "text": "TPMRG0115 1 C25007 SUNRISE, FLORIDA RESOLUTION NO. _______ A RESOLUTION OF THE CITY OF SUNRISE, FLORIDA, APPROVING A \u201cSUBRECIPIENT AGREEMENT BETWEEN BROWARD METROPOLITAN PLANNING ORGANIZATION AND CITY OF SUNRISE FOR JOSH LEE BOULEVARD IMPROVEMENTS\u201d; AND PROVIDING AN EFFECTIVE DATE. WHEREAS, the City",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1084"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 2500000.0
+  },
+  "josh lee boulevard improvements": {
+   "name": "Josh Lee Boulevard Improvements",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "WHEREAS, the BMPO is the Grantee of the Community Project Funding (CPF) S9397 of the Consolidated Appropriations Act, 2023, Transit Infrastructure Grant (hereinafter referred to as the \u201cGrant\u201d) from the FTA for the Josh Lee Boulevard Improvements (the \u201cProject\u201d); and",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1084"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "bmpo s": {
+   "name": "BMPO's",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "3.1 Grant - City agrees to comply with all the terms and conditions set forth in the Grant Agreement and the FTA Master Grant Agreement. A copy of the Grant Agreement executed by BMPO will set out the allocation of Grant funds for the Project (\u201cGrant Agreement\u201d) and upon execution will be attached h",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1084"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "grants cooperative agreements": {
+   "name": "Grants and Cooperative Agreements",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "FTA Circular No. 4220.1F \"Third Party Contracting Guidelines\"; 49 CFR Part 19, \"Uniform Administrative Requirements for Grants and Cooperative Agreements to State and Local Governments\"; Office of Management and Budget (OMB) 2 CFR Chapter I, Chapter II, Part 200, et al., Uniform Administrative Requi",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1084"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "paralyzed veterans america florida chapter kevin pickard": {
+   "name": "Paralyzed Veterans of America Florida Chapter. Kevin Pickard",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Recognition of top race finishers at the City's Trick or Trot 5K Race and presentation of a donation to the Paralyzed Veterans of America Florida Chapter. Kevin Pickard, Director of Leisure Services.",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1051"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "boynton beach dentistry": {
+   "name": "Boynton Beach Dentistry",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 2500.0,
+     "text": "D. Approval of the Commercial Business Marketing Grant Program in the amount of $2,500 to Boynton Beach Dentistry located at 1315 N. Federal Highway, Suite 100, Boynton Beach, FL 33435",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=311"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 2500.0
+  },
+  "beach house boutique": {
+   "name": "Beach House Boutique",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 2500.0,
+     "text": "E. Approval of the Commercial Business Marketing Grant Program in the amount of $2,500 to Beach House Boutique located at 1120 S. Federal Highway, Boynton Beach, FL 33435",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=311"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 2500.0
+  },
+  "trilogy fitness mma": {
+   "name": "Trilogy Fitness MMA",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 2500.0,
+     "text": "F. Approval of the Commercial Business Marketing Grant Program in the amount of $2,500 to Trilogy Fitness MMA located at 1550 N. Federal Highway, Units 4-10, Boynton Beach, FL 33435",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=311"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 2500.0
+  },
+  "guaca go": {
+   "name": "Guaca Go",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 2500.0,
+     "text": "G. Approval of the Commercial Business Marketing Grant Program in the amount of $2,500 to Guaca Go located at 510 Ocean Avenue, Unit 106, Boynton Beach, FL 33435",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=311"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 2500.0
+  },
+  "driftwood": {
+   "name": "Driftwood",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 2500.0,
+     "text": "H. Approval of the Commercial Business Marketing Grant Program in the amount of $2,500 to Driftwood located at 2005 S. Federal Highway, Boynton Beach, FL 33435",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=311"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 2500.0
+  },
+  "starfish scuba": {
+   "name": "Starfish Scuba",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 2500.0,
+     "text": "I. Approval of the Commercial Business Marketing Grant Program in the amount of $2,500 to Starfish Scuba located at 735 Casa Loma Boulevard, Boynton Beach, FL 33435",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=311"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 2500.0
+  },
+  "artsea living": {
+   "name": "ArtSea Living",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 2500.0,
+     "text": "J. Approval of the Commercial Business Marketing Grant Program in the amount of $2,500 to ArtSea Living located at 412 East Ocean Avenue, Unit 1, Boynton Beach, FL 33435",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=311"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 2500.0
+  },
+  "south florida mastercraft": {
+   "name": "South Florida Mastercraft",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 2500.0,
+     "text": "K. Approval of the Commercial Business Marketing Grant Program in the amount of $2,500 to South Florida Mastercraft, located at 725 N. Federal Highway, Boynton Beach, FL 33435",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=311"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 2500.0
+  },
+  "mancave for men boynton beach": {
+   "name": "Mancave for Men Boynton Beach",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 2500.0,
+     "text": "L. Approval of the Commercial Business Marketing Grant Program in the amount of $2,500 to Mancave for Men Boynton Beach, located at 1503 Federal Highway, Boynton Beach, FL 33435",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=311"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 2500.0
+  },
+  "venasky tailor experience": {
+   "name": "Venasky Tailor Experience LLC",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 9540.0,
+     "text": "M. Approval of the Commercial Rent Reimbursement Grant Program in the Amount of $9,540 to Venasky Tailor Experience LLC located at 312 E. Boynton Beach Boulevard",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=311"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 9540.0
+  },
+  "prosperity": {
+   "name": "Prosperity",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "C. Proposed Resolution No. R25-230- Approving Community Development Block Grant Subaward Agreements between the City and Pathways to Prosperity, Inc., Feeding South Florida, Inc., Legal Aid Society of Palm Beach County, Inc., and Sea Turtle Adventures, Inc. for fiscal year 2025.",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=309"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "safe routes": {
+   "name": "Safe Routes",
+   "awards": [
+    {
+     "entity_id": "c-pasco",
+     "government": "Pasco County",
+     "meeting_date": "2026-11-12",
+     "amount": null,
+     "text": "# Required Activities-Task 2 End Products Completion Date 54 Develop and maintain the TIP in coordination with FDOT, local governments, citizens, and transportation providers and in accordance with state and federal laws, including incorporation of performance measures and targets TIP July 2026 \u2013 Ju",
+     "link": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12081,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Pasco County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "road safety audits": {
+   "name": "Road Safety Audits",
+   "awards": [
+    {
+     "entity_id": "c-pasco",
+     "government": "Pasco County",
+     "meeting_date": "2026-11-12",
+     "amount": null,
+     "text": "\u2022 Innagural Freight Plan Completed UPWP Task 3.0 Technical Program PURPOSE: To implement the processes that support the federal and state required documents and to support the planning of the transportation system in Pasco County, as well as the Tampa Bay region, the state of Florida and national ef",
+     "link": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12081,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Pasco County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "healthcare administration": {
+   "name": "Healthcare Administration",
+   "awards": [
+    {
+     "entity_id": "c-pasco",
+     "government": "Pasco County",
+     "meeting_date": "2026-11-17",
+     "amount": 150000.0,
+     "text": "N151 (SPS26-0073) Agreement \u2013 State of Florida, Agency for Healthcare Administration \u2013 Premier Community Healthcare, Inc. \u2013 Local Match Funding for Low Income Pool \u2013 $150,000.00 File Number NI27-0278 Comm. Dist. All Recommendation Receive and File",
+     "link": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12082,plainText=false)"
+    },
+    {
+     "entity_id": "c-pasco",
+     "government": "Pasco County",
+     "meeting_date": "2026-11-17",
+     "amount": 150000.0,
+     "text": "C46 Agreement \u2013 State of Florida, Agency for Healthcare Administration \u2013 Premier Community Healthcare, Inc. \u2013 Local Match Funding for Low Income Pool \u2013 $150,000.00 File Number SPS26-0073 Comm. Dist. All Recommendation Approve",
+     "link": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12083,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Pasco County"
+   ],
+   "award_count": 2,
+   "total_amount": 300000.0
+  },
+  "town country villas septic": {
+   "name": "Town and Country Villas Septic",
+   "awards": [
+    {
+     "entity_id": "c-pasco",
+     "government": "Pasco County",
+     "meeting_date": "2026-11-17",
+     "amount": 2000000.0,
+     "text": "C16 Budget Amendment \u2014 Transfer from the Board General Fund Reserves \u2014 City of New Port Richey \u2014 Funding for Town and Country Villas Septic to Sewer Project \u2014 $2,000,000.00 File Number OMB26-0068 Comm. Dist. All Recommendation Approve",
+     "link": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12083,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Pasco County"
+   ],
+   "award_count": 1,
+   "total_amount": 2000000.0
+  },
+  "recovery": {
+   "name": "Recovery",
+   "awards": [
+    {
+     "entity_id": "c-pasco",
+     "government": "Pasco County",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "Discussion was held regarding appreciation for the checks; appreciation for getting the messages out there; checking the facts; Amendment 3; trickle down effects; Mr. Fasano\u2019s voice in Tallahassee; laying out how the budget looked; funding that wasn\u2019t there; cuts that would be seen; Scallop Fest; We",
+     "link": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12083,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Pasco County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "support united way partner agencies": {
+   "name": "Support United Way Partner Agencies",
+   "awards": [
+    {
+     "entity_id": "c-pasco",
+     "government": "Pasco County",
+     "meeting_date": "2026-11-17",
+     "amount": 315000.0,
+     "text": "C44 Funding Agreement \u2013 United Way of Pasco County, Inc. \u2013 Pasco County Contribution to Support United Way Partner Agencies \u2013 $315,000.00 File Number SPS26-0065 Comm. Dist. All Recommendation Approve",
+     "link": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12083,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Pasco County"
+   ],
+   "award_count": 1,
+   "total_amount": 315000.0
+  },
+  "utility wastewater lift stations": {
+   "name": "Utility Wastewater Lift Stations",
+   "awards": [
+    {
+     "entity_id": "c-pasco",
+     "government": "Pasco County",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "\u2022 He spoke regarding a grant awarded by FEMA for Utility Wastewater Lift Stations.",
+     "link": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12083,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Pasco County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "shovel": {
+   "name": "Shovel",
+   "awards": [
+    {
+     "entity_id": "c-pasco",
+     "government": "Pasco County",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "C54 Gap Funding for Shovel -Ready Housing Project \u2014 Vincent House Pasco Affordable Member Housing Funded by the Community Development Block Grant Disaster Recovery (CDBG-DR) Funds File Number ODRR26-0024 Comm. Dist. All Recommendation Approve",
+     "link": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12083,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Pasco County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
   }
  },
- "generated_utc": "2026-11-15T04:24:06+00:00",
+ "generated_utc": "2026-11-15T14:15:00+00:00",
  "multi_government": [
   "section",
   "contractor",
