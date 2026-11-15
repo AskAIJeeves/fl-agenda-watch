@@ -1,9 +1,9 @@
 {
- "generated_utc": "2026-11-15T02:37:58+00:00",
+ "generated_utc": "2026-11-15T02:57:23+00:00",
  "counts": {
-  "pool": 1145,
-  "outgoing_grants": 320,
-  "bypass": 119,
+  "pool": 1275,
+  "outgoing_grants": 356,
+  "bypass": 151,
   "other_top": 150
  },
  "outgoing_grants": [
@@ -484,6 +484,54 @@
    "found_utc": "2026-11-15T02:19:31+00:00"
   },
   {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Apr 28, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.82",
+   "file_number": null,
+   "title": "4. products in a manner other than as contemplated by the Contract or otherwise authorized by the Contractor in writing. DocuSign Envelope ID: F95706BF-7282-4AB8-B0D8-6298E823225C Limitations of Liability The Parties agree that neither Contractor nor the indemnified party shall be liable to each other, regardless of the form of action, for consequential, incidental, indirect, or special damages except any claim related to bodily injury or death an unauthorized release or breach of not public data as set forth more fully in Minn. Ch. 13; or a claim or demand based on patent, copyright, or other intellectual property infringement. Contractor\u2019s liability is limited to the greater of (i) the aggregate annual value amount of all fees paid to the Contractor by the Purchasing Entity under this Master Agreement; and (ii) $5,000,000. This limit on liability does not apply to claims for bodily injury or death or for intellectual property infringement. Contractor\u2019s obligations under this section shall not extend to any combination of the Product with any other product, system or method, unless the Product, system or method is provided by the Contractor or the Contractor\u2019s subsidiaries or affi",
+   "max_amount": 5000000.0,
+   "signals": [
+    "legal"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Contractor",
+   "signal_score": 5.7,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-daytonabeach",
+   "government": "Daytona Beach",
+   "client": "civicweb",
+   "body": "Downtown Redevelopment Board - Nov 03 2026",
+   "meeting_date": "2026-11-03",
+   "agenda_number": "p.7",
+   "file_number": null,
+   "title": "Downtown Redevelopment Board Minutes | 5 10/06/2026 total project cost was $47,083.35. Staff reviewed both applications and were prepared to issue the appropriate award documentation and advance the Farm to Fit application to the CRA Board for final approval. A motion was made to approve the commercial grant application for 168 North Beach Street by Mr. Lawson and seconded by Mr. Karet. The motion was carried 4\u20130. Ms. Fuqua then presented the Public Works report, noting ongoing development, road changes, and other infrastructure projects. She invited questions and offered to relay any concerns to the Public Works Department. Ms. Cook asked whether CopperLine Coffee had also applied for a grant to repair its building before installing the proposed mural. Ms. Fuqua clarified that CopperLine had submitted an application only for the mural and was requesting $10,000 for that purpose. No building improvement grant application had been submitted. Any future request for building improvements would require a separate application with supporting documentation and cost estimates. Mr. Benavente asked whether the board would vote on the grant application for 635 North Beach Street before movin",
+   "max_amount": 47083.0,
+   "signals": [
+    "facilities",
+    "vanity"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "CRA Board",
+   "signal_score": 5.7,
+   "keywords": [],
+   "meeting_url": "https://codb.civicweb.net/Portal/MeetingInformation.aspx?Id=3600",
+   "agenda_pdf": "https://codb.civicweb.net/document/233455/Downtown%20Redevelopment%20Board%20-%20Nov%2003%202026.pdf?handle=AD25BEA427DD4FD18DF7CD1CC5208BB3",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
    "entity_id": "m-stpetersburg",
    "government": "St. Petersburg",
    "client": "pdf",
@@ -943,6 +991,28 @@
    "found_utc": "2026-11-15T02:19:31+00:00"
   },
   {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 10, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.217",
+   "file_number": null,
+   "title": "B: This item recognizes the appropriation of fund balance in the amount of $5,000,000 and transfers the funding to the Water and Wastewater Fund (401) to support the expenditures related to the Interlocal Agreement with Broward County, which will be presented for approval at the City Commission meeting on March 24, 2026. Department Head Recommendation: Approval Person With Additional Information:",
+   "max_amount": 5000000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Water and Wastewater Fund",
+   "signal_score": 4.7,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1205",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
    "entity_id": "c-palmbeach",
    "government": "Palm Beach County",
    "client": "pdf",
@@ -1055,6 +1125,30 @@
    "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
    "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1230",
    "found_utc": "2026-11-15T02:19:31+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 10, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.217",
+   "file_number": null,
+   "title": "A: This item recognizes the appropriation of fund balance in the amount of $305,000 and transfers the funding to the Springtree Golf Club Fund (420) to support expenditures related to the roof/truss replacement at the Bridges at Springtree Golf Club. Springtree Golf Club Fund 420",
+   "max_amount": 305000.0,
+   "signals": [
+    "facilities"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Springtree Golf Club Fund",
+   "signal_score": 4.5,
+   "keywords": [
+    "golf"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1205",
+   "found_utc": "2026-11-15T02:39:26+00:00"
   },
   {
    "entity_id": "m-kissimmee",
@@ -2566,6 +2660,32 @@
    "found_utc": "2026-11-15T02:19:31+00:00"
   },
   {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 24, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.335",
+   "file_number": null,
+   "title": "4. Project Agreement is hereby amended to add Section 8 - Foreign Gifts and Contracts. Add language underlined as follows: SECTION 8 FOREIGN GIFTS AND CONTRACTS 8.1 Pursuant to Fla. Stat. \u00a7286.101 (3), where the amount of the grant or contract is 100,000.00 or more, Consultant shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,000 or more that was received or in force during the previous five (5) years. Definitions, disclosure requirements and exceptions are found in Fla. Stat. \u00a7268.101. Consultant represents and warrants it has complied with Fla. Stat. \u00a7286.101, it has properly disclosed such interests, contracts, grants or gifts to City before execution of this Agreement, and it will remain in compliance with Fla. Stat. \u00a7286.101 for the duration of this Agreement.",
+   "max_amount": 50000.0,
+   "signals": [
+    "consultants"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Fla. Stat",
+   "signal_score": 3.7,
+   "keywords": [
+    "agreement",
+    "consultant",
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1207",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
    "entity_id": "m-stpetersburg",
    "government": "St. Petersburg",
    "client": "pdf",
@@ -3099,6 +3219,26 @@
    "meeting_url": "https://miamibeachfl.primegov.com/Portal/Meeting?meetingTemplateId=6280",
    "agenda_pdf": "https://miamibeachfl.primegov.com/Public/CompiledDocument?meetingTemplateId=6280&compileOutputType=1",
    "found_utc": "2026-11-15T02:19:31+00:00"
+  },
+  {
+   "entity_id": "m-coralsprings",
+   "government": "Coral Springs",
+   "client": "pdf",
+   "body": "Coral Springs City Commission Regular Meeting - Aug 20, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "Request to approve 2026 Roads for Economic Vitality (REV) Cycle 1 grant applications for the NW 123rd Avenue Mobility Project and adopt Resolution 2026-028 supporting the REV grant application to the Broward Metropolitan Planning Organization (MPO); commit up to $271,656.41 in local funding for the NW 123rd Avenue Mobility Project; and authorize transmittal to the appropriate review agencies. (CON26-0004)",
+   "max_amount": 271656.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Economic Vitality",
+   "signal_score": 3.4,
+   "keywords": [],
+   "meeting_url": "https://coralsprings.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=323",
+   "found_utc": "2026-11-15T02:39:26+00:00"
   },
   {
    "entity_id": "m-jacksonville",
@@ -3880,6 +4020,123 @@
    "found_utc": "2026-11-15T02:19:31+00:00"
   },
   {
+   "entity_id": "m-coralsprings",
+   "government": "Coral Springs",
+   "client": "pdf",
+   "body": "Coral Springs City Commission Special Meeting: TRIM &amp; Non-Ad Valorem - Aug 07, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.2",
+   "file_number": null,
+   "title": "9. Sponsorship Consulting Services (Brad McKeone) Request to waive the competitive procurement process consistent with Section 2-305.1(7) of the City Procurement Code and award Contract No. 26-A-268NC for Sponsorship Consulting Services to Sports Facilities Management, LLC of Clearwater, Florida, a division of Sports Facilities Development, LLC from June 17, 2026 through May 19, 2034. Funding Source: Not Applicable. Strategic Goal: An Active, Healthy Community. (REQUEST TO AWARD)",
+   "max_amount": null,
+   "signals": [
+    "consultants"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Sponsorship Consulting Services",
+   "signal_score": 3,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://coralsprings.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=322",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - May 12, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.74",
+   "file_number": null,
+   "title": "Attachment A, Exhibit 1: Page 24 of 37 Exhibit 1 Additional Contractor Terms and Conditions END USER LICENSE AGREEMENT You and Cisco. Please read it carefully. The Agreement includes the applicable Cloud Offer Description(s) located at https://www.cisco.com/c/en/us/about/legal/cloud-and-software/cloud-terms.html and SEULA(s) located at https://www.cisco.com/c/en/us/about/legal/cloud-and-software/software- and the order of precedence in the event of conflict is in Section 1 . Depending on whether the Software is delivered on-premise as Embedded Software or as a Cisco-hosted cloud offering of Cloud Software, certain terms herein may not apply to Your purchase. must have the authority to enter into this Agreement. If You do not have such authority, or if You do not agree with the terms of this Agreement, do not click accept and do not Use the Software. If You determine that You cannot comply with the terms of this Agreement after You have paid for the Software, You may return the Software to the Approved Source, disable or uninstall the Embedded Software and/or cease Your Use of the cloud-hosted Cloud Software and receive a full refund, provided You do so within thirty (30) days of Yo",
+   "max_amount": null,
+   "signals": [
+    "consultants"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Software",
+   "signal_score": 3,
+   "keywords": [
+    "agreement",
+    "purchase",
+    "refund"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 24, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.24",
+   "file_number": null,
+   "title": "C. IF Amex HAS QUESTIONS REGARDING THE APPLICATION OF CHAPTER 119, FLORIDA STATUTES, TO Amex\u2019S DUTY TO PROVIDE PUBLIC RECORDS RELATING TO THIS CONTRACT, CONTACT THE CUSTODIAN OF PUBLIC RECORDS AT FELICIA M. BRAVO, BY TELEPHONE (954/746-3333), E-MAIL (CITYCLERK@SUNRISEFL.GOV). FOREIGN GIFTS AND CONTRACTS Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the Purchase is $100,000.00 or more, Amex shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,000 or more that was received or in force during the previous five (5) years. Definitions, disclosure requirements and exceptions are found in Fla. Stat. \u00a7268.101. Amex represents and warrants it has complied with Fla. Stat. \u00a7286.101, it has properly disclosed such interests, contracts, grants or gifts to City before execution of this CONTRACT, and it will remain in compliance with Fla. Stat. \u00a7286.101 for the duration of this CONTRACT. ENTITIES OF FOREIGN COUNTRIES OF CONCERN Section 287.138, Florida Statutes, prohibits the City from entering in to a contract which would give access to an individual\u2019s personal identifying information to ",
+   "max_amount": 100000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Fla. Stat",
+   "signal_score": 3.0,
+   "keywords": [
+    "contract",
+    "purchase"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1207",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 10, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.230",
+   "file_number": null,
+   "title": "2025 Mayor and City Commissioner Survey Broward County Mayor and City Commissioner Allowance Survey Number of Elected Officials Are the Elected Officials provided an auto allowance? If yes, how much per Mayor and/or Commissioner? (Annual) If yes, are receipts or any reporting on mileage required for reimbursement? Are the Commissioners provided an expense allowance? If yes, how much per Mayor and/or Commissioner? If yes, are receipts required for reimbursement? Are any other allowances provided to the Mayor and/or Commissioners? Please describe: How much discretionary funds are appropriated in the budget for the Mayor and/or Commissioners in total? Are the discretionary funds allocated separately to the Mayor and each Commissioner? Are receipts required for the use of discretionary funds? TAMARAC WESTON 5 5 YES NO $8,400 N/A NO N/A YES NO Can use discretionary funds (below) with receipts N/A YES N/A YES-CELLPHONE NO $105,000 TOTAL $20,000/YR - COMM $25,000/YR - MAYOR N/A YES N/A YES N/A N/A$600/YR",
+   "max_amount": 105000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 3.0,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1205",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 10, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.238",
+   "file_number": null,
+   "title": "RAFTELIS January 19, 2026 Rodrigo de Castro, P.E. Director of Utilities City of Sunrise 777 Sawgrass Corporate Parkway Sunrise, FL 33325 Subject: Agreement to Perform a 2026 Revenue Sufficiency Update Dear Mr. de Castro: Raftelis is pleased to submit this agreement to provide utility and rate consulting services (the \"Agreement\") to the City of Sunrise (the \"City\"). The Agreement is being provided based on our discussions with the City regarding the need to update the financial forecast and model to evaluate the ability of water, wastewater, and reclaimed utility (the \"Utility\" or \"System\") rates to fund additional and unplanned capital expenditures since the prior study (the \"Project\"). Based on discussions with City staff, key reasons for undertaking this project include, but are not limited to, regulatory requirements resulting in new and additional capital expenditures related to PF AS and biosolids impacting the sufficiency of rate revenues, as well as, assessing the operational savings tied to AMI metering infrastructure. Specifically, it is envisioned that we will perform a comprehensive revenue sufficiency and an eleven-year financial forecast of the System operations and c",
+   "max_amount": null,
+   "signals": [
+    "consultants"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Perform",
+   "signal_score": 3,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1205",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
    "entity_id": "m-melbourne",
    "government": "Melbourne",
    "client": "civicclerk",
@@ -4209,6 +4466,120 @@
    "meeting_url": "https://codb.civicweb.net/Portal/MeetingInformation.aspx?Id=3571",
    "agenda_pdf": "https://codb.civicweb.net/document/233577/Community%20Redevelopment%20Agency%20(CRA)%20-%20Nov%2004%202.pdf?handle=ACB55409949D42E5A2B4FC05F4F7E7C9",
    "found_utc": "2026-11-15T02:19:31+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - May 12, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.46",
+   "file_number": null,
+   "title": "\uf078 m. Foreign Gifts and Contracts. Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Contractor shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,000 or more that was received or in force during the previous five (5) years. Definitions, disclosure requirements and exceptions are found in Fla. Stat. \u00a7286.101. Contractor represents and warrants it has complied with Fla. Stat. \u00a7286.101, it has properly disclosed such interests, contracts, grants or gifts to City before execution of this Agreement, and it will remain in compliance with Fla. Stat. \u00a7286.101 for the duration of this Agreement.",
+   "max_amount": 50000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Fla. Stat",
+   "signal_score": 2.7,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Apr 28, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.57",
+   "file_number": null,
+   "title": "minimum, the duration of the subcontract and any extension thereof. This provision shall not supersede any provision of this Agreement which requires a longer retention period. iii. City shall terminate this Agreement if it has a good faith belief that Contractor has knowingly violated Section 448.09(1), Florida Statutes, as may be amended. If City has a good faith belief that Contractor\u2019s subcontractor has knowingly violated Section 448.09(1), Florida Statutes, as may be amended, City shall notify Contractor to terminate its contract with the subcontractor and Contractor shall immediately terminate its contract with the subcontractor. iv. If City terminates this Agreement pursuant to the subsection iii above, Contractor shall be barred from being awarded a future contract by City for a period of one (1) year from the date on which this Contract was terminated. In the event of such Contract termination, Contractor shall also be liable for any additional costs incurred by City as a result of the termination. \uf054 m. Foreign Gifts and Contracts. Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Contractor shall disclose any current or p",
+   "max_amount": 50000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Fla. Stat",
+   "signal_score": 2.7,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Apr 28, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.164",
+   "file_number": null,
+   "title": "34. Foreign Gifts and Contracts Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Contractor shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,000 or more that was received or in force during the previous five (5) years. Definitions, disclosure requirements and exceptions are found in Fla. Stat. \u00a7286 .101. Contractor represents and warrants it has complied with Fla. Stat. \u00a7286.101, it has properly disclosed such interests, contracts, grants or gifts to City before execution of this Contract, and it will remain in compliance with Fla. Stat. \u00a7286.101 for the duration of this Contract.",
+   "max_amount": 50000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Fla. Stat",
+   "signal_score": 2.7,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Apr 28, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.286",
+   "file_number": null,
+   "title": "X ____ m. Foreign Gifts and Contracts. Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Contractor shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,000 or more that was received or in force during the previous five (5) years. Definitions, disclosure requirements and exceptions are found in Fla. Stat. \u00a7268.101. Contractor represents and warrants it has complied with Fla. Stat. \u00a7286.101, it has properly disclosed such interests, contracts, grants or gifts to City before execution of this Agreement, and it will remain in compliance with Fla. Stat. \u00a7286.101 for the duration of this Agreement.",
+   "max_amount": 50000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Fla. Stat",
+   "signal_score": 2.7,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 10, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.254",
+   "file_number": null,
+   "title": "4. If City terminates this Agreement pursuant to the subsection 3 above, Raftelis shall be barred from being awarded a future contract by City for a period of one (1) year from the date on which this Agreement was terminated. In the event of such Agreement termination, Raftelis shall also be liable for any additional costs incurred by City as a result of the termination. i. Foreign Gifts and Contracts. Pursuant to Fla. Stat. \u00a7286.101 (3), where the amount of the grant or contract 100,000.00 or more, Raftelis shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,000 or more that was received or in force during the previous five (5) years. Definitions, disclosure requirements and exceptions are found in Fla. Stat. \u00a7268.101. Raftelis represents and warrants it has complied with Fla. Stat. \u00a7286.101, it has properly disclosed such interests, contracts, grants or gifts to City before execution of this Agreement, and it will remain in compliance with Fla. Stat. \u00a7286.101 for the duration of this Agreement. j. Waiver Of Jury Trial. Both parties hereby waive a jury trial and will proceed to a tr",
+   "max_amount": 50000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Fla. Stat",
+   "signal_score": 2.7,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1205",
+   "found_utc": "2026-11-15T02:39:26+00:00"
   },
   {
    "entity_id": "c-lee",
@@ -6998,6 +7369,421 @@
    "meeting_url": "https://miamibeachfl.primegov.com/Portal/Meeting?meetingTemplateId=6280",
    "agenda_pdf": "https://miamibeachfl.primegov.com/Public/CompiledDocument?meetingTemplateId=6280&compileOutputType=1",
    "found_utc": "2026-11-15T02:19:31+00:00"
+  },
+  {
+   "entity_id": "m-coralsprings",
+   "government": "Coral Springs",
+   "client": "pdf",
+   "body": "Coral Springs City Commission Regular Meeting - Aug 20, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "13. Resolution 2026-028, Approval of Roads for Economic Vitality (REV) Cycle 1 Grant Application for NW 123 rd Avenue Mobility Project (Tina Jou)",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Economic Vitality",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://coralsprings.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=323",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-coralsprings",
+   "government": "Coral Springs",
+   "client": "pdf",
+   "body": "Coral Springs City Commission Regular Meeting - Aug 20, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "Request to adopt Resolution 2026-027 approving the Interlocal Agreement between Broward County and the City of Coral Springs for HOME Investment Partnership funding for FY 2025/2026; authorize the appropriate City Officials to execute the agreement and transmit the resolution to Broward County Home Consortium.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "HOME Investment Partnership",
+   "signal_score": 2,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://coralsprings.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=323",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Special City Commission Meeting - May 22, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.110",
+   "file_number": null,
+   "title": "IMPLEMENTATION PLAN Based on financial modeling, Table 12 below presents the recommended cost per ton funding structure for FY 2027 through FY 2033 that will be applied to residential customers. The table presents the anticipated cost per ton and indicates the primary funding mechanism in each fiscal year as the Authority transitions from Phase II (tipping fee surcharge) to Phase III (non-ad valorem assessment). Specific assessment amounts will be determined through detailed assessment development studies and policy decisions by the Authority's Governing Board. Table 12. Recommended Phase Implementation Plan Fiscal Year Cost per Ton Funding Mechanism FY 2027 -- Member Contribution FY 2028 $ 2.00 Surcharge FY 2029 $ 2.10 Surcharge FY 2030 $ 2.27 Surcharge/Non-Ad Valorem Assessment FY 2031 $ 2.45 Non-Ad Valorem Assessment FY 2032 $ 2.65 Non-Ad Valorem Assessment FY 2033 $ 2.86 Non-Ad Valorem Assessment",
+   "max_amount": 2.86,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Phase III",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1218",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Special City Commission Meeting - May 22, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.116",
+   "file_number": null,
+   "title": "How does funding flow to the Authority? 4",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Authority",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1218",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Special City Commission Meeting - May 22, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.117",
+   "file_number": null,
+   "title": "Receiving facility collects the tipping fee plus $20 surcharge from the hauler (i.e. pass through cost) Truck gets to scale (for example, 10 tons at $2.00 per ton = $20) Funding Flow Recycling, yard waste, solid waste is collected Tipping Fee Surcharge SWA assessment on tax bill - estimated at $2.45 per ton Assessment goes straight to SWA Non-Ad Valorem Assessment FY 2028 to 2030 Phase III: FY 2031 Receiving facility passes $20 to the SWA Recycling, yard waste, solid waste is collected In FY 2028, the $2.00 per ton surcharge is added to the collection rate paid by the hauler (i.e. pass through cost) FY 2027 City pays contribution (based on your city\u2019s population) Comparable to FY 2026 Member Contribution 5 Phase II: Phase I:",
+   "max_amount": 20.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "SWA Non-Ad Valorem Assessment FY",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1218",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - May 12, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.63",
+   "file_number": null,
+   "title": "20. License of Pre-Existing Intellectual Property Contractor grants to Purchasing Entity a license to Software pursuant to the license terms and restrictions set forth in Exhibit 1.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Purchasing Entity",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - May 12, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.81",
+   "file_number": null,
+   "title": "7. LICENSES a. Service Description or SOW, and the End User License Agreement (EULA) set forth in Exhibit 1, Cisco grants to Customer a worldwide, non-exclusive and non-transferable license to use for in object code form; (ii) other Deliverables specified in an applicable AS Service Description or Licensed Materials In addition, Cisco grants to Customer a right to modify and create derivative works of any Scripts provided by Cisco to Customer pursuant to this Services Exhibit, solely for internal business use. These license grants do not include the right to sublicense; provided that Customer may permit its suppliers, subcontractors and other related third parties to use the ensures that any such use is subject to license restrictions and confidentiality obligations at least as p Agreement. b. Nothing in this Agreement, any AS Service Description or any SOW shall alter or affect the Intellectual Property rights and/or licenses provided with any Cisco Products. c. Customer hereby grants to Cisco a perpetual, irrevocable, royalty free, worldwide right and license to all Intellectual Property in the Customer Feedback (as defined below) to use and incorporate Customer Feedback into any",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Customer",
+   "signal_score": 2,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - May 12, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.128",
+   "file_number": null,
+   "title": "SP approved version 7\u20101\u20102019 15 The Contractor will not be responsible for delay resulting from its failure to perform if neither the fault nor the negligence of the Contractor or its employees or agents contributed to the delay, and the delay is due directly to fire, explosion, earthquake, windstorm, flood, radioactive or toxic chemical hazard, war, military hostilities, terrorism, civil emergency, embargo, riot, strike, violent civil unrest, or other similar cause wholly beyond the Contractor\u2019s reasonable control, or for any of the foregoing that affect subcontractors or suppliers if no alternate source of supply is available to the Contractor. The foregoing does not excuse delay which could have been avoided if the Contractor implemented any risk mitigation required by the Contract. In case of any delay the Contractor believes is excusable, the Contractor will notify the Department in writing of the delay or potential delay and describe the cause of the delay either (1) within ten (10) calendar days after the cause that created or will create the delay first arose, if the Contractor could reasonably foresee that a delay could occur as a result, or (2) if delay is not reasonably ",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Contractor. The",
+   "signal_score": 2,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Apr 28, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.24",
+   "file_number": null,
+   "title": "C. All equipment purchased with grant funds is the property of the grantee, and is subject to Chapter 273, Florida Sta tutes, dealing with state-owned tangible personal property and the disposition thereof. For research institutions not covered under Chapter 1000, Florida Statutes, eq uipment no longer deemed to be useful will remain state property and must be transferr ed or donated to a state agency or public university for redistribution or disposit ion. SECTION IV: SERVICES TO BE PROVIDED",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Chapter",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Apr 28, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.44",
+   "file_number": null,
+   "title": "Ml-Ion: To protect, promote and improve the health of all people in Florida through integrated state, county and community efforts. HEALTH Ron DeSantls Governor Jo-ph A. Ladapo, MD, PhD State Surgeon General Vision: To be the Healthiest state in the Nation Chief John McNamara, Fire Chief Sunrise Fire Rescue 10440 West Oakland Park Boulevard Sunrise, FL 33351 Dear Chief McNamara: Via Email to sgrasso@sunrisefl.gov May 5, 2025 The Florida Department of Health (Department), Division of Emergency Preparedness and Community Support is pleased to award the Emergency Medical Services (EMS) Matching Grant, M2547, in the amount of $7,164.79 to Sunrise Fire Rescue. This award is subject to appropriation and availability of funds. The purpose of this grant is to provide funds for the expansion and/or improvement of prehospital EMS by assisting your organization with the purchase of Software upgrades, cables and sensors. Section 401.113(2)(b), Florida Statutes (F.S.), provides authority to dispense funds annually from the EMS Trust Fund; no federal funding was utilized for this grant. The grant cycle begins on the date the Memorandum of Agreement (MOA) associated with this award is executed an",
+   "max_amount": 9553.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Sunrise Fire Rescue. This",
+   "signal_score": 2,
+   "keywords": [
+    "agreement",
+    "purchase"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Apr 28, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.134",
+   "file_number": null,
+   "title": "The Contractor will not be responsible for delay resulting from its failure to perform if neither the fault nor the negligence of the Contractor or its employees or agents contributed to the delay, and the delay is due directly to fire, explosion, earthquake, windstorm, flood, radioactive or toxic chemical hazard, war, military hostilities, terrorism, civil emergency, embargo, riot, strike, violent civil unrest, or other similar cause wholly beyond the Contractor\u2019s reasonable control, or for any of the foregoing that affect subcontractors or suppliers if no alternate source of supply is available to the Contractor. The foregoing does not excuse delay which could have been avoided if the Contractor implemented any risk mitigation required by the Contract. In case of any delay the Contractor believes is excusable, the Contractor will notify the Department in writing of the delay or potential delay and describe the cause of the delay either (1) within ten (10) calendar days after the cause that created or will create the delay first arose, if the Contractor could reasonably foresee that a delay could occur as a result, or (2) if delay is not reasonably foreseeable, within five (5) cal",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Contractor. The",
+   "signal_score": 2,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Apr 28, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.298",
+   "file_number": null,
+   "title": "19) '\u018c\u0102\u0176\u019a\u0003\u017d\u0128\u0003>\u015d\u0110\u011e\u0176\u0190\u011e\u0358\u0003 a) \u0018\u01b5\u018c\u015d\u0176\u0150\u0003\u019a\u015a\u011e\u0003\u019a\u011e\u018c\u0175\u0003\u017d\u0128\u0003\u019a\u015a\u015d\u0190\u0003\u0004\u0150\u018c\u011e\u011e\u0175\u011e\u0176\u019a\u0357 i) ^\u01b5\u0189\u0189\u016f\u015d\u011e\u018c\u0003W\u018c\u017d\u0175\u017d\u019f\u017d\u0176\u0358 Sourcewell grants to Supplier a royalty-free, worldwide, non-exclusive \u018c\u015d\u0150\u015a\u019a\u0003\u0102\u0176\u011a\u0003\u016f\u015d\u0110\u011e\u0176\u0190\u011e\u0003\u019a\u017d\u0003\u01b5\u0190\u011e\u0003\u019a\u015a\u011e\u0003\u019a\u018c\u0102\u011a\u011e\u0175\u0102\u018c\u016c\u037e\u0190\u037f\u0003\u0189\u018c\u017d\u01c0\u015d\u011a\u011e\u011a\u0003\u019a\u017d\u0003^\u01b5\u0189\u0189\u016f\u015d\u011e\u018c\u0003\u010f\u01c7\u0003^\u017d\u01b5\u018c\u0110\u011e\u01c1\u011e\u016f\u016f\u0003\u015d\u0176\u0003\u0102\u011a\u01c0\u011e\u018c\u019f\u0190\u015d\u0176\u0150\u0355\u0003 \u0189\u018c\u017d\u0175\u017d\u019f\u017d\u0176\u0102\u016f\u0003\u0175\u0102\u019a\u011e\u018c\u015d\u0102\u016f\u0190\u0355\u0003\u0102\u0176\u011a\u0003\u015d\u0176\u0128\u017d\u018c\u0175\u0102\u019f\u017d\u0176\u0102\u016f\u0003\u0190\u015d\u019a\u011e\u0190\u0003\u0128\u017d\u018c\u0003\u019a\u015a\u011e\u0003\u0189\u01b5\u018c\u0189\u017d\u0190\u011e\u0003\u017d\u0128\u0003\u0175\u0102\u018c\u016c\u011e\u019f\u0176\u0150\u0003^\u017d\u01b5\u018c\u0110\u011e\u01c1\u011e\u016f\u016f\u035b\u0190\u0003 Agreement with Supplier.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Supplier",
+   "signal_score": 2,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Apr 28, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.298",
+   "file_number": null,
+   "title": "ii) ^\u017d\u01b5\u018c\u0110\u011e\u01c1\u011e\u016f\u016f\u0003W\u018c\u017d\u0175\u017d\u019f\u017d\u0176\u0358 Supplier grants to Sourcewell a royalty-free, worldwide, non- \u011e\u01c6\u0110\u016f\u01b5\u0190\u015d\u01c0\u011e\u0003\u018c\u015d\u0150\u015a\u019a\u0003\u0102\u0176\u011a\u0003\u016f\u015d\u0110\u011e\u0176\u0190\u011e\u0003\u019a\u017d\u0003\u01b5\u0190\u011e\u0003^\u01b5\u0189\u0189\u016f\u015d\u011e\u018c\u035b\u0190\u0003\u019a\u018c\u0102\u011a\u011e\u0175\u0102\u018c\u016c\u0190\u0003\u015d\u0176\u0003\u0102\u011a\u01c0\u011e\u018c\u019f\u0190\u015d\u0176\u0150\u0355\u0003\u0189\u018c\u017d\u0175\u017d\u019f\u017d\u0176\u0102\u016f\u0003 \u0175\u0102\u019a\u011e\u018c\u015d\u0102\u016f\u0190\u0355\u0003\u0102\u0176\u011a\u0003\u015d\u0176\u0128\u017d\u018c\u0175\u0102\u019f\u017d\u0176\u0102\u016f\u0003\u0190\u015d\u019a\u011e\u0190\u0003\u0128\u017d\u018c\u0003\u019a\u015a\u011e\u0003\u0189\u01b5\u018c\u0189\u017d\u0190\u011e\u0003\u017d\u0128\u0003\u0175\u0102\u018c\u016c\u011e\u019f\u0176\u0150\u0003^\u01b5\u0189\u0189\u016f\u015d\u011e\u018c\u035b\u0190\u0003\u0004\u0150\u018c\u011e\u011e\u0175\u011e\u0176\u019a\u0003\u01c1\u015d\u019a\u015a\u0003 Sourcewell.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Sourcewell",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Apr 14, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "A Resolution of the City of Sunrise, Florida, approving a \u201cSurtax Funding Agreement,\u201d including a \u201cCover Sheet,\u201d a \u201cSurtax Grant Match Program Funding Application,\u201d and \u201cStandard Terms and Conditions for Surtax-Funded Municipal Transportation Project Interlocal Agreements (Rehabilitation & Maintenance Projects, Microtransit, Capital Projects, and Grant Match Program)\u201d between Broward County and the City of Sunrise for the Sunset Strip Drainage Improvements Project; and providing an effective date. City Manager Mark Lubelski. Rodrigo de Castro, Director of Utilities.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Surtax-Funded Municipal Transportation Project Interlocal Agreements",
+   "signal_score": 2,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1210",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 10, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.234",
+   "file_number": null,
+   "title": "The scope of work includes the development of a detailed forecast of service area demands, projections of revenues and operating expenses which would include transfers to the other funds, a \"by-capital project\" funding analysis, and the evaluation of capital re-investment rate in support of the long-term funding of renewals, replacements, improvements and betterments to the System assets and utility plant. The results will be compiled in a report and presentation to stakeholders.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "System",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1205",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 10, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.243",
+   "file_number": null,
+   "title": "ATTACHMENT A CITY OF SUNRISE, FLORIDA 2026 REVENUE SUFFICIENCY UPDATE SCOPE OF SERVICES Raftelis Financial Consultants, Inc. (Raftelis) will update the existing water and wastewater financial model for the City of Sunrise (City) based upon the tasks enumerated below: Task 1 - Data Acquisition and Review: Raftelis will prepare a data request to obtain the necessary customer billing statistics, financial, contractual agreements and other pertinent documents necessary to update the water and wastewater financial forecast. Upon receipt of the information and after preliminary review, Raftelis will attend one (1) virtual meeting with staff to discuss the key Project goals and review the data provided to discuss any necessary clarification, additional data needs or other issues associated with the Project. Raftelis will be mindful of the responsibilities of the City's Finance department's on-going work to finalize the audit and will work closely to minimize impacts to City staff in the procurement of the necessary data for this Project, to the extent practical. Task 2 - Analysis of Historical Customer Statistics and Revenue Forecasts: Based on data availability. Raftelis will evaluate up",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Forecast Period. This",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1205",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Aug 11, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "A. Proposed Resolution No. R26-124- Approve and adopt the City of Boynton Beach's Community Development Block Grant (CDBG), Fifth Year Annual Action Plan for FY 2026; and authorize the Mayor or City Manager to sign required documentation related to the CDBG program.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=365",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "Community Redevelopment Agency Board - Jul 14, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "B. Consideration of the Commercial Property Improvement Grant Program to Potiwa Pizza LLC located in the Heart of Boynton Shops at 137 NE 10th Avenue, Unit 104",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Potiwa Pizza LLC",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=363",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "Community Redevelopment Agency Board - Jul 14, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "C. Consideration of Termination of the Commercial Rent Reimbursement Grant Program to Potiwa Pizza LLC located in the Heart of Boynton Shops at 137 NE 10th Avenue, Unit 104",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Potiwa Pizza LLC",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=363",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "Community Redevelopment Agency Board - Jul 14, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "D. Consideration of Funding Request for BB QOZ, LLC for the 115 N. Federal Highway Mixed Use Project (The Pierce)",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "BB QOZ",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=363",
+   "found_utc": "2026-11-15T02:39:26+00:00"
   }
  ],
  "bypass_competition": [
@@ -7154,6 +7940,31 @@
    "meeting_url": null,
    "agenda_pdf": "https://discover.pbcgov.org/countycommissioners/Agenda_Master/20261117.pdf",
    "found_utc": "2026-11-15T01:57:09+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Apr 28, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.80",
+   "file_number": null,
+   "title": "The Contractor shall maintain books, records, documents, and other evidence pertaining to this Master Agreement and Orders placed by Purchasing Entities under it to the extent and in such detail as shall adequately reflect performance and administration of payments and fees. Contractor shall permit the Lead State, a Participating Entity, a Purchasing Entity, the federal government (including its grant awarding entities and the U.S. Comptroller General), and any other duly authorized agent of a governmental agency, to audit, inspect, examine, copy and transcribe Contractor's books, documents, papers and records directly pertinent to this Master Agreement or orders Records Administration and Audit. Right to Publish. Throughout the duration of this Master Agreement, Contractor must secure from the Lead State prior approval for the public release of information that pertains to the potential work or activities covered by the Master Agreement. This limitation does not preclude publication about the award of the Master Agreement or marketing activities consistent with any proposed and accepted marketing plan. The Contractor shall not make any representations of NASPO ValuePoint\u2019s opinion",
+   "max_amount": null,
+   "signals": [
+    "consultants",
+    "vanity"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 5,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212",
+   "found_utc": "2026-11-15T02:39:26+00:00"
   },
   {
    "entity_id": "m-boyntonbeach",
@@ -7597,6 +8408,105 @@
    "found_utc": "2026-11-15T02:19:31+00:00"
   },
   {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - May 12, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.194",
+   "file_number": null,
+   "title": "SP approved version 7\u20101\u20102019 9 6.7 Time is of the Essence. Time is of the essence regarding every obligation of the Contractor under the Contract. Each obligation is deemed material, and a breach of any such obligation (including a breach resulting from untimely performance) is a material breach. 6.8 Waiver. The delay or failure by the Department or the Customer to exercise or enforce any rights under the Contract will not constitute waiver of such rights. 6.9 Modification and Severability. The Contract may only be modified by written agreement between the Department and the Contractor. Should a court determine any provision of the Contract is invalid, the remaining provisions will not be affected, and the rights and obligations of the Parties will be construed and enforced as if the Contract did not contain the provision held invalid. 6.10 Cooperative Purchasing. Pursuant to their own governing laws, and subject to the agreement of the Contractor, governmental entities that are not Customers may make purchases under the terms and conditions contained herein, if agreed to by Contractor. Such purchases are independent of the Contract between the Department and the Contractor, and th",
+   "max_amount": null,
+   "signals": [
+    "vanity"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 4,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Apr 28, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.69",
+   "file_number": null,
+   "title": "Software means, for the purposes of this Contract, commercial operating off the shelf machine-readable object code instructions including microcode, firmware, and operating system software that meet the restrictions specified EACH PARTICIPATING ENTITY WILL DETERMINE RESTRICTIONS AND NEGOTIATE TERMS FOR SERVICES THROUGH THEIR PARTICIPATING ADDENDUM. Services are broadly classified as installation or de-installation, maintenance, support, training, migration, and optimization of products offered or supplied under the Master Agreement. These classifications of services may include, but are not limited to: warranty services, maintenance, installation, de-installation, factory integration (software or hardware components), asset management, recycling or disposal, training and certification, pre- implementation design, disaster recovery planning and support, service desk or helpdesk, imaging, and any other directly related technical support service required for the effective operation of a product offered or supplied. Contractors may offer limited professional services related ONLY to the equipment and configuration of the equipment purchased through the resulting contracts. Server means",
+   "max_amount": null,
+   "signals": [
+    "vanity"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 4,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Apr 28, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.116",
+   "file_number": null,
+   "title": "5.6 Cooperation with Inspector General and Records Retention. Pursuant to section 20.055(5), F.S., the Contractor understands and will comply with its duty to cooperate with the Inspector General in any investigation, audit, inspection, review, or hearing that is directly related to this Contract. Nothing herein shall be construed to limit any rights of the Contractor to assert any defenses that they deem necessary in association with the audit. Upon request of the Inspector General or any other authorized State official, the Contractor must provide any information the Inspector General deems relevant. Such information may include, but will not be limited to, the Contractor's business or financial records, documents, or files of any type or form that refer to or relate to the Contract. The Contractor will retain such records for the longer of five years after the expiration or termination of the Contract, or the period required by the General Records Schedules maintained by the Florida Department of State, at the Department of State\u2019s Records Management website. The Contractor agrees to reimburse the State of Florida for the reasonable costs of investigation incurred by the Inspect",
+   "max_amount": null,
+   "signals": [
+    "officials"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 4,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Apr 28, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.128",
+   "file_number": null,
+   "title": "6.7 Time is of the Essence. Time is of the essence regarding every obligation of the Contractor under the Contract. Each obligation is deemed material, and a breach of any such obligation (including a breach resulting from untimely performance) is a material breach. DocuSign Envelope ID: 9C72359F-E796-471C-96CD-96196797D6F5 6.8 Waiver. The delay or failure by the Department or the Customer to exercise or enforce any rights under the Contract will not constitute waiver of such rights. 6.9 Modification and Severability. The Contract may only be modified by written agreement between the Department and the Contractor. Should a court determine any provision of the Contract is invalid, the remaining provisions will not be affected, and the rights and obligations of the Parties will be construed and enforced as if the Contract did not contain the provision held invalid. 6.10 Cooperative Purchasing. Pursuant to their own governing laws, and subject to the agreement of the Contractor, governmental entities that are not Customers may make purchases under the terms and conditions contained herein, if agreed to by Contractor. Such purchases are independent of the Contract between the Departmen",
+   "max_amount": null,
+   "signals": [
+    "vanity"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 4,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
    "entity_id": "c-lee",
    "government": "Lee County",
    "client": "civicclerk",
@@ -7639,6 +8549,29 @@
    "meeting_url": "https://leecofl.portal.civicclerk.com/",
    "agenda_pdf": "https://leecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=898,plainText=false)",
    "found_utc": "2026-11-15T01:57:09+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - May 12, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.273",
+   "file_number": null,
+   "title": "AGENDA ITEM REQUEST Originating Department: Purchasing Item Title: Services Item Number: 4F Meeting Date: 5/12/2026 City Reference Number (C#): C26120 Item Description: A Resolution of the City of Sunrise, Florida, approving the purchase of Flygt products, original equipment manufacturer parts, Flygt new purchases, service repairs and warranty repairs from Xylem Water Solutions U.S.A., Inc. as the sole source provider; and providing an effective date. City Manager Mark Lubelski. Rodrigo de Castro, Director of Utilities. Funding: Various Departmental Accounts Amount: $500,000.00 - Estimated Annual Expenditure",
+   "max_amount": 500000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.7,
+   "keywords": [
+    "purchase",
+    "sole source"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
+   "found_utc": "2026-11-15T02:39:26+00:00"
   },
   {
    "entity_id": "m-boyntonbeach",
@@ -7711,6 +8644,29 @@
    "meeting_url": "https://leecofl.portal.civicclerk.com/",
    "agenda_pdf": "https://leecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=898,plainText=false)",
    "found_utc": "2026-11-15T01:57:09+00:00"
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Jul 07, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "D. Proposed Resolution No. R26-122- Approving a Piggyback Agreement between the City and the BG Group, LLC for the demolition of properties located at 444 W Boynton Beach Blvd, in the amount of $306,684.42 plus a 20% contingency of $61,336.88, totaling $368,021.30.",
+   "max_amount": 368021.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.6,
+   "keywords": [
+    "agreement",
+    "piggyback"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=361",
+   "found_utc": "2026-11-15T02:39:26+00:00"
   },
   {
    "entity_id": "m-clearwater",
@@ -8061,6 +9017,28 @@
    "found_utc": "2026-11-15T02:19:31+00:00"
   },
   {
+   "entity_id": "m-coralsprings",
+   "government": "Coral Springs",
+   "client": "pdf",
+   "body": "Coral Springs City Commission Regular Meeting - Aug 20, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "Request to waive the competitive procurement process consistent with Section 2-305.1(7) of the City\u2019s Procurement Code to ratify the automatic three (3) year renewal terms and amend Contract No. 19-A-123M for Credit Card Processing Services with Paymentus Corporation of Charlotte, North Carolina and to accept American Express and Discover credit card payments through August 22, 2027; and to authorize automatic three (3) years renewal terms thereafter. The estimated annual expenditure for processing fees this year is $275,000. The annual expenditure will vary year by year depending on the amount of credit card transactions that are processed.",
+   "max_amount": 275000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.4,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://coralsprings.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=323",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
    "entity_id": "m-boyntonbeach",
    "government": "Boynton Beach",
    "client": "pdf",
@@ -8335,6 +9313,30 @@
    "meeting_url": "https://leecofl.portal.civicclerk.com/",
    "agenda_pdf": "https://leecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=898,plainText=false)",
    "found_utc": "2026-11-15T01:57:09+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 24, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.207",
+   "file_number": null,
+   "title": "AGENDA ITEM REQUEST Originating Department: Purchasing Item Title: Services Item Number: 4D Meeting Date: 3/24/2026 City Reference Number (C#): C26077 Item Description: A Resolution of the City of Sunrise, Florida, approving the purchase of KBI Flexi\u00ae- Pave Products, Maintenance and Repair Services from K.B. Industries, Inc. as the sole source provider; and providing an effective date. Mark Lubelski, City Manager; Kevin Pickard, Director of Leisure Services. Funding: 001.36.48.572.503420 - Misc. Contract Services Amount: $130,000.00 - Estimated Annual Expenditure",
+   "max_amount": 130000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.1,
+   "keywords": [
+    "contract",
+    "purchase",
+    "sole source"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1207",
+   "found_utc": "2026-11-15T02:39:26+00:00"
   },
   {
    "entity_id": "m-sunrise",
@@ -8624,6 +9626,157 @@
    "meeting_url": "https://deerfieldbeachfl.portal.civicclerk.com/",
    "agenda_pdf": "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3352,plainText=false)",
    "found_utc": "2026-11-15T02:19:31+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - May 12, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.37",
+   "file_number": null,
+   "title": "TPMIB0331 1 C26100 SUNRISE, FLORIDA RESOLUTION NO. _______ A RESOLUTION OF THE CITY OF SUNRISE, FLORIDA, APPROVING \u201cCOOPERATIVE AGREEMENT NO. 2 6-19-03-HR BETWEEN THE CITY OF SUNRISE AND ACORDIS INTERNATIONAL CORP.\u201d UNDER THE TERMS OF THE STATE OF UTAH COOPERATIVE CONTRACT NO. AR3227 AND THE STATE OF FLORIDA NASPO VALUEPOINT PARTICIPATING ADDENDUM NO. 43220000 -NASPO-19-ACS FOR DATA COMMUNICATIONS PRODUCTS AND SERVICES; AND PROVIDING AN EFFECTIVE DATE. WHEREAS, after competitive procurement, the State of Utah, on behalf of NASPO ValuePoint, a cooperative purchasing program, awarded Contract No. AR3227 to Cisco Systems, Inc. for Data Communications Products and Services (Master Agreement); and WHEREAS, the State of Florida, Department of Management Services, utilizing the Master Agreement, entered into NASPO ValuePoint Participating Addendum No. 43220000-NASPO-19-ACS with Cisco Systems, Inc. (Florida Addendum). Acordis International Corp. is an authorized dealer under the Florida Addendum; and WHEREAS, the City of Sunrise I nformation Technology Department desires to purchase equipment and services for a turn-key high-speed Wi-Fi solution at the Sunrise Amphitheater and across the m",
+   "max_amount": null,
+   "signals": [
+    "facilities"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3,
+   "keywords": [
+    "agreement",
+    "contract",
+    "purchase"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - May 12, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.52",
+   "file_number": null,
+   "title": "Attachment A: Page 2 of 37 manual intervention, instructions programmed to activate at a predetermined time or upon a specified event, and/or programs purporting to do a meaningful function but designed for a different function, that software, applications and/or its end users processing environment, the system in which it resides, or any other software or data on such system or any other system with which it is capable of communicating. Embedded Software means one or more software applications which are installed and reside on a set forth in Exhibit 1. Fulfillment Partner means a third-party contractor or reseller qualified and authorized by Contractor, and approved by the Participating Entity under a Participating Addendum, who may, to the extent authorized by Contractor, fulfill any of the requirements of this Master Agreement including but not limited to providing Services under this Master Agreement and billing Purchasing Entity directly for such Services. Contractor may, upon written notice to the Participating Entity, add or delete authorized Fulfillment Partners as necessary at any time during the contract term. Fulfillment Partner has no authority to amend this Master Agre",
+   "max_amount": null,
+   "signals": [
+    "consultants"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 24, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.3",
+   "file_number": null,
+   "title": "(G) ServicesC26078 A Resolu\u000fon of the City of Sunrise, Florida to award Bid No. 26- 33-01-WL for Citywide Air Condi\u000foning Maintenance and Repair Services to O.C.O. Partnership, Inc. D/B/A Southeast Mechanical Service; and providing an e\ufb00ec\u000fve date. City Manager Mark Lubelski. Rodrigo de Castro, Director of U\u000fli\u000fes. (H) Agreement C26069 A Resolu\u000fon of the City of Sunrise, Florida, approving a \u201cThird Amendment to Project Agreement between the City of Sunrise and Carollo Engineers, Inc. for Project Agreement No. PA-22-010- CE Springtree Water Treatment Plant Filter Rehabilita\u000fon Design, PermiIng, and Bidding Services\u201d and providing an e\ufb00ec\u000fve date. City Manager Mark Lubelski. Rodrigo de Castro, Director of U\u000fli\u000fes. (I) Amendment C26074 A Resolu\u000fon of the City of Sunrise, Florida, approving a \u201cTwelJh Amendment to the Standard Project Agreement between the City of Sunrise and Song and Associates, Inc.\" for the New City Hall and Municipal Campus Improvements Project; and providing an e\ufb00ec\u000fve date. City Manager Mark Lubelski. Rodrigo de Castro, Director of U\u000fli\u000fes. (J) Agreement C26068 A Resolu\u000fon of the City of Sunrise, Florida, approving the purchase of polystage scrubbers replacement p",
+   "max_amount": null,
+   "signals": [
+    "facilities"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3,
+   "keywords": [
+    "agreement",
+    "city hall",
+    "purchase"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1207",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 24, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.4",
+   "file_number": null,
+   "title": "purchase of materials, supplies, parts, services and training for ProMinent Fluid Controls, Inc.\u2019s products, from Trinova, Inc. as the single source provider; and providing an e\ufb00ec\u000fve date. City Manager Mark Lubelski. Rodrigo de Castro, Director of U\u000fli\u000fes. (5) Quasi Judicial Consent Agenda (ANY ITEM MAY BE REMOVED FROM THE CONSENT AGENDA BY A COMMISSIONER, THE STAFF, THE APPLICANT, OR AN AFFECTED PARTY). ANY ITEM REMOVED FROM THE QUASI-JUDICIAL CONSENT AGENDA SHALL BE TABLED TO THE NEXT REGULARLY SCHEDULED COMMISSION MEETING FOR QUASI-JUDICIAL HEARING.) (A) Luxe Golf C26056 Special Excep\u0016on - Board of Adjustment Board - March 3, 2026 Passed 5-0 A Resolu\u000fon of the City of Sunrise, Florida, gran\u000fng a Special Excep\u000fon Use Permit for an amusement/recrea\u000fon enterprises (indoor) use located at 1314 SW 160 Avenue within the Indian Trace Shopping Center; providing for penal\u000fes for viola\u000fons of the condi\u000fons of approval; providing for the term of the permit; and providing an e\ufb00ec\u000fve date. City Manager Mark Lubelski. Shannon Ley, Director of Community Development. (6) Special Items (A) Proclama\u0016on Proclama\u000fon proclaiming March 24, 2026 as An\u000f-Hate Day in the City of Sunrise. Mayor Michael J",
+   "max_amount": null,
+   "signals": [
+    "facilities"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3,
+   "keywords": [
+    "golf",
+    "purchase"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1207",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 10, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.2",
+   "file_number": null,
+   "title": "(B) Special Permit C26048 A Resolu\u000fon of the City of Sunrise, Florida, authorizing the dura\u000fon of a Special Event to be held April 8, 2026 through April 9, 2026 at the Amerant Bank Arena located at 1 Panther Parkway, Sunrise, Florida; direc\u000fng sta\ufb00 to review the applica\u000fon to determine whether it meets city code; and providing an e\ufb00ec\u000fve date. City Manager Mark Lubelski. Shannon Ley, Director of Community Development. (C) Services C26058 A Resolu\u000fon of the City of Sunrise, Florida, approving the purchase of AMKUS\u00ae Rescue Systems parts, installa\u000fon, service, repair, and maintenance from Matheny Motor Truck Company, Incorporated dba Matheny Fire & Emergency as the Sole Source provider; and providing an e\ufb00ec\u000fve date. City Manager Mark Lubelski. John McNamara, Fire Chief. (D) Agreement C25243 A Resolu\u000fon of the City of Sunrise, Florida, approving an \u201cAgreement for Uniform Collec\u000fon of Non-Ad Valorem Special Assessments\u201d between the City of Sunrise and the Tax Collector for Broward County, Florida; and providing an e\ufb00ec\u000fve date. City Manager Mark Lubelski. Susan Nabors, Director of Finance and Administra\u000fve Services. (E) Agreement C26063 A Resolu\u000fon of the City of Sunrise, Florida, appr",
+   "max_amount": null,
+   "signals": [
+    "facilities"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3,
+   "keywords": [
+    "agreement",
+    "arena",
+    "purchase",
+    "sole source"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1205",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 10, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.234",
+   "file_number": null,
+   "title": "Raftelis provided a scope of work and fee for the study, which are considered fair and reasonable for the required effort to complete these services. It is requested that the City Commission waive the competitive bid requirement for these financial advisory services pursuant to Section 5- 173(c)6 of the Code of the City of Sunrise, Florida. The Resolution authorizes the City Manager to approve up to $10,000 of additional services, if needed. These services are adequately budgeted for within the FY 2025/2026 budget. Department Head Recommendation: Approval Person With Additional Information:",
+   "max_amount": 10000.0,
+   "signals": [
+    "consultants"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1205",
+   "found_utc": "2026-11-15T02:39:26+00:00"
   },
   {
    "entity_id": "m-boyntonbeach",
@@ -9797,6 +10950,394 @@
    "meeting_url": "https://miamibeachfl.primegov.com/Portal/Meeting?meetingTemplateId=6280",
    "agenda_pdf": "https://miamibeachfl.primegov.com/Public/CompiledDocument?meetingTemplateId=6280&compileOutputType=1",
    "found_utc": "2026-11-15T02:19:31+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - May 12, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.3",
+   "file_number": null,
+   "title": "C26120 A Resolu\u000eon of the City of Sunrise, Florida, approving the purchase of Flygt products, original equipment manufacturer parts, Flygt new purchases, service repairs and warranty repairs from Xylem Water Solu\u000eons U.S.A., Inc. as the sole source provider; and providing an e\ufb00ec\u000eve date. City Manager Mark Lubelski. Rodrigo de Castro, Director of U\u000eli\u000ees. (G) Agreement C26124 A Resolu\u000eon of the City of Sunrise, Florida, approving a \u201cSecond Amendment to Project Agreement between the City of Sunrise and Brown and Caldwell (Corpora\u000eon) for Project Agreement Number: PA-24-011-BC Sawgrass WWTP Train A Clari\ufb01er Mechanism Replacement\u201d; and providing an e\ufb00ec\u000eve date. City Manager Mark Lubelski. Rodrigo de Castro, Director of U\u000eli\u000ees. (5) Quasi Judicial Consent Agenda (ANY ITEM MAY BE REMOVED FROM THE CONSENT AGENDA BY A COMMISSIONER, THE STAFF, THE APPLICANT, OR AN AFFECTED PARTY). ANY ITEM REMOVED FROM THE QUASI-JUDICIAL CONSENT AGENDA SHALL BE TABLED TO THE NEXT REGULARLY SCHEDULED COMMISSION MEETING FOR QUASI-JUDICIAL HEARING.) (6) Special Items (A) Presenta\u0016on Presenta\u000eon of the Youth Athlete of the Month Award for May 2026 to CharloJe Diez from the Recrea\u000eon SoKball Program and Lorenz",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "agreement",
+    "purchase",
+    "sole source"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - May 12, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.54",
+   "file_number": null,
+   "title": "5. Participants and Scope a. Contractor may not deliver Products under this Master Agreement until a Participating Addendum acceptable to the Participating Entity and Contractor is executed. The NASPO ValuePoint Master Agreement Terms and Conditions are applicable to any Order by a Participating Entity (and other Purchasing Entities covered by their Participating Addendum), except to the extent altered, modified, supplemented or amended by a Participating Addendum. By way of illustration and not limitation, this authority may apply to unique delivery and invoicing requirements, confidentiality requirements, defaults on Orders, governing law and venue relating to Orders by a Participating Entity, indemnification, and insurance requirements. Statutory or constitutional requirements relating to availability of funds may require specific language in some Participating Addenda in order to comply with applicable law. The expectation is that these alterations, modifications, supplements, or amendments will be addressed in the Participating Addendum or, with the consent of the Purchasing Entity and Contractor, may be included in the ordering document (e.g. purchase order or contract) used ",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "agreement",
+    "contract",
+    "purchase"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - May 12, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.67",
+   "file_number": null,
+   "title": "32. Assignment/Subcontracts a. Contractor shall not assign, sell, transfer, or sublet rights, or delegate responsibilities under this Master Agreement, in whole or in part, without the prior written approval of the Lead State. Contractor may, with prior written consent from Participating States, which consent shall not be unreasonably withheld, enter into subcontracts with third parties as \"Fulfillment Partners.\" Fulfillment Partners are Subcontractors who may provide products and services under this Master Agreement at the price discounts established in this Master Agreement and bill Purchasers directly for such products and services. In addition, Contractor may, without permission, utilize subcontractors to perform Services sold under this Master Agreement and provide Cloud Offers. b. The Lead State reserves the right to assign any rights or duties, including written assignment of contract administration duties to NASPO Cooperative Purchasing Organization LLC, doing business as NASPO ValuePoint and other third parties.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - May 12, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.183",
+   "file_number": null,
+   "title": "Additional Special Contract Conditions (approved by State Purchasing, 1/18/2024) 6.10 Cooperative Purchasing. Pursuant to their own governing laws, and subject to the agreement of the Contractor, governmental entities that are not Customers may make purchases under the terms and conditions contained herein, if agreed to by Contractor. Such purchases are independent of the Contract between the Department and the Contractor, and the Department is not a party to these transactions. Agencies seeking to make purchases under this Contract are required to follow the requirements of Rule 60A-1.045(6), F.A.C.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - May 12, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.274",
+   "file_number": null,
+   "title": "ATTACHMENTS: Description ATY Resolution - C26120 Sole Source Form Sunbiz - Xylem Water Solutions U.S.A., Inc. Background: The Utilities Department has numerous Flygt pumps located throughout the City's service area for the conveyance of wastewater at lift stations. The Department maintains 219 lift stations and the majority contain Flygt products. These pumps have become a standardized and integral component of the City's wastewater infrastructure, supporting operational consistency, maintenance efficiency, and system reliability.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "sole source"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - May 12, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.274",
+   "file_number": null,
+   "title": "Pursuant to Section 5-173(c)(3) of the Code of the City of Sunrise, it is requested that the City Commission waive the City\u2019s formal bidding requirement for the purchase of Flygt products, original equipment manufacturer parts, Flygt new purchases, service repairs and warranty repairs from Xylem Water Solutions U.S.A., Inc. as the sole source provider for (a) budgeted purchases in the current fiscal year and (b) for future purchases for three years from the effective date of this Resolution of parts, service repairs, and warranty related services that do not exceed budgeted funds. Department Head Recommendation: Approval Person With Additional Information:",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "purchase",
+    "sole source"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - May 12, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.276",
+   "file_number": null,
+   "title": "A RESOLUTION OF THE CITY OF SUNRISE, FLORIDA, APPROVING THE PURCHASE OF FLYGT PRODUCTS, ORIGINAL EQUIPMENT MANUFACTURER PARTS, FLYGT NEW PURCHASES, SERVICE REPAIRS AND WARRANTY REPAIRS FROM XYLEM WATER SOLUTIONS U.S.A., INC. AS THE SOLE SOURCE PROVIDER; AND PROVIDING AN EFFECTIVE DATE. WHEREAS, the City of Sunrise owns and operates numerous Flygt pumps throughout the City\u2019s service area for the conveyance of wastewater at lift stations; and WHEREAS, Xylem Water Solutions U.S.A., Inc. owns Flygt Corporation and is the sole source provider of Flygt products, original equipment manufacturer parts, service repairs, and warranty repairs. NOW THEREFORE, BE IT RESOLVED BY THE CITY COMMISSION OF THE CITY OF SUNRISE, FLORIDA: Section 1. The purchase of Flygt products, original equipment manufacturer parts, service repairs, and warranty repairs on an as-needed basis, from Xylem Water Solutions U.S.A., Inc. is hereby approved. Section 2. Pursuant to Section 5- 173(c)(3) of the Code of the City of Sunrise, Florida, the City\u2019s formal bidding procedures are waived as to Xylem Water Solutions U.S.A., Inc. as the sole source provid er for (a) budgeted purchases in the current fiscal year and (b) f",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "purchase",
+    "sole source"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Apr 28, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.48",
+   "file_number": null,
+   "title": "SUNRISE, FLORIDA RESOLUTION NO. _______ A RESOLUTION OF THE CITY OF SUNRISE, FLORIDA, APPROVING \u201cCOOPERATIVE AGREEMENT NO. 26-18-03-WL BETWEEN THE CITY OF SUNRISE AND INSIGHT PUBLIC SECTOR, INC.\u201d UNDER THE TERMS OF NASPO VALUEPOINT MASTER AGREEMENT NO. 23019 AND STATE OF FLORIDA ALTERNATIVE CONTRACT SOURCE NO. 43210000-23-NASPO-ACS FOR COMPUTER EQUIPMENT, PERIPHERALS, AND RELATED SERVICES; AND PROVIDING AN EFFECTIVE DATE. WHEREAS, Broward County utilizes a standardized system for countywide communications which requires updated communications equipment in City of Sunrise emergency vehicles to continue to provide emergency services; and WHEREAS, after competitive procurement, the State of Minnesota, on behalf of NASPO ValuePoint Cooperative Purchasing Program, awarded NASPO ValuePoint Master Agreement No. 23019 for Computer Equipment, Peripherals, and Related Services to Panasonic Corporation of North America (Master Agreement); and WHEREAS, the State of Florida, Department of Management Services, utilizing the Master Agreement, entered into Alternative Contract Source (ACS) No. 43210000- 23-NASPO-ACS with Panasonic Corporation of North America (Florida Contract). Insight Public Sec",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 24, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.2",
+   "file_number": null,
+   "title": "A Resolu\u000fon of the City of Sunrise, Florida, approving a Workers\u2019 Compensa\u000fon Se4lement related to Claimant for Claim No. 565776; authorizing the City\u2019s Workers\u2019 Compensa\u000fon Counsel and Risk Manager, or Designee, to \ufb01nalize and execute all related documents; and providing an e\ufb00ec\u000fve date. City Manager Mark Lubelski, Susan Nabors, Director of Finance and Administra\u000fve Services. (C) Agreement C26059 A Resolu\u000fon of the City of Sunrise, Florida, authorizing the Purchase of Radio Maintenance and Repair Services from Broward County Regional Communica\u000fons and Technology Division; and providing an e\ufb00ec\u000fve date. City Manager Mark Lubelski; John McNamara, Fire Chief. (D) Services C26077 A Resolu\u000fon of the City of Sunrise, Florida, approving the purchase of KBI Flexi\u00ae-Pave Products, Maintenance and Repair Services from K.B. Industries, Inc. as the sole source provider; and providing an e\ufb00ec\u000fve date. Mark Lubelski, City Manager; Kevin Pickard, Director of Leisure Services. (E) Services C26055 A Resolu\u000fon of the City of Sunrise, Florida, to award Bid No. 26- 43-01-MM Rust Inhibitor System Maintenance for Various City Loca\u000fons to WIRX, Inc.; and providing an e\ufb00ec\u000fve date. City Manager Mark Lubel",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "agreement",
+    "purchase",
+    "sole source"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1207",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 24, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.208",
+   "file_number": null,
+   "title": "ATY Resolution - C26077 Sole Source -Letter K.B. Industries, Inc. Sunbiz - K.B.Industries, Inc. Background: The Leisure Services Department requires services for the furnishing, installation, maintenance, and repair of Flexi\u00ae-Pave surfaces in various City parks, including Oak Hammock, Cypress Preserve, and Welleby Park.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "sole source"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1207",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 24, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.208",
+   "file_number": null,
+   "title": "Staff is requesting authorization from the City Commission to purchase Flexi\u00ae-Pave Product, Maintenance & Repair Services for City Parks from K.B. Industries, Inc. as the Sole Source provider, on as-needed basis.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "purchase",
+    "sole source"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1207",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 24, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.210",
+   "file_number": null,
+   "title": "TPMIB0312 1 C26077 SUNRISE, FLORIDA RESOLUTION NO. _______ A RESOLUTION OF THE CITY OF SUNRISE, FLORIDA, APPROVING THE PURCHASE OF KBI FLEXI\u00ae-PAVE PRODUCTS, MAINTENANCE AND REPAIR SERVICES FROM K.B. INDUSTRIES, INC. AS THE SOLE SOURCE PROVIDER; AND PROVIDING AN EFFECTIVE DATE. WHEREAS, the City of Sunrise utilizes KBI Flexi\u00ae-Pave surfaces on trails and pathways in most City parks; and WHEREAS, K.B. Industries, Inc. is the sole provider, manufacturer, and distributor of the proprietary KBI Flexi\u00ae-Pave technology. NOW THEREFORE, BE IT RESOLVED BY THE CITY COMMISSION OF THE CITY OF SUNRISE, FLORIDA: Section 1. The purchase of KBI Flexi\u00ae-Pave products, maintenance and repair services from K.B. Industries, Inc, as the sole source provider, is hereby approved. Section 2. Pursuant to Section 5-173(c)(3) of the Code of the City of Sunrise Florida, the City\u2019s formal bidding procedures are waived as to K.B. Industries, Inc. for (a) budgeted purchases in the current fiscal year and (b) for future purchases for three (3) years from the effective date of this Resolution of replacement products, annual maintenance, and services that do not exceed budgeted funds. Section 3. The Procurement Manage",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "purchase",
+    "sole source"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1207",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 10, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.20",
+   "file_number": null,
+   "title": "AGENDA ITEM REQUEST Originating Department: Purchasing Item Title: Services Item Number: 4C Meeting Date: 3/10/2026 City Reference Number (C#): C26058 Item Description: A Resolution of the City of Sunrise, Florida, approving the purchase of AMKUS\u00ae Rescue Systems parts, installation, service, repair, and maintenance from Matheny Motor Truck Company, Incorporated dba Matheny Fire & Emergency as the Sole Source provider; and providing an effective date. City Manager Mark Lubelski. John McNamara, Fire Chief. Funding: 001.23.24.522.506401 - Machines and Equipment",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "purchase",
+    "sole source"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1205",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 10, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.21",
+   "file_number": null,
+   "title": "ATTACHMENTS: Description ATY Resolution - C26058 Sole Source Form Quotation Sunbiz - Matheny Motor Truck Company, Incorporated Sunbiz - Fictitious - Matheny Fire & Emergency Background: AMKUS Rescue Systems (AMKUS) is the manufacturer of proprietary e-hydraulic and battery powered rescue tools and accessories. This innovative technology allows first responders to untether traditional practices and now work in emergent incidents, free from any hydraulic hoses and combustion engines. The system provides 200,000 lbs. of force to displace/cut metal materials to extricate victims involved in vehicle collisions and heavy machinery incidents. AMKUS tools are safer to handle, environmentally friendly, and perform on demand to serve our community interests during emergency incidents.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "sole source"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1205",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 10, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.21",
+   "file_number": null,
+   "title": "The Fire Rescue Department currently has a vehicle extrication kit on each Fire Engine; however, four are an older gas-powered Hurst model and only one is a newer AMKUS electric hydraulic rescue tool system. As part of the FY 2026 Budget process, funding was provided to replace one of the older models with a new AMKUS electric hydraulic vehicle extrication kit. To maintain operational consistency, standardization of equipment, and continuity in training and maintenance procedures, the Fire Rescue Department is requesting authorization to purchase this equipment one AMKUS electric hydraulic vehicle extrication kit to replace one of the older gas-powered models from the authorized sole source provider. We are also specifying the AMKUS electric hydraulic vehicle extrication kit in all new Fire Engine purchases to ensure operational consistency among equipment.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "purchase",
+    "sole source"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1205",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 10, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.23",
+   "file_number": null,
+   "title": "SUNRISE, FLORIDA RESOLUTION NO. _______ A RESOLUTION OF THE CITY OF SUNRISE, FLORIDA, APPROVING THE PURCHASE OF AMKUS\u00ae RESCUE SYSTEM S PARTS, INSTALLATION, SERVICE, REPAIR, AND MAINTENANCE FROM MATHENY MOTOR TRUCK COMPANY, INCORPORATED D/B/A MATHENY FIRE & EMERGENCY AS THE SOLE SOURCE PROVIDER; AND PROVIDING AN EFFECTIVE DATE. WHEREAS, the City of Sunrise Fire Rescue Department is seeking to purchase AMKUS\u00ae Rescue Systems parts, accessories, installation, service, repair, and maintenance to enhance the ability of first responders to save lives in emergency situations utilizing advanced technology; and WHEREAS, Matheny Motor Truck Company, Incorporated d/b/ a Matheny Fire & Emergency is the exclusive dealer and authorized sole source provider for AMKUS Rescue Systems. NOW THEREFORE, BE IT RESOLVED BY THE CITY COMMISSION OF THE CITY OF SUNRISE, FLORIDA: Section 1. The foregoing recitals are hereby ratified and incorporated as the legislative intent of this Resolution. Section 2. The purchase of AMKUS \u00ae Rescue System s parts, accessories , installation, service, repair, and maintenance as required from Matheny Motor Truck Company, Incorporated d/b/a Matheny Fire & Emergency as the sol",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "purchase",
+    "sole source"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1205",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Jul 07, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "E. Approve the annual expenditure and authorize the Mayor to sign the renewal amendments for RFPs/Bids and/or piggybacks for the procurement of services and/or commodities as described in Exhibit A for July 7, 2026 - \"Amendment Request for Bid Extensions and/or Piggybacks.\"",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=361",
+   "found_utc": "2026-11-15T02:39:26+00:00"
   }
  ],
  "other": [
@@ -10703,6 +12244,29 @@
    "found_utc": "2026-11-15T02:19:31+00:00"
   },
   {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 24, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.20",
+   "file_number": null,
+   "title": "that the arbitrator expand the scope of discovery by doing so in writing and copying any other parties, who shall have 15 days to make objections, and the arbitrator shall notify the parties of his/ her decision within 20 days of any objecting party's submission. Notwithstanding the previous sentence, if a Claim is for: (1) $100,000 or less. you or we may elect to have the arbitration conducted solely on the basis of documents submitted to the arbitrator. through a telephonic hearing. or by an in-person hearing as established by the rules of the selected arbitration organization, with no discovery; (2) more than $100.000 and less than $1.000,000, you and we shall be entitled to limited discovery, which shall include reasonable discovery of hard-copy and electronically-stored information. including not more than four custodians, the selection of which is to be approved by the arbitrator. who shall consider, inter a/ia, whether the discovery sought from one party is proportional to the discovery received by the other party. but shall not incl ude depositions; or (3) $1,000,000 or more. or incl udes a request for injunctive relief. (A) you and we shall be entitled to reasonable docume",
+   "max_amount": 1000000.0,
+   "signals": [
+    "facilities",
+    "legal"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 4.0,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1207",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
    "entity_id": "c-polk",
    "government": "Polk County",
    "client": "polkcountyfl",
@@ -10941,6 +12505,32 @@
    "meeting_url": "https://miamibeachfl.primegov.com/Portal/Meeting?meetingTemplateId=6280",
    "agenda_pdf": "https://miamibeachfl.primegov.com/Public/CompiledDocument?meetingTemplateId=6280&compileOutputType=1",
    "found_utc": "2026-11-15T02:19:31+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 10, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.239",
+   "file_number": null,
+   "title": "Rodrigo de Castro, P.E. City of Sunrise January 19, 2026 Page 2 PROJECT TEAM With respect to the performance of the Project, Mr. Thierry Boveri will serve as the Project Manager responsible for the day-to-day requirements with the aid of Mr. Matthew Ori as the lead analyst. Both Mr. Boveri and Mr. Ori have worked for the City on prior engagements, including prior revenue sufficiency studies, and will be the primary contacts between the City and Raftelis. Raftelis may utilize other employees to perform the Project as needed. With the exception of the Principal-in-charge and the Project Manager delineated above, Raftelis may use any personnel to complete the project which may be different than that assumed in the development of the project cost estimate as discussed later in this Agreement. SCOPE OF SERVICES The scope of services to be performed by Raftelis relative to this Project is included herein as Attachment A, which is made a part of this Agreement. COMPENSATION AND BILLING Based on the scope of services as summarized in Attachment A, we propose to establish a not-to-exceed contract budget to perform the Project on behalf of the City in the amount of $65,300. The hourly billin",
+   "max_amount": 65300.0,
+   "signals": [
+    "consultants",
+    "officials"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 3.8,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1205",
+   "found_utc": "2026-11-15T02:39:26+00:00"
   },
   {
    "entity_id": "m-fortlauderdale",
@@ -11285,6 +12875,30 @@
    "meeting_url": "https://deerfieldbeachfl.portal.civicclerk.com/",
    "agenda_pdf": "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3352,plainText=false)",
    "found_utc": "2026-11-15T02:19:31+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 24, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.8",
+   "file_number": null,
+   "title": "AGENDA ITEM REQUEST Originating Department: Purchasing Item Title: Agreement Item Number: 4A Meeting Date: 3/24/2026 City Reference Number (C#): C26071 Item Description: A Resolution of the City of Sunrise, Florida, approving an \u201cAmerican Express Card acceptance agreement\u201d between the City of Sunrise and American Express Travel related Services Company, Inc.; and providing an effective date. City Manager Mark Lubelski. Susan Nabors, Director of Finance and Administrative Services. Funding: Various Department Accounts Amount: Estimated Annual Expenditure - $225,000.00",
+   "max_amount": 225000.0,
+   "signals": [
+    "officials"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 3.4,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1207",
+   "found_utc": "2026-11-15T02:39:26+00:00"
   },
   {
    "entity_id": "c-polk",
@@ -12231,6 +13845,31 @@
    "found_utc": "2026-11-15T02:19:31+00:00"
   },
   {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Apr 28, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.89",
+   "file_number": null,
+   "title": "Consequences. The consequences of a Contractor\u2019s failure to implement its affirmative action plan or make a good faith effort to do so include, but are not limited to, suspension or revocation of a certificate of compliance by (e) The Contractor must notify each labor union or representative of workers with which it has a collective bargaining agreement or other contract understanding, that the Contractor is bound by the terms of Minn. Stat. \u00a7 363A.36 of the Minnesota Human Rights Act and is committed to take affirmative action to employ and advance in employment physically and mentally disabled persons. (d) The Contractor agrees to post in conspicuous places, available to employees and applicants for employment, notices in a form to be prescribed by the commissioner of the Minnesota Department of Human Rights. Such notices must state the Contractor\u2019s obligation under the law to take affirmative action to employ and advance in employment qualified disabled employees and applicants for employment, and the rights of applicants and employees. (c) In the event of the Contractor\u2019s noncompliance with the requirements of this clause, actions for noncompliance may be taken in accordance wi",
+   "max_amount": 100000.0,
+   "signals": [
+    "vanity"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 3.0,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
    "entity_id": "m-dunedin",
    "government": "Dunedin",
    "client": "pdf",
@@ -12743,6 +14382,58 @@
    "found_utc": "2026-11-15T02:19:31+00:00"
   },
   {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - May 12, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.241",
+   "file_number": null,
+   "title": "AGENDA ITEM REQUEST Originating Department: Purchasing Item Title: Agreement Item Number: 4E Meeting Date: 5/12/2026 City Reference Number (C#): C26122 Item Description: A Resolution of the City of Sunrise, Florida, to award Bid No. 26-14-11-HR for the Sawgrass Utility Complex and Administration Building Irrigation Reuse Project to MBR Construction, Inc.; approving Contract No. C 26-14-11-HR; and providing an effective date. City Manager Mark Lubelski. Rodrigo de Castro, Director of Utilities. Funding: 465.66.70.536.506510 - Construction Project 5132SY - Landscaping & Irrigation Improvements at Treatment Plants Amount: $652,310.00 ATTACHMENTS: Description ATY Resolution - C26122",
+   "max_amount": 652310.0,
+   "signals": [
+    "facilities"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2.8,
+   "keywords": [
+    "agreement",
+    "construction",
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - May 12, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.244",
+   "file_number": null,
+   "title": "Section 1. MBR Construction, Inc. is hereby selected for award of Bid No. 26-14- 11-HR for the Sawgrass Utility Complex and Administration Building Irrigation Reuse Project in the amount of $ 652,310.00, contingent on providing an acceptable Public Construction Bond, an acceptable Certificate of Insurance, and an executed Contract within the timeframe stipulated in the Notice of Award. Section 2. The Procurement Manager or designee is hereby authorized to execute all documents in connection with this award, including the contract for construction (Contract), upon review and approval by the City Attorney\u2019s Office. The Procurement Manager or designee shall provide the City Clerk with a copy of the Contract to attach to this Resolution as Exhibit A.",
+   "max_amount": 652310.0,
+   "signals": [
+    "facilities"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2.8,
+   "keywords": [
+    "bond",
+    "construction",
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
    "entity_id": "m-northport",
    "government": "North Port",
    "client": "cityofnorthport",
@@ -12973,6 +14664,53 @@
    "found_utc": "2026-11-15T02:19:31+00:00"
   },
   {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - May 12, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.143",
+   "file_number": null,
+   "title": "AGENDA ITEM REQUEST Originating Department: Purchasing Item Title: Agreement Item Number: 4D Meeting Date: 5/12/2026 City Reference Number (C#): C26126 Item Description: A Resolution of the City of Sunrise, Florida, approving \u201cCooperative Agreement No. 26-20-03-HR between the City of Sunrise and Onecbi, LLC.\u201d under the Terms of New York State Contract No. 23295 and State of Florida Alternate Contract Source No. 56120000-24-NY-ACS for Furniture, all types; and providing an effective date. City Manager Mark Lubelski. Rodrigo de Castro, Director of Utilities. Funding: Various Departmental Accounts Amount: $50,000.00 - Estimated Annual Expenditure Contract Valid December 5, 2023 - December 1, 2028 Not to exceed budgeted funds for FY 2025/2026 Subsequent years' expenditures subject to budget approval",
+   "max_amount": 50000.0,
+   "signals": [
+    "officials"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2.7,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1216",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Mar 10, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.217",
+   "file_number": null,
+   "title": "B: This item recognizes a transfer in the amount of $5,000,000 from the Water and Wastewater System Reserve Fund (464) and allocates funding to the appropriate account to support the expenditures related to the Interlocal Agreement with Broward County, which will be presented for approval at the City Commission meeting on March 24, 2026. Water and Wastewater System Reserve Fund 464",
+   "max_amount": 5000000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2.7,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1205",
+   "found_utc": "2026-11-15T02:39:26+00:00"
+  },
+  {
    "entity_id": "m-fortlauderdale",
    "government": "Fort Lauderdale",
    "client": "fortlauderdale",
@@ -13169,200 +14907,6 @@
    "meeting_url": "https://leecofl.portal.civicclerk.com/",
    "agenda_pdf": "https://leecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=898,plainText=false)",
    "found_utc": "2026-11-15T01:57:09+00:00"
-  },
-  {
-   "entity_id": "c-sarasota",
-   "government": "Sarasota County",
-   "client": "onbase",
-   "body": "Tuesday \u2013 Consent   Discussion   Public Hearing",
-   "meeting_date": "2026-11-17",
-   "agenda_number": "p.1",
-   "file_number": null,
-   "title": "B. To approve the State Fiscal Year 2027-2028 Public Transportation Grant Agreement with the Florida Department of Transportation, for eligible operational expenses to provide public transportation services in Sarasota County, in the amount of $4,360,702.00, with FDOT contributing 50% or $2,180,351.00.",
-   "max_amount": 4360702.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2.6,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://egenda.scgov.net/OnBaseAgendaOnline/Meetings/ViewMeeting?id=1979&doctype=1",
-   "agenda_pdf": "https://egenda.scgov.net/OnBaseAgendaOnline/Documents/DownloadFileBytes/Tuesday_%E2%80%93_Consent___Discussion___Public_Hearing_1979_Agenda_11_17_2026_9_00_00_AM.pdf?documentType=1&meetingId=1979",
-   "found_utc": "2026-11-15T01:57:09+00:00"
-  },
-  {
-   "entity_id": "m-sunrise",
-   "government": "Sunrise",
-   "client": "pdf",
-   "body": "City Commission Meeting - Jul 14, 2026",
-   "meeting_date": null,
-   "agenda_number": "p.397",
-   "file_number": null,
-   "title": "$4,000,000 from the construction account within Project 5176SW - Southwest WWTP Deep Injection Well to fund balance due to the reallocation of project funding from Water and Wastewater Connect Fund 403 to support construction expenses of Project 5176SW - Southwest WWTP Deep Injection Well. Department Head Recommendation: Approval Person With Additional Information:",
-   "max_amount": 4000000.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2.6,
-   "keywords": [
-    "construction"
-   ],
-   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
-   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1230",
-   "found_utc": "2026-11-15T02:19:31+00:00"
-  },
-  {
-   "entity_id": "m-stpetebeach",
-   "government": "St. Pete Beach",
-   "client": "civicclerk",
-   "body": "City Commission Meeting",
-   "meeting_date": "2026-11-17",
-   "agenda_number": "p.8",
-   "file_number": null,
-   "title": "6. ACTION ITEMS a. Authorize the Mayor to execute an Interlocal Agreement between Pinellas County and the City of St. Pete Beach for continued Penny IV funding of the Gulf Boulevard Undergrounding Project in an amount not to exceed $3,632,120.97.",
-   "max_amount": 3632120.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2.6,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://stpetebeachfl.portal.civicclerk.com/",
-   "agenda_pdf": "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8195,plainText=false)",
-   "found_utc": "2026-11-15T02:19:31+00:00"
-  },
-  {
-   "entity_id": "m-stpetebeach",
-   "government": "St. Pete Beach",
-   "client": "civicclerk",
-   "body": "City Commission Meeting",
-   "meeting_date": "2026-11-17",
-   "agenda_number": "p.8",
-   "file_number": null,
-   "title": "Motion: Commissioner Maldonado moved, Vice Chair Robinson seconded, and the motion carried 5-0 to authorize the Mayor to execute an Interlocal Agreement between Pinellas County and the City of St. Pete Beach for continued Penny IV funding of the Gulf Boulevard Undergrounding Project in an amount not to exceed $3,632,120.97.",
-   "max_amount": 3632120.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2.6,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://stpetebeachfl.portal.civicclerk.com/",
-   "agenda_pdf": "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8195,plainText=false)",
-   "found_utc": "2026-11-15T02:19:31+00:00"
-  },
-  {
-   "entity_id": "m-daytonabeach",
-   "government": "Daytona Beach",
-   "client": "civicweb",
-   "body": "Beachside Redevelopment Board - Nov 11 2026",
-   "meeting_date": "2026-11-11",
-   "agenda_number": "p.4",
-   "file_number": null,
-   "title": "6. Staff Reports/Presentations Captain Gernert was unable to attend due to a scheduling conflict and will present at the next meeting. Mr. Caffrey reported that Captain Gernert requested letters from business owners regarding the effects of homelessness on the beachside area. A related ordinance is expected to receive its first reading at the end of October and its second reading in early November. Letters should describe how homelessness affects businesses, residents, and tourists rather than recommend specific ordinance language. Board members should send letters directly to Captain Gernert. Mrs. Armstrong reported on the Boardwalk Extension to Harvey project, stating that construction plans are nearly 90% complete. The Florida Department of Environmental Protection (FDEP) requested additional information, which the consultant has submitted. However, the required permit has not yet been issued, preventing completion of the construction plans. The City secured a $400,000 Volusia County ECHO grant for the project. A joint project agreement prepared by the City and County legal departments will go before County Council and then the City Commission. The City will manage the overall p",
-   "max_amount": 400000.0,
-   "signals": [
-    "consultants"
-   ],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2.6,
-   "keywords": [
-    "agreement",
-    "construction",
-    "consultant"
-   ],
-   "meeting_url": "https://codb.civicweb.net/Portal/MeetingInformation.aspx?Id=3601",
-   "agenda_pdf": "https://codb.civicweb.net/document/233988/Beachside%20Redevelopment%20Board%20-%20Nov%2011%202026.pdf?handle=936AB0C6C6B546F3ACCEF75D459AC779",
-   "found_utc": "2026-11-15T02:19:31+00:00"
-  },
-  {
-   "entity_id": "m-capecoral",
-   "government": "Cape Coral",
-   "client": "escribe",
-   "body": "City Council \u2013 Regular Meeting",
-   "meeting_date": "2026-11-02",
-   "agenda_number": "p.1",
-   "file_number": null,
-   "title": "A Resolution of the Mayor and City Council of the City of Cape Coral, Florida, approving Amendment No. 1 to Contract No. RUT25169JM with Quality Enterprises USA, Inc., for design-build services for Judd Creek Water and Sewer Main Extensions, to set the guaranteed maximum price of construction, in the amount of $3,969,172, for a total contract amount of $4,324,050; and authorizing the City Manager or their designee to execute the Amendment and purchase order(s); providing for an effective date.",
-   "max_amount": 4324050.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2.6,
-   "keywords": [
-    "construction",
-    "contract",
-    "design-build",
-    "guaranteed maximum price",
-    "purchase"
-   ],
-   "meeting_url": "https://pub-capecoral.escribemeetings.com/Meeting.aspx?Id=4c59d856-1313-4e5f-9f3d-0642337b0f18&Agenda=Agenda&lang=English",
-   "agenda_pdf": "https://pub-capecoral.escribemeetings.com/Meeting.aspx?Id=4c59d856-1313-4e5f-9f3d-0642337b0f18&Agenda=Agenda&lang=English",
-   "found_utc": "2026-11-15T02:19:31+00:00"
-  },
-  {
-   "entity_id": "m-fortlauderdale",
-   "government": "Fort Lauderdale",
-   "client": "fortlauderdale",
-   "body": "City Commission Regular Meeting",
-   "meeting_date": "2026-11-17",
-   "agenda_number": "M-1",
-   "file_number": "26-0524",
-   "title": "Motion Rejecting All Bids for Invitation to Bid (ITB) No. 566-3 - Bulk Waste Disposal and Processing and Approving the Third Amendment to the lnterlocal Agreement between Broward County and the City for Solid Waste Disposal Support Services by Adding Bulk Waste Processing and Disposal Services - $2,975,991 - (Commission Districts 1, 2, 3 and 4)",
-   "max_amount": 2975991.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2.5,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://fortlauderdale.legistar.com/MeetingDetail.aspx?LEGID=2159&GID=252&G=F11871F6-88F5-40B5-BD94-B6711694F9A7",
-   "agenda_pdf": "https://legistar.granicus.com/FortLauderdale/meetings/2026/11/2159_A_City_Commission_Regular_Meeting_26-11-17_Regular_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "City Commission Regular Meeting",
-     "meeting_date": "2026-11-17"
-    }
-   ]
-  },
-  {
-   "entity_id": "c-polk",
-   "government": "Polk County",
-   "client": "polkcountyfl",
-   "body": "Board of County Commissioners (Organizational)",
-   "meeting_date": "2026-11-17",
-   "agenda_number": "M.17.",
-   "file_number": "26-2106",
-   "title": "Approve purchase of twenty-six Motorola Command Central AXS Dispatch Consoles and implementation/warranty services for the Public Safety Radio System. ($3,267,947.00 one-time expense)",
-   "max_amount": 3267947.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2.5,
-   "keywords": [
-    "purchase"
-   ],
-   "meeting_url": "https://polkcountyfl.legistar.com/MeetingDetail.aspx?LEGID=1830&GID=899&G=8E3CAEE1-3439-4CE8-90D8-F1ABD849BB66",
-   "agenda_pdf": "https://polkcountyfl.legistar1.com/polkcountyfl/meetings/2026/11/1830_A_Board_of_County_Commissioners_%28Organizational%29_26-11-17_Meeting_Agenda.pdf",
-   "appearances": [
-    {
-     "body": "Board of County Commissioners (Organizational)",
-     "meeting_date": "2026-11-17"
-    }
-   ]
   }
  ]
 }
