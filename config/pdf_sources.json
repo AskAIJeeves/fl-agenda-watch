@@ -144,6 +144,15 @@
    ],
    "follow": "(?i)(agenda[^/]*\\.asp\\?|meeting[^/]*\\.asp)",
    "pdf": "(?i)(agenda[^/]*\\.pdf|fileparse\\.php|getdoc|/agendas?/[^ ]*\\.pdf)"
+  },
+  {
+   "entity_id": "c-pasco",
+   "name": "Pasco County",
+   "listing_urls": [
+    "https://www.pascocountyfl.gov/government/agendas___minutes_.php"
+   ],
+   "follow": "(?i)(agenda|bcc|board_of_county|meeting)",
+   "pdf": "(?i)(\\.pdf|revize\\.com/.*\\.pdf|DocumentCenter|AgendaCenter/ViewFile)"
   }
  ],
  "sequential": [
