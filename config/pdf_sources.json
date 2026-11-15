@@ -270,5 +270,69 @@
    "skip": "(?i)special magistrate|code enforcement|value adjustment"
   }
  ],
- "_blocked": "Leon County (www2.leoncountyfl.gov) and West Palm Beach (wpb.org) return 403 to GitHub's servers."
+ "_blocked": "Leon County (www2.leoncountyfl.gov) and West Palm Beach (wpb.org) return 403 to GitHub's servers.",
+ "civicweb": [
+  {
+   "entity_id": "m-largo",
+   "name": "Largo",
+   "host": "largo.civicweb.net"
+  },
+  {
+   "entity_id": "m-miamigardens",
+   "name": "Miami Gardens",
+   "host": "miamigardens.civicweb.net"
+  },
+  {
+   "entity_id": "m-daytonabeach",
+   "name": "Daytona Beach",
+   "host": "codb.civicweb.net"
+  }
+ ],
+ "escribe": [
+  {
+   "entity_id": "m-orlando",
+   "name": "Orlando",
+   "host": "pub-orlando.escribemeetings.com"
+  },
+  {
+   "entity_id": "c-stjohns",
+   "name": "St. Johns County",
+   "host": "pub-stjohns.escribemeetings.com"
+  },
+  {
+   "entity_id": "m-capecoral",
+   "name": "Cape Coral",
+   "host": "pub-capecoral.escribemeetings.com"
+  },
+  {
+   "entity_id": "c-alachua",
+   "name": "Alachua County",
+   "host": "pub-alachuacounty.escribemeetings.com"
+  }
+ ],
+ "primegov": [
+  {
+   "entity_id": "m-miamibeach",
+   "name": "Miami Beach",
+   "host": "miamibeachfl.primegov.com"
+  },
+  {
+   "entity_id": "m-palmcoast",
+   "name": "Palm Coast",
+   "host": "palmcoast.primegov.com"
+  }
+ ],
+ "iqm2": [
+  {
+   "entity_id": "m-miami",
+   "name": "Miami",
+   "host": "miamifl.iqm2.com"
+  },
+  {
+   "entity_id": "c-okaloosa",
+   "name": "Okaloosa County",
+   "host": "okaloosacountyfl.iqm2.com"
+  }
+ ],
+ "meeting_skip": "(?i)code enforcement|special magistrate|value adjustment|board of adjustment|cancel+ed|pre-?application|bid opening|nuisance abatement"
 }

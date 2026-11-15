@@ -77,6 +77,111 @@ def passages(pages, min_amount=None):
         if k not in seen: seen.add(k); uniq.append(p)
     return uniq
 
+
+def html_text(data):
+    import html as _h
+    t = data.decode("utf-8", "replace")
+    t = re.sub(r"(?is)<(script|style).*?</\1>", " ", t)
+    t = re.sub(r"(?i)<br\s*/?>|</(p|div|tr|li|h\d|td)>", "\n\n", t)
+    return [(1, _h.unescape(re.sub(r"<[^>]+>", " ", t)))]
+
+def scan_doc(store, seen, d, cfg, now, eid, gname, client, body, mdate, u, meeting_url, final=False):
+    """Fetch one agenda (PDF or HTML), run shared rules, add items. Marks seen only once the meeting has passed."""
+    if u in seen: return
+    try:
+        data = fetch(u, binary=True)
+        if data[:4] == b"%PDF": pages = pdf_text(data, cfg["max_pages_per_pdf"])
+        elif b"<" in data[:200]: pages = html_text(data)
+        else: d["errors"].append(f"unknown doc {u[-70:]}"); return
+        hits = passages(pages)[:60]
+        for pno, tags, ch in hits:
+            store["items"].append({"entity_id": eid, "government": gname, "client": client, "body": body, "meeting_date": mdate,
+                "agenda_number": f"p.{pno}", "file_number": None, "title": ch, **tags,
+                "keywords": sorted({m.group(0).lower() for m in KEYWORDS.finditer(ch)}),
+                "meeting_url": meeting_url, "agenda_pdf": u, "found_utc": now.isoformat(timespec="seconds")})
+        if final or (mdate and mdate < now.date().isoformat()):
+            seen[u] = {"status": "ok", "pages": len(pages), "hits": len(hits), "date": now.date().isoformat()}
+        d["scanned"].append({"doc": u[-90:], "meeting": body, "date": mdate, "pages": len(pages), "hits": len(hits)})
+    except Exception as e:
+        d["errors"].append(f"doc {u[-70:]}: {e}")
+    time.sleep(1)
+
+def scan_platforms(cfg, store, seen, debug, now):
+    skip = re.compile(cfg.get("meeting_skip") or "$^")
+    t0, t1 = (now - timedelta(days=14)).date().isoformat(), (now + timedelta(days=30)).date().isoformat()
+    cap = cfg["max_new_pdfs_per_run"]
+    # CivicWeb: JSON meeting list, then document links on each published meeting page
+    for g in cfg.get("civicweb", []):
+        d = debug[g["entity_id"] + ":civicweb"] = {"name": g["name"], "platform": "civicweb", "meetings": 0, "scanned": [], "errors": []}
+        try: ms = json.loads(fetch(f"https://{g['host']}/Services/MeetingsService.svc/meetings?from={t0}&to={t1}"))
+        except Exception as e: d["errors"].append(f"list: {e}"); continue
+        ms = [m for m in ms if m.get("Published") and not skip.search(m.get("Name", ""))]; d["meetings"] = len(ms)
+        n = 0
+        for m in ms:
+            if n >= cap: break
+            mu = f"https://{g['host']}/Portal/MeetingInformation.aspx?Id={m['Id']}"
+            try: page = fetch(mu)
+            except Exception as e: d["errors"].append(f"meeting {m['Id']}: {e}"); continue
+            docs = [x.replace("&amp;", "&") for x in re.findall(r'(/document/\d+/[^"\']+)', page)]
+            docs = sorted(set(docs), key=lambda x: (0 if re.search(r"(?i)agenda|package|packet", x) else 1))[:1]
+            for du in docs:
+                u = f"https://{g['host']}{du}"
+                if u not in seen: scan_doc(store, seen, d, cfg, now, g["entity_id"], g["name"], "civicweb", m["Name"], m["MeetingDate"], u, mu); n += 1
+    # eScribe: calendar JSON, then the HTML agenda for each meeting
+    for g in cfg.get("escribe", []):
+        d = debug[g["entity_id"] + ":escribe"] = {"name": g["name"], "platform": "escribe", "meetings": 0, "scanned": [], "errors": []}
+        try:
+            body = json.dumps({"calendarStartDate": t0, "calendarEndDate": t1})
+            req = urllib.request.Request(f"https://{g['host']}/MeetingsCalendarView.aspx/GetCalendarMeetings", data=body.encode(),
+                                         headers={**UA, "Content-Type": "application/json; charset=utf-8"})
+            ms = json.loads(OPENER.open(req, timeout=60).read())["d"]
+        except Exception as e: d["errors"].append(f"list: {e}"); continue
+        ms = [m for m in ms if m.get("HasAgenda") and not skip.search(m.get("MeetingName", ""))]; d["meetings"] = len(ms)
+        n = 0
+        for m in ms:
+            if n >= cap: break
+            mdate = (m.get("StartDate") or "")[:10].replace("/", "-")
+            u = f"https://{g['host']}/Meeting.aspx?Id={m['ID']}&Agenda=Agenda&lang=English"
+            if u not in seen: scan_doc(store, seen, d, cfg, now, g["entity_id"], g["name"], "escribe", m["MeetingName"], mdate, u, u); n += 1
+    # PrimeGov: upcoming + this year's archive JSON; compiled agenda PDF per meeting
+    for g in cfg.get("primegov", []):
+        d = debug[g["entity_id"] + ":primegov"] = {"name": g["name"], "platform": "primegov", "meetings": 0, "scanned": [], "errors": []}
+        ms = []
+        for path in ["ListUpcomingMeetings", f"ListArchivedMeetings?year={now.year}"]:
+            try: ms += json.loads(fetch(f"https://{g['host']}/api/v2/PublicPortal/{path}"))
+            except Exception as e: d["errors"].append(f"{path}: {e}")
+        ms = [m for m in {m["id"]: m for m in ms}.values() if t0 <= (m.get("dateTime") or "")[:10] <= t1 and not skip.search(m.get("title") or "")]
+        d["meetings"] = len(ms); n = 0
+        for m in sorted(ms, key=lambda m: m["dateTime"], reverse=True):
+            if n >= cap: break
+            docs = [x for x in m.get("documentList", []) if x.get("compileOutputType") == 1 and re.search(r"(?i)agenda", x.get("templateName", ""))]
+            for x in docs[:1]:
+                u = f"https://{g['host']}/Public/CompiledDocument?meetingTemplateId={x['templateId']}&compileOutputType=1"
+                mu = f"https://{g['host']}/Portal/Meeting?meetingTemplateId={x['templateId']}"
+                if u not in seen: scan_doc(store, seen, d, cfg, now, g["entity_id"], g["name"], "primegov", m.get("title"), m["dateTime"][:10], u, mu); n += 1
+    # iQM2: calendar RSS (HTML view), meeting detail page, agenda FileOpen Type=1
+    for g in cfg.get("iqm2", []):
+        d = debug[g["entity_id"] + ":iqm2"] = {"name": g["name"], "platform": "iqm2", "meetings": 0, "scanned": [], "errors": []}
+        try: rss = fetch(f"https://{g['host']}/Services/RSS.aspx?Feed=Calendar")
+        except Exception as e: d["errors"].append(f"list: {e}"); continue
+        ms = re.findall(r"<h2>([^<]+)</h2>.*?Detail_Meeting\.aspx\?ID=(\d+)", rss, re.S)
+        out = []
+        for title, mid in ms:
+            dm = re.search(r"([A-Z][a-z]{2}) (\d{1,2}), (20\d\d)", title)
+            if not dm: continue
+            mdate = datetime.strptime(" ".join(dm.groups()), "%b %d %Y").date().isoformat()
+            if t0 <= mdate <= t1 and not skip.search(title): out.append((title.strip(), mid, mdate))
+        d["meetings"] = len(out); n = 0
+        for title, mid, mdate in out:
+            if n >= cap: break
+            mu = f"https://{g['host']}/Citizens/Detail_Meeting.aspx?ID={mid}"
+            try: page = fetch(mu)
+            except Exception as e: d["errors"].append(f"meeting {mid}: {e}"); continue
+            f = re.search(r"FileOpen\.aspx\?Type=1&(?:amp;)?ID=(\d+)", page)
+            if not f: continue
+            u = f"https://{g['host']}/Citizens/FileOpen.aspx?Type=1&ID={f.group(1)}&Inline=True"
+            if u not in seen: scan_doc(store, seen, d, cfg, now, g["entity_id"], g["name"], "iqm2", title, mdate, u, mu); n += 1
+
 def main():
     cfg = json.loads((ROOT / "config/pdf_sources.json").read_text())
     gov_cfg = json.loads((ROOT / "config/governments.json").read_text())
@@ -184,6 +289,8 @@ def main():
             except Exception as e:
                 d["errors"].append(f"pdf {u}: {e}")
             time.sleep(1)
+
+    scan_platforms(cfg, store, seen, debug, now)
 
     # OnBase Agenda Online (Tampa, Osceola): meeting list is JSON embedded in the search page
     for ob in cfg.get("onbase", []):
