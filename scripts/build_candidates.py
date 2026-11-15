@@ -6,6 +6,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 import rules
+from archive_items import key as archive_key
 
 def load(name):
     p = ROOT / "data" / name
@@ -24,6 +25,7 @@ def best_link(it):
 
 def tag_stage_category(it, today):
     it["link"] = best_link(it)
+    it["id"] = archive_key(it)        # same key as data/archive and the review queue
     md = it.get("meeting_date")
     days = (datetime.fromisoformat(md).date() - today).days if md else None
     early = bool(EARLY.search(it.get("body") or ""))
