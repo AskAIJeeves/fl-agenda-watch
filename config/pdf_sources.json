@@ -144,15 +144,6 @@
    ],
    "follow": "(?i)(agenda[^/]*\\.asp\\?|meeting[^/]*\\.asp)",
    "pdf": "(?i)(agenda[^/]*\\.pdf|fileparse\\.php|getdoc|/agendas?/[^ ]*\\.pdf)"
-  },
-  {
-   "entity_id": "c-pasco",
-   "name": "Pasco County",
-   "listing_urls": [
-    "https://www.pascocountyfl.gov/government/agendas___minutes_.php"
-   ],
-   "follow": "(?i)(agenda|civicplus|civicclerk|municode|meeting|granicus|legistar|boarddocs)",
-   "pdf": "(?i)(\\.pdf|AgendaCenter/ViewFile|FileOpen|DownloadFile|filestream)"
   }
  ],
  "sequential": [
@@ -230,6 +221,11 @@
    "entity_id": "c-escambia",
    "name": "Escambia County",
    "tenant": "escambiacofl"
+  },
+  {
+   "entity_id": "c-pasco",
+   "name": "Pasco County",
+   "tenant": "pascocofl"
   }
  ],
  "_platforms_checked": "CivicPlus Agenda Center RSS feeds were empty for Tarpon Springs, Safety Harbor, Oldsmar, St. Pete Beach (they use other systems). Oldsmar uses CivicWeb (myoldsmar.civicweb.net).",
