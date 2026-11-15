@@ -2,6 +2,8 @@
 flag large-dollar spending items. Writes data/agenda_items.json and
 data/agenda_status.json. Standard library only."""
 import json, re, sys, time, urllib.request, urllib.parse
+sys.path.insert(0, str(__import__("pathlib").Path(__file__).resolve().parent))
+import rules
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
@@ -64,15 +66,14 @@ def scan(gov, cfg, now):
                 text = " ".join(filter(None, [it.get("EventItemTitle"), it.get("EventItemMatterName"), it.get("EventItemAgendaNote")]))
                 if not text.strip():
                     continue
-                amts = amounts(text)
-                top = max(amts) if amts else None
-                kw = sorted({m.group(0).lower() for m in KEYWORDS.finditer(text)})
-                if (top and top >= cfg["min_amount"]) or any(k in ("bond", "bonds", "debt", "change order", "golf", "city hall", "government center", "no-bid", "sole source") for k in kw):
+                tags = rules.classify(text)
+                if tags:
                     items.append({
                         "entity_id": gov["entity_id"], "government": gov["name"], "client": client,
                         "body": ev.get("EventBodyName"), "meeting_date": (ev.get("EventDate") or "")[:10],
                         "agenda_number": it.get("EventItemAgendaNumber"), "file_number": it.get("EventItemMatterFile"),
-                        "title": (it.get("EventItemTitle") or "")[:1500], "max_amount": top, "keywords": kw,
+                        "title": (it.get("EventItemTitle") or "")[:1500], **tags,
+                        "keywords": sorted({m.group(0).lower() for m in KEYWORDS.finditer(text)}),
                         "meeting_url": ev.get("EventInSiteURL"), "agenda_pdf": ev.get("EventAgendaFile"),
                     })
         return {"status": "ok", "client": client, "events": len(events), "flagged": len(items)}, items
@@ -98,7 +99,7 @@ def main():
         else:
             m["appearances"].append({"body": it["body"], "meeting_date": it["meeting_date"]})
     all_items = list(merged.values())
-    all_items.sort(key=lambda x: (-(x["max_amount"] or 0), x["meeting_date"]))
+    all_items.sort(key=lambda x: (-(x.get("signal_score") or 0), x["meeting_date"]))
     (ROOT / "data").mkdir(exist_ok=True)
     meta = {"generated_utc": now.isoformat(timespec="seconds"), "count": len(all_items)}
     (ROOT / "data/agenda_items.json").write_text(json.dumps({**meta, "items": all_items}, indent=1))

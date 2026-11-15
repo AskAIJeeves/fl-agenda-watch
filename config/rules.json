@@ -1,0 +1,16 @@
+{
+ "_note": "Shared filtering rules for every reader. Layer 1 (here) casts a wide net and tags items; layer 2 (the daily digest) judges them with a rubric.",
+ "capture_min": 25000,
+ "action": "\\b(approv\\w*|award\\w*|authoriz\\w*|ratif\\w*|not[- ]to[- ]exceed|contract|agreement|amendment|change order|purchase|procure\\w*|resolution|ordinance|appropriat\\w*|bond|loan|grant|fund(ing|s)?|contribut\\w*|donat\\w*|sponsor\\w*|lease|settle\\w*)\\b",
+ "routine": "\\b(accept\\w*\\s+(of\\s+)?(a\\s+|the\\s+)?(\\w+\\s+){0,4}grant|grant\\s+(award\\s+)?from\\s+the\\s+(state|federal|u\\.?s\\.?|florida|department)|budget\\s+(amendment|transfer|adjustment)s?|transfer\\s+of\\s+(budget|funds)\\s+between|housing finance authority|conduit|payroll|insurance\\s+renewal|water\\s+main|sewer\\s+(line|main)\\s+repair|write[- ]off|warrant list|minutes of)\\b",
+ "outgoing_grant": "\\b((grant|grants|funding|contribution|donation|sponsorship|allocation|award)\\s+(of\\s+\\$[\\d,\\.]+\\s+)?(in\\s+the\\s+amount\\s+of\\s+\\$[\\d,\\.]+\\s+)?to\\s+(the\\s+)?[A-Z]|community\\s+(partnership|grant|investment|redevelopment)\\s+(program\\s+)?(grant|funding|award)|non-?profit|social\\s+service\\s+agenc|special\\s+event\\s+(funding|grant|sponsorship)|neighborhood\\s+(grant|matching)|cultural\\s+(arts\\s+)?(grant|funding)|discretionary\\s+fund|commissioner'?s?\\s+(discretionary|district)\\s+fund)",
+ "bypass": "\\b(no[- ]bid|sole[- ]source|single[- ]source|piggyback\\w*|emergency\\s+(purchase|procurement|contract)|waiv\\w*\\s+(of\\s+)?(the\\s+)?(formal\\s+|competitive\\s+)?(bid|bidding|procurement|solicitation)|exempt\\w*\\s+from\\s+(the\\s+)?(competitive|formal)|without\\s+competitive|cooperative\\s+purchas\\w*|riding\\s+(an?\\s+)?(existing\\s+)?contract)",
+ "signals": {
+  "vanity": "\\b(art|artwork|sculpture|mural|statue|fountain|monument|hologram\\w*|display|branding|rebrand\\w*|logo|marketing|advertis\\w*|public relations|pr firm|naming rights|signage|wayfinding|gala|banquet|celebration|festival|parade|holiday lights|fireworks|award ceremony)\\b",
+  "officials": "\\b(travel|conference|lodging|vehicle\\s+for\\s+the\\s+(mayor|manager|commission)|take[- ]home vehicle|furniture|office\\s+(renovation|remodel|furnish\\w*)|chambers?\\s+(renovation|remodel)|severance|retention bonus|car allowance|lobbyist|lobbying)\\b",
+  "facilities": "\\b(golf|marina|stadium|arena|ballpark|amphitheater|city hall|government center|administration building|headquarters|convention center|performing arts)\\b",
+  "consultants": "\\b(consultant|consulting|advisory services|study|feasibility|master plan|strategic plan|facilitat\\w*)\\b",
+  "legal": "\\b(settlement|judgment|litigation)\\b"
+ },
+ "score_weights": {"vanity": 2, "officials": 2, "facilities": 1, "consultants": 1, "legal": 1, "outgoing_grant": 2, "bypass": 2}
+}

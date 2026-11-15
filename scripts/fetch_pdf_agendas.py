@@ -10,7 +10,8 @@ from pypdf import PdfReader
 
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
-from fetch_agendas import amounts, KEYWORDS  # shared filters
+from fetch_agendas import KEYWORDS
+import rules  # shared filters
 
 ACTION = re.compile(r"(?i)\b(approv\w*|award\w*|authoriz\w*|not[- ]to[- ]exceed|contract|agreement|amendment|change order|purchase|resolution|ordinance|appropriat\w*|bond|loan)\b")
 UA = {"User-Agent": "Mozilla/5.0 (fl-agenda-watch; public records research)"}
@@ -61,22 +62,18 @@ def pdf_text(data, max_pages):
         except Exception: pages.append((i + 1, ""))
     return pages
 
-def passages(pages, min_amount):
-    """Split each page into paragraph-ish chunks and keep ones with big dollars."""
+def passages(pages, min_amount=None):
+    """Split pages into item-sized chunks; keep those the shared rules flag. Returns (page, tags, text)."""
     out = []
     for pno, txt in pages:
-        chunks = re.split(r"\n\s*\n|(?=\n\s*(?:\d{1,2}|[A-Z])[\.\)]\s)", txt)
+        chunks = re.split(r"\n\s*\n|(?=\n\s*(?:\d{1,3}|[A-Z])[\.\)]\s)", txt)
         for ch in chunks:
             ch = " ".join(ch.split())
-            if len(ch) < 40: continue
-            a = amounts(ch)
-            top = max(a) if a else None
-            if top and top >= min_amount and ACTION.search(ch):
-                out.append((pno, top, ch[:1200]))
-    # drop near-duplicate passages (agenda + packet repeat the same item)
+            tags = rules.classify(ch)
+            if tags: out.append((pno, tags, ch[:1200]))
     seen, uniq = set(), []
-    for p in sorted(out, key=lambda x: -x[1]):
-        k = (round(p[1]), p[2][:120])
+    for p in sorted(out, key=lambda x: -x[1]["signal_score"]):
+        k = (round(p[1]["max_amount"] or 0), p[2][:120])
         if k not in seen: seen.add(k); uniq.append(p)
     return uniq
 
@@ -139,12 +136,12 @@ def main():
                     import html as _h; pages = [(1, _h.unescape(txt))]
                 else:
                     seen[u] = {"status": "not_pdf", "date": now.date().isoformat()}; continue
-                hits = passages(pages, min_amount)[:30]
-                for pno, top, ch in hits:
+                hits = passages(pages)[:60]
+                for pno, tags, ch in hits:
                     store["items"].append({
                         "entity_id": src["entity_id"], "government": src["name"], "client": "pdf",
                         "body": title or None, "meeting_date": udate(u).date().isoformat() if udate(u) else None, "agenda_number": f"p.{pno}",
-                        "file_number": None, "title": ch, "max_amount": top,
+                        "file_number": None, "title": ch, **tags,
                         "keywords": sorted({m.group(0).lower() for m in KEYWORDS.finditer(ch)}),
                         "meeting_url": page, "agenda_pdf": u, "found_utc": now.isoformat(timespec="seconds")})
                 seen[u] = {"status": "ok", "pages": len(pages), "hits": len(hits), "date": now.date().isoformat()}
@@ -175,11 +172,11 @@ def main():
                 data = fetch(u, binary=True)
                 if not data[:5].startswith(b"%PDF"):
                     seen[u] = {"status": "not_pdf", "date": now.date().isoformat()}; d["errors"].append(f"not pdf: {u} {data[:80]!r}"); continue
-                pages = pdf_text(data, cfg["max_pages_per_pdf"]); hits = passages(pages, min_amount)[:30]
-                for pno, top, ch in hits:
+                pages = pdf_text(data, cfg["max_pages_per_pdf"]); hits = passages(pages)[:60]
+                for pno, tags, ch in hits:
                     store["items"].append({"entity_id": cc["entity_id"], "government": cc["name"], "client": "civicclerk",
                         "body": body, "meeting_date": mdate, "agenda_number": f"p.{pno}", "file_number": None, "title": ch,
-                        "max_amount": top, "keywords": sorted({m.group(0).lower() for m in KEYWORDS.finditer(ch)}),
+                        **tags, "keywords": sorted({m.group(0).lower() for m in KEYWORDS.finditer(ch)}),
                         "meeting_url": f"https://{cc['tenant']}.portal.civicclerk.com/", "agenda_pdf": u, "found_utc": now.isoformat(timespec="seconds")})
                 chars = sum(len(t) for _, t in pages)
                 seen[u] = {"status": "ok", "pages": len(pages), "hits": len(hits), "chars": chars, "date": now.date().isoformat()}
@@ -239,11 +236,11 @@ def main():
                 data = fetch(u, binary=True)
                 if not data[:5].startswith(b"%PDF"):
                     d["errors"].append(f"not pdf: {u[-80:]} {data[:60]!r}"); continue
-                pages = pdf_text(data, cfg["max_pages_per_pdf"]); hits = passages(pages, min_amount)[:40]
-                for pno, top, ch in hits:
+                pages = pdf_text(data, cfg["max_pages_per_pdf"]); hits = passages(pages)[:60]
+                for pno, tags, ch in hits:
                     store["items"].append({"entity_id": ob["entity_id"], "government": ob["name"], "client": "onbase",
                         "body": body, "meeting_date": mdate, "agenda_number": f"p.{pno}", "file_number": None, "title": ch,
-                        "max_amount": top, "keywords": sorted({mm.group(0).lower() for mm in KEYWORDS.finditer(ch)}),
+                        **tags, "keywords": sorted({mm.group(0).lower() for mm in KEYWORDS.finditer(ch)}),
                         "meeting_url": f"{ob['base']}/Meetings/ViewMeeting?id={mid}&doctype=1", "agenda_pdf": u,
                         "found_utc": now.isoformat(timespec="seconds")})
                 # agendas get revised before the meeting: only mark done once the meeting has passed
@@ -268,11 +265,11 @@ def main():
                     continue
                 d["found"].append(u)
                 try:
-                    pages = pdf_text(data, cfg["max_pages_per_pdf"]); hits = passages(pages, min_amount)[:30]
-                    for pno, top, ch in hits:
+                    pages = pdf_text(data, cfg["max_pages_per_pdf"]); hits = passages(pages)[:60]
+                    for pno, tags, ch in hits:
                         store["items"].append({"entity_id": dt["entity_id"], "government": dt["name"], "client": "pdf",
                             "body": dt.get("body"), "meeting_date": day.date().isoformat(), "agenda_number": f"p.{pno}", "file_number": None,
-                            "title": ch, "max_amount": top, "keywords": sorted({m.group(0).lower() for m in KEYWORDS.finditer(ch)}),
+                            "title": ch, **tags, "keywords": sorted({m.group(0).lower() for m in KEYWORDS.finditer(ch)}),
                             "meeting_url": None, "agenda_pdf": u, "found_utc": now.isoformat(timespec="seconds")})
                     # re-check future agendas (they get revised); mark past ones done
                     if off < 0: seen[u] = {"status": "ok", "pages": len(pages), "hits": len(hits), "date": now.date().isoformat()}
@@ -301,12 +298,12 @@ def main():
                 m = re.search(r"(January|February|March|April|May|June|July|August|September|October|November|December) (\d{1,2}), (20\d\d)", first)
                 mdate = datetime.strptime(" ".join(m.groups()), "%B %d %Y").date().isoformat() if m else None
                 body = next((b for b in ["Board of County Commissioners", "Committee", "Policy Council"] if b in first), None)
-                hits = passages(pages, min_amount)[:30]
-                for pno, top, ch in hits:
+                hits = passages(pages)[:60]
+                for pno, tags, ch in hits:
                     store["items"].append({
                         "entity_id": sq["entity_id"], "government": sq["name"], "client": "pdf",
                         "body": body, "meeting_date": mdate, "agenda_number": f"p.{pno}", "file_number": None,
-                        "title": ch, "max_amount": top,
+                        "title": ch, **tags,
                         "keywords": sorted({mm.group(0).lower() for mm in KEYWORDS.finditer(ch)}),
                         "meeting_url": None, "agenda_pdf": u, "found_utc": now.isoformat(timespec="seconds")})
                 d["scanned"].append({"pdf": u, "pages": len(pages), "hits": len(hits), "meeting_date": mdate})

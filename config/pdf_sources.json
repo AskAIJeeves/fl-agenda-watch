@@ -1,6 +1,6 @@
 {
  "_note": "Governments without a usable agenda feed. The reader opens each listing page, optionally follows meeting-page links one level, finds agenda PDFs, and scans new ones for dollar amounts. Patterns are regexes on the full link URL.",
- "max_new_pdfs_per_run": 4,
+ "max_new_pdfs_per_run": 8,
  "max_pages_per_pdf": 400,
  "sources": [
   {
