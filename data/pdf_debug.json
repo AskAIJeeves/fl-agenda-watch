@@ -1,18 +1,14 @@
 {
- "generated_utc": "2026-11-15T03:45:03+00:00",
+ "generated_utc": "2026-11-15T03:57:37+00:00",
  "sources": {
   "m-stpetersburg": {
    "name": "St. Petersburg",
    "listing": [
     {
      "url": "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-     "links": 513,
+     "links": 508,
      "head": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<base href=\"https://www.stpete.org/\" />\n\t<meta charset=\"utf-8\">\n\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n\t\r\n\n\t \n\t<!-- Metadata Area Starts -->\r\n\t<title>City Council</title>\r\n",
      "sample": [
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php#main",
-       "Skip to main content"
-      ],
       [
        "https://www.stpete.org/government/mayor___city_council/mayor_s_office/index.php",
        ""
@@ -60,330 +56,6 @@
       [
        "https://www.stpete.org/government/meetings___agendas/index.php",
        "Attend a Meeting"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Afrikaans"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Albanian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Arabic"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Armenian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Azerbaijani"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Basque"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Belarusian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Bengali"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Bosnian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Bulgarian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Catalan"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Cebuano"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Chinese (Simplified)"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Chinese (Traditional)"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Croatian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Czech"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Danish"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Dutch"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "English"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Esperanto"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Estonian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Filipino"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Finnish"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "French"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Galician"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Georgian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "German"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Greek"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Gujarati"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Haitian Creole"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Hausa"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Hebrew"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Hindi"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Hmong"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Hungarian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Icelandic"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Igbo"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Indonesian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Irish"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Italian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Japanese"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Javanese"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Kannada"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Khmer"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Korean"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Lao"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Latin"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Latvian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Lithuanian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Macedonian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Malay"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Maltese"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Maori"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Marathi"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Mongolian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Nepali"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Norwegian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Persian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Polish"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Portuguese"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Punjabi"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Romanian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Russian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Serbian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Slovak"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Slovenian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Somali"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Spanish"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Swahili"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Swedish"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Tamil"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Telugu"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Thai"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Turkish"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Ukrainian"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Urdu"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Vietnamese"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Welsh"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Yiddish"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Yoruba"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Zulu"
       ],
       [
        "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
@@ -434,18 +106,6 @@
        "Council Calendar"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       "Print this page"
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       ""
-      ],
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
-       ""
-      ],
-      [
        "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
        "Council Agendas"
       ],
@@ -488,12 +148,56 @@
       [
        "https://www.stpete.org/government/mayor___city_council/city_council/district_2.php",
        "Learn More District 2 Brandi Gabbard"
+      ],
+      [
+       "https://www.stpete.org/government/mayor___city_council/city_council/district_3.php",
+       "Learn More District 3 Mike Harting"
+      ],
+      [
+       "https://www.stpete.org/government/mayor___city_council/city_council/district_4.php",
+       "Learn More District 4 Lisset Hanewicz"
+      ],
+      [
+       "https://www.stpete.org/government/mayor___city_council/city_council/district_5.php",
+       "Learn More District 5 Deborah Figgs-Sanders"
+      ],
+      [
+       "https://www.stpete.org/government/mayor___city_council/city_council/district_6.php",
+       "Learn More District 6 Gina Driscoll"
+      ],
+      [
+       "https://www.stpete.org/government/mayor___city_council/city_council/district_7.php",
+       "Learn More District 7 Corey Givens Jr."
+      ],
+      [
+       "https://www.stpete.org/government/mayor___city_council/city_council/district_8.php",
+       "Learn More District 8 Richie Floyd"
+      ],
+      [
+       "https://www.reddit.com/submit?url=http://www.stpete.org/government/mayor___city_council/city_council/index.php",
+       "Reddit"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/index.php",
+       "Meetings"
+      ],
+      [
+       "https://www.stpete.org/government/mayor___city_council/city_council/index.php",
+       "Office of City Council"
+      ],
+      [
+       "https://www.stpete.org/government/mayor___city_council/mayor_s_office/index.php",
+       "Office of the Mayor"
+      ],
+      [
+       "https://cms5.revize.com/revize/security/index.jsp?webspace=stpete&filename=/government/mayor___city_council/city_council/index.php",
+       "Login"
       ]
      ]
     },
     {
      "url": "http://www.stpete.org/calendar.php?calendar=9",
-     "links": 490,
+     "links": 485,
      "head": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n\t<base href=\"https://www.stpete.org/\" />\n\t<meta charset=\"utf-8\">\n\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n\n\t\r\n\n\t \n\t<!-- Metadata Area Starts -->\r\n\t<title>Calendar</title>\r\n\t<me",
      "sample": [
       [
@@ -549,7 +253,7 @@
        "stpete.org/council"
       ],
       [
-       "http://www.stpete.org/calendar.php?calendar=9",
+       "https://www.stpete.org/",
        "Official City Meetings"
       ],
       [
@@ -573,12 +277,8 @@
    "followed": [
     {
      "url": "https://www.stpete.org/government/meetings___agendas/index.php",
-     "links": 486,
+     "links": 481,
      "sample": [
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php#main",
-       "Skip to main content"
-      ],
       [
        "http://www.stpete.org/calendar.php?calendar=9",
        "City Meeting Calendar"
@@ -596,235 +296,35 @@
        "Attend a Meeting"
       ],
       [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Afrikaans"
+       "https://www.stpete.org/Government/Government/Boards and Committees/docs/City Hall Visitor Parking Map.pdf?t=202401220837200",
+       "City Hall Visitor Parking Map"
+      ],
+      [
+       "https://www.stpete.org/calendar.php?calendar=9&view=week",
+       "Meeting Calendar"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/recorded_city_meetings.php",
+       "Recorded City Meetings"
+      ],
+      [
+       "https://www.reddit.com/submit?url=http://www.stpete.org/government/meetings___agendas/index.php",
+       "Reddit"
       ],
       [
        "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Albanian"
+       "Meetings"
       ],
       [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Arabic"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Armenian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Azerbaijani"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Basque"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Belarusian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Bengali"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Bosnian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Bulgarian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Catalan"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Cebuano"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Chinese (Simplified)"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Chinese (Traditional)"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Croatian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Czech"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Danish"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Dutch"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "English"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Esperanto"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Estonian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Filipino"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Finnish"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "French"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Galician"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Georgian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "German"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Greek"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Gujarati"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Haitian Creole"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Hausa"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Hebrew"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Hindi"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Hmong"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Hungarian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Icelandic"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Igbo"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Indonesian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Irish"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Italian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Japanese"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Javanese"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Kannada"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Khmer"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Korean"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Lao"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Latin"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Latvian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Lithuanian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Macedonian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Malay"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Maltese"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Maori"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Marathi"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Mongolian"
+       "https://cms5.revize.com/revize/security/index.jsp?webspace=stpete&filename=/government/meetings___agendas/index.php",
+       "Login"
       ]
      ]
     },
     {
      "url": "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-     "links": 961,
+     "links": 956,
      "sample": [
-      [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php#main",
-       "Skip to main content"
-      ],
       [
        "http://www.stpete.org/calendar.php?calendar=9",
        "City Meeting Calendar"
@@ -843,234 +343,234 @@
       ],
       [
        "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Afrikaans"
+       "Council Agendas"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Albanian"
+       "https://outlook.cloud.microsoft/calendar/published/9eff39a02fd84c518b5599926afe3a8f@stpete.org/4f51fbf7288c4468ab849ee1cca1485f12918235826057113422/calendar.html",
+       "City Council Meeting Schedule"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Arabic"
+       "https://www.stpete.org/Government/Agendas and Documents/agenda order/Check Back for Proposed Agenda Order.pdf?t=202611061155160",
+       "View Proposed Agenda Order"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Armenian"
+       "https://www.stpete.org/2026-11-19 Agenda Packet (compressed).pdf?t=202611061050570",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Azerbaijani"
+       "https://www.stpete.org/2026-11-19 Council Agenda AddsDeletes.pdf?t=202611131409360",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Basque"
+       "https://www.stpete.org/2026-11-05 Agenda Packet w. Revised AddsDeletes.pdf?t=202611041055140",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Belarusian"
+       "https://www.stpete.org/2026-11-05 Council Agenda AddsDeletes.pdf?t=202611041054340",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Bengali"
+       "https://www.stpete.org/2026-10-15 Agenda Packet w. Updated AddsDeletes.pdf?t=202610151351220",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Bosnian"
+       "https://www.stpete.org/2026-10-15 Council Agenda AddsDeletes.pdf?t=202610151312000",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Bulgarian"
+       "https://www.stpete.org/2026-10-08 Agenda Packet w. AddsDeletes.pdf?t=202610021209320",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Catalan"
+       "https://www.stpete.org/2026-10-08 Council Agenda AddsDeletes.pdf?t=202610021209000",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Cebuano"
+       "https://www.stpete.org/2026-10-01 Agenda Packet w. Revised AddsDeletes2 (compressed).pdf?t=202609291016560",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Chinese (Simplified)"
+       "https://www.stpete.org/2026-10-01 Council Agenda AddsDeletes.pdf?t=202609291016010",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Chinese (Traditional)"
+       "https://www.stpete.org/2026-09-17 Agenda Packet3 w_AddsDeletes.pdf?t=202609161029200",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Croatian"
+       "https://www.stpete.org/2026-09-17 Council Agenda AddsDeletes3.pdf?t=202609161028440",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Czech"
+       "https://www.stpete.org/2026-09-10 Agenda Packet w_AddsDeletes.pdf?t=202609081628220",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Danish"
+       "https://www.stpete.org/2026-09-10 Council Agenda AddsDeletes.pdf?t=202609081625140",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Dutch"
+       "https://www.stpete.org/2026-09-03 Agenda Packet w_AddsDeletes.pdf?t=202609021548380",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "English"
+       "https://www.stpete.org/2026-09-03 Council Agenda AddsDeletes.pdf?t=202609021555160",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Esperanto"
+       "https://www.stpete.org/2026-08-27 Agenda Packet w_AddsDeletes2.pdf?t=202608261315510",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Estonian"
+       "https://www.stpete.org/2026-08-27 Council Agenda AddsDeletes.pdf?t=202608261323260",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Filipino"
+       "https://www.stpete.org/2026-08-13 Agenda Packet w_AddsDeletes.pdf?t=202608131211290",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Finnish"
+       "https://www.stpete.org/2026-08-13 Council Agenda AddsDeletes.pdf?t=202608071059170",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "French"
+       "https://www.stpete.org/2026-08-06 Agenda Packet w_AddsDeletes.pdf?t=202607311141170",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Galician"
+       "https://www.stpete.org/2026-08-06 Council Agenda AddsDeletes.pdf?t=202608051535370",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Georgian"
+       "https://www.stpete.org/2026-07-23 Agenda Packet w_AddsDeletes.pdf?t=202607171638300",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "German"
+       "https://www.stpete.org/2026-07-23 Council Agenda AddsDeletes.pdf?t=202607171349570",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Greek"
+       "https://www.stpete.org/2026-07-16 Agenda Packet2 w_AddsDeletes.pdf?t=202607151004500",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Gujarati"
+       "https://www.stpete.org/2026-07-16 Council Agenda AddsDeletes2.pdf?t=202607151005220",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Haitian Creole"
+       "https://www.stpete.org/2026-07-09 Agenda Packet w. Revised AddsDeletes.pdf?t=202607081302080",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Hausa"
+       "https://www.stpete.org/2026-07-09 Council Agenda AddsDeletes.pdf?t=202607081303080",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Hebrew"
+       "https://www.stpete.org/2026-06-11 Agenda Packet 3w. AddsDeletes.pdf?t=202606091611510",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Hindi"
+       "https://www.stpete.org/2026-06-11 Council Agenda AddsDeletes3.pdf?t=202606091611170",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Hmong"
+       "https://www.stpete.org/2026-06-04 Agenda Packet w. AddsDeletes.pdf?t=202605291118270",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Hungarian"
+       "https://www.stpete.org/2026-06-04 Council Agenda AddsDeletes.pdf?t=202605291117410",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Icelandic"
+       "https://www.stpete.org/2026-05-28 Agenda Packet w. AddsDeletes.pdf?t=202605221141580",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Igbo"
+       "https://www.stpete.org/2026-05-28 Council Agenda AddsDeletes.pdf?t=202605221141220",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Indonesian"
+       "https://www.stpete.org/2026-05-21 Agenda Packet w. AddsDeletes.pdf?t=202605151151360",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Irish"
+       "https://www.stpete.org/2026-05-21 Council Agenda AddsDeletes.pdf?t=202605151150490",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Italian"
+       "https://www.stpete.org/2026-05-14 Agenda Packet w. Revised AddsDeletes (5-13).pdf?t=202605131413210",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Japanese"
+       "https://www.stpete.org/2026-05-14 Council Agenda AddsDeletes.pdf?t=202605111259270",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Javanese"
+       "https://www.stpete.org/2026-04-16 Agenda Packet w. AddsDeletes.pdf?t=202604141516540",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Kannada"
+       "https://www.stpete.org/2026-04-16 Council Agenda AddsDeletes.pdf?t=202604101112180",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Khmer"
+       "https://www.stpete.org/2026-04-09 Agenda Packet w. Revised AddsDeletes.pdf?t=202604071404290",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Korean"
+       "https://www.stpete.org/2026-04-09 Council Agenda AddsDeletes.pdf?t=202604071403510",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Lao"
+       "https://www.stpete.org/2026-04-02 Agenda Packet w. AddsDeletes.pdf?t=202603271140580",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Latin"
+       "https://www.stpete.org/2026-04-02 Council Agenda AddsDeletes.pdf?t=202603271140280",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Latvian"
+       "https://www.stpete.org/2026-03-26 Agenda Packet w_AddsDeletes.pdf?t=202603201059400",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Lithuanian"
+       "https://www.stpete.org/2026-03-26 Council Agenda AddsDeletes.pdf?t=202603201059090",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Macedonian"
+       "https://www.stpete.org/2026-03-05 Agenda Packet w_AddsDeletes2.pdf?t=202603030957470",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Malay"
+       "https://www.stpete.org/2026-03-05 Council Agenda AddsDeletes2.pdf?t=202603030958220",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Maltese"
+       "https://www.stpete.org/2026-02-19 Agenda Packet w_AddsDeletes.pdf?t=202602131056220",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Maori"
+       "https://www.stpete.org/2026-02-19 Council Agenda AddsDeletes.pdf?t=202602131055490",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Marathi"
+       "https://www.stpete.org/2026-02-12 Agenda Packet w_AddsDeletes.pdf?t=202602061146410",
+       "Agenda"
       ],
       [
-       "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-       "Mongolian"
+       "https://www.stpete.org/2026-02-12 Council Agenda AddsDeletes.pdf?t=202602061146120",
+       "Agenda"
+      ],
+      [
+       "https://www.stpete.org/2026-02-05 Agenda Packet w_AddsDeletes.pdf?t=202601301137190",
+       "Agenda"
       ]
      ]
     },
     {
      "url": "https://www.stpete.org/government/meetings___agendas/index.php",
-     "links": 486,
+     "links": 481,
      "sample": [
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php#main",
-       "Skip to main content"
-      ],
       [
        "http://www.stpete.org/calendar.php?calendar=9",
        "City Meeting Calendar"
@@ -1088,224 +588,28 @@
        "Attend a Meeting"
       ],
       [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Afrikaans"
+       "https://www.stpete.org/Government/Government/Boards and Committees/docs/City Hall Visitor Parking Map.pdf?t=202401220837200",
+       "City Hall Visitor Parking Map"
+      ],
+      [
+       "https://www.stpete.org/calendar.php?calendar=9&view=week",
+       "Meeting Calendar"
+      ],
+      [
+       "https://www.stpete.org/government/meetings___agendas/recorded_city_meetings.php",
+       "Recorded City Meetings"
+      ],
+      [
+       "https://www.reddit.com/submit?url=http://www.stpete.org/government/meetings___agendas/index.php",
+       "Reddit"
       ],
       [
        "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Albanian"
+       "Meetings"
       ],
       [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Arabic"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Armenian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Azerbaijani"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Basque"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Belarusian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Bengali"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Bosnian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Bulgarian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Catalan"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Cebuano"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Chinese (Simplified)"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Chinese (Traditional)"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Croatian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Czech"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Danish"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Dutch"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "English"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Esperanto"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Estonian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Filipino"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Finnish"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "French"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Galician"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Georgian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "German"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Greek"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Gujarati"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Haitian Creole"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Hausa"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Hebrew"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Hindi"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Hmong"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Hungarian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Icelandic"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Igbo"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Indonesian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Irish"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Italian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Japanese"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Javanese"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Kannada"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Khmer"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Korean"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Lao"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Latin"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Latvian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Lithuanian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Macedonian"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Malay"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Maltese"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Maori"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Marathi"
-      ],
-      [
-       "https://www.stpete.org/government/meetings___agendas/index.php",
-       "Mongolian"
+       "https://cms5.revize.com/revize/security/index.jsp?webspace=stpete&filename=/government/meetings___agendas/index.php",
+       "Login"
       ]
      ]
     }
@@ -1368,13 +672,9 @@
     },
     {
      "url": "https://www.orlando.gov/Our-Government/Public-Meetings",
-     "links": 695,
+     "links": 689,
      "head": "<!DOCTYPE html>\r\n<!--[if lt IE 7]>      <html class=\"no-js lt-ie9 lt-ie8 lt-ie7\" lang=\"en\"> <![endif]-->\r\n<!--[if IE 7]>         <html class=\"no-js lt-ie9 lt-ie8\" lang=\"en\"> <![endif]-->\r\n<!--[if IE 8]>         <html class=\"no-js lt-ie9\" lang=\"en\"> <![endif]-->\r\n<!--[if gt IE 8]><!-->\r\n<html class=\"",
      "sample": [
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings#main-content",
-       "Skip to main content"
-      ],
       [
        "https://www.orlando.gov/Our-Government/Public-Meetings?oc_lang=en-US",
        "English Select this as your preferred language"
@@ -1560,10 +860,6 @@
        "Mayor & City Council"
       ],
       [
-       "https://www.orlando.gov/Our-Government/Public-Meetings#instructions",
-       "Public Meeting Instructions and Notices"
-      ],
-      [
        "https://www.orlando.gov/Our-Government/Public-Meetings/Public-Art-Selection-Committee-Meeting-for-Lake-Nona-Park-111626",
        "Public Art Selection Committee Meeting for Lake Nona Park November 16, 2026 In-Person Meeting"
       ],
@@ -1628,24 +924,12 @@
        "Instructions for the public(PDF, 43KB)"
       ],
       [
-       "https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.orlando.gov%2fOur-Government%2fPublic-Meetings",
-       "Facebook"
-      ],
-      [
-       "https://twitter.com/share?url=https%3a%2f%2fwww.orlando.gov%2fOur-Government%2fPublic-Meetings",
-       "X"
-      ],
-      [
        "mailto:?Body=https%3a%2f%2fwww.orlando.gov%2fOur-Government%2fPublic-Meetings",
        "Email"
       ],
       [
        "https://www.orlando.gov/Our-Government/Public-Meetings",
        "Print"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings#body-top",
-       "Back to top"
       ]
      ]
     }
@@ -1656,12 +940,8 @@
    "followed": [
     {
      "url": "https://www.orlando.gov/Our-Government/Public-Meetings/Downtown-Development-BoardCRA-Advisory-Board-Meeting-111826",
-     "links": 673,
+     "links": 668,
      "sample": [
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/Downtown-Development-BoardCRA-Advisory-Board-Meeting-111826#main-content",
-       "Skip to main content"
-      ],
       [
        "https://www.orlando.gov/Our-Government/Public-Meetings/Downtown-Development-BoardCRA-Advisory-Board-Meeting-111826?oc_lang=en-US",
        "English Select this as your preferred language"
@@ -1891,23 +1171,19 @@
        "Community Redevelopment Agency Advisory Board Agendas & Minutes"
       ],
       [
-       "https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.orlando.gov%2fOur-Government%2fPublic-Meetings%2fDowntown-Development-BoardCRA-Advisory-Board-Meeting-111826",
-       "Facebook"
+       "mailto:?Body=https%3a%2f%2fwww.orlando.gov%2fOur-Government%2fPublic-Meetings%2fDowntown-Development-BoardCRA-Advisory-Board-Meeting-111826",
+       "Email"
       ],
       [
-       "https://twitter.com/share?url=https%3a%2f%2fwww.orlando.gov%2fOur-Government%2fPublic-Meetings%2fDowntown-Development-BoardCRA-Advisory-Board-Meeting-111826",
-       "X"
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Downtown-Development-BoardCRA-Advisory-Board-Meeting-111826",
+       "Print"
       ]
      ]
     },
     {
      "url": "https://www.orlando.gov/Our-Government/Public-Meetings/Finance-Committee-Meeting-111926",
-     "links": 672,
+     "links": 667,
      "sample": [
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/Finance-Committee-Meeting-111926#main-content",
-       "Skip to main content"
-      ],
       [
        "https://www.orlando.gov/Our-Government/Public-Meetings/Finance-Committee-Meeting-111926?oc_lang=en-US",
        "English Select this as your preferred language"
@@ -2129,14 +1405,6 @@
        "Zoom Meeting Link"
       ],
       [
-       "https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.orlando.gov%2fOur-Government%2fPublic-Meetings%2fFinance-Committee-Meeting-111926",
-       "Facebook"
-      ],
-      [
-       "https://twitter.com/share?url=https%3a%2f%2fwww.orlando.gov%2fOur-Government%2fPublic-Meetings%2fFinance-Committee-Meeting-111926",
-       "X"
-      ],
-      [
        "mailto:?Body=https%3a%2f%2fwww.orlando.gov%2fOur-Government%2fPublic-Meetings%2fFinance-Committee-Meeting-111926",
        "Email"
       ],
@@ -2148,12 +1416,8 @@
     },
     {
      "url": "https://www.orlando.gov/Our-Government/Public-Meetings/Budget-Review-Committee-111926",
-     "links": 674,
+     "links": 669,
      "sample": [
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/Budget-Review-Committee-111926#main-content",
-       "Skip to main content"
-      ],
       [
        "https://www.orlando.gov/Our-Government/Public-Meetings/Budget-Review-Committee-111926?oc_lang=en-US",
        "English Select this as your preferred language"
@@ -2383,12 +1647,12 @@
        "Budget Review Committee Agendas & Minutes"
       ],
       [
-       "https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fwww.orlando.gov%2fOur-Government%2fPublic-Meetings%2fBudget-Review-Committee-111926",
-       "Facebook"
+       "mailto:?Body=https%3a%2f%2fwww.orlando.gov%2fOur-Government%2fPublic-Meetings%2fBudget-Review-Committee-111926",
+       "Email"
       ],
       [
-       "https://twitter.com/share?url=https%3a%2f%2fwww.orlando.gov%2fOur-Government%2fPublic-Meetings%2fBudget-Review-Committee-111926",
-       "X"
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Budget-Review-Committee-111926",
+       "Print"
       ]
      ]
     }
@@ -2824,44 +2088,44 @@
    "pdfs_found": 103,
    "scanned": [
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3559",
-     "pages": 3,
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3548",
+     "pages": 5,
+     "hits": 7
+    },
+    {
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3546",
+     "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3555",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3544",
      "pages": 4,
-     "hits": 2
+     "hits": 1
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3554",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3540",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3553",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3541",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3552",
-     "pages": 3,
-     "hits": 0
-    },
-    {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3551",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3538",
      "pages": 5,
      "hits": 2
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3550",
-     "pages": 2,
-     "hits": 0
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3534",
+     "pages": 4,
+     "hits": 3
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3547",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3531",
      "pages": 2,
-     "hits": 1
+     "hits": 0
     }
    ],
    "errors": [],
@@ -3312,42 +2576,7 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=489",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=488",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=484",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=483",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=482",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=477",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=476",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=475",
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=459",
      "pages": 1,
      "hits": 0
     }
@@ -3866,42 +3095,42 @@
    "pdfs_found": 111,
    "scanned": [
     {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=309",
-     "pages": 4,
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=298",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=296",
+     "pages": 3,
+     "hits": 1
+    },
+    {
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=295",
+     "pages": 3,
+     "hits": 4
+    },
+    {
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=294",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=293",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=292",
+     "pages": 3,
      "hits": 2
     },
     {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=304",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=303",
-     "pages": 2,
-     "hits": 0
-    },
-    {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=299",
-     "pages": 2,
-     "hits": 0
-    },
-    {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=300",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=301",
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=291",
      "pages": 3,
-     "hits": 0
+     "hits": 3
     },
     {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=302",
-     "pages": 3,
-     "hits": 5
-    },
-    {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=297",
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=290",
      "pages": 1,
      "hits": 0
     }
@@ -4339,38 +3568,43 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2383",
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2208",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2338",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2294",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2271",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2264",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2233",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2232",
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2189",
      "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2201",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2162",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2152",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2141",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2137",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2118",
+     "pages": 1,
      "hits": 0
     }
    ],
@@ -4807,44 +4041,39 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1170",
-     "pages": 13,
-     "hits": 1
-    },
-    {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1169",
-     "pages": 53,
-     "hits": 3
-    },
-    {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1167",
-     "pages": 396,
-     "hits": 6
-    },
-    {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1168",
-     "pages": 1,
-     "hits": 1
-    },
-    {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1165",
-     "pages": 1,
-     "hits": 3
-    },
-    {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1164",
-     "pages": 138,
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1158",
+     "pages": 10,
      "hits": 0
     },
     {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1162",
-     "pages": 7,
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1159",
+     "pages": 1,
      "hits": 1
     },
     {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1161",
-     "pages": 59,
-     "hits": 3
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1146",
+     "pages": 1,
+     "hits": 4
+    },
+    {
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1143",
+     "pages": 21,
+     "hits": 0
+    },
+    {
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1144",
+     "pages": 400,
+     "hits": 24
+    },
+    {
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1141",
+     "pages": 400,
+     "hits": 9
+    },
+    {
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1139",
+     "pages": 363,
+     "hits": 34
     }
    ],
    "errors": [],
@@ -5376,13 +4605,18 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://bocaraton.granicus.com/AgendaViewer.php?view_id=9&clip_id=3051",
+     "pdf": "https://bocaraton.granicus.com/AgendaViewer.php?view_id=9&clip_id=3034",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://bocaraton.granicus.com/AgendaViewer.php?view_id=9&clip_id=3045",
-     "pages": 2,
+     "pdf": "https://bocaraton.granicus.com/AgendaViewer.php?view_id=9&clip_id=3031",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://bocaraton.granicus.com/AgendaViewer.php?view_id=9&clip_id=3023",
+     "pages": 1,
      "hits": 0
     }
    ],
@@ -5833,44 +5067,44 @@
    "pdfs_found": 103,
    "scanned": [
     {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=340",
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=337",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=330",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=331",
+     "pages": 1,
+     "hits": 1
+    },
+    {
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=328",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=329",
+     "pages": 1,
+     "hits": 2
+    },
+    {
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=327",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=325",
      "pages": 1,
      "hits": 3
     },
     {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=339",
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=323",
      "pages": 1,
-     "hits": 4
-    },
-    {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=338",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=336",
-     "pages": 1,
-     "hits": 3
-    },
-    {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=335",
-     "pages": 1,
-     "hits": 5
-    },
-    {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=334",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=333",
-     "pages": 1,
-     "hits": 4
-    },
-    {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=332",
-     "pages": 1,
-     "hits": 0
+     "hits": 8
     }
    ],
    "errors": [],
@@ -5936,399 +5170,63 @@
    "listing": [
     {
      "url": "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-     "links": 257,
+     "links": 245,
      "head": "\n\n\n\n\n\n\n\n<!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n\t<base href=\"https://www.pascocountyfl.gov/\" />\r\n\t<meta charset=\"utf-8\">\r\n\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\r\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n\r\n\t\r\n\r\n\t<link rel=\"stylesheet\" href=\"/revize/plu",
      "sample": [
       [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php#freeform-wrap",
-       "Skip to main content"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/government/agendas_minutes.php",
+       "https://www.pascocountyfl.gov/government/agendas_minutes.php",
        "Agendas & Minutes"
       ],
       [
-       "https://www.pascocountyfl.gov/government/government/county_commissioners/index.php",
+       "https://www.pascocountyfl.gov/government/county_commissioners/index.php",
        "County Commissioners"
       ],
       [
-       "https://www.pascocountyfl.gov/government/government/county_commissioners/district_1.php",
+       "https://www.pascocountyfl.gov/government/county_commissioners/district_1.php",
        "District 1"
       ],
       [
-       "https://www.pascocountyfl.gov/government/government/county_commissioners/district_2.php",
+       "https://www.pascocountyfl.gov/government/county_commissioners/district_2.php",
        "District 2"
       ],
       [
-       "https://www.pascocountyfl.gov/government/government/county_commissioners/district_3.php",
+       "https://www.pascocountyfl.gov/government/county_commissioners/district_3.php",
        "District 3"
       ],
       [
-       "https://www.pascocountyfl.gov/government/government/county_commissioners/district_4.php",
+       "https://www.pascocountyfl.gov/government/county_commissioners/district_4.php",
        "District 4"
       ],
       [
-       "https://www.pascocountyfl.gov/government/government/county_commissioners/district_5.php",
+       "https://www.pascocountyfl.gov/government/county_commissioners/district_5.php",
        "District 5"
       ],
       [
-       "https://www.pascocountyfl.gov/government/government/agendas_minutes.php",
+       "https://www.pascocountyfl.gov/government/agendas_minutes.php",
        "Agendas and Minutes"
       ],
       [
-       "https://www.pascocountyfl.gov/government/Documents/Government/OrgChart_2026_RV110426.pdf",
+       "https://www.pascocountyfl.gov/Documents/Government/OrgChart_2026_RV110426.pdf",
        "Organizational Chart"
       ],
       [
-       "https://www.pascocountyfl.gov/government/Documents/Community/Social_Services_Resource_Guide_Digital.pdf",
+       "https://www.pascocountyfl.gov/Documents/Community/Social_Services_Resource_Guide_Digital.pdf",
        "Social Services Resource Guide"
       ],
       [
-       "https://www.pascocountyfl.gov/government/government/agendas_minutes.php",
+       "https://www.pascocountyfl.gov/government/agendas_minutes.php",
        "Agendas And Minutes"
       ],
       [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "English"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Afrikaans"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Albanian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Arabic"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Armenian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Azerbaijani"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Basque"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Belarusian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Bengali"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Bosnian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Bulgarian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Catalan"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Cebuano"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Chinese (Simplified)"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Chinese (Traditional)"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Croatian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Czech"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Danish"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Dutch"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Esperanto"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Estonian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Filipino"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Finnish"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "French"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Galician"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Georgian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "German"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Greek"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Gujarati"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Haitian Creole"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Hausa"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Hebrew"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Hindi"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Hmong"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Hungarian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Icelandic"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Igbo"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Indonesian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Irish"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Italian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Japanese"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Javanese"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Kannada"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Khmer"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Korean"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Lao"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Latin"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Latvian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Lithuanian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Macedonian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Malay"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Maltese"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Maori"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Marathi"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Mongolian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Nepali"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Norwegian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Persian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Polish"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Portuguese"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Punjabi"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Romanian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Russian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Serbian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Slovak"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Slovenian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Somali"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Spanish"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Swahili"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Swedish"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Tamil"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Telugu"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Thai"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Turkish"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Ukrainian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Urdu"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Vietnamese"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Welsh"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Yiddish"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Yoruba"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Zulu"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/Documents/Government/Agendas & Minutes/Public Hearing Calendar 2024 (PDF).pdf",
+       "https://www.pascocountyfl.gov/Documents/Government/Agendas & Minutes/Public Hearing Calendar 2024 (PDF).pdf",
        "Public Hearing Calendar 2024"
       ],
       [
-       "https://www.pascocountyfl.gov/government/government/agendas___minutes_.php#collapse600b0",
-       "Webex"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/government/agendas___minutes_.php#collapse600b1",
-       "In Person"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/government/agendas_minutes.php",
+       "https://www.pascocountyfl.gov/government/agendas_minutes.php",
        "Agendas & Minutes"
       ],
       [
-       "https://www.pascocountyfl.gov/government/government/county_commissioners/index.php",
+       "https://www.pascocountyfl.gov/government/county_commissioners/index.php",
        "County Commissioners"
       ],
       [
@@ -6336,586 +5234,123 @@
        "Login"
       ],
       [
-       "https://www.facebook.com/sharer/sharer.php?u=http://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Facebook"
-      ],
-      [
-       "https://www.twitter.com/intent/tweet?url=http://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "X Corp"
-      ],
-      [
        "https://www.reddit.com/submit?url=http://www.pascocountyfl.gov/government/agendas___minutes_.php",
        "Reddit"
       ],
       [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php#top",
-       "To Top"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/government/agendas___minutes_.php",
+       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
        "Read More"
       ]
      ]
     }
    ],
-   "pdfs_found": 3,
-   "scanned": [],
+   "pdfs_found": 6,
+   "scanned": [
+    {
+     "pdf": "https://www.pascocountyfl.gov/Documents/Government/OrgChart_2026_RV110426.pdf",
+     "pages": 7,
+     "hits": 0
+    },
+    {
+     "pdf": "https://www.pascocountyfl.gov/Documents/Community/Social_Services_Resource_Guide_Digital.pdf",
+     "pages": 3,
+     "hits": 0
+    },
+    {
+     "pdf": "https://www.pascocountyfl.gov/Documents/Government/Agendas & Minutes/Public Hearing Calendar 2024 (PDF).pdf",
+     "pages": 3,
+     "hits": 0
+    },
+    {
+     "pdf": "https://www.pascocountyfl.gov/Documents/Government/Agendas & Minutes/2027 UPDATED Public Hearing Schedule.pdf?t=202610270822590",
+     "pages": 2,
+     "hits": 0
+    }
+   ],
    "errors": [
-    "page https://www.pascocountyfl.gov/government/government/agendas_minutes.php: HTTP Error 404: Not Found",
-    "page https://www.pascocountyfl.gov/government/Documents/Government/Agendas & Minutes/Public Hearing Calendar 2024 (PDF).pdf: HTTP Error 404: Not Found",
-    "page https://www.pascocountyfl.gov/government/government/agendas___minutes_.php#collapse600b0: HTTP Error 404: Not Found",
-    "page https://www.pascocountyfl.gov/government/government/agendas___minutes_.php#collapse600b1: HTTP Error 404: Not Found",
+    "page https://library.municode.com/fl/pasco_county?web=1&wdLOR=c914931E4-EB97-4F80-AC26-03FC7CBD39F2: HTTP Error 403: Forbidden",
+    "page https://library.municode.com/fl/pasco_county/codes/code_of_ordinances: HTTP Error 403: Forbidden",
+    "page https://library.municode.com/fl/pasco_county: HTTP Error 403: Forbidden",
     "page https://cms1.revize.com/revize/security/index.jsp?webspace=pasco&filename=/government/agendas___minutes_.php: HTTP Error 403: Forbidden",
-    "page https://www.reddit.com/submit?url=http://www.pascocountyfl.gov/government/agendas___minutes_.php: HTTP Error 403: Blocked",
-    "pdf https://www.pascocountyfl.gov/government/Documents/Government/OrgChart_2026_RV110426.pdf: HTTP Error 404: Not Found",
-    "pdf https://www.pascocountyfl.gov/government/Documents/Community/Social_Services_Resource_Guide_Digital.pdf: HTTP Error 404: Not Found",
-    "pdf https://www.pascocountyfl.gov/government/Documents/Government/Agendas & Minutes/Public Hearing Calendar 2024 (PDF).pdf: HTTP Error 404: Not Found"
+    "page https://www.reddit.com/submit?url=http://www.pascocountyfl.gov/government/agendas___minutes_.php: HTTP Error 403: Blocked"
    ],
    "followed": [
     {
-     "url": "https://www.pascocountyfl.gov/government/agendas___minutes_.php#freeform-wrap",
-     "links": 257,
+     "url": "https://www.pascocountyfl.gov/government/agendas_minutes.php",
+     "links": 248,
      "sample": [
       [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php#freeform-wrap",
-       "Skip to main content"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/government/agendas_minutes.php",
+       "https://www.pascocountyfl.gov/government/agendas_minutes.php",
        "Agendas & Minutes"
       ],
       [
-       "https://www.pascocountyfl.gov/government/government/agendas_minutes.php",
+       "https://www.pascocountyfl.gov/government/agendas_minutes.php",
        "Agendas and Minutes"
       ],
       [
-       "https://www.pascocountyfl.gov/government/Documents/Government/OrgChart_2026_RV110426.pdf",
+       "https://www.pascocountyfl.gov/Documents/Government/OrgChart_2026_RV110426.pdf",
        "Organizational Chart"
       ],
       [
-       "https://www.pascocountyfl.gov/government/Documents/Community/Social_Services_Resource_Guide_Digital.pdf",
+       "https://www.pascocountyfl.gov/Documents/Community/Social_Services_Resource_Guide_Digital.pdf",
        "Social Services Resource Guide"
       ],
       [
-       "https://www.pascocountyfl.gov/government/services/planning_and_development/documents_and_forms.php",
+       "https://www.pascocountyfl.gov/services/planning_and_development/documents_and_forms.php",
        "Planning And Zoning Forms And Permits"
       ],
       [
-       "https://www.pascocountyfl.gov/government/government/agendas_minutes.php",
+       "https://www.pascocountyfl.gov/government/agendas_minutes.php",
        "Agendas And Minutes"
       ],
       [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "English"
+       "https://www.pascocountyfl.gov/Documents/Government/Agendas & Minutes/Revised Rules of Decorum and Procedure 8-13.pdf?t=202608141025060",
+       "Public Meeting Rules of Decorum and Procedure"
       ],
       [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Afrikaans"
+       "https://www.pascocountyfl.gov/Documents/Government/Agendas & Minutes/2026 Public Hearing Schedule.pdf?t=202602200814170",
+       "2026 Public Hearing Schedule"
       ],
       [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Albanian"
+       "https://www.pascocountyfl.gov/Documents/Government/Agendas & Minutes/2027 UPDATED Public Hearing Schedule.pdf?t=202610270822590",
+       "2027 Public Hearing Schedule"
       ],
       [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Arabic"
+       "https://www.pascocountyfl.gov/government/agendas_minutes.php",
+       "Agendas & Minutes"
       ],
       [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Armenian"
+       "https://cms1.revize.com/revize/security/index.jsp?webspace=pasco&filename=/government/agendas_minutes.php",
+       "Login"
       ],
       [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Azerbaijani"
+       "https://www.reddit.com/submit?url=http://www.pascocountyfl.gov/government/agendas_minutes.php",
+       "Reddit"
       ],
       [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Basque"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Belarusian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Bengali"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Bosnian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Bulgarian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Catalan"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Cebuano"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Chinese (Simplified)"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Chinese (Traditional)"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Croatian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Czech"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Danish"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Dutch"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Esperanto"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Estonian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Filipino"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Finnish"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "French"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Galician"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Georgian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "German"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Greek"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Gujarati"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Haitian Creole"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Hausa"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Hebrew"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Hindi"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Hmong"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Hungarian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Icelandic"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Igbo"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Indonesian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Irish"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Italian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Japanese"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Javanese"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Kannada"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Khmer"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Korean"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Lao"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Latin"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Latvian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Lithuanian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Macedonian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Malay"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Maltese"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Maori"
+       "https://www.pascocountyfl.gov/government/agendas_minutes.php",
+       "Read More"
       ]
      ]
     },
     {
-     "url": "https://www.facebook.com/sharer/sharer.php?u=http://www.pascocountyfl.gov/government/agendas___minutes_.php",
-     "links": 35,
-     "sample": [
-      [
-       "https://www.facebook.com/recover/initiate/?privacy_mutation_token=eyJ0eXBlIjo1LCJjcmVhdGlvbl90aW1lIjoxNzk0NzE0NDMyfQ%3D%3D&ars=facebook_login&next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttp%253A%252F%252Fwww.pascocountyfl.gov%252Fgovernment%252Fagendas___minutes_.php%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag",
-       "Forgot password?"
-      ],
-      [
-       "https://www.facebook.com/reg/?entry_point=login&next=https%3A%2F%2Fwww.facebook.com%2Fshare_channel%2F%3Ftype%3Dreshare%26link%3Dhttp%253A%252F%252Fwww.pascocountyfl.gov%252Fgovernment%252Fagendas___minutes_.php%26app_id%3D966242223397117%26source_surface%3Dexternal_reshare%26display%26hashtag",
-       "Create new account"
-      ],
-      [
-       "https://www.facebook.com/sharer/sharer.php?u=http://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Espa\u00f1ol"
-      ],
-      [
-       "https://www.facebook.com/sharer/sharer.php?u=http://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Fran\u00e7ais (France)"
-      ],
-      [
-       "https://www.facebook.com/sharer/sharer.php?u=http://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "\u4e2d\u6587(\u7b80\u4f53)"
-      ],
-      [
-       "https://www.facebook.com/sharer/sharer.php?u=http://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "\u0627\u0644\u0639\u0631\u0628\u064a\u0629"
-      ],
-      [
-       "https://www.facebook.com/sharer/sharer.php?u=http://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Portugu\u00eas (Brasil)"
-      ],
-      [
-       "https://www.facebook.com/sharer/sharer.php?u=http://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Italiano"
-      ],
-      [
-       "https://www.facebook.com/sharer/sharer.php?u=http://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "More languages\u2026"
-      ]
-     ]
-    },
-    {
-     "url": "https://www.twitter.com/intent/tweet?url=http://www.pascocountyfl.gov/government/agendas___minutes_.php",
+     "url": "https://www.pascocountyfl.gov/Documents/Government/Agendas & Minutes/Public Hearing Calendar 2024 (PDF).pdf",
      "links": 0,
      "sample": []
     },
     {
-     "url": "https://www.pascocountyfl.gov/government/agendas___minutes_.php#top",
-     "links": 257,
-     "sample": [
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php#freeform-wrap",
-       "Skip to main content"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/government/agendas_minutes.php",
-       "Agendas & Minutes"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/government/agendas_minutes.php",
-       "Agendas and Minutes"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/Documents/Government/OrgChart_2026_RV110426.pdf",
-       "Organizational Chart"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/Documents/Community/Social_Services_Resource_Guide_Digital.pdf",
-       "Social Services Resource Guide"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/services/planning_and_development/documents_and_forms.php",
-       "Planning And Zoning Forms And Permits"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/government/agendas_minutes.php",
-       "Agendas And Minutes"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "English"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Afrikaans"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Albanian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Arabic"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Armenian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Azerbaijani"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Basque"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Belarusian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Bengali"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Bosnian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Bulgarian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Catalan"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Cebuano"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Chinese (Simplified)"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Chinese (Traditional)"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Croatian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Czech"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Danish"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Dutch"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Esperanto"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Estonian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Filipino"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Finnish"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "French"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Galician"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Georgian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "German"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Greek"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Gujarati"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Haitian Creole"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Hausa"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Hebrew"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Hindi"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Hmong"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Hungarian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Icelandic"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Igbo"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Indonesian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Irish"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Italian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Japanese"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Javanese"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Kannada"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Khmer"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Korean"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Lao"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Latin"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Latvian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Lithuanian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Macedonian"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Malay"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Maltese"
-      ],
-      [
-       "https://www.pascocountyfl.gov/government/agendas___minutes_.php",
-       "Maori"
-      ]
-     ]
+     "url": "https://pascocofl.civicclerk.com/web/ADA/ADALanding.aspx",
+     "links": 0,
+     "sample": []
     }
    ],
    "pdf_sample": [
-    "https://www.pascocountyfl.gov/government/Documents/Government/OrgChart_2026_RV110426.pdf",
-    "https://www.pascocountyfl.gov/government/Documents/Community/Social_Services_Resource_Guide_Digital.pdf",
-    "https://www.pascocountyfl.gov/government/Documents/Government/Agendas & Minutes/Public Hearing Calendar 2024 (PDF).pdf"
+    "https://www.pascocountyfl.gov/Documents/Government/OrgChart_2026_RV110426.pdf",
+    "https://www.pascocountyfl.gov/Documents/Community/Social_Services_Resource_Guide_Digital.pdf",
+    "https://www.pascocountyfl.gov/Documents/Government/Agendas & Minutes/Public Hearing Calendar 2024 (PDF).pdf",
+    "https://www.pascocountyfl.gov/Documents/Government/Agendas & Minutes/Revised Rules of Decorum and Procedure 8-13.pdf?t=202608141025060",
+    "https://www.pascocountyfl.gov/Documents/Government/Agendas & Minutes/2026 Public Hearing Schedule.pdf?t=202602200814170",
+    "https://www.pascocountyfl.gov/Documents/Government/Agendas & Minutes/2027 UPDATED Public Hearing Schedule.pdf?t=202610270822590"
    ]
   },
   "m-tarponsprings:civicclerk": {
@@ -7216,27 +5651,9 @@
      "pages": 1,
      "hits": 6,
      "pdf": false
-    },
-    {
-     "doc": "/Meeting.aspx?Id=15dbf809-ef00-43de-acf1-dc9d679d5762&Agenda=Agenda&lang=English",
-     "meeting": "Youth Council \u2013 Regular Meeting",
-     "date": "2026-11-13",
-     "pages": 1,
-     "hits": 0,
-     "pdf": false
-    },
-    {
-     "doc": "/Meeting.aspx?Id=9c41ad5d-f2d1-4a77-a1f8-ffc3699ce20a&Agenda=Agenda&lang=English",
-     "meeting": "City Council \u2013 Orientation",
-     "date": "2026-11-12",
-     "pages": 1,
-     "hits": 0,
-     "pdf": false
     }
    ],
    "errors": [
-    "filestream: HTTP Error 403: Forbidden",
-    "filestream: HTTP Error 403: Forbidden",
     "filestream: HTTP Error 403: Forbidden",
     "filestream: HTTP Error 403: Forbidden",
     "filestream: HTTP Error 403: Forbidden"

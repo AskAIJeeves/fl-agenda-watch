@@ -4872,13 +4872,45 @@
      "amount": 50000.0,
      "text": "\uf052 m. _ Foreign Gifts and Contracts. Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Contractor shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1179"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "\uf052 ___ m. Foreign Gifts and Contracts. Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Contractor shall disclose any current or prior interest of any contract with, or any grant or gift received from a country of foreign concern with a value of $50",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1144"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "\uf0fe m. _ Foreign Gifts and Contracts. Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Contractor shall disclose any current or prior interest, or any contract with, or any grant or gift received from a country of foreign concern with a value of $50,",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1144"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Contractor shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,000 or more that was received or in ",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1144"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "i. Foreign Gifts and Contracts. Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Raftelis shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,000 or",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1139"
     }
    ],
    "governments": [
     "Sunrise"
    ],
-   "award_count": 18,
-   "total_amount": 1000000.0
+   "award_count": 22,
+   "total_amount": 1200000.0
   },
   "federal assistance sf": {
    "name": "Federal Assistance SF",
@@ -6751,9 +6783,377 @@
    ],
    "award_count": 1,
    "total_amount": 2806.0
+  },
+  "coral springs police explorers funding source": {
+   "name": "Coral Springs Police Explorers. Funding Source",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": 165000.0,
+     "text": "5. Use of Forfeiture Funds (Brad Mock) Request to authorize the use of a total of $165,000 in Law Enforcement Trust Funds: $150,000 to cover training costs for all sworn members and $15,000 to cover the annual donation to the Coral Springs Police Explorers. Funding Source: Receiving Forfeiture to Ex",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=295"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 165000.0
+  },
+  "inventions": {
+   "name": "Inventions",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "9. Funding Agreement (Rights to Inventions) 37 CFR Part 401.",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1144"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "subrecipient": {
+   "name": "Subrecipient",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 546715.0,
+     "text": "7. Subgrant Award Details8. BJA FY 22 Edward Byrne Memorial Justice Assistance Grant Program - Local Solicitation Grant Program Title Federal Award Identification Number (\"FAIN\") 15PBJA-22-GG-02086-JAGX Subrecipient's Unique Entity Identifier G4JMYYE3BF61 September 22, 2022Federal Award Date to Coun",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1139"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 546715.0
+  },
+  "sunrise police department": {
+   "name": "Sunrise Police Department",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "It is requested that the City Commission approve the MOU with the Broward Sheriffs Office to facilitate the JAG grant award for the Sunrise Police Department.",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1139"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "agreement for pine island park loan commitment": {
+   "name": "Agreement for Pine Island Park Loan Commitment",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "A Resolu\u000fon of the City of Sunrise, Florida, authorizing the dura\u000fon of a Special Event to be held May 23, 2025 through June 10, 2025 at the Islamic Founda\u000fon of South Florida located at 5455 NW 108 Avenue, Sunrise, Florida; authorizing the Special Event to remain open beyond 11:00 p.m. each day; di",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1139"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "broward county in january": {
+   "name": "Broward County. In January",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Description ATY Resolution - C25102 2022 JAG Grant MOU with BSO 2022 JAG Grant MOU with Broward County 2022 JAG Grant Subrecipient Agrmt with Broward County RESO 22-139 MOU & Subrecipient Agreement Background: The 2022 Justice Assistance Grant ( JAG) grant was awarded directly to Broward County. In ",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1139"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "jag program": {
+   "name": "JAG Program",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "1. Broward County will serve as the grant administrator for the agencies in Broward County, Florida participating in the JAG Program. Pursuant to the JAG Program guidelines, funding for the JAG Program will be provided to BSO.",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1139"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "subgrant award agreement between broward county sheriff": {
+   "name": "Subgrant Award Agreement Between Broward County and the Sheriff",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "2. On or about September 29, 2023, Broward County has entered into a subgrant award agreement, with BSO which authorizes BSO to serve as the lead agency in administering the grant on behalf of Broward County, through its Addendum to Subgrant Award Agreement Between Broward County and the Sheriff of ",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1139"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "grant award city": {
+   "name": "Grant Award. The City",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "5. For participating agencies that currently contract with BSO for law enforcement services, the BSO shall pay the payroll expenses and seek reimbursement from the participating agency. The BSO shall invoice the CITY for the cost of the Services incurred and being provided to City pursuant to the Gr",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1139"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "participating agencies for jag grant pursuant": {
+   "name": "Participating Agencies for the JAG Grant. Pursuant",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "1. The above Recitals are true and correct and are incorporated herein by reference. County's Responsibilities. County will serve as the lead agency and grant administrator for the Participating Agencies for the JAG Grant. Pursuant to the JAG Grant guidelines, funding for the JAG Grant will be provi",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1139"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "doj grants financial guide": {
+   "name": "DOJ Grants Financial Guide",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "EXHIBIT A9/23/22, 9:33 AM minimis\" indirect cost rate described in 2 C.F.R. 200.414(f), and that elects to use the \"de minimis\" indirect cost rate, must advise OJP in writing of both its eligibility and its election, and must comply with all associated requirements in the Part 200 Uniform Requiremen",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1139"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "fy22 memorandum understanding": {
+   "name": "FY22 Memorandum of Understanding",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "SUNRISE, FLORIDA w-0\\20vOi- ^ \u25a0|L0 RESOLUTION NO. 22-139 A RESOLUTION OF THE CITY OF SUNRISE, FLORIDA, APPROVING THE \u201cEDWARD BYRNE MEMORIAL JUSTICE ASSISTANCE LOCAL SOLICITATION GRANT FOR FY22 MEMORANDUM OF UNDERSTANDING,\u201d AND THE \u201cBROWARD COUNTY STANDARD SUBGRANT AWARD AGREEMENT;\u201d AND PROVIDING AN ",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1139"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "local government cybersecurity grant program contract no": {
+   "name": "Local Government Cybersecurity Grant Program Contract No",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "AGENDA ITEM REQUEST Originating Department: Information Technology Item Title: Agreement Item Number: 4F Meeting Date: 5/27/2025 City Reference Number (C#): C25119 Item Description: A Resolution of the City of Sunrise, Florida, approving a \u201cGrant Agreement for Local Government Cybersecurity Grant Pr",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1139"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "WHEREAS, the State of Florida, Department of Management Services , has awarded the City of Sunrise a grant for cybersecurity technical assistance to increase the City\u2019s cybersecurity capabilities; and WHEREAS, in order for the City to receive the approved assistance, it is necessary to enter into a ",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1139"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 2,
+   "total_amount": 0
+  },
+  "managing organization": {
+   "name": "Managing Organization",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "H. View - The permissions Grantee grants to FL[DS] to see Telemetry and Solutions Data provided to the Managing Organization by Customer Accounts. A View does not permit FL[DS] Access to Protected Grantee Data. II. Purpose FL[DS] and Grantee enter into this IR Rider to establish the terms and condit",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1139"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "bair middle school": {
+   "name": "Bair Middle School",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Item Description: City Commission discussion and/or action related to a donation to Bair Middle School in support of the Debate Team. Commissioner Latoya S. Clarke. Funding: N/A Amount: N/A ATTACHMENTS: Description No Attachments Available",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1139"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "propco": {
+   "name": "Propco",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 25000.0,
+     "text": "H. Approval of the Commercial Property Improvement Grant Program in the Amount of $25,000 to Propco 1140 W. Industrial Boynton FL LP located at 1140 W. Industrial Avenue",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=329"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 25000.0
+  },
+  "additional funding for tax increment revenue funding": {
+   "name": "Additional Funding for the Tax Increment Revenue Funding",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "A. Approval of the Second Amendment for Additional Funding for the Tax Increment Revenue Funding (TIRFA) Agreement for the Ocean One Project Located at 114-222 N. Federal Highway",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=329"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "scheurer s chocolate": {
+   "name": "Scheurer's Chocolate",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 2500.0,
+     "text": "F. Approval of the Commercial Business Marketing Grant Program in the amount of $2,500 to Scheurer's Chocolate located at 640 E. Ocean Avenue #10, Boynton Beach, FL 33435",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=325"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 2500.0
+  },
+  "rusty s restaurant lounge": {
+   "name": "Rusty's Restaurant and Lounge LLC",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 60000.0,
+     "text": "D. Approval of the Commercial Property Improvement Grant Program in the Amount of $60,000 to Rusty's Restaurant and Lounge LLC d/b/a Rusty's Carib Cuisine located in 500 Ocean at 510 E. Ocean Avenue, Unit 107",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=325"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 60000.0
+  },
+  "tax increment revenue funding": {
+   "name": "Tax Increment Revenue Funding",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "D. Discussion and Consideration of Additional Funding for the Tax Increment Revenue Funding (TIRFA) for the Ocean One Project Located at 114-222 N. Federal Highway",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=325"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 0
   }
  },
- "generated_utc": "2026-11-15T03:56:37+00:00",
+ "generated_utc": "2026-11-15T04:10:26+00:00",
  "multi_government": [
   "section",
   "contractor",
