@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-15T01:19:57+00:00",
+ "generated_utc": "2026-11-15T01:26:12+00:00",
  "sources": {
   "m-stpetersburg": {
    "name": "St. Petersburg",
@@ -2824,22 +2824,22 @@
    "pdfs_found": 103,
    "scanned": [
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3548",
-     "pages": 5,
-     "hits": 3
-    },
-    {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3546",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3541",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3544",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3538",
+     "pages": 5,
+     "hits": 2
+    },
+    {
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3534",
      "pages": 4,
      "hits": 0
     },
     {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3540",
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3531",
      "pages": 2,
      "hits": 0
     }
@@ -3292,22 +3292,7 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=465",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=462",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=461",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=459",
+     "pdf": "https://myseminole.granicus.com/AgendaViewer.php?view_id=1&clip_id=453",
      "pages": 1,
      "hits": 0
     }
@@ -3826,24 +3811,24 @@
    "pdfs_found": 111,
    "scanned": [
     {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=305",
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=309",
+     "pages": 4,
+     "hits": 1
+    },
+    {
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=304",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=303",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=307",
-     "pages": 1,
+     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=299",
+     "pages": 2,
      "hits": 0
-    },
-    {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=308",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=306",
-     "pages": 5,
-     "hits": 1
     }
    ],
    "errors": [],
@@ -4279,22 +4264,17 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2419",
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2383",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2418",
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2338",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2392",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2384",
+     "pdf": "https://plantation.granicus.com/AgendaViewer.php?view_id=2&clip_id=2294",
      "pages": 1,
      "hits": 0
     }
@@ -4732,23 +4712,23 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1179",
-     "pages": 400,
-     "hits": 15
-    },
-    {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1175",
-     "pages": 400,
-     "hits": 10
-    },
-    {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1172",
-     "pages": 135,
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1170",
+     "pages": 13,
      "hits": 0
     },
     {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1173",
-     "pages": 400,
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1169",
+     "pages": 53,
+     "hits": 3
+    },
+    {
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1167",
+     "pages": 396,
+     "hits": 0
+    },
+    {
+     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1168",
+     "pages": 1,
      "hits": 0
     }
    ],
@@ -5279,7 +5259,13 @@
     }
    ],
    "pdfs_found": 100,
-   "scanned": [],
+   "scanned": [
+    {
+     "pdf": "https://bocaraton.granicus.com/AgendaViewer.php?view_id=9&clip_id=3060",
+     "pages": 1,
+     "hits": 0
+    }
+   ],
    "errors": [
     "listing https://bocaraton.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas: HTTP Error 403: Forbidden"
    ],
@@ -5727,22 +5713,22 @@
    "pdfs_found": 103,
    "scanned": [
     {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=349",
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=345",
+     "pages": 1,
+     "hits": 2
+    },
+    {
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=344",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=357",
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=343",
      "pages": 1,
-     "hits": 0
+     "hits": 3
     },
     {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=347",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=346",
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=341",
      "pages": 1,
      "hits": 0
     }
@@ -5770,6 +5756,17 @@
    "name": "Volusia County",
    "listing": [
     {
+     "url": "https://vcservices.vcgov.org/agenda/agenda-minutes-search.asp",
+     "links": 1,
+     "head": "\r\n<html>\r\n\t\r\n\t\r\n\t<head>\r\n\t\t<title>Volusia County Agenda Minutes Search</title>\r\n\t\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\r\n\t\t<meta http-equiv=\"Cache-Control\" content=\"no-cache, no-store, must-revalidate\" />\r\n\t\t<meta http-equiv=\"Pragma\" content=\"no-cache\" />\r\n\t\t<meta http-equiv=\"Expir",
+     "sample": [
+      [
+       "https://vcservices.vcgov.org/agenda/agenda-minutes.asp",
+       "Back"
+      ]
+     ]
+    },
+    {
      "url": "https://vcservices.vcgov.org/agenda/agenda-minutes.asp",
      "links": 3,
      "head": "\r\n\r\n<html>\r\n\t<head>\r\n\t\t<title>Volusia County Agenda Minutes</title>\r\n\t\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\" />\r\n\t\t<meta http-equiv=\"Cache-Control\" content=\"no-cache, no-store, must-revalidate\" />\r\n\t\t<meta http-equiv=\"Pragma\" content=\"no-cache\" />\r\n\t\t<meta http-equiv=\"Expires\" content",
@@ -5789,18 +5786,10 @@
      ]
     }
    ],
-   "pdfs_found": 1,
-   "scanned": [
-    {
-     "pdf": "https://vcservices.vcgov.org/agenda/.\\QJ Procedures v6 (2023.09.29) - CLEAN w added Res_508.pdf",
-     "pages": 9,
-     "hits": 0
-    }
-   ],
+   "pdfs_found": 0,
+   "scanned": [],
    "errors": [],
-   "pdf_sample": [
-    "https://vcservices.vcgov.org/agenda/.\\QJ Procedures v6 (2023.09.29) - CLEAN w added Res_508.pdf"
-   ]
+   "pdf_sample": []
   },
   "m-tarponsprings:civicclerk": {
    "name": "Tarpon Springs",
