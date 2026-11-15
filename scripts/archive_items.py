@@ -40,37 +40,44 @@ def load(path):
         return {}
 
 
-def main():
-    now = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
+def merge(items, feed, now=None):
+    """Merge items into the yearly archive files. Returns (added, refreshed)."""
+    now = now or datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
     os.makedirs(ARCH, exist_ok=True)
     books, added, updated = {}, 0, 0
-    for src in SOURCES:
-        items = load(os.path.join(DATA, src)).get("items", [])
-        for it in items:
-            y = year_of(it)
-            if y not in books:
-                books[y] = load(os.path.join(ARCH, f"{y}.json"))
-            book, k = books[y], key(it)
-            rec = dict(it)
-            rec["source_feed"] = src.replace(".json", "")
-            if k in book:
-                rec["first_seen_utc"] = book[k].get("first_seen_utc", now)
-                updated += 1
-            else:
-                rec["first_seen_utc"] = it.get("found_utc") or now
-                added += 1
-            rec["last_seen_utc"] = now
-            book[k] = rec
+    for it in items:
+        y = year_of(it)
+        if y not in books:
+            books[y] = load(os.path.join(ARCH, f"{y}.json"))
+        book, k = books[y], key(it)
+        rec = dict(it)
+        rec["source_feed"] = feed
+        if k in book:
+            rec["first_seen_utc"] = book[k].get("first_seen_utc", now)
+            updated += 1
+        else:
+            rec["first_seen_utc"] = it.get("found_utc") or now
+            added += 1
+        rec["last_seen_utc"] = now
+        book[k] = rec
     for y, book in books.items():
-        path = os.path.join(ARCH, f"{y}.json")
-        with open(path, "w") as f:
-            f.write("{\n")
+        with open(os.path.join(ARCH, f"{y}.json"), "w") as f:
             rows = [json.dumps(k) + ": " + json.dumps(book[k], sort_keys=True, ensure_ascii=False)
                     for k in sorted(book)]
-            f.write(",\n".join(rows))
-            f.write("\n}\n")
-    total = sum(len(load(os.path.join(ARCH, f))) for f in os.listdir(ARCH) if f.endswith(".json"))
-    print(f"archive: {added} new, {updated} refreshed, {total} total records")
+            f.write("{\n" + ",\n".join(rows) + "\n}\n")
+    return added, updated
+
+
+def total():
+    return sum(len(load(os.path.join(ARCH, f))) for f in os.listdir(ARCH) if f.endswith(".json"))
+
+
+def main():
+    added = updated = 0
+    for src in SOURCES:
+        a, u = merge(load(os.path.join(DATA, src)).get("items", []), src.replace(".json", ""))
+        added, updated = added + a, updated + u
+    print(f"archive: {added} new, {updated} refreshed, {total()} total records")
 
 
 if __name__ == "__main__":

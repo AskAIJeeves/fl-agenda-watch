@@ -6,6 +6,9 @@ on:
   workflow_dispatch: {}
 permissions:
   contents: write
+concurrency:
+  group: data-writer
+  cancel-in-progress: false
 jobs:
   fetch:
     runs-on: ubuntu-latest
@@ -27,4 +30,5 @@ jobs:
           git config user.email "agenda-bot@users.noreply.github.com"
           git add data/
           git diff --cached --quiet || git commit -m "Agenda data $(date -u +%F)"
+          git pull --rebase -X theirs || true
           git push
