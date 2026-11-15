@@ -10,7 +10,8 @@
   "officials": "\\b(travel|conference|lodging|vehicle\\s+for\\s+the\\s+(mayor|manager|commission)|take[- ]home vehicle|furniture|office\\s+(renovation|remodel|furnish\\w*)|chambers?\\s+(renovation|remodel)|severance|retention bonus|car allowance|lobbyist|lobbying)\\b",
   "facilities": "\\b(golf|marina|stadium|arena|ballpark|amphitheater|city hall|government center|administration building|headquarters|convention center|performing arts)\\b",
   "consultants": "\\b(consultant|consulting|advisory services|study|feasibility|master plan|strategic plan|facilitat\\w*)\\b",
-  "legal": "\\b(settlement|judgment|litigation)\\b"
+  "legal": "\\b(settlement|judgment|litigation)\\b",
+  "private_benefit": "\\b(economic\\s+(development\\s+)?incentive|incentive\\s+agreement|job\\s+(growth|creation)\\s+(incentive|grant)|qualified\\s+target\\s+industry|completion\\s+grant|redevelopment\\s+agreement|tax\\s+increment\\s+(financing\\s+)?(funds|grant|rebate|reimbursement)|tif\\s+(funds|grant|rebate|reimbursement)|fa[c\u00e7]ade\\s+(improvement\\s+)?(grant|program)|commercial\\s+(property\\s+)?improvement\\s+(program|grant)|business\\s+(assistance|incentive|improvement)\\s+grant|shopping\\s+center|retail\\s+center|(grant|incentive|loan|funds|funding|contribution|reimbursement|rebate|subsidy)[^.;]{0,80}\\b(llc|l\\.l\\.c\\.|lllp|l\\.p\\.)(?=[\\s,.;)]|$))"
  },
  "score_weights": {
   "vanity": 2,
@@ -19,7 +20,8 @@
   "consultants": 1,
   "legal": 1,
   "outgoing_grant": 2,
-  "bypass": 2
+  "bypass": 2,
+  "private_benefit": 2
  },
  "decision": "\\b(approv\\w*|authoriz(?:e|es|ing|ation)\\b|ratif\\w*|resolution|ordinance|motion\\s+to|recommend\\w*\\s+(that|approval|the\\s+(board|council|commission))|award\\s+of|request\\w*\\s+(for\\s+)?(approval|authorization)|staff\\s+recommends|consider\\s+approv\\w*|execute\\s+(an?|the)\\s+(agreement|contract))\\b",
  "max_plausible_amount": 2000000000,

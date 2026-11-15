@@ -43,6 +43,7 @@ def tag_stage_category(it, today):
     if "consultants" in sig: cats.append("consultants")
     if DEBT.search(it.get("title") or ""): cats.append("debt")
     if "legal" in sig: cats.append("legal")
+    if "private_benefit" in sig: cats.append("private_benefit")
     it["categories"] = cats or ["large_spending"]
     return it
 
