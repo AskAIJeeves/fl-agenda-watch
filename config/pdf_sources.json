@@ -139,10 +139,11 @@
    "entity_id": "c-volusia",
    "name": "Volusia County",
    "listing_urls": [
+    "https://vcservices.vcgov.org/agenda/agenda-minutes-search.asp",
     "https://vcservices.vcgov.org/agenda/agenda-minutes.asp"
    ],
-   "follow": "(?i)agenda[^/]*\\.asp\\?",
-   "pdf": "(?i)(\\.pdf|fileparse\\.php|getdoc|document)"
+   "follow": "(?i)(agenda[^/]*\\.asp\\?|meeting[^/]*\\.asp)",
+   "pdf": "(?i)(agenda[^/]*\\.pdf|fileparse\\.php|getdoc|/agendas?/[^ ]*\\.pdf)"
   }
  ],
  "sequential": [
