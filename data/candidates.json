@@ -1,26 +1,26 @@
 {
- "generated_utc": "2026-11-15T14:15:00+00:00",
+ "generated_utc": "2026-11-15T15:58:09+00:00",
  "counts": {
-  "pool": 1981,
-  "outgoing_grants": 555,
-  "bypass": 297,
+  "pool": 2111,
+  "outgoing_grants": 600,
+  "bypass": 316,
   "other_top": 150,
   "by_stage": {
-   "upcoming": 566,
+   "upcoming": 570,
    "early_warning": 5,
    "past_meeting": 452,
-   "undated": 958
+   "undated": 1084
   },
   "by_category": {
-   "outgoing_grant": 555,
-   "vanity": 146,
-   "debt": 101,
-   "no_bid": 301,
-   "officials_perks": 32,
-   "consultants": 156,
+   "outgoing_grant": 600,
+   "vanity": 155,
+   "debt": 105,
+   "no_bid": 320,
+   "officials_perks": 34,
+   "consultants": 163,
    "legal": 50,
-   "facilities": 76,
-   "large_spending": 812
+   "facilities": 82,
+   "large_spending": 867
   },
   "missing_link": 0
  },
@@ -7696,6 +7696,35 @@
    ]
   },
   {
+   "entity_id": "c-pasco",
+   "government": "Pasco County",
+   "client": "civicclerk",
+   "body": "Tourist Development Council",
+   "meeting_date": "2026-11-18",
+   "agenda_number": "p.23",
+   "file_number": null,
+   "title": "RECOMMENDED COMMITTEE ACTION: Tourist Development Council recommends funding from the Group Meeting Incentive Program for the National Council of School Safety Directors National Conference for up to $5,000.00.",
+   "max_amount": 5000.0,
+   "signals": [
+    "officials"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "National Council of School Safety Directors National Conference",
+   "signal_score": 4,
+   "keywords": [],
+   "meeting_url": "https://pascocofl.portal.civicclerk.com/",
+   "agenda_pdf": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12095,plainText=false)",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12095,plainText=false)#page=23",
+   "stage": "upcoming",
+   "days_until_meeting": 3,
+   "categories": [
+    "outgoing_grant",
+    "officials_perks"
+   ]
+  },
+  {
    "entity_id": "m-tallahassee",
    "government": "Tallahassee",
    "client": "civicclerk",
@@ -10444,6 +10473,32 @@
    "categories": [
     "outgoing_grant",
     "debt"
+   ]
+  },
+  {
+   "entity_id": "c-pasco",
+   "government": "Pasco County",
+   "client": "civicclerk",
+   "body": "Tourist Development Council",
+   "meeting_date": "2026-11-18",
+   "agenda_number": "p.47",
+   "file_number": null,
+   "title": "BACKGROUND: Dr. Megan Moore, UF/IFAS Florida Sea Grant Agent for Pasco County, will outline a range of water quality initiatives focused on boosting Pasco\u2019s water quality. These community driven projects are already proving successful in the region, offer new avenues for collaboration and partnership. These projects not only improve water quality but also restore native Florida habitat and increase community involvement.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Pasco County",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://pascocofl.portal.civicclerk.com/",
+   "agenda_pdf": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12095,plainText=false)",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12095,plainText=false)#page=47",
+   "stage": "upcoming",
+   "days_until_meeting": 3,
+   "categories": [
+    "outgoing_grant"
    ]
   },
   {
@@ -13474,6 +13529,39 @@
    "entity_id": "m-sunrise",
    "government": "Sunrise",
    "client": "pdf",
+   "body": "Special City Commission Meeting - Second Budget Hearing - Sep 24, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.66",
+   "file_number": null,
+   "title": "Golf Club Total Operating Budget - $2.6 million \u2022 Replacement Capital Outlay \u2022 Spray Rig \u2022 Reel Grinder \u2022 Bedknife Grinder \u2022 Vacuum Sweeper \u2022 Beverage Cart \u2022 Funding for Additional Monument Sign on Oakland Park Boulevard 28 Springtree Golf Club Fund Highlights",
+   "max_amount": 2600000.0,
+   "signals": [
+    "facilities",
+    "vanity"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Additional Monument Sign",
+   "signal_score": 7.4,
+   "keywords": [
+    "golf"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043#page=66",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant",
+    "vanity",
+    "facilities"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
    "body": "City Commission Meeting - Jun 09, 2026",
    "meeting_date": null,
    "agenda_number": "p.270",
@@ -13610,6 +13698,34 @@
    "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1239",
    "found_utc": "2026-11-15T01:57:09+00:00",
    "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1239#page=138",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-coralsprings",
+   "government": "Coral Springs",
+   "client": "pdf",
+   "body": "Coral Springs City Commission Regular Meeting - Sep 09, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.2",
+   "file_number": null,
+   "title": "7. Memorandum of Agreement Urban Area Security Initiative FY 2024 (Chris Swinson) (A) Request to approve and authorize the City of Coral Springs to enter into the 2024 Urban Area Security Initiative (UASI) Memorandum of Agreement with the City of Miami, sponsoring agency of the Miami Urban Area, a $12,388,404 Grant in which $291,000 has been allocated to the City of Coral Springs. The projects submitted to UASI will involve purchasing equipment for our Real Time Crime Center, Information Technology Department (Two Factor Authentication Keys), Fire Department (5 Gas Meters), and improvements to our Regional Joint Information Center (JIC). (REQUEST TO APPROVE, AUTHORIZE) (B) Request to authorize the City Manager or their designee to execute the agreements. The term of the agreement is through February 28, 2026. (REQUEST TO AUTHORIZE) Funding Source: Not Applicable. Strategic Goal: An Innovative, High-Performing and Sustainable Organization.",
+   "max_amount": 12388404.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 5.1,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://coralsprings.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=270",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=270#page=2",
    "stage": "undated",
    "days_until_meeting": null,
    "categories": [
@@ -13810,6 +13926,75 @@
    "categories": [
     "outgoing_grant",
     "officials_perks"
+   ]
+  },
+  {
+   "entity_id": "m-coralsprings",
+   "government": "Coral Springs",
+   "client": "pdf",
+   "body": "Coral Springs City Commission Regular Meeting - Sep 24, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.4",
+   "file_number": null,
+   "title": "24. Naming Rights Committee Recommendations (Robert Hunter) Request to approve the naming of the stadium main court at Mullins Park Gymnasium to Jim Reilly Championship Court; approve the naming of the field number two (2) at Cypress Park to Jennifer Brown Softball Field; and to approve the naming of the concession stand at Cypress Park to Robyn Gomes Concession Stand in accordance with the City\u2019s Naming/Renaming of City-Owned Assets Policy. Funding Source: Funded by External Agency - No Cost to City. Strategic Goal: An Innovative, High-Performing and Sustainable Organization. (REQUEST TO APPROVE)",
+   "max_amount": null,
+   "signals": [
+    "facilities",
+    "vanity"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Jim Reilly Championship Court",
+   "signal_score": 5,
+   "keywords": [
+    "stadium"
+   ],
+   "meeting_url": "https://coralsprings.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=272",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=272#page=4",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant",
+    "vanity",
+    "facilities"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Special City Commission Meeting - Second Budget Hearing - Sep 24, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.59",
+   "file_number": null,
+   "title": "Non-Departmental \u2022 Programs \u2022 Continued Funding for Public Art Program \u2022 Vista at Springtree Loan Agreement \u2022 Continuation of Freebee Service - Business & Entertainment District 21 Department Highlights Public Works/Facilities Maintenance \u2022 Programs \u2022 Fire Station 59 Kitchen Renovations \u2022 Expansion of Holiday Lighting Infrastructure \u2022 Capital Outlay \u2022 Replace City Hall Lake Fountain Lighting and Control Panel \u2022 Replace Various Air Conditioning Units \u2022 New Drinking Water Fountains at Public Safety Building \u2022 New Server Upgrades for Public Safety Building HVAC",
+   "max_amount": null,
+   "signals": [
+    "facilities",
+    "vanity"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Public Art Program",
+   "signal_score": 5,
+   "keywords": [
+    "agreement",
+    "city hall",
+    "loan"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043#page=59",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant",
+    "vanity",
+    "facilities",
+    "debt"
    ]
   },
   {
@@ -14189,6 +14374,61 @@
    "days_until_meeting": null,
    "categories": [
     "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-coralsprings",
+   "government": "Coral Springs",
+   "client": "pdf",
+   "body": "Coral Springs City Commission Regular Meeting &amp; City Commission Workshop (Immediately following the regular meeting.) - Sep 02, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.4",
+   "file_number": null,
+   "title": "16. Residential/Commercial Inspection and Cost Estimating Services, Residential/Commercial Inspection for Environmental Services, and General Contractors for Home Repair Projects (Tina Jou) Request to approve an increase to the estimated annual expenditure to RFP 23-B-086 Residential/Commercial Inspection and Cost Estimating Services, RFP 23-B-087 Residential/Commercial Inspection for Environmental Services, and RFP 23-B-088 General Contractors for Home Repair Projects to the highest ranked proposers as per Attachment A from $500,000 to $1,500,000. This increase will be in effect from date of award until June 20, 2027. Funding Source: Receiving Grant to Expend. Strategic Goal: A Family-Friendly Community. (REQUEST TO APPROVE)",
+   "max_amount": 1500000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Environmental Services",
+   "signal_score": 4.2,
+   "keywords": [],
+   "meeting_url": "https://coralsprings.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=268",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=268#page=4",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "Community Redevelopment Agency Board - Jul 08, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "E. Approval of the Commercial Rent Reimbursement Grant Program in the Amount of $12,900 to Simon Warren Enterprises LLC d/b/a Furniture Medic located at 1370 W. Industrial Avenue, Unit 108",
+   "max_amount": 12900.0,
+   "signals": [
+    "officials"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Simon Warren Enterprises LLC",
+   "signal_score": 4.1,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=291",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=291#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant",
+    "officials_perks"
    ]
   },
   {
@@ -14999,6 +15239,66 @@
    "entity_id": "m-sunrise",
    "government": "Sunrise",
    "client": "pdf",
+   "body": "City Commission Meeting - Oct 08, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.297",
+   "file_number": null,
+   "title": "Exhibit G, DEP Agreement #: 24PLN61 11/19/2021 Page 1 of 1 Florida Department of Environmental Protection EXHIBIT G PHOTOGRAPHER RELEASE FORM FOR PHOTOGRAPHS, VIDEOS, AUDIO RECORDINGS AND ARTWORKS DEP AGREEMENT NO: 24PLN61 RELEASE FORM FOR PHOTOGRAPHS, VIDEOS, AUDIO RECORDINGS AND ARTWORKS Owner/Submitter\u2019s Name: Address: City: State: Zip: Phone Number: ( ) Email: License and Indemnification I certify that I am the owner of the photograph(s), video(s), audio recording(s) and/or artwork(s) being submitted and am eighteen (18) years of age or older. I hereby grant to the Florida Department of Environmental Protection the royalty-free and non-exclusive right to distribute, publish and use the photograph(s), video(s), audio recording(s) and art work(s) submitted herewith (the \u201cWork\u201d) to promote the Florida Department of Environmental Protection. Uses may include, but are not limited to:",
+   "max_amount": null,
+   "signals": [
+    "vanity"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Florida Department of Environmental Protection",
+   "signal_score": 4,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046#page=297",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant",
+    "vanity"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "Community Redevelopment Agency Board - Jul 08, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "F. Approval of the Commercial Business Marketing Grant Program in the amount of $2,500 to Tipsy Salonbar of Boynton Beach, located at 1515 S. Federal Highway, Boynton Beach, FL 33435",
+   "max_amount": 2500.0,
+   "signals": [
+    "vanity"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Tipsy Salonbar of Boynton Beach",
+   "signal_score": 4,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=291",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=291#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant",
+    "vanity"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
    "body": "City Commission Meeting - Mar 25, 2025",
    "meeting_date": null,
    "agenda_number": "p.15",
@@ -15341,6 +15641,34 @@
    ]
   },
   {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Oct 08, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.18",
+   "file_number": null,
+   "title": "8. Subgrant Award Details Grant Program Title 2021 BJA FY 21 Edward Byrne Memorial Justice Assistance Grant (JAG) Program - Local Solj.citation Federal Award Identification lSPBJA-21-GG-01376-JAGX Number BSO's Unique Entity Identifier JYJ2Y9MKA4V6 Federal Award Date to County October 8, 2021 Grant Award amount to County $544,330.00 Subgrant Award Amount $26,798.00 Amount or percentage of 10% Subgrant Award retained by County for administrative expenses Total amount of Grant Funds $24,118.20 committed to BSO by County Is any portion of the Grant \u25a1 No federally funded? (if yes, BSO must comply with federal IZI Yes: Amount: $544,330.00 requirements in the Subgrant Awarding Agency: U . S. Department of Award Terms) Justice, Office of Justice Programs, Bureau of Justice Assistance Insurance (only applicable if box is \u25a1 If checked, BSO must maintain insurance coverages in checked). the types and amounts shown in Exhibit D for the duration of the Term. Is this award for research & IZI No D Yes development? FY21 JAG Subgrant Award Agreement Page 2 of 32 Exhibit A (cont'd.)",
+   "max_amount": 544330.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 3.7,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046#page=18",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
    "entity_id": "m-coralsprings",
    "government": "Coral Springs",
    "client": "pdf",
@@ -15496,6 +15824,84 @@
    "agenda_pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=323",
    "found_utc": "2026-11-15T02:39:26+00:00",
    "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=323#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Special City Commission Meeting - Second Budget Hearing - Sep 24, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.37",
+   "file_number": null,
+   "title": "Option 1 Leisure Services Department - Funding for One (1) NEW 20 Passenger Bus to Support the Senior Center Free Transportation Program $190,000 Fire Rescue Department - Funding for One (1) Operations Vehicle $74,500",
+   "max_amount": 190000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Support the Senior Center Free Transportation Program",
+   "signal_score": 3.3,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043#page=37",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Special City Commission Meeting - Second Budget Hearing - Sep 24, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.37",
+   "file_number": null,
+   "title": "Option 2 Police Department- Funding for Three (3) Unmarked Police Vehicles $210,000 Fire Rescue Department - Funding for One (1) Operations Vehicle $74,500",
+   "max_amount": 210000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 3.3,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043#page=37",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Special City Commission Meeting - Second Budget Hearing - Sep 24, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.37",
+   "file_number": null,
+   "title": "Option 3 Fire Rescue Department - Funding for Two (2) Battalion Chief Vehicles $190,000 Fire Rescue Department - Funding for One (1) Operations Vehicle $74,500",
+   "max_amount": 190000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 3.3,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043#page=37",
    "stage": "undated",
    "days_until_meeting": null,
    "categories": [
@@ -16072,6 +16478,63 @@
    ]
   },
   {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Oct 08, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.72",
+   "file_number": null,
+   "title": "d. If the City terminates this Agreement pursuant to the subsection c above, the Artist shall be barred from being awarded a future contract by the City for a period of one (1) year from the date on which this Agreement was terminated. In the event of such Agreement termination, the Artist shall also be liable for any additional costs incurred by the City as a result of the termination. Article 17. Foreign Gifts and Contracts Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is $100,000.00 or more, the Artist shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,000 or more that was received or in force during the previous five (5) years. Definitions, disclosure requirements and exceptions are found in Fla. Stat. \u00a7268.101. The Artist represents and warrants she has complied with Fla. Stat. \u00a7286.101, she has properly disclosed such interests, contracts, grants or gifts to the City before execution of this Agreement, and she will remain in compliance with Fla. Stat. \u00a7286.101 for the duration of this Agreement. Article 18. Prohibited Telecommunications Equipmen",
+   "max_amount": 100000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Fla. Stat",
+   "signal_score": 3.0,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046#page=72",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-coralsprings",
+   "government": "Coral Springs",
+   "client": "pdf",
+   "body": "Coral Springs City Commission Regular Meeting - Jun 24, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.3",
+   "file_number": null,
+   "title": "14. N.W. 88th Avenue Sidewalk Improvement (John Norris) Request to award the contract for Bid #25-B-160F for N.W. 88th Avenue Sidewalk Improvement to Heavy Civil, Inc. of Boca Raton, Florida in the amount of $78,698.38; and to authorize the purchasing manager to approve change orders that are within the designated procurement authority up to $75,000. Funding Source: Receiving Grant to Expend. Strategic Goal: An Attractive Community. (REQUEST TO AWARD, AUTHORIZE)",
+   "max_amount": 78698.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Heavy Civil",
+   "signal_score": 2.9,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://coralsprings.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=267",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=267#page=3",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
    "entity_id": "m-boyntonbeach",
    "government": "Boynton Beach",
    "client": "pdf",
@@ -16117,6 +16580,32 @@
    "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=325",
    "found_utc": "2026-11-15T03:57:37+00:00",
    "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=325#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "Community Redevelopment Agency Board - Aug 12, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "F. Approval of the Commercial Property Improvement Grant Program in the Amount of $56,500 to SFEB LLC d/b/a SoFresh located in Sunshine Square at 522 E. Woolbright Road",
+   "max_amount": 56500.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "SFEB LLC",
+   "signal_score": 2.8,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=306",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=306#page=1",
    "stage": "undated",
    "days_until_meeting": null,
    "categories": [
@@ -16894,6 +17383,35 @@
    "entity_id": "m-sunrise",
    "government": "Sunrise",
    "client": "pdf",
+   "body": "City Commission Meeting - Oct 08, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.142",
+   "file_number": null,
+   "title": "\uf078 m.Foreign Gifts and Contracts. Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Contractor shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,000 or more that was received or in force during the previous five (5) years. Definitions, disclosure requirements and exceptions are found in Fla. Stat. \u00a7268.101. Contractor represents and warrants it has complied with Fla. Stat. \u00a7286.101, it has properly disclosed such interests, contracts, grants or gifts to City before execution of this Agreement, and it will remain in compliance with Fla. Stat. \u00a7286.101 for the duration of this Agreement.",
+   "max_amount": 50000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Fla. Stat",
+   "signal_score": 2.7,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046#page=142",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
    "body": "City Commission Meeting - Mar 25, 2025",
    "meeting_date": null,
    "agenda_number": "p.64",
@@ -17127,6 +17645,58 @@
    "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1123",
    "found_utc": "2026-11-15T04:11:36+00:00",
    "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1123#page=389",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "Community Redevelopment Agency Board - Aug 12, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "G. Approval of the Commercial Rent Reimbursement Grant Program in the Amount of $24,000 to SFEB LLC d/b/a SoFresh located in Sunshine Square at 522 E. Woolbright Road",
+   "max_amount": 24000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "SFEB LLC",
+   "signal_score": 2.4,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=306",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=306#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "Community Redevelopment Agency Board - Jul 08, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "G. Approval of Waiver and Approval for the Commercial Property Improvement Grant Program in the Amount of $25,000 to Colonial Center Association Inc. located at 1230 S. Federal Highway, Unit 101",
+   "max_amount": 25000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Commercial Property Improvement Grant Program in the Amount",
+   "signal_score": 2.4,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=291",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=291#page=1",
    "stage": "undated",
    "days_until_meeting": null,
    "categories": [
@@ -21600,6 +22170,678 @@
    "categories": [
     "outgoing_grant"
    ]
+  },
+  {
+   "entity_id": "m-coralsprings",
+   "government": "Coral Springs",
+   "client": "pdf",
+   "body": "Coral Springs City Commission Regular Meeting - Sep 09, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.2",
+   "file_number": null,
+   "title": "Request to hold a public hearing for public review and comment regarding the Community Development Block Grant (CDBG) 2025-2029 Consolidated Plan and FY 2025-2026 Annual Action Plan, adopt Resolution 2025-020 approving the Consolidated Plan and Annual Action Plan, and authorize staff to transmit the plans with supporting resolution to the U.S. Department of Housing and Urban Development (HUD) for approval. Funding Source: Receiving Grant to Expend. Strategic Goal: A Family-Friendly Community. (REQUEST TO HOLD PUBLIC HEARING, ADOPT, AUTHORIZE)",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "U.S. Department of Housing and Urban Development",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://coralsprings.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=270",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=270#page=2",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-coralsprings",
+   "government": "Coral Springs",
+   "client": "pdf",
+   "body": "Coral Springs City Commission Regular Meeting - Sep 09, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.2",
+   "file_number": null,
+   "title": "9. Use of Forfeiture Funds (Brad Mock) Request to authorize the use of $2,500 in Law Enforcement Trust Funds to pay $2,500 for the fiscal year 2025 donation to the Florida Missing Children\u2019s Day Foundation. Funding Source: Receiving Forfeiture to Expend. Strategic Goal: An Innovative, High-Performing and Sustainable Organization. (REQUEST TO AUTHORIZE)",
+   "max_amount": 2500.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Florida Missing Children",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://coralsprings.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=270",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=270#page=2",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-coralsprings",
+   "government": "Coral Springs",
+   "client": "pdf",
+   "body": "Coral Springs City Commission Regular Meeting - Sep 09, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.3",
+   "file_number": null,
+   "title": "12. Resolution 2025-023, First Amendment to the Interlocal Agreement with Broward County for Bus Shelter Repair and Replacement (Tina Jou) Request to approve Resolution 2025-023, authorizing the execution of the First Amendment to the Interlocal Agreement (ILA) between Broward County and the City of Coral Springs for the construction phase of the Mobility Advancement Program\u2019s Surtax-Funded Transportation Project: Bus Shelter Repair and Replacement (CORA-102). (CON25-0003) Funding Source: Mobility Advancement Program, Receiving Grant to Expend. Strategic Goal: An Attractive Community. (REQUEST TO APPROVE, AUTHORIZE)",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Interlocal Agreement",
+   "signal_score": 2,
+   "keywords": [
+    "agreement",
+    "construction"
+   ],
+   "meeting_url": "https://coralsprings.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=270",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=270#page=3",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-coralsprings",
+   "government": "Coral Springs",
+   "client": "pdf",
+   "body": "Coral Springs City Commission Regular Meeting &amp; City Commission Workshop (Immediately following the regular meeting.) - Sep 02, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.2",
+   "file_number": null,
+   "title": "8. Use of Forfeiture Funds (Brad Mock) Request to authorize the use of $3,140 in Law Enforcement Trust Funds for Fiscal Year 2025 donation to Canine Assisted Therapy (C.A.T.) a qualified 501 (c)(3) organization. Funding Source: Receiving Forfeiture to Expend. Strategic Goal: An Innovative, High-Performing and Sustainable Organization. (REQUEST TO AUTHORIZE)",
+   "max_amount": 3140.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Canine Assisted Therapy",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://coralsprings.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=268",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=268#page=2",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Oct 08, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.11",
+   "file_number": null,
+   "title": "1. Bro ward C ounty will serve as the grant administrator for the agencies in Broward County, Florida participating in the JAG Program. Pursuant to the JAG Program guidelines, funding for the JAG Program will be provided to BSO.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "JAG Program",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046#page=11",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Oct 08, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.11",
+   "file_number": null,
+   "title": "2. O n or about July 28, 2023, Broward County has entered into a subgrant award agreement, with BSO which authorizes BSO to serve as the l ead agency in administering the grant on behalf of Broward County, through its Add endum to Subgrant Award Agreement B etween Broward County and the Sheriff of Broward County for Administration of the FY21 Edward Byrne Memorial Justice Assistance Grant , entered on May 15, 2024 and attached hereto and incorporated herein by reference as Exhibit A.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Subgrant Award Agreement B",
+   "signal_score": 2,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046#page=11",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Oct 08, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.11",
+   "file_number": null,
+   "title": "5. F or participating age ncies that currently contract with BSO for law enforcement services, the BSO shall pay the payroll expenses and seek reimbursement from the participating agency. The BSO shall invoice the CITY for the cost of the Services incurred and being provided to City pursuant to the Grant Award. The C ity shall pay the invoice within t hirty (30) days o f receipt of SHERIFF \u2019s invoice. Payment to SHERIFF is not contingent upon COUNTY reimbursement to CITY . BSO acknowledges that Grant funds may not , under any circumstances, be expended prior to October 1, 2020 or after September 30, 2025 ( \u201cEligible Period) or if the Grant term is e xtended, through the extension date . BSO agre es it will not seek reimbursement of any costs o r expenses other than those incurred during the Eligible Period. City shall have no obligation to reimburse BSO for any amounts for cos ts or expenses not incurred during the Eligible Period.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Grant Award. The C",
+   "signal_score": 2,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046#page=11",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Oct 08, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.33",
+   "file_number": null,
+   "title": "3. The high-risk point of contact at that federal awarding agency (name, phone number, and email address), and 4. The reasons for the high-risk status, as set out by the federal awarding agency. '\u00a71& Compliance with DOJ Grants Financial Guide References to the DOJ Grants Financial Guide are to the DOJ Grants Financial Guide as posted on the OJP website (currently, the \"DOJ Grants Financial Guide\" available at https://ojp.gov/financialguide/DOJ/index.htm), including any updated version that may be posted during the period of performance. The recipient agrees to comply with the DOJ Grants Financial Guide. '\u00a717 Encouragement of policies to ban text messaging while driving Pursuant to Executive Order 13513, \"Federal Leadership on Reducing Text Messaging While Driving,\" 74 Fed . Reg . 51225 (October 1, 2009), DOJ encourages recipients and subrecipients (\"subgrantees\") to adopt and enforce policies banning employees from text messaging while driving any vehicle during the course of performing work funded by this award, and to establish workplace safety policies and conduct education, awareness, and other outreach to decrease crashes caused by distracted drivers. '\u00a71s Compliance with gene",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "DOJ Grants Financial Guide",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046#page=33",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Oct 08, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.49",
+   "file_number": null,
+   "title": "DocuSign Envelope ID: 3F6724E6-BBD5-43EE-A399-15C872870B7 4 ADDENDUM TO SUBGRANT AWARD AGREEMENT BETWEEN BROWARD COUNTY AND THE SHERIFF OF BROWARD COUNTY FOR ADMINISTRATION OF THE FY21 EDWARD BYRNE MEMORIAL JUSTICE ASSISTANCE GRANT This Addendum (\"Addendum\") to the Subgrant Award Agreement for FY21 Edward Byrne Memorial Justice Assistance Grant (\"Subgrant Award Agreement\") is between Broward County, a political subdivision of the State of Florida (\"County\"), and the Sheriff of Broward County, a constitutional officer of Broward County (\"BSO\") (each a \"Party\" and collectively referred to as the \"Parties\"). RECITALS",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Subgrant Award Agreement for FY21 Edward Byrne Memorial Justice Assistance",
+   "signal_score": 2,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046#page=49",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Oct 08, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.56",
+   "file_number": null,
+   "title": "E. System for Award Management (SAM) . The Parties shall mutually cooperate and collaborate to maintain current information in SAM until all financial reports required under the Grant have been submitted, the final reimbursement to the Municipality is made, and all accounting has completed.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Award Management",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046#page=56",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Oct 08, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.359",
+   "file_number": null,
+   "title": "AGENDA ITEM REQUEST Originating Department: City Attorney Item Title: Creation of Accessibility, Inclusion, and Mobility Advisory Board Item Number: 12A Meeting Date: 10/8/2024 City Reference Number (C#): C24253 Item Description: Commission discussion and/or action re: Second Reading of an Ordinance of the City of Sunrise, Florida, Amending Chapter 2 \u201cAdministration\u201d Article III \u201cBoards, Committees, Commissions, Councils\u201d by creating Division 18 \u201cAccessibility, Inclusion, and Mobility Advisory Board\u201d; providing for conflict; providing for severability; providing for inclusion in the city code; and providing an effective date. City Manager Mark Lubelski. Thomas P. Moss, City Attorney. Felicia M. Bravo, City Clerk. (First Reading, CCM 9/24/2024 Passed 5-0.) Funding: N/A Amount: $50 Monthly Reimbursement for Sunrise Resident Board Members Attending Meetings ATTACHMENTS:",
+   "max_amount": 50.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Sunrise Resident Board Members Attending Meetings ATTACHMENTS",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046#page=359",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Special City Commission Meeting - Second Budget Hearing - Sep 24, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.4",
+   "file_number": null,
+   "title": "ATTACHMENTS: Description ATY Resolution - C24251 DR-420 - Millage DR-420DEBT - Form Background: The current FY 2023/2024 adopted millage rate is 6.0543 mills. On September 12, 2024, the City Commission adopted a tentative millage rate of 6.0543 mills for FY 2024/2025. This rate is the same as the current adopted millage rate and is 8.30% more than the roll-back rate of 5.5904 mills. The gross taxable value of property in the City, to be utilized for the next fiscal year's budget, including new construction, is $10,907,463,504. This Resolution adopts the final ad valorem tax levy necessary to fund the FY 2024/2025 budget for the City. In November 2014, residents voted and approved funding for the General Obligation Bonds for development, design, acquisition, and construction for certain parks, recreation and leisure projects within the City. On September 12, 2024, the City Commission adopted a tentative millage rate of .3188 mills for the annual debt service for FY 2024/2025. This Resolution adopts the final voter approved debt service tax levy necessary to fund the FY 2024/2025 budget for the debt service necessary to pay principal and interest on the General Obligation Bonds. It s",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "General Obligation Bonds for",
+   "signal_score": 2,
+   "keywords": [
+    "bonds",
+    "construction",
+    "debt"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043#page=4",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant",
+    "debt"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Special City Commission Meeting - Second Budget Hearing - Sep 24, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.18",
+   "file_number": null,
+   "title": "The Budget Office has verified that the funding allocated for the City Clerk\u2019s Office is expected to be sufficient for FY 2024/2025.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043#page=18",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Special City Commission Meeting - Second Budget Hearing - Sep 24, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.19",
+   "file_number": null,
+   "title": "Federal Community Project Funding for Automated License Plate Readers (ALPR)s",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Automated License Plate Readers",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043#page=19",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Special City Commission Meeting - Second Budget Hearing - Sep 24, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.20",
+   "file_number": null,
+   "title": "During FY 2025, we will initiate a Request for Proposal (RFP) for automated license plate readers to maximize the capital component of the program as up-front costs. This will ensure the ability to fully maximize the anticipated federal Community Project Funding and a provide for a lower annual recurring cost for ALPR support and service going forward.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Proposal",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043#page=20",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Special City Commission Meeting - Second Budget Hearing - Sep 24, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.30",
+   "file_number": null,
+   "title": "If the City Commission is supportive of initiating this new monthly meeting, the first year funding will be absorbed by the Leisure Services Department and additional funding will be evaluated and considered for the FY 2025/2026 Budget.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043#page=30",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Sep 24, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "A Resolution of the City of Sunrise, Florida, approving the \u201cGrant terms and conditions for Broward County Youth Climate Action Fund Micro-Grant Program\u201d between the City of Sunrise and Broward County to provide funding for a Wildflower Meadow at Hiatus Trailhead Park; and providing an effective date. City Manager Mark Lubelski. Rodrigo de Castro, Director of Utilities.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Broward County Youth Climate Action Fund Micro-Grant Program",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1042",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1042#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "Special City Commission Meeting - First Budget Hearing - Sep 12, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.5",
+   "file_number": null,
+   "title": "ATTACHMENTS: Description ATY Resolution - C24227 DR-420 - Millage DR-420DEBT - Form Background: The current FY 2023/2024 adopted millage rate is 6.0543 mills. On July 9, 2024, the City Commission authorized a tentative millage rate of 6.0543 mills for FY 2024/2025. This rate is the same as the current adopted millage rate and is 8.30% more than the roll-back rate of 5.5904 mills. The gross taxable value of property in the City, to be utilized for the next fiscal year's budget, including new construction, is $10,907,463,504. The proposed Resolution adopts the tentative ad valorem tax levy necessary to fund the FY 2024/2025 budget for the City. In November 2014, residents voted and approved funding for the General Obligation Bonds for development, design, acquisition, and construction for certain parks, recreation and leisure projects within the City. On July 9, 2024, the City Commission authorized a tentative millage rate of .3188 mills for the annual debt service for FY 2024/2025. The proposed Resolution adopts the voter approved debt service tax levy necessary to fund the FY 2024/2025 budget for the debt service necessary to pay principal and interest on the General Obligation Bon",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "General Obligation Bonds for",
+   "signal_score": 2,
+   "keywords": [
+    "bonds",
+    "construction",
+    "debt"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1037",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1037#page=5",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant",
+    "debt"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "Community Redevelopment Agency Board - Aug 12, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "C. Termination of the Commercial Rent Reimbursement Grant Balance to Dalo Restaurant LLC located at 1017 N. Federal Highway",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Dalo Restaurant LLC",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=306",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=306#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "Community Redevelopment Agency Board - Aug 12, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "D. Discussion and Consideration of the Economic Development Grant Program Guidelines and Applications for Fiscal Year 2025-2026",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=306",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=306#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Aug 05, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "D. Proposed Resolution No. R25-202- Adopt the City of Boynton Beach's Community Development Block Grant (CDBG), Fourth Year Annual Action Plan for FY 2025.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=304",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=304#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Jul 15, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "J. Proposed Resolution No. R25-170- Approving a Second Amendment to the Progressive Design-Build Agreement with Foster Marine Contractors, Inc. to Incorporate Required Federal Grant Provisions (Attachment 8-B) for the Town of Hypoluxo Septic-to-Sewer Conversion Project.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Progressive Design-Build Agreement",
+   "signal_score": 2,
+   "keywords": [
+    "agreement",
+    "design-build"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=292",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=292#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "Community Redevelopment Agency Board - Jul 08, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "D. Continued Discussion and Consideration of a Request for Funding for the City View Apartments located at the SW Corner of Federal Highway and SE 5th Avenue",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Funding for the City View Apartments",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=291",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=291#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "Community Redevelopment Agency Board - Jul 08, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "E. Discussion and Consideration of a Request for Additional Tax Increment Revenue Funding for the Ocean One Project located at 114-222 N. Federal Highway",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Additional Tax Increment Revenue Funding for the Ocean One Project",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=291",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=291#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "Community Redevelopment Agency Board - Jul 08, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "G. Termination of the Commercial Rent Reimbursement Grant Balance to Safai located in Casa Costa at 470 N. Federal Highway, Unit 3",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=291",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=291#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
   }
  ],
  "bypass_competition": [
@@ -23817,6 +25059,36 @@
    "entity_id": "m-boyntonbeach",
    "government": "Boynton Beach",
    "client": "pdf",
+   "body": "City Commission - Jul 15, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "X. Proposed Resolution No. R25-198- Authorize the City Manager to enter into final negotiations with Iron Brick Associates, LLC and authorize the Mayor to sign the final piggyback agreement between the City of Boynton Beach and Iron Brick Associates, LLC, and related orders, utilizing an existing competitively solicited contract to implement the City's new Enterprise Resource Planning (ERP) system, Workday, and asset management system, SpryPoint for the amount of $11,372,348.24 plus an allowance of $733,595.25 for a total of $12,105,943.49 over a ten-year term.",
+   "max_amount": 12105943.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 5.1,
+   "keywords": [
+    "agreement",
+    "contract",
+    "piggyback"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=292",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=292#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
    "body": "City Commission - Nov 17, 2026",
    "meeting_date": null,
    "agenda_number": "p.1",
@@ -23875,6 +25147,40 @@
     "no_bid",
     "vanity",
     "consultants"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Jul 15, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "A. Proposed Resolution No. R25-132- Approve the lease buyout of thirty 2021 RXV Elite Golf Cars in the net amount of $37,754.40; and authorize the issuance of a purchase order to EZGO Division of Textron, Inc., for $942,557.45 piggybacking the OMNIA Partners Cooperative Contract No. R210201- Tabled from the May 20, 2025, Meeting.",
+   "max_amount": 942557.0,
+   "signals": [
+    "facilities"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 5.0,
+   "keywords": [
+    "contract",
+    "golf",
+    "lease",
+    "purchase"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=292",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=292#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid",
+    "facilities"
    ]
   },
   {
@@ -24032,6 +25338,38 @@
    "agenda_pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3516",
    "found_utc": "2026-11-15T04:11:36+00:00",
    "link": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3516#page=4",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid",
+    "facilities"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Aug 19, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "D. Proposed Resolution No. R25-222- Approving a Piggyback Agreement with Trane U.S. Inc. for the replacement of (2) DX Packaged AC Units located in the adjacent mechanical housing building at the West Water Treatment Plant and a 20-ton split system at the Utilities Administration Building, for an estimated expenditure of $391,126.72 plus a 10% contingency, for a total expenditure not to exceed $430,239.39.",
+   "max_amount": 430239.0,
+   "signals": [
+    "facilities"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 4.6,
+   "keywords": [
+    "agreement",
+    "piggyback"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=308",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=308#page=1",
    "stage": "undated",
    "days_until_meeting": null,
    "categories": [
@@ -24215,6 +25553,35 @@
    "agenda_pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=306",
    "found_utc": "2026-11-15T03:12:11+00:00",
    "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=306#page=4",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Jul 15, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "T. Proposed Resolution No. R25-193- Approve the 1st amendment to the Piggyback Agreement with Kone, Inc., authorizing a one-time expenditure in an amount not to exceed $1,220,000 for the replacement of three elevators.",
+   "max_amount": 1220000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 4.1,
+   "keywords": [
+    "agreement",
+    "piggyback"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=292",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=292#page=1",
    "stage": "undated",
    "days_until_meeting": null,
    "categories": [
@@ -25226,6 +26593,65 @@
    "entity_id": "m-boyntonbeach",
    "government": "Boynton Beach",
    "client": "pdf",
+   "body": "City Commission - Jul 15, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "C. Proposed Resolution No. R25-175- Approving a second Amendment increasing the annual expenditure for the Sole Source Agreement with South Florida Emergency Vehicles for the purchase of parts, equipment, maintenance, and repair of Sutphen Fire trucks and ambulances, from $200,000 to an amount not to exceed $300,000.",
+   "max_amount": 300000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.5,
+   "keywords": [
+    "agreement",
+    "purchase",
+    "sole source"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=292",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=292#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Jul 15, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "O. Proposed Resolution No. R25-188- Approve the first amendment to the Piggyback Agreement with Industrial Shadeports, Inc. to provide Various Equipment and Amenities for Parks and Recreation, increasing the annual expenditure from $162,300 to $279,054 plus an allowance of $4,774 for a total amount not to exceed of $283,828.",
+   "max_amount": 283828.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.5,
+   "keywords": [
+    "agreement",
+    "piggyback"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=292",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=292#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
    "body": "City Commission - Aug 25, 2026",
    "meeting_date": null,
    "agenda_number": "p.1",
@@ -25358,6 +26784,64 @@
    "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1123",
    "found_utc": "2026-11-15T04:11:36+00:00",
    "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1123#page=320",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Aug 19, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "F. Proposed Resolution No. R25-224- Approve a Piggyback Agreement between the City of Boynton Beach and Advanced Roofing, Inc. utilizing Equalis Group Bid No. RFP-R10-1166 for reroofing and installation services for the re-roofing of the Public Works Auxiliary Building in the amount of $212,094.55, plus a 10% contingency of $21,209.45, not to exceed $233,304.",
+   "max_amount": 233304.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.4,
+   "keywords": [
+    "agreement",
+    "piggyback"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=308",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=308#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Jul 15, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "N. Proposed Resolution No. R25-187- Approval of a Piggyback Agreement between the City of Boynton Beach and Martin Fence utilizing the City of Greenacres Bid No. 23-003 for Fence Installation, Maintenance, and Repair Services, not to exceed $250,000 City-wide annually.",
+   "max_amount": 250000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.4,
+   "keywords": [
+    "agreement",
+    "piggyback"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=292",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=292#page=1",
    "stage": "undated",
    "days_until_meeting": null,
    "categories": [
@@ -25646,6 +27130,63 @@
    "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=309",
    "found_utc": "2026-11-15T14:01:40+00:00",
    "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=309#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
+   "entity_id": "m-dunedin",
+   "government": "Dunedin",
+   "client": "pdf",
+   "body": "CITY COMMISSION REGULAR MEETING - Sep 18, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.2",
+   "file_number": null,
+   "title": "Commission approval of an Emergency Purchase for the Dunedin Fire Department of a 2011 E-One Surplus Fire Pumping Engine from the Palm Harbor Fire District for $150,000, and accessories estimated at $30,000; for a total \"Not to Exceed\" (NTE) amount of $180,000. EXHIBIT:",
+   "max_amount": 180000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.3,
+   "keywords": [
+    "purchase"
+   ],
+   "meeting_url": "https://dunedin.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3496",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3496#page=2",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Aug 05, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "G. Proposed Resolution No. R25-209- Approve Amendment No. 2 to the Piggyback Agreement between the City and Everon, LLC for Facility Technology Integration & Security System Services, increasing the annual expenditure from $150,000 to $200,000.",
+   "max_amount": 200000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.3,
+   "keywords": [
+    "agreement",
+    "piggyback"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=304",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=304#page=1",
    "stage": "undated",
    "days_until_meeting": null,
    "categories": [
@@ -25972,6 +27513,95 @@
    "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1098",
    "found_utc": "2026-11-15T04:11:36+00:00",
    "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1098#page=104",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Aug 19, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "E. Proposed Resolution No. R25-223- Approving a piggyback agreement with Pantropic Power, Inc., an authorized Caterpillar, Inc. dealer, utilizing Sourcewell contract 040924-CAT Contract for East Water Treatment Plant Rental Generator for a not-to-exceed amount of $136,871.60 annually.",
+   "max_amount": 136871.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.1,
+   "keywords": [
+    "agreement",
+    "contract",
+    "piggyback"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=308",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=308#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Aug 05, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "A. Proposed Resolution No. R25-203- Approve a purchase order with JC White Interior Architectural Products in the amount of $129,172.15 utilizing a piggyback of FL Contract #56120000-24-NY-ACS for the purchase of 450 event chairs and 45 stacking carts for the Arts and Cultural Center.",
+   "max_amount": 129172.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.1,
+   "keywords": [
+    "contract",
+    "piggyback",
+    "purchase"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=304",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=304#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Aug 05, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "C. Proposed Resolution No. R25-205- Approve a Sole Source Agreement with SmartCover Systems for remote sewer monitoring services in an amount not to exceed $140,395 during the initial term and all extension terms.",
+   "max_amount": 140395.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.1,
+   "keywords": [
+    "agreement",
+    "sole source"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=304",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=304#page=1",
    "stage": "undated",
    "days_until_meeting": null,
    "categories": [
@@ -27054,6 +28684,36 @@
    ]
   },
   {
+   "entity_id": "m-coralsprings",
+   "government": "Coral Springs",
+   "client": "pdf",
+   "body": "Coral Springs City Commission Regular Meeting - Jun 24, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.3",
+   "file_number": null,
+   "title": "15. Indoor Tactical Drones (Brad Mock) Request to award contract 25-A-231NC to purchase Indoor Tactical Drones from Brinc Drones, Inc. of Seattle, Washington on a sole source basis for a total amount of $84,996; and to authorize the purchasing manager to approve change orders that are within the designated procurement authority up to $75,000. Funding Source: Approved Capital with Grant Offset. Strategic Goal: Innovative, High-Performing and Sustainable Organization. (REQUEST TO AWARD, AUTHORIZE)",
+   "max_amount": 84996.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2.9,
+   "keywords": [
+    "contract",
+    "purchase",
+    "sole source"
+   ],
+   "meeting_url": "https://coralsprings.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=267",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=267#page=3",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
    "entity_id": "m-boyntonbeach",
    "government": "Boynton Beach",
    "client": "pdf",
@@ -27107,6 +28767,35 @@
    "agenda_pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3514",
    "found_utc": "2026-11-15T14:01:40+00:00",
    "link": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3514#page=2",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Jul 15, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "I. Proposed Resolution No. R25-181- Approve a resolution to award a Piggyback Agreement between the City and Armor Courts, LLC for furnishing and installation of acrylic coatings for outdoor sports surfaces for an annual expenditure of $60,000.",
+   "max_amount": 60000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2.8,
+   "keywords": [
+    "agreement",
+    "piggyback"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=292",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=292#page=1",
    "stage": "undated",
    "days_until_meeting": null,
    "categories": [
@@ -27225,6 +28914,35 @@
    "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1102",
    "found_utc": "2026-11-15T04:11:36+00:00",
    "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1102#page=43",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Jul 15, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "H. Proposed Resolution No. R25-180- Approving a Piggyback Agreement between the City and DoneRite Pumps, Inc. for Electric Motor Pump Repair & Installation Services in an amount not to exceed $45,000 annually until April 21, 2028.",
+   "max_amount": 45000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2.7,
+   "keywords": [
+    "agreement",
+    "piggyback"
+   ],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=292",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=292#page=1",
    "stage": "undated",
    "days_until_meeting": null,
    "categories": [
@@ -30399,6 +32117,89 @@
    "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1051",
    "found_utc": "2026-11-15T14:01:40+00:00",
    "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1051#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
+   "entity_id": "m-sunrise",
+   "government": "Sunrise",
+   "client": "pdf",
+   "body": "City Commission Meeting - Sep 24, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "A Resolution of the City of Sunrise, Florida, approving a \u201cPiggyback Agreement No. 24-27-08-LZ between the City of Sunrise and Global Equipment Company Inc.\u201d for the purchase of a Chemical Storage Unit Utilizing the Omnia Partners Contract #R211402; and providing an effective date. City Manager Mark Lubelski. Kevin Pickard, Director of Leisure Services.",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "agreement",
+    "contract",
+    "piggyback",
+    "purchase"
+   ],
+   "meeting_url": "https://sunrisefl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1042",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1042#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Aug 05, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "L. Approve the annual expenditure and authorize the Mayor to sign the renewal amendments for RFPs/Bids and/or piggybacks for the procurement of services and/or commodities as described in Exhibit A for August 5, 2025 - \"Request for Extensions and/or Piggybacks.\"",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=304",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=304#page=1",
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
+   "entity_id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "client": "pdf",
+   "body": "City Commission - Jul 15, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "Y. Approve the annual expenditure and authorize the Mayor to sign the renewal amendments for RFPs/Bids and/or piggybacks for the procurement of services and/or commodities as described in Exhibit A for July 15, 2025 - \" Request for Extensions and/or Piggybacks.\"",
+   "max_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://boynton-beach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=292",
+   "found_utc": "2026-11-15T15:44:56+00:00",
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=292#page=1",
    "stage": "undated",
    "days_until_meeting": null,
    "categories": [
