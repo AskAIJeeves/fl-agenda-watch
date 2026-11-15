@@ -3923,12 +3923,21 @@
      "amount": null,
      "text": "59. File No. BG26-28475 Resolution setting a public hearing for December 10, 2026 at 5:01 P.M., or as soon thereafter, in City Council Chambers, 315 E. Kennedy Blvd., 3rd Floor, Tampa, FL 33602, before Tampa City Council to consider the draft Consolidated Annual Performance and Evaluation Report to ",
      "link": "https://tampagov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/City_Council_Regular_-_November_19,_2026_2941_Agenda_11_19_2026_9_00_00_AM.pdf?documentType=1&meetingId=2941"
+    },
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": null,
+     "text": "11. Resolution 2026-013, CDBG FY 2026-2027 Annual Action Plan (Tina Jou) Request to hold a public hearing for public review and comment regarding the Community Development Block Grant FY 2026-2027 Annual Action Plan, adopt Resolution 2026-013 approving the Annual Action Plan, and authorize staff to ",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=321"
     }
    ],
    "governments": [
+    "Coral Springs",
     "Tampa"
    ],
-   "award_count": 1,
+   "award_count": 2,
    "total_amount": 0
   },
   "procure professional consulting services staff": {
@@ -4799,13 +4808,37 @@
      "amount": 50000.0,
      "text": "4. If City terminates this Agreement pursuant to the subsection 3 above, Raftelis shall be barred from being awarded a future contract by City for a period of one (1) year from the date on which this Agreement was terminated. In the event of such Agreement termination, Raftelis shall also be liable ",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1205"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 100000.0,
+     "text": "Statutes, as may be amended. The Artist shall maintain a copy of any such affidavit from a subcontractor for, at a minimum, the duration of the subcontract and any extension thereof. This provision shall not supersede any provision of this Agreement which requires a longer retention period. c. The C",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1200"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "22. Foreign Gifts and Contracts. Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Artist shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,000 or ",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1200"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "14.12.1 Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Artist shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,000 or more that was received or",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1200"
     }
    ],
    "governments": [
     "Sunrise"
    ],
-   "award_count": 14,
-   "total_amount": 750000.0
+   "award_count": 17,
+   "total_amount": 950000.0
   },
   "federal assistance sf": {
    "name": "Federal Assistance SF",
@@ -5833,12 +5866,20 @@
      "amount": null,
      "text": "C. Consideration of Termination of the Commercial Rent Reimbursement Grant Program to Potiwa Pizza LLC located in the Heart of Boynton Shops at 137 NE 10th Avenue, Unit 104",
      "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=363"
+    },
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "D. Consideration of the Commercial Property Improvement Grant Program to Potiwa Pizza LLC located in the Heart of Boynton Shops at 137 NE 10th Avenue, Unit 104",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=351"
     }
    ],
    "governments": [
     "Boynton Beach"
    ],
-   "award_count": 2,
+   "award_count": 3,
    "total_amount": 0
   },
   "bb qoz": {
@@ -5851,6 +5892,256 @@
      "amount": null,
      "text": "D. Consideration of Funding Request for BB QOZ, LLC for the 115 N. Federal Highway Mixed Use Project (The Pierce)",
      "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=363"
+    },
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "A. Consideration of Funding Request for BB QOZ, LLC for the 115 N. Federal Highway Mixed Use Project (The Pierce)",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=354"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 2,
+   "total_amount": 0
+  },
+  "daimler trucks north america": {
+   "name": "Daimler Trucks North America",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": 510277.0,
+     "text": "30. JIC Truck (Brad Mock) Request to award the purchase of one (1) JIC equipment truck to Daimler Trucks North America, LLC of Portland, Oregon through their authorized dealer, Trans-west d/b/a Transwest Truck Trailer RV of Brighton, Colorado via Sourcewell Contract No. 032824- DAI in an amount not ",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=321"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 510277.0
+  },
+  "expend strategic goal": {
+   "name": "Expend. Strategic Goal",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": null,
+     "text": "12. Resolution 2026-021, Amendment to State Housing Initiatives Partnership (SHIP) Local Housing Assistance Plan (LHAP) FY 2022-2025 (Tina Jou) Request to hold a public hearing and amend the FY 2022- 2025 Local Housing Assistance Plan (LHAP) to update the Rental Assistance strategy, adopt Resolution",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=321"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "installation maintenance decorative signposts": {
+   "name": "Installation and Maintenance of Decorative Signposts",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": null,
+     "text": "17. License Agreement, North Broward Hospital District d/b/a Broward Health for the Installation and Maintenance of Decorative Signposts on NW 31st Court, between University Drive and Coral Hills Drive (Chad Maraj) Request to approve the License Agreement between the City of Coral Springs and the No",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=321"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "school year": {
+   "name": "School Year",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Request to opt out of the Workforce Development Capitalization Incentive (CAP) Grant Proposal for School Year 2026-2027.",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=319"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "axon enterprise": {
+   "name": "Axon Enterprise",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": 465436.0,
+     "text": "19. Purchase of Drones and Docking Systems (Brad Mock) Request to waive the competitive procurement process consistent with Section 2-305.1(7) of the City Procurement Code and award the purchase of the Drones and Docking Systems to Axon Enterprise, Inc. of Scottsdale, Arizona for a total cost of $46",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=318"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 465436.0
+  },
+  "drone first responder program funding source": {
+   "name": "Drone First Responder Program. Funding Source",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": 296528.0,
+     "text": "18. Use of Forfeiture Funds (Brad Mock) Request to authorize the use of $296,528.60 in Law Enforcement Trust Funds to cover the purchase of three (3) drone docking stations for the Drone First Responder Program. Funding Source: Receiving Forfeiture to Expend. Strategic Goal: An Innovative, High-Perf",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=318"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 296528.0
+  },
+  "panthers": {
+   "name": "Panthers",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 1500.0,
+     "text": "TPMIB0212 1 C26033 SUNRISE, FLORIDA RESOLUTION NO. _______ A RESOLUTION OF THE CITY OF SUNRISE, FLORIDA, APPROVING A DESIGN PROPOSAL FOR THE PANTHERS ON THE PROWL PROJECT; APPROVING AN \u201cAGREEMENT FOR COMMISSION OF PUBLIC ART BETWEEN THE CITY OF SUNRISE, FLORIDA AND JEWELLERY BY NADINE LLC\u201d; AND PROV",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1200"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 1500.0
+  },
+  "artwork": {
+   "name": "Artwork",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "Contract for Artwork 6 of the grant or contract is 100,000.00 or more, Artist shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,000 or more that was received or in force during the previous five (5)",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1200"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "C. Artist agrees not to sell, transfer, or grant reproduction rights to the Artwork to Broward County or any other municipality in South Florida, including the right to reproduce the same design or use the Artwork in any other public spaces.",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1200"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 2,
+   "total_amount": 50000.0
+  },
+  "commercial business marketing grant program for trilogy mma fitness": {
+   "name": "Commercial Business Marketing Grant Program for Trilogy MMA Fitness",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "D. Approval of a 90-day Extension to the Commercial Business Marketing Grant Program for Trilogy MMA Fitness",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=354"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "cra development projects": {
+   "name": "CRA Development Projects",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "D. Annual Reports as required by the Tax Increment Revenue Funding Agreements for CRA Development Projects",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=351"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "commercial rent reimbursement grant program": {
+   "name": "Commercial Rent Reimbursement Grant Program",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "E. Approval of a Waiver for the Commercial Rent Reimbursement Grant Program to Bungalow at Boynton LLC d/b/a The Bungalow Bar & Grill located at 511 NE 4th Street",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=351"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "extension construction commencement": {
+   "name": "Extension of Construction Commencement",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "H. Approval of BB1 Development, LLC's Request for Extension of Construction Commencement per the First Amendment to the Tax Increment Revenue Funding Agreement for the Ocean One Project located at 114-222 N. Federal Highway",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=351"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "tax increment revenue funding agreement": {
+   "name": "Tax Increment Revenue Funding Agreement",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "I. Approval of the First Amendment to the Tax Increment Revenue Funding Agreement with BB North LLC for The Villages located at 405 E. Ocean Avenue",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=351"
     }
    ],
    "governments": [
@@ -5860,7 +6151,7 @@
    "total_amount": 0
   }
  },
- "generated_utc": "2026-11-15T02:57:23+00:00",
+ "generated_utc": "2026-11-15T03:10:03+00:00",
  "multi_government": [
   "section",
   "contractor",
@@ -5872,6 +6163,7 @@
   "florida department environmental protection",
   "supplier",
   "sourcewell",
-  "florida department transportation"
+  "florida department transportation",
+  "u s department housing urban development"
  ]
 }
