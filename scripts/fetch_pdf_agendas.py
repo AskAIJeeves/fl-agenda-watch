@@ -259,7 +259,7 @@ def main():
         for off in range(-7, 22):
             day = now + timedelta(days=off)
             for tpl in dt["urls"]:
-                u = tpl.format(Y=day.strftime("%Y"), m=day.strftime("%m"), d=day.strftime("%d"))
+                u = tpl.format(Y=day.strftime("%Y"), m=day.strftime("%m"), d=day.strftime("%d"), y=day.strftime("%y"))
                 if u in seen: continue
                 try:
                     data = fetch(u, binary=True)

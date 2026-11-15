@@ -139,40 +139,10 @@
    "entity_id": "c-volusia",
    "name": "Volusia County",
    "listing_urls": [
-    "https://www.volusia.org/government/county-council/county-council-agenda.stml",
-    "https://www.volusia.org/government/county-council/"
+    "https://vcservices.vcgov.org/agenda/agenda-minutes.asp"
    ],
-   "follow": "(?i)agenda.*\\.stml",
-   "pdf": "(?i)(\\.pdf|fileparse\\.php)"
-  },
-  {
-   "entity_id": "c-leon",
-   "name": "Leon County",
-   "listing_urls": [
-    "https://www2.leoncountyfl.gov/coadmin/agenda/list.asp"
-   ],
-   "follow": "(?i)agenda/(view|meeting|agenda)[^ ]*\\.asp",
-   "pdf": "(?i)\\.pdf"
-  },
-  {
-   "entity_id": "m-lakeland",
-   "name": "Lakeland",
-   "listing_urls": [
-    "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
-    "https://www.lakelandgov.net/government/city-commission/"
-   ],
-   "follow": "(?i)(commission-agendas|agenda)",
-   "pdf": "(?i)(\\.pdf|/media/\\d+)"
-  },
-  {
-   "entity_id": "m-westpalmbeach",
-   "name": "West Palm Beach",
-   "listing_urls": [
-    "https://www.wpb.org/government/city-clerk/commission-cra-agendas",
-    "https://www.wpb.org/Government/City-Clerk/Commission-CRA-Agendas"
-   ],
-   "follow": "(?i)agenda",
-   "pdf": "(?i)(\\.pdf|showpublisheddocument|DocumentCenter/View)"
+   "follow": "(?i)agenda[^/]*\\.asp\\?",
+   "pdf": "(?i)(\\.pdf|fileparse\\.php|getdoc|document)"
   }
  ],
  "sequential": [
@@ -269,6 +239,14 @@
    "urls": [
     "https://records.manateeclerk.com/BoardRecords/Browse/Agendas/Board-of-County-Commissioners/{Y}/{m}/BC{Y}{m}{d}DOC001.pdf"
    ]
+  },
+  {
+   "entity_id": "m-lakeland",
+   "name": "Lakeland",
+   "body": "City Commission",
+   "urls": [
+    "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/{Y}/{m}-{d}-{y}/{m}-{d}-{y} Agenda.pdf"
+   ]
   }
  ],
  "onbase": [
@@ -290,5 +268,6 @@
    "base": "https://egenda.scgov.net/OnBaseAgendaOnline",
    "skip": "(?i)special magistrate|code enforcement|value adjustment"
   }
- ]
+ ],
+ "_blocked": "Leon County (www2.leoncountyfl.gov) and West Palm Beach (wpb.org) return 403 to GitHub's servers."
 }
