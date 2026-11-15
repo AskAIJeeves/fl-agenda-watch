@@ -134,6 +134,45 @@
    ],
    "follow": "",
    "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)"
+  },
+  {
+   "entity_id": "c-volusia",
+   "name": "Volusia County",
+   "listing_urls": [
+    "https://www.volusia.org/government/county-council/county-council-agenda.stml",
+    "https://www.volusia.org/government/county-council/"
+   ],
+   "follow": "(?i)agenda.*\\.stml",
+   "pdf": "(?i)(\\.pdf|fileparse\\.php)"
+  },
+  {
+   "entity_id": "c-leon",
+   "name": "Leon County",
+   "listing_urls": [
+    "https://www2.leoncountyfl.gov/coadmin/agenda/list.asp"
+   ],
+   "follow": "(?i)agenda/(view|meeting|agenda)[^ ]*\\.asp",
+   "pdf": "(?i)\\.pdf"
+  },
+  {
+   "entity_id": "m-lakeland",
+   "name": "Lakeland",
+   "listing_urls": [
+    "https://www.lakelandgov.net/departments/city-clerk/city-commission-agendas/",
+    "https://www.lakelandgov.net/government/city-commission/"
+   ],
+   "follow": "(?i)(commission-agendas|agenda)",
+   "pdf": "(?i)(\\.pdf|/media/\\d+)"
+  },
+  {
+   "entity_id": "m-westpalmbeach",
+   "name": "West Palm Beach",
+   "listing_urls": [
+    "https://www.wpb.org/government/city-clerk/commission-cra-agendas",
+    "https://www.wpb.org/Government/City-Clerk/Commission-CRA-Agendas"
+   ],
+   "follow": "(?i)agenda",
+   "pdf": "(?i)(\\.pdf|showpublisheddocument|DocumentCenter/View)"
   }
  ],
  "sequential": [
