@@ -11,6 +11,30 @@ def load(name):
     p = ROOT / "data" / name
     return json.loads(p.read_text()) if p.exists() else {"items": []}
 
+EARLY = __import__("re").compile(r"(?i)workshop|work session|budget hearing|budget workshop|retreat|committee of the whole|agenda review|strategic planning")
+DEBT = __import__("re").compile(r"(?i)\b(bonds?|loan|debt|refund(ing)?|line of credit|note[s]? payable|financing)\b")
+
+def tag_stage_category(it, today):
+    md = it.get("meeting_date")
+    days = (datetime.fromisoformat(md).date() - today).days if md else None
+    early = bool(EARLY.search(it.get("body") or ""))
+    if days is None: stage = "undated"
+    elif days >= 0: stage = "early_warning" if early else "upcoming"
+    else: stage = "past_meeting"          # outcome of the vote is not verified
+    it["stage"], it["days_until_meeting"] = stage, days
+    sig = set(it.get("signals") or [])
+    cats = []
+    if it.get("outgoing_grant"): cats.append("outgoing_grant")
+    if it.get("bypass_competition"): cats.append("no_bid")
+    if "vanity" in sig: cats.append("vanity")
+    if "officials" in sig: cats.append("officials_perks")
+    if "facilities" in sig: cats.append("facilities")
+    if "consultants" in sig: cats.append("consultants")
+    if DEBT.search(it.get("title") or ""): cats.append("debt")
+    if "legal" in sig: cats.append("legal")
+    it["categories"] = cats or ["large_spending"]
+    return it
+
 def main():
     now = datetime.now(timezone.utc); today = now.date()
     items = load("agenda_items.json")["items"] + load("pdf_items.json")["items"]
@@ -26,12 +50,18 @@ def main():
         if not (recent_meeting or recent_find): continue
         key = (it["entity_id"], (it.get("title") or "")[:120])
         if key in seen: continue
-        seen.add(key); pool.append(it)
-    pool.sort(key=lambda x: -(x.get("signal_score") or 0))
+        seen.add(key); pool.append(tag_stage_category(it, today))
+    stage_rank = {"upcoming": 0, "early_warning": 0, "past_meeting": 1, "undated": 2}
+    pool.sort(key=lambda x: (stage_rank[x["stage"]], -(x.get("signal_score") or 0)))
     grants = [x for x in pool if x.get("outgoing_grant")]
     bypass = [x for x in pool if x.get("bypass_competition") and not x.get("outgoing_grant")]
     rest = [x for x in pool if not x.get("outgoing_grant") and not x.get("bypass_competition")][:150]
-    out = {"generated_utc": now.isoformat(timespec="seconds"), "counts": {"pool": len(pool), "outgoing_grants": len(grants), "bypass": len(bypass), "other_top": len(rest)},
+    from collections import Counter
+    out = {"generated_utc": now.isoformat(timespec="seconds"),
+           "counts": {"pool": len(pool), "outgoing_grants": len(grants), "bypass": len(bypass), "other_top": len(rest),
+                      "by_stage": dict(Counter(x["stage"] for x in pool)),
+                      "by_category": dict(Counter(c for x in pool for c in x["categories"]))},
+           "upcoming": sorted([x for x in pool if x["stage"] in ("upcoming", "early_warning")], key=lambda x: (x["days_until_meeting"], -(x.get("signal_score") or 0)))[:200],
            "outgoing_grants": grants, "bypass_competition": bypass, "other": rest}
     (ROOT / "data/candidates.json").write_text(json.dumps(out, indent=1))
 
