@@ -1,27 +1,27 @@
 {
- "generated_utc": "2026-11-15T01:25:26+00:00",
- "count": 81,
+ "generated_utc": "2026-11-15T01:42:40+00:00",
+ "count": 169,
  "governments": {
   "m-fortlauderdale": {
    "name": "Fort Lauderdale",
    "status": "ok",
    "client": "fortlauderdale",
    "events": 5,
-   "flagged": 4
+   "flagged": 10
   },
   "c-broward": {
    "name": "Broward County",
    "status": "ok",
    "client": "broward",
    "events": 2,
-   "flagged": 11
+   "flagged": 20
   },
   "c-pinellas": {
    "name": "Pinellas County",
    "status": "ok",
    "client": "pinellas",
    "events": 2,
-   "flagged": 1
+   "flagged": 0
   },
   "c-hillsborough": {
    "name": "Hillsborough County",
@@ -35,14 +35,14 @@
    "status": "ok",
    "client": "clearwater",
    "events": 5,
-   "flagged": 2
+   "flagged": 5
   },
   "m-jacksonville": {
    "name": "Jacksonville",
    "status": "ok",
    "client": "jaxcityc",
    "events": 10,
-   "flagged": 47
+   "flagged": 128
   },
   "m-pinellaspark": {
    "name": "Pinellas Park",
@@ -77,14 +77,14 @@
    "status": "ok",
    "client": "seminolecountyfl",
    "events": 5,
-   "flagged": 6
+   "flagged": 14
   },
   "c-polk": {
    "name": "Polk County",
    "status": "ok",
    "client": "polkcountyfl",
    "events": 2,
-   "flagged": 6
+   "flagged": 10
   },
   "c-lake": {
    "name": "Lake County",
@@ -103,28 +103,28 @@
    "status": "ok",
    "client": "miramar",
    "events": 2,
-   "flagged": 4
+   "flagged": 12
   },
   "m-deltona": {
    "name": "Deltona",
    "status": "ok",
    "client": "deltona",
    "events": 9,
-   "flagged": 8
+   "flagged": 1
   },
   "m-northport": {
    "name": "North Port",
    "status": "ok",
    "client": "cityofnorthport",
    "events": 16,
-   "flagged": 18
+   "flagged": 14
   },
   "m-doral": {
    "name": "Doral",
    "status": "ok",
    "client": "doral",
    "events": 1,
-   "flagged": 5
+   "flagged": 11
   },
   "m-miami": {
    "name": "Miami",
@@ -138,21 +138,21 @@
    "status": "ok",
    "client": "ppines",
    "events": 2,
-   "flagged": 1
+   "flagged": 2
   },
   "c-orange": {
    "name": "Orange County",
    "status": "ok",
    "client": "occompt",
    "events": 2,
-   "flagged": 12
+   "flagged": 19
   },
   "m-portstlucie": {
    "name": "Port St. Lucie",
    "status": "ok",
    "client": "psl",
    "events": 10,
-   "flagged": 7
+   "flagged": 2
   }
  }
 }
