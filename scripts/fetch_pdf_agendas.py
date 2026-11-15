@@ -142,15 +142,30 @@ def scan_platforms(cfg, store, seen, debug, now):
             if n >= cap: break
             mdate = (m.get("StartDate") or "")[:10].replace("/", "-")
             mu = f"https://{g['host']}/Meeting.aspx?Id={m['ID']}&Agenda=Agenda&lang=English"
-            u = mu
+            if mu in seen: continue
+            import http.cookiejar
+            jar = http.cookiejar.CookieJar(); op = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(jar))
             try:
-                page = fetch(mu)
-                pdfs = re.findall(r'(FileStream\.ashx\?DocumentId=\d+)', page)
-                d.setdefault("pages_seen", []).append({"meeting": m["MeetingName"], "chars": len(page), "filestreams": pdfs[:5]})
-                if pdfs: u = f"https://{g['host']}/{pdfs[0]}"
+                page = op.open(urllib.request.Request(mu, headers=UA), timeout=60).read()
+                pdfs = re.findall(rb'(FileStream\.ashx\?DocumentId=\d+)', page)
+                data = None
+                if pdfs:
+                    fu = f"https://{g['host']}/{pdfs[0].decode()}"
+                    try: data = op.open(urllib.request.Request(fu, headers={**UA, "Referer": mu}), timeout=90).read()
+                    except Exception as e: d["errors"].append(f"filestream: {e}")
+                if data and data[:4] == b"%PDF": pages = pdf_text(data, cfg["max_pages_per_pdf"]); src = fu
+                else: pages = html_text(page); src = mu
+                hits = passages(pages)[:60]
+                for pno, tags, ch in hits:
+                    store["items"].append({"entity_id": g["entity_id"], "government": g["name"], "client": "escribe", "body": m["MeetingName"],
+                        "meeting_date": mdate, "agenda_number": f"p.{pno}", "file_number": None, "title": ch, **tags,
+                        "keywords": sorted({mm.group(0).lower() for mm in KEYWORDS.finditer(ch)}),
+                        "meeting_url": mu, "agenda_pdf": src, "found_utc": now.isoformat(timespec="seconds")})
+                if mdate < now.date().isoformat(): seen[mu] = {"status": "ok", "hits": len(hits), "date": now.date().isoformat()}
+                d["scanned"].append({"doc": src[-80:], "meeting": m["MeetingName"], "date": mdate, "pages": len(pages), "hits": len(hits), "pdf": src != mu})
             except Exception as e:
-                d["errors"].append(f"meeting page: {e}")
-            if u not in seen: scan_doc(store, seen, d, cfg, now, g["entity_id"], g["name"], "escribe", m["MeetingName"], mdate, u, mu); n += 1
+                d["errors"].append(f"meeting {m['ID']}: {e}")
+            n += 1; time.sleep(1)
     # PrimeGov: upcoming + this year's archive JSON; compiled agenda PDF per meeting
     for g in cfg.get("primegov", []):
         d = debug[g["entity_id"] + ":primegov"] = {"name": g["name"], "platform": "primegov", "meetings": 0, "scanned": [], "errors": []}
@@ -170,21 +185,19 @@ def scan_platforms(cfg, store, seen, debug, now):
     # iQM2: calendar RSS (HTML view), meeting detail page, agenda FileOpen Type=1
     for g in cfg.get("iqm2", []):
         d = debug[g["entity_id"] + ":iqm2"] = {"name": g["name"], "platform": "iqm2", "meetings": 0, "scanned": [], "errors": []}
-        rss = ""
-        for attempt in range(2):
-            try:
-                with OPENER.open(urllib.request.Request(f"https://{g['host']}/Services/RSS.aspx?Feed=Calendar", headers=UA), timeout=150) as r:
-                    rss = r.read().decode("utf-8", "replace"); break
-            except Exception as e:
-                d["errors"].append(f"rss try {attempt}: {e}")
-        if not rss: continue
-        ms = re.findall(r"<h2>([^<]+)</h2>.*?Detail_Meeting\.aspx\?ID=(\d+)", rss, re.S)
+        try: portal = fetch(f"https://{g['host']}/Citizens/Default.aspx")
+        except Exception as e: d["errors"].append(f"portal: {e}"); continue
+        ids = sorted({int(x) for x in re.findall(r"Detail_Meeting\.aspx\?ID=(\d+)", portal)}, reverse=True)[:25]
         out = []
-        for title, mid in ms:
-            dm = re.search(r"([A-Z][a-z]{2}) (\d{1,2}), (20\d\d)", title)
+        for mid in ids:
+            try: page = fetch(f"https://{g['host']}/Citizens/Detail_Meeting.aspx?ID={mid}")
+            except Exception as e: d["errors"].append(f"meeting {mid}: {e}"); continue
+            t = re.search(r"<title>\s*([^<]+?)\s*</title>", page)
+            title = (t.group(1) if t else "").replace(" - Web Outline", "").strip()
+            dm = re.search(r"(20\d\d)/(\d\d)/(\d\d)", title)
             if not dm: continue
-            mdate = datetime.strptime(" ".join(dm.groups()), "%b %d %Y").date().isoformat()
-            if t0 <= mdate <= t1 and not skip.search(title): out.append((title.strip(), mid, mdate))
+            mdate = f"{dm[1]}-{dm[2]}-{dm[3]}"
+            if t0 <= mdate <= t1 and not skip.search(title) and re.search(r"FileOpen\.aspx\?Type=1&", page): out.append((title, str(mid), mdate))
         d["meetings"] = len(out); n = 0
         for title, mid, mdate in out:
             if n >= cap: break
