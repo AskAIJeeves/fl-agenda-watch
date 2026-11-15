@@ -29,6 +29,11 @@ Run manually from the Actions tab with "Run workflow".
 | Date-patterned PDFs | fetch_pdf_agendas.py | Palm Beach County, Manatee County |
 | OnBase Agenda Online | fetch_pdf_agendas.py | Tampa, Osceola County, Sarasota County (older version, HTML fallback) (uses the DownloadFileBytes endpoint; DownloadFile returns a spinner page) |
 
-Not yet covered: Orlando, St. Johns County and Cape Coral (eScribe), Pasco County, Daytona Beach, Largo and Miami Gardens (CivicWeb), Miami (iQM2), Miami Beach (PrimeGov), Oldsmar (CivicWeb).
+| CivicWeb | fetch_pdf_agendas.py | Daytona Beach, Largo, Miami Gardens (meeting list via MeetingsService.svc JSON) |
+| eScribe | fetch_pdf_agendas.py | Orlando, St. Johns County, Cape Coral, Alachua County. Agenda PDFs sit behind a Cloudflare browser check, so only HTML item titles are read (no dollar amounts) |
+| PrimeGov | fetch_pdf_agendas.py | Miami Beach, Palm Coast (CompiledDocument PDF) |
+| iQM2 | fetch_pdf_agendas.py | Miami, Okaloosa County. Portal often times out for GitHub's servers |
+
+Not yet covered: Pasco County FL (pasco.civicweb.net is Pasco, Washington), Volusia (search form), Leon and West Palm Beach (block GitHub), St. Lucie and Fort Myers (Laserfiche), Brevard, Miami (iQM2), Miami Beach (PrimeGov), Oldsmar (CivicWeb).
 
 `scripts/probe_platforms.py` (Actions tab, "Platform probe") tests governments listed in `config/probe_list.json` against common platforms. Its Novus check gives false positives.
