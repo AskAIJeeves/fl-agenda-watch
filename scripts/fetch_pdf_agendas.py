@@ -52,7 +52,9 @@ def links(url):
             tt = re.search(r"(?is)<title>\s*(?:<!\[CDATA\[)?(.*?)(?:\]\]>)?\s*</title>", item)
             if lk: out.append((urllib.parse.urljoin(url, lk.group(1).strip().replace("&amp;", "&")), (tt.group(1).strip() if tt else "")))
         return out
-    p = Links(url); p.feed(body); return p.out
+    b = re.search(r'(?i)<base\s+href=["\']([^"\']+)', body)   # honor <base href>
+    p = Links(b.group(1) if b else url); p.feed(body)
+    return [(u, t) for u, t in p.out if not re.search(r"(?i)facebook\.com|twitter\.com|x\.com/intent|#", u)]
 
 def pdf_text(data, max_pages):
     reader = PdfReader(io.BytesIO(data))

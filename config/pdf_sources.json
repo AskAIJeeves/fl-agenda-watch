@@ -151,8 +151,8 @@
    "listing_urls": [
     "https://www.pascocountyfl.gov/government/agendas___minutes_.php"
    ],
-   "follow": "(?i)(agenda|bcc|board_of_county|meeting)",
-   "pdf": "(?i)(\\.pdf|revize\\.com/.*\\.pdf|DocumentCenter|AgendaCenter/ViewFile)"
+   "follow": "(?i)(agenda|civicplus|civicclerk|municode|meeting|granicus|legistar|boarddocs)",
+   "pdf": "(?i)(\\.pdf|AgendaCenter/ViewFile|FileOpen|DownloadFile|filestream)"
   }
  ],
  "sequential": [
