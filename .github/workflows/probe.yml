@@ -6,13 +6,13 @@ permissions:
 jobs:
   probe:
     runs-on: ubuntu-latest
-    timeout-minutes: 20
+    timeout-minutes: 45
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python scripts/probe_platform_endpoints.py
+      - run: python scripts/probe_granicus.py
       - name: Commit results
         run: |
           git config user.name "agenda-bot"
