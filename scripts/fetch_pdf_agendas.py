@@ -116,13 +116,19 @@ def scan_doc(store, seen, d, cfg, now, eid, gname, client, body, mdate, u, meeti
 
 def eagenda_docs(g, start, end, max_pages=1):
     """Hillsborough-style eAgenda portal: search results table rows -> (date, document URL, meeting name).
-    Results are newest first; stop paging once dates fall before start."""
+    The search page sets a session; later result pages need its cookie. Results are newest first;
+    paging stops once dates fall before start."""
+    import http.cookiejar
+    op = urllib.request.build_opener(urllib.request.HTTPCookieProcessor(http.cookiejar.CookieJar()))
+    get = lambda u: op.open(urllib.request.Request(u, headers=UA), timeout=60).read().decode("utf-8", "replace")
     out, base = [], g["base"].rstrip("/")
+    row_rx = re.compile(r'href="(/portal/[^"]+/open/OBJ\w+)".*?<span title="(\d\d)/(\d\d)/(\d{4})">.*?<span title="[^"]*">([^<]*)<', re.S)
     for mt in g.get("meeting_types", ["Regular BOCC Meeting"]):
+        q = {"F_MeetingType": mt, "F_DocType": g.get("doc_type", "Agenda")}
         for page in range(1, max_pages + 1):
-            q = urllib.parse.urlencode({"F_MeetingType": mt, "F_DocType": g.get("doc_type", "Agenda"), "d-1334500-p": page})
-            html = fetch(f"{base}/results?{q}")
-            rows = re.findall(r'href="(/portal/[^"]+/open/OBJ\w+)".*?<span title="(\d\d)/(\d\d)/(\d{4})">.*?<span title="Meeting">([^<]*)<', html, re.S)
+            u = f"{base}/search?{urllib.parse.urlencode(q)}" if page == 1 else \
+                f"{base}/results?{urllib.parse.urlencode({**q, 'd-1334500-p': page})}"
+            rows = row_rx.findall(get(u))
             if not rows: break
             oldest = None
             for path, mm, dd, yy, name in rows:
@@ -130,7 +136,8 @@ def eagenda_docs(g, start, end, max_pages=1):
                 if start <= dt <= end:
                     out.append((dt, urllib.parse.urljoin(base + "/", path), f"{mt}: {name.strip()}"))
             if oldest and oldest < start: break
-    return out
+            time.sleep(1)
+    return list(dict.fromkeys(out))
 
 
 def scan_platforms(cfg, store, seen, debug, now):
