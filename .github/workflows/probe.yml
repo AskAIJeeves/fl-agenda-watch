@@ -13,7 +13,9 @@ jobs:
         with:
           python-version: "3.12"
       - run: pip install openpyxl
-      - run: python scripts/build_budgets.py
+      - run: python scripts/probe_platforms_fl.py
+        env:
+          TARGETED: "1"
       - name: Commit results
         run: |
           git config user.name "agenda-bot"

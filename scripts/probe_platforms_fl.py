@@ -30,9 +30,10 @@ def get(url):
 def names(name, county):
     b = slug(name)
     if county:
-        return {"base": [f"{b}county", f"{b}countyfl", f"{b}co", f"{b}cofl", f"{b}bocc", b],
-                "fl": [f"{b}cofl", f"{b}countyfl", f"{b}county"]}
-    return {"base": [b, f"{b}fl", f"cityof{b}", f"{b}florida"], "fl": [f"{b}fl", f"cityof{b}fl", b]}
+        return {"base": [f"{b}county", f"{b}countyfl", f"{b}fl", f"{b}co", f"{b}cofl", f"{b}bocc", f"my{b}", b],
+                "fl": [f"{b}cofl", f"{b}countyfl", f"{b}county", f"{b}fl"]}
+    return {"base": [b, f"{b}fl", f"cityof{b}", f"cityof{b}fl", f"{b}florida", f"{b}gov", f"my{b}"],
+            "fl": [f"{b}fl", f"cityof{b}fl", b, f"cityof{b}"]}
 
 
 def check(name, county):
@@ -46,6 +47,14 @@ def check(name, county):
         st, body = get(f"https://{t}.api.civicclerk.com/v1/Events?$top=1")
         if st == 200 and '"value"' in body:
             hits.append({"platform": "civicclerk", "tenant": t})
+            break
+    for h in n["base"][:5]:                                       # Granicus (agenda RSS)
+        for vid in (1, 2, 3):
+            st, body = get(f"https://{h}.granicus.com/ViewPublisherRSS.php?view_id={vid}&mode=agendas")
+            if st == 200 and body.count("<item>") > 3 and ("FL" in body[:3000] or "Florida" in body[:3000]):
+                hits.append({"platform": "granicus", "host": f"{h}.granicus.com", "view_id": vid, "items": body.count("<item>")})
+                break
+        if hits and hits[-1]["platform"] == "granicus":
             break
     for h in n["base"][:3] + n["fl"][:1]:                         # PrimeGov
         st, body = get(f"https://{h}.primegov.com/api/v2/PublicPortal/ListUpcomingMeetings")
@@ -81,7 +90,20 @@ def covered():
     return out
 
 
+TARGETS = [("Brevard", True), ("Volusia", True), ("Marion", True), ("Leon", True), ("Clay", True), ("DeSoto", True),
+           ("Manatee", True), ("Hialeah", False), ("West Palm Beach", False), ("Palm Bay", False), ("Pompano Beach", False),
+           ("Fort Myers", False), ("Lauderhill", False), ("Sarasota", False), ("Panama City", False), ("Naples", False),
+           ("Homestead", False), ("DeLand", False), ("Temple Terrace", False), ("Miami Gardens", False), ("Largo", False)]
+
+
 def main():
+    import os
+    if os.environ.get("TARGETED"):
+        res = [check(n, c) for n, c in TARGETS]
+        (ROOT / "data/platform_probe_targeted.json").write_text(json.dumps(res, indent=1))
+        for r in res:
+            print(r["name"], r["hits"])
+        return
     have = covered()
     cands = [(c.strip(), False) for c in CITIES.split(",") if c.strip()] + \
             [(c.strip(), True) for c in COUNTIES.split(",") if c.strip()]
