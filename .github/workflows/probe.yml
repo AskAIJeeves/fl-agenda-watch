@@ -12,7 +12,10 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python scripts/probe_granicus.py
+      - run: pip install openpyxl
+      - run: python scripts/inspect_edr.py
+        continue-on-error: true
+      - run: python scripts/probe_platforms_fl.py
       - name: Commit results
         run: |
           git config user.name "agenda-bot"
