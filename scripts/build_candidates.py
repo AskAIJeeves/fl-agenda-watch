@@ -43,6 +43,9 @@ def budget_of(eid):
     return (_BUD.get(eid) or {}).get("general_fund_expenditures")
 
 def tag_stage_category(it, today):
+    fresh = rules.classify(it.get("title") or "")       # re-apply current rules (new signals, flow) to stored items
+    if fresh:
+        it.update(fresh)
     it["link"] = best_link(it)
     it["id"] = archive_key(it)        # same key as data/archive and the review queue
     it["project_id"], it["project_total"] = project_of(it["id"])
