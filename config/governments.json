@@ -183,6 +183,20 @@
    "candidates": [
     "charlottecountyfl"
    ]
+  },
+  {
+   "entity_id": "c-marion",
+   "name": "Marion County",
+   "candidates": [
+    "marionfl"
+   ]
+  },
+  {
+   "entity_id": "m-pompanobeach",
+   "name": "Pompano Beach",
+   "candidates": [
+    "pompano"
+   ]
   }
  ]
 }

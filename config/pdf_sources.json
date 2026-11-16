@@ -927,6 +927,15 @@
    "urls": [
     "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/{Y}/{m}-{d}-{y}/{m}-{d}-{y} Agenda.pdf"
    ]
+  },
+  {
+   "entity_id": "c-leon",
+   "name": "Leon County",
+   "body": "Board of County Commissioners",
+   "urls": [
+    "https://www2.leoncountyfl.gov/coadmin/agenda/book/{y}{m}{d}/revisedagendaoutline.pdf",
+    "https://www2.leoncountyfl.gov/coadmin/agenda/book/{y}{m}{d}/RevisedAgendaOutline.pdf"
+   ]
   }
  ],
  "onbase": [

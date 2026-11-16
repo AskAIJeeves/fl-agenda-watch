@@ -406,7 +406,9 @@ def main():
                 try:
                     data = fetch(u, binary=True)
                     if not data[:5].startswith(b"%PDF"): continue
-                except Exception:
+                except Exception as e:
+                    if "404" not in str(e) and len(d["errors"]) < 3:
+                        d["errors"].append(f"{u}: {str(e)[:100]}")   # e.g. blocked (403) rather than simply absent
                     continue
                 d["found"].append(u)
                 try:
