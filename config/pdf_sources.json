@@ -666,6 +666,251 @@
    "entity_id": "c-pasco",
    "name": "Pasco County",
    "tenant": "pascocofl"
+  },
+  {
+   "entity_id": "m-jupiter",
+   "name": "Jupiter",
+   "tenant": "jupiterfl"
+  },
+  {
+   "entity_id": "m-portorange",
+   "name": "Port Orange",
+   "tenant": "portorangefl"
+  },
+  {
+   "entity_id": "m-apopka",
+   "name": "Apopka",
+   "tenant": "apopkafl"
+  },
+  {
+   "entity_id": "m-ocoee",
+   "name": "Ocoee",
+   "tenant": "ocoeefl"
+  },
+  {
+   "entity_id": "m-wintergarden",
+   "name": "Winter Garden",
+   "tenant": "wintergardenfl"
+  },
+  {
+   "entity_id": "m-stcloud",
+   "name": "St. Cloud",
+   "tenant": "stcloudfl"
+  },
+  {
+   "entity_id": "m-titusville",
+   "name": "Titusville",
+   "tenant": "titusvillefl"
+  },
+  {
+   "entity_id": "m-ormondbeach",
+   "name": "Ormond Beach",
+   "tenant": "ormondbeachfl"
+  },
+  {
+   "entity_id": "m-greenacres",
+   "name": "Greenacres",
+   "tenant": "greenacresfl"
+  },
+  {
+   "entity_id": "m-destin",
+   "name": "Destin",
+   "tenant": "destinfl"
+  },
+  {
+   "entity_id": "m-fortwaltonbeach",
+   "name": "Fort Walton Beach",
+   "tenant": "fortwaltonbeachfl"
+  },
+  {
+   "entity_id": "m-crestview",
+   "name": "Crestview",
+   "tenant": "crestviewfl"
+  },
+  {
+   "entity_id": "m-leesburg",
+   "name": "Leesburg",
+   "tenant": "leesburgfl"
+  },
+  {
+   "entity_id": "m-clermont",
+   "name": "Clermont",
+   "tenant": "clermontfl"
+  },
+  {
+   "entity_id": "m-eustis",
+   "name": "Eustis",
+   "tenant": "eustisfl"
+  },
+  {
+   "entity_id": "m-mountdora",
+   "name": "Mount Dora",
+   "tenant": "mountdorafl"
+  },
+  {
+   "entity_id": "m-bartow",
+   "name": "Bartow",
+   "tenant": "bartowfl"
+  },
+  {
+   "entity_id": "m-zephyrhills",
+   "name": "Zephyrhills",
+   "tenant": "zephyrhillsfl"
+  },
+  {
+   "entity_id": "m-staugustine",
+   "name": "St. Augustine",
+   "tenant": "staugustinefl"
+  },
+  {
+   "entity_id": "m-fernandinabeach",
+   "name": "Fernandina Beach",
+   "tenant": "fernandinabeachfl"
+  },
+  {
+   "entity_id": "m-jacksonvillebeach",
+   "name": "Jacksonville Beach",
+   "tenant": "jacksonvillebeachfl"
+  },
+  {
+   "entity_id": "m-lakemary",
+   "name": "Lake Mary",
+   "tenant": "lakemaryfl"
+  },
+  {
+   "entity_id": "m-casselberry",
+   "name": "Casselberry",
+   "tenant": "casselberryfl"
+  },
+  {
+   "entity_id": "m-longwood",
+   "name": "Longwood",
+   "tenant": "longwoodfl"
+  },
+  {
+   "entity_id": "m-cocoa",
+   "name": "Cocoa",
+   "tenant": "cocoafl"
+  },
+  {
+   "entity_id": "m-lakepark",
+   "name": "Lake Park",
+   "tenant": "lakeparkfl"
+  },
+  {
+   "entity_id": "m-wiltonmanors",
+   "name": "Wilton Manors",
+   "tenant": "wiltonmanorsfl"
+  },
+  {
+   "entity_id": "m-daniabeach",
+   "name": "Dania Beach",
+   "tenant": "daniabeachfl"
+  },
+  {
+   "entity_id": "m-parkland",
+   "name": "Parkland",
+   "tenant": "parklandfl"
+  },
+  {
+   "entity_id": "m-lighthousepoint",
+   "name": "Lighthouse Point",
+   "tenant": "lighthousepointfl"
+  },
+  {
+   "entity_id": "m-opalocka",
+   "name": "Opa-locka",
+   "tenant": "opalockafl"
+  },
+  {
+   "entity_id": "m-lakecity",
+   "name": "Lake City",
+   "tenant": "lakecityfl"
+  },
+  {
+   "entity_id": "m-palatka",
+   "name": "Palatka",
+   "tenant": "palatkafl"
+  },
+  {
+   "entity_id": "m-lynnhaven",
+   "name": "Lynn Haven",
+   "tenant": "lynnhavenfl"
+  },
+  {
+   "entity_id": "m-tavares",
+   "name": "Tavares",
+   "tenant": "tavaresfl"
+  },
+  {
+   "entity_id": "m-groveland",
+   "name": "Groveland",
+   "tenant": "grovelandfl"
+  },
+  {
+   "entity_id": "m-minneola",
+   "name": "Minneola",
+   "tenant": "minneolafl"
+  },
+  {
+   "entity_id": "m-inverness",
+   "name": "Inverness",
+   "tenant": "invernessfl"
+  },
+  {
+   "entity_id": "m-wildwood",
+   "name": "Wildwood",
+   "tenant": "wildwoodfl"
+  },
+  {
+   "entity_id": "c-collier",
+   "name": "Collier County",
+   "tenant": "colliercofl"
+  },
+  {
+   "entity_id": "c-flagler",
+   "name": "Flagler County",
+   "tenant": "flaglercofl"
+  },
+  {
+   "entity_id": "c-nassau",
+   "name": "Nassau County",
+   "tenant": "nassaucofl"
+  },
+  {
+   "entity_id": "c-santarosa",
+   "name": "Santa Rosa County",
+   "tenant": "santarosacofl"
+  },
+  {
+   "entity_id": "c-indianriver",
+   "name": "Indian River County",
+   "tenant": "indianrivercofl"
+  },
+  {
+   "entity_id": "c-stlucie",
+   "name": "St. Lucie County",
+   "tenant": "stluciecofl"
+  },
+  {
+   "entity_id": "c-highlands",
+   "name": "Highlands County",
+   "tenant": "highlandscofl"
+  },
+  {
+   "entity_id": "c-levy",
+   "name": "Levy County",
+   "tenant": "levycofl"
+  },
+  {
+   "entity_id": "c-jackson",
+   "name": "Jackson County",
+   "tenant": "jacksoncofl"
+  },
+  {
+   "entity_id": "c-suwannee",
+   "name": "Suwannee County",
+   "tenant": "suwanneecofl"
   }
  ],
  "_platforms_checked": "CivicPlus Agenda Center RSS feeds were empty for Tarpon Springs, Safety Harbor, Oldsmar, St. Pete Beach (they use other systems). Oldsmar uses CivicWeb (myoldsmar.civicweb.net).",
@@ -753,6 +998,16 @@
    "entity_id": "c-alachua",
    "name": "Alachua County",
    "host": "pub-alachuacounty.escribemeetings.com"
+  },
+  {
+   "entity_id": "m-miamilakes",
+   "name": "Miami Lakes",
+   "host": "pub-miamilakes.escribemeetings.com"
+  },
+  {
+   "entity_id": "m-hainescity",
+   "name": "Haines City",
+   "host": "pub-hainescity.escribemeetings.com"
   }
  ],
  "primegov": [
@@ -765,6 +1020,26 @@
    "entity_id": "m-palmcoast",
    "name": "Palm Coast",
    "host": "palmcoast.primegov.com"
+  },
+  {
+   "entity_id": "m-northmiami",
+   "name": "North Miami",
+   "host": "northmiami.primegov.com"
+  },
+  {
+   "entity_id": "m-oviedo",
+   "name": "Oviedo",
+   "host": "cityofoviedo.primegov.com"
+  },
+  {
+   "entity_id": "m-lauderdalelakes",
+   "name": "Lauderdale Lakes",
+   "host": "lauderdalelakesfl.primegov.com"
+  },
+  {
+   "entity_id": "c-bay",
+   "name": "Bay County",
+   "host": "baycountyfl.primegov.com"
   }
  ],
  "iqm2": [

@@ -162,6 +162,27 @@
    "candidates": [
     "psl"
    ]
+  },
+  {
+   "entity_id": "m-plantcity",
+   "name": "Plant City",
+   "candidates": [
+    "plantcity"
+   ]
+  },
+  {
+   "entity_id": "m-aventura",
+   "name": "Aventura",
+   "candidates": [
+    "cityofaventura"
+   ]
+  },
+  {
+   "entity_id": "c-charlotte",
+   "name": "Charlotte County",
+   "candidates": [
+    "charlottecountyfl"
+   ]
   }
  ]
 }

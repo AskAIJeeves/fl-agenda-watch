@@ -14,6 +14,10 @@ from fetch_agendas import KEYWORDS
 import rules  # shared filters
 T0 = time.time()
 SOURCES_BUDGET = 25 * 60   # listing-page sources stop fetching new PDFs after this; the rest wait for the next run
+PDF_BUDGET = 38 * 60       # all platforms stop fetching new documents after this, so the job finishes and commits
+
+def cap_n(n):
+    return n if time.time() - T0 < PDF_BUDGET else 0
 
 ACTION = re.compile(r"(?i)\b(approv\w*|award\w*|authoriz\w*|not[- ]to[- ]exceed|contract|agreement|amendment|change order|purchase|resolution|ordinance|appropriat\w*|bond|loan)\b")
 UA = {"User-Agent": "Mozilla/5.0 (fl-agenda-watch; public records research)"}
@@ -258,7 +262,7 @@ def main():
             except ValueError: pass
             return None
         recent = [c for c in cands if not udate(c[0]) or (now - udate(c[0])).days <= 45]
-        new = [c for c in recent if c[0] not in seen][: cfg["max_new_pdfs_per_run"]]
+        new = [c for c in recent if c[0] not in seen][: cap_n(cfg["max_new_pdfs_per_run"])]
         if time.time() - T0 > SOURCES_BUDGET:
             d.setdefault("errors", []).append("time budget reached; new PDFs deferred to next run")
             new = []
@@ -306,7 +310,7 @@ def main():
                     u = f"{base}/Meetings/GetMeetingFileStream(fileId={f['fileId']},plainText=false)"
                     todo.append((u, ev.get("eventName") or ev.get("categoryName"), (ev.get("startDateTime") or "")[:10]))
         d["files"] = [t[0] for t in todo[:10]]
-        for u, body, mdate in [t for t in todo if t[0] not in seen][: cfg["max_new_pdfs_per_run"]]:
+        for u, body, mdate in [t for t in todo if t[0] not in seen][: cap_n(cfg["max_new_pdfs_per_run"])]:
             try:
                 data = fetch(u, binary=True)
                 if not data[:5].startswith(b"%PDF"):
@@ -372,7 +376,7 @@ def main():
             u = f"{ob['base']}/Documents/DownloadFileBytes/{urllib.parse.quote(m['AgendaUniqueName'], safe=',')}.pdf?documentType=1&meetingId={m['ID']}"
             todo.append((u, m["Name"], when.date().isoformat(), m["ID"]))
         d["with_agenda"] = len(todo)
-        for u, body, mdate, mid in [t for t in todo if t[0] not in seen][: cfg["max_new_pdfs_per_run"] + 2]:
+        for u, body, mdate, mid in [t for t in todo if t[0] not in seen][: cap_n(cfg["max_new_pdfs_per_run"] + 2)]:
             try:
                 data = fetch(u, binary=True)
                 if not data[:5].startswith(b"%PDF"):
