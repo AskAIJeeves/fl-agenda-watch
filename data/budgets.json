@@ -1,0 +1,1246 @@
+{
+ "source": "Florida EDR, compiled from DFS Annual Financial Reports",
+ "governments": {
+  "c-alachua": {
+   "name": "Alachua County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 301486969,
+   "total_expenditures": 1519396684,
+   "population": 298485,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/alachuacountyexpenditures.xlsx"
+  },
+  "c-bay": {
+   "name": "Bay County",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 228721668,
+   "total_expenditures": 1103016512,
+   "population": 196112,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/baycountyexpenditures.xlsx"
+  },
+  "c-broward": {
+   "name": "Broward County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 1932826044,
+   "total_expenditures": 10940422685,
+   "population": 1993535,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/browardcountyexpenditures.xlsx"
+  },
+  "c-charlotte": {
+   "name": "Charlotte County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 295690311,
+   "total_expenditures": 1901661454,
+   "population": 223430,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/charlottecountyexpenditures.xlsx"
+  },
+  "c-collier": {
+   "name": "Collier County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 591985007,
+   "total_expenditures": 2956168053,
+   "population": 413314,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/colliercountyexpenditures.xlsx"
+  },
+  "c-desoto": {
+   "name": "DeSoto County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 49290032,
+   "total_expenditures": 134382892,
+   "population": 35947,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/desotocountyexpenditures.xlsx"
+  },
+  "c-escambia": {
+   "name": "Escambia County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 299490946,
+   "total_expenditures": 1299750645,
+   "population": 337728,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/escambiacountyexpenditures.xlsx"
+  },
+  "c-flagler": {
+   "name": "Flagler County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 162272713,
+   "total_expenditures": 632860465,
+   "population": 140714,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/flaglercountyexpenditures.xlsx"
+  },
+  "c-gadsden": {
+   "name": "Gadsden County",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 41142440,
+   "total_expenditures": 117294055,
+   "population": 44853,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/gadsdencountyexpenditures.xlsx"
+  },
+  "c-hardee": {
+   "name": "Hardee County",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 42766943,
+   "total_expenditures": 102107127,
+   "population": 25883,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/hardeecountyexpenditures.xlsx"
+  },
+  "c-hernando": {
+   "name": "Hernando County",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 164858003,
+   "total_expenditures": 646159846,
+   "population": 210577,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/hernandocountyexpenditures.xlsx"
+  },
+  "c-highlands": {
+   "name": "Highlands County",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 98499700,
+   "total_expenditures": 285222443,
+   "population": 106109,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/highlandscountyexpenditures.xlsx"
+  },
+  "c-hillsborough": {
+   "name": "Hillsborough County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 1872403900,
+   "total_expenditures": 9035938484,
+   "population": 1575637,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/hillsboroughcountyexpenditures.xlsx"
+  },
+  "c-indianriver": {
+   "name": "Indian River County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 185370060,
+   "total_expenditures": 877158895,
+   "population": 173013,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/indianrivercountyexpenditures.xlsx"
+  },
+  "c-jackson": {
+   "name": "Jackson County",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 45027024,
+   "total_expenditures": 162664060,
+   "population": 49345,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/jacksoncountyexpenditures.xlsx"
+  },
+  "c-lake": {
+   "name": "Lake County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 292743261,
+   "total_expenditures": 695994829,
+   "population": 445881,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/lakecountyexpenditures.xlsx"
+  },
+  "c-lee": {
+   "name": "Lee County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 874114132,
+   "total_expenditures": 2940038297,
+   "population": 839223,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/leecountyexpenditures.xlsx"
+  },
+  "c-levy": {
+   "name": "Levy County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 54254753,
+   "total_expenditures": 192811201,
+   "population": 46270,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/levycountyexpenditures.xlsx"
+  },
+  "c-manatee": {
+   "name": "Manatee County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 659603000,
+   "total_expenditures": 3602479000,
+   "population": 466845,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/manateecountyexpenditures.xlsx"
+  },
+  "c-martin": {
+   "name": "Martin County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 242946091,
+   "total_expenditures": 986100520,
+   "population": 166281,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/martincountyexpenditures.xlsx"
+  },
+  "c-miamidade": {
+   "name": "Miami-Dade County",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 3660844000,
+   "total_expenditures": 21856903000,
+   "population": 2774841,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/miamidadecountyexpenditures.xlsx"
+  },
+  "c-monroe": {
+   "name": "Monroe County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 162636055,
+   "total_expenditures": 1174552078,
+   "population": 84707,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/monroecountyexpenditures.xlsx"
+  },
+  "c-nassau": {
+   "name": "Nassau County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 155453957,
+   "total_expenditures": 529613036,
+   "population": 107053,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/nassaucountyexpenditures.xlsx"
+  },
+  "c-okaloosa": {
+   "name": "Okaloosa County",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 177252142,
+   "total_expenditures": 1022431417,
+   "population": 221806,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/okaloosacountyexpenditures.xlsx"
+  },
+  "c-okeechobee": {
+   "name": "Okeechobee County",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 48056508,
+   "total_expenditures": 164583700,
+   "population": 40230,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/okeechobeecountyexpenditures.xlsx"
+  },
+  "c-orange": {
+   "name": "Orange County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 1499122392,
+   "total_expenditures": 9124607385,
+   "population": 1536045,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/orangecountyexpenditures.xlsx"
+  },
+  "c-osceola": {
+   "name": "Osceola County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 548000962,
+   "total_expenditures": 1647886858,
+   "population": 484915,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/osceolacountyexpenditures.xlsx"
+  },
+  "c-palmbeach": {
+   "name": "Palm Beach County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 2087838582,
+   "total_expenditures": 8951719501,
+   "population": 1556161,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/palmbeachcountyexpenditures.xlsx"
+  },
+  "c-pasco": {
+   "name": "Pasco County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 614477955,
+   "total_expenditures": 3453791800,
+   "population": 648369,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/pascocountyexpenditures.xlsx"
+  },
+  "c-pinellas": {
+   "name": "Pinellas County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 1005420903,
+   "total_expenditures": 6607592639,
+   "population": 966933,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/pinellascountyexpenditures.xlsx"
+  },
+  "c-polk": {
+   "name": "Polk County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 584712851,
+   "total_expenditures": 2761973929,
+   "population": 846896,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/polkcountyexpenditures.xlsx"
+  },
+  "c-santarosa": {
+   "name": "Santa Rosa County",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 162760150,
+   "total_expenditures": 630520706,
+   "population": 207983,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/santarosacountyexpenditures.xlsx"
+  },
+  "c-sarasota": {
+   "name": "Sarasota County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 438971222,
+   "total_expenditures": 3696691288,
+   "population": 487640,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/sarasotacountyexpenditures.xlsx"
+  },
+  "c-seminole": {
+   "name": "Seminole County",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 377305377,
+   "total_expenditures": 1472074464,
+   "population": 493282,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/seminolecountyexpenditures.xlsx"
+  },
+  "c-stjohns": {
+   "name": "St. Johns County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 349912191,
+   "total_expenditures": 1937944969,
+   "population": 348336,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/stjohnscountyexpenditures.xlsx"
+  },
+  "c-stlucie": {
+   "name": "St. Lucie County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 327619361,
+   "total_expenditures": 1951208781,
+   "population": 394074,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/stluciecountyexpenditures.xlsx"
+  },
+  "c-suwannee": {
+   "name": "Suwannee County",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 39837756,
+   "total_expenditures": 174892020,
+   "population": 46519,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/suwanneecountyexpenditures.xlsx"
+  },
+  "c-volusia": {
+   "name": "Volusia County",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 339155556,
+   "total_expenditures": 2208369437,
+   "population": 604533,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/volusiacountyexpenditures.xlsx"
+  },
+  "m-apopka": {
+   "name": "Apopka",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 108411731,
+   "total_expenditures": 195822409,
+   "population": 66580,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/apopkaexpenditures.xlsx"
+  },
+  "m-aventura": {
+   "name": "Aventura",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 54545012,
+   "total_expenditures": 102378714,
+   "population": 40171,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/aventuraexpenditures.xlsx"
+  },
+  "m-bartow": {
+   "name": "Bartow",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 32095066,
+   "total_expenditures": 117825235,
+   "population": 20502,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/bartowexpenditures.xlsx"
+  },
+  "m-bocaraton": {
+   "name": "Boca Raton",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 256942874,
+   "total_expenditures": 592830467,
+   "population": 100897,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/bocaratonexpenditures.xlsx"
+  },
+  "m-boyntonbeach": {
+   "name": "Boynton Beach",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 126944717,
+   "total_expenditures": 332196196,
+   "population": 82393,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/boyntonbeachexpenditures.xlsx"
+  },
+  "m-bradenton": {
+   "name": "Bradenton",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 62942605,
+   "total_expenditures": 163459113,
+   "population": 57474,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/bradentonexpenditures.xlsx"
+  },
+  "m-capecoral": {
+   "name": "Cape Coral",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 266091666,
+   "total_expenditures": 954127969,
+   "population": 222862,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/capecoralexpenditures.xlsx"
+  },
+  "m-casselberry": {
+   "name": "Casselberry",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 21594328,
+   "total_expenditures": 81710602,
+   "population": 30120,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/casselberryexpenditures.xlsx"
+  },
+  "m-clearwater": {
+   "name": "Clearwater",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 224561521,
+   "total_expenditures": 768723776,
+   "population": 118327,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/clearwaterexpenditures.xlsx"
+  },
+  "m-clermont": {
+   "name": "Clermont",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 53024409,
+   "total_expenditures": 131086328,
+   "population": 51042,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/clermontexpenditures.xlsx"
+  },
+  "m-cocoa": {
+   "name": "Cocoa",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 43771086,
+   "total_expenditures": 134956945,
+   "population": 21123,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/cocoaexpenditures.xlsx"
+  },
+  "m-cocoabeach": {
+   "name": "Cocoa Beach",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 208870,
+   "total_expenditures": 20062603,
+   "population": 11349,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/cocoabeachexpenditures.xlsx"
+  },
+  "m-coconutcreek": {
+   "name": "Coconut Creek",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 106392129,
+   "total_expenditures": 151094239,
+   "population": 57933,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/coconutcreekexpenditures.xlsx"
+  },
+  "m-coralgables": {
+   "name": "Coral Gables",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 221621891,
+   "total_expenditures": 382454599,
+   "population": 50813,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/coralgablesexpenditures.xlsx"
+  },
+  "m-coralsprings": {
+   "name": "Coral Springs",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 186505847,
+   "total_expenditures": 403145421,
+   "population": 136062,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/coralspringsexpenditures.xlsx"
+  },
+  "m-crestview": {
+   "name": "Crestview",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 37499232,
+   "total_expenditures": 60755335,
+   "population": 29872,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/crestviewexpenditures.xlsx"
+  },
+  "m-crystalriver": {
+   "name": "Crystal River",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 10325480,
+   "total_expenditures": 19622558,
+   "population": 3271,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/crystalriverexpenditures.xlsx"
+  },
+  "m-cutlerbay": {
+   "name": "Cutler Bay",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 34435838,
+   "total_expenditures": 47867467,
+   "population": 45026,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/cutlerbayexpenditures.xlsx"
+  },
+  "m-daniabeach": {
+   "name": "Dania Beach",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 83252986,
+   "total_expenditures": 191798353,
+   "population": 34034,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/daniabeachexpenditures.xlsx"
+  },
+  "m-davie": {
+   "name": "Davie",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 207878061,
+   "total_expenditures": 361925813,
+   "population": 107914,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/davieexpenditures.xlsx"
+  },
+  "m-daytonabeach": {
+   "name": "Daytona Beach",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 149810473,
+   "total_expenditures": 380282377,
+   "population": 88144,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/daytonabeachexpenditures.xlsx"
+  },
+  "m-deerfieldbeach": {
+   "name": "Deerfield Beach",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 135716228,
+   "total_expenditures": 263176807,
+   "population": 87402,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/deerfieldbeachexpenditures.xlsx"
+  },
+  "m-deland": {
+   "name": "DeLand",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 47346420,
+   "total_expenditures": 115077785,
+   "population": 44316,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/delandexpenditures.xlsx"
+  },
+  "m-delraybeach": {
+   "name": "Delray Beach",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 184493354,
+   "total_expenditures": 399130758,
+   "population": 69038,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/delraybeachexpenditures.xlsx"
+  },
+  "m-deltona": {
+   "name": "Deltona",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 78711482,
+   "total_expenditures": 133596677,
+   "population": 98792,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/deltonaexpenditures.xlsx"
+  },
+  "m-destin": {
+   "name": "Destin",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 21340047,
+   "total_expenditures": 53893933,
+   "population": 14640,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/destinexpenditures.xlsx"
+  },
+  "m-doral": {
+   "name": "Doral",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 113180618,
+   "total_expenditures": 164958228,
+   "population": 83746,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/doralexpenditures.xlsx"
+  },
+  "m-dunedin": {
+   "name": "Dunedin",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 38960693,
+   "total_expenditures": 112366422,
+   "population": 35606,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/dunedinexpenditures.xlsx"
+  },
+  "m-edgewater": {
+   "name": "Edgewater",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 27206551,
+   "total_expenditures": 69914805,
+   "population": 25655,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/edgewaterexpenditures.xlsx"
+  },
+  "m-eustis": {
+   "name": "Eustis",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 26426640,
+   "total_expenditures": 57049736,
+   "population": 24477,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/eustisexpenditures.xlsx"
+  },
+  "m-fernandinabeach": {
+   "name": "Fernandina Beach",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 33254084,
+   "total_expenditures": 74533062,
+   "population": 13958,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/fernandinabeachexpenditures.xlsx"
+  },
+  "m-fortlauderdale": {
+   "name": "Fort Lauderdale",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 476645235,
+   "total_expenditures": 1299501415,
+   "population": 189583,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/fortlauderdaleexpenditures.xlsx"
+  },
+  "m-fortwaltonbeach": {
+   "name": "Fort Walton Beach",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 38355796,
+   "total_expenditures": 69337855,
+   "population": 21553,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/fortwaltonbeachexpenditures.xlsx"
+  },
+  "m-gainesville": {
+   "name": "Gainesville",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 169265713,
+   "total_expenditures": 914899654,
+   "population": 151275,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/gainesvilleexpenditures.xlsx"
+  },
+  "m-greenacres": {
+   "name": "Greenacres",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 43932112,
+   "total_expenditures": 60494642,
+   "population": 45403,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/greenacresexpenditures.xlsx"
+  },
+  "m-groveland": {
+   "name": "Groveland",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 24455765,
+   "total_expenditures": 64308950,
+   "population": 23697,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/grovelandexpenditures.xlsx"
+  },
+  "m-gulfport": {
+   "name": "Gulfport",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 28195772,
+   "total_expenditures": 50373693,
+   "population": 11525,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/gulfportexpenditures.xlsx"
+  },
+  "m-hainescity": {
+   "name": "Haines City",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 73586480,
+   "total_expenditures": 132261787,
+   "population": 44215,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/hainescityexpenditures.xlsx"
+  },
+  "m-hallandalebeach": {
+   "name": "Hallandale Beach",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 104040186,
+   "total_expenditures": 241646965,
+   "population": 41819,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/hallandalebeachexpenditures.xlsx"
+  },
+  "m-hollywood": {
+   "name": "Hollywood",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 321448595,
+   "total_expenditures": 896015401,
+   "population": 156997,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/hollywoodexpenditures.xlsx"
+  },
+  "m-inverness": {
+   "name": "Inverness",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 13498180,
+   "total_expenditures": 28575919,
+   "population": 7937,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/invernessexpenditures.xlsx"
+  },
+  "m-jacksonville": {
+   "name": "Jacksonville",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 1746961049,
+   "total_expenditures": 10444258800,
+   "population": 1016103,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/jacksonvilleexpenditures.xlsx"
+  },
+  "m-jacksonvillebeach": {
+   "name": "Jacksonville Beach",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 32993599,
+   "total_expenditures": 213314956,
+   "population": 24253,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/jacksonvillebeachexpenditures.xlsx"
+  },
+  "m-jupiter": {
+   "name": "Jupiter",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 74570276,
+   "total_expenditures": 162489945,
+   "population": 61246,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/jupiterexpenditures.xlsx"
+  },
+  "m-keywest": {
+   "name": "Key West",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 73095310,
+   "total_expenditures": 219619189,
+   "population": 26327,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/keywestexpenditures.xlsx"
+  },
+  "m-kissimmee": {
+   "name": "Kissimmee",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 111890517,
+   "total_expenditures": 282264485,
+   "population": 87664,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/kissimmeeexpenditures.xlsx"
+  },
+  "m-lakecity": {
+   "name": "Lake City",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 19879004,
+   "total_expenditures": 52258675,
+   "population": 12494,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/lakecityexpenditures.xlsx"
+  },
+  "m-lakeland": {
+   "name": "Lakeland",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 179514699,
+   "total_expenditures": 982038481,
+   "population": 124725,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/lakelandexpenditures.xlsx"
+  },
+  "m-lakemary": {
+   "name": "Lake Mary",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 28173282,
+   "total_expenditures": 47414104,
+   "population": 17516,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/lakemaryexpenditures.xlsx"
+  },
+  "m-lakepark": {
+   "name": "Lake Park",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 13613476,
+   "total_expenditures": 26032200,
+   "population": 9014,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/lakeparkexpenditures.xlsx"
+  },
+  "m-lakewales": {
+   "name": "Lake Wales",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 27610085,
+   "total_expenditures": 73741704,
+   "population": 17736,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/lakewalesexpenditures.xlsx"
+  },
+  "m-largo": {
+   "name": "Largo",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 116474564,
+   "total_expenditures": 293251120,
+   "population": 84075,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/largoexpenditures.xlsx"
+  },
+  "m-lauderdalelakes": {
+   "name": "Lauderdale Lakes",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 42546611,
+   "total_expenditures": 66029379,
+   "population": 36647,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/lauderdalelakesexpenditures.xlsx"
+  },
+  "m-leesburg": {
+   "name": "Leesburg",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 36309173,
+   "total_expenditures": 181732218,
+   "population": 33344,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/leesburgexpenditures.xlsx"
+  },
+  "m-lighthousepoint": {
+   "name": "Lighthouse Point",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 27706921,
+   "total_expenditures": 36990083,
+   "population": 10454,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/lighthousepointexpenditures.xlsx"
+  },
+  "m-longwood": {
+   "name": "Longwood",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 30041339,
+   "total_expenditures": 46464786,
+   "population": 16641,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/longwoodexpenditures.xlsx"
+  },
+  "m-lynnhaven": {
+   "name": "Lynn Haven",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 21712536,
+   "total_expenditures": 50270905,
+   "population": 21733,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/lynnhavenexpenditures.xlsx"
+  },
+  "m-marcoisland": {
+   "name": "Marco Island",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 32737346,
+   "total_expenditures": 79436079,
+   "population": 16288,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/marcoislandexpenditures.xlsx"
+  },
+  "m-margate": {
+   "name": "Margate",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 82090459,
+   "total_expenditures": 156592780,
+   "population": 58727,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/margateexpenditures.xlsx"
+  },
+  "m-melbourne": {
+   "name": "Melbourne",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 141226599,
+   "total_expenditures": 304937810,
+   "population": 88499,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/melbourneexpenditures.xlsx"
+  },
+  "m-miami": {
+   "name": "Miami",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 1200851768,
+   "total_expenditures": 2363866449,
+   "population": 478799,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/miamiexpenditures.xlsx"
+  },
+  "m-miamibeach": {
+   "name": "Miami Beach",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 445068042,
+   "total_expenditures": 1361284581,
+   "population": 83230,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/miamibeachexpenditures.xlsx"
+  },
+  "m-miamigardens": {
+   "name": "Miami Gardens",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 116773502,
+   "total_expenditures": 168234480,
+   "population": 116192,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/miamigardensexpenditures.xlsx"
+  },
+  "m-miamilakes": {
+   "name": "Miami Lakes",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 23096069,
+   "total_expenditures": 37187944,
+   "population": 31332,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/miamilakesexpenditures.xlsx"
+  },
+  "m-minneola": {
+   "name": "Minneola",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 17656663,
+   "total_expenditures": 27131481,
+   "population": 19893,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/minneolaexpenditures.xlsx"
+  },
+  "m-miramar": {
+   "name": "Miramar",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 237867104,
+   "total_expenditures": 518006659,
+   "population": 140807,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/miramarexpenditures.xlsx"
+  },
+  "m-mountdora": {
+   "name": "Mount Dora",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 29233730,
+   "total_expenditures": 83502309,
+   "population": 18227,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/mountdoraexpenditures.xlsx"
+  },
+  "m-newportrichey": {
+   "name": "New Port Richey",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 32207970,
+   "total_expenditures": 74707780,
+   "population": 17270,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/newportricheyexpenditures.xlsx"
+  },
+  "m-northmiami": {
+   "name": "North Miami",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 88954217,
+   "total_expenditures": 202831241,
+   "population": 59955,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/northmiamiexpenditures.xlsx"
+  },
+  "m-northport": {
+   "name": "North Port",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 78023595,
+   "total_expenditures": 263702704,
+   "population": 92399,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/northportexpenditures.xlsx"
+  },
+  "m-oaklandpark": {
+   "name": "Oakland Park",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 92393339,
+   "total_expenditures": 163407730,
+   "population": 46465,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/oaklandparkexpenditures.xlsx"
+  },
+  "m-ocala": {
+   "name": "Ocala",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 147885494,
+   "total_expenditures": 508801174,
+   "population": 71017,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/ocalaexpenditures.xlsx"
+  },
+  "m-ocoee": {
+   "name": "Ocoee",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 73877354,
+   "total_expenditures": 129949250,
+   "population": 51209,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/ocoeeexpenditures.xlsx"
+  },
+  "m-opalocka": {
+   "name": "Opa-locka",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 30283413,
+   "total_expenditures": 51911728,
+   "population": 16560,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/opalockaexpenditures.xlsx"
+  },
+  "m-orlando": {
+   "name": "Orlando",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 708063991,
+   "total_expenditures": 1827774482,
+   "population": 335066,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/orlandoexpenditures.xlsx"
+  },
+  "m-ormondbeach": {
+   "name": "Ormond Beach",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 52481143,
+   "total_expenditures": 128872990,
+   "population": 45723,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/ormondbeachexpenditures.xlsx"
+  },
+  "m-oviedo": {
+   "name": "Oviedo",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 44615749,
+   "total_expenditures": 97822714,
+   "population": 42080,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/oviedoexpenditures.xlsx"
+  },
+  "m-palatka": {
+   "name": "Palatka",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 15624030,
+   "total_expenditures": 41078026,
+   "population": 10503,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/palatkaexpenditures.xlsx"
+  },
+  "m-palmcoast": {
+   "name": "Palm Coast",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 62097096,
+   "total_expenditures": 238082601,
+   "population": 110330,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/palmcoastexpenditures.xlsx"
+  },
+  "m-palmettobay": {
+   "name": "Palmetto Bay",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 21721990,
+   "total_expenditures": 34250527,
+   "population": 25217,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/palmettobayexpenditures.xlsx"
+  },
+  "m-parkland": {
+   "name": "Parkland",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 91960700,
+   "total_expenditures": 109309612,
+   "population": 38427,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/parklandexpenditures.xlsx"
+  },
+  "m-pembrokepines": {
+   "name": "Pembroke Pines",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 252018225,
+   "total_expenditures": 605373784,
+   "population": 170892,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/pembrokepinesexpenditures.xlsx"
+  },
+  "m-pinecrest": {
+   "name": "Pinecrest",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 40057295,
+   "total_expenditures": 59095532,
+   "population": 18206,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/pinecrestexpenditures.xlsx"
+  },
+  "m-pinellaspark": {
+   "name": "Pinellas Park",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 88164578,
+   "total_expenditures": 186425815,
+   "population": 55055,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/pinellasparkexpenditures.xlsx"
+  },
+  "m-plantation": {
+   "name": "Plantation",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 137757365,
+   "total_expenditures": 253253454,
+   "population": 98437,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/plantationexpenditures.xlsx"
+  },
+  "m-plantcity": {
+   "name": "Plant City",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 68747686,
+   "total_expenditures": 145412485,
+   "population": 45331,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/plantcityexpenditures.xlsx"
+  },
+  "m-portorange": {
+   "name": "Port Orange",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 66683216,
+   "total_expenditures": 151020000,
+   "population": 65898,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/portorangeexpenditures.xlsx"
+  },
+  "m-portstlucie": {
+   "name": "Port St. Lucie",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 179490671,
+   "total_expenditures": 573691196,
+   "population": 253959,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/portstlucieexpenditures.xlsx"
+  },
+  "m-puntagorda": {
+   "name": "Punta Gorda",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 45464490,
+   "total_expenditures": 125996444,
+   "population": 20443,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/puntagordaexpenditures.xlsx"
+  },
+  "m-safetyharbor": {
+   "name": "Safety Harbor",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 20215791,
+   "total_expenditures": 42834196,
+   "population": 16762,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/safetyharborexpenditures.xlsx"
+  },
+  "m-sanford": {
+   "name": "Sanford",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 82620156,
+   "total_expenditures": 214352316,
+   "population": 68136,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/sanfordexpenditures.xlsx"
+  },
+  "m-satellitebeach": {
+   "name": "Satellite Beach",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 18532080,
+   "total_expenditures": 29285679,
+   "population": 11493,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/satellitebeachexpenditures.xlsx"
+  },
+  "m-seminolecity": {
+   "name": "Seminole (city)",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 29669020,
+   "total_expenditures": 42392562,
+   "population": 19338,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/seminoleexpenditures.xlsx"
+  },
+  "m-staugustine": {
+   "name": "St. Augustine",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 66830105,
+   "total_expenditures": 123988413,
+   "population": 16548,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/staugustineexpenditures.xlsx"
+  },
+  "m-stcloud": {
+   "name": "St. Cloud",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 69962154,
+   "total_expenditures": 186106811,
+   "population": 65974,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/stcloudexpenditures.xlsx"
+  },
+  "m-stpetebeach": {
+   "name": "St. Pete Beach",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 30219374,
+   "total_expenditures": 53578061,
+   "population": 8765,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/stpetebeachexpenditures.xlsx"
+  },
+  "m-stpetersburg": {
+   "name": "St. Petersburg",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 526760634,
+   "total_expenditures": 1426361223,
+   "population": 266153,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/stpetersburgexpenditures.xlsx"
+  },
+  "m-stuart": {
+   "name": "Stuart",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 47708426,
+   "total_expenditures": 78558323,
+   "population": 20191,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/stuartexpenditures.xlsx"
+  },
+  "m-sunrise": {
+   "name": "Sunrise",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 178534093,
+   "total_expenditures": 472758111,
+   "population": 98310,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/sunriseexpenditures.xlsx"
+  },
+  "m-sweetwater": {
+   "name": "Sweetwater",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 30973312,
+   "total_expenditures": 39297128,
+   "population": 21393,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/sweetwaterexpenditures.xlsx"
+  },
+  "m-tallahassee": {
+   "name": "Tallahassee",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 215096000,
+   "total_expenditures": 1615328000,
+   "population": 205623,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/tallahasseeexpenditures.xlsx"
+  },
+  "m-tamarac": {
+   "name": "Tamarac",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 98181994,
+   "total_expenditures": 226017359,
+   "population": 73563,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/tamaracexpenditures.xlsx"
+  },
+  "m-tampa": {
+   "name": "Tampa",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 772387201,
+   "total_expenditures": 2401555771,
+   "population": 412684,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/tampaexpenditures.xlsx"
+  },
+  "m-tarponsprings": {
+   "name": "Tarpon Springs",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 34766507,
+   "total_expenditures": 92988073,
+   "population": 25949,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/tarponspringsexpenditures.xlsx"
+  },
+  "m-tavares": {
+   "name": "Tavares",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 24472721,
+   "total_expenditures": 70126804,
+   "population": 21530,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/tavaresexpenditures.xlsx"
+  },
+  "m-templeterrace": {
+   "name": "Temple Terrace",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 38294115,
+   "total_expenditures": 70107128,
+   "population": 27469,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/templeterraceexpenditures.xlsx"
+  },
+  "m-titusville": {
+   "name": "Titusville",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 67090879,
+   "total_expenditures": 160141056,
+   "population": 51158,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/titusvilleexpenditures.xlsx"
+  },
+  "m-venice": {
+   "name": "Venice",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 52375073,
+   "total_expenditures": 143411566,
+   "population": 29802,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/veniceexpenditures.xlsx"
+  },
+  "m-wellington": {
+   "name": "Wellington",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 65115284,
+   "total_expenditures": 180464168,
+   "population": 61836,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/wellingtonexpenditures.xlsx"
+  },
+  "m-weston": {
+   "name": "Weston",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 66362140,
+   "total_expenditures": 196506841,
+   "population": 68311,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/westonexpenditures.xlsx"
+  },
+  "m-wildwood": {
+   "name": "Wildwood",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 41911190,
+   "total_expenditures": 74031867,
+   "population": 36783,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/wildwoodexpenditures.xlsx"
+  },
+  "m-wiltonmanors": {
+   "name": "Wilton Manors",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 24355869,
+   "total_expenditures": 52978349,
+   "population": 11495,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/wiltonmanorsexpenditures.xlsx"
+  },
+  "m-wintergarden": {
+   "name": "Winter Garden",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 66896622,
+   "total_expenditures": 130376898,
+   "population": 52479,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/wintergardenexpenditures.xlsx"
+  },
+  "m-winterhaven": {
+   "name": "Winter Haven",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 74411087,
+   "total_expenditures": 248525315,
+   "population": 60837,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/winterhavenexpenditures.xlsx"
+  },
+  "m-winterpark": {
+   "name": "Winter Park",
+   "fiscal_year": "2024",
+   "general_fund_expenditures": 79812140,
+   "total_expenditures": 204593503,
+   "population": 30565,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/winterparkexpenditures.xlsx"
+  },
+  "m-wintersprings": {
+   "name": "Winter Springs",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 27727898,
+   "total_expenditures": 73048857,
+   "population": 39170,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/winterspringsexpenditures.xlsx"
+  },
+  "m-zephyrhills": {
+   "name": "Zephyrhills",
+   "fiscal_year": "2025",
+   "general_fund_expenditures": 18877878,
+   "total_expenditures": 55229761,
+   "population": 19691,
+   "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/zephyrhillsexpenditures.xlsx"
+  }
+ },
+ "missing": []
+}
