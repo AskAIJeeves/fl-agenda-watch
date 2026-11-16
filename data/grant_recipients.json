@@ -212,12 +212,21 @@
      "amount": 150000.0,
      "text": "ORD Approp $150,000 from Gen Fund Operating Reserves to the Goodwill - Subsidies & Contributions to Private Org Acct to Prov Funding to Goodwill Industries of North Florida, INC. (Goodwill) for the Summer Youth Works Prog (the Program), as Originally Auth by Ord 2026-452-E; Amend Ord 2026-452-E to A",
      "link": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf"
+    },
+    {
+     "entity_id": "m-fernandinabeach",
+     "government": "Fernandina Beach",
+     "meeting_date": "2026-11-19",
+     "amount": null,
+     "text": "5.1 DANIEL MAASS, 1734 SOUTH 8TH STREET Change of Use review from cafe to a donation center for Goodwill. (C-2)",
+     "link": "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12657,plainText=false)"
     }
    ],
    "governments": [
+    "Fernandina Beach",
     "Jacksonville"
    ],
-   "award_count": 1,
+   "award_count": 2,
    "total_amount": 150000.0
   },
   "prov funding": {
@@ -1519,16 +1528,65 @@
      "amount": null,
      "text": "Grant Agreement v2026.9.01 Page 1 of 14 Agreement # FM1276 GRANT AGREEMENT THIS GRANT AGREEMENT (Agreement) is made and entered into by and between the Department of Financial Services (Department), an agency of the State of Florida (State), and Jackson County Board of County Commissioners (Grantee)",
      "link": "https://jacksoncofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3911,plainText=false)"
+    },
+    {
+     "entity_id": "m-fernandinabeach",
+     "government": "Fernandina Beach",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "TEMPORARY E ASEMENT AGREEMENT DOLPHIN STREET AND NORTH FLETCHER AVENUE THIS EASEMENT AGREEMENT (\u201cAgree ment\u201d) is made and entered into this 17 th day of November, 2026, by and between the City of Fernandina Beach, Florida, a municipal corporation, whose address is 204 Ash Street, Fernandina Beach, F",
+     "link": "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12652,plainText=false)"
+    },
+    {
+     "entity_id": "m-fernandinabeach",
+     "government": "Fernandina Beach",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "2. Temporary Easement. Grantor hereby grants to Grantee, its successors and assigns, a temporary, non- exclusive easement and right-of-way (\"Easement\") in, over and across that certain real property situated in the City of Fernandina Beach, Nassau County, Florida, more particularly described on Exhi",
+     "link": "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12652,plainText=false)"
+    },
+    {
+     "entity_id": "m-fernandinabeach",
+     "government": "Fernandina Beach",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "TEMPORARY EASEMENT AGREEME NT DOLPHIN STREET AND NORTH FLETCHER AVENUE THIS EASEMENT AGREEMENT (\u201cAgreement\u201d) is made and entered into this 6th day of May, 2025, by and between the City of Fernandina Beach, Florida, a municipal corporati on, whose address is 204 Ash Street, Fernandina Beach, FL 32034",
+     "link": "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12652,plainText=false)"
+    },
+    {
+     "entity_id": "m-fernandinabeach",
+     "government": "Fernandina Beach",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "TEMPORARY EASEMENT AGREEMENT DOLPHIN STREET AND NORTH FLETCHER AVENUE THIS EASEMENT AGREEMENT (\u201cAgreement\u201d) is made and entered into this 4th day of June, 2024, by and between the City of Fernandina Beach, Florida, a municipal corporation, whose address is 204 Ash Street, Fernandina Beach, FL 32034 ",
+     "link": "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12652,plainText=false)"
+    },
+    {
+     "entity_id": "m-fernandinabeach",
+     "government": "Fernandina Beach",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "TEMPORARY EASEMENT AGREEMENT DOLPHlN STREET AND NORTH FLETCHER A VENUE THIS TEMPORARY EA EMENT AGREEMENT (\"Agreement\") is made and entered into this __ day of ___ . 2022. by and between the City of Fernandina Beach, Florida a municipal corporation whose address is 204 Ash Street, Fernandina Beach, F",
+     "link": "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12652,plainText=false)"
+    },
+    {
+     "entity_id": "m-fernandinabeach",
+     "government": "Fernandina Beach",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "TEMPORARY EASEMENT AGREEMENT OF THE CITY OWNED RIGHT OF WAY AT THE END OF SADLER ROAD/SEASIDE PARK THI. TEMPORARY EA EMENT AGREEMENT(' Agreement\"') is made and entered into thi __ day of_-,-\ufffd, 2022 by and between the City of Fernandina Beach Florida, a municipal corporation whose address is 204 Ash ",
+     "link": "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12652,plainText=false)"
     }
    ],
    "governments": [
+    "Fernandina Beach",
     "Jackson County",
     "Kissimmee",
     "Nassau County",
     "St. Lucie County",
     "Sunrise"
    ],
-   "award_count": 14,
+   "award_count": 20,
    "total_amount": 45000.0
   },
   "clean air act": {
@@ -3128,13 +3186,30 @@
      "amount": 360000.0,
      "text": "Section 5311 grant funding is received annually and is allocated by FDOT based on the non- urbanized population of the county. The Section 5311 grant is for operational expenses covering paratransit operations during FY2027-2028, and the City will receive up to $360,000 in 5311 federal operating ass",
      "link": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1083,plainText=false)"
+    },
+    {
+     "entity_id": "c-indianriver",
+     "government": "Indian River County",
+     "meeting_date": "2026-11-19",
+     "amount": 65651.0,
+     "text": "6. Review of the Annual Expenditures Report (AER) \u2013 Action Required Brian Freeman presented the Annual Expenditures Report (AER), which reports the amount of local funding provided for the Transportation Disadvantaged system and the number of trips supported by those funds. The report reflected $65,",
+     "link": "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3458,plainText=false)"
+    },
+    {
+     "entity_id": "c-indianriver",
+     "government": "Indian River County",
+     "meeting_date": "2026-11-19",
+     "amount": null,
+     "text": "F:\\Community Development\\MPO\\Meetings\\TDLCB\\2026\\11-19-2026\\7 -AOR Staff Report.docx 2 (mostly The ARC). As noted on page 5, 84% of all trips were made by persons with disabilities and 15% were made by the elderly. Trip purposes included the following: 22% Medical, 33 Employment, 31% Education/Train",
+     "link": "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3458,plainText=false)"
     }
    ],
    "governments": [
+    "Indian River County",
     "Tallahassee"
    ],
-   "award_count": 1,
-   "total_amount": 360000.0
+   "award_count": 3,
+   "total_amount": 425651.0
   },
   "fta for section": {
    "name": "FTA for the Section",
@@ -3425,13 +3500,22 @@
      "amount": 1200000.0,
      "text": "Events/Updates - Mr. Plaut recognized the success of the recent Firefighter Challenge and thanked those involved. He also discussed the approximately $1.2 million in federal funding secured for the Martin Luther King Jr. Avenue project, which would include roadway safety, resurfacing, redesign, and ",
      "link": "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3339,plainText=false)"
+    },
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": 1430044.0,
+     "text": "D. Motion to approve the submission and acceptance of the Florida Department of Transportation, Transportation Alternatives Set-Aside Program Funding Application for Martin Luther King Jr Avenue sidewalk project in the amount of $1,430,044.; authorizing the County Manager or Chair to sign any necess",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=392"
     }
    ],
    "governments": [
-    "Deerfield Beach"
+    "Deerfield Beach",
+    "Hardee County"
    ],
-   "award_count": 1,
-   "total_amount": 1200000.0
+   "award_count": 2,
+   "total_amount": 2630044.0
   },
   "florida division state fire marshal for firefighter cancer": {
    "name": "Florida Division of State Fire Marshal for the Firefighter Cancer",
@@ -4682,6 +4766,14 @@
      "amount": null,
      "text": "BOCC Regular Meeting Tuesday, September 15, 2026 6:00 PM 46 | Page D.1. - 11. D.6.) to the Board. One of the funding methods available for capital improvements and essential services is to create the Municipal Service Benefit Unit (MSBU) and levy non-ad valorem special assessments on those propertie",
      "link": "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12832,plainText=false)"
+    },
+    {
+     "entity_id": "c-stlucie",
+     "government": "St. Lucie County",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "Sustainability District Meeting Tuesday, September 15, 2026 6:00 PM 2 | Page energy conservation, renewable energy, and improvements is to levy non-ad valorem special assessments on properties that derive a direct benefit from the improvements. This type of assessment is based on benefit and collect",
+     "link": "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12819,plainText=false)"
     }
    ],
    "governments": [
@@ -4691,7 +4783,7 @@
     "Sunrise",
     "Wildwood"
    ],
-   "award_count": 11,
+   "award_count": 12,
    "total_amount": 33575123.0
   },
   "gy2026": {
@@ -6613,13 +6705,21 @@
      "amount": 100000.0,
      "text": "8. Archer 1200 Mobile Barriers and Trailer (Michael McNally) Request to approve agreement for the purchase of Archer 1200 Mobile Barriers and Trailer, Item # 25-B-220M, from Meridian Rapid Defense Group, LLC of Pasadena, California utilizing the General Services Administration (GSA) Contract #47QSWA",
      "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=266"
+    },
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": 125000.0,
+     "text": "9. Use of Forfeiture Funds (Brad Mock) Request to authorize the use of $125,000 in Law Enforcement Trust Funds to cover training costs for all sworn members. Funding Source: Receiving Forfeiture to Expend. Strategic Goal: An Innovative, High-Performing and Sustainable Organization. (REQUEST TO AUTHO",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=244"
     }
    ],
    "governments": [
     "Coral Springs"
    ],
-   "award_count": 2,
-   "total_amount": 100000.0
+   "award_count": 3,
+   "total_amount": 225000.0
   },
   "installation maintenance decorative signposts": {
    "name": "Installation and Maintenance of Decorative Signposts",
@@ -14569,9 +14669,509 @@
    ],
    "award_count": 1,
    "total_amount": 0
+  },
+  "college hockey south": {
+   "name": "College Hockey South",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": 9000.0,
+     "text": "7. 2025 Sports Event Grant Approval, First Round (Robert Hunter) Request to award Sports Event Grant funding in the amount of $9,000 to be dispersed as follows: $2,000 for College Hockey South, $2,000 for South Florida Water Polo Foundation, and $5,000 to Masters Basketball Association (Sport Organi",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=244"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 9000.0
+  },
+  "public safety chaplaincy": {
+   "name": "Public Safety Chaplaincy",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": 22500.0,
+     "text": "8. City Donation to Public Safety Chaplaincy, Inc. (Dale Pazdra) Request to authorize the donation of $22,500 to Public Safety Chaplaincy, Inc. for professional consultancy and chaplain services provided to the city\u2019s workforce. Funding Source: Approved Operating Budget. Strategic Goal: An Innovativ",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=238"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 22500.0
+  },
+  "stormwater vulnerability assessment": {
+   "name": "Stormwater Vulnerability Assessment",
+   "awards": [
+    {
+     "entity_id": "m-wellington",
+     "government": "Wellington",
+     "meeting_date": null,
+     "amount": 130000.0,
+     "text": "B. 26-7775 AUTHORIZATION TO 1) AMEND AN AGREEMENT FOR STORMWATER VULNERABILITY ASSESSMENT, AND 2) APPROVE A RESOLUTION AMENDING THE FISCAL YEAR 2025-2026 ACME FUND BUDGET Authorization to 1) Amend an agreement with Stantec Consulting Services, Inc. for Stormwater Vulnerability Assessment to include ",
+     "link": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1801"
+    },
+    {
+     "entity_id": "m-wellington",
+     "government": "Wellington",
+     "meeting_date": null,
+     "amount": 130000.0,
+     "text": "C. 26-7775 AUTHORIZATION TO 1) AMEND AN AGREEMENT FOR STORMWATER VULNERABILITY ASSESSMENT, AND 2) APPROVE A RESOLUTION AMENDING THE FISCAL YEAR 2025-2026 ACME FUND BUDGET Authorization to 1) Amend an agreement with Stantec Consulting Services, Inc. for Stormwater Vulnerability Assessment to include ",
+     "link": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1800"
+    }
+   ],
+   "governments": [
+    "Wellington"
+   ],
+   "award_count": 2,
+   "total_amount": 260000.0
+  },
+  "custodian anthony laurenti": {
+   "name": "Custodian Anthony Laurenti",
+   "awards": [
+    {
+     "entity_id": "m-puntagorda",
+     "government": "Punta Gorda",
+     "meeting_date": null,
+     "amount": 5961.0,
+     "text": "Retirees Monthly Benefit Check Date Form of Benefit Sent to Custodian Anthony Laurenti (Early) $5,661.10 7/1/2026 JS/100% w/ Pop-Up 6/29/2026 (estimate from portal) $5,961.31 9/1/2026 8/4/2026 DROP Entries Monthly Benefit Entry Date Form of Benefit None this period DROP Exits Monthly Benefit Check D",
+     "link": "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1417"
+    }
+   ],
+   "governments": [
+    "Punta Gorda"
+   ],
+   "award_count": 1,
+   "total_amount": 5961.0
+  },
+  "airport fbo apron expansion": {
+   "name": "Airport FBO Apron Expansion",
+   "awards": [
+    {
+     "entity_id": "m-lakewales",
+     "government": "Lake Wales",
+     "meeting_date": null,
+     "amount": null,
+     "text": "The City Commission will consider approving Resolution 2026-10, authorizing an agreement with the Florida Department of Transportation (FDOT) to provide funding for Airport FBO Apron Expansion at the Lake Wales Municipal Airport.",
+     "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=980"
+    }
+   ],
+   "governments": [
+    "Lake Wales"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "edward byrne memorial jag local award": {
+   "name": "Edward Byrne Memorial JAG-Local Award",
+   "awards": [
+    {
+     "entity_id": "c-okeechobee",
+     "government": "Okeechobee County",
+     "meeting_date": null,
+     "amount": 13195.0,
+     "text": "That the Board of County Commissioners approve ratification of Grant Award Agreement for the Edward Byrne Memorial JAG-Local Award #15PBJA-25-GG-02822-JAGX, Budget Amendment BA26-33 and Resolution 2026-57. The Okeechobee County Sheriff's Office applied for and was awarded the amount of $13,195.00. T",
+     "link": "https://okeechobee.granicus.com/AgendaViewer.php?view_id=1&clip_id=4307"
+    }
+   ],
+   "governments": [
+    "Okeechobee County"
+   ],
+   "award_count": 1,
+   "total_amount": 13195.0
+  },
+  "task order": {
+   "name": "Task Order",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": 1500000.0,
+     "text": "11.i Approval of Funding for Task Order to Dewberry Engineering, Inc. for professional engineering services for the paving project of Timber Run and Jamieson Roads in Havana (Reginald James, Interim County Administrator/Curtis Young, Public Works Director/Lakysha Persins, Project Coordinator) 11.j A",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=151"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 1,
+   "total_amount": 1500000.0
+  },
+  "law enforcement educational fund for dare officer training purposes": {
+   "name": "Law Enforcement Educational Fund for Dare Officer Training Purposes",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Approval of 2026 Summer Youth Employment Program Plan (Reginald James, Interim County Administrator/Jeronda Robinson, Director of Human Resources) 11.p Request for Law Enforcement Educational Fund for Dare Officer Training Purposes (Morris A. Young, Sheriff) 11.q Approval of the Rural Infrastructure",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=151"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "west main street": {
+   "name": "West Main Street",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": 2780448.0,
+     "text": "C. Motion to approve the submission and acceptance of the Florida Department of Transportation District One Priority Project Program grant application for West Main Street resurfacing from State Road 64 to Griffin Whidden Road in the amount of $2,780,448.48; authorizing the County Manager or Chair t",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=392"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 1,
+   "total_amount": 2780448.0
+  },
+  "altman road": {
+   "name": "Altman Road",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": 1857081.0,
+     "text": "E. Motion to approve the submission and acceptance of the Florida Department of Transportation, Transportation Alternatives Set-Aside Program Funding Application for Altman Road, Stenstrom Road and South Florida Avenue sidewalk project in the amount of $1,857,081.; authorizing the County Manager or ",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=392"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 1,
+   "total_amount": 1857081.0
+  },
+  "pool road segment": {
+   "name": "Pool Road Segment",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": 2174030.0,
+     "text": "G. Motion to approve the submission and acceptance of the Florida Department of Transportation Rural Roadway Assistance Consolidated Funding Application for Pool Road Segment 2 milling and resurfacing project in the amount of $2,174,030.77; authorizing the County Manager or Chair to sign any necessa",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=392"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 1,
+   "total_amount": 2174030.0
+  },
+  "florida commerce": {
+   "name": "Florida Commerce",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "A. - Motion to approve Resolution 2026-21, A Resolution of the Board of County Commissioners of Hardee County, Florida, authorizing the submission of the fiscal year 2024-2025 Small Cities Community Development Block Grant application to Florida Commerce; authorizing and designating the County Manag",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=379"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "florida fish wildlife conservation commission": {
+   "name": "Florida Fish and Wildlife Conservation Commission",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "A. Motion to approve Resolution 2026-23, A Resolution of the Board of County Commissioners of Hardee County, Florida, authorizing the submission of a grant application to the Florida Fish and Wildlife Conservation Commission under the Florida Boating Improvement Program for the Pioneer Park boat ram",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=344"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "five year capital improvements schedule": {
+   "name": "Five-Year Capital Improvements Schedule",
+   "awards": [
+    {
+     "entity_id": "m-titusville",
+     "government": "Titusville",
+     "meeting_date": "2026-11-18",
+     "amount": null,
+     "text": "6. 0 Comprehensive Plan Analysis Section 163.3177(3)(b), Florida Statutes, requires local governments to review their Capital Improvements Element (CIE) on an annual basis. Updates to the Five-Year Capital Improvements Schedule may be adopted by ordinance and do not constitute an amendment to the lo",
+     "link": "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2554,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Titusville"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "agency": {
+   "name": "Agency",
+   "awards": [
+    {
+     "entity_id": "m-fernandinabeach",
+     "government": "Fernandina Beach",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "2. Use of API. Agency may utilize BRINC\u2019s API to facilitate an integration between BRINC Services and Third-Party Services. If Agency utilizes BRINC\u2019s API for such purpose, BRINC grants to Agency a non-exclusive, non-transferable, revocable, personal license to use the API and associated documentati",
+     "link": "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12652,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Fernandina Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "united states navy": {
+   "name": "United States Navy",
+   "awards": [
+    {
+     "entity_id": "m-fernandinabeach",
+     "government": "Fernandina Beach",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "RESOLUTION 2025-77 A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF FERNANDINA BEACH, FLORIDA, APPROVING A TEMPORARY EASEMENT AGREEMENT BETWEEN THE CITY OF FERNANDINA BEACH AND THE UNITED STATES ARMY CORPS OF ENGINEERS FOR BEACH RENOURISHMENT STAGING AND MOBILIZATION; AUTHORIZING EXECUTION; AND PR",
+     "link": "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12652,plainText=false)"
+    },
+    {
+     "entity_id": "m-fernandinabeach",
+     "government": "Fernandina Beach",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "RESOLUTION 2024-104 A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF FERNANDINA BEACH, FLORIDA, APPROVING A TEMPORARY EASEMENT AGREEMENT BETWEEN THE CITY OF FERNANDINA BEACH AND THE UNITED STATES ARMY CORPS OF ENGINEERS FOR BEACH RENOURISHMENT STAGING AND MOBILIZATION; AUTHORIZING EXECUTION; AND P",
+     "link": "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12652,plainText=false)"
+    },
+    {
+     "entity_id": "m-fernandinabeach",
+     "government": "Fernandina Beach",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "RESOLUTION 2023-76 A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF FERNANDINA BEACH, FLORIDA, APPROVING A TEMPORARY EASEMENT AGREEMENT BETWEEN THE CITY OF FERNANDINA BEACH AND THE UNITED STATES ARMY CORPS OF ENGINEERS FOR BEACH RENOURISHMENT STAGING AND MOBILIZATION; AUTHORIZING EXECUTION; AND PR",
+     "link": "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12652,plainText=false)"
+    },
+    {
+     "entity_id": "m-fernandinabeach",
+     "government": "Fernandina Beach",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "RESOLUTION 2022-74 A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF FERNANDINA BEACH, FLORIDA, APPROVING TEMPORARY EASEMENT AGREEMENTS BETWEEN THE CITY OF FERNANDINA BEACH AND THE UNITED STATES ARMY CORPS OF ENGINEERS FOR BEACH RENOURISHMENT STAGING AND MOBILIZATION; AUTHORIZING EXECUTION; AND PRO",
+     "link": "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12652,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Fernandina Beach"
+   ],
+   "award_count": 4,
+   "total_amount": 0
+  },
+  "funding during year ending september": {
+   "name": "Funding During the Year Ending September",
+   "awards": [
+    {
+     "entity_id": "c-indianriver",
+     "government": "Indian River County",
+     "meeting_date": "2026-11-17",
+     "amount": 1130330.0,
+     "text": "8. The Other Post-Employment Benefits (OPEB) Actuarial Report for Funding During the Year Ending September 30, 2026, recommends an additional contribution of $1,130,330 be made to fully fund the Actuarially Determined Contribution (ADC) for FY 2025/2026. Exhibit \u201cA\u201d appropriates $1,128,960 in additi",
+     "link": "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3456,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Indian River County"
+   ],
+   "award_count": 1,
+   "total_amount": 1130330.0
+  },
+  "optional sales tax": {
+   "name": "Optional Sales Tax",
+   "awards": [
+    {
+     "entity_id": "c-indianriver",
+     "government": "Indian River County",
+     "meeting_date": "2026-11-17",
+     "amount": 462392.0,
+     "text": "Budgetary Impact: Funds, in the amount of $462,392.70, will be included in the Fiscal Year 2026/2027 Capital Improvements Element to allocate sufficient funding to the Optional Sales Tax/North County Aquatic Center/NCAC Play Structure Replacement account, number 31510472-066510-25029.",
+     "link": "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3456,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Indian River County"
+   ],
+   "award_count": 1,
+   "total_amount": 462392.0
+  },
+  "additional service": {
+   "name": "Additional Service",
+   "awards": [
+    {
+     "entity_id": "c-indianriver",
+     "government": "Indian River County",
+     "meeting_date": "2026-11-17",
+     "amount": 42050.0,
+     "text": "Budgetary Impact: Funding for Additional Service #9, in the amount of $42,050, will come from the Sandridge/WIP/Sandridge Clubhouse & Event Space account, number 418-169000-21018.",
+     "link": "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3456,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Indian River County"
+   ],
+   "award_count": 1,
+   "total_amount": 42050.0
+  },
+  "indian river lagoon national estuary program s": {
+   "name": "Indian River Lagoon National Estuary Program's",
+   "awards": [
+    {
+     "entity_id": "c-indianriver",
+     "government": "Indian River County",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "Staff Recommendation: Staff recommends the Board of County Commissioners authorize the submittal of proposals for the Indian River Lagoon National Estuary Program's 2028 funding cycle. If awarded, staff will bring any grant award contracts back to the BOCC for acceptance and execution.",
+     "link": "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3456,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Indian River County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "gator group": {
+   "name": "Gator Group",
+   "awards": [
+    {
+     "entity_id": "c-indianriver",
+     "government": "Indian River County",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "2. Grant of Access Easement by County County hereby grants and conveys to Gator Group, for the benefit of Gator Group, its successors and/or assigns, and its customers, licenses, guests, tenants, and invitees, a perpetual, non- exclusive easement for vehicular and pedestrian ingress and egress to an",
+     "link": "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3456,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Indian River County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "scale city deland subject property sp26 227 advent health tenant": {
+   "name": "Scale City of DeLand SUBJECT PROPERTY SP26-227 ADVENT HEALTH TENANT",
+   "awards": [
+    {
+     "entity_id": "m-deland",
+     "government": "DeLand",
+     "meeting_date": "2026-11-19",
+     "amount": null,
+     "text": "! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ",
+     "link": "https://delandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2542,plainText=false)"
+    }
+   ],
+   "governments": [
+    "DeLand"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "item b 1": {
+   "name": "Item B-1",
+   "awards": [
+    {
+     "entity_id": "c-hillsborough",
+     "government": "Hillsborough County",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "and restrictions governing operation, provides for voluntary compliance by way of warning, notice, or education, and establishes criminal and civil penalties. Approve the Business Impact Estimate (BIE). There is no financial impact to the county to adopt the ordinance except for the cost to publish ",
+     "link": "https://eagenda.hillsboroughcounty.org/portal/PTL29560/open/OBJYQ1R18"
+    }
+   ],
+   "governments": [
+    "Hillsborough County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "construction engineering inspection": {
+   "name": "Construction Engineering and Inspection",
+   "awards": [
+    {
+     "entity_id": "c-hillsborough",
+     "government": "Hillsborough County",
+     "meeting_date": "2026-11-10",
+     "amount": 3432752.0,
+     "text": "A-99 Award an agreement with Alan Plummer and Associates, Inc. (Plummer) for Construction Engineering and Inspection (CEI) Services for the One Water - South Wastewater Conveyance and Treatment Project (RPS 26-00238) in the amount of $3,432,752.50 for the Water Resources Department. This Constructio",
+     "link": "https://eagenda.hillsboroughcounty.org/portal/PTL29560/open/OBJYQ1R18"
+    }
+   ],
+   "governments": [
+    "Hillsborough County"
+   ],
+   "award_count": 1,
+   "total_amount": 3432752.0
+  },
+  "renewed community investment tax": {
+   "name": "Renewed Community Investment Tax",
+   "awards": [
+    {
+     "entity_id": "c-hillsborough",
+     "government": "Hillsborough County",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "10:00 A.M. D-3 (a) Conduct a public hearing to receive public input and discuss amending the approved list of infrastructure projects for the Renewed Community Investment Tax (CIT) as described below. This public hearing was properly noticed in the Tampa Bay Times.(b) Adopt a Resolution in the form ",
+     "link": "https://eagenda.hillsboroughcounty.org/portal/PTL29560/open/OBJYQ1R18"
+    }
+   ],
+   "governments": [
+    "Hillsborough County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "items b 3": {
+   "name": "Items B-3",
+   "awards": [
+    {
+     "entity_id": "c-hillsborough",
+     "government": "Hillsborough County",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "December 1, 2026. There is no financial impact associated with the addition of the referenced project to the approved projects list. Funding for this project is subject to Board approval of a budget amendment which will be presented in a separate agenda item. (Related to Items B-3, B-8, and B-9)",
+     "link": "https://eagenda.hillsboroughcounty.org/portal/PTL29560/open/OBJYQ1R18"
+    }
+   ],
+   "governments": [
+    "Hillsborough County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
   }
  },
- "generated_utc": "2026-11-16T19:19:39+00:00",
+ "generated_utc": "2026-11-16T20:16:10+00:00",
  "multi_government": [
   "commission",
   "section",
@@ -14579,10 +15179,13 @@
   "florida department environmental protection",
   "general fund",
   "american",
+  "martin luther king jr avenue",
   "cra board",
   "district",
   "resolution no",
+  "transportation disadvantaged",
   "department",
+  "goodwill",
   "u s department housing urban development",
   "recipient",
   "grantee",

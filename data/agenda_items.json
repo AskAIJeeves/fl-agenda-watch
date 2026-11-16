@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-16T18:33:01+00:00",
- "count": 196,
+ "generated_utc": "2026-11-16T19:47:28+00:00",
+ "count": 201,
  "items": [
   {
    "entity_id": "m-jacksonville",
@@ -629,7 +629,7 @@
    "meeting_date": "2026-11-10",
    "agenda_number": "53.",
    "file_number": "2026-0863",
-   "title": "ORD Approp $1,556,500 From the Jax Recreation & Environmental Land Acquisition Fund - Gain-Loss Sale Real Propty Acct to the Jax Recreation & Environmental Land Acquisition Fund - Land Acquisition Cost Acct to Prov Funding for the City\u2019s Purchase of  5 Properties Located at 2830 Edison Ave (R.E. No. 056342-0000), 2827 Lenox Ave (R.E. No. 056338-0000), 538 Locust St (R.E. No. 063840-0000), 0 Locust St (R.E. No. 063839-0000), & 2826 Lenox Ave (R.E. No. 063836-0000) Jax, in Council Dist 9 (Collectively, the \u201cProperty\u201d), to Be Used as a Passive Park; Apv & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver That Certain Purchase & Sale Agrmt (the \u201cAgreement\u201d) Btwn the City & 2626 River City Investments, LLC, & All Closing & Other Docs Contemplated Therein or Relating Thereto, & to Otherwise Take All Necessary Action to Effectuate the Purposes of the Agrmt to Purchase the Subj Prop at a Negotiated Purchase Price Not to Exceed $1,556,500; Prov for Oversight by the Real Estate Div of the PW Dept for the Acquisition of the Prop & by the Pks, Recreation, & Community Svcs Dept Thereafter (Loy, Jr.) (Req of the Mayor & Co-Introduced by CM Peluso)\r\n10/27/26 CO Introduced: NCSPHS, F\r\n11/2/26 NCSPHS Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
+   "title": "ORD Approp $1,556,500 From the Jax Recreation & Environmental Land Acquisition Fund - Gain-Loss Sale Real Propty Acct to the Jax Recreation & Environmental Land Acquisition Fund - Land Acquisition Cost Acct to Prov Funding for the City\u2019s Purchase of  5 Properties Located at 2830 Edison Ave (R.E. No. 056342-0000), 2827 Lenox Ave (R.E. No. 056338-0000), 538 Locust St (R.E. No. 063840-0000), 0 Locust St (R.E. No. 063839-0000), & 2826 Lenox Ave (R.E. No. 063836-0000) Jax, in Council Dist 9 (Collectively, the \u201cProperty\u201d), to Be Used as a Passive Park; Apv & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver That Certain Purchase & Sale Agrmt (the \u201cAgreement\u201d) Btwn the City & 2626 River City Investments, LLC, & All Closing & Other Docs Contemplated Therein or Relating Thereto, & to Otherwise Take All Necessary Action to Effectuate the Purposes of the Agrmt to Purchase the Subj Prop at a Negotiated Purchase Price Not to Exceed $1,556,500; Prov for Oversight by the Real Estate Div of the PW Dept for the Acquisition of the Prop & by the Pks, Recreation, & Community Svcs Dept Thereafter (Loy, Jr.) (Req of the Mayor & Co-Introduced by CM Peluso) (Co-Sponsor CM Clark-Murray)\n10/27/26 CO Introduced: NCSPHS, F\n11/2/26 NCSPHS Read 2nd & Rerefer\n11/4/26 F Read 2nd & Rerefer\n11/10/26 CO PH Read 2nd & Rerefer \n11/16/26 NCSPHS Amend/Approve 7-0\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
    "max_amount": 1556500.0,
    "flow": "out",
    "funding_source": "unstated",
@@ -698,7 +698,7 @@
    "meeting_date": "2026-11-10",
    "agenda_number": "47.",
    "file_number": "2026-0857",
-   "title": "ORD Approp $1,150,000.00 in Grant Funds from the Build America Bureau within the U.S. DOT, Thru the Regional Infrastructure Accelerator Grant Prog, for the Jax Regional Infrastructure Accelerator Proj; Amend the 27-31 5-Yr CIP Appvd by Ord 2026-505-E to Reflect This Approp of Funds to the New Proj Entitled \u201cJacksonville Regional Infrastructure Accelerator\u201d; Prov for City Oversight by the Engineering & Construction Mgmt Div of the Dept of PW (B.T. 27-013) (Dillard) (Req of Mayor)\r\n10/27/26 CO Introduced: NCSPHS, F \r\n11/2/26 NCSPHS Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
+   "title": "ORD Approp $1,150,000.00 in Grant Funds from the Build America Bureau within the U.S. DOT, Thru the Regional Infrastructure Accelerator Grant Prog, for the Jax Regional Infrastructure Accelerator Proj; Amend the 27-31 5-Yr CIP Appvd by Ord 2026-505-E to Reflect This Approp of Funds to the New Proj Entitled \u201cJacksonville Regional Infrastructure Accelerator\u201d; Prov for City Oversight by the Engineering & Construction Mgmt Div of the Dept of PW (B.T. 27-013) (Dillard) (Req of Mayor)\n10/27/26 CO Introduced: NCSPHS, F \n11/2/26 NCSPHS Read 2nd & Rerefer\n11/4/26 F Read 2nd & Rerefer\n11/10/26 CO PH Read 2nd & Rerefer \n11/16/26 NCSPHS Approve 7-0\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
    "max_amount": 1150000.0,
    "flow": "out",
    "funding_source": "special_revenue",
@@ -860,6 +860,45 @@
     {
      "body": "Council Meeting",
      "meeting_date": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "City Council",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "52.",
+   "file_number": "2026-0862",
+   "title": "ORD Approp Funds in the Total Amt of $764,358.08 From the Propty Taxes, Investment Pool Earnings, & Intrafund Equity Transfer in LINE Items Witin the Downtown Southbank CRA Trust Fund for Cleanup of Prior Yrs, to Reverse Transfer From Fund Balance Entries in the Amt of $560,168.08, & to Approp Funds to the Misc Non-Departmental Expenditures Acct for Riverwalk Wayfaring Signage in the Amt of $204,190.00; Prov the Purpose for the Approp (Lavie) (Req of DIA)\n10/27/26 CO Introduced: NCSPHS, F\n11/2/26 NCSPHS Read 2nd & Rerefer\n11/4/26 F Read 2nd & Rerefer\n11/10/26 CO PH Read 2nd & Rerefer\n11/16/26 NCSPHS Amend/Approve 7-0 \nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
+   "max_amount": 764358.0,
+   "flow": "out",
+   "funding_source": "special_revenue",
+   "signed_amount": 764358.0,
+   "signals": [
+    "vanity"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 3.9,
+   "keywords": [],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
+   "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=8987",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-10"
+    },
+    {
+     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Finance Committee",
+     "meeting_date": "2026-11-17"
     }
    ]
   },
@@ -1120,6 +1159,45 @@
    ]
   },
   {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "City Council",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "98.",
+   "file_number": "2026-0878",
+   "title": "RESO, Upon an Acknowledgement of Due Auth & the Making of Findings, Apv the Issuance by the JHFA of Its Multifamily Housing Revenue Bonds (Treetop  Apartments), in 1 or More Series, in an Aggregate Principal Amt Not to Exceed $35,500,000 for the Purpose of Financing All or a Portion of the Costs Related to the Acquisition & Rehabilitation of a Multifamily Residential Housing Facility for Persons or Families of Low, Middle or Moderate Income, to Be Located at 6355 Morse Ave, Jax, Duval County, FL, 32244, & to Be Commonly Known as \u201cTreetop  Apartments\u201d; Determining Credit Not Being Pledged (Dillard) (Req of JHFA)\n10/27/26 CO Introduced: NCSPHS, F\n11/2/26 NCSPHS Read 2nd & Rerefer\n11/4/26 F Read 2nd & Rerefer\n11/10/26 CO Read 2nd & Rerefer\n11/16/26 NCSPHS Approve 7-0",
+   "max_amount": 35500000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 35500000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 3.6,
+   "keywords": [
+    "bonds"
+   ],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
+   "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9005",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-10"
+    },
+    {
+     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Finance Committee",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "c-seminole",
    "government": "Seminole County",
    "client": "seminolecountyfl",
@@ -1193,7 +1271,7 @@
    "meeting_date": "2026-11-10",
    "agenda_number": "40.",
    "file_number": "2026-0849",
-   "title": "ORD Approp $64,737 from the Multiyear Progs & Initiatives - Council Dist 07 CBA - Contingency Acct to the Council Dist 07 - Subsidies & Contributions to Private Org Acct to Prov Add\u2019l Funding to Jacksonville Association of Firefighters, Iaff Local No. 122, Inc. (JAFF) for Restoration of a Works Progress Admin Era Fire Tower, as Originally Authd by Ord 2025-893-E; Waiving Sec 118.107 (Nonprofits to Receive Funding Through a Competitive Evaluated Award Process; Waiver & Disclosures), Pt 1 (General Provisions), Ch 118 (City Grants), Ord Code, to Auth an Amdt to the Direct Contract with JAFF; Apv, & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver an Amdt to the City Funding Agrmt btwn the City & JAFF for the Proj to Increase the Max Indebtedness by $64,737 for a New Total Max Indebtedness of $309,957 & to Extend the Term of the Agrmt to Exp on 3/31/28, with All Other Terms & Conds Remaining the Same; Prov for Cont\u2019d Oversight by the PW Dept (Staffopoulos) (Introduced by CM Peluso)(Co-Sponsor CM White, Clark-Murray, Gay, Pittman & Boylan)\r\n0/27/26 CO Introduced: R, NCSPHS, F \r\n11/2/26 R Read 2nd & Rerefer\r\n11/2/26 NCSPHS Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\n11/16/26 R Approve 6-0\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
+   "title": "ORD Approp $64,737 from the Multiyear Progs & Initiatives - Council Dist 07 CBA - Contingency Acct to the Council Dist 07 - Subsidies & Contributions to Private Org Acct to Prov Add\u2019l Funding to Jacksonville Association of Firefighters, Iaff Local No. 122, Inc. (JAFF) for Restoration of a Works Progress Admin Era Fire Tower, as Originally Authd by Ord 2025-893-E; Waiving Sec 118.107 (Nonprofits to Receive Funding Through a Competitive Evaluated Award Process; Waiver & Disclosures), Pt 1 (General Provisions), Ch 118 (City Grants), Ord Code, to Auth an Amdt to the Direct Contract with JAFF; Apv, & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver an Amdt to the City Funding Agrmt btwn the City & JAFF for the Proj to Increase the Max Indebtedness by $64,737 for a New Total Max Indebtedness of $309,957 & to Extend the Term of the Agrmt to Exp on 3/31/28, with All Other Terms & Conds Remaining the Same; Prov for Cont\u2019d Oversight by the PW Dept (Staffopoulos) (Introduced by CM Peluso)(Co-Sponsor CM White, Clark-Murray, Gay, Pittman & Boylan)\n0/27/26 CO Introduced: R, NCSPHS, F \n11/2/26 R Read 2nd & Rerefer\n11/2/26 NCSPHS Read 2nd & Rerefer\n11/4/26 F Read 2nd & Rerefer\n11/10/26 CO PH Read 2nd & Rerefer \n11/16/26 R Approve 6-0\n11/16/26 NCSPHS Approve 7-0\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
    "max_amount": 309957.0,
    "flow": "mixed",
    "funding_source": "unstated",
@@ -1217,6 +1295,46 @@
     {
      "body": "Rules Committee",
      "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Finance Committee",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "City Council",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "97.",
+   "file_number": "2026-0877",
+   "title": "RESO, Upon an Acknowledgement of Due Auth & the Making of Findings, Apv the Issuance by the JHFA of Its Multifamily Housing Revenue Bonds (Tori Meadows), in 1 or More Series, in an Aggregate Principal Amt Not to Exceed $31,200,000 for the Purpose of Financing All or a Portion of the Costs Related to the Acquisition & Construction of a Multifamily Residential Housing Facility for Persons or Families of Low, Middle or Moderate Income, to Be Located at San Diego Rd, NW of the Intersection of San Diego Rd & Spring Park Rd, Jax, Duval County, FL, 32207, & to Be Commonly Known as \u201cTori Meadows\u201d; Determining Credit Not Being Pledged (Dillard) (Req of JHFA)\n10/27/26 CO Introduced: NCSPHS, F\n11/2/26 NCSPHS Read 2nd & Rerefer\n11/4/26 F Read 2nd & Rerefer\n11/10/26 CO Read 2nd & Rerefer\n11/16/26 NCSPHS Approve 7-0",
+   "max_amount": 31200000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 31200000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 3.5,
+   "keywords": [
+    "bonds",
+    "construction"
+   ],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
+   "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9004",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-10"
     },
     {
      "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
@@ -1826,6 +1944,46 @@
     {
      "body": "City Council",
      "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "City Council",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "96.",
+   "file_number": "2026-0876",
+   "title": "RESO, Upon an Acknowledgement of Due Auth & the Making of Findings, Apv the Issuance by the JHFA of Its Multifamily Housing Revenue Bonds (Leon Landing), in 1 or More Series, in an Aggregate Principal Amt Not to Exceed $15,000,000 for the Purpose of Financing All or a Portion of the Costs Related to the Acquisition & Construction of a Multifamily Residential Housing Facility for Persons or Families of Low, Middle or Moderate Income, to Be Located at Restlawn Dr, 0.001 Miles SE of Restlawn Dr & Toni Ave, Jax, Duval County, FL, 32208, & to Be Commonly Known as \u201cLeon Landing\u201d; Determining Credit Not Being Pledged (Dillard) (Req of JHFA)\n10/27/26 CO Introduced: NCSPHS, F\n11/2/26 NCSPHS Read 2nd & Rerefer\n11/4/26 F Read 2nd & Rerefer\n11/10/26 CO Read 2nd & Rerefer\n11/16/26 NCSPHS Approve 7-0",
+   "max_amount": 15000000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 15000000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 3.2,
+   "keywords": [
+    "bonds",
+    "construction"
+   ],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
+   "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9003",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-10"
+    },
+    {
+     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Finance Committee",
+     "meeting_date": "2026-11-17"
     }
    ]
   },
@@ -4829,6 +4987,45 @@
    ]
   },
   {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "City Council",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "43.",
+   "file_number": "2026-0852",
+   "title": "ORD Approp $280,000 From the Multiyear Progs & Initiatives - Council Dist 14-Activity CBA - Contingency Acct to the Auth Capital Projs - FY23 & Forward - Argyle Forest Entry Sign Improvements - Other Construction Costs Acct, to Prov Funds for Improvements to the Argyle Forest Blvd Entry Sign Located at the Corner of Argyle Forest Blvd & Blanding Blvd in Council Dist 14; Amend the 2027-2031 5-Yr CIP Appvd by Ord 2026-505-E to Reflect This Approp of Funds to the New Proj Entitled \u201cArgyle Forest Entry Sign Improvements\u201d; Provid for Oversight by the Public Works Dept (Staffopoulos) (Introduced by CM Johnson)\n10/27/26 CO Introduced: NCSPHS, F\n11/2/26 NCSPHS Read 2nd & Rerefer\n11/4/26 F Read 2nd & Rerefer\n11/10/26 CO PH Read 2nd & Rerefer \n11/16/26 NCSPHS Approve 7-0\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
+   "max_amount": 280000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 280000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.4,
+   "keywords": [
+    "construction"
+   ],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3738&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3738_A_City_Council_26-11-10_Agenda.pdf",
+   "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=8977",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-10"
+    },
+    {
+     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "body": "Finance Committee",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "c-polk",
    "government": "Polk County",
    "client": "polkcountyfl",
@@ -6008,7 +6205,7 @@
    "meeting_date": "2026-11-16",
    "agenda_number": null,
    "file_number": null,
-   "title": "Scrivener's\r\n1. Pg. 1, line 15, pg. 6, line 31, and pg. 7, line 2: strike \u201c111.904\u201d and insert \u201c111.940\u201d\r\n2. Pg. 6, line 28: strike \u201cDivision Special Revenue\u201d\r\n\r\n\r\n\u2022 Amends Ch. 651 (Expedited Permitting) to revise the eligibility criteria for the expedited permitting process, designate the Public Works Department as responsible for coordination and implementation, and establish fees\r\n\u2022 Establishes an initial Expedited Permitting Program Fee of $20,000, which may be increased up to $40,000 by the Director of Public Works without Council approval\r\n\u2022 Establishes an Exceptional Project Fee, which cannot exceed 200% of the Expedited Permitting Program Fee without approval of the Chief Administrative Officer, for projects based on size, complexity, number of structures or permits, number of required reviewing agencies, phased permitting requirements, or other characteristics requiring greater resources, to be paid in addition to the Expedited Permitting Program Fee\r\n\u2022 These fees are supplemental and will not replace, reduce, credit against, or otherwise affect any other fees that are applicable to any project\r\n\u2022 The Expedited Permitting Program Fee and Exceptional Project Fee will be deposited as follows: 90% to the Building Inspection Fund and 10% to the Affordable Housing Special Revenue Fund\r\n\r\n",
+   "title": "AMENDMENT\r\n1. Remove references to 10% of the fees to be deposited into the Affordable Housing Special Revenue Fund\r\n2. Include a reporting requirement to provide a report to Council after 6-months and 12-months from the effective date of the bill\r\n3. Correct scrivener's\r\n\r\n\u2022 Amends Ch. 651 (Expedited Permitting) to revise the eligibility criteria for the expedited\r\npermitting process, designate the Public Works Department as responsible for coordination and\r\nimplementation, and establish fees\r\n\u2022 Establishes an initial Expedited Permitting Program Fee of $20,000, which may be increased up\r\nto $40,000 by the Director of Public Works without Council approval\r\n\u2022 Establishes an Exceptional Project Fee, which cannot exceed 200% of the Expedited Permitting\r\nProgram Fee without approval of the Chief Administrative Officer, for projects based on size,\r\ncomplexity, number of structures or permits, number of required reviewing agencies, phased\r\npermitting requirements, or other characteristics requiring greater resources, to be paid in\r\naddition to the Expedited Permitting Program Fee\r\n\u2022 These fees are supplemental and will not replace, reduce, credit against, or otherwise affect any\r\nother fees that are applicable to any project\r\n\u2022 The Expedited Permitting Program Fee and Exceptional Project Fee will be deposited as follows:\r\n90% to the Building Inspection Fund and 10% to the Affordable Housing Special Revenue Fund\r\n\r\n",
    "max_amount": 40000.0,
    "flow": "out",
    "funding_source": "special_revenue",
