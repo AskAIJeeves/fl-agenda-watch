@@ -7,6 +7,14 @@
    "general_fund_expenditures": 301486969,
    "total_expenditures": 1519396684,
    "population": 298485,
+   "fund_expenditures": {
+    "general": 301486969,
+    "special_revenue": 240908214,
+    "debt_service": 30781240,
+    "capital_projects": 39569853,
+    "enterprise": 23161858,
+    "internal_service": 52415034
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/alachuacountyexpenditures.xlsx"
   },
   "c-bay": {
@@ -15,6 +23,14 @@
    "general_fund_expenditures": 228721668,
    "total_expenditures": 1103016512,
    "population": 196112,
+   "fund_expenditures": {
+    "general": 228721668,
+    "special_revenue": 268550276,
+    "debt_service": 0,
+    "capital_projects": 0,
+    "enterprise": 56565954,
+    "internal_service": 17392118
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/baycountyexpenditures.xlsx"
   },
   "c-broward": {
@@ -23,6 +39,14 @@
    "general_fund_expenditures": 1932826044,
    "total_expenditures": 10940422685,
    "population": 1993535,
+   "fund_expenditures": {
+    "general": 1932826044,
+    "special_revenue": 1673577471,
+    "debt_service": 174331885,
+    "capital_projects": 595247529,
+    "enterprise": 926131329,
+    "internal_service": 199810595
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/browardcountyexpenditures.xlsx"
   },
   "c-charlotte": {
@@ -31,6 +55,14 @@
    "general_fund_expenditures": 295690311,
    "total_expenditures": 1901661454,
    "population": 223430,
+   "fund_expenditures": {
+    "general": 295690311,
+    "special_revenue": 494926320,
+    "debt_service": 11114752,
+    "capital_projects": 99964056,
+    "enterprise": 152887548,
+    "internal_service": 63094794
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/charlottecountyexpenditures.xlsx"
   },
   "c-collier": {
@@ -39,6 +71,14 @@
    "general_fund_expenditures": 591985007,
    "total_expenditures": 2956168053,
    "population": 413314,
+   "fund_expenditures": {
+    "general": 591985007,
+    "special_revenue": 354220080,
+    "debt_service": 41306419,
+    "capital_projects": 235564374,
+    "enterprise": 356481295,
+    "internal_service": 142869459
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/colliercountyexpenditures.xlsx"
   },
   "c-desoto": {
@@ -47,6 +87,14 @@
    "general_fund_expenditures": 49290032,
    "total_expenditures": 134382892,
    "population": 35947,
+   "fund_expenditures": {
+    "general": 49290032,
+    "special_revenue": 32511367,
+    "debt_service": 0,
+    "capital_projects": 5453491,
+    "enterprise": 9889110,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/desotocountyexpenditures.xlsx"
   },
   "c-escambia": {
@@ -55,6 +103,14 @@
    "general_fund_expenditures": 299490946,
    "total_expenditures": 1299750645,
    "population": 337728,
+   "fund_expenditures": {
+    "general": 299490946,
+    "special_revenue": 269121702,
+    "debt_service": 12179294,
+    "capital_projects": 62830985,
+    "enterprise": 63174120,
+    "internal_service": 62864914
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/escambiacountyexpenditures.xlsx"
   },
   "c-flagler": {
@@ -63,6 +119,14 @@
    "general_fund_expenditures": 162272713,
    "total_expenditures": 632860465,
    "population": 140714,
+   "fund_expenditures": {
+    "general": 162272713,
+    "special_revenue": 50833609,
+    "debt_service": 41388307,
+    "capital_projects": 14275001,
+    "enterprise": 8864453,
+    "internal_service": 10394168
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/flaglercountyexpenditures.xlsx"
   },
   "c-gadsden": {
@@ -71,6 +135,14 @@
    "general_fund_expenditures": 41142440,
    "total_expenditures": 117294055,
    "population": 44853,
+   "fund_expenditures": {
+    "general": 41142440,
+    "special_revenue": 33538389,
+    "debt_service": 2261956,
+    "capital_projects": 7816161,
+    "enterprise": 0,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/gadsdencountyexpenditures.xlsx"
   },
   "c-hardee": {
@@ -79,6 +151,14 @@
    "general_fund_expenditures": 42766943,
    "total_expenditures": 102107127,
    "population": 25883,
+   "fund_expenditures": {
+    "general": 42766943,
+    "special_revenue": 24217550,
+    "debt_service": 0,
+    "capital_projects": 0,
+    "enterprise": 4372252,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/hardeecountyexpenditures.xlsx"
   },
   "c-hernando": {
@@ -87,6 +167,14 @@
    "general_fund_expenditures": 164858003,
    "total_expenditures": 646159846,
    "population": 210577,
+   "fund_expenditures": {
+    "general": 164858003,
+    "special_revenue": 142539155,
+    "debt_service": 3559899,
+    "capital_projects": 6440852,
+    "enterprise": 61180680,
+    "internal_service": 48180427
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/hernandocountyexpenditures.xlsx"
   },
   "c-highlands": {
@@ -95,6 +183,14 @@
    "general_fund_expenditures": 98499700,
    "total_expenditures": 285222443,
    "population": 106109,
+   "fund_expenditures": {
+    "general": 98499700,
+    "special_revenue": 49260295,
+    "debt_service": 0,
+    "capital_projects": 854331,
+    "enterprise": 12416620,
+    "internal_service": 22699063
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/highlandscountyexpenditures.xlsx"
   },
   "c-hillsborough": {
@@ -103,6 +199,14 @@
    "general_fund_expenditures": 1872403900,
    "total_expenditures": 9035938484,
    "population": 1575637,
+   "fund_expenditures": {
+    "general": 1872403900,
+    "special_revenue": 1762749969,
+    "debt_service": 176690230,
+    "capital_projects": 90446807,
+    "enterprise": 665747526,
+    "internal_service": 344828000
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/hillsboroughcountyexpenditures.xlsx"
   },
   "c-indianriver": {
@@ -111,6 +215,14 @@
    "general_fund_expenditures": 185370060,
    "total_expenditures": 877158895,
    "population": 173013,
+   "fund_expenditures": {
+    "general": 185370060,
+    "special_revenue": 130910746,
+    "debt_service": 2277683,
+    "capital_projects": 34069177,
+    "enterprise": 90293007,
+    "internal_service": 49936648
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/indianrivercountyexpenditures.xlsx"
   },
   "c-jackson": {
@@ -119,6 +231,14 @@
    "general_fund_expenditures": 45027024,
    "total_expenditures": 162664060,
    "population": 49345,
+   "fund_expenditures": {
+    "general": 45027024,
+    "special_revenue": 47220353,
+    "debt_service": 0,
+    "capital_projects": 3487411,
+    "enterprise": 2477260,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/jacksoncountyexpenditures.xlsx"
   },
   "c-lake": {
@@ -127,6 +247,14 @@
    "general_fund_expenditures": 292743261,
    "total_expenditures": 695994829,
    "population": 445881,
+   "fund_expenditures": {
+    "general": 292743261,
+    "special_revenue": 295167808,
+    "debt_service": 60186739,
+    "capital_projects": 13228693,
+    "enterprise": 32512977,
+    "internal_service": 547462
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/lakecountyexpenditures.xlsx"
   },
   "c-lee": {
@@ -135,6 +263,14 @@
    "general_fund_expenditures": 874114132,
    "total_expenditures": 2940038297,
    "population": 839223,
+   "fund_expenditures": {
+    "general": 874114132,
+    "special_revenue": 602560841,
+    "debt_service": 30019240,
+    "capital_projects": 236541228,
+    "enterprise": 1183923220,
+    "internal_service": 10791186
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/leecountyexpenditures.xlsx"
   },
   "c-levy": {
@@ -143,6 +279,14 @@
    "general_fund_expenditures": 54254753,
    "total_expenditures": 192811201,
    "population": 46270,
+   "fund_expenditures": {
+    "general": 54254753,
+    "special_revenue": 28346298,
+    "debt_service": 0,
+    "capital_projects": 9744365,
+    "enterprise": 6258214,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/levycountyexpenditures.xlsx"
   },
   "c-manatee": {
@@ -151,6 +295,14 @@
    "general_fund_expenditures": 659603000,
    "total_expenditures": 3602479000,
    "population": 466845,
+   "fund_expenditures": {
+    "general": 659603000,
+    "special_revenue": 405896000,
+    "debt_service": 43063000,
+    "capital_projects": 371101000,
+    "enterprise": 393932000,
+    "internal_service": 138289000
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/manateecountyexpenditures.xlsx"
   },
   "c-martin": {
@@ -159,6 +311,14 @@
    "general_fund_expenditures": 242946091,
    "total_expenditures": 986100520,
    "population": 166281,
+   "fund_expenditures": {
+    "general": 242946091,
+    "special_revenue": 184410462,
+    "debt_service": 8306838,
+    "capital_projects": 43033890,
+    "enterprise": 90277282,
+    "internal_service": 63232740
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/martincountyexpenditures.xlsx"
   },
   "c-miamidade": {
@@ -167,6 +327,14 @@
    "general_fund_expenditures": 3660844000,
    "total_expenditures": 21856903000,
    "population": 2774841,
+   "fund_expenditures": {
+    "general": 3660844000,
+    "special_revenue": 2992325000,
+    "debt_service": 407177000,
+    "capital_projects": 652676000,
+    "enterprise": 6751761000,
+    "internal_service": 772762000
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/miamidadecountyexpenditures.xlsx"
   },
   "c-monroe": {
@@ -175,6 +343,14 @@
    "general_fund_expenditures": 162636055,
    "total_expenditures": 1174552078,
    "population": 84707,
+   "fund_expenditures": {
+    "general": 162636055,
+    "special_revenue": 337952775,
+    "debt_service": 23327842,
+    "capital_projects": 84982828,
+    "enterprise": 78075053,
+    "internal_service": 37356473
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/monroecountyexpenditures.xlsx"
   },
   "c-nassau": {
@@ -183,6 +359,14 @@
    "general_fund_expenditures": 155453957,
    "total_expenditures": 529613036,
    "population": 107053,
+   "fund_expenditures": {
+    "general": 155453957,
+    "special_revenue": 80011924,
+    "debt_service": 3267517,
+    "capital_projects": 46282516,
+    "enterprise": 36634532,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/nassaucountyexpenditures.xlsx"
   },
   "c-okaloosa": {
@@ -191,6 +375,14 @@
    "general_fund_expenditures": 177252142,
    "total_expenditures": 1022431417,
    "population": 221806,
+   "fund_expenditures": {
+    "general": 177252142,
+    "special_revenue": 72123090,
+    "debt_service": 9020140,
+    "capital_projects": 59342468,
+    "enterprise": 100915412,
+    "internal_service": 19378458
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/okaloosacountyexpenditures.xlsx"
   },
   "c-okeechobee": {
@@ -199,6 +391,14 @@
    "general_fund_expenditures": 48056508,
    "total_expenditures": 164583700,
    "population": 40230,
+   "fund_expenditures": {
+    "general": 48056508,
+    "special_revenue": 33832545,
+    "debt_service": 790000,
+    "capital_projects": 27706785,
+    "enterprise": 119354,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/okeechobeecountyexpenditures.xlsx"
   },
   "c-orange": {
@@ -207,6 +407,14 @@
    "general_fund_expenditures": 1499122392,
    "total_expenditures": 9124607385,
    "population": 1536045,
+   "fund_expenditures": {
+    "general": 1499122392,
+    "special_revenue": 1634110448,
+    "debt_service": 294856175,
+    "capital_projects": 155261291,
+    "enterprise": 751955141,
+    "internal_service": 272139562
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/orangecountyexpenditures.xlsx"
   },
   "c-osceola": {
@@ -215,6 +423,14 @@
    "general_fund_expenditures": 548000962,
    "total_expenditures": 1647886858,
    "population": 484915,
+   "fund_expenditures": {
+    "general": 548000962,
+    "special_revenue": 560097300,
+    "debt_service": 95313310,
+    "capital_projects": 260267428,
+    "enterprise": 45683792,
+    "internal_service": 2109557
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/osceolacountyexpenditures.xlsx"
   },
   "c-palmbeach": {
@@ -223,6 +439,14 @@
    "general_fund_expenditures": 2087838582,
    "total_expenditures": 8951719501,
    "population": 1556161,
+   "fund_expenditures": {
+    "general": 2087838582,
+    "special_revenue": 1253885343,
+    "debt_service": 94778294,
+    "capital_projects": 390475934,
+    "enterprise": 338281485,
+    "internal_service": 178544094
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/palmbeachcountyexpenditures.xlsx"
   },
   "c-pasco": {
@@ -231,6 +455,14 @@
    "general_fund_expenditures": 614477955,
    "total_expenditures": 3453791800,
    "population": 648369,
+   "fund_expenditures": {
+    "general": 614477955,
+    "special_revenue": 518742109,
+    "debt_service": 31160754,
+    "capital_projects": 261744640,
+    "enterprise": 293618979,
+    "internal_service": 167490584
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/pascocountyexpenditures.xlsx"
   },
   "c-pinellas": {
@@ -239,6 +471,14 @@
    "general_fund_expenditures": 1005420903,
    "total_expenditures": 6607592639,
    "population": 966933,
+   "fund_expenditures": {
+    "general": 1005420903,
+    "special_revenue": 784281322,
+    "debt_service": 0,
+    "capital_projects": 180280745,
+    "enterprise": 323352005,
+    "internal_service": 241853450
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/pinellascountyexpenditures.xlsx"
   },
   "c-polk": {
@@ -247,6 +487,14 @@
    "general_fund_expenditures": 584712851,
    "total_expenditures": 2761973929,
    "population": 846896,
+   "fund_expenditures": {
+    "general": 584712851,
+    "special_revenue": 621907281,
+    "debt_service": 15446072,
+    "capital_projects": 29361923,
+    "enterprise": 190541541,
+    "internal_service": 124411400
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/polkcountyexpenditures.xlsx"
   },
   "c-santarosa": {
@@ -255,6 +503,14 @@
    "general_fund_expenditures": 162760150,
    "total_expenditures": 630520706,
    "population": 207983,
+   "fund_expenditures": {
+    "general": 162760150,
+    "special_revenue": 97297226,
+    "debt_service": 4608799,
+    "capital_projects": 11102361,
+    "enterprise": 21952871,
+    "internal_service": 5459011
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/santarosacountyexpenditures.xlsx"
   },
   "c-sarasota": {
@@ -263,6 +519,14 @@
    "general_fund_expenditures": 438971222,
    "total_expenditures": 3696691288,
    "population": 487640,
+   "fund_expenditures": {
+    "general": 438971222,
+    "special_revenue": 520671904,
+    "debt_service": 51344956,
+    "capital_projects": 244828555,
+    "enterprise": 352695480,
+    "internal_service": 176500197
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/sarasotacountyexpenditures.xlsx"
   },
   "c-seminole": {
@@ -271,6 +535,14 @@
    "general_fund_expenditures": 377305377,
    "total_expenditures": 1472074464,
    "population": 493282,
+   "fund_expenditures": {
+    "general": 377305377,
+    "special_revenue": 311725533,
+    "debt_service": 19560865,
+    "capital_projects": 6820687,
+    "enterprise": 96310060,
+    "internal_service": 64428976
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/seminolecountyexpenditures.xlsx"
   },
   "c-stjohns": {
@@ -279,6 +551,14 @@
    "general_fund_expenditures": 349912191,
    "total_expenditures": 1937944969,
    "population": 348336,
+   "fund_expenditures": {
+    "general": 349912191,
+    "special_revenue": 295945650,
+    "debt_service": 81560291,
+    "capital_projects": 29958939,
+    "enterprise": 130635536,
+    "internal_service": 46932423
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/stjohnscountyexpenditures.xlsx"
   },
   "c-stlucie": {
@@ -287,6 +567,14 @@
    "general_fund_expenditures": 327619361,
    "total_expenditures": 1951208781,
    "population": 394074,
+   "fund_expenditures": {
+    "general": 327619361,
+    "special_revenue": 218480552,
+    "debt_service": 22719783,
+    "capital_projects": 112141780,
+    "enterprise": 51700805,
+    "internal_service": 26600926
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/stluciecountyexpenditures.xlsx"
   },
   "c-suwannee": {
@@ -295,6 +583,14 @@
    "general_fund_expenditures": 39837756,
    "total_expenditures": 174892020,
    "population": 46519,
+   "fund_expenditures": {
+    "general": 39837756,
+    "special_revenue": 66876119,
+    "debt_service": 0,
+    "capital_projects": 90,
+    "enterprise": 5509318,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/suwanneecountyexpenditures.xlsx"
   },
   "c-volusia": {
@@ -303,6 +599,14 @@
    "general_fund_expenditures": 339155556,
    "total_expenditures": 2208369437,
    "population": 604533,
+   "fund_expenditures": {
+    "general": 339155556,
+    "special_revenue": 738667421,
+    "debt_service": 7428086,
+    "capital_projects": 29171321,
+    "enterprise": 136473187,
+    "internal_service": 101041657
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/cntyfiscal/volusiacountyexpenditures.xlsx"
   },
   "m-apopka": {
@@ -311,6 +615,14 @@
    "general_fund_expenditures": 108411731,
    "total_expenditures": 195822409,
    "population": 66580,
+   "fund_expenditures": {
+    "general": 108411731,
+    "special_revenue": 23569326,
+    "debt_service": 0,
+    "capital_projects": 0,
+    "enterprise": 48866584,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/apopkaexpenditures.xlsx"
   },
   "m-aventura": {
@@ -319,6 +631,14 @@
    "general_fund_expenditures": 54545012,
    "total_expenditures": 102378714,
    "population": 40171,
+   "fund_expenditures": {
+    "general": 54545012,
+    "special_revenue": 38331931,
+    "debt_service": 2451885,
+    "capital_projects": 63712,
+    "enterprise": 1820721,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/aventuraexpenditures.xlsx"
   },
   "m-bartow": {
@@ -327,6 +647,14 @@
    "general_fund_expenditures": 32095066,
    "total_expenditures": 117825235,
    "population": 20502,
+   "fund_expenditures": {
+    "general": 32095066,
+    "special_revenue": 9428828,
+    "debt_service": 0,
+    "capital_projects": 0,
+    "enterprise": 62469642,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/bartowexpenditures.xlsx"
   },
   "m-bocaraton": {
@@ -335,6 +663,14 @@
    "general_fund_expenditures": 256942874,
    "total_expenditures": 592830467,
    "population": 100897,
+   "fund_expenditures": {
+    "general": 256942874,
+    "special_revenue": 84921399,
+    "debt_service": 15994231,
+    "capital_projects": 21044480,
+    "enterprise": 83017739,
+    "internal_service": 63092178
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/bocaratonexpenditures.xlsx"
   },
   "m-boyntonbeach": {
@@ -343,6 +679,14 @@
    "general_fund_expenditures": 126944717,
    "total_expenditures": 332196196,
    "population": 82393,
+   "fund_expenditures": {
+    "general": 126944717,
+    "special_revenue": 42848361,
+    "debt_service": 14117079,
+    "capital_projects": 21587495,
+    "enterprise": 73827029,
+    "internal_service": 21800285
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/boyntonbeachexpenditures.xlsx"
   },
   "m-bradenton": {
@@ -351,6 +695,14 @@
    "general_fund_expenditures": 62942605,
    "total_expenditures": 163459113,
    "population": 57474,
+   "fund_expenditures": {
+    "general": 62942605,
+    "special_revenue": 14228362,
+    "debt_service": 1790930,
+    "capital_projects": 17323498,
+    "enterprise": 41756234,
+    "internal_service": 14353096
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/bradentonexpenditures.xlsx"
   },
   "m-capecoral": {
@@ -359,6 +711,14 @@
    "general_fund_expenditures": 266091666,
    "total_expenditures": 954127969,
    "population": 222862,
+   "fund_expenditures": {
+    "general": 266091666,
+    "special_revenue": 180485948,
+    "debt_service": 25714418,
+    "capital_projects": 120362688,
+    "enterprise": 186729280,
+    "internal_service": 80903275
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/capecoralexpenditures.xlsx"
   },
   "m-casselberry": {
@@ -367,6 +727,14 @@
    "general_fund_expenditures": 21594328,
    "total_expenditures": 81710602,
    "population": 30120,
+   "fund_expenditures": {
+    "general": 21594328,
+    "special_revenue": 29783824,
+    "debt_service": 4158761,
+    "capital_projects": 693958,
+    "enterprise": 24479874,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/casselberryexpenditures.xlsx"
   },
   "m-clearwater": {
@@ -375,6 +743,14 @@
    "general_fund_expenditures": 224561521,
    "total_expenditures": 768723776,
    "population": 118327,
+   "fund_expenditures": {
+    "general": 224561521,
+    "special_revenue": 45147851,
+    "debt_service": 2395384,
+    "capital_projects": 62337045,
+    "enterprise": 252752124,
+    "internal_service": 99521229
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/clearwaterexpenditures.xlsx"
   },
   "m-clermont": {
@@ -383,6 +759,14 @@
    "general_fund_expenditures": 53024409,
    "total_expenditures": 131086328,
    "population": 51042,
+   "fund_expenditures": {
+    "general": 53024409,
+    "special_revenue": 13080903,
+    "debt_service": 16598350,
+    "capital_projects": 0,
+    "enterprise": 39980125,
+    "internal_service": 6865171
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/clermontexpenditures.xlsx"
   },
   "m-cocoa": {
@@ -391,6 +775,14 @@
    "general_fund_expenditures": 43771086,
    "total_expenditures": 134956945,
    "population": 21123,
+   "fund_expenditures": {
+    "general": 43771086,
+    "special_revenue": 5023546,
+    "debt_service": 1074630,
+    "capital_projects": 3234769,
+    "enterprise": 72298769,
+    "internal_service": 1523575
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/cocoaexpenditures.xlsx"
   },
   "m-cocoabeach": {
@@ -399,6 +791,14 @@
    "general_fund_expenditures": 208870,
    "total_expenditures": 20062603,
    "population": 11349,
+   "fund_expenditures": {
+    "general": 208870,
+    "special_revenue": 402000,
+    "debt_service": 0,
+    "capital_projects": 0,
+    "enterprise": 10866449,
+    "internal_service": 3609495
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/cocoabeachexpenditures.xlsx"
   },
   "m-coconutcreek": {
@@ -407,6 +807,14 @@
    "general_fund_expenditures": 106392129,
    "total_expenditures": 151094239,
    "population": 57933,
+   "fund_expenditures": {
+    "general": 106392129,
+    "special_revenue": 7946646,
+    "debt_service": 2471350,
+    "capital_projects": 6627321,
+    "enterprise": 27656793,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/coconutcreekexpenditures.xlsx"
   },
   "m-coralgables": {
@@ -415,6 +823,14 @@
    "general_fund_expenditures": 221621891,
    "total_expenditures": 382454599,
    "population": 50813,
+   "fund_expenditures": {
+    "general": 221621891,
+    "special_revenue": 4301809,
+    "debt_service": 8696361,
+    "capital_projects": 23611146,
+    "enterprise": 30749514,
+    "internal_service": 32905379
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/coralgablesexpenditures.xlsx"
   },
   "m-coralsprings": {
@@ -423,6 +839,14 @@
    "general_fund_expenditures": 186505847,
    "total_expenditures": 403145421,
    "population": 136062,
+   "fund_expenditures": {
+    "general": 186505847,
+    "special_revenue": 64296492,
+    "debt_service": 12860315,
+    "capital_projects": 18896934,
+    "enterprise": 41625935,
+    "internal_service": 33316282
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/coralspringsexpenditures.xlsx"
   },
   "m-crestview": {
@@ -431,6 +855,14 @@
    "general_fund_expenditures": 37499232,
    "total_expenditures": 60755335,
    "population": 29872,
+   "fund_expenditures": {
+    "general": 37499232,
+    "special_revenue": 1452398,
+    "debt_service": 141942,
+    "capital_projects": 0,
+    "enterprise": 18325457,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/crestviewexpenditures.xlsx"
   },
   "m-crystalriver": {
@@ -439,6 +871,14 @@
    "general_fund_expenditures": 10325480,
    "total_expenditures": 19622558,
    "population": 3271,
+   "fund_expenditures": {
+    "general": 10325480,
+    "special_revenue": 2932076,
+    "debt_service": 0,
+    "capital_projects": 0,
+    "enterprise": 6365002,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/crystalriverexpenditures.xlsx"
   },
   "m-cutlerbay": {
@@ -447,6 +887,14 @@
    "general_fund_expenditures": 34435838,
    "total_expenditures": 47867467,
    "population": 45026,
+   "fund_expenditures": {
+    "general": 34435838,
+    "special_revenue": 10184174,
+    "debt_service": 0,
+    "capital_projects": 1708969,
+    "enterprise": 1538486,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/cutlerbayexpenditures.xlsx"
   },
   "m-daniabeach": {
@@ -455,6 +903,14 @@
    "general_fund_expenditures": 83252986,
    "total_expenditures": 191798353,
    "population": 34034,
+   "fund_expenditures": {
+    "general": 83252986,
+    "special_revenue": 13203182,
+    "debt_service": 1928439,
+    "capital_projects": 17387170,
+    "enterprise": 57459301,
+    "internal_service": 5189230
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/daniabeachexpenditures.xlsx"
   },
   "m-davie": {
@@ -463,6 +919,14 @@
    "general_fund_expenditures": 207878061,
    "total_expenditures": 361925813,
    "population": 107914,
+   "fund_expenditures": {
+    "general": 207878061,
+    "special_revenue": 30422363,
+    "debt_service": 2135000,
+    "capital_projects": 22577031,
+    "enterprise": 29698195,
+    "internal_service": 35828624
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/davieexpenditures.xlsx"
   },
   "m-daytonabeach": {
@@ -471,6 +935,14 @@
    "general_fund_expenditures": 149810473,
    "total_expenditures": 380282377,
    "population": 88144,
+   "fund_expenditures": {
+    "general": 149810473,
+    "special_revenue": 38325452,
+    "debt_service": 11374959,
+    "capital_projects": 29656047,
+    "enterprise": 105751293,
+    "internal_service": 21653720
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/daytonabeachexpenditures.xlsx"
   },
   "m-deerfieldbeach": {
@@ -479,6 +951,14 @@
    "general_fund_expenditures": 135716228,
    "total_expenditures": 263176807,
    "population": 87402,
+   "fund_expenditures": {
+    "general": 135716228,
+    "special_revenue": 17997895,
+    "debt_service": 5805596,
+    "capital_projects": 22364352,
+    "enterprise": 53401898,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/deerfieldbeachexpenditures.xlsx"
   },
   "m-deland": {
@@ -487,6 +967,14 @@
    "general_fund_expenditures": 47346420,
    "total_expenditures": 115077785,
    "population": 44316,
+   "fund_expenditures": {
+    "general": 47346420,
+    "special_revenue": 5531520,
+    "debt_service": 1993936,
+    "capital_projects": 4582721,
+    "enterprise": 46857627,
+    "internal_service": 1754587
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/delandexpenditures.xlsx"
   },
   "m-delraybeach": {
@@ -495,6 +983,14 @@
    "general_fund_expenditures": 184493354,
    "total_expenditures": 399130758,
    "population": 69038,
+   "fund_expenditures": {
+    "general": 184493354,
+    "special_revenue": 31155753,
+    "debt_service": 4014011,
+    "capital_projects": 45557227,
+    "enterprise": 64309978,
+    "internal_service": 33197609
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/delraybeachexpenditures.xlsx"
   },
   "m-deltona": {
@@ -503,6 +999,14 @@
    "general_fund_expenditures": 78711482,
    "total_expenditures": 133596677,
    "population": 98792,
+   "fund_expenditures": {
+    "general": 78711482,
+    "special_revenue": 6215125,
+    "debt_service": 0,
+    "capital_projects": 737623,
+    "enterprise": 41616706,
+    "internal_service": 3551750
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/deltonaexpenditures.xlsx"
   },
   "m-destin": {
@@ -511,6 +1015,14 @@
    "general_fund_expenditures": 21340047,
    "total_expenditures": 53893933,
    "population": 14640,
+   "fund_expenditures": {
+    "general": 21340047,
+    "special_revenue": 6220128,
+    "debt_service": 4395406,
+    "capital_projects": 21030719,
+    "enterprise": 0,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/destinexpenditures.xlsx"
   },
   "m-doral": {
@@ -519,6 +1031,14 @@
    "general_fund_expenditures": 113180618,
    "total_expenditures": 164958228,
    "population": 83746,
+   "fund_expenditures": {
+    "general": 113180618,
+    "special_revenue": 21126324,
+    "debt_service": 7579631,
+    "capital_projects": 20694148,
+    "enterprise": 2377507,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/doralexpenditures.xlsx"
   },
   "m-dunedin": {
@@ -527,6 +1047,14 @@
    "general_fund_expenditures": 38960693,
    "total_expenditures": 112366422,
    "population": 35606,
+   "fund_expenditures": {
+    "general": 38960693,
+    "special_revenue": 18417776,
+    "debt_service": 0,
+    "capital_projects": 0,
+    "enterprise": 35506202,
+    "internal_service": 16542788
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/dunedinexpenditures.xlsx"
   },
   "m-edgewater": {
@@ -535,6 +1063,14 @@
    "general_fund_expenditures": 27206551,
    "total_expenditures": 69914805,
    "population": 25655,
+   "fund_expenditures": {
+    "general": 27206551,
+    "special_revenue": 4180121,
+    "debt_service": 437657,
+    "capital_projects": 2966794,
+    "enterprise": 23881313,
+    "internal_service": 7268448
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/edgewaterexpenditures.xlsx"
   },
   "m-eustis": {
@@ -543,6 +1079,14 @@
    "general_fund_expenditures": 26426640,
    "total_expenditures": 57049736,
    "population": 24477,
+   "fund_expenditures": {
+    "general": 26426640,
+    "special_revenue": 8566108,
+    "debt_service": 0,
+    "capital_projects": 4072535,
+    "enterprise": 14930924,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/eustisexpenditures.xlsx"
   },
   "m-fernandinabeach": {
@@ -551,6 +1095,14 @@
    "general_fund_expenditures": 33254084,
    "total_expenditures": 74533062,
    "population": 13958,
+   "fund_expenditures": {
+    "general": 33254084,
+    "special_revenue": 2567955,
+    "debt_service": 0,
+    "capital_projects": 8079053,
+    "enterprise": 23715621,
+    "internal_service": 2840932
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/fernandinabeachexpenditures.xlsx"
   },
   "m-fortlauderdale": {
@@ -559,6 +1111,14 @@
    "general_fund_expenditures": 476645235,
    "total_expenditures": 1299501415,
    "population": 189583,
+   "fund_expenditures": {
+    "general": 476645235,
+    "special_revenue": 116078032,
+    "debt_service": 47498400,
+    "capital_projects": 115892780,
+    "enterprise": 282572559,
+    "internal_service": 122949700
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/fortlauderdaleexpenditures.xlsx"
   },
   "m-fortwaltonbeach": {
@@ -567,6 +1127,14 @@
    "general_fund_expenditures": 38355796,
    "total_expenditures": 69337855,
    "population": 21553,
+   "fund_expenditures": {
+    "general": 38355796,
+    "special_revenue": 4503348,
+    "debt_service": 0,
+    "capital_projects": 0,
+    "enterprise": 18841666,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/fortwaltonbeachexpenditures.xlsx"
   },
   "m-gainesville": {
@@ -575,6 +1143,14 @@
    "general_fund_expenditures": 169265713,
    "total_expenditures": 914899654,
    "population": 151275,
+   "fund_expenditures": {
+    "general": 169265713,
+    "special_revenue": 29633423,
+    "debt_service": 26770729,
+    "capital_projects": 22907885,
+    "enterprise": 529739955,
+    "internal_service": 55450981
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/gainesvilleexpenditures.xlsx"
   },
   "m-greenacres": {
@@ -583,6 +1159,14 @@
    "general_fund_expenditures": 43932112,
    "total_expenditures": 60494642,
    "population": 45403,
+   "fund_expenditures": {
+    "general": 43932112,
+    "special_revenue": 987873,
+    "debt_service": 0,
+    "capital_projects": 14701251,
+    "enterprise": 0,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/greenacresexpenditures.xlsx"
   },
   "m-groveland": {
@@ -591,6 +1175,14 @@
    "general_fund_expenditures": 24455765,
    "total_expenditures": 64308950,
    "population": 23697,
+   "fund_expenditures": {
+    "general": 24455765,
+    "special_revenue": 10290563,
+    "debt_service": 1062046,
+    "capital_projects": 13447176,
+    "enterprise": 15053400,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/grovelandexpenditures.xlsx"
   },
   "m-gulfport": {
@@ -599,6 +1191,14 @@
    "general_fund_expenditures": 28195772,
    "total_expenditures": 50373693,
    "population": 11525,
+   "fund_expenditures": {
+    "general": 28195772,
+    "special_revenue": 144370,
+    "debt_service": 0,
+    "capital_projects": 1645804,
+    "enterprise": 17946046,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/gulfportexpenditures.xlsx"
   },
   "m-hainescity": {
@@ -607,6 +1207,14 @@
    "general_fund_expenditures": 73586480,
    "total_expenditures": 132261787,
    "population": 44215,
+   "fund_expenditures": {
+    "general": 73586480,
+    "special_revenue": 7230675,
+    "debt_service": 4087672,
+    "capital_projects": 17422535,
+    "enterprise": 22141451,
+    "internal_service": 4115083
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/hainescityexpenditures.xlsx"
   },
   "m-hallandalebeach": {
@@ -615,6 +1223,14 @@
    "general_fund_expenditures": 104040186,
    "total_expenditures": 241646965,
    "population": 41819,
+   "fund_expenditures": {
+    "general": 104040186,
+    "special_revenue": 39645223,
+    "debt_service": 5370544,
+    "capital_projects": 4917781,
+    "enterprise": 46514430,
+    "internal_service": 13171548
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/hallandalebeachexpenditures.xlsx"
   },
   "m-hollywood": {
@@ -623,6 +1239,14 @@
    "general_fund_expenditures": 321448595,
    "total_expenditures": 896015401,
    "population": 156997,
+   "fund_expenditures": {
+    "general": 321448595,
+    "special_revenue": 89448301,
+    "debt_service": 19736190,
+    "capital_projects": 96879066,
+    "enterprise": 133424596,
+    "internal_service": 89933276
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/hollywoodexpenditures.xlsx"
   },
   "m-inverness": {
@@ -631,6 +1255,14 @@
    "general_fund_expenditures": 13498180,
    "total_expenditures": 28575919,
    "population": 7937,
+   "fund_expenditures": {
+    "general": 13498180,
+    "special_revenue": 1631085,
+    "debt_service": 0,
+    "capital_projects": 8651051,
+    "enterprise": 4795603,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/invernessexpenditures.xlsx"
   },
   "m-jacksonville": {
@@ -639,6 +1271,14 @@
    "general_fund_expenditures": 1746961049,
    "total_expenditures": 10444258800,
    "population": 1016103,
+   "fund_expenditures": {
+    "general": 1746961049,
+    "special_revenue": 639607198,
+    "debt_service": 202985670,
+    "capital_projects": 326533582,
+    "enterprise": 322988993,
+    "internal_service": 438578497
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/jacksonvilleexpenditures.xlsx"
   },
   "m-jacksonvillebeach": {
@@ -647,6 +1287,14 @@
    "general_fund_expenditures": 32993599,
    "total_expenditures": 213314956,
    "population": 24253,
+   "fund_expenditures": {
+    "general": 32993599,
+    "special_revenue": 28785980,
+    "debt_service": 0,
+    "capital_projects": 3666687,
+    "enterprise": 121360069,
+    "internal_service": 17649604
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/jacksonvillebeachexpenditures.xlsx"
   },
   "m-jupiter": {
@@ -655,6 +1303,14 @@
    "general_fund_expenditures": 74570276,
    "total_expenditures": 162489945,
    "population": 61246,
+   "fund_expenditures": {
+    "general": 74570276,
+    "special_revenue": 17108785,
+    "debt_service": 4060006,
+    "capital_projects": 22012838,
+    "enterprise": 34974183,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/jupiterexpenditures.xlsx"
   },
   "m-keywest": {
@@ -663,6 +1319,14 @@
    "general_fund_expenditures": 73095310,
    "total_expenditures": 219619189,
    "population": 26327,
+   "fund_expenditures": {
+    "general": 73095310,
+    "special_revenue": 21225029,
+    "debt_service": 0,
+    "capital_projects": 18437839,
+    "enterprise": 54018157,
+    "internal_service": 16338323
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/keywestexpenditures.xlsx"
   },
   "m-kissimmee": {
@@ -671,6 +1335,14 @@
    "general_fund_expenditures": 111890517,
    "total_expenditures": 282264485,
    "population": 87664,
+   "fund_expenditures": {
+    "general": 111890517,
+    "special_revenue": 57527544,
+    "debt_service": 25866548,
+    "capital_projects": 17629850,
+    "enterprise": 17478755,
+    "internal_service": 30701870
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/kissimmeeexpenditures.xlsx"
   },
   "m-lakecity": {
@@ -679,6 +1351,14 @@
    "general_fund_expenditures": 19879004,
    "total_expenditures": 52258675,
    "population": 12494,
+   "fund_expenditures": {
+    "general": 19879004,
+    "special_revenue": 6095661,
+    "debt_service": 844439,
+    "capital_projects": 325980,
+    "enterprise": 21152111,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/lakecityexpenditures.xlsx"
   },
   "m-lakeland": {
@@ -687,6 +1367,14 @@
    "general_fund_expenditures": 179514699,
    "total_expenditures": 982038481,
    "population": 124725,
+   "fund_expenditures": {
+    "general": 179514699,
+    "special_revenue": 37944970,
+    "debt_service": 3617265,
+    "capital_projects": 63868050,
+    "enterprise": 486926931,
+    "internal_service": 115906160
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/lakelandexpenditures.xlsx"
   },
   "m-lakemary": {
@@ -695,6 +1383,14 @@
    "general_fund_expenditures": 28173282,
    "total_expenditures": 47414104,
    "population": 17516,
+   "fund_expenditures": {
+    "general": 28173282,
+    "special_revenue": 878342,
+    "debt_service": 0,
+    "capital_projects": 3645292,
+    "enterprise": 10092706,
+    "internal_service": 1498589
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/lakemaryexpenditures.xlsx"
   },
   "m-lakepark": {
@@ -703,6 +1399,14 @@
    "general_fund_expenditures": 13613476,
    "total_expenditures": 26032200,
    "population": 9014,
+   "fund_expenditures": {
+    "general": 13613476,
+    "special_revenue": 4651544,
+    "debt_service": 0,
+    "capital_projects": 0,
+    "enterprise": 7129403,
+    "internal_service": 469625
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/lakeparkexpenditures.xlsx"
   },
   "m-lakewales": {
@@ -711,6 +1415,14 @@
    "general_fund_expenditures": 27610085,
    "total_expenditures": 73741704,
    "population": 17736,
+   "fund_expenditures": {
+    "general": 27610085,
+    "special_revenue": 17311875,
+    "debt_service": 2375398,
+    "capital_projects": 15574,
+    "enterprise": 13473406,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/lakewalesexpenditures.xlsx"
   },
   "m-largo": {
@@ -719,6 +1431,14 @@
    "general_fund_expenditures": 116474564,
    "total_expenditures": 293251120,
    "population": 84075,
+   "fund_expenditures": {
+    "general": 116474564,
+    "special_revenue": 47538887,
+    "debt_service": 4280193,
+    "capital_projects": 24759585,
+    "enterprise": 54432463,
+    "internal_service": 24853679
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/largoexpenditures.xlsx"
   },
   "m-lauderdalelakes": {
@@ -727,6 +1447,14 @@
    "general_fund_expenditures": 42546611,
    "total_expenditures": 66029379,
    "population": 36647,
+   "fund_expenditures": {
+    "general": 42546611,
+    "special_revenue": 14030966,
+    "debt_service": 659649,
+    "capital_projects": 1622586,
+    "enterprise": 7169567,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/lauderdalelakesexpenditures.xlsx"
   },
   "m-leesburg": {
@@ -735,6 +1463,14 @@
    "general_fund_expenditures": 36309173,
    "total_expenditures": 181732218,
    "population": 33344,
+   "fund_expenditures": {
+    "general": 36309173,
+    "special_revenue": 8223044,
+    "debt_service": 1720452,
+    "capital_projects": 6418877,
+    "enterprise": 108951166,
+    "internal_service": 13971163
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/leesburgexpenditures.xlsx"
   },
   "m-lighthousepoint": {
@@ -743,6 +1479,14 @@
    "general_fund_expenditures": 27706921,
    "total_expenditures": 36990083,
    "population": 10454,
+   "fund_expenditures": {
+    "general": 27706921,
+    "special_revenue": 5931347,
+    "debt_service": 975475,
+    "capital_projects": 501726,
+    "enterprise": 0,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/lighthousepointexpenditures.xlsx"
   },
   "m-longwood": {
@@ -751,6 +1495,14 @@
    "general_fund_expenditures": 30041339,
    "total_expenditures": 46464786,
    "population": 16641,
+   "fund_expenditures": {
+    "general": 30041339,
+    "special_revenue": 3567364,
+    "debt_service": 0,
+    "capital_projects": 4124984,
+    "enterprise": 7605982,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/longwoodexpenditures.xlsx"
   },
   "m-lynnhaven": {
@@ -759,6 +1511,14 @@
    "general_fund_expenditures": 21712536,
    "total_expenditures": 50270905,
    "population": 21733,
+   "fund_expenditures": {
+    "general": 21712536,
+    "special_revenue": 10814265,
+    "debt_service": 0,
+    "capital_projects": 0,
+    "enterprise": 14242736,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/lynnhavenexpenditures.xlsx"
   },
   "m-marcoisland": {
@@ -767,6 +1527,14 @@
    "general_fund_expenditures": 32737346,
    "total_expenditures": 79436079,
    "population": 16288,
+   "fund_expenditures": {
+    "general": 32737346,
+    "special_revenue": 3861668,
+    "debt_service": 1611596,
+    "capital_projects": 7339378,
+    "enterprise": 30802499,
+    "internal_service": 45
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/marcoislandexpenditures.xlsx"
   },
   "m-margate": {
@@ -775,6 +1543,14 @@
    "general_fund_expenditures": 82090459,
    "total_expenditures": 156592780,
    "population": 58727,
+   "fund_expenditures": {
+    "general": 82090459,
+    "special_revenue": 22711499,
+    "debt_service": 2130600,
+    "capital_projects": 14103297,
+    "enterprise": 32357727,
+    "internal_service": 3199198
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/margateexpenditures.xlsx"
   },
   "m-melbourne": {
@@ -783,6 +1559,14 @@
    "general_fund_expenditures": 141226599,
    "total_expenditures": 304937810,
    "population": 88499,
+   "fund_expenditures": {
+    "general": 141226599,
+    "special_revenue": 11274896,
+    "debt_service": 2531528,
+    "capital_projects": 21216951,
+    "enterprise": 72321258,
+    "internal_service": 7178516
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/melbourneexpenditures.xlsx"
   },
   "m-miami": {
@@ -791,6 +1575,14 @@
    "general_fund_expenditures": 1200851768,
    "total_expenditures": 2363866449,
    "population": 478799,
+   "fund_expenditures": {
+    "general": 1200851768,
+    "special_revenue": 454828103,
+    "debt_service": 116971852,
+    "capital_projects": 215885616,
+    "enterprise": 0,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/miamiexpenditures.xlsx"
   },
   "m-miamibeach": {
@@ -799,6 +1591,14 @@
    "general_fund_expenditures": 445068042,
    "total_expenditures": 1361284581,
    "population": 83230,
+   "fund_expenditures": {
+    "general": 445068042,
+    "special_revenue": 215045112,
+    "debt_service": 51394503,
+    "capital_projects": 61539681,
+    "enterprise": 277509946,
+    "internal_service": 123299396
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/miamibeachexpenditures.xlsx"
   },
   "m-miamigardens": {
@@ -807,6 +1607,14 @@
    "general_fund_expenditures": 116773502,
    "total_expenditures": 168234480,
    "population": 116192,
+   "fund_expenditures": {
+    "general": 116773502,
+    "special_revenue": 27979058,
+    "debt_service": 8624478,
+    "capital_projects": 10399409,
+    "enterprise": 4458033,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/miamigardensexpenditures.xlsx"
   },
   "m-miamilakes": {
@@ -815,6 +1623,14 @@
    "general_fund_expenditures": 23096069,
    "total_expenditures": 37187944,
    "population": 31332,
+   "fund_expenditures": {
+    "general": 23096069,
+    "special_revenue": 6989274,
+    "debt_service": 695669,
+    "capital_projects": 3190970,
+    "enterprise": 2713318,
+    "internal_service": 502644
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/miamilakesexpenditures.xlsx"
   },
   "m-minneola": {
@@ -823,6 +1639,14 @@
    "general_fund_expenditures": 17656663,
    "total_expenditures": 27131481,
    "population": 19893,
+   "fund_expenditures": {
+    "general": 17656663,
+    "special_revenue": 2331840,
+    "debt_service": 0,
+    "capital_projects": 0,
+    "enterprise": 7142978,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/minneolaexpenditures.xlsx"
   },
   "m-miramar": {
@@ -831,6 +1655,14 @@
    "general_fund_expenditures": 237867104,
    "total_expenditures": 518006659,
    "population": 140807,
+   "fund_expenditures": {
+    "general": 237867104,
+    "special_revenue": 11312940,
+    "debt_service": 62968081,
+    "capital_projects": 23175038,
+    "enterprise": 81659149,
+    "internal_service": 49351696
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/miramarexpenditures.xlsx"
   },
   "m-mountdora": {
@@ -839,6 +1671,14 @@
    "general_fund_expenditures": 29233730,
    "total_expenditures": 83502309,
    "population": 18227,
+   "fund_expenditures": {
+    "general": 29233730,
+    "special_revenue": 10779024,
+    "debt_service": 1565905,
+    "capital_projects": 3889553,
+    "enterprise": 28685787,
+    "internal_service": 6516667
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/mountdoraexpenditures.xlsx"
   },
   "m-newportrichey": {
@@ -847,6 +1687,14 @@
    "general_fund_expenditures": 32207970,
    "total_expenditures": 74707780,
    "population": 17270,
+   "fund_expenditures": {
+    "general": 32207970,
+    "special_revenue": 3549802,
+    "debt_service": 2160496,
+    "capital_projects": 6709041,
+    "enterprise": 18439509,
+    "internal_service": 582001
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/newportricheyexpenditures.xlsx"
   },
   "m-northmiami": {
@@ -855,6 +1703,14 @@
    "general_fund_expenditures": 88954217,
    "total_expenditures": 202831241,
    "population": 59955,
+   "fund_expenditures": {
+    "general": 88954217,
+    "special_revenue": 34646771,
+    "debt_service": 1787987,
+    "capital_projects": 549349,
+    "enterprise": 45760457,
+    "internal_service": 8421519
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/northmiamiexpenditures.xlsx"
   },
   "m-northport": {
@@ -863,6 +1719,14 @@
    "general_fund_expenditures": 78023595,
    "total_expenditures": 263702704,
    "population": 92399,
+   "fund_expenditures": {
+    "general": 78023595,
+    "special_revenue": 76382445,
+    "debt_service": 4683914,
+    "capital_projects": 34026892,
+    "enterprise": 34549971,
+    "internal_service": 18373281
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/northportexpenditures.xlsx"
   },
   "m-oaklandpark": {
@@ -871,6 +1735,14 @@
    "general_fund_expenditures": 92393339,
    "total_expenditures": 163407730,
    "population": 46465,
+   "fund_expenditures": {
+    "general": 92393339,
+    "special_revenue": 1458147,
+    "debt_service": 6113622,
+    "capital_projects": 13197258,
+    "enterprise": 39321203,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/oaklandparkexpenditures.xlsx"
   },
   "m-ocala": {
@@ -879,6 +1751,14 @@
    "general_fund_expenditures": 147885494,
    "total_expenditures": 508801174,
    "population": 71017,
+   "fund_expenditures": {
+    "general": 147885494,
+    "special_revenue": 24738147,
+    "debt_service": 7158652,
+    "capital_projects": 0,
+    "enterprise": 273539492,
+    "internal_service": 24186500
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/ocalaexpenditures.xlsx"
   },
   "m-ocoee": {
@@ -887,6 +1767,14 @@
    "general_fund_expenditures": 73877354,
    "total_expenditures": 129949250,
    "population": 51209,
+   "fund_expenditures": {
+    "general": 73877354,
+    "special_revenue": 15028736,
+    "debt_service": 4032013,
+    "capital_projects": 9102385,
+    "enterprise": 27887671,
+    "internal_service": 21091
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/ocoeeexpenditures.xlsx"
   },
   "m-opalocka": {
@@ -895,6 +1783,14 @@
    "general_fund_expenditures": 30283413,
    "total_expenditures": 51911728,
    "population": 16560,
+   "fund_expenditures": {
+    "general": 30283413,
+    "special_revenue": 3029421,
+    "debt_service": 4003509,
+    "capital_projects": 3522767,
+    "enterprise": 11072618,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/opalockaexpenditures.xlsx"
   },
   "m-orlando": {
@@ -903,6 +1799,14 @@
    "general_fund_expenditures": 708063991,
    "total_expenditures": 1827774482,
    "population": 335066,
+   "fund_expenditures": {
+    "general": 708063991,
+    "special_revenue": 346801864,
+    "debt_service": 0,
+    "capital_projects": 80290861,
+    "enterprise": 317603003,
+    "internal_service": 196303596
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/orlandoexpenditures.xlsx"
   },
   "m-ormondbeach": {
@@ -911,6 +1815,14 @@
    "general_fund_expenditures": 52481143,
    "total_expenditures": 128872990,
    "population": 45723,
+   "fund_expenditures": {
+    "general": 52481143,
+    "special_revenue": 11061051,
+    "debt_service": 1039853,
+    "capital_projects": 7366763,
+    "enterprise": 44039683,
+    "internal_service": 1991503
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/ormondbeachexpenditures.xlsx"
   },
   "m-oviedo": {
@@ -919,6 +1831,14 @@
    "general_fund_expenditures": 44615749,
    "total_expenditures": 97822714,
    "population": 42080,
+   "fund_expenditures": {
+    "general": 44615749,
+    "special_revenue": 15854046,
+    "debt_service": 1374236,
+    "capital_projects": 5109533,
+    "enterprise": 24611091,
+    "internal_service": 6258059
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/oviedoexpenditures.xlsx"
   },
   "m-palatka": {
@@ -927,6 +1847,14 @@
    "general_fund_expenditures": 15624030,
    "total_expenditures": 41078026,
    "population": 10503,
+   "fund_expenditures": {
+    "general": 15624030,
+    "special_revenue": 2827708,
+    "debt_service": 0,
+    "capital_projects": 0,
+    "enterprise": 13637583,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/palatkaexpenditures.xlsx"
   },
   "m-palmcoast": {
@@ -935,6 +1863,14 @@
    "general_fund_expenditures": 62097096,
    "total_expenditures": 238082601,
    "population": 110330,
+   "fund_expenditures": {
+    "general": 62097096,
+    "special_revenue": 13936922,
+    "debt_service": 0,
+    "capital_projects": 29414745,
+    "enterprise": 105909213,
+    "internal_service": 26014531
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/palmcoastexpenditures.xlsx"
   },
   "m-palmettobay": {
@@ -943,6 +1879,14 @@
    "general_fund_expenditures": 21721990,
    "total_expenditures": 34250527,
    "population": 25217,
+   "fund_expenditures": {
+    "general": 21721990,
+    "special_revenue": 9238599,
+    "debt_service": 0,
+    "capital_projects": 3289938,
+    "enterprise": 0,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/palmettobayexpenditures.xlsx"
   },
   "m-parkland": {
@@ -951,6 +1895,14 @@
    "general_fund_expenditures": 91960700,
    "total_expenditures": 109309612,
    "population": 38427,
+   "fund_expenditures": {
+    "general": 91960700,
+    "special_revenue": 5056143,
+    "debt_service": 0,
+    "capital_projects": 11474664,
+    "enterprise": 0,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/parklandexpenditures.xlsx"
   },
   "m-pembrokepines": {
@@ -959,6 +1911,14 @@
    "general_fund_expenditures": 252018225,
    "total_expenditures": 605373784,
    "population": 170892,
+   "fund_expenditures": {
+    "general": 252018225,
+    "special_revenue": 101352109,
+    "debt_service": 23978500,
+    "capital_projects": 700641,
+    "enterprise": 76526663,
+    "internal_service": 34620609
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/pembrokepinesexpenditures.xlsx"
   },
   "m-pinecrest": {
@@ -967,6 +1927,14 @@
    "general_fund_expenditures": 40057295,
    "total_expenditures": 59095532,
    "population": 18206,
+   "fund_expenditures": {
+    "general": 40057295,
+    "special_revenue": 2460721,
+    "debt_service": 3862277,
+    "capital_projects": 11651062,
+    "enterprise": 1064177,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/pinecrestexpenditures.xlsx"
   },
   "m-pinellaspark": {
@@ -975,6 +1943,14 @@
    "general_fund_expenditures": 88164578,
    "total_expenditures": 186425815,
    "population": 55055,
+   "fund_expenditures": {
+    "general": 88164578,
+    "special_revenue": 7839908,
+    "debt_service": 1801725,
+    "capital_projects": 37578712,
+    "enterprise": 39077734,
+    "internal_service": 11963158
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/pinellasparkexpenditures.xlsx"
   },
   "m-plantation": {
@@ -983,6 +1959,14 @@
    "general_fund_expenditures": 137757365,
    "total_expenditures": 253253454,
    "population": 98437,
+   "fund_expenditures": {
+    "general": 137757365,
+    "special_revenue": 20214922,
+    "debt_service": 7547414,
+    "capital_projects": 5656946,
+    "enterprise": 46340738,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/plantationexpenditures.xlsx"
   },
   "m-plantcity": {
@@ -991,6 +1975,14 @@
    "general_fund_expenditures": 68747686,
    "total_expenditures": 145412485,
    "population": 45331,
+   "fund_expenditures": {
+    "general": 68747686,
+    "special_revenue": 11196710,
+    "debt_service": 0,
+    "capital_projects": 10783565,
+    "enterprise": 45748857,
+    "internal_service": 4386812
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/plantcityexpenditures.xlsx"
   },
   "m-portorange": {
@@ -999,6 +1991,14 @@
    "general_fund_expenditures": 66683216,
    "total_expenditures": 151020000,
    "population": 65898,
+   "fund_expenditures": {
+    "general": 66683216,
+    "special_revenue": 3263454,
+    "debt_service": 3149025,
+    "capital_projects": 6901924,
+    "enterprise": 50064275,
+    "internal_service": 10361474
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/portorangeexpenditures.xlsx"
   },
   "m-portstlucie": {
@@ -1007,6 +2007,14 @@
    "general_fund_expenditures": 179490671,
    "total_expenditures": 573691196,
    "population": 253959,
+   "fund_expenditures": {
+    "general": 179490671,
+    "special_revenue": 137374082,
+    "debt_service": 8331005,
+    "capital_projects": 66039204,
+    "enterprise": 141923947,
+    "internal_service": 29266467
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/portstlucieexpenditures.xlsx"
   },
   "m-puntagorda": {
@@ -1015,6 +2023,14 @@
    "general_fund_expenditures": 45464490,
    "total_expenditures": 125996444,
    "population": 20443,
+   "fund_expenditures": {
+    "general": 45464490,
+    "special_revenue": 29884633,
+    "debt_service": 9374904,
+    "capital_projects": 1440135,
+    "enterprise": 30074508,
+    "internal_service": 2843960
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/puntagordaexpenditures.xlsx"
   },
   "m-safetyharbor": {
@@ -1023,6 +2039,14 @@
    "general_fund_expenditures": 20215791,
    "total_expenditures": 42834196,
    "population": 16762,
+   "fund_expenditures": {
+    "general": 20215791,
+    "special_revenue": 2875286,
+    "debt_service": 0,
+    "capital_projects": 3140496,
+    "enterprise": 13289339,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/safetyharborexpenditures.xlsx"
   },
   "m-sanford": {
@@ -1031,6 +2055,14 @@
    "general_fund_expenditures": 82620156,
    "total_expenditures": 214352316,
    "population": 68136,
+   "fund_expenditures": {
+    "general": 82620156,
+    "special_revenue": 16545087,
+    "debt_service": 2043577,
+    "capital_projects": 11256080,
+    "enterprise": 45605001,
+    "internal_service": 172039
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/sanfordexpenditures.xlsx"
   },
   "m-satellitebeach": {
@@ -1039,6 +2071,14 @@
    "general_fund_expenditures": 18532080,
    "total_expenditures": 29285679,
    "population": 11493,
+   "fund_expenditures": {
+    "general": 18532080,
+    "special_revenue": 7931068,
+    "debt_service": 0,
+    "capital_projects": 0,
+    "enterprise": 0,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/satellitebeachexpenditures.xlsx"
   },
   "m-seminolecity": {
@@ -1047,6 +2087,14 @@
    "general_fund_expenditures": 29669020,
    "total_expenditures": 42392562,
    "population": 19338,
+   "fund_expenditures": {
+    "general": 29669020,
+    "special_revenue": 7053616,
+    "debt_service": 0,
+    "capital_projects": 2147233,
+    "enterprise": 0,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/seminoleexpenditures.xlsx"
   },
   "m-staugustine": {
@@ -1055,6 +2103,14 @@
    "general_fund_expenditures": 66830105,
    "total_expenditures": 123988413,
    "population": 16548,
+   "fund_expenditures": {
+    "general": 66830105,
+    "special_revenue": 4805552,
+    "debt_service": 1432250,
+    "capital_projects": 0,
+    "enterprise": 43835121,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/staugustineexpenditures.xlsx"
   },
   "m-stcloud": {
@@ -1063,6 +2119,14 @@
    "general_fund_expenditures": 69962154,
    "total_expenditures": 186106811,
    "population": 65974,
+   "fund_expenditures": {
+    "general": 69962154,
+    "special_revenue": 47406254,
+    "debt_service": 2661310,
+    "capital_projects": 19351938,
+    "enterprise": 25210744,
+    "internal_service": 12415332
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/stcloudexpenditures.xlsx"
   },
   "m-stpetebeach": {
@@ -1071,6 +2135,14 @@
    "general_fund_expenditures": 30219374,
    "total_expenditures": 53578061,
    "population": 8765,
+   "fund_expenditures": {
+    "general": 30219374,
+    "special_revenue": 1329821,
+    "debt_service": 0,
+    "capital_projects": 7422071,
+    "enterprise": 10205119,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/stpetebeachexpenditures.xlsx"
   },
   "m-stpetersburg": {
@@ -1079,6 +2151,14 @@
    "general_fund_expenditures": 526760634,
    "total_expenditures": 1426361223,
    "population": 266153,
+   "fund_expenditures": {
+    "general": 526760634,
+    "special_revenue": 84404930,
+    "debt_service": 98749363,
+    "capital_projects": 97973517,
+    "enterprise": 357254690,
+    "internal_service": 165569885
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/stpetersburgexpenditures.xlsx"
   },
   "m-stuart": {
@@ -1087,6 +2167,14 @@
    "general_fund_expenditures": 47708426,
    "total_expenditures": 78558323,
    "population": 20191,
+   "fund_expenditures": {
+    "general": 47708426,
+    "special_revenue": 7447455,
+    "debt_service": 0,
+    "capital_projects": 0,
+    "enterprise": 23402442,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/stuartexpenditures.xlsx"
   },
   "m-sunrise": {
@@ -1095,6 +2183,14 @@
    "general_fund_expenditures": 178534093,
    "total_expenditures": 472758111,
    "population": 98310,
+   "fund_expenditures": {
+    "general": 178534093,
+    "special_revenue": 14647667,
+    "debt_service": 5551609,
+    "capital_projects": 14290206,
+    "enterprise": 154564433,
+    "internal_service": 41031363
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/sunriseexpenditures.xlsx"
   },
   "m-sweetwater": {
@@ -1103,6 +2199,14 @@
    "general_fund_expenditures": 30973312,
    "total_expenditures": 39297128,
    "population": 21393,
+   "fund_expenditures": {
+    "general": 30973312,
+    "special_revenue": 5349386,
+    "debt_service": 0,
+    "capital_projects": 1123853,
+    "enterprise": 0,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/sweetwaterexpenditures.xlsx"
   },
   "m-tallahassee": {
@@ -1111,6 +2215,14 @@
    "general_fund_expenditures": 215096000,
    "total_expenditures": 1615328000,
    "population": 205623,
+   "fund_expenditures": {
+    "general": 215096000,
+    "special_revenue": 33890000,
+    "debt_service": 41041000,
+    "capital_projects": 75944000,
+    "enterprise": 717923000,
+    "internal_service": 295558000
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/tallahasseeexpenditures.xlsx"
   },
   "m-tamarac": {
@@ -1119,6 +2231,14 @@
    "general_fund_expenditures": 98181994,
    "total_expenditures": 226017359,
    "population": 73563,
+   "fund_expenditures": {
+    "general": 98181994,
+    "special_revenue": 39408037,
+    "debt_service": 2558464,
+    "capital_projects": 13145417,
+    "enterprise": 40802333,
+    "internal_service": 10881660
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/tamaracexpenditures.xlsx"
   },
   "m-tampa": {
@@ -1127,6 +2247,14 @@
    "general_fund_expenditures": 772387201,
    "total_expenditures": 2401555771,
    "population": 412684,
+   "fund_expenditures": {
+    "general": 772387201,
+    "special_revenue": 261677194,
+    "debt_service": 62830693,
+    "capital_projects": 130294071,
+    "enterprise": 851742108,
+    "internal_service": 53757163
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/tampaexpenditures.xlsx"
   },
   "m-tarponsprings": {
@@ -1135,6 +2263,14 @@
    "general_fund_expenditures": 34766507,
    "total_expenditures": 92988073,
    "population": 25949,
+   "fund_expenditures": {
+    "general": 34766507,
+    "special_revenue": 9364329,
+    "debt_service": 0,
+    "capital_projects": 6881664,
+    "enterprise": 32641968,
+    "internal_service": 3355354
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/tarponspringsexpenditures.xlsx"
   },
   "m-tavares": {
@@ -1143,6 +2279,14 @@
    "general_fund_expenditures": 24472721,
    "total_expenditures": 70126804,
    "population": 21530,
+   "fund_expenditures": {
+    "general": 24472721,
+    "special_revenue": 19184011,
+    "debt_service": 1190953,
+    "capital_projects": 3169504,
+    "enterprise": 20148147,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/tavaresexpenditures.xlsx"
   },
   "m-templeterrace": {
@@ -1151,6 +2295,14 @@
    "general_fund_expenditures": 38294115,
    "total_expenditures": 70107128,
    "population": 27469,
+   "fund_expenditures": {
+    "general": 38294115,
+    "special_revenue": 4896291,
+    "debt_service": 1158143,
+    "capital_projects": 0,
+    "enterprise": 20363119,
+    "internal_service": 508272
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/templeterraceexpenditures.xlsx"
   },
   "m-titusville": {
@@ -1159,6 +2311,14 @@
    "general_fund_expenditures": 67090879,
    "total_expenditures": 160141056,
    "population": 51158,
+   "fund_expenditures": {
+    "general": 67090879,
+    "special_revenue": 4643865,
+    "debt_service": 3657396,
+    "capital_projects": 3833189,
+    "enterprise": 45598363,
+    "internal_service": 23083520
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/titusvilleexpenditures.xlsx"
   },
   "m-venice": {
@@ -1167,6 +2327,14 @@
    "general_fund_expenditures": 52375073,
    "total_expenditures": 143411566,
    "population": 29802,
+   "fund_expenditures": {
+    "general": 52375073,
+    "special_revenue": 4774434,
+    "debt_service": 2568865,
+    "capital_projects": 12911134,
+    "enterprise": 48909872,
+    "internal_service": 15035704
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/veniceexpenditures.xlsx"
   },
   "m-wellington": {
@@ -1175,6 +2343,14 @@
    "general_fund_expenditures": 65115284,
    "total_expenditures": 180464168,
    "population": 61836,
+   "fund_expenditures": {
+    "general": 65115284,
+    "special_revenue": 19210963,
+    "debt_service": 2059026,
+    "capital_projects": 56008618,
+    "enterprise": 38058237,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/wellingtonexpenditures.xlsx"
   },
   "m-weston": {
@@ -1183,6 +2359,14 @@
    "general_fund_expenditures": 66362140,
    "total_expenditures": 196506841,
    "population": 68311,
+   "fund_expenditures": {
+    "general": 66362140,
+    "special_revenue": 63059266,
+    "debt_service": 5968784,
+    "capital_projects": 16833686,
+    "enterprise": 44282965,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/westonexpenditures.xlsx"
   },
   "m-wildwood": {
@@ -1191,6 +2375,14 @@
    "general_fund_expenditures": 41911190,
    "total_expenditures": 74031867,
    "population": 36783,
+   "fund_expenditures": {
+    "general": 41911190,
+    "special_revenue": 1410095,
+    "debt_service": 0,
+    "capital_projects": 14427357,
+    "enterprise": 16283225,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/wildwoodexpenditures.xlsx"
   },
   "m-wiltonmanors": {
@@ -1199,6 +2391,14 @@
    "general_fund_expenditures": 24355869,
    "total_expenditures": 52978349,
    "population": 11495,
+   "fund_expenditures": {
+    "general": 24355869,
+    "special_revenue": 7729393,
+    "debt_service": 0,
+    "capital_projects": 1992241,
+    "enterprise": 15834162,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/wiltonmanorsexpenditures.xlsx"
   },
   "m-wintergarden": {
@@ -1207,6 +2407,14 @@
    "general_fund_expenditures": 66896622,
    "total_expenditures": 130376898,
    "population": 52479,
+   "fund_expenditures": {
+    "general": 66896622,
+    "special_revenue": 9186025,
+    "debt_service": 2555510,
+    "capital_projects": 13518920,
+    "enterprise": 33007066,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/wintergardenexpenditures.xlsx"
   },
   "m-winterhaven": {
@@ -1215,6 +2423,14 @@
    "general_fund_expenditures": 74411087,
    "total_expenditures": 248525315,
    "population": 60837,
+   "fund_expenditures": {
+    "general": 74411087,
+    "special_revenue": 18940951,
+    "debt_service": 6865735,
+    "capital_projects": 49802814,
+    "enterprise": 64132488,
+    "internal_service": 22208421
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/winterhavenexpenditures.xlsx"
   },
   "m-winterpark": {
@@ -1223,6 +2439,14 @@
    "general_fund_expenditures": 79812140,
    "total_expenditures": 204593503,
    "population": 30565,
+   "fund_expenditures": {
+    "general": 79812140,
+    "special_revenue": 19144525,
+    "debt_service": 2608252,
+    "capital_projects": 3893740,
+    "enterprise": 73996186,
+    "internal_service": 15831205
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/winterparkexpenditures.xlsx"
   },
   "m-wintersprings": {
@@ -1231,6 +2455,14 @@
    "general_fund_expenditures": 27727898,
    "total_expenditures": 73048857,
    "population": 39170,
+   "fund_expenditures": {
+    "general": 27727898,
+    "special_revenue": 18330181,
+    "debt_service": 1414321,
+    "capital_projects": 317315,
+    "enterprise": 19585684,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/winterspringsexpenditures.xlsx"
   },
   "m-zephyrhills": {
@@ -1239,6 +2471,14 @@
    "general_fund_expenditures": 18877878,
    "total_expenditures": 55229761,
    "population": 19691,
+   "fund_expenditures": {
+    "general": 18877878,
+    "special_revenue": 16096918,
+    "debt_service": 0,
+    "capital_projects": 0,
+    "enterprise": 20254965,
+    "internal_service": 0
+   },
    "source_url": "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/munifiscal/zephyrhillsexpenditures.xlsx"
   }
  },
