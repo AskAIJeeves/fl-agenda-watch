@@ -22,9 +22,9 @@ jobs:
       - run: python scripts/fetch_agendas.py
       - run: python scripts/fetch_pdf_agendas.py
         continue-on-error: true
-      - run: python scripts/build_candidates.py
       - run: python scripts/archive_items.py
       - run: python scripts/build_projects.py
+      - run: python scripts/build_candidates.py
       - name: Commit results
         run: |
           git config user.name "agenda-bot"

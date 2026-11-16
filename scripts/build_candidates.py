@@ -23,9 +23,20 @@ def best_link(it):
         return f"{pdf}#page={pg[2:]}"
     return pdf or it.get("meeting_url")
 
+_PJ = None
+def project_of(key):
+    """(project_id, project spend total) from data/projects.json, built nightly from the archive."""
+    global _PJ
+    if _PJ is None:
+        p = ROOT / "data/projects.json"
+        _PJ = json.loads(p.read_text()) if p.exists() else {"projects": {}, "item_project": {}}
+    pid = _PJ["item_project"].get(key)
+    return pid, (_PJ["projects"].get(pid) or {}).get("spend_total")
+
 def tag_stage_category(it, today):
     it["link"] = best_link(it)
     it["id"] = archive_key(it)        # same key as data/archive and the review queue
+    it["project_id"], it["project_total"] = project_of(it["id"])
     md = it.get("meeting_date")
     days = (datetime.fromisoformat(md).date() - today).days if md else None
     early = bool(EARLY.search(it.get("body") or ""))
