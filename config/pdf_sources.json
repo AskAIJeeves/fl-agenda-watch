@@ -377,17 +377,6 @@
    "notes": "added 2026-11-16 from Granicus discovery probe"
   },
   {
-   "entity_id": "m-gulfport",
-   "name": "Gulfport",
-   "platform": "granicus",
-   "listing_urls": [
-    "https://gulfport.granicus.com/ViewPublisherRSS.php?view_id=6&mode=agendas"
-   ],
-   "follow": "",
-   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
-   "notes": "added 2026-11-16 from Granicus discovery probe"
-  },
-  {
    "entity_id": "m-templeterrace",
    "name": "Temple Terrace",
    "platform": "granicus",
