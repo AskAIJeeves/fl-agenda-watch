@@ -1,6 +1,7 @@
 """Build data/fl_agenda.sqlite from the JSON archive (the JSON stays the
 source of truth). Tables: items (one row per archived item, with a full-text
-index on titles) and committed_projects. The file is published as a GitHub
+index on titles and its project_id), projects (one row per project with a
+double-count-free spend total) and committed_projects. The file is published as a GitHub
 Release asset by the nightly workflow rather than committed, so it does not
 bloat git history. Open it with DB Browser for SQLite, Datasette, or Python.
 """
@@ -38,7 +39,15 @@ def main():
                 row.append(v)
             db.execute(f"INSERT OR REPLACE INTO items VALUES ({','.join('?' * (len(COLS) + 1))})", [k] + row)
             n += 1
-    for c in ("entity_id", "meeting_date", "max_amount", "government"):
+    pj = json.load(open(os.path.join(ROOT, "data", "projects.json")))
+    db.execute("ALTER TABLE items ADD COLUMN project_id TEXT")
+    db.executemany("UPDATE items SET project_id=? WHERE key=?", [(v, k) for k, v in pj["item_project"].items()])
+    db.execute("CREATE TABLE projects (project_id TEXT PRIMARY KEY, government TEXT, name TEXT, items INTEGER, "
+               "spend_total REAL, receipts_total REAL, total_method TEXT, first_date TEXT, last_date TEXT)")
+    db.executemany("INSERT INTO projects VALUES (?,?,?,?,?,?,?,?,?)",
+                   [(k, v["government"], v["name"], v["items"], v["spend_total"], v["receipts_total"], v["total_method"],
+                     v["first_date"], v["last_date"]) for k, v in pj["projects"].items()])
+    for c in ("entity_id", "meeting_date", "max_amount", "government", "project_id"):
         db.execute(f"CREATE INDEX idx_{c} ON items({c})")
     db.execute("CREATE VIRTUAL TABLE items_fts USING fts5(title, recipient, content='items', content_rowid='rowid')")
     db.execute("INSERT INTO items_fts(rowid, title, recipient) SELECT rowid, title, recipient FROM items")
