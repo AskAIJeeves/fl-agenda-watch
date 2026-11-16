@@ -1,0 +1,263 @@
+=== https://eagenda.hillsboroughcounty.org/portal/PTL29560/search?F_MeetingType=Regular%20BOCC%20Meeting&F_DocType=Agenda
+status 200 text/html;charset=UTF-8 len 46657
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN"
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="/static/1-3.5.2.220/themes/eagenda/styles/main.css" rel="stylesheet" type="text/css">
+	
+        
+
+
+<script type="text/javascript">var themePath = '/static/1-3.5.2.220/themes/custom';</script>
+
+<script type ="text/javascript" src="/static/1-3.5.2.220/util/allutil.js"></script>
+
+<script type="text/javascript">initUtil('https://eagenda.hcfl.gov:443', '');</script>
+<script type='text/javascript' src='https://eagenda.hcfl.gov:443/dwr/engine.js'></script>
+<script type="text/javascript">initDwr();</script>
+<script type='text/javascript'>var dwrErrorHandler = function(data) { if (window.console) { window.console.info(data); } }; dwr.engine.setErrorHandler(dwrErrorHandler); dwr.engine.setTextHtmlHandler(dwrErrorHandler);dwr.engine.setWarningHandler(dwrErrorHandler);</script>
+<script type='text/javascript' src='https://eagenda.hcfl.gov:443/dwr/interface/WebService.js'></script>
+        <base href="/"/>
+        <title></title>
+    </head>
+    
+
+    <body  onLoad="onLoad()"  onResize="" onHelp="openHelpWindow('search_results.html');return false;" topmargin=0 leftmargin=0 bottommargin=0 rightmargin=0>
+
+
+<div>
+    <a href="https://hcfl.gov/"><img src="themes/eagenda/images/hillsborough-logo.png" style="border:none; margin: 20px 0px 20px 0px" /></a>
+</div>
+
+
+<!-- We specify the full URL like this to work around the mixed content error in IE6/7 -->
+<script type="text/javascript" src="/static/1-3.5.2.220/util/dojo/dojo.js" data-dojo-config="parseOnLoad: true, async: false"></script>
+
+
+<script>
+NOTES_CURRENT_THEME = "custom"
+require(['dijit/Dialog']);
+require(['dijit/TooltipDialog']);
+</script>
+<script type='text/javascript' src='https://eagenda.hcfl.gov:443/dwr/interface/NotesService.js'></script>
+<script type='text/javascript' src='https://eagenda.hcfl.gov:443/dwr/engine.js'></script>
+
+
+<script type="text/javascript">
+// nothing to see here, move along
+</script>
+
+
+    <a href="/portal/PTL29560/home" style="vertical-align: middle;"><img src="/static/1-3.5.2.220/themes/eagenda/images/buttons/Back.png" border="0" alt="Back to Search" title="Back to Search"></a>
+
+<!--  Set the first column fixed width and in tablekit.js don't allow resize the first column-->
+
+
+
+    <!--<link rel="stylesheet" type="text/css" media="all" href="/static/1-3.5.2.220/themes/custom/styles/prototype/style.css" />-->
+
+<form name="hitlistForm" id="hitlistForm">
+            <table class="results_page_links"><tr><td>&lt;&lt;</td><td>&lt;</td><td><strong>1</strong></td><td><a href="/portal/PTL29560/results?F_MeetingType=Regular+BOCC+Meeting&amp;F_DocType=Agenda&amp;d-1334500-p=2" title="Go to page 2">2</a></td><td><a href="/portal/PTL29560/results?F_MeetingType=Regular+BOCC+Meet
+
+LINKS:
+/
+/portal/PTL29560/home
+/portal/PTL29560/open/OBJ1R5LL5
+/portal/PTL29560/open/OBJ3Y225Q
+/portal/PTL29560/open/OBJ3Y7111
+/portal/PTL29560/open/OBJ3Y722L
+/portal/PTL29560/open/OBJ472R3Y
+/portal/PTL29560/open/OBJ478332
+/portal/PTL29560/open/OBJ4786W1
+/portal/PTL29560/open/OBJ5685L5
+/portal/PTL29560/open/OBJ5686R6
+/portal/PTL29560/open/OBJ5688Q4
+/portal/PTL29560/open/OBJ568Q1Y
+/portal/PTL29560/open/OBJ568W37
+/portal/PTL29560/open/OBJ6LY114
+/portal/PTL29560/open/OBJ6LY568
+/portal/PTL29560/open/OBJ7Q3748
+/portal/PTL29560/open/OBJ8W42WW
+/portal/PTL29560/open/OBJ8W46Q7
+/portal/PTL29560/open/OBJ8W4Y3Q
+/portal/PTL29560/open/OBJLRWR4L
+/portal/PTL29560/open/OBJQR2266
+/portal/PTL29560/open/OBJQR23RQ
+/portal/PTL29560/open/OBJQR25YY
+/portal/PTL29560/open/OBJR78432
+/portal/PTL29560/open/OBJWL6RWY
+/portal/PTL29560/open/OBJWLR51Q
+/portal/PTL29560/open/OBJYQ1R18
+/portal/PTL29560/results?F_MeetingType=Regular+BOCC+Meeting&amp;F_DocType=Agenda&amp;d-1334500-p=2
+/portal/PTL29560/results?F_MeetingType=Regular+BOCC+Meeting&amp;F_DocType=Agenda&amp;d-1334500-p=3
+/portal/PTL29560/results?F_MeetingType=Regular+BOCC+Meeting&amp;F_DocType=Agenda&amp;d-1334500-p=4
+/portal/PTL29560/results?F_MeetingType=Regular+BOCC+Meeting&amp;F_DocType=Agenda&amp;d-1334500-p=5
+/portal/PTL29560/results?F_MeetingType=Regular+BOCC+Meeting&amp;F_DocType=Agenda&amp;d-1334500-p=6
+/portal/PTL29560/results?F_MeetingType=Regular+BOCC+Meeting&amp;F_DocType=Agenda&amp;d-1334500-p=7
+/portal/PTL29560/results?F_MeetingType=Regular+BOCC+Meeting&amp;F_DocType=Agenda&amp;d-1334500-p=8
+/portal/PTL29560/results?d-1334500-s=1&amp;F_DocType=Agenda&amp;d-1334500-p=1&amp;d-1334500-o=2&amp;F_MeetingType=Regular+BOCC+Meeting
+/portal/PTL29560/results?d-1334500-s=2&amp;F_DocType=Agenda&amp;d-1334500-p=1&amp;d-1334500-o=2&amp;F_MeetingType=Regular+BOCC+Meeting
+/static/1-3.5.2.220/themes/custom/images/buttons/CloseWindow.png
+/static/1-3.5.2.220/themes/custom/images/buttons/SaveNoteDisabled.png
+/static/1-3.5.2.220/themes/custom/images/icons/hitlist_blank.gif
+/static/1-3.5.2.220/themes/custom/images/icons/paste_small.png
+/static/1-3.5.2.220/themes/custom/images/icons/pdf_small.gif
+/static/1-3.5.2.220/themes/custom/styles/prototype/style.css
+/static/1-3.5.2.220/themes/eagenda/images/buttons/Back.png
+/static/1-3.5.2.220/themes/eagenda/styles/main.css
+/static/1-3.5.2.220/util/allutil.js
+/static/1-3.5.2.220/util/dojo/dojo.js
+/static/1-3.5.2.220/util/fabtabulous.js
+/static/1-3.5.2.220/util/prototype.js
+http://www.hillsclerk.com/en/Records-and-Reports/BOCC
+https://eagenda.hcfl.gov:443/dwr/engine.js
+https://eagenda.hcfl.gov:443/dwr/interface/NotesService.js
+https://eagenda.hcfl.gov:443/dwr/interface/WebService.js
+https://get.adobe.com/reader/
+https://hcfl.gov/
+https://helpx.adobe.com/acrobat/using/display-pdf-in-browser.html
+javascript:pasteObjectIDsToRecord(document.getElementById(
+javascript:showDisclaimer()
+javascript:showInstructions()
+mailto:WilliamsCR@hillsboroughcounty.org?subject=Agenda Inquiry
+themes/eagenda/images/hillsborough-logo.png
+
+API-LIKE:
+
+
+=== https://eagenda.hillsboroughcounty.org/portal/PTL29560
+status None None len 25
+HTTP Error 404: Not Found
+
+LINKS:
+
+
+API-LIKE:
+
+
+=== https://eagenda.hillsboroughcounty.org/
+status 200 text/html;charset=UTF-8 len 14208
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="robots" content="noindex" />
+<title>Login - eAgenda - Hillsborough County</title>
+<link rel="icon" href="/favicon.ico" type="image/x-icon" />
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<link href="/static/1-3.5.2.220/themes/custom/styles/login.css" rel="stylesheet" type="text/css" />
+
+
+
+<script type="text/javascript">var themePath = '/static/1-3.5.2.220/themes/custom';</script>
+
+<script type ="text/javascript" src="/static/1-3.5.2.220/util/allutil.js"></script>
+
+<script type="text/javascript">initUtil('https://eagenda.hcfl.gov:443', '');</script>
+<script type='text/javascript' src='https://eagenda.hcfl.gov:443/dwr/engine.js'></script>
+<script type="text/javascript">initDwr();</script>
+<script type='text/javascript'>var dwrErrorHandler = function(data) { if (window.console) { window.console.info(data); } }; dwr.engine.setErrorHandler(dwrErrorHandler); dwr.engine.setTextHtmlHandler(dwrErrorHandler);dwr.engine.setWarningHandler(dwrErrorHandler);</script>
+<script type='text/javascript' src='https://eagenda.hcfl.gov:443/dwr/interface/WebService.js'></script>
+<script language="javascript">
+window.onload = onLoad;
+var javaLink = "http://java.com/en/download/installed.jsp";
+var os = getOS();
+if(os == "windows"){
+    javaLink = "http://download.docuvantage.com/pub/java/jre-8u181-windows-i586.exe";
+}else if (os == "mac"){
+    javaLink = "http://download.docuvantage.com/pub/java/jre-8u181-macosx-x64.dmg";
+}
+
+function doAutoLogin() {
+    console.info('doAutoLogin');
+    var login = document.getElementById('username').value;
+    if (login !== '') {
+        LoginDwrService.getSingleSignOnUrlForUsername(login, { callback: function (url) {
+            console.info('got URL: ' + url);
+            if (url) {
+                var triggerFunction = function() {
+                    // save a cookie with the login so the user does not need to enter it again
+                    setCookieWithPath('AUTO_LOGIN_USERNAME', login, 30, '/login.htm');
+                    window.location = url;
+                };
+                startCountDownTimer(triggerFunction);
+            }
+        }, errorHandler: function(ex) { console.error(ex); }
+        });
+    }
+}
+var latestCountDownTimer;
+var countdownSecondsLeft;
+function startCountDownTimer(triggerFunction) {
+    console.info('startCountDownTimer');
+    // in case a timer is already going do not start another one
+    if (latestCountDownTimer) return;
+    var countdownDiv = document.getElementById('countdownDiv');
+    countdownDiv.style.display = 'block';
+    countdownSecondsLeft = 4;
+    // update div in case this isn't the first time
+    var countdownSecondsLeftDiv = document.getElementById('countdownSecondsLeftDiv');
+    countdownSecondsLeftDi
+
+LINKS:
+/favicon.ico
+/static/1-3.5.2.220/themes/custom/images/login/bookmark_icon.png
+/static/1-3.5.2.220/themes/custom/images/login/btn_login.jpg
+/static/1-3.5.2.220/themes/custom/images/login/login_hr.jpg
+/static/1-3.5.2.220/themes/custom/images/login/logo.gif
+/static/1-3.5.2.220/themes/custom/images/login/logo_opsource.jpg
+/static/1-3.5.2.220/themes/custom/styles/login.css
+/static/1-3.5.2.220/util/allutil.js
+/static/1-3.5.2.220/util/dojo/dojo.js
+http://help.docuvantageondemand.com/ID350304
+http://www.docuvantage.com/contact-document-advantage-corporation
+http://www.docuvantage.com/privacy-policy
+http://www.docuvantage.com/terms-of-use
+https://eagenda.hcfl.gov:443/dwr/engine.js
+https://eagenda.hcfl.gov:443/dwr/interface/LoginDwrService.js
+https://eagenda.hcfl.gov:443/dwr/interface/WebService.js
+https://eagenda.hcfl.gov:443/forgotPassword.htm
+https://eagenda.hcfl.gov:443/forgotPassword.htm?login=
+https://hcflgov.service-now.com/sp
+javascript://
+javascript:CreateBookmarkLink()
+javascript:void( window.open(
+
+API-LIKE:
