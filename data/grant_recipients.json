@@ -900,13 +900,22 @@
      "amount": null,
      "text": "C. All equipment purchased with grant funds is the property of the grantee, and is subject to Chapter 273, Florida Sta tutes, dealing with state-owned tangible personal property and the disposition thereof. For research institutions not covered under Chapter 1000, Florida Statutes, eq uipment no lon",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212"
+    },
+    {
+     "entity_id": "m-eustis",
+     "government": "Eustis",
+     "meeting_date": "2026-11-19",
+     "amount": null,
+     "text": "C. All equipment purchased with grant funds is the property of the grantee, and is subject to Chapter 273, Florida Statutes, dealing with state-owned tangible personal property and the disposition thereof. For research institutions not covered under Chapter 1000, Florida Statutes, equipment no longe",
+     "link": "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1657,plainText=false)"
     }
    ],
    "governments": [
+    "Eustis",
     "Lake County",
     "Sunrise"
    ],
-   "award_count": 2,
+   "award_count": 3,
    "total_amount": 0
   },
   "federal transit administration": {
@@ -1193,13 +1202,31 @@
      "amount": 3726518.0,
      "text": "\u2022 Increase interfund transfers out by a total of $5,694, consisting of: \u2022 $3,000 to the General Fund to reimburse expenditures associated with ARPA-related resources and services; and \u2022 $2,694 to the Stormwater Fund to support stormwater capital ARPA-funded project. SHIP Grant Fund \u2022 Budget increase",
      "link": "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3339,plainText=false)"
+    },
+    {
+     "entity_id": "m-clermont",
+     "government": "Clermont",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "The proposed changes include: \u2022 Form 1 \u2014 reconciliation of the \"State 185\" public safety pension contributions received in August \u2022 Form 2 \u2014 reconciliation and reallocation of medical claims within the Group Health Insurance Fund \u2022 Form 3 \u2014 reconciliation and reallocation of operating expenses in th",
+     "link": "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5855,plainText=false)"
+    },
+    {
+     "entity_id": "m-eustis",
+     "government": "Eustis",
+     "meeting_date": "2026-11-19",
+     "amount": 100000.0,
+     "text": "This Resolution will amend the FY 2026/2027 Adopted Budget for the General Fund to allow staff to move forward with these smaller, non-reportable grants/donations without going to Commission for approval. The requested approval is for $100,000 in Unappropriated Grants/Donations revenue and expenditu",
+     "link": "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1657,plainText=false)"
     }
    ],
    "governments": [
-    "Deerfield Beach"
+    "Clermont",
+    "Deerfield Beach",
+    "Eustis"
    ],
-   "award_count": 1,
-   "total_amount": 3726518.0
+   "award_count": 3,
+   "total_amount": 3826518.0
   },
   "housing authority": {
    "name": "Housing Authority",
@@ -1271,13 +1298,31 @@
      "amount": null,
      "text": "19) '\u018c\u0102\u0176\u019a\u0003\u017d\u0128\u0003>\u015d\u0110\u011e\u0176\u0190\u011e\u0358\u0003 a) \u0018\u01b5\u018c\u015d\u0176\u0150\u0003\u019a\u015a\u011e\u0003\u019a\u011e\u018c\u0175\u0003\u017d\u0128\u0003\u019a\u015a\u015d\u0190\u0003\u0004\u0150\u018c\u011e\u011e\u0175\u011e\u0176\u019a\u0357 i) ^\u01b5\u0189\u0189\u016f\u015d\u011e\u018c\u0003W\u018c\u017d\u0175\u017d\u019f\u017d\u0176\u0358 Sourcewell grants to Supplier a royalty-free, worldwide, non-exclusive \u018c\u015d\u0150\u015a\u019a\u0003\u0102\u0176\u011a\u0003\u016f\u015d\u0110\u011e\u0176\u0190\u011e\u0003\u019a\u017d\u0003\u01b5\u0190\u011e\u0003\u019a\u015a\u011e\u0003\u019a\u018c\u0102\u011a\u011e\u0175\u0102\u018c\u016c\u037e\u0190\u037f\u0003\u0189\u018c\u017d\u01c0\u015d\u011a\u011e\u011a\u0003\u019a\u017d\u0003^\u01b5\u0189\u0189\u016f\u015d\u011e\u018c\u0003\u010f\u01c7\u0003^\u017d\u01b5\u018c\u0110\u011e\u01c1\u011e\u016f\u016f\u0003\u015d\u0176\u0003\u0102\u011a\u01c0\u011e\u018c\u019f\u0190\u015d\u0176\u0150\u0355\u0003 \u0189\u018c\u017d\u0175\u017d\u019f\u017d\u0176\u0102\u016f\u0003\u0175\u0102\u019a\u011e\u018c\u015d\u0102\u016f\u0190\u0355\u0003\u0102\u0176\u011a\u0003\u015d\u0176\u0128\u017d\u018c\u0175\u0102\u019f\u017d\u0176\u0102\u016f\u0003\u0190\u015d\u019a\u011e\u0190\u0003\u0128\u017d\u018c\u0003\u019a\u015a\u011e\u0003",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212"
+    },
+    {
+     "entity_id": "m-clermont",
+     "government": "Clermont",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "20) '\u018c\u0102\u0176\u019a\u0003\u017d\u0128\u0003>\u015d\u0110\u011e\u0176\u0190\u011e\u0358\u0003 a) \u0018\u01b5\u018c\u015d\u0176\u0150\u0003\u019a\u015a\u011e\u0003\u019a\u011e\u018c\u0175\u0003\u017d\u0128\u0003\u019a\u015a\u015d\u0190\u0003\u0004\u0150\u018c\u011e\u011e\u0175\u011e\u0176\u019a\u0357 i) ^\u01b5\u0189\u0189\u016f\u015d\u011e\u018c\u0003W\u018c\u017d\u0175\u017d\u019f\u017d\u0176\u0358 Sourcewell grants to Supplier a royalty-\u0128\u018c\u011e\u011e\u0355\u0003\u01c1\u017d\u018c\u016f\u011a\u01c1\u015d\u011a\u011e\u0355\u0003\u0176\u017d\u0176-exclusive \u018c\u015d\u0150\u015a\u019a\u0003\u0102\u0176\u011a\u0003\u016f\u015d\u0110\u011e\u0176\u0190\u011e\u0003\u019a\u017d\u0003\u01b5\u0190\u011e\u0003\u019a\u015a\u011e\u0003\u019a\u018c\u0102\u011a\u011e\u0175\u0102\u018c\u016c\u037e\u0190\u037f\u0003\u0189\u018c\u017d\u01c0\u015d\u011a\u011e\u011a\u0003\u019a\u017d\u0003^\u01b5\u0189\u0189\u016f\u015d\u011e\u018c\u0003\u010f\u01c7\u0003^\u017d\u01b5\u018c\u0110\u011e\u01c1\u011e\u016f\u016f\u0003\u015d\u0176\u0003\u0102\u011a\u01c0\u011e\u018c\u019f\u0190\u015d\u0176\u0150\u0355\u0003 \u0189\u018c\u017d\u0175\u017d\u019f\u017d\u0176\u0102\u016f\u0003\u0175\u0102\u019a\u011e\u018c\u015d\u0102\u016f\u0190\u0355\u0003\u0102\u0176\u011a\u0003\u015d\u0176\u0128\u017d\u018c\u0175\u0102\u019f\u017d\u0176\u0102\u016f\u0003\u0190\u015d\u019a\u011e\u0190\u0003\u0128\u017d\u018c\u0003\u019a\u015a\u011e\u0003",
+     "link": "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5855,plainText=false)"
+    },
+    {
+     "entity_id": "m-palatka",
+     "government": "Palatka",
+     "meeting_date": "2026-11-12",
+     "amount": null,
+     "text": "19) Grant of License. a) During the term of this Agreement: i) Sourcewell grants to Supplier a royalty- -exclusive Agreement with Supplier.",
+     "link": "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2484,plainText=false)"
     }
    ],
    "governments": [
+    "Clermont",
     "Deerfield Beach",
+    "Palatka",
     "Sunrise"
    ],
-   "award_count": 4,
+   "award_count": 6,
    "total_amount": 0
   },
   "sourcewell": {
@@ -1298,13 +1343,31 @@
      "amount": null,
      "text": "ii) ^\u017d\u01b5\u018c\u0110\u011e\u01c1\u011e\u016f\u016f\u0003W\u018c\u017d\u0175\u017d\u019f\u017d\u0176\u0358 Supplier grants to Sourcewell a royalty-free, worldwide, non- \u011e\u01c6\u0110\u016f\u01b5\u0190\u015d\u01c0\u011e\u0003\u018c\u015d\u0150\u015a\u019a\u0003\u0102\u0176\u011a\u0003\u016f\u015d\u0110\u011e\u0176\u0190\u011e\u0003\u019a\u017d\u0003\u01b5\u0190\u011e\u0003^\u01b5\u0189\u0189\u016f\u015d\u011e\u018c\u035b\u0190\u0003\u019a\u018c\u0102\u011a\u011e\u0175\u0102\u018c\u016c\u0190\u0003\u015d\u0176\u0003\u0102\u011a\u01c0\u011e\u018c\u019f\u0190\u015d\u0176\u0150\u0355\u0003\u0189\u018c\u017d\u0175\u017d\u019f\u017d\u0176\u0102\u016f\u0003 \u0175\u0102\u019a\u011e\u018c\u015d\u0102\u016f\u0190\u0355\u0003\u0102\u0176\u011a\u0003\u015d\u0176\u0128\u017d\u018c\u0175\u0102\u019f\u017d\u0176\u0102\u016f\u0003\u0190\u015d\u019a\u011e\u0190\u0003\u0128\u017d\u018c\u0003\u019a\u015a\u011e\u0003\u0189\u01b5\u018c\u0189\u017d\u0190\u011e\u0003\u017d\u0128\u0003\u0175\u0102\u018c\u016c\u011e\u019f\u0176\u0150\u0003^\u01b5\u0189\u0189\u016f\u015d\u011e\u018c\u035b\u0190\u0003\u0004\u0150\u018c\u011e\u011e\u0175\u011e\u0176\u019a\u0003\u01c1\u015d\u019a\u015a\u0003 Sourcewell.",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212"
+    },
+    {
+     "entity_id": "m-clermont",
+     "government": "Clermont",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "ii) ^\u017d\u01b5\u018c\u0110\u011e\u01c1\u011e\u016f\u016f\u0003W\u018c\u017d\u0175\u017d\u019f\u017d\u0176\u0358 Supplier grants to Sourcewell a limited, revocable, royalty-\u0128\u018c\u011e\u011e\u0355\u0003 worldwide, non-\u011e\u01c6\u0110\u016f\u01b5\u0190\u015d\u01c0\u011e\u0003\u018c\u015d\u0150\u015a\u019a\u0003\u0102\u0176\u011a\u0003\u016f\u015d\u0110\u011e\u0176\u0190\u011e\u0003\u019a\u017d\u0003\u01b5\u0190\u011e\u0003^\u01b5\u0189\u0189\u016f\u015d\u011e\u018c\u035b\u0190\u0003\u019a\u018c\u0102\u011a\u011e\u0175\u0102\u018c\u016c\u0190\u0003\u015d\u0176\u0003\u0102\u011a\u01c0\u011e\u018c\u019f\u0190\u015d\u0176\u0150\u0355\u0003 \u0189\u018c\u017d\u0175\u017d\u019f\u017d\u0176\u0102\u016f\u0003\u0175\u0102\u019a\u011e\u018c\u015d\u0102\u016f\u0190\u0355\u0003\u0102\u0176\u011a\u0003\u015d\u0176\u0128\u017d\u018c\u0175\u0102\u019f\u017d\u0176\u0102\u016f\u0003\u0190\u015d\u019a\u011e\u0190\u0003\u0128\u017d\u018c\u0003\u019a\u015a\u011e\u0003\u0189\u01b5\u018c\u0189\u017d\u0190\u011e\u0003\u017d\u0128\u0003\u0175\u0102\u018c\u016c\u011e\u019f\u0176\u0150\u0003^\u01b5\u0189\u0189\u016f\u015d\u011e\u018c\u035b\u0190\u0003 Agreement with Sourcewell. /\u0176\u0003\u019a\u015a\u011e\u0003\u011e",
+     "link": "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5855,plainText=false)"
+    },
+    {
+     "entity_id": "m-palatka",
+     "government": "Palatka",
+     "meeting_date": "2026-11-12",
+     "amount": null,
+     "text": "ii) Supplier grants to Sourcewell a royalty- - Sourcewell.",
+     "link": "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2484,plainText=false)"
     }
    ],
    "governments": [
+    "Clermont",
     "Deerfield Beach",
+    "Palatka",
     "Sunrise"
    ],
-   "award_count": 2,
+   "award_count": 4,
    "total_amount": 0
   },
   "kissimmee": {
@@ -1399,13 +1462,30 @@
      "amount": null,
      "text": "CONSEQUENCES FOR NON-PERFORMANCE: For each task deliverable not received and accepted by the Department at one hundred percent (100%) completion on or before the Agreement\u2019s Date of Expiration, the Department will reduce the relevant Task Funding Amount(s) paid to Grantee in proportion to the percen",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1223"
+    },
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "B. Grantor intends to grant a non- exclusive public access easement to Grantee over, on, upon and across the Easement Area for public sidewalks and trails.",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    },
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "1. Grant of Easement . Subject to the terms hereinafter set forth, Grantor hereby grants to Grantee a non-exclusive public access easement across, over, on and upon the Easement Area.",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
     }
    ],
    "governments": [
     "Kissimmee",
+    "Nassau County",
     "Sunrise"
    ],
-   "award_count": 9,
+   "award_count": 11,
    "total_amount": 45000.0
   },
   "clean air act": {
@@ -1648,13 +1728,22 @@
      "amount": 579672.0,
      "text": "2. Staff recommends motion to approve: An Agreement with the Palm Beach Soil and Water Conservation District (District) in an amount not to exceed $79,000 to provide soil and water resource conservation services for Fiscal Year (FY) 2026 - 2027. The term of this Agreement is retroactive from October",
      "link": "https://discover.pbcgov.org/countycommissioners/Agenda_Master/20261110.pdf"
+    },
+    {
+     "entity_id": "m-portorange",
+     "government": "Port Orange",
+     "meeting_date": "2026-11-17",
+     "amount": 150000.0,
+     "text": "for such vessels, or have completed the removal of such vessels within the 6 months preceding the application, subject to eligibility under these program rules. (3) The program must be sponsored by an eligible government agency or not-for-profit organization. (4) District funding shall be limited to",
+     "link": "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9734,plainText=false)"
     }
    ],
    "governments": [
-    "Palm Beach County"
+    "Palm Beach County",
+    "Port Orange"
    ],
-   "award_count": 1,
-   "total_amount": 579672.0
+   "award_count": 2,
+   "total_amount": 729672.0
   },
   "cultural council for": {
    "name": "Cultural Council for",
@@ -2336,12 +2425,20 @@
      "amount": 10000001.0,
      "text": "Citywide Infrastructure Capital Improvement Citywide Infrastructure Capital Improvements \u2013 Transfer to City Facilities Capital Improvement City Facilities Capital Improvement 208,503.80 85,248 85,248 Complete Streets FY27 Transfer Jordan Park HVAC Project A supplemental appropriation is needed for t",
      "link": "https://www.stpete.org/2026-11-05 Agenda Packet w. Revised AddsDeletes.pdf?t=202611041055140"
+    },
+    {
+     "entity_id": "m-stpetersburg",
+     "government": "St. Petersburg",
+     "meeting_date": "2026-11-05",
+     "amount": null,
+     "text": "Citywide Infrastructure Capital Improvement Citywide Infrastructure Capital Improvements \u2013 Transfer to City Facilities Capital Improvement City Facilities Capital Improvement 208,503.80 85,248 85,248 Complete Streets FY27 Transfer Jordan Park HVAC Project A supplemental appropriation is needed for t",
+     "link": "https://www.stpete.org/2026-11-05 Agenda Packet w. Revised AddsDeletes.pdf?t=202611041055140"
     }
    ],
    "governments": [
     "St. Petersburg"
    ],
-   "award_count": 1,
+   "award_count": 2,
    "total_amount": 10000001.0
   },
   "trails crossing": {
@@ -2622,12 +2719,20 @@
      "amount": 6537707.0,
      "text": "Section 5. Authority to Underfill Positions. Notwithstanding Section 10-1 of the City Code, the City Manager, or designee, will have the authority to fill an authorized position with a position in a lower classification to provide flexibility for the recruitment of personnel, and the training requir",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1043"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Section 5. Authority to Underfill Positions. Notwithstanding Section 10-1 of the City Code, the City Manager, or designee, will have the authority to fill an authorized position with a position in a lower classification to provide flexibility for the recruitment of personnel, and the training requir",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1239"
     }
    ],
    "governments": [
     "Sunrise"
    ],
-   "award_count": 3,
+   "award_count": 4,
    "total_amount": 28059608.0
   },
   "children broward county": {
@@ -2640,12 +2745,20 @@
      "amount": 352935.0,
      "text": "Organization Name Nonprofit Status Funding Purpose/Justification FY 2025/2026 Award FY 2026/2027 Request FY 2026/2027 Commission Discussion FY 2026/2027 DONATION APPLICATIONS SUMMARY OF REQUESTS The following charitable organizations have requested funding from the City of Sunrise for FY 2026/2027: ",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1239"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Organization Name Nonprofit Status Funding Purpose/Justification FY 2025/2026 Award FY 2026/2027 Request FY 2026/2027 Commission Discussion FY 2026/2027 DONATION APPLICATIONS SUMMARY OF REQUESTS The following charitable organizations have requested funding from the City of Sunrise for FY 2026/2027: ",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1239"
     }
    ],
    "governments": [
     "Sunrise"
    ],
-   "award_count": 1,
+   "award_count": 2,
    "total_amount": 352935.0
   },
   "federal older americans act state community care for": {
@@ -3224,12 +3337,21 @@
      "amount": 434500000.0,
      "text": "Mr. Gorokhovsky explained the City\u2019s fund structure, including the General Fund, special revenue funds, debt service funds, capital project funds, and enterprise funds. He reviewed the proposed budget by fund, discussing changes associated with public safety staffing and equipment, vehicle financing",
      "link": "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3339,plainText=false)"
+    },
+    {
+     "entity_id": "m-eustis",
+     "government": "Eustis",
+     "meeting_date": "2026-11-19",
+     "amount": null,
+     "text": "Typically, Federal and State grants come to Commission for approval once the grant agreement has been obtained and the City has agreed to the terms of the grant. These grants are required to be reported in the City\u2019s Annual Comprehensive Financial Report (ACFR).",
+     "link": "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1657,plainText=false)"
     }
    ],
    "governments": [
-    "Deerfield Beach"
+    "Deerfield Beach",
+    "Eustis"
    ],
-   "award_count": 1,
+   "award_count": 2,
    "total_amount": 434500000.0
   },
   "cove shopping center": {
@@ -3452,13 +3574,21 @@
      "amount": 20000.0,
      "text": "Event Information Event Name: Fandom Kissimmee Funding Requested: $20,000.00 Start Date: 2027-09-18 End Date: 2027-09-18 Did you research your event date against other community event dates? 1 Event Location: Kissimmee Lakefront Park Event Address: 201 Lakeview Drive Event Address Line 2: Event City",
      "link": "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11226,plainText=false)"
+    },
+    {
+     "entity_id": "m-kissimmee",
+     "government": "Kissimmee",
+     "meeting_date": "2026-11-17",
+     "amount": 20000.0,
+     "text": "TOURISM ENHANCEMENT GRANTS PROGRAM APPLICATION Applicant Information Company: City of Kissimmee Company Address: 101 Church St. Company Address Line 2: Company City: Kissimmee Company State/Province: FL Company Zip/Postal Code: 34741 Company's Authorized Signee First Name: Veronica Company's Authori",
+     "link": "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11226,plainText=false)"
     }
    ],
    "governments": [
     "Kissimmee"
    ],
-   "award_count": 6,
-   "total_amount": 141000.0
+   "award_count": 7,
+   "total_amount": 161000.0
   },
   "art in park": {
    "name": "Art in the Park",
@@ -4186,14 +4316,31 @@
      "amount": null,
      "text": "15. Amendment to Agreement with Turtle Run Community Development District (Robert Hunter) Request to approve the Amendment to Agreement with the Turtle Run Community Development District for the Contribution and Acceptance of Donation for the Turtle Run Park Playground Set. Funding Source: Not Appli",
      "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=261"
+    },
+    {
+     "entity_id": "c-santarosa",
+     "government": "Santa Rosa County",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "Exhibit D Special Conditions-Federal Requirements With EEO and Davis-Bacon Act This Exhibit is hereby incorporated by reference into the main Procurement. The following special conditions may apply to the Agreement and are incorporated herein by reference: FEDERAL PROVISION RELATED TO GRANT FUNDS TH",
+     "link": "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3104,plainText=false)"
+    },
+    {
+     "entity_id": "c-santarosa",
+     "government": "Santa Rosa County",
+     "meeting_date": "2026-11-12",
+     "amount": null,
+     "text": "Exhibit D Special Conditions-Federal Requirements With EEO and Davis-Bacon Act This Exhibit is hereby incorporated by reference into the main Procurement. The following special conditions may apply to the Agreement and are incorporated herein by reference: FEDERAL PROVISION RELATED TO GRANT FUNDS TH",
+     "link": "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3109,plainText=false)"
     }
    ],
    "governments": [
     "Coral Springs",
     "Palm Beach County",
+    "Santa Rosa County",
     "Sunrise"
    ],
-   "award_count": 4,
+   "award_count": 6,
    "total_amount": 37209.0
   },
   "aip grant agreement number": {
@@ -4420,13 +4567,39 @@
      "amount": null,
      "text": "Funding has been budgeted in the Leisure Services Budget for FY 2026 to support an enhanced 4th of July event to commemorate this 250th Anniversary celebration. The cost for the drone show, using 400 drones for approximately 13 to 15 minutes, is extremely competitive as July 4th is a popular day for",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1221"
+    },
+    {
+     "entity_id": "m-wildwood",
+     "government": "Wildwood",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "2 (5) \u201cFinal Amendment\u201d shall mean the final agreement executed between the parties that establishes the final terms for the Loan such as the final Loan amount, the interest rate, Loan Service Fee, amortization schedule and Semiannual Loan Payment amount. (6) \u201cFinal Unilateral Amendment\u201d shall mean ",
+     "link": "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5930,plainText=false)"
+    },
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "19 28.3 The Consultant is not on any list of companies declared ineligible to receive federal contracts (as maintained, for example, by the U.S. Office of Federal Contractor Compliance Programs, Office of Foreign Assets Control, the Excluded Parties List System, etc.). 28.4 The Consultant is not par",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    },
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "Page 19 of 25 29.2 The Vendor is not prohibited from doing business with public entities under Section 287.133, Section 287.134, Section 287.135, Section 287.1351, Section 287.137, or Section 287.138, Florida Statutes. If the Vendor will have access to any individual\u2019s personal identifying informati",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
     }
    ],
    "governments": [
+    "Nassau County",
     "Palm Beach County",
-    "Sunrise"
+    "Sunrise",
+    "Wildwood"
    ],
-   "award_count": 2,
+   "award_count": 5,
    "total_amount": 33575123.0
   },
   "gy2026": {
@@ -5073,13 +5246,53 @@
      "amount": 50000.0,
      "text": "33. Foreign Gifts and Contracts Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Contractor shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,000 ",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=993"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "\u221a m. Foreign Gifts and Contracts. Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Contractor shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,00",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=990"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "N/A m. Foreign Gifts and Contracts. Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Contractor shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=982"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "Authorized City Representative\u2019s Initials:_____ Authorized Consultant Representative\u2019s Initials:_____ 11 SECTION 9 SEVERABILITY 9.1 If any term or provision of this Agreement or its application thereof to any person or circumstance shall, to any extent, be held invalid or unenforceable, the remainde",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=979"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "16. FOREIGN GIFTS AND CONTRACTS 16.1 Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or Contract is 100,000.00 or more, CONTRACTOR shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=979"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "9) Foreign Gifts and Contracts a) Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Contractor shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,00",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=979"
     }
    ],
    "governments": [
     "Sunrise"
    ],
-   "award_count": 34,
-   "total_amount": 1850000.0
+   "award_count": 39,
+   "total_amount": 2100000.0
   },
   "federal assistance sf": {
    "name": "Federal Assistance SF",
@@ -5197,13 +5410,30 @@
      "amount": null,
      "text": "WHEREAS, the Department has available funds resulting from a recurring appropriation in The General Appropriations Act, 2024 Legislature, Section 4, Specific Appropriation 1293A, Special Categories \u2013 Online Sting Operation Grant Program, intended to be provided to the Recipient as reimbursement of e",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1102"
+    },
+    {
+     "entity_id": "m-mountdora",
+     "government": "Mount Dora",
+     "meeting_date": "2026-11-17",
+     "amount": 60000.0,
+     "text": "FY26-27 \u2013 FDLE \u2013 SFA \u2013 DFR\u2013 4L003 Page 2 of 20 Section XI: Award Signatures SECTION I: SCOPE OF WORK This grant provides funding for the Recipient to procure drones that meet the compliance requirements outlined in Rule 60GG-2.0075, Florida Administrative Code. The maximum amount of state funding th",
+     "link": "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7958,plainText=false)"
+    },
+    {
+     "entity_id": "m-mountdora",
+     "government": "Mount Dora",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "provisions requiring the insurer to notify the Department of any changes in the policy or coverage. The Department may require the Recipient to provide evidence of compliance with this condition at any time and may withhold payment under this agreement until such evidence is received. (c) Expiration",
+     "link": "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7958,plainText=false)"
     }
    ],
    "governments": [
+    "Mount Dora",
     "Sunrise"
    ],
-   "award_count": 2,
-   "total_amount": 0
+   "award_count": 4,
+   "total_amount": 60000.0
   },
   "carry out project if": {
    "name": "Carry Out the Project. If",
@@ -5345,12 +5575,20 @@
      "amount": 5000000.0,
      "text": "TPMIB0514 2 C26136 WHEREAS, the Mobility and Safety Dual Intersection Conversion Project , which proposes conversion of existing conventional intersections located at NW 94th Avenue & NW 42 nd Street and Springtree Drive & NW 84 th Avenue to roundabouts , will be constructed within the agency\u2019s righ",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1223"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "TPMIB0514 2 C26136 WHEREAS, the Mobility and Safety Dual Intersection Conversion Project , which proposes conversion of existing conventional intersections located at NW 94th Avenue & NW 42 nd Street and Springtree Drive & NW 84 th Avenue to roundabouts , will be constructed within the agency\u2019s righ",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1223"
     }
    ],
    "governments": [
     "Sunrise"
    ],
-   "award_count": 1,
+   "award_count": 2,
    "total_amount": 5000000.0
   },
   "surtax": {
@@ -5397,12 +5635,37 @@
      "amount": null,
      "text": "Advance Funding: Advance funding may be provided to a subrecipient upon completion and submission of a Cash Advance Request form to the Department. The request must be signed by the Chief Financial Officer or the Chief Financial Officer designee. Advance funding should be requested only when the Sub",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1102"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "single task, where such subcomponent(s) are delivered to the Department at one hundred percent (100%) completion. A \"full deliverable\" is defined as a deliverable comprising all subcomponents listed in the deliverable list for a single task, all delivered to the Department at one hundred percent (10",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1223"
+    },
+    {
+     "entity_id": "m-mountdora",
+     "government": "Mount Dora",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "(3) If the Recipient is required to provide the 50 percent cash match with local funds, the Department, upon review of the invoice, may reduce the approved cash advance amount to account for the match requirement. (4) The Recip ient may request one cash advance at a time. The Department may approve ",
+     "link": "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7958,plainText=false)"
+    },
+    {
+     "entity_id": "m-mountdora",
+     "government": "Mount Dora",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "prior to receiving any funding disbursed under this agreement. In addition, the Recipient shall adhere to the additional related requirements outlined in the subparagraphs below. (i) The Recip ient shall execute and deliver to the Department a Mortgage Lien and Security agreement (further referred t",
+     "link": "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7958,plainText=false)"
     }
    ],
    "governments": [
+    "Mount Dora",
     "Sunrise"
    ],
-   "award_count": 3,
+   "award_count": 6,
    "total_amount": 200000.0
   },
   "proposals": {
@@ -5835,12 +6098,20 @@
      "amount": 8000.0,
      "text": "Bullseye marketing 108 Greenbrooke Ct Daytona Beach, Fl 32119 Sponsorship Proposal for New Year\u2019s Eve on Main Street From: Al Smith, Bullseye Marketing To: Angela Armstrong, FRA \u2013 Redevelopment Administrator Redevelopment Project Manager- Main Street & South Atlantic CRA Date Thursday December 31, 2",
      "link": "https://codb.civicweb.net/document/233988/Beachside%20Redevelopment%20Board%20-%20Nov%2011%202026.pdf?handle=936AB0C6C6B546F3ACCEF75D459AC779"
+    },
+    {
+     "entity_id": "m-daytonabeach",
+     "government": "Daytona Beach",
+     "meeting_date": "2026-11-11",
+     "amount": null,
+     "text": "Bullseye marketing 108 Greenbrooke Ct Daytona Beach, Fl 32119 Sponsorship Proposal for New Year\u2019s Eve on Main Street From: Al Smith, Bullseye Marketing To: Angela Armstrong, FRA \u2013 Redevelopment Administrator Redevelopment Project Manager- Main Street & South Atlantic CRA Date Thursday December 31, 2",
+     "link": "https://codb.civicweb.net/document/233988/Beachside%20Redevelopment%20Board%20-%20Nov%2011%202026.pdf?handle=936AB0C6C6B546F3ACCEF75D459AC779"
     }
    ],
    "governments": [
     "Daytona Beach"
    ],
-   "award_count": 1,
+   "award_count": 2,
    "total_amount": 8000.0
   },
   "economic vitality": {
@@ -6341,12 +6612,28 @@
      "amount": null,
      "text": "C. Artist agrees not to sell, transfer, or grant reproduction rights to the Artwork to Broward County or any other municipality in South Florida, including the right to reproduce the same design or use the Artwork in any other public spaces.",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1200"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "LOU for Artwork 1 | P a g e LETTER OF UNDERSTANDING FOR SUNRISE CITY HALL WALL ART PROJECT Pursuant to A Call To Artists for the City Hall Wall Art Project (\"Project\") issued by the City of Sunrise (\"City\") on November 2, 2023, (name of artist) (\u201cArtist\u201d) submitted the design(s) attached hereto and ",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=984"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "5. Limits on Reproduction: Artist agrees not to sell, transfer, or grant reproduction rights to the Artwork to Broward County or any other municipality in Broward County, including the right to reproduce the same design or use the Artwork in any other public spaces.",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=984"
     }
    ],
    "governments": [
     "Sunrise"
    ],
-   "award_count": 2,
+   "award_count": 4,
    "total_amount": 50000.0
   },
   "commercial business marketing grant program for trilogy mma fitness": {
@@ -7112,12 +7399,20 @@
      "amount": 546715.0,
      "text": "7. Subgrant Award Details8. BJA FY 22 Edward Byrne Memorial Justice Assistance Grant Program - Local Solicitation Grant Program Title Federal Award Identification Number (\"FAIN\") 15PBJA-22-GG-02086-JAGX Subrecipient's Unique Entity Identifier G4JMYYE3BF61 September 22, 2022Federal Award Date to Coun",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1139"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "2. If the Subrecipient has received no payment of the Grant Proceeds, any Subsequent DOB Proceeds shall be used by Commerce to reduce payments of the Grant Proceeds to the Subrecipient, and all Subsequent DOB Proceeds shall be returned to the Subrecipient.",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=988"
     }
    ],
    "governments": [
     "Sunrise"
    ],
-   "award_count": 1,
+   "award_count": 2,
    "total_amount": 546715.0
   },
   "sunrise police department": {
@@ -7856,13 +8151,21 @@
      "amount": null,
      "text": "Agreement for State Financial Assistance Between Florida Department of Law Enforcement and Sunrise Police Department Page 4 of 5 Appendix C - Budget Details Award Number: OS003 Recipient: Sunrise Police Department Project Title: Online Sting Operations Grant Program for Local Law Enforcement Project",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1096"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 15000.0,
+     "text": "Agreement for State Financial Assistance Between Florida Department of Law Enforcement and Sunrise Police Department Page 3 of 5 Appendix B - Project Deliverables Award Number: OS003 Recipient: Sunrise Police Department Project Title: Online Sting Operations Grant Program for Local Law Enforcement P",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1096"
     }
    ],
    "governments": [
     "Sunrise"
    ],
-   "award_count": 5,
-   "total_amount": 85473.0
+   "award_count": 6,
+   "total_amount": 100473.0
   },
   "amendment no": {
    "name": "Amendment No",
@@ -7874,12 +8177,21 @@
      "amount": null,
      "text": "AGENDA ITEM REQUEST Originating Department: Police Item Title: Agreement Item Number: 4D Meeting Date: 3/25/2025 City Reference Number (C#): C25051 Item Description: A Resolution of the City of Sunrise, Florida, approving an \u201cAgreement for State Financial Assistance between Florida Department of Law",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1102"
+    },
+    {
+     "entity_id": "m-opalocka",
+     "government": "Opa-locka",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "Ordinance No. 2026-10 coverage offered to regular full time employees, with the City paying the same employer contribution provided for regular full-time employees? YES, for the Amendment NO, against the Amendment Section 6. Approval of Amendments. If a majority of the qualified electors of the City",
+     "link": "https://opalockafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8167,plainText=false)"
     }
    ],
    "governments": [
+    "Opa-locka",
     "Sunrise"
    ],
-   "award_count": 1,
+   "award_count": 2,
    "total_amount": 0
   },
   "local law enforcement": {
@@ -7964,12 +8276,20 @@
      "amount": null,
      "text": "Congresswoman Schultz has been a strong advocate in Washington to bring needed funding and support to Broward County through funding for regional programming such as a new Federal Courthouse, health screening, medical treatment for those with paralysis, free and low-cost healthy food for low-income ",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1098"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "5. Artist acknowledges that although this is a non-exclusive license, Artist agrees not to grant reproduction rights to Broward County or any other municipality in Broward County to reproduce the same design or use the Artwork in any other public spaces.",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=984"
     }
    ],
    "governments": [
     "Sunrise"
    ],
-   "award_count": 1,
+   "award_count": 2,
    "total_amount": 0
   },
   "college": {
@@ -8426,13 +8746,21 @@
      "amount": 2500.0,
      "text": "H. Approval of the Commercial Business Marketing Grant Program in the amount of $2,500 to Driftwood located at 2005 S. Federal Highway, Boynton Beach, FL 33435",
      "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=311"
+    },
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "E. Approval of the Commercial Property Improvement Grant Program in the Amount of $50,000 to Driftwood 2005 LLC d/b/a Driftwood located at 2005 S. Federal Highway",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=277"
     }
    ],
    "governments": [
     "Boynton Beach"
    ],
-   "award_count": 1,
-   "total_amount": 2500.0
+   "award_count": 2,
+   "total_amount": 52500.0
   },
   "starfish scuba": {
    "name": "Starfish Scuba",
@@ -9062,12 +9390,20 @@
      "amount": null,
      "text": "F. Continued Discussion and Consideration of a Request for Funding for the City View Apartments located at the SW Corner of Federal Highway and SE 5th Avenue - REVISED 06/06/2025",
      "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=282"
+    },
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "D. Discussion and Consideration of a Request for Funding for the City View Apartments located at the SW Corner of Federal Highway and SE 5th Avenue",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=277"
     }
    ],
    "governments": [
     "Boynton Beach"
    ],
-   "award_count": 2,
+   "award_count": 3,
    "total_amount": 0
   },
   "national council school safety directors national conference": {
@@ -9322,13 +9658,21 @@
      "amount": null,
      "text": "A. That funding acquired and identified for the Urban Area Security Initiative will be administered solely by the Sponsoring Agency.",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1021"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 13802313.0,
+     "text": "training, planning, exercise, and operational needs for large urban areas and to assist states in building an enhanced and sustainable capacity to prevent, respond to, and recover from threats or acts of terrorism; and WHEREAS, the OHS, through the State of Florida's Division of Emergency Management",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1021"
     }
    ],
    "governments": [
     "Sunrise"
    ],
-   "award_count": 2,
-   "total_amount": 1368052000.0
+   "award_count": 3,
+   "total_amount": 1381854313.0
   },
   "sub recipient": {
    "name": "Sub-Recipient",
@@ -9508,12 +9852,20 @@
      "amount": 4000000.0,
      "text": "TPMRG0624 2 C24168 WHEREAS, it is the responsibility of the City of Sunrise to maintain or coordinate the maintenance of the roadways after a project\u2019s completion. NOW THEREFORE, BE IT RESOLVED BY THE CITY COMMISSION OF THE CITY OF SUNRISE, FLORIDA: Section 1. The foregoing Whereas clauses are hereb",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1018"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "TPMRG0624 2 C24168 WHEREAS, it is the responsibility of the City of Sunrise to maintain or coordinate the maintenance of the roadways after a project\u2019s completion. NOW THEREFORE, BE IT RESOLVED BY THE CITY COMMISSION OF THE CITY OF SUNRISE, FLORIDA: Section 1. The foregoing Whereas clauses are hereb",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1018"
     }
    ],
    "governments": [
     "Sunrise"
    ],
-   "award_count": 1,
+   "award_count": 2,
    "total_amount": 4000000.0
   },
   "applicant": {
@@ -9904,12 +10256,30 @@
      "amount": 8125.0,
      "text": "That the Board of County Commissioners approve the ratification of the submission of Southwest Florida Healthcare Coalition Request for Funding through the Health Planning Council of Southwest Florida, for Okeechobee County Fire Rescue Regional First Responder Behavioral Wellness and Critical Incide",
      "link": "https://okeechobee.granicus.com/AgendaViewer.php?view_id=1&event_id=392"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "3. No costs may be incurred prior to the effective date of this Agreement, except for those eligible application preparation costs outlined in the original CDBG-CV Application for Funding submitted to Commerce, unless pre- agreement costs were approved in writing by Commerce.",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=988"
+    },
+    {
+     "entity_id": "m-lakecity",
+     "government": "Lake City",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "3. No costs may be incurred prior to the effective date of this Agreement, except for those eligible application preparation costs outlined in the original Small Cities CDBG Application for Funding submitted to Commerce, unless pre-agreement costs were approved in writing by Commerce.",
+     "link": "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1386,plainText=false)"
     }
    ],
    "governments": [
-    "Okeechobee County"
+    "Lake City",
+    "Okeechobee County",
+    "Sunrise"
    ],
-   "award_count": 1,
+   "award_count": 3,
    "total_amount": 8125.0
   },
   "elderly": {
@@ -10041,22 +10411,2541 @@
    ],
    "award_count": 6,
    "total_amount": 35494736.0
+  },
+  "include data conversion zoning files": {
+   "name": "Include Data Conversion of Zoning Files",
+   "awards": [
+    {
+     "entity_id": "c-brevard",
+     "government": "Brevard County",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "Approval RE: Amendment of Contract with Accela Inc, to Include Data Conversion of Zoning Files, Integration with the Department of Business and Professional Regulation, Additional Online Payment Processing, and Providing Authorization for Additional Funding for Future Change Orders",
+     "link": "https://brevardfl.legistar1.com/brevardfl/meetings/2026/11/1821_A_Brevard_County_Board_of_County_Commissioners_26-11-10_Agenda.pdf"
+    }
+   ],
+   "governments": [
+    "Brevard County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "fy2027 brevard county transit services federal capital operating assistance": {
+   "name": "FY2027 Brevard County Transit Services Federal Capital and Operating Assistance",
+   "awards": [
+    {
+     "entity_id": "c-brevard",
+     "government": "Brevard County",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "Approval, Re: Authorizing Resolution, Grant Applications, Use of Toll Revenue Credits, Execution of Follow-Up Master Grant Agreements with Federal Transit Administration for FY2027 Brevard County Transit Services Federal Capital and Operating Assistance Urbanized Area Grants",
+     "link": "https://brevardfl.legistar1.com/brevardfl/meetings/2026/11/1821_A_Brevard_County_Board_of_County_Commissioners_26-11-10_Agenda.pdf"
+    }
+   ],
+   "governments": [
+    "Brevard County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "agriculture innovation": {
+   "name": "Agriculture Innovation",
+   "awards": [
+    {
+     "entity_id": "c-desoto",
+     "government": "DeSoto County",
+     "meeting_date": "2026-11-12",
+     "amount": null,
+     "text": "SFSC Grant for Agriculture Innovation",
+     "link": "https://desotobocc.legistar1.com/desotobocc/meetings/2026/11/3766_A_Economic_Development_Advisory_Committee_26-11-12_Meeting_Agenda_%28Published_with_Hyperlinks%29.pdf"
+    }
+   ],
+   "governments": [
+    "DeSoto County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "approve ix fy23 24 cra annual report": {
+   "name": "Approve IX. FY23-24 CRA Annual Report",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": null,
+     "text": "V. Special Announcements and Comments VI. Approval of Meeting Summary (January 27, 2025) VII. DTMU Expansion Presentation: Calvin Giordano VIII. Deco Inn Inc. Grant Application: Request to Approve IX. FY23-24 CRA Annual Report: Request to Approve",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=259"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "florida finance": {
+   "name": "Florida Finance Corporation",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": null,
+     "text": "13. Resolution 2025-003, State Housing Initiative Partnership (SHIP) Program Local Housing Assistance Plan (LHAP) FY 2025-2028 (Tracey-Ann Anthony) Request to approve the State Housing Initiative Partnership (SHIP) Program Local Housing Assistance Plan FY 2025-2028; to adopt Resolution 2025-003 appr",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=255"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "home funds": {
+   "name": "HOME Funds",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": null,
+     "text": "14. Resolution 2025\u2013004, Interlocal Agreement between Broward County and the City of Coral Springs for HOME Funds (Tracey-Ann Anthony) Request to approve Interlocal Agreements between Broward County and the City of Coral Springs for Funding and Administration of HOME Program for Homebuyer Purchase A",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=255"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "perf opco": {
+   "name": "PERF OPCO",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "9. Economic Development Incentive Program Grant Agreement (Annie Norris) Request to award the Economic Development Incentive Program Grant funding for an amount not to exceed $50,000 to PERF OPCO, LLC. Funding Source: Approved Operating Budget. Strategic Goal: A Thriving, Resilient Business Communit",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=257"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 50000.0
+  },
+  "improvements": {
+   "name": "Improvements",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 449811.0,
+     "text": "E. The City is willing to contribute funding for design for the Improvements as part of the Project in the amount of Four Hundred Forty-Nine Thousand Eight Hundred Eleven and 27/100 Dollars ($449,811.27) (the \"Local Share\").",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=990"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 449811.0
+  },
+  "nami broward proclamation for hope unite international": {
+   "name": "NAMI Broward Proclamation for Hope Unite International",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Item Description: Proclamation proclaiming the Month of May 2024 as Mental Health Awareness Month in the City of Sunrise. Mayor Michael J. Ryan. Commissioner Jacqueline A. Guzman. Funding: N/A Amount: N/A ATTACHMENTS: Description Proclamation for NAMI Broward Proclamation for Hope Unite Internationa",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=990"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "paragraph": {
+   "name": "Paragraph",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "This request is submitted with the following disclosures: Pursuant to Paragraph (20)(b) Mandated Conditions of the grant agreement, the venue of any actions arising out this Agreement shall be in the Circuit Court of Leon County instead of Broward County. Attachment L requires that the City assigns ",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=988"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "use grant funds": {
+   "name": "Use Grant Funds",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "19. All leveraged funds shall be expended concurrently and, to the extent feasible, proportionately with the expenditure of CDBG-CV funds for the same activity. The Subrecipient shall document the expenditure of leveraged funds required for the points claimed in the application as it may have been a",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=988"
+    },
+    {
+     "entity_id": "m-lakecity",
+     "government": "Lake City",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "19. All leveraged funds shall be expended concurrently and, to the extent feasible, proportionately with the expenditure of CDBG funds for the same activity. The Subrecipient shall document the expenditure of leveraged funds required for the points claimed in the application as it may have been amen",
+     "link": "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1386,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Lake City",
+    "Sunrise"
+   ],
+   "award_count": 2,
+   "total_amount": 0
+  },
+  "commerce": {
+   "name": "Commerce",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "In consideration of Subrecipient\u2019s receipt of funds or the commitment by Commerce to evaluate Subrecipient\u2019s application for the receipt of funds (collectively, the \u201cGrant Proceeds\u201d) under the Commerce Community Development Block Grant CARES Act Program (the \u201cCDBG-CV Program\u201d) administered by Commer",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=988"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "If requested by Commerce, Subrecipient agrees to execute such further and additional documents and instruments as may be requested to further and better assign to Commerce, to the extent of the Grant Proceeds paid to Subrecipient under the CDBG-CV Program, the Policies, any amounts received under th",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=988"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 2,
+   "total_amount": 0
+  },
+  "grant proceeds": {
+   "name": "Grant Proceeds",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Once Commerce has recovered an amount equal to the Grant Proceeds paid to Subrecipient, Commerce will reassign to Subrecipient any rights assigned to Commerce pursuant to this Agreement.",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=988"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "grants": {
+   "name": "Grants",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 100000.0,
+     "text": "6 6 Certification Regarding Lobbying Applicable to Grants, Subgrants, Cooperative Agreements, and Contracts Exceeding $100,000 in Federal Funds Submission of this certification is a prerequisite for making or entering into this transaction and is imposed by section 1352, Title 31, U.S. Code. This ce",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=982"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 100000.0
+  },
+  "extension public transporta": {
+   "name": "Extension of Public Transporta",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "and providing an e\ufb00ec\u000fve date. City Manager Mark Lubelski. Kevin Pickard, Director of Leisure Services. (F) Amendment C24047 A Resolu\u000fon of the City of Sunrise, Florida, approving a \u201cState of Florida Department of Transporta\u000fon Amendment for Extension of Public Transporta\u000fon Grant Agreement\u201d for the",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=979"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "western sunrise business entertainment district in january": {
+   "name": "Western Sunrise Business and Entertainment District. In January",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 885000.0,
+     "text": "Approved FDOT Grant Agreement and Resolution Approved Freebee Agreement and Resolution Freebee One Year in Review Presentation Background: In July 2019, the City applied for a Public Transit Service Development Grant (\u201cAgreement\u201d) administered by the State of Florida Department of Transportation (FD",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=979"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 885000.0
+  },
+  "western sunrise business entertainment district": {
+   "name": "Western Sunrise Business and Entertainment District",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 885000.0,
+     "text": "SUNRISE, FLORIDA RESOLUTION NO. 22-22 A RESOLUTION OF THE CITY OF SUNRISE, FLORIDA, AWARDING RFP NO. 21-04-05-MS AND \"STANDARD CONTRACT NO. C 21-04-05- MS BETWEEN THE CITY OF SUNRISE, FLORIDA AND BEEFREE, LLC D/8/A FREEBEE\" FOR ON-DEMAND TRANSPORTATION SERVICES; AND PROVIDING AN EFFECTIVE DATE. WHER",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=979"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "SUNRISE, FLORIDA RESOLUTION NO. ______ A RESOLUTION OF THE CITY OF SUNRISE, FLORIDA, APPROVING A \u201cSTATE OF FLORIDA DEPARTMENT OF TRANSPORTATION AMENDMENT FOR EXTENSION OF PUBLIC TRANSPORTATION GRANT AGREEMENT\u201d FOR THE DEVELOPMENT OF A PUBLIC TRANSIT SHUTTLE SYSTEM; AND PROVIDING AN EFFECTIVE DATE. W",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=979"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 2,
+   "total_amount": 885000.0
+  },
+  "csfa number": {
+   "name": "CSFA Number",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 885000.0,
+     "text": "DocuSign En velope ID: CDD76790-542E-4BFE-898F-11 F3738844O7 STATE OF FLORIDA DEPARTMENT OF TRANSPORTATION PUBLIC TRANSPORTATION GRANT AGREEMENT EXHIBITS EXHIBIT G AUDIT REQUIREMENTS FOR AWARDS OF STATE FINANCIAL ASSISTANCE Form 725--000--02 STRATEGIC DEVELOPMENT OGC 02/20 THE STATE RESOURCES AWARDE",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=979"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 885000.0
+  },
+  "extension public transportation grant agreement": {
+   "name": "Extension of Public Transportation Grant Agreement",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "AGENDA ITEM REQUEST Originating Department: City Manager Item Title: Amendment Item Number: 4F Meeting Date: 2/27/2024 City Reference Number (C#): C24047 Item Description: A Resolution of the City of Sunrise, Florida, approving a \u201cState of Florida Department of Transportation Amendment for Extension",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=979"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "xpedited health": {
+   "name": "Xpedited Health LLC",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 28875.0,
+     "text": "C. Approval of the Commercial Property Improvement Grant Program in the Amount of $28,875 to Xpedited Health LLC located in the Heart of Boynton Shops at 137 NE 10th Avenue, Unit 101 & 102",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=277"
+    },
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 21000.0,
+     "text": "D. Approval of the Commercial Rent Reimbursement Grant Program in the Amount of $21,000 to Xpedited Health LLC located in Heart of Boynton Shops at 137 NE 10th Avenue, Unit 101 & 102",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=277"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 2,
+   "total_amount": 49875.0
+  },
+  "alchemy": {
+   "name": "Alchemy",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 2500.0,
+     "text": "E. Approval of the Commercial Business Marketing Grant Program in the amount of $2,500 to Alchemy located in Ocean Plaza at 640 East Ocean Avenue, Suite 18, Boynton Beach, FL 33435",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=259"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 2500.0
+  },
+  "bailey": {
+   "name": "Bailey",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 2500.0,
+     "text": "F. Approval of the Commercial Business Marketing Grant Program in the amount of $2,500 to Bailey\u2019s Blendz located in Ocean Palm Plaza at 640 East Ocean Avenue, Unit 16, Boynton Beach, FL 33435",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=259"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 2500.0
+  },
+  "dimensional health care": {
+   "name": "Dimensional Health Care",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 2500.0,
+     "text": "G. Approval of the Commercial Business Marketing Grant Program in the amount of $2,500 to Dimensional Health Care, located in Casa Costa at 458 North Federal Highway, CU-5, Boynton Beach, FL 33435",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=259"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 2500.0
+  },
+  "hip hip furray": {
+   "name": "Hip Hip FurRay",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 2500.0,
+     "text": "H. Approval of the Commercial Business Marketing Grant Program in the amount of $2,500 to Hip Hip FurRay, located in One Boynton at 1403 South Federal Highway, Boynton Beach, FL 33435",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=259"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 2500.0
+  },
+  "property damage consultants": {
+   "name": "Property Damage Consultants",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": 2500.0,
+     "text": "I. Approval of the Commercial Business Marketing Grant Program in the amount of $2,500 to Property Damage Consultants, located at 125 East Boynton Beach Boulevard, Boynton Beach, FL 33435",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=259"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 2500.0
+  },
+  "general capital improvement project attachments": {
+   "name": "General Capital Improvement Project Attachments",
+   "awards": [
+    {
+     "entity_id": "m-delraybeach",
+     "government": "Delray Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "October 27, 2026Community Redevelopment Agency CRA Meeting INTERLOCAL AGREEMENT BETWEEN THE CITY OF DELRAY BEACH AND THE DELRAY BEACH COMMUNITY REDEVELOPMENT AGENCY FOR FUNDING CONSTRUCTION PROFESSIONAL SERVICES FOR FISCAL YEAR 2026-2027 7B. Recommendation: Approve the Interlocal Agreement between t",
+     "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3624"
+    }
+   ],
+   "governments": [
+    "Delray Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "newstar development": {
+   "name": "Newstar Development",
+   "awards": [
+    {
+     "entity_id": "m-bradenton",
+     "government": "Bradenton",
+     "meeting_date": null,
+     "amount": null,
+     "text": "h) Community Redevelopment Agency : Florida Housing Finance Corporation Local Government Verification of Contribution Form for Newstar Development",
+     "link": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=355"
+    }
+   ],
+   "governments": [
+    "Bradenton"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "adventhealth fieldhouse": {
+   "name": "AdventHealth Fieldhouse",
+   "awards": [
+    {
+     "entity_id": "m-winterhaven",
+     "government": "Winter Haven",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Equipment Donation to AdventHealth Fieldhouse via Interlocal Agreement",
+     "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=616"
+    },
+    {
+     "entity_id": "m-winterhaven",
+     "government": "Winter Haven",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Summary - Polk County Equipment Donation to AdventHealth Fieldhouse via Interlocal Agreement",
+     "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=616"
+    }
+   ],
+   "governments": [
+    "Winter Haven"
+   ],
+   "award_count": 2,
+   "total_amount": 0
+  },
+  "execute florida department environmental protection": {
+   "name": "Execute the Florida Department of Environmental Protection",
+   "awards": [
+    {
+     "entity_id": "m-venice",
+     "government": "Venice",
+     "meeting_date": null,
+     "amount": 500000.0,
+     "text": "September 22, 2026City Council Meeting Agenda 26-0750 Authorize the Mayor to Execute the Florida Department of Environmental Protection (FDEP) General Appropriations Grant for $500,000 for the Utilities Water Treatment Plant (WTP) Reverse Osmosis (RO) Membrane Production Enhancement Project Memorand",
+     "link": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1979"
+    }
+   ],
+   "governments": [
+    "Venice"
+   ],
+   "award_count": 1,
+   "total_amount": 500000.0
+  },
+  "charles elam": {
+   "name": "Charles Elam",
+   "awards": [
+    {
+     "entity_id": "m-lakewales",
+     "government": "Lake Wales",
+     "meeting_date": null,
+     "amount": 19382.0,
+     "text": "The CRA Board will consider awarding a $19,382 grant to Charles Elam, Jr.",
+     "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=1020"
+    }
+   ],
+   "governments": [
+    "Lake Wales"
+   ],
+   "award_count": 1,
+   "total_amount": 19382.0
+  },
+  "tide valves": {
+   "name": "Tide Valves",
+   "awards": [
+    {
+     "entity_id": "m-crystalriver",
+     "government": "Crystal River",
+     "meeting_date": null,
+     "amount": 23380.0,
+     "text": "C. Motion to approve an Atkins Realis Task Order Amendment (CDBG-DR-03), with a proposed cost of $23,380 for management services on the City's Hazard Mitigation Grant Program for Tide Valves.",
+     "link": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=385"
+    }
+   ],
+   "governments": [
+    "Crystal River"
+   ],
+   "award_count": 1,
+   "total_amount": 23380.0
+  },
+  "htg hidden lake": {
+   "name": "HTG Hidden Lake",
+   "awards": [
+    {
+     "entity_id": "m-crystalriver",
+     "government": "Crystal River",
+     "meeting_date": null,
+     "amount": 340000.0,
+     "text": "B. Motion to authorize the Mayor to execute a Florida Housing Finance Corporation \"Local Government Area of Opportunity Funding Form\" and reallocate a previous loan commitment made to HTG Hidden Lake, LLC, in the amount of $340,000.00 for the Fountains at Hidden Lake Phase II affordable housing deve",
+     "link": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=378"
+    }
+   ],
+   "governments": [
+    "Crystal River"
+   ],
+   "award_count": 1,
+   "total_amount": 340000.0
+  },
+  "peer recovery support navigator": {
+   "name": "Peer Recovery Support Navigator",
+   "awards": [
+    {
+     "entity_id": "c-okeechobee",
+     "government": "Okeechobee County",
+     "meeting_date": null,
+     "amount": 15000.0,
+     "text": "That the Board of County Commissioners approve and authorize the Chairman to execute a Grant Agreement for Peer Recovery Support Navigator with Our Village Okeechobee, Inc., for a one year term beginning October 1, 2026 through September 30, 2027, in the amount of $15,000, to be paid at the rate of ",
+     "link": "https://okeechobee.granicus.com/AgendaViewer.php?view_id=1&clip_id=4339"
+    }
+   ],
+   "governments": [
+    "Okeechobee County"
+   ],
+   "award_count": 1,
+   "total_amount": 15000.0
+  },
+  "residential single family": {
+   "name": "Residential Single Family",
+   "awards": [
+    {
+     "entity_id": "c-okeechobee",
+     "government": "Okeechobee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "2. Public Hearing, Petition R-2607-0066, Change in Zoning. Request for a change in zoning from Agriculture (A) to Residential Single Family (RSF). The property owner is Wolff Farms, LLC. The applicant is Lennar. The property address is 1590 SW 28th Street. Dennis Murphy Recommend that the Planning B",
+     "link": "https://okeechobee.granicus.com/AgendaViewer.php?view_id=1&clip_id=4330"
+    },
+    {
+     "entity_id": "c-okeechobee",
+     "government": "Okeechobee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Okeechobee County Planning Board/Board of Adjustments and Appeals 304 NW 2nd Street Okeechobee, FL 34972 Submitted ACTION ITEM (ID# 2) Department:Planning and Development Category:Public Hearing Prepared By: Dennis Murphy Presenter: Dennis Murphy FINANCIAL IMPACT: BACKGROUND: SUBJECT: Public Hearing",
+     "link": "https://okeechobee.granicus.com/AgendaViewer.php?view_id=1&clip_id=4330"
+    }
+   ],
+   "governments": [
+    "Okeechobee County"
+   ],
+   "award_count": 2,
+   "total_amount": 0
+  },
+  "commercial recreational vehicle": {
+   "name": "Commercial-Recreational Vehicle",
+   "awards": [
+    {
+     "entity_id": "c-okeechobee",
+     "government": "Okeechobee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "V. Other Business in the Judge William L. Hendry Courtroom, Room 270, Historic Okeechobee County Courthouse, 304 NW 2nd Street, Okeechobee, Florida. zoning from Agriculture (A) to Commercial-Recreational Vehicle (C-RV). The property owners are William Payne and Elizabeth Payne Simonson. The applican",
+     "link": "https://okeechobee.granicus.com/AgendaViewer.php?view_id=1&clip_id=4330"
+    }
+   ],
+   "governments": [
+    "Okeechobee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "titan construction management": {
+   "name": "Titan Construction Management",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "7.a Ratification Memo (Clerk of Court) 7.b BOCC Meeting/Workshop Minutes: 1 . July 28, 2026, Budget Workshop 2 . August 4, 2026, Regular BOCC Meeting 7.c Approval of State Funded Grant Supplemental Agreement 003, to Titan Construction Management, LLC. for Cane Creek Road Over Cane Creek Bridge Repai",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=176"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "matching percentage": {
+   "name": "MATCHING PERCENTAGE",
+   "awards": [
+    {
+     "entity_id": "m-portorange",
+     "government": "Port Orange",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "5. PROJECT COSTS - To be eligible for reimbursement under this AGREEMENT , PROJECT COSTS must be necessary and reasonable for the effective and efficient accomplishment of the PROJECT and must be directly allocable thereto. PROJECT COSTS are generally described in Exhibit B, Chapter 66B -2, F.A.C.. ",
+     "link": "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9734,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Port Orange"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "sanders": {
+   "name": "Sanders",
+   "awards": [
+    {
+     "entity_id": "m-apopka",
+     "government": "Apopka",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "1. Future Grant of Easement. JCA shall grant and convey to Sanders, and to the heirs, successors, and assigns of the Sanders Property, a perpetual, nonexclusive easement for ingress and egress over and across the JCA Easement Area (the \"JCA Easement\"). The JCA Easement shall benefit and be appurtena",
+     "link": "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4342,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Apopka"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "downtown development site": {
+   "name": "Downtown Development Site",
+   "awards": [
+    {
+     "entity_id": "m-stcloud",
+     "government": "St. Cloud",
+     "meeting_date": "2026-11-12",
+     "amount": 460000.0,
+     "text": "Commission (OUC) Business Development & Customer Retention Fund created by the Interlocal Agreement of April 25, 1997 for the city\u2019s use to fund the Downtown Development Site 1 government contribution for the development of a mixed use project including a parking garage and providing an effective da",
+     "link": "https://stcloudfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=290,plainText=false)"
+    },
+    {
+     "entity_id": "m-stcloud",
+     "government": "St. Cloud",
+     "meeting_date": "2026-11-12",
+     "amount": 460000.0,
+     "text": "City Manager Agenda Item: Resolution No. 2026-122R, a resolution of the City Council of the City of St. Cloud, Florida, approving the use of $460,000 from the St. Cloud/Orlando Utilities Commission (OUC) Business Development & Customer Retention Fund created by the Interlocal Agreement of April 25, ",
+     "link": "https://stcloudfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=294,plainText=false)"
+    },
+    {
+     "entity_id": "m-stcloud",
+     "government": "St. Cloud",
+     "meeting_date": "2026-11-12",
+     "amount": 460000.0,
+     "text": "SECTION I. The City Council of the City of St. Cloud does hereby approve the use of $460,000 from the Business Development & Customer Retention Fund to fund the local government contribution for the Downtown Development Site 1 mixed-use and parking garage project and that the disbursement of such fu",
+     "link": "https://stcloudfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=294,plainText=false)"
+    }
+   ],
+   "governments": [
+    "St. Cloud"
+   ],
+   "award_count": 3,
+   "total_amount": 1380000.0
+  },
+  "space coast transportation planning organization": {
+   "name": "Space Coast Transportation Planning Organization",
+   "awards": [
+    {
+     "entity_id": "m-titusville",
+     "government": "Titusville",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "4. Staff is coordinating on trail connection and funding efforts, having prepared outreach to the Space Coast Transportation Planning Organization regarding the critical bicycle trail connection gap at Main Street and Canaveral Avenue \u2013 the primary entryway into the City of Titusville on the C2C Tra",
+     "link": "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2536,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Titusville"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "florida legislature": {
+   "name": "Florida Legislature",
+   "awards": [
+    {
+     "entity_id": "m-titusville",
+     "government": "Titusville",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "\u2022 Adding the widening of South Street/State Road 405 and stormwater projects on the State appropriation requests \u2022 Prioritizing projects and preparing for making budget requests \u2022 The importance of the City having \u201cshovel ready\u201d projects ready, which required matching funds \u2022 An overview of Mr. Stee",
+     "link": "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2538,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Titusville"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "phase iv original section sewer project": {
+   "name": "Phase IV Original Section Sewer Project",
+   "awards": [
+    {
+     "entity_id": "m-greenacres",
+     "government": "Greenacres",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "4. Resolution 2026-55: Authorizing Amendment 001 of the Fiscal Year 2025-2026 Community Development Block Grant (CDBG) Agreement R2025-1482 for Phase IV Original Section Sewer Project; and providing for an effective date. - Carlos Cedeno, Director of Public Works.",
+     "link": "https://greenacresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2845,plainText=false)"
+    },
+    {
+     "entity_id": "m-greenacres",
+     "government": "Greenacres",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "Meeting Date: November 16, 2026 From: Carlos Cedeno , PW Director Subject: Resolution 2026-55: Authorizing Amendment 001 of the Fiscal Year 2025-2026 Community Development Block Grant (CDBG) Agreement R2025-1482 for Phase IV Original Section Sewer Project; and providing for an effective date. - Carl",
+     "link": "https://greenacresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2846,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Greenacres"
+   ],
+   "award_count": 2,
+   "total_amount": 0
+  },
+  "biscayne drive": {
+   "name": "Biscayne Drive",
+   "awards": [
+    {
+     "entity_id": "m-greenacres",
+     "government": "Greenacres",
+     "meeting_date": "2026-11-16",
+     "amount": 217399.0,
+     "text": "Background On October 1, 2025, Palm Beach County Department of Housing and Economic Development (DHED) entered into Agreement R2025-1482 with the City of Greenacres for a Community Development Block Grant (CDBG) for Fiscal Year 2025-2026. DHED agreed to provide $217,399 of CDBG funds for the improve",
+     "link": "https://greenacresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2846,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Greenacres"
+   ],
+   "award_count": 1,
+   "total_amount": 217399.0
+  },
+  "youth programs department she": {
+   "name": "Youth Programs Department. She",
+   "awards": [
+    {
+     "entity_id": "m-greenacres",
+     "government": "Greenacres",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "Ms. McCue reminded the Council about the Truck or Treat event, early voting, Election Day, and the upcoming Board meeting regarding increased funding for the Youth Programs Department. She also requested cancellation of the November 2, 2026, meeting. The Council agreed. City Attorney's Report Ms. Go",
+     "link": "https://greenacresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2846,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Greenacres"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "phase iv original section": {
+   "name": "Phase IV of the Original Section",
+   "awards": [
+    {
+     "entity_id": "m-greenacres",
+     "government": "Greenacres",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "NOW, THEREFORE, BE RESOLVED BY THE CITY COUNCIL OF THE CITY OF GREENACRES, FLORIDA, THAT: SECTION 1. The City Council grants authorization for the execution of Amendment of 001 of the FY 2025-2026 Community Development Block Grant (CDBG) Funding Agreement for Phase IV of the Original Section sewer i",
+     "link": "https://greenacresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2846,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Greenacres"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "florida power": {
+   "name": "Florida Power",
+   "awards": [
+    {
+     "entity_id": "m-greenacres",
+     "government": "Greenacres",
+     "meeting_date": "2026-11-16",
+     "amount": 10.0,
+     "text": "The undersigned (\u201cGrantor\u201d), in consideration of the payment of $10.00 and other good and valuable consideration, the adequacy and receipt of which is hereby acknowledged, grants and gives to Florida Power & Light Company, its affiliates, licensees, agents, successors, and assigns (\u201cFPL\u201d), with a ma",
+     "link": "https://greenacresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2846,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Greenacres"
+   ],
+   "award_count": 1,
+   "total_amount": 10.0
+  },
+  "director": {
+   "name": "Director",
+   "awards": [
+    {
+     "entity_id": "m-crestview",
+     "government": "Crestview",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "1. The applicant, or any person owning property within three hundred (300) feet of the subject property who submitted written comment to the Director, may appeal the grant or denial of an Administrative Waiver to the PDB by filing a written notice of appeal with the City Clerk within thirty (30) day",
+     "link": "https://crestviewfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3778,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Crestview"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "photograph property owner": {
+   "name": "Photograph Property. Owner",
+   "awards": [
+    {
+     "entity_id": "m-leesburg",
+     "government": "Leesburg",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "6. License to Photograph Property. Owner expressly grants to City the right to photograph or film images of the property subject to this Agreement, including the exterior and interior of the home or other structure, for documentation, education, and publicity purposes provided that such use shall no",
+     "link": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3355,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Leesburg"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "leesburg cemeteries": {
+   "name": "Leesburg Cemeteries",
+   "awards": [
+    {
+     "entity_id": "m-leesburg",
+     "government": "Leesburg",
+     "meeting_date": "2026-11-09",
+     "amount": 161760.0,
+     "text": "The fiscal year 2026-27 budget includes funding for Leesburg Cemeteries, Inc. in the amount of $161,760.00. This is the same amount that was awarded last year and includes a $15,000.00 utility credit.",
+     "link": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3366,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Leesburg"
+   ],
+   "award_count": 1,
+   "total_amount": 161760.0
+  },
+  "fire station": {
+   "name": "Fire Station",
+   "awards": [
+    {
+     "entity_id": "m-clermont",
+     "government": "Clermont",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "Approval of this contract does not obligate the City to make purchases. Individual departments will budget and allocate funds as needed for expenditures related to piggyback contracts. The estimated contract value reflects potential expenditures but does not represent a specific department\u2019s allocat",
+     "link": "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5855,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Clermont"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "parcel two owner": {
+   "name": "Parcel Two Owner",
+   "awards": [
+    {
+     "entity_id": "m-clermont",
+     "government": "Clermont",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "2. Grant of Easements. (a) Ingress/Egress Easement #1. Parcel One Owner hereby grants and conveys to Parcel Two Owner, for the benefit of Parcel Two, its successors, assigns and/or 1-829279.1 Book3700/Page1681 CFN#2008130840 Page 2 of 11 Page 357",
+     "link": "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5855,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Clermont"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "parcel one owner": {
+   "name": "Parcel One Owner",
+   "awards": [
+    {
+     "entity_id": "m-clermont",
+     "government": "Clermont",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "Permittees, a non-exclusive perpetual, appurtenant easement (\"Ingress/Egress Easement #1\") of pedestrian and vehicular ingress and egress on, over, through, upon and across that portion of Parcel One depicted on the Sketch as \"Proposed Ingress Egress Easement #1\" and more particularly described as \"",
+     "link": "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5855,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Clermont"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "eustis elementary school board s": {
+   "name": "Eustis Elementary. The School Board's",
+   "awards": [
+    {
+     "entity_id": "m-eustis",
+     "government": "Eustis",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "To: Historic Preservation Board From: Kyle Wilkes, Senior Planner Date: November 10, 2026 Re: Certificate of Appropriateness COA-26-0001 - Construction of a Church Thrift Store At 317 S Mary Street (Ak 1189799) Introduction: The St. Thomas Episcopal Church currently operates a church ministry thrift",
+     "link": "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1647,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Eustis"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "administer": {
+   "name": "Administer",
+   "awards": [
+    {
+     "entity_id": "m-eustis",
+     "government": "Eustis",
+     "meeting_date": "2026-11-19",
+     "amount": 20295.0,
+     "text": "Date: November 19, 2026 Re: Resolution Number 2026-106: Acceptance of the U.S. Department of Interior, Office of Wildland-Slip-on Tanker Units-2026 Grant Award and Approving and Authorizing the City Manager to Administer said Grant Award; and amending the FY2026/2027 Adopted Budget; Increasing Estim",
+     "link": "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1657,plainText=false)"
+    },
+    {
+     "entity_id": "m-eustis",
+     "government": "Eustis",
+     "meeting_date": "2026-11-19",
+     "amount": 12888.0,
+     "text": "Date: November 19, 2026 Re: Resolution Number 2026-105: Acceptance of the Florida Department of Health, Bureau of Emergency Medical Services (EMS) 2026 Grant Award and Authorizing the City Manager to Administer said Agreement; and amending the FY 2026/2027 Adopted Budget; Increasing Estimated Revenu",
+     "link": "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1657,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Eustis"
+   ],
+   "award_count": 2,
+   "total_amount": 33183.0
+  },
+  "historic edgewood cemetery assessment preservation": {
+   "name": "Historic Edgewood Cemetery Assessment and Preservation",
+   "awards": [
+    {
+     "entity_id": "m-mountdora",
+     "government": "Mount Dora",
+     "meeting_date": "2026-11-17",
+     "amount": 50000.0,
+     "text": "3. Request Approval of $50,000 State Grant Agreement for Historic Edgewood Cemetery Assessment and Preservation",
+     "link": "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7958,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Mount Dora"
+   ],
+   "award_count": 1,
+   "total_amount": 50000.0
+  },
+  "evans park renovation project": {
+   "name": "Evans Park Renovation Project",
+   "awards": [
+    {
+     "entity_id": "m-mountdora",
+     "government": "Mount Dora",
+     "meeting_date": "2026-11-18",
+     "amount": 3000000.0,
+     "text": "Evans Park Renovation \u2013 Officially Awarded The City has received an official $1.5 million LWCF grant award for the Evans Park Renovation Project, which ranked 3rd statewide. Evans Park is one of Mount Dora's most popular waterfront destinations for residents and visitors. However, the park currently",
+     "link": "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7960,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Mount Dora"
+   ],
+   "award_count": 1,
+   "total_amount": 3000000.0
+  },
+  "john rebman": {
+   "name": "John Rebman",
+   "awards": [
+    {
+     "entity_id": "m-staugustine",
+     "government": "St. Augustine",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "Commissioner Springfield MOVED to grant the appeal for John Rebman with the condition that any violation of City Code or the ordinance happened, he would lose his franchise agreement. Isabelle Lopez, City Attorney, commented that the ordinance had a section regarding the process on how penalties wer",
+     "link": "https://staugustinefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4738,plainText=false)"
+    },
+    {
+     "entity_id": "m-staugustine",
+     "government": "St. Augustine",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "Mayor Sikes -Kline MOVED to GRANT the appeal for John Rebman. The motion was SECONDED by Commissioner Cynthia Garris.",
+     "link": "https://staugustinefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4738,plainText=false)"
+    }
+   ],
+   "governments": [
+    "St. Augustine"
+   ],
+   "award_count": 2,
+   "total_amount": 0
+  },
+  "tiffany richardson": {
+   "name": "Tiffany Richardson. The",
+   "awards": [
+    {
+     "entity_id": "m-staugustine",
+     "government": "St. Augustine",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "Commissioner Garris MOVED to GRANT the appeal for Tiffany Richardson. The motion was SECONDED by Commissioner Springfield.",
+     "link": "https://staugustinefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4738,plainText=false)"
+    }
+   ],
+   "governments": [
+    "St. Augustine"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "electrical transmission distribution lines": {
+   "name": "Electrical Transmission and Distribution Lines",
+   "awards": [
+    {
+     "entity_id": "m-jacksonvillebeach",
+     "government": "Jacksonville Beach",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "Resolution No. 2231-2026 approves the Easement Release and Replacement Agreement, which provides for the concurrent exchange of releasing the existing Grant of Easement for Electrical Transmission and Distribution Lines and executing a new Underground Utility Easement establishing a 30-foot access a",
+     "link": "https://jacksonvillebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4280,plainText=false)"
+    },
+    {
+     "entity_id": "m-jacksonvillebeach",
+     "government": "Jacksonville Beach",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "EXHIBIT B EXISTING CITY EASEMENT Grant of Easement for Electrical Transmission and Distribution Lines to the City of Jacksonville Beach, dated November 27, 1985, recorded December 27, 1985, in Official Records Book 692, Page 1194, Public Records of St. Johns County, Florida. The grant describes the ",
+     "link": "https://jacksonvillebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4280,plainText=false)"
+    },
+    {
+     "entity_id": "m-jacksonvillebeach",
+     "government": "Jacksonville Beach",
+     "meeting_date": "2026-11-16",
+     "amount": 10.0,
+     "text": "Prepared by and return to: ____________________________ ____________________________ ____________________________ ____________________________ SPACE RESERVED FOR RECORDING INFORMATION Parcel IDs: 068700-0010; 068700-0015 EXHIBIT C RELEASE OF EXISTING EASEMENT THIS RELEASE OF EASEMENT is made on ____",
+     "link": "https://jacksonvillebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4280,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Jacksonville Beach"
+   ],
+   "award_count": 3,
+   "total_amount": 10.0
+  },
+  "demolition former black s auto building approval budget": {
+   "name": "Demolition of the Former Black's Auto Building Approval of Budget",
+   "awards": [
+    {
+     "entity_id": "m-casselberry",
+     "government": "Casselberry",
+     "meeting_date": "2026-11-16",
+     "amount": 15060.0,
+     "text": "B. Budget Amendment #27-007 - Provide Funding for the Demolition of the Former Black's Auto Building Approval of Budget Amendment 27-007 which provides funding in the amount of $15,060 for the demolition of the dilapidated former Black's Auto building by Samsula Demolition is requested.",
+     "link": "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3842,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Casselberry"
+   ],
+   "award_count": 1,
+   "total_amount": 15060.0
+  },
+  "demolition former black s auto building": {
+   "name": "Demolition of the Former Black's Auto Building",
+   "awards": [
+    {
+     "entity_id": "m-casselberry",
+     "government": "Casselberry",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "Subject: Budget Amendment #27-007 - Provide Funding for the Demolition of the Former Black's Auto Building",
+     "link": "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3844,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Casselberry"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "lift station ford f550 crane truck a": {
+   "name": "Lift Station Ford F550 Crane Truck. A",
+   "awards": [
+    {
+     "entity_id": "m-casselberry",
+     "government": "Casselberry",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "Budget Impact: Funding was provided in the Fiscal Year (FY) 2026 Adopted Budget for the Lift Station Ford F550 Crane Truck. A separate agenda item on this commission will rollover the funds to provide sufficient funding for the Fiscal Year (FY) 2027 Budget.",
+     "link": "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3844,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Casselberry"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "fy2027 capital improvement projects": {
+   "name": "FY2027 Capital Improvement Projects",
+   "awards": [
+    {
+     "entity_id": "m-casselberry",
+     "government": "Casselberry",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "Budget Impact: Funding for FY2027 Capital Improvement Projects has been incorporated into the approved budget.",
+     "link": "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3844,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Casselberry"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "coventry water service line replacement project": {
+   "name": "Coventry Water Service Line Replacement Project",
+   "awards": [
+    {
+     "entity_id": "m-longwood",
+     "government": "Longwood",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "Budget Impact: Funding for the Coventry Water Service Line Replacement Project was budgeted in FY 2026 and FY 2027. The FY 2026 funds will be carried forward into FY 2027 to support project completion. The available funding is allocated as follows:",
+     "link": "https://longwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1637,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Longwood"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "breakfast": {
+   "name": "Breakfast",
+   "awards": [
+    {
+     "entity_id": "m-longwood",
+     "government": "Longwood",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "Additional holiday planning included new ornaments and children's activities for Breakfast with Santa, Letters to Santa, sponsorship efforts, and entertainment for the Christmas Tree Lighting. Staff advised that a new holiday band and an adult choir are scheduled for the Tree Lighting and that One S",
+     "link": "https://longwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1633,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Longwood"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "council city manager whitten": {
+   "name": "Council. City Manager Whitten",
+   "awards": [
+    {
+     "entity_id": "m-cocoa",
+     "government": "Cocoa",
+     "meeting_date": "2026-11-10",
+     "amount": 447000.0,
+     "text": "City Manager Whitten introduced the item reminding Council at a previous meeting staff was requested to get quotes to add items at Junny Rios Park and return to Council. City Manager Whitten stated those quotes came back at about $447,000. Since then, Councilmember Weeks reduced her request to the s",
+     "link": "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2624,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Cocoa"
+   ],
+   "award_count": 1,
+   "total_amount": 447000.0
+  },
+  "a taste elegance commissary kitchen commercial": {
+   "name": "A Taste of Elegance Commissary Kitchen. Commercial",
+   "awards": [
+    {
+     "entity_id": "m-cocoa",
+     "government": "Cocoa",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "5. Community Opportunity FY2026 goal / objective Measurement / reported FY2026 result Commercial fa\u00e7ade and signage grants One Commercial Fa\u00e7ade grant awarded to A Taste of Elegance Commissary Kitchen. Commercial property maintenance Code Enforcement enforces maintenance standards and assists owners",
+     "link": "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2629,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Cocoa"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "wilton drive block party": {
+   "name": "Wilton Drive Block Party",
+   "awards": [
+    {
+     "entity_id": "m-wiltonmanors",
+     "government": "Wilton Manors",
+     "meeting_date": "2026-11-18",
+     "amount": null,
+     "text": "Program/Activity: Community Engagement and Special Events Goal: Increase the visibility of the Wilton Drive Improvement District through expanded support of community events and signature programming. Objectives: \u2022 Increase the District's participation and visibility at community events. \u2022 Continue ",
+     "link": "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7101,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Wilton Manors"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "use discretionary funds": {
+   "name": "Use of Discretionary Funds",
+   "awards": [
+    {
+     "entity_id": "m-daniabeach",
+     "government": "Dania Beach",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "4. Request for Use of Discretionary Funds to Support the D5K Walking Club Recruiting & Holiday Event \u2014 Sponsored by Commissioner Davis",
+     "link": "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3541,plainText=false)"
+    },
+    {
+     "entity_id": "m-daniabeach",
+     "government": "Dania Beach",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "13.2 Request for Use of Discretionary Funds - Sponsored by Commissioner Ryan",
+     "link": "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3542,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Dania Beach"
+   ],
+   "award_count": 2,
+   "total_amount": 0
+  },
+  "american legion posts": {
+   "name": "American Legion Posts",
+   "awards": [
+    {
+     "entity_id": "m-daniabeach",
+     "government": "Dania Beach",
+     "meeting_date": "2026-11-17",
+     "amount": 4800.0,
+     "text": "It is agreed that Commissioner Ryan will contribute $1,000.00 from his contingency funds and Commissioner Rimoli and Vice Mayor Salvino will split the remaining $3,800.00 equally to cover the $4,800.00 request for funding to American Legion Posts 304 and 209.",
+     "link": "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3542,plainText=false)"
+    },
+    {
+     "entity_id": "m-daniabeach",
+     "government": "Dania Beach",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "There was Commission consensus for the funding as noted to American Legion Posts 304 and 209 and The Tamara James Foundation.",
+     "link": "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3542,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Dania Beach"
+   ],
+   "award_count": 2,
+   "total_amount": 4800.0
+  },
+  "first responders luncheon": {
+   "name": "First Responders Luncheon",
+   "awards": [
+    {
+     "entity_id": "m-daniabeach",
+     "government": "Dania Beach",
+     "meeting_date": "2026-11-17",
+     "amount": 2000.0,
+     "text": "Request The Greater Dania Beach Chamber of Commerce is requesting city sponsorship for the First Responders Luncheon & Holiday Toy Drive. Background The Greater Dania Beach Chamber of Commerce is hosting its annual First Responders Luncheon & Toy Drive on December 9, 2026, at the Marriott Dania Poin",
+     "link": "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3542,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Dania Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 2000.0
+  },
+  "broward health": {
+   "name": "Broward Health",
+   "awards": [
+    {
+     "entity_id": "m-parkland",
+     "government": "Parkland",
+     "meeting_date": "2026-11-18",
+     "amount": null,
+     "text": "2010\u2013 Present Coalition of Jamaican Alumni Associations, Florida \u2013 Co-Founder & Co-Chair 2008 - Present Community Relations Council Advisory Board, for Broward Health \u2013 North Broward Hospital District 2014 \u2013 Present City of Parkland \u2013 Parks and Recreation Advisory Board 2014 \u2013 Present State of Flori",
+     "link": "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2788,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Parkland"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "empowering opa locka youth": {
+   "name": "Empowering Opa-locka Youth",
+   "awards": [
+    {
+     "entity_id": "m-opalocka",
+     "government": "Opa-locka",
+     "meeting_date": "2026-11-09",
+     "amount": 1031000.0,
+     "text": "1. [13-1] A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF OPA-LOCKA, FLORIDA, AUTHORIZING THE CITY MANAGER TO ACCEPT THE OFFICE OF JUVENILE JUSTICE AND DELINQUENCY PREVENTION FISCAL YEAR 2026 BYRNE DISCRETIONARY COMMUNITY PROJECT GRANT, IN THE AMOUNT OF ONE MILLION, THIRTY-ONE THOUSAND DOLLARS ($",
+     "link": "https://opalockafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8167,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Opa-locka"
+   ],
+   "award_count": 1,
+   "total_amount": 1031000.0
+  },
+  "resolution no": {
+   "name": "Resolution No",
+   "awards": [
+    {
+     "entity_id": "m-opalocka",
+     "government": "Opa-locka",
+     "meeting_date": "2026-11-09",
+     "amount": 427200.0,
+     "text": "Sponsored By: City Manager RESOLUTION NO. 26-____ A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF OPA-LOCKA AMENDING THE AGREEMENT WITH BEEFREE, LLC D/B/A FREEBEE FOR THE ADDITION OF A THIRD VEHICLE FOR THE CITY\u2019S ON-DEMAND AND FIXED ROUTE RIDESHARE SERVICES; PROVIDING FOR ADOPTION OF REPRESENTAT",
+     "link": "https://opalockafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8167,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Opa-locka"
+   ],
+   "award_count": 1,
+   "total_amount": 427200.0
+  },
+  "department justice appropriations act": {
+   "name": "Department of Justice Appropriations Act",
+   "awards": [
+    {
+     "entity_id": "m-opalocka",
+     "government": "Opa-locka",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "Memorandum Regarding NEPA NEPA Letter Type OJP - Categorical Exclusion NEPA Letter The OJJDP FY 2026 Byrne Discretionary Community Project Grants/Byrne Discretionary Grants Program supports projects designated for funding pursuant to the Department of Justice Appropriations Act, 2026 (Pub. L. No. 11",
+     "link": "https://opalockafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8167,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Opa-locka"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "ojp in": {
+   "name": "OJP in",
+   "awards": [
+    {
+     "entity_id": "m-opalocka",
+     "government": "Opa-locka",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "applicable) governing the use of federal funds for expenses related to conferences (as that term is defined by DOJ), including the provision of food and/or beverages at such conferences, and costs of attendance at such conferences. Information on the pertinent DOJ definition of conferences and the r",
+     "link": "https://opalockafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8167,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Opa-locka"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "wex government fleet program": {
+   "name": "Wex Government Fleet Program",
+   "awards": [
+    {
+     "entity_id": "m-palatka",
+     "government": "Palatka",
+     "meeting_date": "2026-11-12",
+     "amount": null,
+     "text": "7. REGULAR BUSINESS a. Adopt Resolution 2026-R-190. A resolution of the City Commission of the City of Palatka, Florida, authorizing the transition of the Municipal Fleet to the Wex Government Fleet Program; approving procurement via State of Florida Alternate Contract source agreement No. 78181701-",
+     "link": "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2483,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Palatka"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "golf fund": {
+   "name": "Golf Fund",
+   "awards": [
+    {
+     "entity_id": "m-palatka",
+     "government": "Palatka",
+     "meeting_date": "2026-11-12",
+     "amount": 303800.0,
+     "text": "PROJECT ANALYSIS General Fund: The USDA Rural Development grant of $303,800 for the nine police vehicles was received by wire on September 23, 2026. It reimbursed vehicles purchased in Fiscal Year 2026, so the revenue and its use are recognized in the same year, and Section 4 of Resolution 2026-R-17",
+     "link": "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2484,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Palatka"
+   ],
+   "award_count": 1,
+   "total_amount": 303800.0
+  },
+  "ptga g3t30": {
+   "name": "PTGA G3T30",
+   "awards": [
+    {
+     "entity_id": "m-palatka",
+     "government": "Palatka",
+     "meeting_date": "2026-11-12",
+     "amount": 450000.0,
+     "text": "1. The City Commission hereby adopts the FDOT grant amendment #1 to PTGA G3T30 (FM#441842-5-94-03) and accepts the additional $450,000 in funding for the project",
+     "link": "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2484,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Palatka"
+   ],
+   "award_count": 1,
+   "total_amount": 450000.0
+  },
+  "extension water sewer lines": {
+   "name": "Extension of Water and Sewer Lines",
+   "awards": [
+    {
+     "entity_id": "m-palatka",
+     "government": "Palatka",
+     "meeting_date": "2026-11-12",
+     "amount": null,
+     "text": "Adopt Resolution 2026-R-195; A Resolution of the City of Palatka, Florida, Retroactively Approving the Withdrawal of the Economic Development Administration (EDA) Grant Application (EDA-APP# 00014706) for the Extension of Water and Sewer Lines to Service Tricircle Pavers, Inc.; Rescinding the Author",
+     "link": "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2484,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Palatka"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "george fleming": {
+   "name": "George Fleming",
+   "awards": [
+    {
+     "entity_id": "m-palatka",
+     "government": "Palatka",
+     "meeting_date": "2026-11-13",
+     "amount": null,
+     "text": "course of Lemon Street, later St. Johns Avenue, the main business street and the dividing line between north and south Palatka . The cleared, level area adjacent to the landing became the site of the historic business area of downtown Palatka.7 In January 1819 Sequi conveyed the grant to George Flem",
+     "link": "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2485,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Palatka"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "maer construction ayres": {
+   "name": "Maer Construction and Ayres",
+   "awards": [
+    {
+     "entity_id": "m-palatka",
+     "government": "Palatka",
+     "meeting_date": "2026-11-16",
+     "amount": 87704.0,
+     "text": "Central Business District TIF fund (Fund 130). The proposed ceiling includes $87,704.99 for Maer Construction and Ayres and $15,000.00 for DCCM. Before payment, Finance will reconcile outstanding balances, available funding, payment application adjustments, and change orders. Staff may adjust the Ma",
+     "link": "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2487,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Palatka"
+   ],
+   "award_count": 1,
+   "total_amount": 87704.0
+  },
+  "small business development center": {
+   "name": "Small Business Development Center",
+   "awards": [
+    {
+     "entity_id": "m-palatka",
+     "government": "Palatka",
+     "meeting_date": "2026-11-16",
+     "amount": 10000.0,
+     "text": "Downtown Vacant Buildings Members discussed the effect of vacant buildings on downtown activity and requested stronger owner accountability, effective code enforcement, and consideration of approaches used by other communities. Ms. Auth described several planned private redevelopment projects and co",
+     "link": "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2487,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Palatka"
+   ],
+   "award_count": 1,
+   "total_amount": 10000.0
+  },
+  "st johns avenue streetscape phase ii": {
+   "name": "St. Johns Avenue Streetscape Phase II",
+   "awards": [
+    {
+     "entity_id": "m-palatka",
+     "government": "Palatka",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "Adopt Resolution 2026-CRA-06; A resolution of the City of Palatka Community Redevelopment Agency approving Central Business District Tax Increment Financing support for St. Johns Avenue Streetscape Phase II costs in Fiscal Year 2025-2026 and 2026- 2027, providing for reconciliation and budget implem",
+     "link": "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2487,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Palatka"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "st johns avenue streetscape phase ii for fy": {
+   "name": "St. Johns Avenue Streetscape Phase II for FY",
+   "awards": [
+    {
+     "entity_id": "m-palatka",
+     "government": "Palatka",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "APPLICATION REQUEST Adopt Resolution 2026-CRA-06 approving the CRA\u2019s contribution to St. Johns Avenue Streetscape Phase II for FY 2025\u20132026 and FY 2026\u20132027.",
+     "link": "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2487,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Palatka"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "cra board if": {
+   "name": "CRA Board. If",
+   "awards": [
+    {
+     "entity_id": "m-palatka",
+     "government": "Palatka",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "City of Palatka CRA | 2 costs funded by another source and prevent duplicate charges. Unused transfers and proposed adjustments, including amounts associated with the North and South Historic districts, shall be separately identified by source district and presented for any required approvals. Staff",
+     "link": "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2487,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Palatka"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "lynn haven fire rescue consent agenda": {
+   "name": "Lynn Haven Fire Rescue CONSENT AGENDA",
+   "awards": [
+    {
+     "entity_id": "m-lynnhaven",
+     "government": "Lynn Haven",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "4. Presentation of Donation Check from Tractor Supply to Lynn Haven Fire Rescue CONSENT AGENDA",
+     "link": "https://lynnhavenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1158,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Lynn Haven"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "lynn haven fire rescue": {
+   "name": "Lynn Haven Fire Rescue",
+   "awards": [
+    {
+     "entity_id": "m-lynnhaven",
+     "government": "Lynn Haven",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "Agenda Title: Presentation of Donation Check from Tractor Supply to Lynn Haven Fire Rescue",
+     "link": "https://lynnhavenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1164,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Lynn Haven"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "community redevelopment agency": {
+   "name": "Community Redevelopment Agency",
+   "awards": [
+    {
+     "entity_id": "m-lynnhaven",
+     "government": "Lynn Haven",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "AN ORDINANCE OF THE CITY OF LYNN HAVEN, FLORIDA, AMENDING THE LEVEL OF FUNDING TO THE COMMUNITY REDEVELOPMENT AGENCY; PROVIDING FOR SEVERABILITY; AND PROVIDING AN EFFECTIVE DATE. WHEREAS, the City Commission of the City of Lynn Haven has determined and does hereby find that there is a need to reduce",
+     "link": "https://lynnhavenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1164,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Lynn Haven"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "landlord": {
+   "name": "Landlord",
+   "awards": [
+    {
+     "entity_id": "m-inverness",
+     "government": "Inverness",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "10.2 Payment of Award. Landlord shall have and hereby reserves, and Tenant hereby grants and assigns to Landlord, all rights to recover for damages to the IGC site, the Premises, the building in which the Premises are located, and the leasehold interest hereby created, and to compensation accrued or",
+     "link": "https://invernessfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=303,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Inverness"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "property appraiser s office": {
+   "name": "Property Appraiser's Office",
+   "awards": [
+    {
+     "entity_id": "m-inverness",
+     "government": "Inverness",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "Street Lighting Services As of 2025, the County manages 797 street lighting districts consisting of approximately 130,000 residential property owners (including single family, multifamily and apartment residential parcel classifications) and a small number of commercial parcels located in the County",
+     "link": "https://invernessfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=303,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Inverness"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "segmented projects": {
+   "name": "Segmented Projects",
+   "awards": [
+    {
+     "entity_id": "m-wildwood",
+     "government": "Wildwood",
+     "meeting_date": "2026-11-09",
+     "amount": 19718279.0,
+     "text": "23 This project is a Segmented Project. Additional State Revolving Fund financing for the Project is dependent upon the availability of additional funds. The current funding limitations and future funding priority entitlement for Segmented Projects are set forth in the Chapter 62-503 of the Florida ",
+     "link": "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5930,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Wildwood"
+   ],
+   "award_count": 1,
+   "total_amount": 19718279.0
+  },
+  "wastewater treatment plant": {
+   "name": "Wastewater Treatment Plant",
+   "awards": [
+    {
+     "entity_id": "m-wildwood",
+     "government": "Wildwood",
+     "meeting_date": "2026-11-09",
+     "amount": 10000000.0,
+     "text": "BUDGET IMPACT: Will provide $10M in funding for the Wastewater Treatment Plant project. HISTORY/FACTS/ISSUES: In January 2026, the Commission authorized the submittal of an application for SRF funding for the WWTP project. Subsequently, the city was notified that it had been placed on the funding li",
+     "link": "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5930,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Wildwood"
+   ],
+   "award_count": 1,
+   "total_amount": 10000000.0
+  },
+  "ambitrans medical transport": {
+   "name": "Ambitrans Medical Transport",
+   "awards": [
+    {
+     "entity_id": "c-collier",
+     "government": "Collier County",
+     "meeting_date": "2026-11-10",
+     "amount": 760200.0,
+     "text": "donations, contributions, or insurance proceeds) to the Fiscal Year 2026-27 Adopted Budget. (2026-3356) 16.F.2. Recommendation to renew the annual Certificate of Public Convenience and Necessity (COPCN) for Ambitrans Medical Transport, Inc. (Ambitrans), to provide Class 2 Advanced Life Support (ALS)",
+     "link": "https://colliercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3733,plainText=false)"
+    },
+    {
+     "entity_id": "c-collier",
+     "government": "Collier County",
+     "meeting_date": "2026-11-10",
+     "amount": 35479666.0,
+     "text": "donations, contributions, or insurance proceeds) to the Fiscal Year 2026-27 Adopted Budget. (2026-3356) 16.F.2. Recommendation to renew the annual Certificate of Public Convenience and Necessity (COPCN) for Ambitrans Medical Transport, Inc. (Ambitrans), to provide Class 2 Advanced Life Support (ALS)",
+     "link": "https://colliercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3735,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Collier County"
+   ],
+   "award_count": 2,
+   "total_amount": 36239866.0
+  },
+  "big corkscrew island regional park": {
+   "name": "Big Corkscrew Island Regional Park",
+   "awards": [
+    {
+     "entity_id": "c-collier",
+     "government": "Collier County",
+     "meeting_date": "2026-11-12",
+     "amount": null,
+     "text": "The future Regional Parks Impact Fees paid related to this development will likely contribute to funding the construction of the Big Corkscrew Island Regional Park which is located in close proximity to the proposed project. Additionally, proceeds from the One-Cent Infrastructure Surtax were identif",
+     "link": "https://colliercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3737,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Collier County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "intake decisions": {
+   "name": "Intake Decisions",
+   "awards": [
+    {
+     "entity_id": "c-flagler",
+     "government": "Flagler County",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "within unincorporated Flagler County. FHS will furnish at its sole expense all supervision, labor, animal food, tools, supplies and other things necessary for the satisfactory performance of the services herein agreed to be provided. b. Subject to the capacity, bio-security, and funding thresholds s",
+     "link": "https://flaglercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2110,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Flagler County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "severe coastal erosion vulnerability staff": {
+   "name": "Severe Coastal Erosion and Vulnerability. Staff",
+   "awards": [
+    {
+     "entity_id": "c-flagler",
+     "government": "Flagler County",
+     "meeting_date": "2026-11-16",
+     "amount": 100657.0,
+     "text": "7. Consent: BOCC Departments 7.a. Ratification and Approval of Proclamations Extending the Local State of Emergency Due to Severe Coastal Erosion and Vulnerability. Staff recommends that the Board ratify the Proclamations Extending the Local State of Emergency for Hurricanes Matthew, Ian and Nicole.",
+     "link": "https://flaglercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2120,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Flagler County"
+   ],
+   "award_count": 1,
+   "total_amount": 100657.0
+  },
+  "thought": {
+   "name": "Thought",
+   "awards": [
+    {
+     "entity_id": "c-flagler",
+     "government": "Flagler County",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "2.3 Provide up-to-date print and electronic resources and expert assistance. \u2022 Maintain and evaluate use of all collections to include ordering, weeding, and repairing. \u2022 Continually evaluate the use of current onlineelectronic resources to determine effectiveness and identify alternatives, if neces",
+     "link": "https://flaglercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2121,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Flagler County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "bunnell library": {
+   "name": "Bunnell Library",
+   "awards": [
+    {
+     "entity_id": "c-flagler",
+     "government": "Flagler County",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "\u2022 Continue collaborating with the Flagler County UF/IFAS Extension Master Gardeners to provide monthly plant clinics and programming to promote Florida friendly landscaping. \u2022 Starting Fall 2025 and throughout 2026, in partnership with the Master Gardeners & UF/IFAS Extension, offer a series of prog",
+     "link": "https://flaglercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2121,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Flagler County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "flagler humane society": {
+   "name": "Flagler Humane Society",
+   "awards": [
+    {
+     "entity_id": "c-flagler",
+     "government": "Flagler County",
+     "meeting_date": "2026-11-16",
+     "amount": 350000.0,
+     "text": "Due to the limited time between the two meetings, County staff prepared a revised Agreement that constitutes a complete rewrite of the previous Agreement. In the proposed FY 2026-27 Agreement, funding is limited to $350,000 per year payable to the Flagler Humane Society (FHS) in equal monthly instal",
+     "link": "https://flaglercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2121,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Flagler County"
+   ],
+   "award_count": 1,
+   "total_amount": 350000.0
+  },
+  "sewer grant roll": {
+   "name": "Sewer Grant Roll",
+   "awards": [
+    {
+     "entity_id": "c-flagler",
+     "government": "Flagler County",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "Schedule B Account # Account Description Revenues Expenditures/Expenses Comments FUND TOTAL (1,315.00) (1,315.00) 1123 001 0000 000000 390 00 000 000 399000 Other Sources - Fund Bal Fwd 90,426.00 - Updated CCF 1123 161 6001 572600 570 57 000 000 562000 Buildings - 45,571.00 GS25CIP014 4-H Barns 1123",
+     "link": "https://flaglercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2121,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Flagler County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "libraries grant": {
+   "name": "Libraries Grant",
+   "awards": [
+    {
+     "entity_id": "c-flagler",
+     "government": "Flagler County",
+     "meeting_date": "2026-11-16",
+     "amount": 20669.0,
+     "text": "Funding Information: State Aid to Libraries Grant is budgeted in Revenue Account 1001-001-0000-334700- 330-00-000-000-334700 and expended in the library budget. The amount included in the adopted FY 26-27 Budget is $20,669.",
+     "link": "https://flaglercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2121,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Flagler County"
+   ],
+   "award_count": 1,
+   "total_amount": 20669.0
+  },
+  "health insurance fund": {
+   "name": "Health Insurance Fund",
+   "awards": [
+    {
+     "entity_id": "c-flagler",
+     "government": "Flagler County",
+     "meeting_date": "2026-11-16",
+     "amount": 17172.0,
+     "text": "Overview/Summary: As part of the annual budget process, based on discussions with our Plan Administrator and in connection with our Actuarial Report, the Board approved the employer contribution for FY 27 to remain at $17,172.00 per Full-Time Equivalent (FTE). For FY 26, this budgeted amount is tran",
+     "link": "https://flaglercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2121,plainText=false)"
+    },
+    {
+     "entity_id": "c-flagler",
+     "government": "Flagler County",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "Meeting Date: November 16, 2026 Department Contact: Brian Eichinger, OMB Manager Subject: Approval of an Amendment to the Health Insurance Fund (Fund 1501) FY 2025-26 Surplus Budget Related to the Employer Contribution for Health Insurance.",
+     "link": "https://flaglercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2121,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Flagler County"
+   ],
+   "award_count": 2,
+   "total_amount": 17172.0
+  },
+  "juvenile diversion fund": {
+   "name": "Juvenile Diversion Fund",
+   "awards": [
+    {
+     "entity_id": "c-flagler",
+     "government": "Flagler County",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "Funding for the Juvenile Diversion Fund (Fund 1195) and Court Innovations Fund (Fund 1197) will be appropriated with approved Unanticipated Revenue Resolutions.",
+     "link": "https://flaglercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2121,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Flagler County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "contracts": {
+   "name": "Contracts",
+   "awards": [
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "This workshop is intended to serve as an information session and a public comment forum on the initial draft report of the Nassau County Fact-Finding Committee on Data Center Development. The Committee served as a research-based body rather than a decision-making board, and its findings are intended",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4383,plainText=false)"
+    },
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "63470541-563369 BP8TH Additional Information Needed for Contracts/Agreements (If Applicable) Contract Number assigned by Contracts Management: CM3607-A1 For non-governmental agencies, has the document been sent to the vendor for signature? N/A Does the document need to be recorded? If so, who will p",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    },
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "2 4 1 5 with the County\u2019s adopted Future Transportation Map Series (FTMS), Mobility Plan and/or the Schedule of Capital Improvements. Funding Source: 63470541-563365 C0003 Additional Information Needed for Contracts/Agreements (If Applicable) Contract Number assigned by Contracts Management: CM3768-",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    },
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-10",
+     "amount": 400.17,
+     "text": "- 2023 Florida Building Code, 8th Edition Section 105.1 - Buildings and Building Regulations - Chapter 18 \u00bc Section 18 \u00bc - 5 Subsection (2,3) - Prohibited Conditions Affecting Public Health - Chapter 18 \u00bc Section 18 \u00bc - 4 - Inoperable Vehicle Prohibited (2) If so, assess a fine in the amount of One ",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4369,plainText=false)"
+    },
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "Is this action consistent with the Nassau County Comprehensive Land Use Plan? N/A Funding Source N/A Additional Information Needed for Contracts/Agreements (If Applicable) Contract Number assigned by Contracts Management: N/A For non-governmental agencies, has the document been sent to the vendor fo",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4369,plainText=false)"
+    },
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-10",
+     "amount": 575.58,
+     "text": "(2) If so, assess a fine in the amount of One Hundred Dollars ($100.00) per day following October 7, 2026, as stated in the previous order. Contingent upon compliance. (3) Assess and set Administration Fee of Five Hundred Seventy-Five Dollars and Fifty-Eight Cents ($575.58). Is this action consisten",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4369,plainText=false)"
+    },
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-10",
+     "amount": 375.2,
+     "text": "Action Requested and Recommendation It is Requested that the Code Enforcement Special Magistrate: (1) Determine if the property remains in violation of Code Section(s): - Chapter 18 \u00bc Section 18 \u00bc - 3 - Abandoned refrigerators, iceboxes, and similar items - Chapter 18 \u00bc Section 18 \u00bc - 4 - Inoperable",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4369,plainText=false)"
+    },
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "It is requested that the Code Enforcement Special Magistrate: (1) Find the property in violation of Code Section(s): - Chapter 18 \u00bc Section 18 \u00bc - 3 - Abandoned refrigerators, iceboxes, and similar items - Chapter 18 \u00bc Section 18 \u00bc - 4 - Inoperable Vehicle Prohibited - Chapter 18 \u00bc Section 18 \u00bc - 5 ",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4369,plainText=false)"
+    },
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-10",
+     "amount": 539.96,
+     "text": "- Chapter 18 \u00bc Section 18 \u00bc - 4 - Inoperable Vehicle Prohibited - Chapter 18 \u00bc Section 18 \u00bc - 5 Subsection (2,3) - Prohibited Conditions Affecting Public Health - Appendix A Land Development Code Ordinance 97-19 Article 28 Section 28.06 - Parking, storage, or use of major recreational equipment. (2)",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4369,plainText=false)"
+    },
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "(2) Set a date for compliance, a fine amount, and the case for a fine assessment hearing. Is this action consistent with the Nassau County Comprehensive Land Use Plan? N/A Funding Source N/A Additional Information Needed for Contracts/Agreements (If Applicable) Contract Number assigned by Contracts ",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4369,plainText=false)"
+    },
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "Funding Source N/A Additional Information Needed for Contracts/Agreements (If Applicable) Contract Number assigned by Contracts Management: N/A For non-governmental agencies, has the document been sent to the vendor for signature? N/A Does the document need to be recorded? Yes (If yes prompt this qu",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4369,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Nassau County"
+   ],
+   "award_count": 11,
+   "total_amount": 1890.91
+  },
+  "future years budgeting process": {
+   "name": "Future Years Budgeting Process",
+   "awards": [
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": 2369019.0,
+     "text": "Board of County Commissioners Item Title: Finance Package 2026-25 Date: November 9, 2026 Department: OMB Background: Approve and authorize Finance Package 2026-25 Request: Approve and authorize Finance Package 2026-25 Financial/Economic Impact to Future Years Budgeting Process or Effect on Citizens:",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    },
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "2 4 7 6 Financial/Economic Impact to Future Years Budgeting Process or Effect on Citizens: This agreement will ensure that development pays its fair share to maintain level of service standards for school capacity. Action Requested and Recommendation: Approve and authorize the Chair to sign the Publ",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    },
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "2 4 7 5 Financial/Economic Impact to Future Years Budgeting Process or Effect on Citizens: This agreement will ensure that development pays its fair share to maintain level of service standards for school capacity. Action Requested and Recommendation: Approve and authorize the Chair to sign the Publ",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    },
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "2 4 7 7 Financial/Economic Impact to Future Years Budgeting Process or Effect on Citizens: This agreement will ensure that development pays its fair share to maintain level of service standards for school capacity. Action Requested and Recommendation: Approve and authorize the Chair to sign the Publ",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    },
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "Board of County Commissioners Item Title: NCSO Equitable Sharing Agreement and Certification Date: November 9, 2026 Department: County Manager Background: The Equitable Sharing Agreement, entered into among (1) the Federal Government, (2) the Agency, and (3) the Agency's governing body, sets forth t",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Nassau County"
+   ],
+   "award_count": 5,
+   "total_amount": 2369019.0
+  },
+  "professional services": {
+   "name": "Professional Services",
+   "awards": [
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "10 totally beyond the control and without any fault or negligence of the Party seeking to excuse nonperformance. 19.2 In the event of delay from the foregoing causes, the Party shall take all reasonable measures to mitigate any resulting delay or disruption in the Party\u2019s performance. If the delay i",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Nassau County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "fy2026 2027": {
+   "name": "FY2026-2027",
+   "awards": [
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": 50000.0,
+     "text": "The City of Fernandina Beach hereby requests $50,000 from the Nassau County Board of County Commissioners in alignment with Section XIV \u2013 Municipal Grant Funding Policy for the redevelopment of the sports fields located at the Martin Luther King Jr Recreatio n Complex in Fernandina Beach. The redeve",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    },
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "August 21, 2026 To: Nassau County Board of County Commissioners Re: Municipal Grant Funding Request for FY2026-2027",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Nassau County"
+   ],
+   "award_count": 2,
+   "total_amount": 50000.0
+  },
+  "nassau county board county commissioner s municipal grant funding policy": {
+   "name": "Nassau County Board of County Commissioner's Municipal Grant Funding Policy",
+   "awards": [
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "Contract No.: CM3999 MUNICIPAL GRANT FUNDING AGREEMENT FOR CITY OF FERNANDINA BEACH FISCAL YEAR 2025/2026 THIS MUNICIPAL GRANT FUNDING AGREEMENT (hereinafter \"Agreement\") is entered into by and between the BOARD OF COUTNY COMMISSIONERS OF NASSAU COUNTY, a political subdivision of the State of Florid",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Nassau County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "municipal grant funding for martin luther king jr sports": {
+   "name": "Municipal Grant Funding for the Martin Luther King Jr. Sports",
+   "awards": [
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": 50000.0,
+     "text": "Board of County Commissioners Item Title: Amendment to City of Fernandina Beach Municipal Grant Funding Application Date: November 9, 2026 Department: County Manager Background: On October 9, 2023, the Board of County Commissioners adopted the Municipal Grant Funding Policy. This policy sets forth t",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Nassau County"
+   ],
+   "award_count": 1,
+   "total_amount": 50000.0
+  },
+  "linger longer avenue": {
+   "name": "Linger Longer Avenue",
+   "awards": [
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "Board of County Commissioners Item Title: Accept Non-Exclusive Access Easement from Wildlight LLC for Linger Longer Avenue public sidewalks and trails Date: November 9, 2026 Department: Development Services Background: As part of the East Nassau Community Planning Area (ENCPA), Wildlight platted cer",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Nassau County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "amelia island parkway trail segment": {
+   "name": "Amelia Island Parkway Trail Segment",
+   "awards": [
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": 5695.0,
+     "text": "2 4 5 5 Action Requested and Recommendation: Approve and authorize the Chair to sign the Resolution authorizing the Supplemental Agreement of the Grant Agreement Contract No. CM3332-A4 with Florida Department of Transportation (FDOT) extending to June 30, 2027 and increase funding by $5,695.80 for A",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Nassau County"
+   ],
+   "award_count": 1,
+   "total_amount": 5695.0
+  },
+  "widening intersection": {
+   "name": "Widening and Intersection",
+   "awards": [
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "With the expiration of the grant scheduled for December 31, 2026, Nassau County respectfully requesting an extension of the agreement for the Widening and Intersection improvements on CR 107 and State Road 200 / A1A until December 31, 2029, to provide enough time to complete the design and construct",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Nassau County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "services": {
+   "name": "Services",
+   "awards": [
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "Contract No.: CM3999 Amount\"). 3.2 The RECIPIENT shall use and allocate the Funding Amount solely for the Services as outlined in Section 2. of this Agreement. 3.3 The COUNTY's performance and obligation under this Agreement is contingent upon an annual appropriation by the Nassau County Board of Co",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Nassau County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "consideration": {
+   "name": "Consideration",
+   "awards": [
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "Board of County Commissioners Item Title: Set Public Hearing for Consideration of a Resolution Electing to Use the Uniform Method of Collecting Non-Ad Valorem Special Assessments Date: November 18, 2026 Department: County Attorney Background: Annually, the Board considers a Resolution to Use the Uni",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Nassau County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "nasbla": {
+   "name": "NASBLA",
+   "awards": [
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": null,
+     "text": "I spoke with Mr. Davis regarding a potential conflict with the grant award related to discrepancies in the detailed budget. Please see the email chain below for reference. It appears that the box requesting SZE exemption approval by the USCG was not checked. This was not identified during FEMA\u2019s rev",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Nassau County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "debris removal": {
+   "name": "Debris Removal",
+   "awards": [
+    {
+     "entity_id": "c-santarosa",
+     "government": "Santa Rosa County",
+     "meeting_date": "2026-11-10",
+     "amount": 64769940.0,
+     "text": "SUMMARY/BACKGROUND To recognize FEMA Expedited Project grant for Debris Removal from Hurricane Isaias. Federal portion $64,769,940; State Match $10,794,990 and to allocate General Fund reserves in the amount of $10,794,990.",
+     "link": "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3104,plainText=false)"
+    },
+    {
+     "entity_id": "c-santarosa",
+     "government": "Santa Rosa County",
+     "meeting_date": "2026-11-12",
+     "amount": 64769940.0,
+     "text": "SUMMARY/BACKGROUND To recognize FEMA Expedited Project grant for Debris Removal from Hurricane Isaias. Federal portion $64,769,940; State Match $10,794,990 and to allocate General Fund reserves in the amount of $10,794,990.",
+     "link": "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3109,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Santa Rosa County"
+   ],
+   "award_count": 2,
+   "total_amount": 129539880.0
+  },
+  "santa rosa industrial park approval": {
+   "name": "Santa Rosa Industrial Park Approval",
+   "awards": [
+    {
+     "entity_id": "c-santarosa",
+     "government": "Santa Rosa County",
+     "meeting_date": "2026-11-10",
+     "amount": 4099999.9999999995,
+     "text": "6) EDO \u2013 Triumph Grant Application Submittal for Santa Rosa Industrial Park Approval to submit application for the Triumph Grant for Santa Rosa Industrial Park East (SRIPE) for $4.1 million to acquire 8.5 acres of land and purchase an existing 25,000 sq ft building. Authorize the chairman to sign al",
+     "link": "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3104,plainText=false)"
+    },
+    {
+     "entity_id": "c-santarosa",
+     "government": "Santa Rosa County",
+     "meeting_date": "2026-11-12",
+     "amount": 4099999.9999999995,
+     "text": "6) EDO \u2013 Triumph Grant Application Submittal for Santa Rosa Industrial Park Approval to submit application for the Triumph Grant for Santa Rosa Industrial Park East (SRIPE) for $4.1 million to acquire 8.5 acres of land and purchase an existing 25,000 sq ft building. Authorize the chairman to sign al",
+     "link": "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3109,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Santa Rosa County"
+   ],
+   "award_count": 2,
+   "total_amount": 8199999.999999999
+  },
+  "emergency": {
+   "name": "Emergency",
+   "awards": [
+    {
+     "entity_id": "c-santarosa",
+     "government": "Santa Rosa County",
+     "meeting_date": "2026-11-10",
+     "amount": 1523175.0,
+     "text": "SUMMARY/BACKGROUND To carry forward SHIP funds in the amount of $1,523,175 that were allocated but unspent in FY26 and to recognize $777,820 of 2025-2026 FHFC Funding, $585,265 for 2026-2027 FHFC Funding and other program income. This funding is for Emergency repairs, Substantial rehabilitation, Dem",
+     "link": "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3104,plainText=false)"
+    },
+    {
+     "entity_id": "c-santarosa",
+     "government": "Santa Rosa County",
+     "meeting_date": "2026-11-12",
+     "amount": 1523175.0,
+     "text": "SUMMARY/BACKGROUND To carry forward SHIP funds in the amount of $1,523,175 that were allocated but unspent in FY26 and to recognize $777,820 of 2025-2026 FHFC Funding, $585,265 for 2026-2027 FHFC Funding and other program income. This funding is for Emergency repairs, Substantial rehabilitation, Dem",
+     "link": "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3109,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Santa Rosa County"
+   ],
+   "award_count": 2,
+   "total_amount": 3046350.0
+  },
+  "florida statute": {
+   "name": "Florida Statute",
+   "awards": [
+    {
+     "entity_id": "c-santarosa",
+     "government": "Santa Rosa County",
+     "meeting_date": "2026-11-10",
+     "amount": 1525324.0,
+     "text": "Budget Amendment 2027-012 RESOLUTION OF THE BOARD OF COUNTY COMMISSIONERS OF SANTA ROSA COUNTY, FLORIDA, AMENDING THE FISCAL YEAR 2027 BUDGET, CHANGING THE ESTIMATED TOTAL REVENUES, SURPLUS OR EXPENDITURES AND PROVIDING AN EFFECTIVE DATE. WHEREAS, the Board of County Commissioners has determined tha",
+     "link": "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3104,plainText=false)"
+    },
+    {
+     "entity_id": "c-santarosa",
+     "government": "Santa Rosa County",
+     "meeting_date": "2026-11-12",
+     "amount": 1525324.0,
+     "text": "Budget Amendment 2027-012 RESOLUTION OF THE BOARD OF COUNTY COMMISSIONERS OF SANTA ROSA COUNTY, FLORIDA, AMENDING THE FISCAL YEAR 2027 BUDGET, CHANGING THE ESTIMATED TOTAL REVENUES, SURPLUS OR EXPENDITURES AND PROVIDING AN EFFECTIVE DATE. WHEREAS, the Board of County Commissioners has determined tha",
+     "link": "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3109,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Santa Rosa County"
+   ],
+   "award_count": 2,
+   "total_amount": 3050648.0
+  },
+  "fema public assistance": {
+   "name": "FEMA Public Assistance",
+   "awards": [
+    {
+     "entity_id": "c-santarosa",
+     "government": "Santa Rosa County",
+     "meeting_date": "2026-11-10",
+     "amount": null,
+     "text": "TAB 3: REGULATORY COMPLIANCE & FEMA READINESS Disaster Debris Removal Services RFP No. 26-035 FUNDING SOURCES After a natural disaster, FEMA Public Assistance applicants have access to various funding sources to support their recovery efforts. These funding sources include federal grants, state matc",
+     "link": "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3104,plainText=false)"
+    },
+    {
+     "entity_id": "c-santarosa",
+     "government": "Santa Rosa County",
+     "meeting_date": "2026-11-12",
+     "amount": null,
+     "text": "TAB 3: REGULATORY COMPLIANCE & FEMA READINESS Disaster Debris Removal Services RFP No. 26-035 FUNDING SOURCES After a natural disaster, FEMA Public Assistance applicants have access to various funding sources to support their recovery efforts. These funding sources include federal grants, state matc",
+     "link": "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3109,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Santa Rosa County"
+   ],
+   "award_count": 2,
+   "total_amount": 0
+  },
+  "law enforcement needs assessment": {
+   "name": "Law Enforcement Needs Assessment",
+   "awards": [
+    {
+     "entity_id": "m-miamilakes",
+     "government": "Miami Lakes",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "Reallocation of Police Explorer Program Funding for Law Enforcement Needs Assessment (Herzberg)",
+     "link": "https://pub-miamilakes.escribemeetings.com/Meeting.aspx?Id=f7f89a0c-ad7c-48be-a136-4c92fbe68873&Agenda=Agenda&lang=English"
+    }
+   ],
+   "governments": [
+    "Miami Lakes"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "law enforcement needs assessment pdf": {
+   "name": "Law Enforcement Needs Assessment.pdf",
+   "awards": [
+    {
+     "entity_id": "m-miamilakes",
+     "government": "Miami Lakes",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "1. NBI Reallocation of Police Explorer Program Funding for Law Enforcement Needs Assessment.pdf",
+     "link": "https://pub-miamilakes.escribemeetings.com/Meeting.aspx?Id=f7f89a0c-ad7c-48be-a136-4c92fbe68873&Agenda=Agenda&lang=English"
+    }
+   ],
+   "governments": [
+    "Miami Lakes"
+   ],
+   "award_count": 1,
+   "total_amount": 0
   }
  },
- "generated_utc": "2026-11-16T15:59:27+00:00",
+ "generated_utc": "2026-11-16T18:08:14+00:00",
  "multi_government": [
+  "commission",
   "section",
   "contractor",
+  "general fund",
   "american",
   "cra board",
+  "district",
+  "department",
   "u s department housing urban development",
+  "recipient",
   "grantee",
   "agreement",
+  "funding",
   "chapter",
   "florida department environmental protection",
   "supplier",
   "sourcewell",
   "florida department transportation",
-  "interlocal agreement"
+  "interlocal agreement",
+  "amendment no",
+  "use grant funds"
  ]
 }

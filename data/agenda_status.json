@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-16T15:32:07+00:00",
- "count": 162,
+ "generated_utc": "2026-11-16T17:18:29+00:00",
+ "count": 195,
  "governments": {
   "m-fortlauderdale": {
    "name": "Fort Lauderdale",
@@ -153,6 +153,55 @@
    "client": "psl",
    "events": 10,
    "flagged": 3
+  },
+  "m-plantcity": {
+   "name": "Plant City",
+   "status": "ok",
+   "client": "plantcity",
+   "events": 2,
+   "flagged": 0
+  },
+  "m-aventura": {
+   "name": "Aventura",
+   "status": "ok",
+   "client": "cityofaventura",
+   "events": 0,
+   "flagged": 0
+  },
+  "c-charlotte": {
+   "name": "Charlotte County",
+   "status": "ok",
+   "client": "charlottecountyfl",
+   "events": 2,
+   "flagged": 0
+  },
+  "c-marion": {
+   "name": "Marion County",
+   "status": "ok",
+   "client": "marionfl",
+   "events": 9,
+   "flagged": 23
+  },
+  "m-pompanobeach": {
+   "name": "Pompano Beach",
+   "status": "ok",
+   "client": "pompano",
+   "events": 3,
+   "flagged": 6
+  },
+  "c-brevard": {
+   "name": "Brevard County",
+   "status": "ok",
+   "client": "brevardfl",
+   "events": 5,
+   "flagged": 2
+  },
+  "c-desoto": {
+   "name": "DeSoto County",
+   "status": "ok",
+   "client": "desotobocc",
+   "events": 2,
+   "flagged": 1
   }
  }
 }

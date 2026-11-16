@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-16T15:32:07+00:00",
- "count": 162,
+ "generated_utc": "2026-11-16T17:18:29+00:00",
+ "count": 195,
  "items": [
   {
    "entity_id": "m-jacksonville",
@@ -13,6 +13,7 @@
    "title": "ORD Making Certain Findings & Apv & Auth the CEO of the DIA, or Her Desig, to Execute an Amended & Restated Redev Agrmt (\u201cAgreement\u201d) Among the City, the DIA (\u201cDIA\u201d) & 801 Bay St, LLC (\u201cDeveloper\u201d) to Support the Construction of a Mixed Use Residential & Retail Dev, Including a 4- or 5-Star Hotel, or Luxury Boutique Hotel Containing Btwn 130 & 170 Rooms, Multi-Family Improvements Which May Be Condominiums or Rental Units (Including Transient Rentals) Containing Btwn 50 & 150 Residential Units, a Sky View Terrace Accessible to the Public Containing a Min of 5,000 Sq Ft, & a Min of 2 Full-Svc Restaurants Containing a Combined Min 7,500 Sq Ft, & to Prove Back-of-House Access to the City-Owned Beer Garden in Riverfront Plaza Phase II, With a Min Capital Investment of Not Less Than $210,000,000 (the \u201cRiverfront Plaza Pad B Project\u201d); Auth a 75%, 20-Yr Recaptured Enhanced Value (Rev) Grant in the Max Amt Not to Exceed $35,397,000 in Connection With the Proj (\u201cRev Grant\u201d), Payable Thru the Downtown Northbank CRA Trust Fund; Apv & Auth a $20,000,000 Completion Grant to the Developer Payable by the City Upon Completion of the Proj (\u201cCompletion Grant\u201d), to Be Approp by Subsequent Legislation; Auth Amdt of the Quit-Claim Deed With Right of Repurchase & Restrictive Covenants (\u201cQuitclaim Deed\u201d) for Consistency With the Amended & Restated Redev Agrmt; Desig the DIA as Contract Monitor for the Agrmts; Waiving the PIP; Prov for Oversight of the Proj by the DIA; Auth the Execution of All Docs",
    "max_amount": 210000000.0,
    "flow": "out",
+   "funding_source": "special_revenue",
    "signed_amount": 210000000.0,
    "signals": [
     "private_benefit"
@@ -59,6 +60,7 @@
    "title": "ORD Making Certain Findings & Apv & Auth the CEO of the DIA, or His Desig, to Execute a Redev Agrmt Among the City, the DIA & 119 Beaver St W, LLC to Support the Construction of a Mixed Use Residential & Retail Dev, Including 259\u00b1  Residential Units, & 37,000\u00b1 sq ft of Ground Floor Leasable Retail Space, Including No Less Than 30,000 sq ft to Be Desig for Use by Publix Grocery Store or Other Similarly Well-Known Regional or National Grocer as Appvd by the DIA; Auth a 75%, 17-Yr Recaptured Enhanced Value (REV) Grant in the Max Amt Not to Exceed $21,412,000 in Connection with the Proj (REV Grant), Payable Thru the Downtown Northbank CRA Trust Fund; Apv & Auth a $28,250,000 Completion Grant to the Developer Payable by the City in 2 Installments Upon Completion of the Proj (Completion Grant), to Be Appropd by Subsequent Legislation, & Estab the Council\u2019s Intent with Respect to Funding of the Completion Grant; Waiver of the Public Investment Policy Adopted by Ord 2024-286-E, as Amended, to Auth Completion Grant Incentives Totaling $28,250,000; Desig the DIA as Contract Monitor for the Agrmts; Prov for Oversight of the Proj by the DIA; Auth the Execution of All Docs Relating to the Above Agrmt & Transactions, & Auth Technical Changes to the Docs (Lavie) (Req of the DIA)\n6/23/26 CO Introduced: NCSPHS, F \n7/20/26 NCSPHS Read 2nd & Rerefer\n7/21/26  F Read 2nd & Rerefer\n7/28/26 CO PH Read 2nd & Rerefer\n10/5/26 NCSPHS Amend/Approve  5-2 (Salem, Miller)\n10/5/26 NCSPHS Reconsider/Amend/Ap",
    "max_amount": 28250000.0,
    "flow": "out",
+   "funding_source": "special_revenue",
    "signed_amount": 28250000.0,
    "signals": [
     "private_benefit"
@@ -100,6 +102,7 @@
    "title": "ORD Making Certain Findings, & Auth the Mayor, or Her Desig, to Execute: (1) an Amend & Restated Redev Agrmt btwn the City & Springfield Lofts, LLC; & (2) Loan Docs & Related Docs as Described in the Agrmt, to Support the Redev by Developer an 2.12\u00b1  Acre Site Located at 1335 N Pearl St & 205 W 3rd St, in the City of Jax; Auth a Redev Completion Grant in the Amt of $3,000,000 to the Developer Upon Substantial Completion of the Proj, to Be Approp by Subsequent Legislation; Auth a Dev Loan in the Amt of $3,000,000 with a Term of 20 Yrs in Connection with the Proj, to Be Approp  by Subsequent Legislation; Waiver of Sec 91.113, Ord Code, That Auths Settlement &/or Compromise of Fines & Liens Imposed by the MCEB or Special Magistrate; Waiver of Sec 91.114, Ord Code, re the Procedure to Request That a Fine or Line Imposed Pursuant to Sec 91.107 Be Reduced; Waiver of Sec 518.145(D) (Collection & Settlement of Nuisance Abatement & Demolition Liens), Ord Code,  to Auth Removal of the Nuisance Liens Upon Substantial Completion of the Proj; Desig the OED as Contract Monitor for the Agrmt & Related Agrmts; Prov for City Oversight of the Proj by the Dept of PW & the OED; Auth the Execution of All Docs Relating to the Above Agrmts & Transactions, & Auth Technical Changes to the Docs; Prov a Deadline for the Developer to Execute the Agrmts After They Are Delivered to the Developer; Waiver of the Public Investment Policy Adopted by Ord 2024-286-E, as Amend, to Auth a Redev Completion Grant &",
    "max_amount": 3000000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 3000000.0,
    "signals": [
     "legal",
@@ -143,6 +146,7 @@
    "title": "ORD Approp $590,000.00, in Grant Funds Awarded by the State of FL, Dept of State, Div of Elections, to Prov Reimb to the City for the Costs of Purchasing a Clearaudit Post-Election Voting Audit System; Invoking the Exemption in Sec 126.108(G) (Exemptions from Competitive Solicitation), Pt 1 (General Regulations; Ethics & Transparency in Public Contracting), Ch 126 (Procurement Code), Ord Code, to Allow for a Direct Contract with Clear Ballot Group, Inc.; Apv, & Auth the SOE to Execute & Deliver on Behalf of the City the Memo of Agrmt for 26-27 Grant Award for Post Election Voting System Audit btwn the State of FL, Dept of State, Div of Elections & the SOE for Duval County, FL; Prov Oversight by the SOE (Revised B.T. 26-106) (Dillard) (Req of Mayor)  (Co-Sponsor CM Johnson)\r\n10/13/26 CO Introduced: NCSPHS, F \r\n10/19/26 NCSPHS Read 2nd & Rerefer\r\n10/20/26 F Read 2nd & Rerefer\r\n10/27/26 CO PH Read 2nd & Rerefer \r\n11/2/26 NCSPHS Amend/Approve 7-0\r\n11/4/26 F Amend/Approve 6-0\r\n11/10/26 CO Amend/Approve 17-0\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 10/27/26",
    "max_amount": 590000.0,
    "flow": "out",
+   "funding_source": "special_revenue",
    "signed_amount": 590000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -173,6 +177,7 @@
    "title": "MOTION TO APPROVE Public Transportation Grant Agreement (\u201cPTGA\u201d) between the Florida Department of Transportation (\u201cFDOT\u201d) and Broward County for Financial Project No. 453802-1-94-01, with FDOT agreeing to grant up to $14,999,397 to Broward County for the Port Everglades\u2019 New Bulkheads at Berths 16, 17, and 18 Project (\u201cProject\u201d), but no more than 75% of the total eligible cost of the Project, and County agreeing to match  FDOT\u2019s grant and cover any cost overruns; authorize the Mayor and Clerk to execute the PTGA; authorize the County Administrator or designee to take the necessary administrative and budgetary actions resulting from approval of the PTGA; and authorize the County Administrator to approve any amendments to the PTGA that do not increase the County\u2019s local match percentage 25%, subject to review by the Office of the County Attorney for legal sufficiency.",
    "max_amount": 14999397.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 14999397.0,
    "signals": [],
    "outgoing_grant": true,
@@ -200,9 +205,10 @@
    "meeting_date": "2026-11-10",
    "agenda_number": "58.",
    "file_number": "2026-0868",
-   "title": "ORD Apv, Ratifying, & Auth the Execution of a Settlement Agrmt btwn the City & Paul Stefanko, Case No. 3:25-cv-01134-WWB-LLL, U.S. Dist Court for the Middle Dist of FL; Approp $150,000 from Gen Fund Operating Fund (Operating Reserves) to the Gen Fund Operating Fund (Judgments, Claims, & Losses Over $50,000) to Prov Funding for Settlement of Pending Litigation; Auth the General Counsel, or His Desig, to Execute the Settlement Agrmt & Take Further Action, as Necessary, to Effectuate the Settlement & Conclude the Litigation; Waiving the Provisions of Sec 106.303 (Format & Determination of Amounts Appropriated), Subpt A (General Provisions), Pt 3 (Appropriations), Ch 106 (Budget & Accounting Code), Ord Code, to Allow Modification of the Approp of Funds Exhibit to Facilitate Compliance with the Requirements of the ADA (B.T. 27-016) (Mairs) (Req of OGC)\r\n10/27/26 CO Introduced: R, F \r\n11/2/26 R Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
+   "title": "ORD Apv, Ratifying, & Auth the Execution of a Settlement Agrmt btwn the City & Paul Stefanko, Case No. 3:25-cv-01134-WWB-LLL, U.S. Dist Court for the Middle Dist of FL; Approp $150,000 from Gen Fund Operating Fund (Operating Reserves) to the Gen Fund Operating Fund (Judgments, Claims, & Losses Over $50,000) to Prov Funding for Settlement of Pending Litigation; Auth the General Counsel, or His Desig, to Execute the Settlement Agrmt & Take Further Action, as Necessary, to Effectuate the Settlement & Conclude the Litigation; Waiving the Provisions of Sec 106.303 (Format & Determination of Amounts Appropriated), Subpt A (General Provisions), Pt 3 (Appropriations), Ch 106 (Budget & Accounting Code), Ord Code, to Allow Modification of the Approp of Funds Exhibit to Facilitate Compliance with the Requirements of the ADA (B.T. 27-016) (Mairs) (Req of OGC)\n10/27/26 CO Introduced: R, F \n11/2/26 R Read 2nd & Rerefer\n11/4/26 F Read 2nd & Rerefer\n11/10/26 CO PH Read 2nd & Rerefer \n11/16/26 R Amend/Approve 6-0\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
    "max_amount": 150000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 150000.0,
    "signals": [
     "consultants",
@@ -244,6 +250,7 @@
    "title": "ORD Approp $70,000 from the Council Operating Contingency - Contingency Acct to the CCSS Council Staff Svcs - Furniture & Equipment Under $5,000 Acct to Prov Funding for the Purchase of New Furniture for the City Council Suite & Conference Rooms; Req 1 Cycle Emerg Passage (Teal) (Introduced by CM Amaro)(Co-Sponsor CM Johnson)\r\n10/27/26 CO Introduced: F \r\n11/4/26 F Emergency/Approve 3-3 (Defer) (Lahnen, Gay, Diamond)\r\n11/10/26 CO PH Emergency/Approve 8-11(Fail) (Boylan, Howland, Lahnen, Carrico, Diamond, Airas, Carlucci, Gay, Miller, Peluso, Salem)\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
    "max_amount": 70000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 70000.0,
    "signals": [
     "officials"
@@ -276,6 +283,7 @@
    "title": "ORD Approp Grant Funding in the Amt of $6,000,000 From the State of FL, DOT, to the Jax Regional Corridor - Southern Crossing - Other Construction Costs Acct, to Prov Funding to Add Lanes & for the Construction of the 1.4 Mile Jax Regional Corridor/Southern Crossing Segment 1 Roadway From Gate Pkwy/Baymeadows Rd E; Amend the 2027-2031 5-Yr CIP Appvd by Ord 2026-505-E to Create a New Proj Entitled \u201cJacksonville Regional Corridor - Southern Crossing\u201d (the \u201cProject\u201d) & to Reflect This Approp of Funds to the Proj; Prov for Oversight by the Engineering & Construction Mgmt Div of the Dept of Public Works (Dillard) (Req of Mayor)\r\n11/10/26 CO Introduced: NCSPHS, F\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/24/26",
    "max_amount": 6000000.0,
    "flow": "out",
+   "funding_source": "special_revenue",
    "signed_amount": 6000000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -314,6 +322,7 @@
    "title": "Approval of Amendment No. 17, Contract Y3-1021, Transfer, Processing, and Marketing of Recyclables, with Waste Management, Inc. of Florida in the not-to-exceed amount of $7,000,000, annually, for a three-year extension. \r\n\r\nFurther request Board authorization for the Procurement Division to extend the contract for two additional one-year periods in the not-to-exceed amount of $7,000,000, annually. ([Utilities Department Solid Waste Division] Procurement Division)",
    "max_amount": 7000000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 7000000.0,
    "signals": [
     "vanity"
@@ -346,6 +355,7 @@
    "title": "Board approve agreement with &Barr for advertising and marketing services. ($5,000,000 estimated annual recurring expense)",
    "max_amount": 5000000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 5000000.0,
    "signals": [
     "vanity"
@@ -378,6 +388,7 @@
    "title": "MOTION TO APPROVE Public Transportation Grant Agreement (\u201cPTGA\u201d) between the Florida Department of Transportation (\u201cFDOT\u201d) and Broward County for Financial Project No. 457516-1-94-01, with FDOT agreeing to grant up to $3,000,000 to Broward County for the Port Everglades\u2019 Cruise Terminal 29 Improvements/Expansion Project (\u201cProject\u201d), but no more than fifty percent 50% of the total eligible cost of the Project, and County agreeing to match  FDOT\u2019s grant and cover any cost overruns; authorize the Mayor and Clerk to execute the PTGA; authorize the County Administrator or designee to take the necessary administrative and budgetary actions resulting from approval of the PTGA; and authorize the County Administrator to approve any amendments to the PTGA that do not increase the County\u2019s local match percentage 50%, subject to review by the Office of the County Attorney for legal sufficiency.",
    "max_amount": 3000000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 3000000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -408,6 +419,7 @@
    "title": "MOTION TO APPROVE Amendment 01 to Contract No. 34346-26 between Broward Behavioral Health Coalition, Inc., and Broward County, increasing total funding to the County by $37,500 (from $3,424,955 to $3,462,455), with an additional 3.2% County local match requirement of $12,375 (from $386,355 to $398,730) bringing the total match amount to 11.5% to reimburse the County for care coordination team services provided between July 1 and September 30, 2026; authorize the County Administrator to execute subsequent amendments to the Contract that do not increase the County\u2019s local match requirement percentage or pose material risks to the County, subject to legal sufficiency review and approval by the County Attorney\u2019s Office; and authorize the County Administrator to take all necessary administrative and budgetary actions to implement the Contract as amended.",
    "max_amount": 3462455.0,
    "flow": "mixed",
+   "funding_source": "unstated",
    "signed_amount": 3462455.0,
    "signals": [],
    "outgoing_grant": true,
@@ -438,6 +450,7 @@
    "title": "MOTION TO APPROVE Federally Funded Subgrant Umbrella Agreement No. E2265 between the Florida Department of Commerce and Broward County, in the anticipated amounts of $2,016,000 for the Community Services Block Grant and  $3,500,000 for the Low-Income Home Energy Assistance Program, effective from July 1, 2026, through June 30, 2027, with up to three renewal options, to provide economic self-sufficiency services and home energy assistance benefits to eligible households; authorize the County Administrator to execute renewals, amendments, and modifications to the Subgrant Agreement that do not impose any additional financial obligations or material risks on the County, subject to legal sufficiency review and approval by the County Attorney\u2019s Office; and authorize the County Administrator to take all necessary administrative and budgetary actions to implement the Subgrant Agreement.",
    "max_amount": 3500000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 3500000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -468,6 +481,7 @@
    "title": "MOTION TO APPROVE Agreements between Broward County and (1) CDM Smith, Inc. and (2) CTS Engineering, Inc., for General Planning and Consultant Services for BCT (FTA), Request for Proposal (RFP) No. TRN2130715P1, for the Broward County Transportation Department, for the initial three-year term, and two additional one-year renewal terms, in an aggregate maximum not-to-exceed amount collectively between both Agreements of $25,000,000.",
    "max_amount": 25000000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 25000000.0,
    "signals": [
     "consultants"
@@ -500,6 +514,7 @@
    "title": "ORD Approp $2,300,000 from Gen Fund Operating Reserves to Prov $400,000 to the PRSO Social Svcs Gen Assistance-Mental Health - Welfare-Utilities & Other Acct & $1,900,000 to the United Way - Subsidies & Contributions to Private Org Acct, with $400,000 to Be Allocated to the Parks, Recreation & Community Svcs Dept for the Provision of Utility Assistance in FY 26-27 & 2027-2028 & $1,900,000 to Be Prov as a Grant to United Way of Northeast Florida, Inc. for the City to Neighbor Utility Assistance Prog as Described Herein; Prov for Carryover to FY 27-28; Waiving Sec 118.107 (Nonprofits to Receive Funding Through a Competitive Evaluated Award Process; Waiver & Disclosures), Pt 1 (General Provisions), Ch 118 (City Grants), Ord Code, to Allow for a Direct Contract with United Way; Waiving Subsec 118.201(F)(7) (Release of Appropriations), Pt 2 (Disbursement of City Grants), Ch 118 (City Grants), Ord Code, to Allow for an Advance Payment of 25% ($475,000) to United Way; Apv, & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver on Behalf of the City a Grant Agrmt btwn the City & United Way of Northeast Florida, Inc. for the Prog; Prov for Oversight of the Grant to United Way by the Grants & Contract Compliance Div of the Finance Dept; Req 1 Cycle Emerg Passage (Staffopoulos) (Introduced by CMs Gaffney, Jr., Peluso, Clark-Murray, Holder, Pittman, Arias & Johnson & Amended on the Flr of Council)\r\n10/27/26 CO Introduced: R, NCSPHS, F \r\n11/2/26 R Emergency/Approve 3-4 (Fail)",
    "max_amount": 2300000.0,
    "flow": "mixed",
+   "funding_source": "unstated",
    "signed_amount": 2300000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -534,6 +549,7 @@
    "title": "ORD Approp $1,818,000 from the Auth Capital Projs - FY 2023 & Forward Fund - Resiliency Infrastructure Improvements - DM Other Construction Costs Acct, to Prov Funding for the City\u2019s Acquisition Of 3 Parcels of Land, All Located In Jax, FL, in Council Dist 10, as Required for the Resilient Ribault Initiative Proj, with Such Parcels Identified as Follows: 0 New Kings Rd (R.E. #: 040554-0010), 0 Pope Place (R.E. #: 040542-0000), # 0 Pope Place (R.E. #: 040542-0025), (Collectively, the Property); Apv & Auth the Mayor, or Her Designee, & The Corp Sec to Execute & Deliver those Certain Real Estate Purchase & Sale Agrmts Required for the City to Effectuate its Acquisition of the Propty, as Follows: Real Estate Purchase & Sale Agrmt Btwn the City & Nathan D. Goldman, Sharon Paryani, & Hilda Goldman Dreher for the Purchase Of 0 New Kings Rd (R.E. #: 040554-0010) for the Negotiated Purchase Price of $1,370,000, Real Estate Purchase & Sale Agrmt Btwn the City & Ralph Danson, Thaddeus Danson, Barbara Ann Lee, Priscilla Pounds Hodge & Joseph Stanley Jones for the Purchase of 0 Pope Place (R.E. #: 040542-0000) for the Negotiated Purchase Price of $264,000, & Real Estate Purchase & Sale Agrmt Btwn the City & Joseph Stanley Jones for the Purchase of 0 Pope Place (R.E. #: 040542-0025) for a Negotiated Purchase Price of $14,000 (Collectively, the Agreements), & all Closing & Other Docs Contemplated Therein or Relating Thereto, & to Otherwise Take all Necessary Action to Effectuate the Purpose",
    "max_amount": 1818000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 1818000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -574,9 +590,10 @@
    "meeting_date": "2026-11-16",
    "agenda_number": "9.",
    "file_number": "2026-0810",
-   "title": "ORD Approp $2,000,000 From Gen Fund Operating Reserves to the Junior Achievement of North FL - Subsidies & Contributions to Private Org Acct, to Prov Funding to Junior Achievement of North FL, Inc. (\u201cJANFL\u201d) for the Junior Achievement of North FL Experiential Learning Center (the \u201cProject\u201d) as Described Herein; Prov for Carryover to FY 27/28; Waiving Sec 118.107 (Nonprofits to Receive Funding Through a Competitive Evaluated Award Process; Waiver & Disclosures), Pt 1 (General Provisions), Ch 118 (City Grants), Ord Code, to Allow for a Direct Contract With JANFL; Approv, & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver on Behalf of the City an Agrmt Btwn the City & Junior Achievement of North FL, Inc. For the Proj; Prov for Oversight by the Public Works Dept (Staffopoulos) (Introduced by CM Diamond)\r\n10/13/26 CO Introduced: R, NCSPHS, F\r\n10/19/26 R Read 2nd & Rerefer\r\n10/19/26 NCSPHS Read 2nd & Rerefer\r\n10/20/26 F Read 2nd & Rerefer\r\n10/27/26 CO PH Read 2nd & Rerefer\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 10/27/26",
+   "title": "ORD Approp $2,000,000 From Gen Fund Operating Reserves to the Junior Achievement of North FL - Subsidies & Contributions to Private Org Acct, to Prov Funding to Junior Achievement of North FL, Inc. (\u201cJANFL\u201d) for the Junior Achievement of North FL Experiential Learning Center (the \u201cProject\u201d) as Described Herein; Prov for Carryover to FY 27/28; Waiving Sec 118.107 (Nonprofits to Receive Funding Through a Competitive Evaluated Award Process; Waiver & Disclosures), Pt 1 (General Provisions), Ch 118 (City Grants), Ord Code, to Allow for a Direct Contract With JANFL; Approv, & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver on Behalf of the City an Agrmt Btwn the City & Junior Achievement of North FL, Inc. For the Proj; Prov for Oversight by the Public Works Dept (Staffopoulos) (Introduced by CM Diamond)\r\n10/13/26 CO Introduced: R, NCSPHS, F\r\n10/19/26 R Read 2nd & Rerefer\r\n10/19/26 NCSPHS Read 2nd & Rerefer\r\n10/20/26 F Read 2nd & Rerefer\r\n10/27/26 CO PH Read 2nd & Rerefer\r\n11/16/26 R Withdraw 6-0\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 10/27/26",
    "max_amount": 2000000.0,
    "flow": "mixed",
+   "funding_source": "unstated",
    "signed_amount": 2000000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -615,6 +632,7 @@
    "title": "ORD Approp $1,556,500 From the Jax Recreation & Environmental Land Acquisition Fund - Gain-Loss Sale Real Propty Acct to the Jax Recreation & Environmental Land Acquisition Fund - Land Acquisition Cost Acct to Prov Funding for the City\u2019s Purchase of  5 Properties Located at 2830 Edison Ave (R.E. No. 056342-0000), 2827 Lenox Ave (R.E. No. 056338-0000), 538 Locust St (R.E. No. 063840-0000), 0 Locust St (R.E. No. 063839-0000), & 2826 Lenox Ave (R.E. No. 063836-0000) Jax, in Council Dist 9 (Collectively, the \u201cProperty\u201d), to Be Used as a Passive Park; Apv & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver That Certain Purchase & Sale Agrmt (the \u201cAgreement\u201d) Btwn the City & 2626 River City Investments, LLC, & All Closing & Other Docs Contemplated Therein or Relating Thereto, & to Otherwise Take All Necessary Action to Effectuate the Purposes of the Agrmt to Purchase the Subj Prop at a Negotiated Purchase Price Not to Exceed $1,556,500; Prov for Oversight by the Real Estate Div of the PW Dept for the Acquisition of the Prop & by the Pks, Recreation, & Community Svcs Dept Thereafter (Loy, Jr.) (Req of the Mayor & Co-Introduced by CM Peluso)\r\n10/27/26 CO Introduced: NCSPHS, F\r\n11/2/26 NCSPHS Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
    "max_amount": 1556500.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 1556500.0,
    "signals": [],
    "outgoing_grant": true,
@@ -654,6 +672,7 @@
    "title": "Approve and authorize the Chairman to execute a Resolution implementing the Budget Amendment Request (BAR) #27-001 in the Transportation Grant Fund to appropriate funding in the amount of $1,427,316 for program funding for Micro-Transit services. Countywide (Timothy Jecks, Budget Director)  Requesting Department - County Manager\u2019s Office",
    "max_amount": 1427316.0,
    "flow": "out",
+   "funding_source": "special_revenue",
    "signed_amount": 1427316.0,
    "signals": [],
    "outgoing_grant": true,
@@ -682,6 +701,7 @@
    "title": "ORD Approp $1,150,000.00 in Grant Funds from the Build America Bureau within the U.S. DOT, Thru the Regional Infrastructure Accelerator Grant Prog, for the Jax Regional Infrastructure Accelerator Proj; Amend the 27-31 5-Yr CIP Appvd by Ord 2026-505-E to Reflect This Approp of Funds to the New Proj Entitled \u201cJacksonville Regional Infrastructure Accelerator\u201d; Prov for City Oversight by the Engineering & Construction Mgmt Div of the Dept of PW (B.T. 27-013) (Dillard) (Req of Mayor)\r\n10/27/26 CO Introduced: NCSPHS, F \r\n11/2/26 NCSPHS Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
    "max_amount": 1150000.0,
    "flow": "out",
+   "funding_source": "special_revenue",
    "signed_amount": 1150000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -720,6 +740,7 @@
    "title": "Approve and authorize the Chairman to execute a three-year Tourist Development Tax Funding agreement with the Central Florida Zoological Society, Inc., in the amount of $350,000 per year for fiscal years 2027, 2028, and 2029, for a total of $1,050,000 in funding allocation for marketing, advertising, maintenance, enhancements, repairs, and improvements. Countywide (Guilherme Cunha, Economic Development and Tourism Director)",
    "max_amount": 1050000.0,
    "flow": "out",
+   "funding_source": "special_revenue",
    "signed_amount": 1050000.0,
    "signals": [
     "vanity"
@@ -752,6 +773,7 @@
    "title": "Approval of the check register authorizing the most recently disbursed County funds, having been certified that no accounts have been overdrawn due to the issuance of same.  (Finance/Accounting)\n\nDisbursement periods cover: \n               \n\u2022\tOctober 23, 2026 to October 29, 2026; $90,545,463.40\n\u2022\tOctober 30, 2026 to November 5, 2026; $60,468,141.84",
    "max_amount": 90545463.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 90545463.0,
    "signals": [],
    "outgoing_grant": false,
@@ -777,9 +799,10 @@
    "meeting_date": "2026-11-16",
    "agenda_number": "8.",
    "file_number": "2026-0809",
-   "title": "ORD Approp $900,000 From Gen Fund Operating Reserves to the Wareworks - Subsidies & Contributions to Private Org Acct, to Prov Funding to Wareworks, Inc. (\u201cWareworks\u201d) for the Electrical Apprenticeship Training Center Prog (the \u201cProgram\u201d) as Described Herein; Waiving Sec 118.107 (Nonprofits to Receive Funding Through a Competitive Evaluated Award Process; Waiver & Disclosures), Pt 1 (General Provisions), Ch 118 (City Grants), Ord Code, to Allow for a Direct Contract With Wareworks; Approv, & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver on Behalf of the City a Grant Agrmt Btwn the City & Wareworks, Inc. For the Prog; Prov for Oversight by the Grants & Contract Compliance Div of the Finance Dept (Staffopoulos) (Introduced by CM Diamond)\r\n10/13/26 CO Introduced: R, NCSPHS, F\r\n10/19/26 R Read 2nd & Rerefer\r\n10/19/26 NCSPHS Read 2nd & Rerefer\r\n10/20/26 F Read 2nd & Rerefer\r\n10/27/26 CO PH Read 2nd & Rerefer\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 10/27/26",
+   "title": "ORD Approp $900,000 From Gen Fund Operating Reserves to the Wareworks - Subsidies & Contributions to Private Org Acct, to Prov Funding to Wareworks, Inc. (\u201cWareworks\u201d) for the Electrical Apprenticeship Training Center Prog (the \u201cProgram\u201d) as Described Herein; Waiving Sec 118.107 (Nonprofits to Receive Funding Through a Competitive Evaluated Award Process; Waiver & Disclosures), Pt 1 (General Provisions), Ch 118 (City Grants), Ord Code, to Allow for a Direct Contract With Wareworks; Approv, & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver on Behalf of the City a Grant Agrmt Btwn the City & Wareworks, Inc. For the Prog; Prov for Oversight by the Grants & Contract Compliance Div of the Finance Dept (Staffopoulos) (Introduced by CM Diamond)\r\n10/13/26 CO Introduced: R, NCSPHS, F\r\n10/19/26 R Read 2nd & Rerefer\r\n10/19/26 NCSPHS Read 2nd & Rerefer\r\n10/20/26 F Read 2nd & Rerefer\r\n10/27/26 CO PH Read 2nd & Rerefer\r\n11/16/26 R Withdraw 6-0\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 10/27/26",
    "max_amount": 900000.0,
    "flow": "mixed",
+   "funding_source": "unstated",
    "signed_amount": 900000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -818,6 +841,7 @@
    "title": "A RESOLUTION OF THE MAYOR AND THE CITY COUNCIL OF THE CITY OF DORAL, FLORIDA, WAIVING THE COMPETITIVE BID PROCESS PURSUANT TO SECTION 2-323(5) OF THE CITY\u2019S CODE OF ORDINANCES; AUTHORIZING THE CITY MANAGER TO NEGOTIATE AND ENTER INTO AN AGREEMENT WITH ART FOUNDATION FOR PEOPLE WITH DISABILITIES FOR THE PROVISION OF THEATRE PROGRAMMING FOR SPECIAL NEEDS YOUTH AND ADULTS FOR A PERIOD OF ONE (1) YEAR WITH FOUR (4) ONE (1) YEAR RENEWALS, IN AN AMOUNT NOT TO EXCEED APPROVED BUDGTED FUNDS PER FISCAL YEAR; PROVIDING FOR IMPLEMENTATION; PROVIDING FOR INCORPORATION OF RECITALS; AND PROVIDING FOR AN EFFECTIVE DATE",
    "max_amount": null,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": null,
    "signals": [
     "vanity"
@@ -850,6 +874,7 @@
    "title": "Approve the recommended funding allocations to the agencies listed for Community Services Agency (CSA) Partnership Grant funds in the amount of $842,115 for FY 26/27 and authorize the Chairman to execute the CSA Grant Agreements and any amendments upon agency execution. Countywide (Allison Thall, Community Services Director)",
    "max_amount": 842115.0,
    "flow": "out",
+   "funding_source": "special_revenue",
    "signed_amount": 842115.0,
    "signals": [],
    "outgoing_grant": true,
@@ -878,6 +903,7 @@
    "title": "Request Board approval to submit a grant application to the U.S. Department of Justice, Office of Juvenile Justice and Delinquency Prevention for the FY 2026 Family Treatment Court Program requesting up to $850,000 for the establishment of Seminole County Family Treatment Court; and the approval of one new grant funded FTE if awarded; and authorize the County Manager or designee to execute all necessary grant documents.  Countywide (Lorie Bailey Brown, CFO/Administrative Services Director) Requesting Department - Administrative Services",
    "max_amount": 850000.0,
    "flow": "out",
+   "funding_source": "special_revenue",
    "signed_amount": 850000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -906,6 +932,7 @@
    "title": "Approve the Construction Manager at Risk (CMAR), Guaranteed Maximum Price (GMP) Addendum No. 4 to Agreement 2023-074 with Wharton-Smith, Inc. for the Northeast Regional Wastewater Facility (NERWWTF). ($75,930,310.00 one-time expense)",
    "max_amount": 75930310.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 75930310.0,
    "signals": [],
    "outgoing_grant": false,
@@ -939,6 +966,7 @@
    "title": "An Ordinance of the City of North Port, Florida, Amending the Non-District Budget and Capital Improvement Budget for Fiscal Year 2026-2027 for the Emergency Operations Center Project, Police Mobile Command Unit Replacement, Fire Rescue Reserve Apparatus, Police Headquarters HVAC System Replacement, and Tax Collector Fees in the Amount of $7,469,657; Providing for Findings; Providing for Posting; Providing for Conflicts; Providing for Severability; and Providing an Effective Date.",
    "max_amount": 7469657.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 7469657.0,
    "signals": [
     "facilities"
@@ -969,6 +997,7 @@
    "title": "A. MOTION TO APPROVE sole source designation and sole source standardization of Thor Guard, Inc. for Thor Guard, Inc. Lightning Prediction and Detection System for the Parks and Recreation Division.\n\nACTION: (T-10:32 AM) Approved.\n\nVOTE: 9-0.\n\nB. MOTION TO AWARD fixed contract to sole source Thor Guard, Inc., for Thor Guard Lightning Prediction and Detection System Upgrade - Parks and FLL, Quotation No. BLD2131961Q1 (Parks and Recreation Group), for the Parks and Recreation Division in the not-to-exceed amount of $ 588,186, including allowances in the amount of $12,000.\n\nACTION: (T-10:32 AM) Approved.\n\nVOTE: 9-0.",
    "max_amount": 588186.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 588186.0,
    "signals": [],
    "outgoing_grant": false,
@@ -1000,6 +1029,7 @@
    "title": "MOTION TO APPROVE Third Amendment to Agreement No. PNC2126890C1, between Broward County and Great Lakes Dredge & Dock Company, LLC for dredging activities for the Port Everglades Sand Bypass Project, to increase the total not-to-exceed compensation by $1,352,661, for a total not-to-exceed Agreement cost of $62,800,477; authorize the Mayor and Clerk to execute same; authorize the County Administrator, subject to review and approval for legal sufficiency by the County Attorney\u2019s Office, to execute further amendments to the Agreement that do not impose additional cost or material legal risk to the County; and authorize the County Administrator to take all necessary administrative and budgetary actions to implement the Agreement as amended. (Commission Districts 4 and 6)",
    "max_amount": 62800477.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 62800477.0,
    "signals": [],
    "outgoing_grant": false,
@@ -1030,6 +1060,7 @@
    "title": "ORD Approp $610,000.00 in Grant Funding From the FDLE for the Drone First Responder Prog, Prov for Oversight by the JSO (B.T. 27-025) (Dillard) (Req of Sheriff)\r\n11/10/26 CO Introduced: NCSPHS, F\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/24/26",
    "max_amount": 610000.0,
    "flow": "out",
+   "funding_source": "special_revenue",
    "signed_amount": 610000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -1066,6 +1097,7 @@
    "title": "Motion Approving Fiscal Year 2027 Not for Profit Grant Participation Agreement with Nova Southeastern University, Inc. for the NSU Art Museum - $500,000 - (Commission Districts 1, 2, 3 and 4)",
    "max_amount": 500000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 500000.0,
    "signals": [
     "vanity"
@@ -1098,6 +1130,7 @@
    "title": "Approve and authorize the Chairman to execute a Resolution implementing Budget Amendment Request (BAR) #26-050 to facilitate the closeout of the First and Second Generation Infrastructure Sales Tax Funds; to move $3,681,310 in existing projects to the Third Generation Sales Tax Fund; and recognize $350,000 in miscellaneous revenues; and establish $313,009 in interfund transfers to reimburse the Sales Tax Funds for grant related expenditures made in a prior year. Net amount of the BAR is $663,009. Countywide (Timothy Jecks, Budget Director)",
    "max_amount": 3681310.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 3681310.0,
    "signals": [
     "consultants"
@@ -1128,6 +1161,7 @@
    "title": "Approve and authorize the Chairman to execute the proposed negotiated Settlement Agreement in the Seminole County v. Benchmark Construction Co., Inc. & Liberty Mutual Insurance Company matters (Case Nos. 2025-CA-1123 & 2025-CA-1143) for the total amount of $3,650,000.00 and execute the Notice of Amendment to the Termination for Cause against Benchmark Construction Co., Inc., Countywide (Kate Latorre, County Attorney)",
    "max_amount": 3650000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 3650000.0,
    "signals": [
     "legal"
@@ -1159,9 +1193,10 @@
    "meeting_date": "2026-11-10",
    "agenda_number": "40.",
    "file_number": "2026-0849",
-   "title": "ORD Approp $64,737 from the Multiyear Progs & Initiatives - Council Dist 07 CBA - Contingency Acct to the Council Dist 07 - Subsidies & Contributions to Private Org Acct to Prov Add\u2019l Funding to Jacksonville Association of Firefighters, Iaff Local No. 122, Inc. (JAFF) for Restoration of a Works Progress Admin Era Fire Tower, as Originally Authd by Ord 2025-893-E; Waiving Sec 118.107 (Nonprofits to Receive Funding Through a Competitive Evaluated Award Process; Waiver & Disclosures), Pt 1 (General Provisions), Ch 118 (City Grants), Ord Code, to Auth an Amdt to the Direct Contract with JAFF; Apv, & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver an Amdt to the City Funding Agrmt btwn the City & JAFF for the Proj to Increase the Max Indebtedness by $64,737 for a New Total Max Indebtedness of $309,957 & to Extend the Term of the Agrmt to Exp on 3/31/28, with All Other Terms & Conds Remaining the Same; Prov for Cont\u2019d Oversight by the PW Dept (Staffopoulos) (Introduced by CM Peluso)(Co-Sponsor CM White, Clark-Murray, Gay, Pittman & Boylan)\n0/27/26 CO Introduced: R, NCSPHS, F \n11/2/26 R Read 2nd & Rerefer\n11/2/26 NCSPHS Read 2nd & Rerefer\n11/4/26 F Read 2nd & Rerefer\n11/10/26 CO PH Read 2nd & Rerefer \n11/16/26 R Approve 6-0\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
+   "title": "ORD Approp $64,737 from the Multiyear Progs & Initiatives - Council Dist 07 CBA - Contingency Acct to the Council Dist 07 - Subsidies & Contributions to Private Org Acct to Prov Add\u2019l Funding to Jacksonville Association of Firefighters, Iaff Local No. 122, Inc. (JAFF) for Restoration of a Works Progress Admin Era Fire Tower, as Originally Authd by Ord 2025-893-E; Waiving Sec 118.107 (Nonprofits to Receive Funding Through a Competitive Evaluated Award Process; Waiver & Disclosures), Pt 1 (General Provisions), Ch 118 (City Grants), Ord Code, to Auth an Amdt to the Direct Contract with JAFF; Apv, & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver an Amdt to the City Funding Agrmt btwn the City & JAFF for the Proj to Increase the Max Indebtedness by $64,737 for a New Total Max Indebtedness of $309,957 & to Extend the Term of the Agrmt to Exp on 3/31/28, with All Other Terms & Conds Remaining the Same; Prov for Cont\u2019d Oversight by the PW Dept (Staffopoulos) (Introduced by CM Peluso)(Co-Sponsor CM White, Clark-Murray, Gay, Pittman & Boylan)\r\n0/27/26 CO Introduced: R, NCSPHS, F \r\n11/2/26 R Read 2nd & Rerefer\r\n11/2/26 NCSPHS Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\n11/16/26 R Approve 6-0\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
    "max_amount": 309957.0,
    "flow": "mixed",
+   "funding_source": "unstated",
    "signed_amount": 309957.0,
    "signals": [],
    "outgoing_grant": true,
@@ -1204,6 +1239,7 @@
    "title": "Approval to award Invitation for Bids Y26-181-ZR, Supply and Installation of Traffic Signal Equipment to the low responsive and responsible bidders, Yunex LLC, in the estimated contract award amount of $26,072,242.11 for a five-year term, Traffic Control Devices, LLC, in the estimated contract award amount of $30,262,664.50 for a five-year term, and The New Florida Industrial Electric, Inc., in the estimated contract award amount of $30,880,050.29 for a five-year term. ([Public Works Department Traffic Engineering Division] Procurement Division).",
    "max_amount": 30880050.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 30880050.0,
    "signals": [],
    "outgoing_grant": false,
@@ -1234,6 +1270,7 @@
    "title": "Authorize an increase to Contract No. 902682 with Gardner Denver Nash LLC in the amount of $300,000.00 for the purchase of a replacement Hoffman centrifugal blower assembly for the Northeast Water Reclamation Facility, pursuant to Clearwater Code of Ordinances Section 2.563(1)(a), Sole Source, and authorize the appropriate officials to execute same. (consent)",
    "max_amount": 300000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 300000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -1256,6 +1293,37 @@
    ]
   },
   {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "7.3.14.",
+   "file_number": "2026-24942",
+   "title": "Request Approval of Selection Committee Recommendation: 26P-118 Debris Management Operations (Phase 4 Recovery) Debris Monitoring & Consulting Services - Tetra Tech, Inc., Pasadena, CA (Budget Impact - Neutral; ceiling price of $3,000,000 at the time of a disaster)",
+   "max_amount": 3000000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 3000000.0,
+   "signals": [
+    "consultants"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 3.5,
+   "keywords": [],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=27034",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "c-broward",
    "government": "Broward County",
    "client": "broward",
@@ -1266,6 +1334,7 @@
    "title": "MOTION TO APPROVE Agreement between Broward County and Nova Engineering and Environmental, LLC, for Roofing & Waterproofing Consultant Services, RFP No. PNC2130470P1, for the Facilities Management Division, in a maximum not-to-exceed amount of $1,023,631, for the initial two-year term, with up to three one-year renewal terms, for a five-year total maximum not-to-exceed amount of $2,559,079.",
    "max_amount": 2559079.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 2559079.0,
    "signals": [
     "consultants"
@@ -1299,6 +1368,7 @@
    "title": "ORD-MC Amend Sec 111.940 (Affordable Housing Special Revenue Fund), Pt 9 (Neighborhood Development), Ch 111 (Special Revenue & Trust Accounts), Ord Code, to Change the Name of the Affordable Housing Special Revenue Fund & to Revise the Procedures for Disbursements from the Fund; Approp $245,000.00 from Various Accts within the Fund to Prov Funding for the Admin of the Fund; Prov for Codification Instructions (B.T. 27-015) (Dillard) (Req of Mayor)\r\n10/27/26 CO Introduced: R, NCSPHS, F \r\n11/2/26 R Read 2nd & Rerefer\r\n11/2/26 NCSPHS Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
    "max_amount": 245000.0,
    "flow": "out",
+   "funding_source": "special_revenue",
    "signed_amount": 245000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -1339,6 +1409,7 @@
    "title": "ORD Approp $225,000 From the Multiyear Progs & Initiatives - Council Dist 9 CBA - Contingency Acct to the Council Dist 9 - Subsidies & Contributions to Private Org Acct to Prov Funding to Myvillage Project, INC. (\u201cMVP\u201d), for the Techroots Learning Ctr Coding in Color Prog (the \u201cProgram\u201d) as Described Herein; Waiving Sec 118.107 (Nonprofits to Receive Funding Through a Competitive Evaluated Award Process; Waiver & Disclosures), Pt 1 (General Provisions), Ch 118 (City Grants), Ord Code, to Allow for a Direct Contract With MVP; Apv, & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver on Behalf of the City an Agrmt Btwn the City & Myvillage Project, INC. For the Prog; Prov for Oversight by the Grants & Contracts Compliance Div of the Finance Dept (Staffopoulos) (Introduced by CM Clark-Murray)\n11/10/26 CO Introduced: R, NCSPHS, F\n11/16/26 R Read 2nd & Rerefer\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/24/26",
    "max_amount": 225000.0,
    "flow": "mixed",
+   "funding_source": "unstated",
    "signed_amount": 225000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -1381,6 +1452,7 @@
    "title": "\u2022 Appropriates $20,000 from unspent funding originally appropriated for direct contracts with El Beth El Development Center ($15,000) and Northeast Florida Immigrant Resource Alliance ($5,000) for a direct contract with Prospera Initiatives, Inc. for the period of October 1, 2026 through September 30, 2027\r\n\u2022 Prospera Initiatives will use the funding to pay for a portion of the salaries and benefits for a Small Business Consultant and a Small Business Specialist for their Small Business Assistance Program, which will provide business development services to a minimum of ten Duval County entrepreneurs and at least four business seminars within Duval County\r\n\u2022 Waives the requirement in Code Sec. 106.330 that City funding awarded to a for-profit or not-for-profit organization through a direct appropriation in accordance with the exemption from competitive solicitation outlined in subsection 126.108(g) shall be in an amount not less than $25,000\r\n\u2022 Waives the requirement in Code Sec. 118.107 that City funds appropriated to nonprofit organizations shall be subject to a competitive evaluated award process in order to authorize a direct contract with Prospera Initiatives, Inc.\r\n",
    "max_amount": 25000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 25000.0,
    "signals": [
     "consultants"
@@ -1418,6 +1490,7 @@
    "title": "Approve a purchase order to Ferguson Enterprises, LLC of Tampa, FL for Neptune Ultrasonic Meters in the not-to-exceed amount of $250,000.00 for the term of November 20, 2026, through August 19, 2027, pursuant to Clearwater Code of Ordinances Section 2.563(1)(c), piggyback purchasing, and authorize the appropriate officials to execute the same. (consent)",
    "max_amount": 250000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 250000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -1449,6 +1522,7 @@
    "title": "Discussion and Possible Action Regarding a $250,000 Contribution From the City of North Port, Florida, to the YMCA for Construction of the YMCA Early Learning Academy on the King Plastic Corporation Property Located at 1100 North Toledo Blade Boulevard, North Port, Florida, 34288. ",
    "max_amount": 250000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 250000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -1479,6 +1553,7 @@
    "title": "Temp. Reso. #R8850 approving the award of Request For Proposals No. 26-03-14 for Employee Group Medical Program to Aetna, Inc., for the provision of self-funded health insurance programs  for city employees, dependents and retirees and authorizing the execution of a negotiated agreement for an initial term of four years with the option to renew for four one-year renewal terms; establishing actuarial equivalent rates for insurance premiums for Calendar Year 2027 to include 100% of expected claims in an amount of $19,137,270.00; a contingency amount of 5% of claims in an amount of $1,577,530.00; administration and stop loss fees in an amount of $3,398,870.00  totaling an amount of $24,113,670.00. (Human Resources Director Kanika Stampp)",
    "max_amount": 24113670.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 24113670.0,
    "signals": [],
    "outgoing_grant": false,
@@ -1509,6 +1584,7 @@
    "title": "ORD Approp $200,000 From the Multiyear Progs and Initiatives - Council Dist 7 CBA - Contingency Acct to the Council Dist 7 - Subsidies and Contributions to Other Govt Acct to Prov a Contribution to the Five Points Dependent Special Dist (the \u201cDistrict\u201d) to Support the Functions and Duties of the Dist as Described Herein; Apv, and Auth the Mayor, or Her Desig, and the Corp Sec to Execute and Deliver on Behalf of the City an Agrmt Btwn the City and the Five Points Dependent Special Dist to Effectuate the Intent of This Ord; Prov for Oversight by the Finance Dept; Req 1 Cycle Emerg Passage (Staffopoulos) (Introduced by CM Peluso)\r\n11/10/26 CO Introduced: NCSPHS, F\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/24/26",
    "max_amount": 200000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 200000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -1545,6 +1621,7 @@
    "title": "ORD Approp $203,000.00 in Grant Funding From the Library Foundation of Jax to the Jax Public Library (the \u201cLibrary\u201d) to Fund 1 Full-Time Support Svcs Specialist Position, for the Provision of Technical & Operational Support for the Library, Auth 1 Full-Time Position, Prov for Oversight by the Jax Public Library (R.C. 27-021) (B.T. 27-021) (Loy, Jr.) (Req of the Mayor)\r\n11/10/26 CO Introduced: NCSPHS, F\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/24/26",
    "max_amount": 203000.0,
    "flow": "out",
+   "funding_source": "special_revenue",
    "signed_amount": 203000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -1583,6 +1660,7 @@
    "title": "Approve the Application to the U.S. Department of Justice Office of Community Oriented Policing Services Fiscal Year 2026 Law Enforcement Mental Health and Wellness Act (LEMHWA) Implementation Projects in the Amount of $200,000, and Authorize the City Manager or the Mayor, as Applicable Under the City Charter, to Execute all Funding Documents After Legal Review, Should the Grant be Awarded to the City.",
    "max_amount": 200000.0,
    "flow": "in",
+   "funding_source": "unstated",
    "signed_amount": -200000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -1611,6 +1689,7 @@
    "title": "AMENDMENT\r\nChange the coordinating department from Grants and Compliance Division to Animal Care and Protective Services Division\r\n\r\n\r\n\u2022 First Coast No More Homeless Pets (FCNMHP) was placed on the Non-Compliance List in October 2008 for not providing the required report for a grant of $215,000\r\n\u2022 FCNMHP currently provides the same services pursuant to agreements with the City that do not require compliance with Chapter 118\r\n",
    "max_amount": 215000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 215000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -1639,6 +1718,7 @@
    "title": "Approve a Locally Funded Agreement and Resolution with the Florida Department of Transportation (FDOT) for the Grandview Parkway I-4 Flyover Project. ($20,000,000.00 one-time expense)",
    "max_amount": 20000000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 20000000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -1669,6 +1749,7 @@
    "title": "A RESOLUTION OF THE MAYOR AND THE CITY COUNCIL OF THE CITY OF DORAL, FLORIDA, AUTHORIZING THE CITY MANAGER TO EXECUTE A WORK ORDER WITH GANNETT FLEMING, INC. FOR PROFESSIONAL ENGINEERING SERVICES TO PERFORM A NO THRU TRUCKS ROUTE STUDY ALONG DORAL ACADEMY CHARTER SCHOOL ADJACENT ROADS IN AN AMOUNT NOT TO EXCEED EIGHTEEN THOUSAND EIGHT HUNDRED THIRTY EIGHT DOLLARS AND THIRTY FIVE CENTS ($18,838.35); APPROVING A BUDGET TRANSFER IN AN AMOUNT OF $18,838.35 FROM ACCOUNT No. 101.80005.500633 TO ACCOUNT No. 101.80005.500310, TO PROVIDE SUFFICIENT FUNDING FOR THIS REQUEST; AUTHORIZING THE CITY MANAGER TO EXECUTE ANY NECESSARY DOCUMENTS AND EXPEND BUDGETED FUNDS ON BEHALF OF THE CITY; PROVIDING FOR IMPLEMENTATION; PROVIDING FOR INCORPORATION OF RECITALS; AND PROVIDING FOR AN EFFECTIVE DATE",
    "max_amount": 18838.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 18838.0,
    "signals": [
     "consultants"
@@ -1699,6 +1780,7 @@
    "title": "ORD Approp $150,000 from Gen Fund Operating Reserves to the Goodwill - Subsidies & Contributions to Private Org Acct to Prov Funding to Goodwill Industries of North Florida, INC. (Goodwill) for the Summer Youth Works Prog (the Program), as Originally Auth by Ord 2026-452-E; Amend Ord 2026-452-E to Auth Execution of a Grant Agrmt Btwn the City & Goodwill for the Prog for a Term Commencing on 6/1/26 - 1/1/27, & Amend Revised Exh 2 (Goodwill Term Sheet & Budget) to Extend the Grant Term to Exp on 1/31/27, & to Revise the Prog Budget to More Accurately Reflect Admin Expenditures; Req 1 Cycle Emerg Passage (Staffopoulos) (Req of CM Gaffney, Jr.) \r\n10/27/26 CO Introduced:  F\r\n11/4/26 F Emergency/Approve 6-0\r\n11/10/26 CO PH Emergency/Approve 18-0\r\nPublic Hearing Pursuant to Ch 166, F.S. & CR 3.601 - 11/10/26",
    "max_amount": 150000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 150000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -1727,6 +1809,7 @@
    "title": "ORD Auth Disbursement of $162,640 From the Homelessness Initiatives Special Revenue Fund Described in Sec 111.920 (Homelessness Initiatives Special Revenue Fund), Ord Code, to Prov Funding to Youth Crisis Center, Inc. (\u201cYCC\u201d) for the House of Hope Prog (the \u201cProgram\u201d) as Described Herein; Waiving Sec 118.107 (Nonprofits to Receive Funding Through a Competitive Evaluated Award Process; Waiver & Disclosures), Pt 1 (General Provisions), Ch 118 (City Grants), Ord Code, to Allow for a Direct Contract With YCC; Waiving the Conflicting Provisions of Sec 118.805 (Eligibility to Apply for Public Service Grants), Pt 8 (Public Service Grants), Ch 118 (City Grants), Ord Code, to Allow YCC to Receive This Funding in Addition to PSG Funding for the Prog; Apv, & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver on Behalf of the City a Grant Agrmt Btwn the City & Youth Crisis Center, Inc. For the Prog; Prov for Oversight by the Grants & Contract Compliance Div of the Finance Dept (Staffopoulos) (Introduced by CM Peluso)\r\n10/13/26 CO Introduced: R, NCSPHS, F\r\n10/19/26 R Read 2nd & Rerefer\r\n10/19/26 NCSPHS Read 2nd & Rerefer\r\n10/20/26 F Read 2nd & Rerefer\r\n10/27/26 CO PH Read 2nd & Rerefer\r\n11/2/26 R Amend/Approve 7-0\r\n11/2/26 NCSPHS Amend/Approve 7-0\r\n11/4/26 F Amend/Approve 5-1 (Diamond)\r\n11/10/26 CO Amend/Approve 15-2 (Diamond/Gay)\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 10/27/26",
    "max_amount": 162640.0,
    "flow": "mixed",
+   "funding_source": "special_revenue",
    "signed_amount": 162640.0,
    "signals": [],
    "outgoing_grant": true,
@@ -1757,6 +1840,7 @@
    "title": "Approve and authorize the Chairman to execute the Economic Incentive Partnership Agreement between Seminole County and CareerSource Central Florida in the amount of $150,000.00 for the purpose of providing two tailored workforce development programs targeting young adults and adults in Seminole County. Countywide (Guilherme Cunha, Director, Economic Development & Tourism)",
    "max_amount": 150000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 150000.0,
    "signals": [
     "private_benefit"
@@ -1789,6 +1873,7 @@
    "title": "Approval to award Contract Y26-1005, Flygt Pumps, Parts and Repairs, with Xylem Water Solutions U.S.A., Inc., in the estimated contract award amount of $15,183,347.02 for a five-year term.  ([Utilities Department Field Services Division] Procurement Division)",
    "max_amount": 15183347.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 15183347.0,
    "signals": [],
    "outgoing_grant": false,
@@ -1819,6 +1904,7 @@
    "title": "Approval and execution of Amended and Restated Project Administration Agreements between Orange County, Florida and Homes In Partnership, Inc. regarding the Donation of County-owned Properties for the Construction of Permanent Affordable Housing in the amount of $25,000 per unit for a total of $150,000 and Future Leaders Community Development Corporation, Inc. in the amount of $25,000 per unit for a total of $100,000 and $82,000 for pre-development costs. District 2 and 6. (Housing and Community Development Division)",
    "max_amount": 150000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 150000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -1849,6 +1935,7 @@
    "title": "Approval and execution of Subrecipient Agreements between Orange County, Florida and United Against Poverty, Inc. regarding U.S. Department of Housing and Urban Development (\u201cHUD\u201d) Community Development Block Grant - Disaster Recovery (\u201cCDBG-DR\u201d) Program B-23-UN-12-0003 in the amount of $15,000,000 and Catholic Charities of Central Florida, Inc. in the amount of $295,000.  All Districts. (Housing and Community Development Division)",
    "max_amount": 15000000.0,
    "flow": "out",
+   "funding_source": "special_revenue",
    "signed_amount": 15000000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -1877,6 +1964,7 @@
    "title": "Approve an increase to the purchase order with the Gehring Group for the existing Employee Benefit Broker and Consulting Services contract in the amount of $282,000.00 for the final contract year, January 1, 2027, through December 31, 2027, increasing the total authorized contract amount from $1,389,000.00 to $1,671,000.00, and authorize the appropriate officials to execute same. (consent)",
    "max_amount": 1671000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 1671000.0,
    "signals": [
     "consultants"
@@ -1910,6 +1998,7 @@
    "title": "ORD Approp $125,000 from the Multiyear Progs & Initiatives - Council Dist 07 CBA - Contingency Acct to the Multiyear Progs & Initiatives - Subsidies & Contributions to Private Org Acct, to Prov Funding to Murray Hill Preservation Association of Jacksonville, Florida, Inc. (MHPA) for the MHPA Growth & Dev Prog as Described Herein; Prov for Carryover to FY 27-28; Waiving Sec 118.107 (Nonprofits to Receive Funding Through a Competitive Evaluated Award Process; Waiver & Disclosures), Pt 1 (General Provisions), Ch 118 (City Grants), Ord Code, to Allow for a Direct Contract with MHPA; Apv, & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver on Behalf of the City a Grant Agrmt btwn the City & MHPA for the Prog; Prov for Oversight by the Grants & Contract Compliance Div of the Finance Dept (Staffopoulos) (Introduced by CM Peluso)\r\n10/13/26 CO Introduced: R, NCSPHS, F\r\n10/19/26 R Read 2nd & Rerefer \r\n10/19/26 NCSPHS Read 2nd & Rerefer\r\n10/20/26 F Read 2nd & Rerefer\r\n10/27/26 CO PH Read 2nd & Rerefer\r\n11/2/26 R Approve 7-0\r\n11/2/26 NCSPHS Approve 7-0\r\n11/4/26 F Approve 5-1 (Diamond)\r\n11/10/26 CO Approve 15-2 (Diamond/Gay)\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 10/27/26",
    "max_amount": 125000.0,
    "flow": "mixed",
+   "funding_source": "unstated",
    "signed_amount": 125000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -1940,6 +2029,7 @@
    "title": "\u2022 Ordinance 2023-335-E appropriated a total of $12,170,201.42 in SHIP Program Grant Funding\r\n\u2022 The original deadline to expend these SHIP funds was June 30, 2026\r\n\u2022 This will extend the deadline to fully expend these SHIP funds to March 31, 2027\r\n\u2022 The remaining amount to fully expend is as follows:\r\n    - Owner Occupied Rehab - $99,338.22\r\n    - Rental Development - $2,000,000\r\n\r\n",
    "max_amount": 12170201.0,
    "flow": "out",
+   "funding_source": "special_revenue",
    "signed_amount": 12170201.0,
    "signals": [],
    "outgoing_grant": false,
@@ -1972,6 +2062,7 @@
    "title": "Approve Piggybacking the City of West Palm Beach Contract #35325.001 for Utility Rate and Financial Consulting Services under City Contract #20270006.",
    "max_amount": null,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": null,
    "signals": [
     "consultants"
@@ -2004,6 +2095,7 @@
    "title": "Approval to award Invitation for Bids Y26-153-MV, Staff Augmentation - Administrative, to the low responsive and responsible bidders, BJ Concepts, Inc., in the estimated total contract amount of $2,500,000 for a five-year term, Blue Arbor, Inc., in the estimated contract amount of $2,500,000 for a five-year term, Naztec International Group, L.L.C., in the estimated contract amount of $2,500,000 for a five-year term, and 22nd Century Technologies, Inc., in the estimated contract amount of $2,500,000 for a five-year term. The total budget for all contract awards is $10,000,000 for the five-year term.\n\nIn the event the bidders recommended above fail to achieve timely compliance with pre-award deliverables, as defined in the Invitation for Bids, including, but not limited to, State Division of Corporations registration, E-verify, insurance and bonds, further request authorization for the Procurement Division to award to the next low responsive and responsible bidder as listed in the bid tabulation herein, to the extent practicable and advantageous to the County. ([Administration and Fiscal Services Department Human Resources Division] Procurement Division)",
    "max_amount": 10000000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 10000000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -2035,6 +2127,7 @@
    "title": "MOTION TO APPROVE Third Amendment to Contract No. TRN2125380B1 between Broward County and Cummins Inc. dba Cummins Sales & Service, for Cummins Engine Rebuild & Exchange Services, increasing the maximum amount by $2,000,000, for a new total maximum contract amount of $8,721,156, to pay for emergency bus engine repair services already received.",
    "max_amount": 8721156.0,
    "flow": "in",
+   "funding_source": "unstated",
    "signed_amount": -8721156.0,
    "signals": [],
    "outgoing_grant": false,
@@ -2055,6 +2148,39 @@
    ]
   },
   {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "7.3.16.",
+   "file_number": "2026-24947",
+   "title": "Request Approval of Task Order: 26Q-005-TO-01 SSS WWRF Surface Depressions Remediation - Art Walker Construction Inc., Lowell, FL (Budget Impact - Neutral; expenditure of $72,960)",
+   "max_amount": 72960.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 72960.0,
+   "signals": [
+    "vanity"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2.9,
+   "keywords": [
+    "construction"
+   ],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=27039",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "m-jacksonville",
    "government": "Jacksonville",
    "client": "jaxcityc",
@@ -2065,6 +2191,7 @@
    "title": "RESO Making Certain Findings & Apv & Auth the Execution of an Economic Development Agrmt btwn the City & Shore Manufacturing of FL LLC, to Support the Expansion of the Company\u2019s Existing Manufacturing Facility Located in the NW Jax Economic Dev Area, Located Generally at 5245 Commonwealth Ave, Which Is Within a Level 1 Economically Distressed Area; Auth the Mayor, or Her Desig, & Corp Sec, to Execute & Deliver, for & on Behalf of the City, the Agrmt btwn Company & the City; Auth Appvl of Technical Amdts by the Exec Director of the OED; Auth a $65,000 NW Jax Small Business Dev Initiative Grant to the Company; Prov for Oversight by the OED; Affirming the Proj\u2019s Compliance with the NWJEDF Guidelines Appvd & Adopted by Ord 2016-779-E; Affirming the Proj\u2019s Compliance with the Public Investment Policy Adopted by Ord 2024 286-E, as Amend; Req 2 Reading Passage Pursuant to Council Rule 3.305 (Sawyer) (Req of Mayor)\n10/27/26 CO Introduced: F\n11/4/26 F Amend/Approve 5-1 (Diamond)\n11/10/26 CO Amend/Approve 16-1 (Diamond)",
    "max_amount": 65000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 65000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -2093,6 +2220,7 @@
    "title": "Approve and authorize the Chairman to execute the Economic Incentive Partnership Agreement between Seminole County Government and Prospera Initiatives, Inc., in the amount of $60,000 for the purpose of providing bilingual assistance to entrepreneurs seeking to establish or expand their businesses in Seminole County. Countywide (Gui Cunha, Director, Office of Economic Development & Tourism)",
    "max_amount": 60000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 60000.0,
    "signals": [
     "private_benefit"
@@ -2115,6 +2243,35 @@
    ]
   },
   {
+   "entity_id": "m-pompanobeach",
+   "government": "Pompano Beach",
+   "client": "pompano",
+   "body": "City Commission",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "8.",
+   "file_number": "26-567",
+   "title": "A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF POMPANO BEACH, FLORIDA, APPROVING AND AUTHORIZING THE BUDGET ROLLOVER OF THE PREVIOUSLY APPROVED BUDGET DURING FISCAL YEAR 2025-2026 OPERATING AND CAPITAL EXPENDITURE FUNDS INTO THE FISCAL YEAR 2026-2027 BUDGET; PROVIDING AN EFFECTIVE DATE.\r\n(Fiscal Impact: $6,786,646)",
+   "max_amount": 6786646.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 6786646.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2.8,
+   "keywords": [],
+   "meeting_url": "https://pompano.legistar.com/MeetingDetail.aspx?LEGID=1809&GID=650&G=75CDA943-2D61-46F7-A03A-0373346FC42C",
+   "agenda_pdf": "https://pompano.legistar1.com/pompano/meetings/2026/11/1809_A_City_Commission_26-11-10_Agenda.pdf",
+   "item_url": "https://pompano.legistar.com/gateway.aspx?M=L&ID=11473",
+   "appearances": [
+    {
+     "body": "City Commission",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
    "entity_id": "c-polk",
    "government": "Polk County",
    "client": "polkcountyfl",
@@ -2125,6 +2282,7 @@
    "title": "Approve to establish capital budget amendment and transfer from the COPs Technology and Equipment Program Grant (COPS) to the Emergency Management Performance Grant (EMPG). ($66,154.00 one-time transfer)",
    "max_amount": 66154.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 66154.0,
    "signals": [],
    "outgoing_grant": true,
@@ -2153,6 +2311,7 @@
    "title": "ORD Approp $50,000 from the Multiyear Progs & Initiatives - Council Dist 04 CBA - Contingency Acct to the Council Dist 04 - Subsidies & Contributions to Private Org Acct to Prov Funding to Community Resource Educational Initiatives Inc. (CREI) for the Bridge Youth Leadership & Wellness Initiative as Described Herein; Waiving Sec 118.107 (Nonprofits to Receive Funding Through a Competitive Evaluated Award Process; Waiver & Disclosures), Pt 1 (General Provisions), Ch 118 (City Grants), Ord Code, to Allow for a Direct Contract with CREI; Apv, & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver on Behalf of the City an Agrmt btwn the City & CREI for the Prog; Prov for Oversight by the Grants & Contracts Compliance Div of the Finance Dept (Staffopoulos) (Introduced by CM Carrico)\n11/10/26 CO Introduced: R, NCSPHS, F \n11/16/26 R Read 2nd & Rerefer\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/24/26",
    "max_amount": 50000.0,
    "flow": "mixed",
+   "funding_source": "unstated",
    "signed_amount": 50000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -2195,6 +2354,7 @@
    "title": "Approval of Amendment No. 10, Contract Y25-115B, Recycle and Waste Disposal, with Waste Pro of Florida, Inc., in the amount of $45,000, for a revised estimated contract amount of $5,136,924.09. ([Community and Family Services Department Parks and Recreation Division] Procurement Division)",
    "max_amount": 5136924.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 5136924.0,
    "signals": [],
    "outgoing_grant": false,
@@ -2215,6 +2375,39 @@
    ]
   },
   {
+   "entity_id": "m-pompanobeach",
+   "government": "Pompano Beach",
+   "client": "pompano",
+   "body": "City Commission",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "6.",
+   "file_number": "27-07",
+   "title": "A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF POMPANO BEACH, FLORIDA, APPROVING AND AUTHORIZING THE EXECUTION AND DELIVERY OF A LEASE PURCHASE AGREEMENT BETWEEN THE CITY OF POMPANO BEACH, AS LESSEE, AND TD EQUIPMENT FINANCE, INC., AS LESSOR, WITH RESPECT TO THE ACQUISITION, PURCHASE, FINANCING AND LEASING OF CERTAIN EQUIPMENT; AUTHORIZING THE EXECUTION AND DELIVERY OF DOCUMENTS REQUIRED IN CONNECTION THEREWITH; AND AUTHORIZING ALL OTHER ACTIONS NECESSARY TO THE CONSUMMATION OF THE TRANSACTIONS CONTEMPLATED BY THIS RESOLUTION; PROVIDING FOR SEVERABILITY; PROVIDING AN EFFECTIVE DATE.\r\n(Fiscal Impact: $5,279,199.14 over five years Principal and Interest)",
+   "max_amount": 5279199.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 5279199.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2.7,
+   "keywords": [
+    "agreement",
+    "lease",
+    "purchase"
+   ],
+   "meeting_url": "https://pompano.legistar.com/MeetingDetail.aspx?LEGID=1809&GID=650&G=75CDA943-2D61-46F7-A03A-0373346FC42C",
+   "agenda_pdf": "https://pompano.legistar1.com/pompano/meetings/2026/11/1809_A_City_Commission_26-11-10_Agenda.pdf",
+   "item_url": "https://pompano.legistar.com/gateway.aspx?M=L&ID=11499",
+   "appearances": [
+    {
+     "body": "City Commission",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
    "entity_id": "m-northport",
    "government": "North Port",
    "client": "cityofnorthport",
@@ -2225,6 +2418,7 @@
    "title": "Approve Amendment No. 3 to Work Assignment 2022-18PW.01 with Rostan Solutions, LLC for Assistance with Federal Emergency Management Agency Reimbursement and Other Grants Management Services After Hurricane Ian in the Amount of $500,000 for a Total Amount of $4,500,000.",
    "max_amount": 4500000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 4500000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -2253,6 +2447,7 @@
    "title": "ORD Approp $40,000 from the NE FL Immigrant Resource Alliance - Subsidies & Contributions to Private Org Acct to the FSCJ - Subsidies & Contributions to Other Govt Acct, to Prov Funding to FSCJ for the Culinary Mgmt Prog as Described Herein; Apv, & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver on Behalf of the City a Grant Agrmt btwn the City & FSCJ for the Prog; Prov for Oversight by the Grants & Contract Compliance Div of the Finance Dept (Staffopoulos) (Introduced by CM Arias)\r\n10/27/26 CO Introduced:  F \r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
    "max_amount": 40000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 40000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -2287,6 +2482,7 @@
    "title": "Selection of Avcon, Inc. to provide Design Services for the International Drive and Sand Lake Road Pedestrian Bridge, Request for Proposals Y26-806-CR. \r\n\r\nFurther request the Board authorization for the Procurement Division to negotiate and execute the final contract in the not to exceed the budget of $4,400,000. ([Public Works Department Engineering Division] Procurement Division)",
    "max_amount": 4400000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 4400000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -2317,6 +2513,7 @@
    "title": "Approval of Change Order No. 1, Task Authorization No. 12, Contract Y24-905C, Continuing Professional Transportation Planning Services, Apopka Vineland Boulevard Safety and Operational Study, with Vanasse Hangin Brustlin, Inc., in the amount of $299,994.83, for a revised total amount of $436,311.36. ([Public Works Department Traffic Engineering Division] Procurement Division)",
    "max_amount": 436311.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 436311.0,
    "signals": [
     "consultants"
@@ -2340,6 +2537,39 @@
    ]
   },
   {
+   "entity_id": "m-pompanobeach",
+   "government": "Pompano Beach",
+   "client": "pompano",
+   "body": "City Commission",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "4A.",
+   "file_number": "27-16",
+   "title": "A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF POMPANO BEACH, FLORIDA, APPROVING SETTLEMENT OF CLAIMS IN ROBERT BLANCHETTE, ET AL. V. CITY OF POMPANO BEACH, CASE NO. 25-017638 (LITIGATION), AUTHORIZING COUNSEL TO EXECUTE ANY ADDITIONAL DOCUMENTS RELATING TO THE SETTLEMENT OF THE LITIGATION; PROVIDING AN EFFECTIVE DATE.\r\n(Fiscal Impact: $400,000.00)",
+   "max_amount": 400000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 400000.0,
+   "signals": [
+    "legal"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2.6,
+   "keywords": [
+    "settlement"
+   ],
+   "meeting_url": "https://pompano.legistar.com/MeetingDetail.aspx?LEGID=1809&GID=650&G=75CDA943-2D61-46F7-A03A-0373346FC42C",
+   "agenda_pdf": "https://pompano.legistar1.com/pompano/meetings/2026/11/1809_A_City_Commission_26-11-10_Agenda.pdf",
+   "item_url": "https://pompano.legistar.com/gateway.aspx?M=L&ID=11512",
+   "appearances": [
+    {
+     "body": "City Commission",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
    "entity_id": "m-fortlauderdale",
    "government": "Fort Lauderdale",
    "client": "fortlauderdale",
@@ -2350,6 +2580,7 @@
    "title": "Motion Approving Proprietary Purchases for Stormwater System Infrastructures (Public Works Department) - Estimated Amount of $4,200,000 - (Commission Districts 1, 2, 3 and 4)",
    "max_amount": 4200000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 4200000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -2378,6 +2609,7 @@
    "title": "Approve construction contract with Strickland Construction, Inc. for new office and maintenance buildings at Saddle Creek Park project ($3,809,996.00 one-time expense)",
    "max_amount": 3809996.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 3809996.0,
    "signals": [],
    "outgoing_grant": false,
@@ -2399,6 +2631,35 @@
    ]
   },
   {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "5.3.1.",
+   "file_number": "2026-24966",
+   "title": "Request Approval of Tax Increment Financing District Payment Requests (Budget Impact - Neutral; expenditure of $3,777,184)",
+   "max_amount": 3777184.0,
+   "flow": "out",
+   "funding_source": "special_revenue",
+   "signed_amount": 3777184.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2.6,
+   "keywords": [],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=27058",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "m-doral",
    "government": "Doral",
    "client": "doral",
@@ -2409,6 +2670,7 @@
    "title": "A RESOLUTION OF THE MAYOR AND THE CITY COUNCIL OF THE CITY OF DORAL, FLORIDA, APPROVING A WORK ORDER WITH PHOENIX CONCRETE PLUS, INC. FOR THE PROVISION OF SIGNAGE AND PAVEMENT MARKINGS AT THE INTERSECTION OF NW 74 STREET AND NW 98 PLACE, AND AT THE INTERSECTION OF NW 58 STREET AND NW 84 AVENUE, IN AN AMOUNT NOT TO EXCEED FORTY THREE THOUSAND EIGHT HUNDRED EIGHTY FOUR DOLLARS AND 50/100 ($43,884.50), WHICH INCLUDES A 10% CONTINGENCY FOR ANY UNFORESEEN CONDITIONS; RECOGNIZING THAT PHOENIX CONCRETE PLUS, INC. IS A CITY OF DORAL PREQUALIFIED VENDOR; AUTHORIZING THE CITY MANAGER TO EXECUTE THE WORK ORDER AND EXPEND BUDGETED FUNDS ON BEHALF OF THE CITY; PROVIDING FOR IMPLEMENTATION; PROVIDING FOR INCORPORATION OF RECITALS; AND PROVIDING FOR AN EFFECTIVE DATE",
    "max_amount": 43884.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 43884.0,
    "signals": [
     "vanity"
@@ -2436,9 +2698,10 @@
    "meeting_date": "2026-11-10",
    "agenda_number": "39.",
    "file_number": "2026-0848",
-   "title": "ORD Approp $30,000 from the NE FL Immigrant Resource Alliance - Subsidies & Contributions from Private Org Acct to the N FL School of Special Education - Subsidies & Contributions to Private Org Acct to Prov Funding to North Florida School of Special Education, Inc. (NFSSE) for Proj Tracklift as Described Herein; Waiving Sec 118.107 (Nonprofits to Receive Funding Through a Competitive Evaluated Award Process; Waiver & Disclosures), Pt 1 (General Provisions), Ch 118 (City Grants), Ord Code, to Allow for a Direct Contract with NFSSE; Apv, & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver on Behalf of the City a Grant Agrmt btwn the City & NFSSE for the Proj; Prov for Oversight by the Grants & Contract Compliance Div of the Finance Dept (Staffopoulos) (Introduced by CM Arias)\n10/27/26 CO Introduced: R, F \n11/2/26 R Read 2nd & Rerefer\n11/4/26 F Read 2nd & Rerefer\n11/10/26 CO PH Read 2nd & Rerefer \n11/16/26 R Approve 6-0\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
+   "title": "ORD Approp $30,000 from the NE FL Immigrant Resource Alliance - Subsidies & Contributions from Private Org Acct to the N FL School of Special Education - Subsidies & Contributions to Private Org Acct to Prov Funding to North Florida School of Special Education, Inc. (NFSSE) for Proj Tracklift as Described Herein; Waiving Sec 118.107 (Nonprofits to Receive Funding Through a Competitive Evaluated Award Process; Waiver & Disclosures), Pt 1 (General Provisions), Ch 118 (City Grants), Ord Code, to Allow for a Direct Contract with NFSSE; Apv, & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver on Behalf of the City a Grant Agrmt btwn the City & NFSSE for the Proj; Prov for Oversight by the Grants & Contract Compliance Div of the Finance Dept (Staffopoulos) (Introduced by CM Arias)\r\n10/27/26 CO Introduced: R, F \r\n11/2/26 R Read 2nd & Rerefer\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\n11/16/26 R Approve 6-0\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
    "max_amount": 30000.0,
    "flow": "mixed",
+   "funding_source": "unstated",
    "signed_amount": 30000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -2477,6 +2740,7 @@
    "title": "Approval to award Invitation for Bids Y26-1011-KS, Commercial Doors and Gates Preventative Maintenance and Repairs for Fire Rescue, to the low responsive and responsible bidder, Miner, Ltd., in the estimated contract award amount of $3,052,000, for a five-year term. ([Fire Rescue Department Logistics Division] Procurement Division]",
    "max_amount": 3052000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 3052000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -2507,6 +2771,7 @@
    "title": "Motion Rejecting All Bids for Invitation to Bid (ITB) No. 566-3 - Bulk Waste Disposal and Processing and Approving the Third Amendment to the lnterlocal Agreement between Broward County and the City for Solid Waste Disposal Support Services by Adding Bulk Waste Processing and Disposal Services - $2,975,991 - (Commission Districts 1, 2, 3 and 4)",
    "max_amount": 2975991.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 2975991.0,
    "signals": [],
    "outgoing_grant": false,
@@ -2537,6 +2802,7 @@
    "title": "Approve purchase of twenty-six Motorola Command Central AXS Dispatch Consoles and implementation/warranty services for the Public Safety Radio System. ($3,267,947.00 one-time expense)",
    "max_amount": 3267947.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 3267947.0,
    "signals": [],
    "outgoing_grant": false,
@@ -2567,6 +2833,7 @@
    "title": "ORD Approp $2,280,097.81 in Funds within the Inmate Welfare Trust Fund, to Estab the FY 26-27 Operating Budget for the Trust Fund, in Accordance with Sec 111.300, Ord Code, & Sec 951.23(9), F.S.; Auth 1 Full Time Position within the Inmate Welfare Trust Fund (R.C. 27 007) (B.T. 27-011) (Dillard) (Req of Sheriff)\r\n10/13/26 CO Introduced: NCSPHS, F \r\n10/19/26 NCSPHS Read 2nd & Rerefer\r\n10/20/26 F Read 2nd & Rerefer\r\n10/27/26 CO PH Read 2nd & Rerefer\r\n11/2/26 NCSPHS Approve 7-0\r\n11/4/26 F Approve 6-0\r\n11/10/26 CO Approve 17-0\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 10/27/26",
    "max_amount": 2280097.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 2280097.0,
    "signals": [],
    "outgoing_grant": false,
@@ -2595,6 +2862,7 @@
    "title": "ORD Approp $20,000, Including $15,000 From the FAGC Grants & Contract Compliance - Financial & Admin - Subsidies & Contributions to Private Org Acct & $5,000 From the NE FL Immigrant Resource Alliance - Subsidies & Contributions to Private Org Acct, to the Prospera Initiative - Subsidies & Contributions to Private Org Acct, to Prov Funding to Prospera Initiatives, Inc. (\u201cProspera\u201d) for the Small Business Assistance Prog (the \u201cProgram\u201d) as Described Herein; Waiving Sec 106.330 (Direct Appropriations; Minimum Threshold), Subpart B (Special Provisions), Pt 3 (Appropriations), Ch 106 (Budget & Accounting Code), Ord Code, to Allow for a Direct Contract With Prospera in an Amt Less Than $25,000; Waiving Sec 118.107 (Nonprofits to Receive Funding Through a Competitive Evaluated Award Process; Waiver & Disclosures), Pt 1 (General Provisions), Ch 118 (City Grants), Ord Code, to Allow for a Direct Contract With Prospera; Apv, & Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver on Behalf of the City a Grant Agrmt Btwn the City & Prospera Initiatives, Inc. For the Prog; Prov for Oversight by the Grants & Contract Compliance Div of the Finance Dept (Staffopoulos) (Introduced by CM Arias)\n10/27/26 CO Introduced: R, F\n11/2/26 R Read 2nd & Rerefer\n11/4/26 F Read 2nd & Rerefer\n11/10/26 CO PH Read 2nd & Rerefer \n11/16/26 R Approve 4-2 (Amaro, Clark-Murray)\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
    "max_amount": 25000.0,
    "flow": "mixed",
+   "funding_source": "unstated",
    "signed_amount": 25000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -2633,6 +2901,7 @@
    "title": "\u2022 Approximately 180 units to be located northwest of the intersection of San Diego Road and Spring Park Road in Council District 5\r\n\u2022 New construction\r\n\u2022 100% of the units will be reserved for households at or below 60% AMI\r\n\u2022 Ordinance 2026-752-E recently authorized a $2,800,000 Development Loan to support the Tori Meadows development, subject to future appropriation \r\n",
    "max_amount": 2800000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 2800000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -2668,6 +2937,7 @@
    "title": "Approve Consultant Services Authorization (CSA) No. 2022-092-07 with Mott MacDonald (Consultant) to provide continued software support services for AgileAssets, Polk County\u2019s computerized Asset Management System (AMS). ($250,000.00 not-to-exceed)",
    "max_amount": 250000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 250000.0,
    "signals": [
     "consultants"
@@ -2690,6 +2960,38 @@
    ]
   },
   {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "7.3.8.",
+   "file_number": "2026-24957",
+   "title": "Request Approval of Contract Amendment: 25C-161-CA-01 Astro Radio System Maintenance and Upgrade Agreement - Motorola Solutions, Inc., Chicago, IL (Budget Impact - Neutral; expenditure of $2,456,861.18 multi-year contract)",
+   "max_amount": 2456861.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 2456861.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2.4,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=27049",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "c-broward",
    "government": "Broward County",
    "client": "broward",
@@ -2700,6 +3002,7 @@
    "title": "A. MOTION TO APPROVE Agreement between the State of Florida Department of Health and Broward County, for a not-to-exceed amount of $1,827,864, effective October 1, 2026, through September 30, 2027, for the operation of the Broward County Health Department; authorize the County Administrator to execute amendments to the Agreement, provided such amendments do not impose any additional financial obligations or material risks on the County, subject to legal sufficiency review and approval by the County Attorney\u2019s Office; and authorize the County Administrator to take all necessary administrative and budgetary actions to implement the Agreement.\n\nACTION: (T-10:32 AM) Approved.\n\nVOTE: 9-0.\n\nB. MOTION TO APPROVE waivers of conflict under Section 112.313(7)(a), Florida Statutes, for the following Broward County advisory board members holding an employment or contractual relationship with an entity receiving funds for the performance of services under this agenda item:  \n1.  Joshua Rodriguez\n2.  Paula M. Thaqi\n\nACTION: (T-10:32 AM) Approved.\n\nVOTE: 9-0.",
    "max_amount": 1827864.0,
    "flow": "in",
+   "funding_source": "unstated",
    "signed_amount": -1827864.0,
    "signals": [],
    "outgoing_grant": false,
@@ -2730,6 +3033,7 @@
    "title": "Selection of one firm and an alternate to provide Design Services for Orange County Goldenrod Village, Request for Proposals Y26-811-JF from the following firms listed alphabetically:\r\n \r\n\u2022\tKMF Architects, LLC\r\n\u2022\tFugleberg Koch, LLC dba FK Architecture\r\n\r\nRequest Board authorization for the Procurement Division to negotiate and execute a contract within the not exceed the budget of $1,900,000. Further request Board authorization for the Procurement Division to formally terminate negotiations with the top ranked firm, if we are unable to come to a favorable negotiated agreement, and commence negotiations with the next ranked alternate, until a successful negotiation is reached. ([Administrative Services Department Capital Projects Division] Procurement Division)",
    "max_amount": 1900000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 1900000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -2761,6 +3065,7 @@
    "title": "Motion Approving an Increase in Contract Cost Capacity to Invitation to Bid No. 519-2, Purchase of Sodium Hypochlorite (Co-op) for Water Treatment Services - Allied Universal Corporation and Odyssey Manufacturing Company - $2,041,800 (Initial Term Increase) - (Commission Districts 1, 2, 3 and 4)",
    "max_amount": 2041800.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 2041800.0,
    "signals": [],
    "outgoing_grant": false,
@@ -2792,6 +3097,7 @@
    "title": "Resolution Approving a Local Agency Program Agreement with the Florida Department of Transportation for Construction of the Tarpon River and Shady Banks Neighborhood Improvements - $1,961,544 - (Commission District 4)",
    "max_amount": 1961544.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 1961544.0,
    "signals": [],
    "outgoing_grant": false,
@@ -2823,6 +3129,7 @@
    "title": "Approve a CIP Amendment to the FY 26-30 Parks & Natural Resources Five-Year CIP for projects funded through the American Rescue Plan (ARP). ($2,121,626.00 One-time expense)",
    "max_amount": 2121626.0,
    "flow": "out",
+   "funding_source": "special_revenue",
    "signed_amount": 2121626.0,
    "signals": [],
    "outgoing_grant": false,
@@ -2851,6 +3158,7 @@
    "title": "Temp. Reso. #R8823 approving the purchase of sanitary sewer line and manhole rehabilitation services from SAK Construction, L.L.C., in an amount of $1,799,902.00 with an additional contingency amount of $200,000.00 for a total amount of $1,999,902.00 through the utilization of City of Gainesville D/B/A Gainesville Regional Utilities Contract No. 2024-083-E, \u201cSanitary Sewer Line & Manhole Rehabilitation Services\u201d. (Utilities Division Director Mark Williams & Procurement Director Natalie Richmond)",
    "max_amount": 1999902.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 1999902.0,
    "signals": [],
    "outgoing_grant": false,
@@ -2883,6 +3191,7 @@
    "title": "Temp. Reso. #R8861 approving the award of Request For Proposals No. 26-07-23 for benefits consulting services to Gelin Benefits Group, L.L.C., for a period of three years, with an option to renew for two additional one-year periods, in an amount of $195,000.00 annually. (Human Resources Director Kanika Stampp)",
    "max_amount": 195000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 195000.0,
    "signals": [
     "consultants"
@@ -2913,6 +3222,7 @@
    "title": "Selection of two firms and an alternate to provide Engineering Design Services for Long Lake and Verona Park - CDBG-DR Infrastructure and Mitigation Projects, Request for Proposals Y26-810-JF, from the following firms listed alphabetically:\n \n\u2022\tDrummond Carpenter, PLLC\n\u2022\tGeosyntec Consultants, Inc. \n\u2022\tHalff Associates, Inc.\n\nRequest Board authorization for the Procurement Division to negotiate and execute a contract within the not-to-exceed budget amount of $1,486,702 for Engineering Design Services for Long Lake. Further request Board authorization for the Procurement Division to negotiate and execute a contract within the not-to-exceed budget amount of $390,455.30 for Engineering Design Services for Verona Park. \n\nFurther request Board authorization for the Procurement Division to formally terminate negotiations with the top ranked firm, if we are unable to come to a favorable negotiated agreement, and commence negotiations with the next ranked alternate, until a successful negotiation is reached. ([Public Works Department Stormwater Management Division] Procurement Division)",
    "max_amount": 1486702.0,
    "flow": "out",
+   "funding_source": "special_revenue",
    "signed_amount": 1486702.0,
    "signals": [],
    "outgoing_grant": false,
@@ -2944,6 +3254,7 @@
    "title": "Temp. Reso. #R8822 approving the purchase of lift station rehabilitation and repair services from Trio Development Corporation, through the utilization of the City of Pompano Beach Request For Proposals No. E-04-24, \u201cLift Station Rehabilitation and Repair Services,\u201d in an amount not-to-exceed $1,400,000.00 and a $140,000.00 project allowance for a total amount of $1,540,000.00. (Utilities Division Director Mark Williams & Procurement Director Natalie Richmond)",
    "max_amount": 1540000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 1540000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -2964,6 +3275,38 @@
    ]
   },
   {
+   "entity_id": "m-pompanobeach",
+   "government": "Pompano Beach",
+   "client": "pompano",
+   "body": "City Commission",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "7.",
+   "file_number": "27-05",
+   "title": "A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF POMPANO BEACH, FLORIDA, APPROVING AND AUTHORIZING THE PROPER CITY OFFICIALS TO EXECUTE AN AGREEMENT BETWEEN THE CITY OF POMPANO BEACH AND TEN-8 FIRE & SAFETY, LLC TO PURCHASE A PIERCE ENFORCER PUC PUMPER TRUCK, SECURING A PURCHASE PRICE OF $1,234,500 TO BE FUNDED FROM FY 2027 APPROPRIATIONS; PROVIDING AN EFFECTIVE DATE.\r\n(Fiscal Impact: $1,234,500)",
+   "max_amount": 1234500.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 1234500.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2.1,
+   "keywords": [
+    "agreement",
+    "purchase"
+   ],
+   "meeting_url": "https://pompano.legistar.com/MeetingDetail.aspx?LEGID=1809&GID=650&G=75CDA943-2D61-46F7-A03A-0373346FC42C",
+   "agenda_pdf": "https://pompano.legistar1.com/pompano/meetings/2026/11/1809_A_City_Commission_26-11-10_Agenda.pdf",
+   "item_url": "https://pompano.legistar.com/gateway.aspx?M=L&ID=11497",
+   "appearances": [
+    {
+     "body": "City Commission",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
    "entity_id": "m-fortlauderdale",
    "government": "Fort Lauderdale",
    "client": "fortlauderdale",
@@ -2974,6 +3317,7 @@
    "title": "Motion Authorizing Settlement of a Workers\u2019 Compensation Claim for Wesley Taylor v. City of Fort Lauderdale, Case Number 26-010992IF- $133,800 - (Commission Districts 1, 2, 3 and 4)",
    "max_amount": 133800.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 133800.0,
    "signals": [
     "legal"
@@ -3006,6 +3350,7 @@
    "title": "Temp. Reso. #R8846 approving the third renewal agreement with Standard Insurance Company for group life, accidental death and dismemberment, long term disability and voluntary insurance programs for city employees, dependents and retirees in an amount of $1,357,830.00 for Calendar Year 2027. (Human Resources Director Kanika Stampp)",
    "max_amount": 1357830.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 1357830.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3036,6 +3381,7 @@
    "title": "A RESOLUTION OF THE MAYOR AND THE CITY COUNCIL OF THE CITY OF DORAL, FLORIDA, AUTHORIZING THE CITY MANAGER TO UTILIZE SOURCEWELL CONTRACT No. 031622-SNT FOR SYNTHETIC TURF REPLACEMENT SERVICES AT DORAL MEADOW PARK AND DORAL LEGACY PARK FROM SPRINTURF, LLC IN AN AMOUNT NOT TO EXCEED ONE MILLION THREE HUNDRED SIXTY THOUSAND TWO HUNDRED AND NINETY THREE DOLLARS AND 00/100 ($1,360,293.00), WHICH INCLUDES A TEN PERCENT (10%) CONTINGENCY; AUTHORIZING THE CITY MANAGER TO EXPEND BUDGETED FUNDS IN FURTHERANCE HEREOF; PROVIDING FOR IMPLEMENTATION; PROVIDING FOR INCORPORATION OF RECITALS; AND PROVIDING FOR AN EFFECTIVE DATE",
    "max_amount": 1360293.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 1360293.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3066,6 +3412,7 @@
    "title": "Sponsorship Request for Port St. Lucie High School",
    "max_amount": null,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": null,
    "signals": [],
    "outgoing_grant": true,
@@ -3094,6 +3441,7 @@
    "title": "Approve Sole Source Contract #20270002 for the Purchase of Micron Filters for the Reverse Osmosis (RO) Plants.",
    "max_amount": null,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": null,
    "signals": [],
    "outgoing_grant": false,
@@ -3126,6 +3474,7 @@
    "title": "A. MOTION TO ADOPT Resolution of the Board of County Commissioners of Broward County, Florida, accepting an initial donation in the amount of $955,777 and up to $50,000 from any reserve funds later distributed through September 30, 2028, from the Estate of Ronald L. Smith to be deposited in the Animal Care General Trust Fund for the funding of general animal welfare programs, and to authorize the County Administrator to take any necessary administrative and budgetary actions to implement same.\n\nB. MOTION TO ADOPT budget Resolution within the Animal Care General Trust Fund to appropriate revenue received by donation from the Estate of Ronald L. Smith, in the initial amount of $955,777 and any reserve funds later distributed to the County, to allocate funds for the purpose of augmenting general animal welfare programs.",
    "max_amount": 955777.0,
    "flow": "mixed",
+   "funding_source": "unstated",
    "signed_amount": 955777.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3154,6 +3503,7 @@
    "title": "RESO Conf the Appt of Alexandra Field, a Duval County Resident, as a Member of the Opioid & Substance Use Disorder Grants Committee, as a Mental Health Professional Rep, Pursuant to Sec 84.202(a)(1), Ord Code, Filling a Seat Held Previously by Nancy A. Rice, for a 1st Full Term Exp on 6/30/29 (Hampsey) (Introduced by CP Howland)  (Co-Sponsor CM Miller)\r\n10/13/26 CO Introduced: R\r\n10/19/26 R Read 2nd & Rerefer\r\n10/27/26 CO Read 2nd & Rerefer\r\n11/2/26 R Approve 6-0\r\n11/10/26 CO Approve 17-0",
    "max_amount": null,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": null,
    "signals": [],
    "outgoing_grant": true,
@@ -3182,6 +3532,7 @@
    "title": "ORD Prov Forgiveness to First Coast No More Homeless Pets, Inc. (\u201cFCNMHP\u201d), for Non-Compliance With Audit Reporting Requirements of Sec 118.201 (Release of Appropriations) & 118.202 (Content of Audits by Independent Certified Public Accountant), Pt 2 (Disbursement of City Grants), Ch 118 (City Grants), Ord Code; Auth the Council Auditor to Remove FCNMHP From the Ch 118 Non-Compliance List; Requiring the Grants & Contract Compliance Div of the Finance Dept to Coordinate With the Council Auditor\u2019s Office to Effectuate This Ord (Staffopoulos) (Introduced by CM Pittman)\r\n10/27/26 CO Introduced: F\r\n11/4/26 F Read 2nd & Rerefer\r\n11/10/26 CO PH Read 2nd & Rerefer \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 11/10/26",
    "max_amount": null,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": null,
    "signals": [],
    "outgoing_grant": true,
@@ -3216,6 +3567,7 @@
    "title": "ORD-MC re City Grants; Amend Sec 118.301 (Expenditure of Appropriated Funds), Pt 3 (Administration of City Grants), Ch 118 (City Grants), Ord Code, to Update the List of Prohibited Expenditures of Approp Funds to Include the Purchase or Lease of a Motor Vehicle (Smith) (Introduced by CM Boylan)\r\n9/22/26 CO Introduced: R, NCSPHS, F \r\n10/5/26 R Read 2nd & Rerefer\r\n10/6/26 F Read 2nd & Rerefer\r\n10/13/26 CO PH Read 2nd & Rerefer\r\n10/19/26 NCSPHS Read 2nd & Rerefer\r\n11/2/26 R Amend/Approve 6-0\r\n11/2/26 NCSPHS Amend/Approve 7-0\r\n11/4/26 F Amend/Approve 6-0\r\n11/10/26 CO Amend/Approve 17-0\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 10/13/26",
    "max_amount": null,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": null,
    "signals": [],
    "outgoing_grant": true,
@@ -3247,6 +3599,7 @@
    "title": "ORD-MC re the Eastside Community Grants Prog; Amend Sec 118.904 (Composition; Qualifications; City Council Liaison; Terms; Removal.), Pt 9 (Eastside Community Grants Program), Ch 118 (City Grants), Ord Code, to Add That the 9th Voting Member May Be an Employee of the Jacksonville Jaguars Foundation, Inc. Or Any Entity Affiliated with Jacksonville Jaguars, LLC or Jacksonville Jaguars Foundation, Inc. (Smith) (Req of Mayor)  (Co-Sponsor CM Johnson)\r\n10/13/26 CO Introduced: R, NCSPHS\r\n10/19/26 R Read 2nd & Rerefer\r\n10/19/26 NCSPHS Read 2nd & Rerefer\r\n10/27/26 CO PH Read 2nd & Rerefer\r\n11/2/26 R Approve 7-0 \r\n11/2/26 NCSPHS Approve 7-0\r\n11/10/26 CO Approve 17-0\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 10/27/26",
    "max_amount": null,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": null,
    "signals": [],
    "outgoing_grant": true,
@@ -3265,6 +3618,95 @@
    ]
   },
   {
+   "entity_id": "c-brevard",
+   "government": "Brevard County",
+   "client": "brevardfl",
+   "body": "Brevard County Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "F.6.",
+   "file_number": "9282",
+   "title": "Approval RE: Amendment of Contract with Accela Inc, to Include Data Conversion of Zoning Files, Integration with the Department of Business and Professional Regulation, Additional Online Payment Processing, and Providing Authorization for Additional Funding for Future Change Orders",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Include Data Conversion of Zoning Files",
+   "signal_score": 2,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://brevardfl.legistar.com/MeetingDetail.aspx?LEGID=1821&GID=755&G=CBC15F88-E557-40BF-9C14-29B0EACF2882",
+   "agenda_pdf": "https://brevardfl.legistar1.com/brevardfl/meetings/2026/11/1821_A_Brevard_County_Board_of_County_Commissioners_26-11-10_Agenda.pdf",
+   "item_url": "https://brevardfl.legistar.com/gateway.aspx?M=L&ID=13395",
+   "appearances": [
+    {
+     "body": "Brevard County Board of County Commissioners",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-brevard",
+   "government": "Brevard County",
+   "client": "brevardfl",
+   "body": "Brevard County Board of County Commissioners",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "F.13.",
+   "file_number": "9261",
+   "title": "Approval, Re: Authorizing Resolution, Grant Applications, Use of Toll Revenue Credits, Execution of Follow-Up Master Grant Agreements with Federal Transit Administration for FY2027 Brevard County Transit Services Federal Capital and Operating Assistance Urbanized Area Grants",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "FY2027 Brevard County Transit Services Federal Capital and Operating Assistance",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://brevardfl.legistar.com/MeetingDetail.aspx?LEGID=1821&GID=755&G=CBC15F88-E557-40BF-9C14-29B0EACF2882",
+   "agenda_pdf": "https://brevardfl.legistar1.com/brevardfl/meetings/2026/11/1821_A_Brevard_County_Board_of_County_Commissioners_26-11-10_Agenda.pdf",
+   "item_url": "https://brevardfl.legistar.com/gateway.aspx?M=L&ID=13374",
+   "appearances": [
+    {
+     "body": "Brevard County Board of County Commissioners",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-desoto",
+   "government": "DeSoto County",
+   "client": "desotobocc",
+   "body": "Economic Development Advisory Committee",
+   "meeting_date": "2026-11-12",
+   "agenda_number": null,
+   "file_number": "26-2139",
+   "title": "SFSC Grant for Agriculture Innovation",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Agriculture Innovation",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://desotobocc.legistar.com/MeetingDetail.aspx?LEGID=3766&GID=814&G=C2D09B7C-BEF7-4276-A1C7-C5CC55E06B6D",
+   "agenda_pdf": "https://desotobocc.legistar1.com/desotobocc/meetings/2026/11/3766_A_Economic_Development_Advisory_Committee_26-11-12_Meeting_Agenda_%28Published_with_Hyperlinks%29.pdf",
+   "item_url": "https://desotobocc.legistar.com/gateway.aspx?M=L&ID=7207",
+   "appearances": [
+    {
+     "body": "Economic Development Advisory Committee",
+     "meeting_date": "2026-11-12"
+    }
+   ]
+  },
+  {
    "entity_id": "c-pinellas",
    "government": "Pinellas County",
    "client": "pinellas",
@@ -3275,6 +3717,7 @@
    "title": "Ratification of County Administrator approval and execution of the Promoting Resilient Operations for Transformative, Efficient, and Cost-saving Transportation grant application to the United States Department of Transportation for the San Martin Boulevard Bridge Replacement Project.",
    "max_amount": null,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": null,
    "signals": [],
    "outgoing_grant": true,
@@ -3303,6 +3746,7 @@
    "title": "Scrivener\u2019s\r\nPg. 1, line 18, include a reference to Exhibit 1\r\n\r\n\r\n\u2022 The State of Florida Department of Revenue has reduced the City\u2019s annual contribution to the Medicaid Program for this fiscal year, which has provided available budget capacity to be used for unfunded non-recurring future obligations\r\n",
    "max_amount": null,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": null,
    "signals": [],
    "outgoing_grant": true,
@@ -3321,6 +3765,35 @@
    ]
   },
   {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "4.1.",
+   "file_number": "2026-24927",
+   "title": "Billy Woods, Sheriff - Letter of Funding Request Regarding FY 2025-26 Unexpended Funds Returned to the Board of County Commissioners",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=27019",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "m-miramar",
    "government": "Miramar",
    "client": "miramar",
@@ -3331,6 +3804,7 @@
    "title": "Temp. Reso. #R8840 approving the lease purchase and maintenance of vehicles and equipment with Enterprise Fleet Management, Inc., under the existing 5-year master equity lease purchase and maintenance agreement that was established through the utilization of Sourcewell Contract No. 030122-EFM, in the amount of $995,506.00 for Fiscal Year 2026 inclusive of a one-time down payment cost of $184,709.00; and approving annual payments of $622,776.00 for Fiscal Years 2026 through 2029.  (Public Works Deputy Director Steven Hastings & Procurement Director Natalie Richmond)",
    "max_amount": 995506.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 995506.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3364,6 +3838,7 @@
    "title": "A RESOLUTION OF THE MAYOR AND THE CITY COUNCIL OF THE CITY OF DORAL, FLORIDA, WAIVING THE COMPETITIVE BID PROCESS PURSUANT TO SECTION 2-321 OF THE CITY\u2019S CODE OF ORDINANCES; AUTHORIZING THE CITY MANAGER TO NEGOTIATE AND ENTER INTO AN AGREEMENT WITH DORAL FIELD HOCKEY FOR THE PROVISION OF FIELD HOCKEY PROGRAMMING AT DORAL MEADOW PARK FOR A PERIOD OF THREE (3) YEARS WITH TWO (2) ONE (1) YEAR RENEWALS; PROVIDING FOR IMPLEMENTATION; PROVIDING FOR INCORPORATION OF RECITALS; AND PROVIDING FOR AN EFFECTIVE DATE",
    "max_amount": null,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": null,
    "signals": [],
    "outgoing_grant": false,
@@ -3394,6 +3869,7 @@
    "title": "MAYOR CASTILLO ITEM NO. 1: DISCUSSION AND POSSIBLE ACTION TO RENAME THE POOL AT THE ACADEMIC VILLAGE CAMPUS THE \u201cSTEFANO G. DIOGUARDI R. POOL\u201d IN HONOR OF STEFANO G. DIOGUARDI R., A FORMER STUDENT AND CAPTAIN OF THE WATER POLO TEAM WHO TRAGICALLY LOST HIS LIFE IN JULY 2019 FOLLOWING A COURAGEOUS BATTLE WITH EWING SARCOMA. FOR THE PAST 10 YEARS, THE FORZA STEFANO CHARITABLE FOUNDATION HAS HOSTED THE ANNUAL FORZA STEFANO WATER POLO TOURNAMENT AT THE ACADEMIC VILLAGE POOL. THE FOUNDATION HAS ALSO AGREED TO MAKE AN ANNUAL DONATION OF $1,000 FOR THE NEXT 10 YEARS TO THE ACADEMIC VILLAGE AQUATIC CENTER TO HELP COVER POOL-RELATED NEEDS AND/OR SUPPORT THE PEMBROKE PINES CHARTER HIGH SCHOOL (PPCHS) WATER POLO TEAM.",
    "max_amount": 1000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 1000.0,
    "signals": [],
    "outgoing_grant": true,
@@ -3422,6 +3898,7 @@
    "title": "A. MOTION TO APPROVE Amendment 001 to Reimbursable Agreement MOA-2023-046 between the U.S. Department of Commerce, National Oceanic and Atmospheric Administration (\u201cNOAA\u201d), National Ocean Service Center for Operational Oceanographic Products and Services, and Broward County, Florida, for the Installation, Management, Operation, Maintenance, and Repair of NOAA\u2019s Port Everglades Physical Oceanographic Real-Time System (\u201cPEPORTS\u00ae\u201d), effective on execution by both parties, to incorporate funding for the equipment, installation, operation, and maintenance of a horizontally mounted current meter in the Intracoastal Waterway (\u201cICW\u201d), increasing the total cost by $151,800, from $619,400 to $771,200.\n\nACTION: (T-10:32 AM) Approved.\n\nVOTE: 9-0.\n\nB. MOTION TO ADOPT budget Resolution in the Port Everglades Operating Fund to transfer funds from reserve in the amount of $133,000 to cover the additional Period 4 cost share of this agreement with NOAA.\n\nACTION: (T-10:32 AM) Approved Resolution No. 2026-418.\n\nVOTE: 9-0.",
    "max_amount": 771200.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 771200.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3452,6 +3929,7 @@
    "title": "MOTION TO APPROVE Agreement between Broward County and Areawide Council on Aging of Broward County, Inc., in the amount of $750,000 annually, effective from October 1, 2026, through September 30, 2027, with two one-year optional renewal terms, to provide emergency home-delivered meals to eligible Broward County seniors; authorize the County Administrator to execute amendments to the Agreement, provided such amendments do not impose any additional financial obligations or material risks on the County, subject to legal sufficiency review and approval by the County Attorney\u2019s Office; and authorize the County Administrator to take all necessary administrative and budgetary actions to implement the Agreement.",
    "max_amount": 750000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 750000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3482,6 +3960,7 @@
    "title": "A. MOTION TO APPROVE Third Amendment to Florida Department of Environmental Protection (\u201cFDEP\u201d) Agreement No. 22BO3 for cost sharing of the monitoring for the Segment II of the Broward County Shore Protection Project, providing for $748,919 from additional 2026/2027 legislative appropriations and a 12-month extension of the grant agreement term; authorizing the Mayor and Clerk to execute the same; authorizing the County Administrator, after review and approval for legal sufficiency by the Office of the County Attorney, to execute future amendments to the Agreement that do not impose additional costs or material risk to the County; and authorize the County Administrator to take all necessary administrative and budgetary actions to implement the Third Amendment.\n\nACTION: (T-10:32 AM) Approved.\n\nVOTE: 9-0.\n\nB. MOTION TO ADOPT budget Resolution in the amount of $748,919 within the Beach Erosion Capital Outlay Fund for the purpose of recognizing Fiscal Year 2026/2027 grant funds from the FDEP. (Commission District 4)\n\nACTION: (T-10:32 AM) Approved Resolution No. 2026-425.\n\nVOTE: 9-0.",
    "max_amount": 748919.0,
    "flow": "out",
+   "funding_source": "special_revenue",
    "signed_amount": 748919.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3512,6 +3991,7 @@
    "title": "Approve Order Form #Q-567363 Between Granicus, LLC and the City of North Port for the Legistar, Granicus Operation Cloud, and the GovQA Suite Subscription With a Term of Five Years in the Amount Not to Exceed $881,243 and Authorize the City Manager to\r\nApprove any Modifications or Terminations in Concurrence With Granicus.",
    "max_amount": 881243.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 881243.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3540,6 +4020,7 @@
    "title": "Approval of Purchase Order M122573, Postage Pass-Through for Mailing Billing Statements and Letters, with Infosend, Inc., in the not-to-exceed amount of $854,000. ([Utilities Department Customer Service Division] Procurement Division)",
    "max_amount": 854000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 854000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3570,6 +4051,7 @@
    "title": "Approve an administrative clarification to the September 17, 2026 City Council authorization for purchase orders to Consolidated Pipe and Supply, Ferguson Enterprise LLC, Palm Beach Plumbing Parts, and American Backflow Products Company for backflow devices and parts, to expressly establish Public Utilities' flexibility to use the secondary and tertiary source, if needed, within the existing annual not-to-exceed amount of $750,000.00 and pursuant to Invitation to Bid 37-26, and authorize the appropriate officials to execute same. (consent)",
    "max_amount": 750000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 750000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3600,6 +4082,7 @@
    "title": "Approve Utilization of Region 14 Education Service Center Contract No. 160963 with Rehrig Pacific Company for the Purchase of Waste Carts, Recycling Carts, Bins, Parts, and Related Products and Solutions on an As-Needed Basis in an Amount Not to Exceed $800,000 Annually Through the Initial Term Ending May 31, 2029, and Authorizing the City Manager to Approve Any Modifications or Terminations in Concurrence with Region 14 Education Service Center.",
    "max_amount": 800000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 800000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3631,6 +4114,7 @@
    "title": "MOTION TO ADOPT Resolution supporting the receipt of $687,085 in State-appropriated funding from the Florida Department of Environmental Protection (\u201cFDEP\u201d) for the modernization of certain infrastructure at the Markham Park Target Range; authorizing the County Administrator to execute the resulting grant agreement with FDEP, any amendments to the grant agreement that do not impose additional financial obligations on the County, and any certifications and other documents required by FDEP in connection with the grant, all subject to review and approval as to legal sufficiency by the County Attorney\u2019s Office; and authorizing the County Administrator to take all necessary administrative and budgetary actions to implement and administer the grant. (Commission District 5)",
    "max_amount": 687085.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 687085.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3661,6 +4145,7 @@
    "title": "MOTION TO APPROVE threshold increase for Contract No. PNC2129373B1 between Broward County and BeyondTrust Corporation for Privileged Access Management software, software subscriptions, maintenance, support, and related services, increasing the not-to-exceed total of the Contract by $70,000 from $495,000 to $565,000 over the term of the Contract.",
    "max_amount": 565000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 565000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3691,6 +4176,7 @@
    "title": "Approve Work Assignment No. 2027-01 Utility Asset Management Phase 4 with Black & Veatch Corporation for the Utilities Department Asset Management Program Support in the Amount of $489,950.",
    "max_amount": 489950.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 489950.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3719,6 +4205,7 @@
    "title": "Approval of Contract Y27-2209, Medication Assisted Treatment Program, with Aspire Health Partners, Inc., in the total contract award amount of $518,626 for a one-year term. \r\n\r\nFurther request Board authorization for the Procurement Division to renew the contract for four additional one-year terms. ([Health Services Department Corrections Health Services Division] Procurement Division)",
    "max_amount": 518626.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 518626.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3749,6 +4236,7 @@
    "title": "Approval and execution of Proportionate Share Agreement for McDonald\u2019s #009-2840 \u201cClarcona\u201d Apopka Vineland Road & Clarcona Road by and between APD Clarcona, LLC and Orange County for a proportionate share payment in the amount of $458,090.  District 2. (Roadway Agreement Committee)",
    "max_amount": 458090.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 458090.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3779,6 +4267,7 @@
    "title": "Motion Approving an Agreement for Invitation to Bid (ITB) No. 665, Turf Grass Maintenance - Fire, Parking, Plants - Rebid - VisualScape, Inc. - $474,307 (Initial Two-Year Term Amount) - (Commission Districts 1, 2, 3 and 4)",
    "max_amount": 474307.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 474307.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3809,6 +4298,7 @@
    "title": "Approve the award of Invitation to Bid 46-26, Pumping and Tankering Services - Domestic Wastewater, to Atlantic Pipe Services, LLC; GreaseCorp; EnviroWaste Services Group, Inc.; and Meeks Plumbing, Inc., by service group and priority as recommended by the Procurement Division and Public Utilities Department, in an estimated annual amount of $500,000, for an initial one-year term with two optional one-year renewals, and authorize the appropriate officials to execute the same. (consent)",
    "max_amount": 500000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 500000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3837,6 +4327,7 @@
    "title": "Approve Agreement 2025-015 Amendment No. 2 with Geosyntec Consultants, Inc. for professional engineering services for the Southeast Landfill. ($482,047.00 one-time expense)",
    "max_amount": 482047.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 482047.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3867,6 +4358,7 @@
    "title": "Temp. Reso. #R8838 approving the purchase of theater production services from AV Technician, Inc., d/b/a AV Event Group, in an annual amount of $450,000.00. (Cultural Affairs Assistant Director Zakiya Kelley)",
    "max_amount": 450000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 450000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3897,6 +4389,7 @@
    "title": "A. MOTION TO AUTHORIZE County Administrator to approve and execute Cooperative Agreement between Broward County and the U.S. Department of Housing and Urban Development, subject to legal sufficiency review and approval by the County Attorney\u2019s Office,  in the amount of $355,200, effective July 1, 2025, through June 30, 2027, for operational costs associated with investigating cases alleging housing discrimination; and authorize the County Administrator to take all necessary administrative and budgetary actions to implement the Cooperative Agreement.\n\nACTION: (T-10:32 AM) Approved.\n\nVOTE: 9-0.\n\nB. MOTION TO ADOPT budget Resolution in the Fair Housing Assistance Program Fund in the amount of $49,180 for operational costs associated with investigating cases alleging housing discrimination.\n\nACTION: (T-10:32 AM) Approved Resolution No. 2026-419.\n\nVOTE: 9-0.",
    "max_amount": 355200.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 355200.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3917,6 +4410,70 @@
    ]
   },
   {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "7.5.7.",
+   "file_number": "2026-24889",
+   "title": "Request Approval of a Purchase Agreement Associated with the SW/NW 80th/70th Avenue Segment 3 Road Project for a Portion of Parcel 21623-000-00 (Budget Impact- Neutral; expenditure of $367,900)",
+   "max_amount": 367900.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 367900.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.6,
+   "keywords": [
+    "agreement",
+    "purchase"
+   ],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=26981",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "7.5.8.",
+   "file_number": "2026-24890",
+   "title": "Request Approval of a Purchase Agreement Associated with the SW/NW 80th/70th Avenue Segment 3 Road Project for a Portion of Parcel 21068-001-00 (Budget Impact- Neutral; expenditure of $374,300)",
+   "max_amount": 374300.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 374300.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.6,
+   "keywords": [
+    "agreement",
+    "purchase"
+   ],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=26982",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "c-broward",
    "government": "Broward County",
    "client": "broward",
@@ -3927,6 +4484,7 @@
    "title": "MOTION TO APPROVE allocation in the amount of $300,000 to Junior Achievement of South Florida, Inc., for the Financial Literacy and Business Skills Training Program for Broward County youth, effective October 1, 2026, through September 30, 2027; authorize the Human Services Department Director or Deputy Director to approve and execute a contract adjustment reflecting the allocation for the current term; and authorize the County Administrator to take all necessary administrative and budgetary actions to implement the Agreement.",
    "max_amount": 300000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 300000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3958,6 +4516,7 @@
    "title": "Approve Utilization of OMNIA Contract Number: 23-6692-03 With Insight Public Sector, for Cloud Solutions Software, Equipment, Peripherals, and Related Services on an As-Needed Basis in an Amount Not to Exceed $350,000 Annually Through the Term Ending Date of April 30, 2028, and Authorize the City Manager to Approve any Modifications or Terminations in Concurrence with the City of Mesa - OMNIA.",
    "max_amount": 350000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 350000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -3988,6 +4547,7 @@
    "title": "An Ordinance of the City of North Port, Florida, Amending the Non-District Budget for Fiscal Year 2025-2026 for Increased Impact Fee Reimbursement and Increased Tax Collector Fees in the Amount of $352,121; Providing for Findings; Providing for Posting; Providing for Conflicts; Providing for Severability; and Providing an Effective Date.",
    "max_amount": 352121.0,
    "flow": "out",
+   "funding_source": "special_revenue",
    "signed_amount": 352121.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4024,6 +4584,7 @@
    "title": "Approval of Fiscal Year 2025 Fire Prevention and Safety Grant, Award Number: EMW-2025-FP-01098 in the amount of $333,333.33, with $16,666.67 in matching non-federal funds. (Planning and Technical Services Division)",
    "max_amount": 333333.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 333333.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4052,6 +4613,7 @@
    "title": "\u2022 Appropriates $64,737 from the Council District 7 Community Benefits Agreement contingency account to provide additional funding for the direct contract previously approved by Ord. 2025-893-E with the Jacksonville Association of Firefighters, IAFF Local No. 122, Inc. (\u201cJAFF\u201d) for the restoration of the Fire Tower located at 625 Stockton Street\r\n\u2022 Authorizes an amendment to the agreement with JAFF to 1) extend the contract from March 31, 2027 to March 31, 2028 and 2) increase the maximum indebtedness from $245,220 to $309,957 \r\n\u2022 Waives the requirement in Code Sec. 118.107 that City funds appropriated to nonprofit organizations shall be subject to a competitive evaluated award process in order to authorize an amendment to the direct contract with JAFF\r\n",
    "max_amount": 309957.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 309957.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4081,6 +4643,100 @@
    ]
   },
   {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "7.3.13.",
+   "file_number": "2026-24940",
+   "title": "Request Approval of Selection Committee Recommendation: 26P-117 Debris Management Operations (Phase 3 Response) Debris Monitoring & Consulting Services - Tetra Tech, Inc., Pasadena, CA (Budget Impact - Neutral; ceiling price of $30,000 at the time of a disaster)",
+   "max_amount": 30000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 30000.0,
+   "signals": [
+    "consultants"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.5,
+   "keywords": [],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=27032",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "7.3.11.",
+   "file_number": "2026-24985",
+   "title": "Request Approval of Contract Amendment (Renewal): 22P-219-CA-02 Light-Duty Auto Parts Consignment - Advance Stores Company, Inc., d/b/a Advance Auto Parts, Raleigh, NC and TPH Holdings, LLC d/b/a The Parts House, Jacksonville, FL (Budget Impact - Neutral; estimated expenditure of $300,000)",
+   "max_amount": 300000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 300000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.5,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=27077",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "7.5.6.",
+   "file_number": "2026-24888",
+   "title": "Request Approval of a Purchase Agreement Associated with the SW/NW 80th/70th Avenue Segment 3 Road Project for a Portion of Parcel 2109-003-000 (Budget Impact- Neutral; expenditure of $320,000)",
+   "max_amount": 320000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 320000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.5,
+   "keywords": [
+    "agreement",
+    "purchase"
+   ],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=26980",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "m-doral",
    "government": "Doral",
    "client": "doral",
@@ -4091,6 +4747,7 @@
    "title": "A RESOLUTION OF THE MAYOR AND THE CITY COUNCIL OF THE CITY OF DORAL, FLORIDA, APPROVING A WORK ORDER WITH THE STOUT GROUP, LLC FOR THE PROVISION OF STORM DRAIN AND RIGHT OF WAY REPAIR SERVICES ALONG NW 88 AVENUE AND 15 STREET IN AN AMOUNT NOT TO EXCEED THREE HUNDRED FIFTEEN THOUSAND SIX HUNDRED SIXTY ONE DOLLARS AND 50/100  ($315,661.50) WHICH INCLUDES A 10% CONTINGENCY FOR ANY UNFORESEEN CONDITIONS, RECOGNIZING THAT THE STOUT GROUP, LLC IS A CITY OF DORAL PRE-QUALIFIED VENDOR; AUTHORIZING THE CITY MANAGER TO EXECUTE THE WORK ORDER, AND EXPEND BUDGETED FUNDS ON BEHALF OF THE CITY; PROVIDNG FOR IMPLEMENTATION; PROVIDING FOR INCORPORATION OF RECITALS; AND PROVIDING FOR AN EFFECTIVE DATE",
    "max_amount": 315661.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 315661.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4119,6 +4776,7 @@
    "title": "A RESOLUTION OF THE MAYOR AND THE CITY COUNCIL OF THE CITY OF DORAL, FLORIDA, AWARDING INVITATION TO BID ITB #2026-24 \u201cNW 41 STREET & 104 AVENUE INTERSECTION IMPROVEMENTS\u201d TO AUM CONSTRUCTION, INC. IN AN AMOUNT NOT TO EXCEED TWO HUNDRED NINETY-EIGHT THOUSAND, NINE HUNDRED EIGHTY DOLLARS AND 00/100 ($298,980.00) WHICH INCLUDES A 2% DEDICATED ALLOWANCE FOR PERMITTING COSTS AND A 10% CONTINGENCY FOR ANY UNFORESEEN CONDITIONS; AUTHORIZING THE CITY MANAGER TO EXECUTE THE CONSTRUCTION AGREEMENT AND EXPEND BUDGETED FUNDS ON BEHALF OF THE CITY; PROVIDING FOR IMPLEMENTATION; PROVIDING FOR INCORPORATION OF RECITALS; AND PROVIDING FOR AN EFFECTIVE DATE",
    "max_amount": 298980.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 298980.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4150,6 +4808,7 @@
    "title": "MOTION TO APPROVE THE MASTER SOFTWARE AS A SERVICES (SAAS) AGREEMENT BETWEEN THE CITY OF PEMBROKE PINES AND ZOLL DATA SYSTEMS, INC., FOR THE ZOLL BILLING SOFTWARE SOLUTION FOR THE FIRE RESCUE DEPARTMENT, FOR AN INITIAL FIVE (5) YEAR PERIOD, IN AN AMOUNT NOT TO EXCEED $288,000, PURSUANT TO SECTION 35.18(C)(7) OF THE CITY'S PROCUREMENT CODE.",
    "max_amount": 288000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 288000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4180,6 +4839,7 @@
    "title": "Approve resolution associated with Amendment #1 between Polk County and the Florida Department of Transportation (FDOT) in conjunction with the Maine Avenue Sidewalk project. ($268,854.00 one time revenue).",
    "max_amount": 268854.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 268854.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4208,6 +4868,7 @@
    "title": "MOTION TO APPROVE AN AGREEMENT WITH H&R PAVING, INC., FOR THE MILLING AND RESURFACING OF NW 125TH AVE FROM SHERIDAN STREET TO TAFT STREET, UTILIZING PRICING ESTABLISHED BY THE CITY OF MIAMI IFB NO. 1115382, FOR AN AMOUNT NOT TO EXCEED $226,978.50, WHICH INCLUDES $1,088 FOR PAYMENT AND PERFORMANCE BONDS, AND A 10% OWNER'S CONTINGENCY IN THE AMOUNT OF $20,535.50, PURSUANT TO SECTION 35.18(C)(5) OF THE CITY\u2019S CODE OF ORDINANCES.",
    "max_amount": 226978.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 226978.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4239,6 +4900,7 @@
    "title": "MOTION TO AUTHORIZE County Administrator to execute an agreement between Broward County and Dr. Stanley and Pearl Goodman JFS of Broward County, Inc., subject to legal sufficiency review and approval by the County Attorney\u2019s Office, in an amount not to exceed $200,000, effective upon execution of the agreement through September 30, 2027, to reimburse the purchase of a refrigerated delivery truck for transporting perishable meals to seniors and other homebound Broward County residents experiencing food insecurity; and authorize the County Administrator to take all necessary administrative and budgetary actions to implement the agreement.",
    "max_amount": 200000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 200000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4270,6 +4932,7 @@
    "title": "Approve and authorize the Chairman to execute the Florida Department of Health in Seminole County Integrated System of Care Agreement for FY26-27 in the amount of $210,000 to extend services to impoverished communities in Seminole County. Countywide (Allison Thall, Community Services Director)",
    "max_amount": 210000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 210000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4300,6 +4963,7 @@
    "title": "Approve Utilization of Sourcewell Master Agreement 112624-TTC, Grounds Maintenance Equipment and Related Attachments, with The Toro Company for the Purchase of Vehicles and Equipment on an As-Needed Basis in an Amount not to Exceed $200,000 Annually Through the Term Ending January 31, 2029, and Authorizing the City Manager to Approve any Modifications, Renewals, or Terminations in Concurrence with Sourcewell.",
    "max_amount": 200000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 200000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4331,6 +4995,7 @@
    "title": "Approval and execution of Proportionate Share Agreement for South Goldenrod Townhomes - Phase 2 Goldenrod Road by and between Palm Property Partners, LLC and Orange County for a proportionate share payment in the amount of $207,235.  District 3. (Roadway Agreement Committee)",
    "max_amount": 207235.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 207235.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4361,6 +5026,7 @@
    "title": "Approve Polk HealthCare Plan Hospital Agreement with OHI Lakeland Highlands, Inc. d/b/a Orlando Health Watson Clinic Lakeland Highlands Hospital for hospital services. (estimated annual amount more than $200,000)",
    "max_amount": 200000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 200000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4381,6 +5047,38 @@
    ]
   },
   {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "7.3.4.",
+   "file_number": "2026-24958",
+   "title": "Request Approval of Change Order to Purchase Order 2501670: 23Q-087-TO-42 Countywide Sidewalk Improvements - Halff Associates, Inc., Tavares, FL (Budget Impact - Neutral; additional expenditure of $194,559)",
+   "max_amount": 194559.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 194559.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.3,
+   "keywords": [
+    "change order",
+    "purchase"
+   ],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=27050",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "m-doral",
    "government": "Doral",
    "client": "doral",
@@ -4391,6 +5089,7 @@
    "title": "A RESOLUTION OF THE MAYOR AND THE CITY COUNCIL OF THE CITY OF DORAL, FLORIDA, APPROVING THE PURCHASE OF A SMALL MUNICIPAL AND COUNTY GOVERNMENT ENTERPRISE LICENSE AGREEMENT (ELA) WITH ENVIRONMENTAL SYSTEMS RESEARCH INSTITUTE, INC. (ESRI) FOR GEOGRAPHIC INFORMATION SYSTEMS (GIS); AUTHORIZING THE CITY MANAGER TO EXECUTE AN AGREEMENT IN FURTHERANCE THEREOF FOR A THREE (3) YEAR TERM IN AN AMOUNT NOT TO EXCEED $61,300.00 PER YEAR, FOR A TOTAL AMOUNT NOT TO EXCEED $183,900.00; PROVIDING FOR IMPLEMENTATION; PROVIDING FOR INCORPORATION OF RECITALS; AND PROVIDING FOR AN EFFECTIVE DATE",
    "max_amount": 183900.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 183900.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4422,6 +5121,7 @@
    "title": "Approve and authorize the Chairman to execute the Low-Income Pool (LIP) Letter of Agreement (LOA) for FY26-27 which will provide matching funds up to $164,537.50 to offset the cost of uncompensated care provided by True Health. Countywide (Allison Thall, Community Services Director)",
    "max_amount": 164537.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 164537.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4452,6 +5152,7 @@
    "title": "Approve and authorize staff to terminate the Non-Profit Capacity Building/Operating Cost and Supportive Services Agreement in the amount of $170,000 between Seminole County and Boys Town Central Florida, Inc. Countywide (Allison Thall, Community Services Director)",
    "max_amount": 170000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 170000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4472,6 +5173,97 @@
    ]
   },
   {
+   "entity_id": "m-pompanobeach",
+   "government": "Pompano Beach",
+   "client": "pompano",
+   "body": "City Commission",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "3.",
+   "file_number": "26-558",
+   "title": "A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF POMPANO BEACH, FLORIDA, APPROVING AND AUTHORIZING THE PROPER CITY OFFICIALS TO EXECUTE A THIRD AMENDMENT TO THE SERVICE AGREEMENT BETWEEN THE CITY OF POMPANO BEACH AND SFM JANITORIAL SERVICES, LLC. TO PROVIDE JANITORIAL SERVICES; PROVIDING AN EFFECTIVE DATE.\r\n(Fiscal Impact: $161,048.15)",
+   "max_amount": 161048.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 161048.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.2,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://pompano.legistar.com/MeetingDetail.aspx?LEGID=1809&GID=650&G=75CDA943-2D61-46F7-A03A-0373346FC42C",
+   "agenda_pdf": "https://pompano.legistar1.com/pompano/meetings/2026/11/1809_A_City_Commission_26-11-10_Agenda.pdf",
+   "item_url": "https://pompano.legistar.com/gateway.aspx?M=L&ID=11450",
+   "appearances": [
+    {
+     "body": "City Commission",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-pompanobeach",
+   "government": "Pompano Beach",
+   "client": "pompano",
+   "body": "City Commission",
+   "meeting_date": "2026-11-10",
+   "agenda_number": "4.",
+   "file_number": "26-557",
+   "title": "A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF POMPANO BEACH, FLORIDA, APPROVING AND AUTHORIZING THE PROPER CITY OFFICIALS TO EXECUTE A THIRD AMENDMENT TO THE SERVICE AGREEMENT BETWEEN THE CITY OF POMPANO BEACH AND JANITORIAL 5 STARS SERVICES LLC. TO PROVIDE JANITORIAL SERVICES; PROVIDING AN EFFECTIVE DATE. \r\n(Fiscal Impact: $150,323.04)",
+   "max_amount": 150323.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 150323.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.2,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://pompano.legistar.com/MeetingDetail.aspx?LEGID=1809&GID=650&G=75CDA943-2D61-46F7-A03A-0373346FC42C",
+   "agenda_pdf": "https://pompano.legistar1.com/pompano/meetings/2026/11/1809_A_City_Commission_26-11-10_Agenda.pdf",
+   "item_url": "https://pompano.legistar.com/gateway.aspx?M=L&ID=11449",
+   "appearances": [
+    {
+     "body": "City Commission",
+     "meeting_date": "2026-11-10"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "7.3.15.",
+   "file_number": "2026-24948",
+   "title": "Request Approval of Task Order: 06Q-098-TO-04 NW 49th Street Phase 3 Post-Design - Guerra Development Corp., Ocala, FL (Budget Impact - Neutral; expenditure of $152,575)",
+   "max_amount": 152575.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 152575.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.2,
+   "keywords": [],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=27040",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "m-miramar",
    "government": "Miramar",
    "client": "miramar",
@@ -4482,6 +5274,7 @@
    "title": "Temp. Reso. #R8805 authorizing the City Manager to execute an agreement and related documents between the City of Miramar and the State of Florida, Department of State, Division of Arts and Culture to secure a grant in the amount of $150,000.00 to support Miramar Cultural Center Arts & Cultural Programs. (Cultural Affairs Assistant Director Zakiya Kelley)",
    "max_amount": 150000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 150000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4512,6 +5305,7 @@
    "title": "Temp. Reso. #R8830 approving the renewal of support maintenance services from R2 Unified Technologies to support the City\u2019s network, cybersecurity, and firewall infrastructure in an amount of $166,314.00 for Fiscal Year 2027 through the utilization of NCPA Contract No. 01-169. (Information Technology Assistant Director Jerry Logan)",
    "max_amount": 166314.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 166314.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4542,6 +5336,7 @@
    "title": "Motion Approving Fiscal Year 2027 Not for Profit Grant Participation Agreement with Areawide Council on Aging of Broward County, Inc. - $127,842 - (Commission Districts 1, 2, 3 and 4)",
    "max_amount": 127842.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 127842.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4572,6 +5367,7 @@
    "title": "Motion Approving a Second Amendment to the Lease BOKA2, LLC, as Successor-in-Interest to KMAC, LLC, and the City of Fort Lauderdale for Office Space Located at 255 NE 3rd Avenue - Annual Total Rent of $116,052 - (Commission District 2)",
    "max_amount": 116052.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 116052.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4602,6 +5398,7 @@
    "title": "Motion Approving an Increase in Contract Cost Capacity to Request for Proposals (RFP) No. 12176-795 for EMS Ambulance Billing and Electronic Patient Care Reporting Services - Advanced Data Processing, Inc. d/b/a Intermedix - $139,289 - (Commission Districts 1, 2, 3 and 4)",
    "max_amount": 139289.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 139289.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4622,6 +5419,64 @@
    ]
   },
   {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "7.3.12.",
+   "file_number": "2026-24430",
+   "title": "Request Approval of Selection Committee Recommendation: 26P-053 Long Range Tourism Plan 2027-2031 - Coraggio Group, LLC, Lakewood, CO (Budget Impact - Neutral; expenditure not to exceed $127,710",
+   "max_amount": 127710.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 127710.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.1,
+   "keywords": [],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=26522",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "7.4.1.",
+   "file_number": "2026-24963",
+   "title": "Request Approval of Tourist Development Council Recommendation for Room Night Generating Event (Budget Impact - Neutral; expenditure of up to $120,000)",
+   "max_amount": 120000.0,
+   "flow": "out",
+   "funding_source": "special_revenue",
+   "signed_amount": 120000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.1,
+   "keywords": [],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=27055",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "m-miramar",
    "government": "Miramar",
    "client": "miramar",
@@ -4632,6 +5487,7 @@
    "title": "Temp. Reso. #R8820 approving the renewal of cyber security services from United Data Technologies Inc., utilizing the NCPA Contract No. 01-134, in an amount not-to-exceed $137,592.00 for Fiscal Year 2027. (Information Technology Assistant Director Jerry Logan)",
    "max_amount": 137592.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 137592.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4662,6 +5518,7 @@
    "title": "Temp. Reso. #R8821 approving the renewal of software licenses and maintenance services with Ultimate Kronos Group in an amount not-to-exceed $93,953.00 for Fiscal Year 2027, and the renewal of security software licenses and maintenance services with Alchemy Tech Group in an amount not-to-exceed $132,783.00 for Fiscal Year 2027. (Information Technology Systems Manager Vanessa J. Sauveur)",
    "max_amount": 132783.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 132783.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4690,6 +5547,7 @@
    "title": "Temp. Reso. #R8829 approving the purchase of laboratory equipment, supplies, reagents, and reference materials from Fisher Scientific Company L.L.C., in an amount of $139,000.00 and approving the purchase of contracted laboratory testing services from Advanced Environmental Laboratories, Inc., in an amount of $130,000.00 for Fiscal Year 2027. (Utilities Division Director Shelanda Krekreghe & Procurement Director Natalie Richmond)",
    "max_amount": 139000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 139000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4720,6 +5578,7 @@
    "title": "A RESOLUTION OF THE MAYOR AND THE CITY COUNCIL OF THE CITY OF DORAL, FLORIDA, APPROVING A WORK ORDER WITH METRO EXPRESS, INC. FOR THE PROVISION OF STORM DRAIN AND RIGHT OF WAY REPAIR SERVICES ALONG  NW 109 AVENUE, AND NW 51 STREET AND ALONG NW 114 AVENUE AND NW 43  TERRACE, IN AN AMOUNT NOT TO EXCEED ONE HUNDRED TWENTY-THREE THOUSAND FIVE HUNDRED EIGHTY-TWO DOLLARS AND 80/100  ($123,582.80) WHICH INCLUDES A 10% CONTINGENCY FOR ANY UNFORESEEN CONDITIONS, RECOGNIZING THAT METRO EXPRESS INC IS A CITY OF DORAL PRE-QUALIFIED VENDOR; AUTHORIZING THE CITY MANAGER TO EXECUTE THE WORK ORDER, AND EXPEND BUDGETED FUNDS ON BEHALF OF THE CITY; PROVIDING FOR IMPLEMENTATION; PROVIDING FOR INCORPORATION OF RECITALS; AND PROVIDING FOR AN EFFECTIVE DATE",
    "max_amount": 123582.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 123582.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4748,6 +5607,7 @@
    "title": "Approval and execution of Orange County, Florida and Bike/Walk Central Florida FY 2027 Grant Agreement by and between Orange County and Bike/Walk Central Florida, Inc. in the amount of $99,615. All Districts. (Traffic Engineering Division)",
    "max_amount": 99615.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 99615.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4778,6 +5638,7 @@
    "title": "AMENDMENT\r\nClarify that technical amendments shall not increase the financial obligations or liability of the City of Jacksonville\r\n\r\n\r\n\u2022 Authorizes execution of agreement with Florida East Coast Railway (Railway) for preliminary engineering services related to implementing a 24-hour railroad quiet zone within the San Marco area\r\n\u2022 Agreement requires an initial deposit of $90,000 by the City and provides that if the deposit is insufficient to pay for the actual cost of the services, the City shall be responsible for making additional deposits to cover the actual cost, subject to the lawful appropriation of funds\r\n\u2022 If the deposit(s) exceed actual costs, Railway will return funds or apply the excess funds to the cost of future Railway work associated with the project  \r\n\u2022 There is an available balance of $101,882 within the Railroad Quiet Zone CIP project to fund the initial deposit",
    "max_amount": 101882.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 101882.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4802,6 +5663,37 @@
    ]
   },
   {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "7.3.7.",
+   "file_number": "2026-24946",
+   "title": "Request Approval of Contract Amendment: 16Q-052-CA-03 Marion Oaks Manor Extension (SW 49th Avenue to S Highway 475) - Tillman and Associates Engineering, LLC, Ocala, FL (Budget Impact - Neutral; additional expenditure of $108,962.50)",
+   "max_amount": 108962.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 108962.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.0,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=27038",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "m-doral",
    "government": "Doral",
    "client": "doral",
@@ -4812,6 +5704,7 @@
    "title": "A RESOLUTION OF THE MAYOR AND THE CITY COUNCIL OF THE CITY OF DORAL, FLORIDA, APPROVING A WORK ORDER WITH QUALITY PAVING CORP. FOR THE PROVISION OF STORM DRAIN AND RIGHT OF WAY REPAIR SERVICES ALONG NW 13 TERRACE AND 89 COURT IN AN AMOUNT NOT TO EXCEED NINETY NINE THOUSAND FIVE HUNDRED SIXTY THREE DOLLARS AND 20/100  ($99,563.20) WHICH INCLUDES A 10% CONTINGENCY FOR ANY UNFORESEEN CONDITIONS, RECOGNIZING THAT QUALITY PAVING CORP IS A CITY OF DORAL PRE-QUALIFIED VENDOR; AUTHORIZING THE CITY MANAGER TO EXECUTE THE WORK ORDER, AND EXPEND BUDGETED FUNDS ON BEHALF OF THE CITY; PROVIDING FOR IMPLEMENTATION; PROVIDING FOR INCORPORATION OF RECITALS; AND PROVIDING FOR AN EFFECTIVE DATE",
    "max_amount": 99563.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 99563.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4840,6 +5733,7 @@
    "title": "Approve and authorize the Chairman to execute the Homeless Services Network of Central Florida Homelessness Partnership Agreement in the amount of $72,614 for FY 2026/27 for the continuation of advocacy services for the homeless population in Seminole County. Countywide (Allison Thall, Community Services Director)",
    "max_amount": 72614.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 72614.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4860,6 +5754,69 @@
    ]
   },
   {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "7.1.1.",
+   "file_number": "2026-24606",
+   "title": "Request Approval of Marion County Standard Professional Services Agreement Emergency Solutions Grant Program with Catholic Charities of Central Florida, Inc. d/b/a Blessed Trinity Catholic Church Brother\u2019s Keeper (Budget Impact-Neutral; not to exceed $76,724)",
+   "max_amount": 76724.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 76724.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 0.9,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=26698",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "7.5.14.",
+   "file_number": "2026-24906",
+   "title": "Request Approval of a Purchase Agreement Associated with the SW/NW 80th/70th  Avenue Segment 3 Road Project for a Portion of Parcel 12671-000001 (Budget Impact- Neutral; expenditure of $84,100)",
+   "max_amount": 84100.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 84100.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 0.9,
+   "keywords": [
+    "agreement",
+    "purchase"
+   ],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=26998",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "c-seminole",
    "government": "Seminole County",
    "client": "seminolecountyfl",
@@ -4870,6 +5827,7 @@
    "title": "Approve and authorize the Chairman to execute The Sharing Center Street Outreach Agreement in the amount $63,000 providing continued street outreach, engagement and assessment services for the Seminole County homeless population. Countywide (Allison Thall, Community Services Director)",
    "max_amount": 63000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 63000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4890,6 +5848,38 @@
    ]
   },
   {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "7.5.5.",
+   "file_number": "2026-24813",
+   "title": "Request Approval of a Purchase Agreement Associated with the SW/NW 80th/70th Avenue Segment 3 Road Project for a Portion of Parcel 23299-001-00 (Budget Impact- Neutral; expenditure of $62,500)",
+   "max_amount": 62500.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 62500.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 0.8,
+   "keywords": [
+    "agreement",
+    "purchase"
+   ],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=26905",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "m-deltona",
    "government": "Deltona",
    "client": "deltona",
@@ -4900,6 +5890,7 @@
    "title": "DEL-22-177 Massey & DEL-22-178 Massey - Lien Reduction\r\nProperty Address:\r\n2123 Saxon Boulevard, Deltona, FL 32725\r\nParcel ID: 8023-01-12-0080\r\nProperty Owner:\r\nExpert Car Care 3 LLC\r\n189 New Gate Loop\r\nLake Mary, FL 32746\r\n\r\nDEL-22-177 Massey \r\nViolation:\r\nCity of Deltona Ordinance, SEC. 18-5 IPMC 304.7 - Housing Code Roofs - \r\nViolation: City of Deltona Ordinance, Section 18-5, which adopts the latest edition of the International Property Maintenance Code, Section 304.7, which states the roof and slashing shall be sound tight and not have any defects that admit rain. \r\n\r\nCorrective Action:\r\nRepair or replace the roof, gutters, or drainage. Contact our office with permit number when obtained. \r\n\r\nThe case for this violation was opened on February 7, 2022. On July 27, 2022 the Special Magistrate found the Respondent in violation of the City Code and based on the evidence, the time provided to comply in the prior Order of February 7,2022, was sufficient to fully correct the violation. A total fine in the amount of $60,800.00 representing three hundred and four days (304) non-compliance at a rate of $200.00 per day was imposed.\r\n\r\nDEL-22-178 Massey\r\nViolation: \r\nCity of Deltona Ordinance, SEC. 37-10- Housing Code Blight -  \r\nViolation: City of Deltona Ordinance, Section 37-10, Public nuisance, which states all blighted and distressed real properties are herby declared to be a public nuisances, the abatement of which pursuant to the police power is herby declared to be necessary",
    "max_amount": 60800.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 60800.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4928,6 +5919,7 @@
    "title": "A RESOLUTION OF THE MAYOR AND THE CITY COUNCIL OF THE CITY OF DORAL, FLORIDA, AUTHORIZING THE CITY MANAGER TO EXECUTE A WORK ORDER WITH KIMLEY-HORN FOR PROFESSIONAL ENGINEERING POST DESIGN SERVICES FOR ITB 2026-03 NW 66 STREET ROADWAY WIDENING FROM NW 102 AVENUE TO NW 97 AVENUE CONSTRUCTION PROJECT, IN AN AMOUNT NOT TO EXCEED SIXTY EIGHT THOUSAND TWO HUNDRED FORTY THREE DOLLARS AND SIXTY EIGHT CENTS ($68,243.68); AUTHORIZING THE CITY MANAGER TO EXECUTE THE WORK ORDER AND EXPEND BUDGETED FUNDS ON BEHALF OF THE CITY; PROVIDING FOR IMPLEMENTATION; PROVIDING FOR INCORPORATION OF RECITALS; AND PROVIDING FOR AN EFFECTIVE DATE",
    "max_amount": 68243.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 68243.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4958,6 +5950,7 @@
    "title": "Approve and Authorize the City Manager to Execute Agreement No. 2026-03 Construction Engineering and Inspection Services (CEI) for North Port Boulevard Over Cocoplum Waterway Bridge Rehabilitation with AECOM Technical Services, Inc. in the Total Amount of $51,726.88.",
    "max_amount": 51726.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 51726.0,
    "signals": [],
    "outgoing_grant": false,
@@ -4979,6 +5972,35 @@
    ]
   },
   {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "7.3.17.",
+   "file_number": "2026-24849",
+   "title": "Request Approval of Purchases $50,000 and Over",
+   "max_amount": 50000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 50000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 0.7,
+   "keywords": [],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=26941",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "m-jacksonville",
    "government": "Jacksonville",
    "client": "jaxcityc",
@@ -4989,6 +6011,7 @@
    "title": "Scrivener's\r\n1. Pg. 1, line 15, pg. 6, line 31, and pg. 7, line 2: strike \u201c111.904\u201d and insert \u201c111.940\u201d\r\n2. Pg. 6, line 28: strike \u201cDivision Special Revenue\u201d\r\n\r\n\r\n\u2022 Amends Ch. 651 (Expedited Permitting) to revise the eligibility criteria for the expedited permitting process, designate the Public Works Department as responsible for coordination and implementation, and establish fees\r\n\u2022 Establishes an initial Expedited Permitting Program Fee of $20,000, which may be increased up to $40,000 by the Director of Public Works without Council approval\r\n\u2022 Establishes an Exceptional Project Fee, which cannot exceed 200% of the Expedited Permitting Program Fee without approval of the Chief Administrative Officer, for projects based on size, complexity, number of structures or permits, number of required reviewing agencies, phased permitting requirements, or other characteristics requiring greater resources, to be paid in addition to the Expedited Permitting Program Fee\r\n\u2022 These fees are supplemental and will not replace, reduce, credit against, or otherwise affect any other fees that are applicable to any project\r\n\u2022 The Expedited Permitting Program Fee and Exceptional Project Fee will be deposited as follows: 90% to the Building Inspection Fund and 10% to the Affordable Housing Special Revenue Fund\r\n\r\n",
    "max_amount": 40000.0,
    "flow": "out",
+   "funding_source": "special_revenue",
    "signed_amount": 40000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -5005,11 +6028,100 @@
      "meeting_date": "2026-11-16"
     },
     {
+     "body": "Finance Committee",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
+   "meeting_date": "2026-11-16",
+   "agenda_number": null,
+   "file_number": null,
+   "title": "RULES AMENDMENT\r\n1. Remove references to 10% of the fees to be deposited into the Affordable Housing Special Revenue Fund\r\n2. Include a reporting requirement to provide a report to Council after 6-months and 12-months from the effective date of the bill\r\n3. Correct scrivener's\r\n\r\n\r\n\u2022 Amends Ch. 651 (Expedited Permitting) to revise the eligibility criteria for the expedited permitting process, designate the Public Works Department as responsible for coordination and implementation, and establish fees\r\n\u2022 Establishes an initial Expedited Permitting Program Fee of $20,000, which may be increased up to $40,000 by the Director of Public Works without Council approval\r\n\u2022 Establishes an Exceptional Project Fee, which cannot exceed 200% of the Expedited Permitting Program Fee without approval of the Chief Administrative Officer, for projects based on size, complexity, number of structures or permits, number of required reviewing agencies, phased permitting requirements, or other characteristics requiring greater resources, to be paid in addition to the Expedited Permitting Program Fee\r\n\u2022 These fees are supplemental and will not replace, reduce, credit against, or otherwise affect any other fees that are applicable to any project\r\n\u2022 The Expedited Permitting Program Fee and Exceptional Project Fee will be deposited as follows: 90% to the Building Inspection Fund and 10% to the Affordable Housing Special Revenue Fund\r\n",
+   "max_amount": 40000.0,
+   "flow": "out",
+   "funding_source": "special_revenue",
+   "signed_amount": 40000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 0.6,
+   "keywords": [],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3782&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3782_A_Neighborhoods%2C_Community_Services%2C_Public_Health_and_Safety_Committee_26-11-16_Agenda.pdf",
+   "item_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3782&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "appearances": [
+    {
      "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
      "meeting_date": "2026-11-16"
-    },
+    }
+   ]
+  },
+  {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "7.3.1.",
+   "file_number": "2026-24974",
+   "title": "Request Approval of Change Order to Purchase Order 2400500: 23B-182 JBrown Professional Group, Gainesville, FL (Budget Impact - Neutral; additional expenditure of $40,000)",
+   "max_amount": 40000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 40000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 0.6,
+   "keywords": [
+    "change order",
+    "purchase"
+   ],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=27066",
+   "appearances": [
     {
-     "body": "Finance Committee",
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "7.5.10.",
+   "file_number": "2026-24892",
+   "title": "Request Approval of a Purchase Agreement Associated with the SW/NW 80th/70th Avenue Segment 3 Road Project for a Portion of Parcel 21625-002-02 (Budget Impact- Neutral; expenditure of $41,800)",
+   "max_amount": 41800.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 41800.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 0.6,
+   "keywords": [
+    "agreement",
+    "purchase"
+   ],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=26984",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
      "meeting_date": "2026-11-17"
     }
    ]
@@ -5025,6 +6137,7 @@
    "title": "A RESOLUTION OF THE MAYOR AND THE CITY COUNCIL OF THE CITY OF DORAL, FLORIDA, AUTHORIZING THE CITY MANAGER TO EXECUTE AN AMENDMENT TO WORK ORDER No. 1 WITH EXP US INC., TO INCREASE THE AVAILABLE FUNDS FOR PROFESSIONAL SERVICES TO COVER THE COST FOR ADDITIONAL DESIGN, PERMITTING SERVICES, ALTERNATIVES DESIGN AND ADDITIONAL UTILITY COORDINATION ASSOCIATED WITH THE NEW TRAFFIC SIGNAL AT NW 112  AVENUE AND NW 50 STREET, IN AN AMOUNT NOT TO EXCEED THIRTY-FIVE THOUSAND SEVEN HUNDRED SEVENTY FOUR DOLLARS AND 00/100 ($35,774.00); AUTHORIZING THE CITY MANAGER TO EXECUTE THE WORK ORDER AMENDMENT AND EXPEND BUDGETED FUNDS ON BEHALF OF THE CITY; PROVIDING FOR IMPLEMENTATION; PROVIDING FOR INCORPORATION OF RECITALS; AND PROVIDING FOR AN EFFECTIVE DATE",
    "max_amount": 35774.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 35774.0,
    "signals": [],
    "outgoing_grant": false,
@@ -5053,6 +6166,7 @@
    "title": "\u2022 Appropriates $30,000 from unspent funding originally appropriated for a direct contract with Northeast Florida Immigrant Resource Alliance to fund a direct contract with the North Florida School of Special Education, Inc. (\u201cNFSSE\u201d) for the period of October 1, 2026 \u2013 September 30, 2027\r\n\u2022 NFSSE will use the funding to repair a walking and running track on their campus, pay a portion of the salaries for a physical education teacher, health and fitness coach, and fitness coordinator, and to purchase athletic equipment to support various physical education programs\r\n\u2022 Waives the requirement in Code Sec. 118.107 that City funds appropriated to nonprofit organizations shall be subject to a competitive evaluated award process in order to authorize a direct contract with the NFSSE\r\n",
    "max_amount": 30000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 30000.0,
    "signals": [],
    "outgoing_grant": false,
@@ -5078,6 +6192,70 @@
    ]
   },
   {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "7.5.9.",
+   "file_number": "2026-24891",
+   "title": "Request Approval of a Purchase Agreement Associated with the SW/NW 80th/70th Avenue Segment 3 Road Project for a Portion of Parcel 21625-000-08 (Budget Impact- Neutral; expenditure of $28,600)",
+   "max_amount": 28600.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 28600.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 0.5,
+   "keywords": [
+    "agreement",
+    "purchase"
+   ],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=26983",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-marion",
+   "government": "Marion County",
+   "client": "marionfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "7.5.13.",
+   "file_number": "2026-24904",
+   "title": "Request Approval of a Purchase Agreement Associated with the SW/NW 80th/70th  Avenue Segment 3 Road Project for a Portion of Parcel 21625-002-05 (Budget Impact- Neutral; expenditure of $31,100)",
+   "max_amount": 31100.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 31100.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 0.5,
+   "keywords": [
+    "agreement",
+    "purchase"
+   ],
+   "meeting_url": "https://marionfl.legistar.com/MeetingDetail.aspx?LEGID=3580&GID=778&G=BE8E0F50-D386-42B0-BD7D-99F05C7CA750",
+   "agenda_pdf": "https://marionfl.legistar1.com/marionfl/meetings/2026/11/3580_A_Board_of_County_Commissioners_26-11-17_Meeting_Agenda.pdf",
+   "item_url": "https://marionfl.legistar.com/gateway.aspx?M=L&ID=26996",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "c-seminole",
    "government": "Seminole County",
    "client": "seminolecountyfl",
@@ -5088,6 +6266,7 @@
    "title": "Approve and authorize the Chairman to execute the Aspire Health Partners, Inc. Transportation Program Agreement for FY26-27 in the amount of $25,000 to assist with transporting uninsured Seminole County residents for mental health services. Countywide (Allison Thall, Community Services Director)",
    "max_amount": 25000.0,
    "flow": "out",
+   "funding_source": "unstated",
    "signed_amount": 25000.0,
    "signals": [],
    "outgoing_grant": false,
