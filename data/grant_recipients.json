@@ -2850,12 +2850,20 @@
      "amount": null,
      "text": "Subject 12.1 Adopt Resolution No. 26-R-42 Authorizing Acceptance and Execution of the Florida Division of Emergency Management Hazard Mitigation Grant Program Agreement for the Terminal Generator Replacement Project at the Tallahassee International Airport -- David Pollard, Aviation",
      "link": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1083,plainText=false)"
+    },
+    {
+     "entity_id": "m-tallahassee",
+     "government": "Tallahassee",
+     "meeting_date": "2026-11-18",
+     "amount": null,
+     "text": "12. POLICY FORMATION AND DIRECTION 12.1 Adopt Resolution No. 26-R-42 Authorizing Acceptance and Execution of the Florida Division of Emergency Management Hazard Mitigation Grant Program Agreement for the Terminal Generator Replacement Project at the Tallahassee International Airport",
+     "link": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1084,plainText=false)"
     }
    ],
    "governments": [
     "Tallahassee"
    ],
-   "award_count": 2,
+   "award_count": 3,
    "total_amount": 0
   },
   "fema no": {
@@ -4003,14 +4011,22 @@
      "amount": null,
      "text": "Request to hold a public hearing for public review and comment regarding the Community Development Block Grant (CDBG) 2025-2029 Consolidated Plan and FY 2025-2026 Annual Action Plan, adopt Resolution 2025-020 approving the Consolidated Plan and Annual Action Plan, and authorize staff to transmit the",
      "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=270"
+    },
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": 110000.0,
+     "text": "Request to hold a public hearing and amend the City\u2019s FY 2025/2026 Community Development Block Grant (CDBG) Annual Action Plan to allocate $110,000 of available CDBG funding to the NW 39 th Court project between Coral Hills Drive and Coral Springs Drive; adopt Resolution 2026-039 approving the amend",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=335"
     }
    ],
    "governments": [
     "Coral Springs",
     "Tampa"
    ],
-   "award_count": 3,
-   "total_amount": 0
+   "award_count": 4,
+   "total_amount": 110000.0
   },
   "procure professional consulting services staff": {
    "name": "Procure Professional Consulting Services. Staff",
@@ -4162,13 +4178,22 @@
      "amount": null,
      "text": "SUNRISE, FLORIDA RESOLUTION NO. A RESOLUTION OF THE CITY OF SUNRISE, FLORIDA, APPROVING A \u201cSURTAX FUNDING AGREEMENT,\u201d INCLUDING A \u201c CYCLE 1 PROJECT COVER SHEET \u201d AND \u201cSTANDARD TERMS AND CONDITIONS FOR SURTAX-FUNDED MUNICIPAL TRANSPORTATION PROJECT INTERLOCAL AGREEMENTS (REHABILITATION & MAINTENANCE ",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1223"
+    },
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": null,
+     "text": "15. Amendment to Agreement with Turtle Run Community Development District (Robert Hunter) Request to approve the Amendment to Agreement with the Turtle Run Community Development District for the Contribution and Acceptance of Donation for the Turtle Run Park Playground Set. Funding Source: Not Appli",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=261"
     }
    ],
    "governments": [
+    "Coral Springs",
     "Palm Beach County",
     "Sunrise"
    ],
-   "award_count": 3,
+   "award_count": 4,
    "total_amount": 37209.0
   },
   "aip grant agreement number": {
@@ -5016,13 +5041,45 @@
      "amount": 50000.0,
      "text": "\uf078 m.Foreign Gifts and Contracts. Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Contractor shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,000",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1046"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "10.1 Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Consultant shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,000 or more that was received o",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1015"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "\uf050 m. Foreign Gifts and Contracts. Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Contractor shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,00",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1011"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "City Initials: ____ 8 Contractor Initials: _____ Revised 1/12/24mjs iv. If City terminates this Agreement pursuant to the subsection iii above, Contractor shall be barred from being awarded a future contract by City for a period of one (1) year from the date on which this Contract was terminated. In",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=993"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "33. Foreign Gifts and Contracts Pursuant to Fla. Stat. \u00a7286.101(3), where the amount of the grant or contract is 100,000.00 or more, Contractor shall disclose any current or prior interest of, any contract with, or any grant or gift received from a country of foreign concern with a value of $50,000 ",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=993"
     }
    ],
    "governments": [
     "Sunrise"
    ],
-   "award_count": 30,
-   "total_amount": 1650000.0
+   "award_count": 34,
+   "total_amount": 1850000.0
   },
   "federal assistance sf": {
    "name": "Federal Assistance SF",
@@ -6002,13 +6059,21 @@
      "amount": 305000.0,
      "text": "A: This item recognizes the appropriation of fund balance in the amount of $305,000 and transfers the funding to the Springtree Golf Club Fund (420) to support expenditures related to the roof/truss replacement at the Bridges at Springtree Golf Club. Springtree Golf Club Fund 420",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1205"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 1550000.0,
+     "text": "This item recognizes the appropriation of fund balance in the amount of $1,550,000 and transfers funding to the Springtree Golf Club Fund (420) to support construction costs for the upgrading of the golf cart paths related to Project #5155WF - Springtree Wellfield Maintenance Improvements and The Br",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1009"
     }
    ],
    "governments": [
     "Sunrise"
    ],
-   "award_count": 1,
-   "total_amount": 305000.0
+   "award_count": 2,
+   "total_amount": 1855000.0
   },
   "perform": {
    "name": "Perform",
@@ -6152,13 +6217,21 @@
      "amount": null,
      "text": "12. Resolution 2026-021, Amendment to State Housing Initiatives Partnership (SHIP) Local Housing Assistance Plan (LHAP) FY 2022-2025 (Tina Jou) Request to hold a public hearing and amend the FY 2022- 2025 Local Housing Assistance Plan (LHAP) to update the Rental Assistance strategy, adopt Resolution",
      "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=321"
+    },
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": 100000.0,
+     "text": "8. Archer 1200 Mobile Barriers and Trailer (Michael McNally) Request to approve agreement for the purchase of Archer 1200 Mobile Barriers and Trailer, Item # 25-B-220M, from Meridian Rapid Defense Group, LLC of Pasadena, California utilizing the General Services Administration (GSA) Contract #47QSWA",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=266"
     }
    ],
    "governments": [
     "Coral Springs"
    ],
-   "award_count": 1,
-   "total_amount": 0
+   "award_count": 2,
+   "total_amount": 100000.0
   },
   "installation maintenance decorative signposts": {
    "name": "Installation and Maintenance of Decorative Signposts",
@@ -6995,13 +7068,21 @@
      "amount": 165000.0,
      "text": "5. Use of Forfeiture Funds (Brad Mock) Request to authorize the use of a total of $165,000 in Law Enforcement Trust Funds: $150,000 to cover training costs for all sworn members and $15,000 to cover the annual donation to the Coral Springs Police Explorers. Funding Source: Receiving Forfeiture to Ex",
      "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=295"
+    },
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": 12500.0,
+     "text": "19. Use of Forfeiture Funds (Brad Mock) Request to authorize the use of $12,500 in Law Enforcement Trust Funds to cover the annual donation to the Coral Springs Police Explorers. Funding Source: Receiving Forfeiture to Expend. Strategic Goal: An Innovative, High-Performing and Sustainable Organizati",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=261"
     }
    ],
    "governments": [
     "Coral Springs"
    ],
-   "award_count": 1,
-   "total_amount": 165000.0
+   "award_count": 2,
+   "total_amount": 177500.0
   },
   "inventions": {
    "name": "Inventions",
@@ -7235,12 +7316,36 @@
      "amount": null,
      "text": "WHEREAS, the State of Florida, Department of Management Services , has awarded the City of Sunrise a grant for cybersecurity technical assistance to increase the City\u2019s cybersecurity capabilities; and WHEREAS, in order for the City to receive the approved assistance, it is necessary to enter into a ",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1139"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "A Resolu\u000fon of the City of Sunrise, Florida, approving a \u201cGrant Agreement for Local Government Cybersecurity Grant Program Contract No: DMS-24/25-085 Catalog of State Financial Assistance Number: 72.016 between the State of Florida Department of Management Services and City of Sunrise\u201d; and providin",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1015"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "AGENDA ITEM REQUEST Originating Department: Information Technology Item Title: Grant Item Number: 4B Meeting Date: 6/25/2024 City Reference Number (C#): C24140 Item Description: A Resolution of the City of Sunrise, Florida, approving a \u201cGrant Agreement for Local Government Cybersecurity Grant Progra",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1015"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Section 1. A \u201cGrant Agreement for Local Government Cybersecurity Grant Program Contract No: DMS-24/25-085 Catalog of State Financial Assistance Number: 72.016 between the State of Florida Department of Management Services and City of Sunrise\u201d (Grant Agreement) is hereby approved. A copy of the Grant",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1015"
     }
    ],
    "governments": [
     "Sunrise"
    ],
-   "award_count": 2,
+   "award_count": 5,
    "total_amount": 0
   },
   "managing organization": {
@@ -8045,12 +8150,20 @@
      "amount": null,
      "text": "E. Discussion and Consideration of a Request for Additional Tax Increment Revenue Funding for the Ocean One Project located at 114-222 N. Federal Highway",
      "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=291"
+    },
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "C. Discussion and Consideration of a Request for Additional Tax Increment Revenue Funding for the Ocean One Project located at 114-222 N. Federal Highway",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=282"
     }
    ],
    "governments": [
     "Boynton Beach"
    ],
-   "award_count": 2,
+   "award_count": 3,
    "total_amount": 0
   },
   "roadway milling resurfacing": {
@@ -8081,13 +8194,21 @@
      "amount": 411315.0,
      "text": "8. Use of Forfeiture Funds (Brad Mock) Request to authorize the use of a total of $411,315 in Law Enforcement Trust Funds, $300,000 to pay for Seasonal School Resource Officers\u2019 salaries, Paying $80,000 for overtime expenses. It is anticipated that we will receive reimbursement from Broward County S",
      "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=280"
+    },
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": 348815.0,
+     "text": "Request to authorize the use of a total of $348,815 in Law Enforcement Trust Funds, $250,000 to pay for Seasonal School Resource Officers' salaries, Paying $75,000 for overtime expenses. It is anticipated that we will receive reimbursement from Broward County Sheriff's Office Money Laundering, and N",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=335"
     }
    ],
    "governments": [
     "Coral Springs"
    ],
-   "award_count": 1,
-   "total_amount": 411315.0
+   "award_count": 2,
+   "total_amount": 760130.0
   },
   "emergency communications training software": {
    "name": "Emergency Communications Training Software",
@@ -8189,12 +8310,20 @@
      "amount": null,
      "text": "FTA Circular No. 4220.1F \"Third Party Contracting Guidelines\"; 49 CFR Part 19, \"Uniform Administrative Requirements for Grants and Cooperative Agreements to State and Local Governments\"; Office of Management and Budget (OMB) 2 CFR Chapter I, Chapter II, Part 200, et al., Uniform Administrative Requi",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1084"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "As a reminder, the Sub-recipient must obtain prior approval from the State, before implementing changes to the approved project Scope of Work (SOW). Per the Uniform Administrative Requirements for Grants and Cooperative Agreements to State and Local Governments:",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1021"
     }
    ],
    "governments": [
     "Sunrise"
    ],
-   "award_count": 1,
+   "award_count": 2,
    "total_amount": 0
   },
   "paralyzed veterans america florida chapter kevin pickard": {
@@ -8925,12 +9054,20 @@
      "amount": null,
      "text": "D. Continued Discussion and Consideration of a Request for Funding for the City View Apartments located at the SW Corner of Federal Highway and SE 5th Avenue",
      "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=291"
+    },
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "F. Continued Discussion and Consideration of a Request for Funding for the City View Apartments located at the SW Corner of Federal Highway and SE 5th Avenue - REVISED 06/06/2025",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=282"
     }
    ],
    "governments": [
     "Boynton Beach"
    ],
-   "award_count": 1,
+   "award_count": 2,
    "total_amount": 0
   },
   "national council school safety directors national conference": {
@@ -9004,14 +9141,915 @@
    ],
    "award_count": 1,
    "total_amount": 0
+  },
+  "ymca for construction ymca early learning academy": {
+   "name": "YMCA for Construction of the YMCA Early Learning Academy",
+   "awards": [
+    {
+     "entity_id": "m-northport",
+     "government": "North Port",
+     "meeting_date": "2026-11-17",
+     "amount": 250000.0,
+     "text": "Discussion and Possible Action Regarding a $250,000 Contribution From the City of North Port, Florida, to the YMCA for Construction of the YMCA Early Learning Academy on the King Plastic Corporation Property Located at 1100 North Toledo Blade Boulevard, North Port, Florida, 34288. ",
+     "link": "https://legistar2.granicus.com/cityofnorthport/meetings/2026/11/3753_A_City_Commission_Regular_Meeting_26-11-17_Meeting_Agenda.pdf"
+    }
+   ],
+   "governments": [
+    "North Port"
+   ],
+   "award_count": 1,
+   "total_amount": 250000.0
+  },
+  "costs maintenance repairs": {
+   "name": "Costs of Maintenance and Repairs",
+   "awards": [
+    {
+     "entity_id": "m-stpetersburg",
+     "government": "St. Petersburg",
+     "meeting_date": "2026-11-19",
+     "amount": 325000.0,
+     "text": "C. Other Fees and Compensation. Except for Costs of Maintenance and Repairs exceeding $325,000 each Calendar Year as provided in paragraph 6B and except for funding for Capital Improvements as provided in paragraph 10C , Manager is fully responsible for all costs related to Manager\u2019s management, ope",
+     "link": "https://www.stpete.org/2026-11-19 Agenda Packet w. AddDeletes (compressed).pdf?t=202611160932560"
+    }
+   ],
+   "governments": [
+    "St. Petersburg"
+   ],
+   "award_count": 1,
+   "total_amount": 325000.0
+  },
+  "cdbg dr": {
+   "name": "CDBG-DR",
+   "awards": [
+    {
+     "entity_id": "m-stpetersburg",
+     "government": "St. Petersburg",
+     "meeting_date": "2026-11-19",
+     "amount": null,
+     "text": "The parties therefore wish to enter into this Agreement to (1) amend both the County CDBG-DR Grant Agreement and the City CBDG-DR Grant Agreement to address part of the allocation error related to CDBG-DR funds that will be utilized for housing recovery and (2)",
+     "link": "https://www.stpete.org/2026-11-19 Agenda Packet w. AddDeletes (compressed).pdf?t=202611160932560"
+    }
+   ],
+   "governments": [
+    "St. Petersburg"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "cdbg dr grant agreements for cdbg dr funds for housing recovery": {
+   "name": "CDBG-DR Grant Agreements for CDBG-DR Funds for Housing Recovery",
+   "awards": [
+    {
+     "entity_id": "m-stpetersburg",
+     "government": "St. Petersburg",
+     "meeting_date": "2026-11-19",
+     "amount": null,
+     "text": "1. Amendments to CDBG-DR Grant Agreements for CDBG-DR Funds for Housing Recovery",
+     "link": "https://www.stpete.org/2026-11-19 Agenda Packet w. AddDeletes (compressed).pdf?t=202611160932560"
+    }
+   ],
+   "governments": [
+    "St. Petersburg"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "museum lease": {
+   "name": "Museum Lease",
+   "awards": [
+    {
+     "entity_id": "m-stpetersburg",
+     "government": "St. Petersburg",
+     "meeting_date": "2026-11-19",
+     "amount": null,
+     "text": "\u2022 \u201cDali Grant Agreement\u201d means either (i) the grant agreement between the City and the Museum Organization, dated December 8, 2010, as such agreement may be amended from time to time, or (ii) in the event that December 8, 2010 grant agreement is terminated and its provisions are incorporated into th",
+     "link": "https://www.stpete.org/2026-11-19 Agenda Packet w. AddDeletes (compressed).pdf?t=202611160932560"
+    }
+   ],
+   "governments": [
+    "St. Petersburg"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "ownership mahaffey theater facility city": {
+   "name": "and Ownership of the Mahaffey Theater Facility. The City",
+   "awards": [
+    {
+     "entity_id": "m-stpetersburg",
+     "government": "St. Petersburg",
+     "meeting_date": "2026-11-19",
+     "amount": null,
+     "text": "16. City Access to and Ownership of the Mahaffey Theater Facility. The City at all times has full ownership and, consistent with Use Agreements that are properly approved and in accordance with this Agreement, possession of the Mahaffey Theater Facility and all real and personal property, tangible o",
+     "link": "https://www.stpete.org/2026-11-19 Agenda Packet w. AddDeletes (compressed).pdf?t=202611160932560"
+    }
+   ],
+   "governments": [
+    "St. Petersburg"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "playmore west": {
+   "name": "Playmore West",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": 99500.0,
+     "text": "10. Pride Promoters Park Playground Replacement (Robert Hunter) Request to award RFP #25-B-031, Pride Promoters Park Playground Replacement to Playmore West, Inc. dba Playmore Recreational Products and Services of Fort Myers, Florida in the amount of $99,500; and to authorize the Purchasing Manager ",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=266"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 99500.0
+  },
+  "lara coral pilgrim": {
+   "name": "Lara Coral Pilgrim",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "23. Economic Development Incentive Program Grant Agreement (Annie Norris) Request to award the Economic Development Incentive Program Grant funding for an amount not to exceed $50,000 to Lara Coral Pilgrim, Ltd. for the property located at 10190-10200 W. Sample Road. Funding Source: Approved Operati",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=263"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 50000.0
+  },
+  "a e health wellness": {
+   "name": "A&E Health and Wellness",
+   "awards": [
+    {
+     "entity_id": "m-coralsprings",
+     "government": "Coral Springs",
+     "meeting_date": null,
+     "amount": 5000.0,
+     "text": "21. Economic Development Incentive Program Grant Agreement (Annie Norris) Request to award the Economic Development Incentive Program Grant funding for an amount not to exceed $5,000 to A&E Health and Wellness, LLC. Funding Source: Approved Operating Budget. Strategic Goal: A Thriving, Resilient Bus",
+     "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=261"
+    }
+   ],
+   "governments": [
+    "Coral Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 5000.0
+  },
+  "urban area security initiative": {
+   "name": "Urban Area Security Initiative",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 1368052000.0,
+     "text": "training, planning, exercise, and operational needs for large urban areas and to assist states in building an enhanced and sustainable capacity to prevent, respond to, and recover from threats or acts of terrorism; and WHEREAS, the OHS, through the State of Florida's Division of Emergency Management",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1021"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "A. That funding acquired and identified for the Urban Area Security Initiative will be administered solely by the Sponsoring Agency.",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1021"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 2,
+   "total_amount": 1368052000.0
+  },
+  "sub recipient": {
+   "name": "Sub-Recipient",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 50811846.0,
+     "text": "Agreement Number: R0924 Fl:OEFtALLY PUNDED SUBAWARD AND GRANT AGREEMENT 2 C.. F.R. \u00a7200.1 slates-Thata \"subaward may beP-rovkiad through any form of legal agreement, including an agreement that the pass-through entity considers a contract.\" As defined by 2 C..F.R. \u00a7200.1, \"pass-through entity\" means",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1021"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 571347.0,
+     "text": "1 Agreement Number: H1051 Project Number: 4486-088-R FEDERALLY-FUNDED SUBAWARD AND GRANT AGREEMENT 2 C.F.R. \u00a7200.1 states that a \u201csubaward may be provided through any form of legal agreement, including an agreement that the pass-through entity considers a contract.\u201d As defined by 2 C.F.R. \u00a7200.1, \u201cp",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1021"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 2,
+   "total_amount": 51383193.0
+  },
+  "sunrise tennis center wind retro t project": {
+   "name": "Sunrise Tennis Center Wind Retro\ufb01t Project",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "A Resolu\u000fon of the City of Sunrise, Florida, approving a \u201cLe6er of Agreement and Contract\u201d between The City of Sunrise and University of North Florida Training and Services Ins\u000ftute, Inc., d/b/a Ins\u000ftute of Police Technology and Management; and providing an e\ufb00ec\u000fve date. City Manager Mark Lubelski. ",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1021"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "sunrise tennis center wind retrofit project": {
+   "name": "Sunrise Tennis Center Wind Retrofit Project",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 571347.0,
+     "text": "AGENDA ITEM REQUEST Originating Department: Utilities Item Title: Grant Item Number: 4C Meeting Date: 8/13/2024 City Reference Number (C#): C24184 Item Description: A Resolution of the City of Sunrise, Florida, approving a \u201cFederally-Funded Subaward and Grant Agreement\u201d between The City of Sunrise a",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1021"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Section 1. A \u201cFederally-Funded Subaward and Grant Agreement\u201d (Agreement) between the City of Sunrise and the State of Florida, Division of Emergency Management to provide funding for the Sunrise Tennis Center Wind Retrofit Project is hereby approved. A copy of the Agreement is attached hereto and ma",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1021"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 2,
+   "total_amount": 571347.0
+  },
+  "uasi grant program": {
+   "name": "UASI Grant Program",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "C. UASI Grant Program 2023: The UASI Grant Program 2023 reflects the intent of Congress and the Administration to enhance and quantify the preparedness of the nation to combat terrorism and continues to address the unique equipment, training, planning, organization and exercise needs of large high t",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1021"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "participating agency": {
+   "name": "Participating Agency",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "events or exercises. Also, ensure that such equipment is readily available for onsite monitoring by DHS, FDEM, and the Sponsoring Agency. If the Participating Agency is incapable of staffing the equipment, such equipment shall be made available to another Participating Agency for use during any actu",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1021"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "division": {
+   "name": "Division",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "vi. A provision specifying that any funds paid in excess of the amount to which the Sub-Recipient is entitled under the terms and conditions of the agreement must be refunded to the Division. c. In a_d_dltion to the foregoing, the Sub-Recipient and the Division shall be governed by all applicable St",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1021"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "sunrise tennis center": {
+   "name": "Sunrise Tennis Center",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "WHEREAS, the City of Sunrise applied for a Hazard Mitigation Grant administered by the State of Florida, Division of Emergency Management (FDEM) to assist with funding wind retrofits for the Sunrise Tennis Center; and",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1021"
+    },
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "WHEREAS, to secure grant funding and complete the wind retrofit for the Sunrise Tennis Center, a grant agreement is required between the City of Sunrise and FDEM.",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1021"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 2,
+   "total_amount": 0
+  },
+  "summer school": {
+   "name": "Summer School",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 8864.0,
+     "text": "AGENDA ITEM REQUEST Originating Department: Police Item Title: Agreement Item Number: 4E Meeting Date: 8/13/2024 City Reference Number (C#): C24215 Item Description: A Resolution of the City of Sunrise, Florida, approving a \u201cSchool Resource Officer Agreement Summer 2024\u201d between The School Board of ",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1021"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 8864.0
+  },
+  "broward county metropolitan planning organization for": {
+   "name": "Broward County Metropolitan Planning Organization for",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 4000000.0,
+     "text": "TPMRG0624 2 C24168 WHEREAS, it is the responsibility of the City of Sunrise to maintain or coordinate the maintenance of the roadways after a project\u2019s completion. NOW THEREFORE, BE IT RESOLVED BY THE CITY COMMISSION OF THE CITY OF SUNRISE, FLORIDA: Section 1. The foregoing Whereas clauses are hereb",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1018"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 4000000.0
+  },
+  "applicant": {
+   "name": "Applicant",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "(Form Rev. 07-2022) FLORIDA HOUSING FINANCE CORPORATION LOCAL GOVERNMENT VERIFICATION OF CONTRIBUTION \u2013 LOAN FORM Name of Development: _______________________________________________________________________________ Development Location: _______________________________________________________________",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1015"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "general capital improvements fund": {
+   "name": "General Capital Improvements Fund",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 475000.0,
+     "text": "This item recognizes the appropriation of fund balance in the amount of $475,000 and transfers funding to the General Capital Improvements Fund (325) to support additional construction costs, updates to City Hall, related to Project #006207 - Municipal Campus Expansion.",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1009"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 475000.0
+  },
+  "water wastewater capital projects fund": {
+   "name": "Water and Wastewater Capital Projects Fund",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": 3350000.0,
+     "text": "This item recognizes the appropriation of fund balance in the amount of $3,350,000 and transfers funding to the Water and Wastewater Capital Projects Fund (465) to support additional construction costs related to Project #5169ST -SPT WTP Improvements Phase 1.",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1009"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 3350000.0
+  },
+  "sawgrass utility complex": {
+   "name": "Sawgrass Utility Complex",
+   "awards": [
+    {
+     "entity_id": "m-sunrise",
+     "government": "Sunrise",
+     "meeting_date": null,
+     "amount": null,
+     "text": "SUNRISE, FLORIDA RESOLUTION NO. _____ A RESOLUTION OF THE CITY OF SUNRISE, FLORIDA, APPROVING AN \u201cINTERLOCAL AGREEMENT BETWEEN BROWARD COUNTY AND CITY OF SUNRISE FOR BROWARD COUNTYWIDE INTEGRATED WATER RESOURCE PLAN FUNDING\u201d; AND PROVIDING AN EFFECTIVE DATE. WHEREAS, the Broward Countywide Integrate",
+     "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1009"
+    }
+   ],
+   "governments": [
+    "Sunrise"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "community development block grant fy": {
+   "name": "Community Development Block Grant FY",
+   "awards": [
+    {
+     "entity_id": "m-boyntonbeach",
+     "government": "Boynton Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "A. Discussion on the funding recommendations made by staff for the Community Development Block Grant FY 2025 (October 1, 2025, to September 30, 2026) annual allocation.",
+     "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=281"
+    }
+   ],
+   "governments": [
+    "Boynton Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "cip fy": {
+   "name": "CIP FY",
+   "awards": [
+    {
+     "entity_id": "m-delraybeach",
+     "government": "Delray Beach",
+     "meeting_date": null,
+     "amount": 62500.0,
+     "text": "November 18, 2026Community Redevelopment Agency CRA Meeting ACCEPTANCE OF SOLID WASTE AUTHORITY OF PALM BEACH COUNTY\u2019S BLIGHTED AND DISTRESSED PROPERTY CLEAN-UP GRANT OF $62,500 - CRA-PROPERTY OWNED LOCATED APPROXIMATELY AT LAKE IDA ROAD AND ROOSEVELT AVENUE 7C. Recommendation: Accept the Solid Wast",
+     "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&event_id=2523"
+    }
+   ],
+   "governments": [
+    "Delray Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 62500.0
+  },
+  "capital improvement program": {
+   "name": "Capital Improvement Program",
+   "awards": [
+    {
+     "entity_id": "m-delraybeach",
+     "government": "Delray Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Sponsors: Public Works Department and Purchasing Department Agenda Cover Report SS 2026-004 - SSES_Repair Invoice SS 2026-004 - SSES_Repair Invoice (Settlement) SS 2026-004 - Resolution No. 12-26 SS 2026-004 - Agreement Attachments: APPROVAL OF AN INTERLOCAL AGREEMENT BETWEEN THE CITY OF DELRAY BEAC",
+     "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&event_id=2524"
+    }
+   ],
+   "governments": [
+    "Delray Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "lake jesup lake monroe resolution no": {
+   "name": "Lake Jesup and Lake Monroe and Resolution No",
+   "awards": [
+    {
+     "entity_id": "m-sanford",
+     "government": "Sanford",
+     "meeting_date": null,
+     "amount": null,
+     "text": "City staff recommends that the City Commission adopt Resolution No. 2026-3520 approving the FDEP Grant Agreement pertaining to nutrient reduction relating to Lake Jesup and Lake Monroe and Resolution No. 2026-3521 approving the requisite budget amendment and 8",
+     "link": "https://sanfordfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=448"
+    }
+   ],
+   "governments": [
+    "Sanford"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "downtown sanford marina": {
+   "name": "Downtown Sanford Marina",
+   "awards": [
+    {
+     "entity_id": "m-sanford",
+     "government": "Sanford",
+     "meeting_date": null,
+     "amount": null,
+     "text": "City staff recommends that the City Commission approve Resolution 26-3513 for the FDEP grant agreement and associated resolution for the Downtown Sanford Marina existing stationary sewer pump out station and authorize all necessary implementing administrative actions such as procurements.",
+     "link": "https://sanfordfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=442"
+    }
+   ],
+   "governments": [
+    "Sanford"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "images": {
+   "name": "Images",
+   "awards": [
+    {
+     "entity_id": "m-sanford",
+     "government": "Sanford",
+     "meeting_date": null,
+     "amount": null,
+     "text": "7.H Funding for Images for 2027 Sanford Historic Trust Calendar",
+     "link": "https://sanfordfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=432"
+    }
+   ],
+   "governments": [
+    "Sanford"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "chain lakes park": {
+   "name": "Chain of Lakes Park",
+   "awards": [
+    {
+     "entity_id": "m-winterhaven",
+     "government": "Winter Haven",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Polk County - Equipment Donation to the Chain of Lakes Park via Interlocal Agreement",
+     "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=645"
+    }
+   ],
+   "governments": [
+    "Winter Haven"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "properties located": {
+   "name": "Properties Located",
+   "awards": [
+    {
+     "entity_id": "m-marcoisland",
+     "government": "Marco Island",
+     "meeting_date": null,
+     "amount": 198100.0,
+     "text": "15. Resolutions & City Council Items Termination Request of a Unity of Title for the Properties Located at 967 and 977 Iris Ct., Marco Island, FL 34145 - Mary P. Holden, Planning Manager, Community Affairs/Growth Management a. ID 26-5962 Staff Report Termination of Unity of Title Draft Letter to Cit",
+     "link": "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2115"
+    }
+   ],
+   "governments": [
+    "Marco Island"
+   ],
+   "award_count": 1,
+   "total_amount": 198100.0
+  },
+  "execute state florida division emergency management federally funded": {
+   "name": "Execute the State of Florida Division of Emergency Management Federally-Funded",
+   "awards": [
+    {
+     "entity_id": "m-venice",
+     "government": "Venice",
+     "meeting_date": null,
+     "amount": 204010.0,
+     "text": "B. CITY MANAGER Engineering 26-0799 Authorize the Mayor to Execute the State of Florida Division of Emergency Management Federally-Funded Subaward (Grant #4673-305-P31) for $150,000.00 to Produce a Watershed Master Plan (WMP) for Credit Under Community Rating System (CRS) Memorandum Grant Agreement ",
+     "link": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=2004"
+    }
+   ],
+   "governments": [
+    "Venice"
+   ],
+   "award_count": 1,
+   "total_amount": 204010.0
+  },
+  "public transportation grant agreement for project number": {
+   "name": "Public Transportation Grant Agreement for Project Number",
+   "awards": [
+    {
+     "entity_id": "m-venice",
+     "government": "Venice",
+     "meeting_date": null,
+     "amount": null,
+     "text": "B. RESOLUTIONS RES. NO. 2026-18 A Resolution of the City of Venice, Florida, Approving Amendment No. 4 to the Public Transportation Grant Agreement for Project Number 452977-1-94-01 by and Between the State of Florida Department of Transportation and the City of Venice, Florida for the Venice Munici",
+     "link": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=2004"
+    }
+   ],
+   "governments": [
+    "Venice"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "expansion fbo apron": {
+   "name": "Expansion of FBO Apron",
+   "awards": [
+    {
+     "entity_id": "m-lakewales",
+     "government": "Lake Wales",
+     "meeting_date": null,
+     "amount": null,
+     "text": "The City Commission will consider authorizing Resolution 2026-16 for the termination of the public transportation grant agreement with FDOT for the Expansion of FBO Apron at the Lake Wales Municipal Airport.",
+     "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=1038"
+    }
+   ],
+   "governments": [
+    "Lake Wales"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "frdap grant funds": {
+   "name": "FRDAP Grant Funds",
+   "awards": [
+    {
+     "entity_id": "m-lakewales",
+     "government": "Lake Wales",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Approval of Application for FRDAP Grant Funds to make improvements to Crystal Lake Park.",
+     "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=1032"
+    }
+   ],
+   "governments": [
+    "Lake Wales"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "phase ii": {
+   "name": "Phase II",
+   "awards": [
+    {
+     "entity_id": "m-lakewales",
+     "government": "Lake Wales",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Grove Manor Funding Contribution Request for Phase II",
+     "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=1028"
+    }
+   ],
+   "governments": [
+    "Lake Wales"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "keystone challenge fund for affordable housing": {
+   "name": "Keystone Challenge Fund for Affordable Housing",
+   "awards": [
+    {
+     "entity_id": "m-lakewales",
+     "government": "Lake Wales",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Donation of 106 C Street to Keystone Challenge Fund for Affordable Housing",
+     "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=1028"
+    }
+   ],
+   "governments": [
+    "Lake Wales"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "pollution prevention": {
+   "name": "Pollution Prevention",
+   "awards": [
+    {
+     "entity_id": "m-gulfport",
+     "government": "Gulfport",
+     "meeting_date": null,
+     "amount": null,
+     "text": "5.b. Resolution No. 2021-05: A Resolution authorizing the City Manager to provide additional funding to the Pollution Prevention (P2) Project - Private Lateral Replacement Assistance Program; and providing for an associated budget amendment.",
+     "link": "https://gulfport.granicus.com/AgendaViewer.php?view_id=6&clip_id=1304"
+    }
+   ],
+   "governments": [
+    "Gulfport"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "extension": {
+   "name": "Extension",
+   "awards": [
+    {
+     "entity_id": "m-wintersprings",
+     "government": "Winter Springs",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Police Station Safe Room Grant Funding Modification for Extension - HMGP",
+     "link": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1224"
+    }
+   ],
+   "governments": [
+    "Winter Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "calendar year january": {
+   "name": "Calendar Year January",
+   "awards": [
+    {
+     "entity_id": "m-edgewater",
+     "government": "Edgewater",
+     "meeting_date": null,
+     "amount": null,
+     "text": "8. CONSENT AGENDA All matters listed under the consent agenda are considered to be routine by the City Council and will be acted upon by one motion. There will be no separate discussion of these items unless discussion is desired by a member of the Council, in which case the Mayor will remove that i",
+     "link": "https://cityofedgewater.granicus.com/AgendaViewer.php?view_id=2&clip_id=1789"
+    }
+   ],
+   "governments": [
+    "Edgewater"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "funding": {
+   "name": "Funding",
+   "awards": [
+    {
+     "entity_id": "c-okeechobee",
+     "government": "Okeechobee County",
+     "meeting_date": null,
+     "amount": 8125.0,
+     "text": "That the Board of County Commissioners approve the ratification of the submission of Southwest Florida Healthcare Coalition Request for Funding through the Health Planning Council of Southwest Florida, for Okeechobee County Fire Rescue Regional First Responder Behavioral Wellness and Critical Incide",
+     "link": "https://okeechobee.granicus.com/AgendaViewer.php?view_id=1&event_id=392"
+    }
+   ],
+   "governments": [
+    "Okeechobee County"
+   ],
+   "award_count": 1,
+   "total_amount": 8125.0
+  },
+  "elderly": {
+   "name": "Elderly",
+   "awards": [
+    {
+     "entity_id": "c-okeechobee",
+     "government": "Okeechobee County",
+     "meeting_date": null,
+     "amount": 89280.0,
+     "text": "That the Board of County Commissioners approve and authorize the Chairman to execute the Home Care for the Elderly (HCE) Standard Agreement (IH026-9400) - Amendment 001 with Area Agency on Aging (AAA) increasing the funding to $89,280 for the term July 1, 2026 to June 30, 2027.",
+     "link": "https://okeechobee.granicus.com/AgendaViewer.php?view_id=1&clip_id=4381"
+    }
+   ],
+   "governments": [
+    "Okeechobee County"
+   ],
+   "award_count": 1,
+   "total_amount": 89280.0
+  },
+  "fy2026": {
+   "name": "FY2026",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "11.a Approval of Resolution 2026-046 Grant Budget Amendments for FY2026 (Reginald James, Interim County Administrator/ Trudei Porter, Finance Director) 11.b Approval of Amendment 1 to the Emergency Employee Meals and Feeding Policy During Declared Emergencies and Natural Disasters (Reginald James, I",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&event_id=178"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "sheriff": {
+   "name": "Sheriff",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "10.a Approval of Budget Amendment #2026-063 and Resolution 2026-039 providing emergency funding to the Sheriff (Reginald James, Interim County Administrator/Louis Baptiste, Interim County Attorney/Rose Raynak, Finance Director)",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=183"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "contract": {
+   "name": "Contract",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "B. Motion to approve Modification #3 to Contract # H0987 with the Division of Emergency Management HMGP Grant Project # 4806-037-R for the Hardee County Building Department Generator; authorizing the County Manager or Chair to sign any necessary documents in furtherance thereof, and to expend funds ",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=450"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "resilient florida infrastructure grants": {
+   "name": "Resilient Florida Infrastructure Grants",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": 10930406.0,
+     "text": "D. Motion to ratify the submission and acceptance of the State of Florida Department of Environmental Protection Funding for Resilient Florida Infrastructure Grants application for the Heard Bridge and Overflow Improvements in the amount of $10,930,406; authorizing the County Manager or Chair to exe",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=434"
+    },
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": 11000000.0,
+     "text": "F. Motion to ratify the submission and acceptance of the State of Florida Department of Environmental Protection Funding for Resilient Florida Infrastructure Grants application for the Hardee County Regional Landfill in the amount of $11,000,000; authorizing the County Manager or Chair to sign any n",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=434"
+    },
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": 7100712.0,
+     "text": "C. Motion to ratify the submission and acceptance of the State of Florida Department of Environmental Protection Funding for Resilient Florida Infrastructure Grants application for the Griffin Road Bridge Improvements in the amount of $7,100,712; authorizing the County Manager or Chair to execute an",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=434"
+    },
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": 4713618.0,
+     "text": "B. Motion to ratify the submission and acceptance of the State of Florida Department of Environmental Protection Funding for Resilient Florida Infrastructure Grants application for the Hobb Road Bridge Improvements in the amount of $4,713,618; authorizing the County Manager or Chair is sign any nece",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=434"
+    },
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": 1500000.0,
+     "text": "E. Motion to ratify the submission and acceptance of the State of Florida Department of Environmental Protection Funding for Resilient Florida Infrastructure Grants application for the Hardee County Health Department Hardening Project in the amount of $1,500,000; authorizing the County Manager or Ch",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=434"
+    },
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": 250000.0,
+     "text": "A. Motion to ratify the submission and acceptance of the State of Florida Department of Environmental Protection Funding for Resilient Florida Infrastructure Grants application for the Hardee County Courthouse Hardening Project in the amount of $250,000; authorizing the County Manager or Chair to si",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=434"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 6,
+   "total_amount": 35494736.0
   }
  },
- "generated_utc": "2026-11-15T15:58:09+00:00",
+ "generated_utc": "2026-11-16T15:59:27+00:00",
  "multi_government": [
   "section",
   "contractor",
   "american",
   "cra board",
+  "u s department housing urban development",
   "grantee",
   "agreement",
   "chapter",
@@ -9019,7 +10057,6 @@
   "supplier",
   "sourcewell",
   "florida department transportation",
-  "u s department housing urban development",
   "interlocal agreement"
  ]
 }
