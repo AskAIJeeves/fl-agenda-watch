@@ -267,17 +267,6 @@
    "notes": "added 2026-11-16 from Granicus discovery probe"
   },
   {
-   "entity_id": "m-deland",
-   "name": "DeLand",
-   "platform": "granicus",
-   "listing_urls": [
-    "https://delandfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
-   ],
-   "follow": "",
-   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
-   "notes": "added 2026-11-16 from Granicus discovery probe"
-  },
-  {
    "entity_id": "m-marcoisland",
    "name": "Marco Island",
    "platform": "granicus",
@@ -371,17 +360,6 @@
    "platform": "granicus",
    "listing_urls": [
     "https://safetyharbor.granicus.com/ViewPublisherRSS.php?view_id=6&mode=agendas"
-   ],
-   "follow": "",
-   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
-   "notes": "added 2026-11-16 from Granicus discovery probe"
-  },
-  {
-   "entity_id": "m-templeterrace",
-   "name": "Temple Terrace",
-   "platform": "granicus",
-   "listing_urls": [
-    "https://templeterrace.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
    ],
    "follow": "",
    "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
@@ -536,17 +514,6 @@
    "platform": "granicus",
    "listing_urls": [
     "https://okeechobee.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
-   ],
-   "follow": "",
-   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
-   "notes": "added 2026-11-16 from Granicus discovery probe"
-  },
-  {
-   "entity_id": "c-desoto",
-   "name": "DeSoto County",
-   "platform": "granicus",
-   "listing_urls": [
-    "https://desotobocc.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
    ],
    "follow": "",
    "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
@@ -900,6 +867,16 @@
    "entity_id": "c-suwannee",
    "name": "Suwannee County",
    "tenant": "suwanneecofl"
+  },
+  {
+   "entity_id": "m-deland",
+   "name": "DeLand",
+   "tenant": "delandfl"
+  },
+  {
+   "entity_id": "m-templeterrace",
+   "name": "Temple Terrace",
+   "tenant": "templeterracefl"
   }
  ],
  "_platforms_checked": "CivicPlus Agenda Center RSS feeds were empty for Tarpon Springs, Safety Harbor, Oldsmar, St. Pete Beach (they use other systems). Oldsmar uses CivicWeb (myoldsmar.civicweb.net).",

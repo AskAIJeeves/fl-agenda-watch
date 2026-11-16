@@ -197,6 +197,20 @@
    "candidates": [
     "pompano"
    ]
+  },
+  {
+   "entity_id": "c-brevard",
+   "name": "Brevard County",
+   "candidates": [
+    "brevardfl"
+   ]
+  },
+  {
+   "entity_id": "c-desoto",
+   "name": "DeSoto County",
+   "candidates": [
+    "desotobocc"
+   ]
   }
  ]
 }
