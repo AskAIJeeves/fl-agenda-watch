@@ -12,6 +12,8 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 from fetch_agendas import KEYWORDS
 import rules  # shared filters
+T0 = time.time()
+SOURCES_BUDGET = 25 * 60   # listing-page sources stop fetching new PDFs after this; the rest wait for the next run
 
 ACTION = re.compile(r"(?i)\b(approv\w*|award\w*|authoriz\w*|not[- ]to[- ]exceed|contract|agreement|amendment|change order|purchase|resolution|ordinance|appropriat\w*|bond|loan)\b")
 UA = {"User-Agent": "Mozilla/5.0 (fl-agenda-watch; public records research)"}
@@ -257,6 +259,9 @@ def main():
             return None
         recent = [c for c in cands if not udate(c[0]) or (now - udate(c[0])).days <= 45]
         new = [c for c in recent if c[0] not in seen][: cfg["max_new_pdfs_per_run"]]
+        if time.time() - T0 > SOURCES_BUDGET:
+            d.setdefault("errors", []).append("time budget reached; new PDFs deferred to next run")
+            new = []
         for u, title, page in new:
             try:
                 data = fetch(u, binary=True)

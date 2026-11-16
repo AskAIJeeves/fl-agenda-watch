@@ -144,6 +144,446 @@
    ],
    "follow": "(?i)(agenda[^/]*\\.asp\\?|meeting[^/]*\\.asp)",
    "pdf": "(?i)(agenda[^/]*\\.pdf|fileparse\\.php|getdoc|/agendas?/[^ ]*\\.pdf)"
+  },
+  {
+   "entity_id": "m-weston",
+   "name": "Weston",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://weston.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-delraybeach",
+   "name": "Delray Beach",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://delraybeach.granicus.com/ViewPublisherRSS.php?view_id=3&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-sanford",
+   "name": "Sanford",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://sanfordfl.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-wellington",
+   "name": "Wellington",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://wellington.granicus.com/ViewPublisherRSS.php?view_id=3&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-margate",
+   "name": "Margate",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://margatefl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-coconutcreek",
+   "name": "Coconut Creek",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://coconutcreek.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-ocala",
+   "name": "Ocala",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://ocala.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-bradenton",
+   "name": "Bradenton",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://cityofbradenton.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-coralgables",
+   "name": "Coral Gables",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://coralgables.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-cutlerbay",
+   "name": "Cutler Bay",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://cutlerbay.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-winterhaven",
+   "name": "Winter Haven",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://winterhaven-fl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-deland",
+   "name": "DeLand",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://delandfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-marcoisland",
+   "name": "Marco Island",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://marcoisland.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-puntagorda",
+   "name": "Punta Gorda",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://puntagorda.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-venice",
+   "name": "Venice",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://venice.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-winterpark",
+   "name": "Winter Park",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://winterpark.granicus.com/ViewPublisherRSS.php?view_id=6&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-hallandalebeach",
+   "name": "Hallandale Beach",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://hallandalebeach.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-keywest",
+   "name": "Key West",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://keywestcity.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-lakewales",
+   "name": "Lake Wales",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://lakewales.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-newportrichey",
+   "name": "New Port Richey",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://cityofnewportrichey.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-safetyharbor",
+   "name": "Safety Harbor",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://safetyharbor.granicus.com/ViewPublisherRSS.php?view_id=6&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-gulfport",
+   "name": "Gulfport",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://gulfport.granicus.com/ViewPublisherRSS.php?view_id=6&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-templeterrace",
+   "name": "Temple Terrace",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://templeterrace.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-wintersprings",
+   "name": "Winter Springs",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://winterspringsfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-edgewater",
+   "name": "Edgewater",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://cityofedgewater.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-cocoabeach",
+   "name": "Cocoa Beach",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://cocoabeach.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-satellitebeach",
+   "name": "Satellite Beach",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://satellitebeach.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-stuart",
+   "name": "Stuart",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://cityofstuart.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-oaklandpark",
+   "name": "Oakland Park",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://oaklandparkfl.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-sweetwater",
+   "name": "Sweetwater",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://cityofsweetwater.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-palmettobay",
+   "name": "Palmetto Bay",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://palmettobay.granicus.com/ViewPublisherRSS.php?view_id=3&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-pinecrest",
+   "name": "Pinecrest",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://pinecrest.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "m-crystalriver",
+   "name": "Crystal River",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://crystalriverfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "c-hernando",
+   "name": "Hernando County",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://hernandocountyfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "c-monroe",
+   "name": "Monroe County",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://monroecountyfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "c-martin",
+   "name": "Martin County",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://martin.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "c-okeechobee",
+   "name": "Okeechobee County",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://okeechobee.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "c-desoto",
+   "name": "DeSoto County",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://desotobocc.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "c-gadsden",
+   "name": "Gadsden County",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://gadsdencountyfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "c-hardee",
+   "name": "Hardee County",
+   "platform": "granicus",
+   "listing_urls": [
+    "https://hardeecountyfl.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas"
+   ],
+   "follow": "",
+   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
+   "notes": "added 2026-11-16 from Granicus discovery probe"
   }
  ],
  "sequential": [
