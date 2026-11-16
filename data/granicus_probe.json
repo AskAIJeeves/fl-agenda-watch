@@ -1,0 +1,1487 @@
+{
+ "checked": 157,
+ "with_feeds": 48,
+ "results": [
+  {
+   "name": "Weston",
+   "subdomain": "weston",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 5,
+     "title": "City of Weston, FL.: Weston FL View Page (Agenda Feed)",
+     "url": "https://weston.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Delray Beach",
+   "subdomain": "delraybeach",
+   "feeds": [
+    {
+     "view_id": 2,
+     "items": 104,
+     "title": "City of Delray Beach, Florida: RETIRED old website Video and Audio (Agenda Feed)",
+     "url": "https://delraybeach.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    },
+    {
+     "view_id": 3,
+     "items": 104,
+     "title": "City of Delray Beach, Florida: Redesigned Tabbed View (Agenda Feed)",
+     "url": "https://delraybeach.granicus.com/ViewPublisherRSS.php?view_id=3&mode=agendas"
+    },
+    {
+     "view_id": 5,
+     "items": 104,
+     "title": "City of Delray Beach, Florida: Testing Template Designer View (Agenda Feed)",
+     "url": "https://delraybeach.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas"
+    },
+    {
+     "view_id": 6,
+     "items": 104,
+     "title": "City of Delray Beach, Florida: New View (Agenda Feed)",
+     "url": "https://delraybeach.granicus.com/ViewPublisherRSS.php?view_id=6&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Sanford",
+   "subdomain": "sanfordfl",
+   "feeds": [
+    {
+     "view_id": 2,
+     "items": 14,
+     "title": "City of Sanford, FL: City Commission View (Agenda Feed)",
+     "url": "https://sanfordfl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    },
+    {
+     "view_id": 3,
+     "items": 1,
+     "title": "City of Sanford, FL: test City Commission View (Agenda Feed)",
+     "url": "https://sanfordfl.granicus.com/ViewPublisherRSS.php?view_id=3&mode=agendas"
+    },
+    {
+     "view_id": 4,
+     "items": 14,
+     "title": "City of Sanford, FL: Commission Meetings View - New (Agenda Feed)",
+     "url": "https://sanfordfl.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Wellington",
+   "subdomain": "wellington",
+   "feeds": [
+    {
+     "view_id": 2,
+     "items": 102,
+     "title": "Village of Wellington, FL: New View (Agenda Feed)",
+     "url": "https://wellington.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    },
+    {
+     "view_id": 3,
+     "items": 102,
+     "title": "Village of Wellington, FL: Default View with Embedded Livestream (Agenda Feed)",
+     "url": "https://wellington.granicus.com/ViewPublisherRSS.php?view_id=3&mode=agendas"
+    },
+    {
+     "view_id": 4,
+     "items": 102,
+     "title": "Village of Wellington, FL: Section View (Agenda Feed)",
+     "url": "https://wellington.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas"
+    },
+    {
+     "view_id": 5,
+     "items": 6,
+     "title": "Village of Wellington, FL: Training (Agenda Feed)",
+     "url": "https://wellington.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Margate",
+   "subdomain": "margatefl",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 101,
+     "title": "Margate, FL: Default View (Agenda Feed)",
+     "url": "https://margatefl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Coconut Creek",
+   "subdomain": "coconutcreek",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 100,
+     "title": "Coconut Creek, FL: New View (Agenda Feed)",
+     "url": "https://coconutcreek.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Ocala",
+   "subdomain": "ocala",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 102,
+     "title": "Ocala, FL: Kirsten&apos;s Test for Training View (Agenda Feed)",
+     "url": "https://ocala.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    },
+    {
+     "view_id": 2,
+     "items": 11,
+     "title": "Ocala, FL: City Council (Agenda Feed)",
+     "url": "https://ocala.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    },
+    {
+     "view_id": 3,
+     "items": 101,
+     "title": "Ocala, FL: IQM2 Home Page (Agenda Feed)",
+     "url": "https://ocala.granicus.com/ViewPublisherRSS.php?view_id=3&mode=agendas"
+    },
+    {
+     "view_id": 4,
+     "items": 101,
+     "title": "Ocala, FL: IQM2 Meetings Page (Agenda Feed)",
+     "url": "https://ocala.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas"
+    },
+    {
+     "view_id": 5,
+     "items": 101,
+     "title": "Ocala, FL: New View (Agenda Feed)",
+     "url": "https://ocala.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas"
+    },
+    {
+     "view_id": 6,
+     "items": 101,
+     "title": "Ocala, FL: City Website View (Agenda Feed)",
+     "url": "https://ocala.granicus.com/ViewPublisherRSS.php?view_id=6&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Bradenton",
+   "subdomain": "cityofbradenton",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 103,
+     "title": "Bradenton, FL: Bradenton FL  Content (Agenda Feed)",
+     "url": "https://cityofbradenton.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    },
+    {
+     "view_id": 2,
+     "items": 44,
+     "title": "Bradenton, FL: Training Videos (Agenda Feed)",
+     "url": "https://cityofbradenton.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "St Cloud",
+   "subdomain": "stcloud",
+   "feeds": [
+    {
+     "view_id": 2,
+     "items": 9,
+     "title": "City of St. Cloud, FL: Training (Do Not Delete) (Agenda Feed)",
+     "url": "https://stcloud.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Coral Gables",
+   "subdomain": "coralgables",
+   "feeds": [
+    {
+     "view_id": 2,
+     "items": 108,
+     "title": "The City of Coral Gables, FL: Default View (Agenda Feed)",
+     "url": "https://coralgables.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    },
+    {
+     "view_id": 3,
+     "items": 108,
+     "title": "The City of Coral Gables, FL: Media Portal (Agenda Feed)",
+     "url": "https://coralgables.granicus.com/ViewPublisherRSS.php?view_id=3&mode=agendas"
+    },
+    {
+     "view_id": 5,
+     "items": 100,
+     "title": "The City of Coral Gables, FL: New View (Agenda Feed)",
+     "url": "https://coralgables.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Cutler Bay",
+   "subdomain": "cutlerbay",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 100,
+     "title": "Town of Cutler Bay: Cutler Bay Live Stream (Agenda Feed)",
+     "url": "https://cutlerbay.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Plant City",
+   "subdomain": "plantcity",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 4,
+     "title": "Plant City, FL: Test View (Agenda Feed)",
+     "url": "https://plantcity.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Winter Haven",
+   "subdomain": "winterhaven-fl",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 102,
+     "title": "Winter Haven, FL: Winter Haven FL View (Agenda Feed)",
+     "url": "https://winterhaven-fl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "DeLand",
+   "subdomain": "delandfl",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 100,
+     "title": "The City Of DeLand: Deland, FL View (Agenda Feed)",
+     "url": "https://delandfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Marco Island",
+   "subdomain": "marcoisland",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 101,
+     "title": "Marco Island: New View (Agenda Feed)",
+     "url": "https://marcoisland.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    },
+    {
+     "view_id": 2,
+     "items": 103,
+     "title": "Marco Island: Marco Island Web Page (Agenda Feed)",
+     "url": "https://marcoisland.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    },
+    {
+     "view_id": 3,
+     "items": 102,
+     "title": "Marco Island: Archives for Website (Agenda Feed)",
+     "url": "https://marcoisland.granicus.com/ViewPublisherRSS.php?view_id=3&mode=agendas"
+    },
+    {
+     "view_id": 4,
+     "items": 103,
+     "title": "Marco Island: Insite Archived View (Agenda Feed)",
+     "url": "https://marcoisland.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas"
+    },
+    {
+     "view_id": 5,
+     "items": 100,
+     "title": "Marco Island: Planning Board (Agenda Feed)",
+     "url": "https://marcoisland.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas"
+    },
+    {
+     "view_id": 6,
+     "items": 100,
+     "title": "Marco Island: Beautification Committee (Agenda Feed)",
+     "url": "https://marcoisland.granicus.com/ViewPublisherRSS.php?view_id=6&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Punta Gorda",
+   "subdomain": "puntagorda",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 105,
+     "title": "City of Punta Gorda, FL: New View (Agenda Feed)",
+     "url": "https://puntagorda.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Venice",
+   "subdomain": "venice",
+   "feeds": [
+    {
+     "view_id": 2,
+     "items": 103,
+     "title": "Venice, FL: New View (Agenda Feed)",
+     "url": "https://venice.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    },
+    {
+     "view_id": 3,
+     "items": 103,
+     "title": "Venice, FL: Beta View (Agenda Feed)",
+     "url": "https://venice.granicus.com/ViewPublisherRSS.php?view_id=3&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Winter Park",
+   "subdomain": "winterpark",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 100,
+     "title": "Winter Park, FL: City Commission (Agenda Feed)",
+     "url": "https://winterpark.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    },
+    {
+     "view_id": 2,
+     "items": 44,
+     "title": "Winter Park, FL: Planning &amp; Zoning Board (Agenda Feed)",
+     "url": "https://winterpark.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    },
+    {
+     "view_id": 3,
+     "items": 26,
+     "title": "Winter Park, FL: Parks &amp; Recreation Advisory Board (Agenda Feed)",
+     "url": "https://winterpark.granicus.com/ViewPublisherRSS.php?view_id=3&mode=agendas"
+    },
+    {
+     "view_id": 4,
+     "items": 100,
+     "title": "Winter Park, FL: Community Redevelopment Agency (CRA) (Agenda Feed)",
+     "url": "https://winterpark.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas"
+    },
+    {
+     "view_id": 6,
+     "items": 100,
+     "title": "Winter Park, FL: - ALL BOARDS &amp; COMMISSIONS - (Agenda Feed)",
+     "url": "https://winterpark.granicus.com/ViewPublisherRSS.php?view_id=6&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Riviera Beach",
+   "subdomain": "rivierabeach",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 1,
+     "title": "Riviera Beach, FL: City Council View (Agenda Feed)",
+     "url": "https://rivierabeach.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    },
+    {
+     "view_id": 2,
+     "items": 3,
+     "title": "Riviera Beach, FL: Training (Do Not Delete) (Agenda Feed)",
+     "url": "https://rivierabeach.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Hallandale Beach",
+   "subdomain": "hallandalebeach",
+   "feeds": [
+    {
+     "view_id": 2,
+     "items": 101,
+     "title": "Hallandale Beach, FL: Default View (Agenda Feed)",
+     "url": "https://hallandalebeach.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    },
+    {
+     "view_id": 3,
+     "items": 3,
+     "title": "Hallandale Beach, FL: Training Viewpage (Agenda Feed)",
+     "url": "https://hallandalebeach.granicus.com/ViewPublisherRSS.php?view_id=3&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Aventura",
+   "subdomain": "cityofaventura",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 5,
+     "title": "City of Aventura: New View (Agenda Feed)",
+     "url": "https://cityofaventura.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    },
+    {
+     "view_id": 2,
+     "items": 5,
+     "title": "City of Aventura: Legistar (Agenda Feed)",
+     "url": "https://cityofaventura.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Key West",
+   "subdomain": "keywestcity",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 102,
+     "title": "City of Key West, FL: New View (Agenda Feed)",
+     "url": "https://keywestcity.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Lake Wales",
+   "subdomain": "lakewales",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 100,
+     "title": "City of Lake Wales, FL: Lake Wales, FL View (Agenda Feed)",
+     "url": "https://lakewales.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "New Port Richey",
+   "subdomain": "cityofnewportrichey",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 101,
+     "title": "New Port Richey FL: New View (Agenda Feed)",
+     "url": "https://cityofnewportrichey.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    },
+    {
+     "view_id": 2,
+     "items": 77,
+     "title": "New Port Richey FL: Migration View (Agenda Feed)",
+     "url": "https://cityofnewportrichey.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Safety Harbor",
+   "subdomain": "safetyharbor",
+   "feeds": [
+    {
+     "view_id": 6,
+     "items": 104,
+     "title": "City of Safety Harbor, Florida: Default View (Agenda Feed)",
+     "url": "https://safetyharbor.granicus.com/ViewPublisherRSS.php?view_id=6&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Gulfport",
+   "subdomain": "gulfport",
+   "feeds": [
+    {
+     "view_id": 6,
+     "items": 100,
+     "title": "City of Gulfport: City of Gulfport - City Council (OLD) 7/2019 - Inception (Agenda Feed)",
+     "url": "https://gulfport.granicus.com/ViewPublisherRSS.php?view_id=6&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Temple Terrace",
+   "subdomain": "templeterrace",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 5,
+     "title": "Temple Terrace, FL: Temple Terrace FL (Agenda Feed)",
+     "url": "https://templeterrace.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    },
+    {
+     "view_id": 2,
+     "items": 5,
+     "title": "Temple Terrace, FL: Training Content (Agenda Feed)",
+     "url": "https://templeterrace.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Winter Springs",
+   "subdomain": "winterspringsfl",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 103,
+     "title": "City of Winter Springs, FL: Public View (Agenda Feed)",
+     "url": "https://winterspringsfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Edgewater",
+   "subdomain": "cityofedgewater",
+   "feeds": [
+    {
+     "view_id": 2,
+     "items": 101,
+     "title": "City of Edgewater, FL: New View (Agenda Feed)",
+     "url": "https://cityofedgewater.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Cocoa Beach",
+   "subdomain": "cocoabeach",
+   "feeds": [
+    {
+     "view_id": 2,
+     "items": 100,
+     "title": "City of Cocoa Beach, Florida: City of Cocoa Beach Webcast Guide (Agenda Feed)",
+     "url": "https://cocoabeach.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    },
+    {
+     "view_id": 4,
+     "items": 100,
+     "title": "City of Cocoa Beach, Florida: Main View (Agenda Feed)",
+     "url": "https://cocoabeach.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas"
+    },
+    {
+     "view_id": 5,
+     "items": 100,
+     "title": "City of Cocoa Beach, Florida: Videos on Demand (Agenda Feed)",
+     "url": "https://cocoabeach.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas"
+    },
+    {
+     "view_id": 6,
+     "items": 100,
+     "title": "City of Cocoa Beach, Florida: Download View (Agenda Feed)",
+     "url": "https://cocoabeach.granicus.com/ViewPublisherRSS.php?view_id=6&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Satellite Beach",
+   "subdomain": "satellitebeach",
+   "feeds": [
+    {
+     "view_id": 2,
+     "items": 100,
+     "title": "Satellite Beach, FL: SB Viewpage (Agenda Feed)",
+     "url": "https://satellitebeach.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    },
+    {
+     "view_id": 5,
+     "items": 100,
+     "title": "Satellite Beach, FL: SB View Page - not published (Agenda Feed)",
+     "url": "https://satellitebeach.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Sebastian",
+   "subdomain": "cityofsebastian",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 1,
+     "title": "City of Sebastian: Sebastian FL View Page (Agenda Feed)",
+     "url": "https://cityofsebastian.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    },
+    {
+     "view_id": 2,
+     "items": 12,
+     "title": "City of Sebastian: Training View Page (Agenda Feed)",
+     "url": "https://cityofsebastian.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Stuart",
+   "subdomain": "cityofstuart",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 92,
+     "title": "City of Stuart, FL: City of Stuart, FL View (Agenda Feed)",
+     "url": "https://cityofstuart.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Oakland Park",
+   "subdomain": "oaklandparkfl",
+   "feeds": [
+    {
+     "view_id": 2,
+     "items": 102,
+     "title": "City of Oakland Park: Oakland Park View Page (Agenda Feed)",
+     "url": "https://oaklandparkfl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    },
+    {
+     "view_id": 4,
+     "items": 102,
+     "title": "City of Oakland Park: Oakland Park View Page - iframe (Agenda Feed)",
+     "url": "https://oaklandparkfl.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas"
+    },
+    {
+     "view_id": 5,
+     "items": 102,
+     "title": "City of Oakland Park: New View Website Search (Agenda Feed)",
+     "url": "https://oaklandparkfl.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Sweetwater",
+   "subdomain": "cityofsweetwater",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 7,
+     "title": "The City of Sweetwater, FL: New View (Agenda Feed)",
+     "url": "https://cityofsweetwater.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Palmetto Bay",
+   "subdomain": "palmettobay",
+   "feeds": [
+    {
+     "view_id": 3,
+     "items": 100,
+     "title": "The Village of Palmetto Bay, FL: Main View (Agenda Feed)",
+     "url": "https://palmettobay.granicus.com/ViewPublisherRSS.php?view_id=3&mode=agendas"
+    },
+    {
+     "view_id": 5,
+     "items": 100,
+     "title": "The Village of Palmetto Bay, FL: Non-video view (Agenda Feed)",
+     "url": "https://palmettobay.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Pinecrest",
+   "subdomain": "pinecrest",
+   "feeds": [
+    {
+     "view_id": 2,
+     "items": 100,
+     "title": "Village of Pinecrest, FL: Village of Pinecrest Archives (Agenda Feed)",
+     "url": "https://pinecrest.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    },
+    {
+     "view_id": 4,
+     "items": 100,
+     "title": "Village of Pinecrest, FL: Insite - Archive Tab (Agenda Feed)",
+     "url": "https://pinecrest.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Crystal River",
+   "subdomain": "crystalriverfl",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 100,
+     "title": "Crystal River, FL: City Council View (Agenda Feed)",
+     "url": "https://crystalriverfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    },
+    {
+     "view_id": 2,
+     "items": 9,
+     "title": "Crystal River, FL: Training Content (Agenda Feed)",
+     "url": "https://crystalriverfl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Hernando County",
+   "subdomain": "hernandocountyfl",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 103,
+     "title": "Hernando County, FL: Public View (Agenda Feed)",
+     "url": "https://hernandocountyfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Monroe County",
+   "subdomain": "monroecountyfl",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 100,
+     "title": "Monroe County, FL: Test View (Agenda Feed)",
+     "url": "https://monroecountyfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Martin County",
+   "subdomain": "martin",
+   "feeds": [
+    {
+     "view_id": 2,
+     "items": 101,
+     "title": "Martin County, Florida: Default View (Agenda Feed)",
+     "url": "https://martin.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Okeechobee County",
+   "subdomain": "okeechobee",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 103,
+     "title": "Okeechobee County FL: BOCC View (Agenda Feed)",
+     "url": "https://okeechobee.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    },
+    {
+     "view_id": 2,
+     "items": 5,
+     "title": "Okeechobee County FL: Training Videos  (Agenda Feed)",
+     "url": "https://okeechobee.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    },
+    {
+     "view_id": 4,
+     "items": 100,
+     "title": "Okeechobee County FL: Migration (Agenda Feed)",
+     "url": "https://okeechobee.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas"
+    },
+    {
+     "view_id": 5,
+     "items": 100,
+     "title": "Okeechobee County FL: New View test (Agenda Feed)",
+     "url": "https://okeechobee.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "DeSoto County",
+   "subdomain": "desotobocc",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 6,
+     "title": "Desoto County: New View (Agenda Feed)",
+     "url": "https://desotobocc.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Columbia County",
+   "subdomain": "columbiaco",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 1,
+     "title": "Columbia County, OR: Columbia County OR (Agenda Feed)",
+     "url": "https://columbiaco.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Jackson County",
+   "subdomain": "jacksonco",
+   "feeds": [
+    {
+     "view_id": 2,
+     "items": 102,
+     "title": "Jackson County: County Legislature View (Agenda Feed)",
+     "url": "https://jacksonco.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    },
+    {
+     "view_id": 3,
+     "items": 100,
+     "title": "Jackson County: Test View (Agenda Feed)",
+     "url": "https://jacksonco.granicus.com/ViewPublisherRSS.php?view_id=3&mode=agendas"
+    },
+    {
+     "view_id": 4,
+     "items": 102,
+     "title": "Jackson County: Upcoming Events for Insite (Agenda Feed)",
+     "url": "https://jacksonco.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas"
+    },
+    {
+     "view_id": 5,
+     "items": 100,
+     "title": "Jackson County: TEST TEST (Agenda Feed)",
+     "url": "https://jacksonco.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Gadsden County",
+   "subdomain": "gadsdencountyfl",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 101,
+     "title": "Gadsden County, FL: All Meeting Bodies (Agenda Feed)",
+     "url": "https://gadsdencountyfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    },
+    {
+     "view_id": 2,
+     "items": 9,
+     "title": "Gadsden County, FL: Granicus Training Do Not Use (Agenda Feed)",
+     "url": "https://gadsdencountyfl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Washington County",
+   "subdomain": "washingtonco",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 100,
+     "title": "Washington County, MN: County Board Meeting Webstream (Agenda Feed)",
+     "url": "https://washingtonco.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Hardee County",
+   "subdomain": "hardeecountyfl",
+   "feeds": [
+    {
+     "view_id": 1,
+     "items": 101,
+     "title": "Hardee County : All Boards View (Agenda Feed)",
+     "url": "https://hardeecountyfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
+    },
+    {
+     "view_id": 2,
+     "items": 7,
+     "title": "Hardee County : Training Videos (Agenda Feed)",
+     "url": "https://hardeecountyfl.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
+    },
+    {
+     "view_id": 3,
+     "items": 20,
+     "title": "Hardee County : Economic Development Authority (Agenda Feed)",
+     "url": "https://hardeecountyfl.granicus.com/ViewPublisherRSS.php?view_id=3&mode=agendas"
+    },
+    {
+     "view_id": 4,
+     "items": 101,
+     "title": "Hardee County : County Board of Commissioners (Agenda Feed)",
+     "url": "https://hardeecountyfl.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas"
+    },
+    {
+     "view_id": 5,
+     "items": 44,
+     "title": "Hardee County : Economic Development Council - Industrial Development Authority (Agenda Feed)",
+     "url": "https://hardeecountyfl.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas"
+    }
+   ],
+   "status": "feeds"
+  },
+  {
+   "name": "Hialeah",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Pompano Beach",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "West Palm Beach",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Palm Bay",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Lauderhill",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Homestead",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Jupiter",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Port Orange",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Sarasota",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Palm Beach Gardens",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Bonita Springs",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Apopka",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "North Miami",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Fort Myers",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Ocoee",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Winter Garden",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Altamonte Springs",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Oviedo",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Miami Lakes",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Titusville",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Ormond Beach",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Panama City",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Panama City Beach",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Fort Pierce",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Vero Beach",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Naples",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Lake Worth Beach",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Greenacres",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Royal Palm Beach",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Sunny Isles Beach",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "North Miami Beach",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Destin",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Fort Walton Beach",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Crestview",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Leesburg",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Clermont",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Eustis",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Mount Dora",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Haines City",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Bartow",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Zephyrhills",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Oldsmar",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Sebring",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "St Augustine",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Fernandina Beach",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Jacksonville Beach",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Atlantic Beach",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Lake Mary",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Casselberry",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Longwood",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "New Smyrna Beach",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Cocoa",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Rockledge",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Lake Park",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "North Lauderdale",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Lauderdale Lakes",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Wilton Manors",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Dania Beach",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Cooper City",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Parkland",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Lighthouse Point",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Miami Shores",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Opa-locka",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Florida City",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Belle Glade",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Lake City",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Palatka",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Niceville",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Gulf Breeze",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Lynn Haven",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Callaway",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Tavares",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Groveland",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Minneola",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Auburndale",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Dade City",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Brooksville",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Inverness",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Port St Joe",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Arcadia",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Wildwood",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Collier County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Charlotte County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Citrus County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Marion County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Sumter County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Brevard County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Flagler County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Clay County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Nassau County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Putnam County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Leon County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Bay County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Santa Rosa County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Walton County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Indian River County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "St Lucie County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Highlands County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Hendry County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Levy County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Wakulla County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Baker County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Bradford County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Union County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Suwannee County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Gulf County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Franklin County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Holmes County",
+   "subdomain": null,
+   "status": "not_found"
+  },
+  {
+   "name": "Glades County",
+   "subdomain": null,
+   "status": "not_found"
+  }
+ ]
+}
