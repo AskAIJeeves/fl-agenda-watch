@@ -43,7 +43,7 @@ def main():
     db.execute("ALTER TABLE items ADD COLUMN project_id TEXT")
     db.executemany("UPDATE items SET project_id=? WHERE key=?", [(v, k) for k, v in pj["item_project"].items()])
     db.execute("CREATE TABLE projects (project_id TEXT PRIMARY KEY, government TEXT, name TEXT, items INTEGER, "
-               "spend_total REAL, receipts_total REAL, total_method TEXT, first_date TEXT, last_date TEXT)")
+               "tracked_spend_total REAL, tracked_receipts_total REAL, total_method TEXT, first_date TEXT, last_date TEXT)")
     db.executemany("INSERT INTO projects VALUES (?,?,?,?,?,?,?,?,?)",
                    [(k, v["government"], v["name"], v["items"], v["spend_total"], v["receipts_total"], v["total_method"],
                      v["first_date"], v["last_date"]) for k, v in pj["projects"].items()])
