@@ -36,6 +36,20 @@ def norm(name):
     n = re.sub(r"(?i)\b(inc|incorporated|corp|corporation|llc|co|the|of|and|&)\b\.?", " ", name or "")
     return " ".join(re.sub(r"[^a-z0-9 ]", " ", n.lower()).split())
 
+RECEIPT = re.compile(r"(?i)\b(accept\w*|receiv\w*|revenue\s+from|proceeds?\s+(from|of)|sale\s+of\s+(city|county|surplus|the\s+(city|county))|"
+                     r"sell\w*\s+(city|county|surplus)|purchase\s+and\s+sale\s+agreement\s+(with|for)\s+the\s+sale|lease\s+(revenue|income)|"
+                     r"paid\s+to\s+the\s+(city|county)|reimburse\w*\s+(to\s+)?the\s+(city|county)|grant\w*\s+from|awarded\s+to\s+the\s+(city|county)|"
+                     r"settlement\s+(payment\s+)?to\s+the\s+(city|county)|donation\s+to\s+the\s+(city|county))\b")
+SPEND = re.compile(r"(?i)\b(purchase\s+(of|order)|award\w*\s+(of\s+)?(a\s+)?(contract|bid)|expend\w*|appropriat\w*|pay(ment)?\s+(to|of)|"
+                   r"contract\s+with|not\s+to\s+exceed|funding\s+(agreement|to)|grant\s+(to|agreement\s+with))\b")
+
+
+def flow(text):
+    """'in' when the money appears to come to the government, 'out' when spent, 'mixed' when both."""
+    rin, rout = bool(RECEIPT.search(text)), bool(SPEND.search(text))
+    return "mixed" if rin and rout else "in" if rin else "out"
+
+
 def classify(text, titles_only=False):
     """Return None to drop, else a dict of tags. Wide net: $25K+ spending actions, any outgoing grant, any bypass of competition."""
     if not text or len(text) < 30: return None
@@ -55,5 +69,6 @@ def classify(text, titles_only=False):
     if not keep: return None
     score = sum(W.get(k, 0) for k in sig) + (W["outgoing_grant"] if outgoing else 0) + (W["bypass"] if bypass else 0)
     score += round(math.log10(top) - 4, 1) if top and top > 10000 else 0      # $100K +1, $1M +2, $10M +3
-    return {"max_amount": top, "signals": sig, "outgoing_grant": outgoing, "bypass_competition": bypass,
+    fl = flow(text)
+    return {"max_amount": top, "flow": fl, "signed_amount": (-top if top and fl == "in" else top), "signals": sig, "outgoing_grant": outgoing, "bypass_competition": bypass,
             "recipient": recipient(text) if outgoing else None, "signal_score": round(score, 1)}

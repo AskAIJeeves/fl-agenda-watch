@@ -13,7 +13,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "data", "fl_agenda.sqlite")
 
 COLS = ["entity_id", "government", "client", "body", "meeting_date", "agenda_number", "file_number",
-        "title", "max_amount", "signal_score", "outgoing_grant", "bypass_competition", "recipient",
+        "title", "max_amount", "flow", "signed_amount", "signal_score", "outgoing_grant", "bypass_competition", "recipient",
         "signals", "keywords", "item_url", "meeting_url", "agenda_pdf", "action", "passed", "tally",
         "source_feed", "first_seen_utc", "last_changed_utc"]
 
@@ -23,7 +23,7 @@ def main():
         os.remove(OUT)
     db = sqlite3.connect(OUT)
     db.execute("CREATE TABLE items (key TEXT PRIMARY KEY, " + ", ".join(
-        f"{c} {'REAL' if c in ('max_amount', 'signal_score') else 'INTEGER' if c in ('outgoing_grant', 'bypass_competition') else 'TEXT'}"
+        f"{c} {'REAL' if c in ('max_amount', 'signal_score', 'signed_amount') else 'INTEGER' if c in ('outgoing_grant', 'bypass_competition') else 'TEXT'}"
         for c in COLS) + ")")
     n = 0
     for f in sorted(glob.glob(os.path.join(ROOT, "data", "archive", "*.json"))):

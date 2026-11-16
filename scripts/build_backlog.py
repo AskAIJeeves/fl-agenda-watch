@@ -65,7 +65,7 @@ def main():
             seen.add(dk)
             out.append({"id": k, "group": g, "government": it.get("government"), "body": it.get("body"),
                         "meeting_date": it.get("meeting_date"), "stage": it["stage"], "categories": it["categories"],
-                        "amount": it.get("max_amount"), "passed": it.get("passed"), "recipient": it.get("recipient"),
+                        "amount": it.get("max_amount"), "flow": it.get("flow"), "signed_amount": it.get("signed_amount"), "passed": it.get("passed"), "recipient": it.get("recipient"),
                         "signal_score": it.get("signal_score"), "link": it["link"], "text": t[:900]})
     out.sort(key=lambda x: (x["group"], -(x["signal_score"] or 0), x["meeting_date"] or "0000"), reverse=False)
     # bound the review work: at most PER_GOV items per government and a quota per priority group, in priority order
