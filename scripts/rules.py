@@ -78,7 +78,9 @@ def classify(text, titles_only=False):
     is_table = len(amts) >= CFG["table_amount_count"]          # budget tables, cost schedules, market stats
     decision = bool(DECISION.search(text))
     incoming = re.search(r"(?i)\baccept\w*\b[^.;]{0,80}\bgrant|\bgrant\w*\s+from\s+the\s+(state|federal|u\.?s\.?|florida|department|national)", text)
-    outgoing = bool(OUTGOING.search(text)) and not is_table and not incoming
+    # developer bonds and dedications accepted with plats are guarantees, not grants (Hillsborough plat items)
+    dev_bond = re.search(r"(?i)plat for recording|performance bond|accept the dedications|expedited building permit|community development district \(cdd\)", text)
+    outgoing = bool(OUTGOING.search(text)) and not is_table and not incoming and not dev_bond
     bypass = bool(BYPASS.search(text)) and decision and not is_table
     sig = sorted(k for k, rx in SIGNALS.items() if rx.search(text))
     routine = bool(ROUTINE.search(text)) and not (outgoing or bypass or sig)

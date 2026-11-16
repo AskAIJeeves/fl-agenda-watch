@@ -114,6 +114,25 @@ def scan_doc(store, seen, d, cfg, now, eid, gname, client, body, mdate, u, meeti
         d["errors"].append(f"doc {u[-70:]}: {e}")
     time.sleep(1)
 
+def eagenda_docs(g, start, end, max_pages=1):
+    """Hillsborough-style eAgenda portal: search results table rows -> (date, document URL, meeting name).
+    Results are newest first; stop paging once dates fall before start."""
+    out, base = [], g["base"].rstrip("/")
+    for mt in g.get("meeting_types", ["Regular BOCC Meeting"]):
+        for page in range(1, max_pages + 1):
+            q = urllib.parse.urlencode({"F_MeetingType": mt, "F_DocType": g.get("doc_type", "Agenda"), "d-1334500-p": page})
+            html = fetch(f"{base}/results?{q}")
+            rows = re.findall(r'href="(/portal/[^"]+/open/OBJ\w+)".*?<span title="(\d\d)/(\d\d)/(\d{4})">.*?<span title="Meeting">([^<]*)<', html, re.S)
+            if not rows: break
+            oldest = None
+            for path, mm, dd, yy, name in rows:
+                dt = f"{yy}-{mm}-{dd}"; oldest = dt
+                if start <= dt <= end:
+                    out.append((dt, urllib.parse.urljoin(base + "/", path), f"{mt}: {name.strip()}"))
+            if oldest and oldest < start: break
+    return out
+
+
 def scan_platforms(cfg, store, seen, debug, now):
     skip = re.compile(cfg.get("meeting_skip") or "$^")
     t0, t1 = (now - timedelta(days=14)).date().isoformat(), (now + timedelta(days=30)).date().isoformat()
@@ -174,6 +193,15 @@ def scan_platforms(cfg, store, seen, debug, now):
             except Exception as e:
                 d["errors"].append(f"meeting {m['ID']}: {e}")
             n += 1; time.sleep(1)
+    # eAgenda portal (Hillsborough County): agenda PDFs listed in a search results table
+    for g in cfg.get("eagenda", []):
+        d = debug[g["entity_id"] + ":eagenda"] = {"name": g["name"], "platform": "eagenda", "docs": 0, "scanned": [], "errors": []}
+        try: docs = eagenda_docs(g, t0, t1, max_pages=2)
+        except Exception as e: d["errors"].append(f"list: {e}"); continue
+        d["docs"] = len(docs); n = 0
+        for dt, u, body in sorted(docs, reverse=True):
+            if n >= cap_n(cap): break
+            if u not in seen: scan_doc(store, seen, d, cfg, now, g["entity_id"], g["name"], "eagenda", body, dt, u, g["base"] + "/home"); n += 1
     # PrimeGov: upcoming + this year's archive JSON; compiled agenda PDF per meeting
     for g in cfg.get("primegov", []):
         d = debug[g["entity_id"] + ":primegov"] = {"name": g["name"], "platform": "primegov", "meetings": 0, "scanned": [], "errors": []}

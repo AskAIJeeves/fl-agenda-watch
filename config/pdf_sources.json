@@ -1030,5 +1030,17 @@
   }
  ],
  "meeting_skip": "(?i)code enforcement|special magistrate|value adjustment|board of adjustment|cancel+ed|pre-?application|bid opening|nuisance abatement",
- "_escribe_note": "eScribe agenda PDFs sit behind a Cloudflare browser check; the reader uses the HTML agenda (item titles, no dollar amounts) and keeps titles with discretionary signals, outgoing grants or no-bid language."
+ "_escribe_note": "eScribe agenda PDFs sit behind a Cloudflare browser check; the reader uses the HTML agenda (item titles, no dollar amounts) and keeps titles with discretionary signals, outgoing grants or no-bid language.",
+ "eagenda": [
+  {
+   "entity_id": "c-hillsborough",
+   "name": "Hillsborough County",
+   "base": "https://eagenda.hillsboroughcounty.org/portal/PTL29560",
+   "meeting_types": [
+    "Regular BOCC Meeting"
+   ],
+   "doc_type": "Agenda",
+   "notes": "BOCC agendas; Legistar only carries development review items"
+  }
+ ]
 }

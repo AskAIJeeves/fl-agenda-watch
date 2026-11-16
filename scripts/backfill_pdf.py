@@ -14,7 +14,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import archive_items
-from fetch_pdf_agendas import fetch, scan_doc
+from fetch_pdf_agendas import eagenda_docs, fetch, scan_doc
 
 ROOT = Path(__file__).resolve().parent.parent
 STATE = ROOT / "data/backfill_pdf_state.json"
@@ -77,6 +77,12 @@ def list_docs(cfg, today, errors):
                 out.append((d, "primegov", g["entity_id"], g["name"], m.get("title"),
                             f"https://{g['host']}/Public/CompiledDocument?meetingTemplateId={x['templateId']}&compileOutputType=1",
                             f"https://{g['host']}/Portal/Meeting?meetingTemplateId={x['templateId']}"))
+    for g in cfg.get("eagenda", []):
+        try:
+            for dt, u, body in eagenda_docs(g, START, today, max_pages=12):
+                out.append((dt, "eagenda", g["entity_id"], g["name"], body, u, g["base"] + "/home"))
+        except Exception as e:
+            errors[g["entity_id"]] = f"eagenda list: {e}"[:200]
     return sorted(out, key=lambda r: r[0], reverse=True)
 
 
