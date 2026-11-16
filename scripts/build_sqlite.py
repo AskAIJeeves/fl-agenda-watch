@@ -59,6 +59,14 @@ def main():
                    (p["id"], p["government"], p["project"], p.get("total_cost"), p.get("annual_payment"),
                     p.get("term_years"), p.get("status"), p.get("next_decision"),
                     json.dumps(p.get("votes", [])), "\n".join(p.get("sources", []))))
+    bp = os.path.join(ROOT, "data", "budgets.json")
+    if os.path.exists(bp):
+        b = json.load(open(bp))["governments"]
+        db.execute("CREATE TABLE budgets (entity_id TEXT PRIMARY KEY, name TEXT, fiscal_year TEXT, "
+                   "general_fund_expenditures REAL, total_expenditures REAL, population REAL, source_url TEXT)")
+        db.executemany("INSERT INTO budgets VALUES (?,?,?,?,?,?,?)",
+                       [(k, v["name"], v["fiscal_year"], v["general_fund_expenditures"], v["total_expenditures"],
+                         v["population"], v["source_url"]) for k, v in b.items()])
     db.commit()
     db.execute("VACUUM")
     db.close()

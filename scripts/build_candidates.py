@@ -33,10 +33,22 @@ def project_of(key):
     pid = _PJ["item_project"].get(key)
     return pid, (_PJ["projects"].get(pid) or {}).get("spend_total")
 
+_BUD = None
+def budget_of(eid):
+    """General fund spending for the government (EDR/DFS Annual Financial Report, latest year)."""
+    global _BUD
+    if _BUD is None:
+        p = ROOT / "data/budgets.json"
+        _BUD = json.loads(p.read_text())["governments"] if p.exists() else {}
+    return (_BUD.get(eid) or {}).get("general_fund_expenditures")
+
 def tag_stage_category(it, today):
     it["link"] = best_link(it)
     it["id"] = archive_key(it)        # same key as data/archive and the review queue
     it["project_id"], it["project_total"] = project_of(it["id"])
+    gf = budget_of(it.get("entity_id"))
+    it["general_fund"] = gf
+    it["pct_of_general_fund"] = round(100 * it["max_amount"] / gf, 3) if gf and it.get("max_amount") else None
     md = it.get("meeting_date")
     days = (datetime.fromisoformat(md).date() - today).days if md else None
     early = bool(EARLY.search(it.get("body") or ""))
