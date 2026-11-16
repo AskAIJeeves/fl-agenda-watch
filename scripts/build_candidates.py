@@ -40,7 +40,19 @@ def budget_of(eid):
     if _BUD is None:
         p = ROOT / "data/budgets.json"
         _BUD = json.loads(p.read_text())["governments"] if p.exists() else {}
-    return (_BUD.get(eid) or {}).get("general_fund_expenditures")
+    return _BUD.get(eid) or {}
+
+def budget_share(it, bud):
+    """Size of the item against the fund group that pays for it. General fund when the text names it or names no source;
+    otherwise the matching fund group from the Annual Financial Report (enterprise, special revenue, ...)."""
+    src = it.get("funding_source") or rules.funding_source(it.get("title") or "")
+    group = "general" if src in ("general", "unstated") else src
+    base = (bud.get("fund_expenditures") or {}).get(group) or (bud.get("general_fund_expenditures") if group == "general" else None)
+    amt = it.get("max_amount")
+    pct = round(100 * amt / base, 3) if base and amt else None
+    return {"funding_source": src, "paying_fund": group, "paying_fund_expenditures": base, "pct_of_paying_fund": pct,
+            "general_fund": bud.get("general_fund_expenditures"),
+            "pct_of_general_fund": pct if group == "general" else None}
 
 def tag_stage_category(it, today):
     fresh = rules.classify(it.get("title") or "")       # re-apply current rules (new signals, flow) to stored items
@@ -49,9 +61,7 @@ def tag_stage_category(it, today):
     it["link"] = best_link(it)
     it["id"] = archive_key(it)        # same key as data/archive and the review queue
     it["project_id"], it["project_total"] = project_of(it["id"])
-    gf = budget_of(it.get("entity_id"))
-    it["general_fund"] = gf
-    it["pct_of_general_fund"] = round(100 * it["max_amount"] / gf, 3) if gf and it.get("max_amount") else None
+    it.update(budget_share(it, budget_of(it.get("entity_id"))))
     md = it.get("meeting_date")
     days = (datetime.fromisoformat(md).date() - today).days if md else None
     early = bool(EARLY.search(it.get("body") or ""))

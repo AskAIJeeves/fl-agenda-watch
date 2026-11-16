@@ -42,16 +42,20 @@ def parse(data):
     ws = wb.worksheets[0]                      # sheets are fiscal years, newest first
     rows = list(ws.iter_rows(values_only=True))
     hdr = next(r for r in rows if r and any(str(v).strip() == "General" for v in r if v))
-    gcol = [i for i, v in enumerate(hdr) if v and str(v).strip() == "General"][0]
+    col = {str(v).strip(): i for i, v in enumerate(hdr) if v}
+    gcol = col["General"]
     tcol = [i for i, v in enumerate(hdr) if v and "Total" in str(v)][-1]
     tot = next(r for r in rows if r and r[0] and str(r[0]).startswith("Total - All"))
+    funds = {k: tot[col[h]] for k, h in (("special_revenue", "Special Revenue"), ("debt_service", "Debt Service"),
+             ("capital_projects", "Capital Projects"), ("enterprise", "Enterprise"), ("internal_service", "Internal Service"))
+             if h in col}
     pop = None
     for r in rows:
         for i, v in enumerate(r or []):
             if v and "Population" in str(v):
                 pop = next((x for x in r[i + 1:] if isinstance(x, (int, float))), None)
     return {"fiscal_year": ws.title, "general_fund_expenditures": tot[gcol], "total_expenditures": tot[tcol],
-            "population": pop}
+            "population": pop, "fund_expenditures": {"general": tot[gcol], **funds}}
 
 
 def main():

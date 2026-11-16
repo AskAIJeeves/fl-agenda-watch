@@ -44,6 +44,26 @@ SPEND = re.compile(r"(?i)\b(purchase\s+(of|order)|award\w*\s+(of\s+)?(a\s+)?(con
                    r"contract\s+with|not\s+to\s+exceed|funding\s+(agreement|to)|grant\s+(to|agreement\s+with))\b")
 
 
+FUND_PATTERNS = [   # (fund group in the Annual Financial Report, pattern naming a source paid from that group)
+    ("general", r"general\s+fund"),
+    ("enterprise", r"(water|sewer|wastewater|utilit(y|ies)|stormwater|solid\s+waste|sanitation|refuse|airport|aviation|port|marina|"
+                   r"golf|parking|transit|electric|enterprise)\s+(system\s+)?(fund|revenue|account|enterprise|user\s+fee)"),
+    ("special_revenue", r"(community\s+redevelopment|cra\b|tax\s+increment|tif\b|tourist\s+development|tdt\b|bed\s+tax|gas\s+tax|"
+                        r"impact\s+fee|transportation\s+surtax|infrastructure\s+surtax|penny\s+sales\s+tax|discretionary\s+sales\s+surtax|"
+                        r"special\s+revenue|arpa|american\s+rescue\s+plan|cdbg|fema|grant\s+fund)"),
+    ("capital_projects", r"(bond\s+proceeds|capital\s+projects?\s+fund|capital\s+improvement\s+(program\s+)?fund)"),
+    ("internal_service", r"(internal\s+service\s+fund|fleet\s+(management\s+)?fund|risk\s+management\s+fund|self[- ]insurance\s+fund)"),
+]
+FUND_RX = [(k, re.compile(r"(?i)\b" + p)) for k, p in FUND_PATTERNS]
+
+
+def funding_source(text):
+    """Fund group the text says pays for the item; 'general' when it names the general fund, 'unstated' when it names none.
+    When several are named, the first one mentioned wins."""
+    hits = sorted((m.start(), k) for k, rx in FUND_RX for m in [rx.search(text or "")] if m)
+    return hits[0][1] if hits else "unstated"
+
+
 def flow(text):
     """'in' when the money appears to come to the government, 'out' when spent, 'mixed' when both."""
     rin, rout = bool(RECEIPT.search(text)), bool(SPEND.search(text))
@@ -70,5 +90,5 @@ def classify(text, titles_only=False):
     score = sum(W.get(k, 0) for k in sig) + (W["outgoing_grant"] if outgoing else 0) + (W["bypass"] if bypass else 0)
     score += round(math.log10(top) - 4, 1) if top and top > 10000 else 0      # $100K +1, $1M +2, $10M +3
     fl = flow(text)
-    return {"max_amount": top, "flow": fl, "signed_amount": (-top if top and fl == "in" else top), "signals": sig, "outgoing_grant": outgoing, "bypass_competition": bypass,
+    return {"max_amount": top, "flow": fl, "funding_source": funding_source(text), "signed_amount": (-top if top and fl == "in" else top), "signals": sig, "outgoing_grant": outgoing, "bypass_competition": bypass,
             "recipient": recipient(text) if outgoing else None, "signal_score": round(score, 1)}
