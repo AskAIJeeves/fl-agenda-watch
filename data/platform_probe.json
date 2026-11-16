@@ -1,0 +1,615 @@
+{
+ "checked": 117,
+ "found": 58,
+ "results": [
+  {
+   "name": "Jupiter",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "jupiterfl"
+    }
+   ]
+  },
+  {
+   "name": "Port Orange",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "portorangefl"
+    }
+   ]
+  },
+  {
+   "name": "Apopka",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "apopkafl"
+    }
+   ]
+  },
+  {
+   "name": "North Miami",
+   "hits": [
+    {
+     "platform": "primegov",
+     "host": "northmiami.primegov.com"
+    }
+   ]
+  },
+  {
+   "name": "Ocoee",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "ocoeefl"
+    }
+   ]
+  },
+  {
+   "name": "Winter Garden",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "wintergardenfl"
+    }
+   ]
+  },
+  {
+   "name": "Oviedo",
+   "hits": [
+    {
+     "platform": "primegov",
+     "host": "cityofoviedo.primegov.com"
+    }
+   ]
+  },
+  {
+   "name": "St Cloud",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "stcloudfl"
+    }
+   ]
+  },
+  {
+   "name": "Miami Lakes",
+   "hits": [
+    {
+     "platform": "escribe",
+     "host": "pub-miamilakes.escribemeetings.com"
+    }
+   ]
+  },
+  {
+   "name": "Plant City",
+   "hits": [
+    {
+     "platform": "legistar",
+     "client": "plantcity",
+     "bodies": 11
+    }
+   ]
+  },
+  {
+   "name": "Titusville",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "titusvillefl"
+    }
+   ]
+  },
+  {
+   "name": "Ormond Beach",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "ormondbeachfl"
+    },
+    {
+     "platform": "primegov",
+     "host": "ormondbeach.primegov.com"
+    }
+   ]
+  },
+  {
+   "name": "Greenacres",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "greenacresfl"
+    }
+   ]
+  },
+  {
+   "name": "Aventura",
+   "hits": [
+    {
+     "platform": "legistar",
+     "client": "cityofaventura",
+     "bodies": 5
+    }
+   ]
+  },
+  {
+   "name": "Destin",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "destinfl"
+    }
+   ]
+  },
+  {
+   "name": "Fort Walton Beach",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "fortwaltonbeachfl"
+    }
+   ]
+  },
+  {
+   "name": "Crestview",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "crestviewfl"
+    }
+   ]
+  },
+  {
+   "name": "Leesburg",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "leesburgfl"
+    }
+   ]
+  },
+  {
+   "name": "Clermont",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "clermontfl"
+    }
+   ]
+  },
+  {
+   "name": "Eustis",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "eustisfl"
+    }
+   ]
+  },
+  {
+   "name": "Mount Dora",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "mountdorafl"
+    }
+   ]
+  },
+  {
+   "name": "Haines City",
+   "hits": [
+    {
+     "platform": "escribe",
+     "host": "pub-hainescity.escribemeetings.com"
+    }
+   ]
+  },
+  {
+   "name": "Bartow",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "bartowfl"
+    }
+   ]
+  },
+  {
+   "name": "Zephyrhills",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "zephyrhillsfl"
+    }
+   ]
+  },
+  {
+   "name": "St Augustine",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "staugustinefl"
+    }
+   ]
+  },
+  {
+   "name": "Fernandina Beach",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "fernandinabeachfl"
+    }
+   ]
+  },
+  {
+   "name": "Jacksonville Beach",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "jacksonvillebeachfl"
+    }
+   ]
+  },
+  {
+   "name": "Lake Mary",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "lakemaryfl"
+    }
+   ]
+  },
+  {
+   "name": "Casselberry",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "casselberryfl"
+    }
+   ]
+  },
+  {
+   "name": "Longwood",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "longwoodfl"
+    }
+   ]
+  },
+  {
+   "name": "Cocoa",
+   "hits": [
+    {
+     "platform": "legistar",
+     "client": "cocoa",
+     "bodies": 11
+    },
+    {
+     "platform": "civicclerk",
+     "tenant": "cocoafl"
+    }
+   ]
+  },
+  {
+   "name": "Lake Park",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "lakeparkfl"
+    }
+   ]
+  },
+  {
+   "name": "Lauderdale Lakes",
+   "hits": [
+    {
+     "platform": "primegov",
+     "host": "lauderdalelakesfl.primegov.com"
+    }
+   ]
+  },
+  {
+   "name": "Wilton Manors",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "wiltonmanorsfl"
+    }
+   ]
+  },
+  {
+   "name": "Dania Beach",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "daniabeachfl"
+    }
+   ]
+  },
+  {
+   "name": "Parkland",
+   "hits": [
+    {
+     "platform": "legistar",
+     "client": "parkland",
+     "bodies": 7
+    },
+    {
+     "platform": "civicclerk",
+     "tenant": "parklandfl"
+    }
+   ]
+  },
+  {
+   "name": "Lighthouse Point",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "lighthousepointfl"
+    }
+   ]
+  },
+  {
+   "name": "Opa-locka",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "opalockafl"
+    }
+   ]
+  },
+  {
+   "name": "Lake City",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "lakecityfl"
+    }
+   ]
+  },
+  {
+   "name": "Palatka",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "palatkafl"
+    }
+   ]
+  },
+  {
+   "name": "Lynn Haven",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "lynnhavenfl"
+    }
+   ]
+  },
+  {
+   "name": "Tavares",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "tavaresfl"
+    }
+   ]
+  },
+  {
+   "name": "Groveland",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "grovelandfl"
+    }
+   ]
+  },
+  {
+   "name": "Minneola",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "minneolafl"
+    }
+   ]
+  },
+  {
+   "name": "Inverness",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "invernessfl"
+    }
+   ]
+  },
+  {
+   "name": "Wildwood",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "wildwoodfl"
+    }
+   ]
+  },
+  {
+   "name": "Collier County",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "colliercofl"
+    }
+   ]
+  },
+  {
+   "name": "Charlotte County",
+   "hits": [
+    {
+     "platform": "legistar",
+     "client": "charlottecountyfl",
+     "bodies": 5
+    }
+   ]
+  },
+  {
+   "name": "Flagler County",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "flaglercofl"
+    }
+   ]
+  },
+  {
+   "name": "Nassau County",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "nassaucofl"
+    },
+    {
+     "platform": "primegov",
+     "host": "nassaucountyfl.primegov.com"
+    }
+   ]
+  },
+  {
+   "name": "Bay County",
+   "hits": [
+    {
+     "platform": "primegov",
+     "host": "baycountyfl.primegov.com"
+    }
+   ]
+  },
+  {
+   "name": "Santa Rosa County",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "santarosacofl"
+    }
+   ]
+  },
+  {
+   "name": "Indian River County",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "indianrivercofl"
+    }
+   ]
+  },
+  {
+   "name": "St Lucie County",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "stluciecofl"
+    }
+   ]
+  },
+  {
+   "name": "Highlands County",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "highlandscofl"
+    }
+   ]
+  },
+  {
+   "name": "Levy County",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "levycofl"
+    }
+   ]
+  },
+  {
+   "name": "Jackson County",
+   "hits": [
+    {
+     "platform": "legistar",
+     "client": "jacksonco",
+     "bodies": 47
+    },
+    {
+     "platform": "civicclerk",
+     "tenant": "jacksoncofl"
+    }
+   ]
+  },
+  {
+   "name": "Suwannee County",
+   "hits": [
+    {
+     "platform": "civicclerk",
+     "tenant": "suwanneecofl"
+    }
+   ]
+  }
+ ],
+ "not_found": [
+  "Hialeah",
+  "Pompano Beach",
+  "West Palm Beach",
+  "Palm Bay",
+  "Lauderhill",
+  "Homestead",
+  "Sarasota",
+  "Palm Beach Gardens",
+  "Bonita Springs",
+  "Fort Myers",
+  "Altamonte Springs",
+  "Panama City",
+  "Panama City Beach",
+  "Fort Pierce",
+  "Vero Beach",
+  "Naples",
+  "Lake Worth Beach",
+  "Royal Palm Beach",
+  "Riviera Beach",
+  "Sunny Isles Beach",
+  "North Miami Beach",
+  "Oldsmar",
+  "Sebring",
+  "Atlantic Beach",
+  "New Smyrna Beach",
+  "Rockledge",
+  "Sebastian",
+  "North Lauderdale",
+  "Cooper City",
+  "Miami Shores",
+  "Florida City",
+  "Belle Glade",
+  "Niceville",
+  "Gulf Breeze",
+  "Callaway",
+  "Auburndale",
+  "Dade City",
+  "Brooksville",
+  "Port St Joe",
+  "Arcadia",
+  "Citrus County",
+  "Marion County",
+  "Sumter County",
+  "Brevard County",
+  "Clay County",
+  "Putnam County",
+  "Leon County",
+  "Walton County",
+  "Hendry County",
+  "Columbia County",
+  "Wakulla County",
+  "Baker County",
+  "Bradford County",
+  "Union County",
+  "Gulf County",
+  "Franklin County",
+  "Holmes County",
+  "Washington County",
+  "Glades County"
+ ]
+}

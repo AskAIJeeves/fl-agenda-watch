@@ -1,0 +1,536 @@
+=== munifiscal/dunedinexpenditures.xlsx: sheets ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007']
+--- sheet 2024
+Dunedin Expenditures Reporte |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Local Fiscal Year Ended Sept |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Account Code and Name |  |  | Governmental Funds |  |  |  |  | Proprietary Funds |  | Fiduciary Funds |  |  |  |  | 
+ |  |  | General | Special Revenue | Debt Service | Capital Projects | Permanent | Enterprise | Internal Service | Custodial | Pension | Trust | Private Purpose | Component Units | Total Account
+General Government Services  |  |  | 7878596 | 4730966 | 0 | 0 | 0 | 3353069 | 16455288 | 0 | 0 | 0 | 0 | 0 | 32417919
+ | 511 | Legislative | 507828 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 507828
+ | 512 | Executive | 1195205 | 241181 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1436386
+ | 513 | Financial and Administrative | 2905866 | 289766 | 0 | 0 | 0 | 944079 | 11114636 | 0 | 0 | 0 | 0 | 0 | 15254347
+ | 514 | Legal Counsel | 255366 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 255366
+ | 515 | Comprehensive Planning | 1563551 | 189813 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1753364
+ | 517 | Debt Service Payments | 237365 | 4010206 | 0 | 0 | 0 | 1006550 | 38526 | 0 | 0 | 0 | 0 | 0 | 5292647
+ | 519 | Other General Government Ser | 1213415 | 0 | 0 | 0 | 0 | 1402440 | 5302126 | 0 | 0 | 0 | 0 | 0 | 7917981
+Public Safety |  |  | 14813812 | 1423875 | 0 | 0 | 0 | 0 | 0 | 0 | 2938963 | 0 | 0 | 0 | 19176650
+ | 521 | Law Enforcement | 5343455 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5343455
+ | 522 | Fire Control | 9470357 | 73586 | 0 | 0 | 0 | 0 | 0 | 0 | 2938963 | 0 | 0 | 0 | 12482906
+ | 524 | Protective Inspections | 0 | 1350289 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1350289
+Physical Environment |  |  | 72716 | 57585 | 0 | 0 | 0 | 29969677 | 0 | 0 | 0 | 0 | 0 | 0 | 30099978
+ | 533 | Water Utility Services | 1017 | 20181 | 0 | 0 | 0 | 9254180 | 0 | 0 | 0 | 0 | 0 | 0 | 9275378
+ | 534 | Garbage / Solid Waste Contro | 39885 | 0 | 0 | 0 | 0 | 6727997 | 0 | 0 | 0 | 0 | 0 | 0 | 6767882
+ | 535 | Sewer / Wastewater Services | 13652 | 0 | 0 | 0 | 0 | 9749598 | 0 | 0 | 0 | 0 | 0 | 0 | 9763250
+ | 538 | Flood Control / Stormwater M | 18162 | 37404 | 0 | 0 | 0 | 4237902 | 0 | 0 | 0 | 0 | 0 | 0 | 4293468
+Transportation |  |  | 1944174 | 1271996 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3216170
+ | 541 | Road and Street Facilities | 1801294 | 1271996 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3073290
+ | 545 | Parking Facilities | 142880 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 142880
+Economic Environment |  |  | 0 | 6354766 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6354766
+ | 559 | Other Economic Environment | 0 | 6354766 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6354766
+Culture / Recreation |  |  | 13621535 | 4540112 | 0 | 0 | 0 | 2183456 | 0 | 0 | 0 | 0 | 0 | 0 | 20345103
+ | 571 | Libraries | 2915178 | 50000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2965178
+ | 572 | Parks and Recreation | 10559846 | 1373397 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11933243
+ | 573 | Cultural Services | 143651 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 143651
+ | 575 | Special Recreation Facilitie | 2860 | 3104752 | 0 | 0 | 0 | 2183456 | 0 | 0 | 0 | 0 | 0 | 0 | 5291068
+ | 579 | Other Culture / Recreation | 0 | 11963 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11963
+Other Uses and Non-Operating |  |  | 629860 | 38476 | 0 | 0 | 0 | 0 | 87500 | 0 | 0 | 0 | 0 | 0 | 755836
+ | 581 | Inter-fund Group Transfers O | 629860 | 38476 | 0 | 0 | 0 | 0 | 87500 | 0 | 0 | 0 | 0 | 0 | 755836
+Total - All Account Codes |  |  | 38960693 | 18417776 | 0 | 0 | 0 | 35506202 | 16542788 | 0 | 2938963 | 0 | 0 | 0 | 112366422
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  | 2024 Municipal Population: |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Compiled from data obtained  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+--- sheet 2023
+Dunedin Expenditures Reporte |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Local Fiscal Year Ended Sept |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Account Code and Name |  |  | Governmental Funds |  |  |  |  | Proprietary Funds |  | Fiduciary Funds |  |  |  |  | 
+ |  |  | General | Special Revenue | Debt Service | Capital Projects | Permanent | Enterprise | Internal Service | Custodial | Pension | Trust | Private Purpose | Component Units | Total Account
+General Government Services  |  |  | 6763044 | 8691755 | 0 | 0 | 0 | 3102933 | 14498902 | 0 | 0 | 0 | 0 | 0 | 33056634
+ | 511 | Legislative | 471980 | 281227 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 753207
+ | 512 | Executive | 961363 | 4040555 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5001918
+ | 513 | Financial and Administrative | 2638710 | 352636 | 0 | 0 | 0 | 890756 | 9645653 | 0 | 0 | 0 | 0 | 0 | 13527755
+ | 514 | Legal Counsel | 229183 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 229183
+ | 515 | Comprehensive Planning | 1496119 | 120 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1496239
+ | 517 | Debt Service Payments | 246183 | 4017217 | 0 | 0 | 0 | 715888 | 236 | 0 | 0 | 0 | 0 | 0 | 4979524
+ | 519 | Other General Government Ser | 719506 | 0 | 0 | 0 | 0 | 1496289 | 4853013 | 0 | 0 | 0 | 0 | 0 | 7068808
+Public Safety |  |  | 14499722 | 1182562 | 0 | 0 | 0 | 0 | 0 | 0 | 2598747 | 0 | 0 | 0 | 18281031
+ | 521 | Law Enforcement | 5041805 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5041805
+ | 522 | Fire Control | 9457917 | 3154 | 0 | 0 | 0 | 0 | 0 | 0 | 2598747 | 0 | 0 | 0 | 12059818
+ | 524 | Protective Inspections | 0 | 1179408 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1179408
+Physical Environment |  |  | 70039 | 0 | 0 | 0 | 0 | 27893154 | 0 | 0 | 0 | 0 | 0 | 0 | 27963193
+ | 533 | Water Utility Services | 735 | 0 | 0 | 0 | 0 | 8312745 | 0 | 0 | 0 | 0 | 0 | 0 | 8313480
+ | 534 | Garbage / Solid Waste Contro | 57848 | 0 | 0 | 0 | 0 | 6708755 | 0 | 0 | 0 | 0 | 0 | 0 | 6766603
+ | 535 | Sewer / Wastewater Services | 735 | 0 | 0 | 0 | 0 | 8865498 | 0 | 0 | 0 | 0 | 0 | 0 | 8866233
+ | 538 | Flood Control / Stormwater M | 10721 | 0 | 0 | 0 | 0 | 4006156 | 0 | 0 | 0 | 0 | 0 | 0 | 4016877
+Transportation |  |  | 1769773 | 1867351 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3637124
+ | 541 | Road and Street Facilities | 1637292 | 1867351 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3504643
+ | 545 | Parking Facilities | 132481 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 132481
+Economic Environment |  |  | 0 | 1399768 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1399768
+ | 559 | Other Economic Environment | 0 | 1399768 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1399768
+Culture / Recreation |  |  | 11992478 | 3796484 | 0 | 0 | 0 | 883336 | 0 | 0 | 0 | 0 | 0 | 0 | 16672298
+ | 571 | Libraries | 2809399 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2809399
+ | 572 | Parks and Recreation | 9093831 | 753002 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 9846833
+ | 573 | Cultural Services | 88263 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 88263
+ | 575 | Special Recreation Facilitie | 985 | 3043482 | 0 | 0 | 0 | 883336 | 0 | 0 | 0 | 0 | 0 | 0 | 3927803
+Other Uses and Non-Operating |  |  | 1070 | 36458 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 37528
+ | 581 | Inter-fund Group Transfers O | 1070 | 36458 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 37528
+Total - All Account Codes |  |  | 35096126 | 16974378 | 0 | 0 | 0 | 31879423 | 14498902 | 0 | 2598747 | 0 | 0 | 0 | 101047576
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  | 2023 Municipal Population: |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Compiled from data obtained  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+--- sheet 2022
+Dunedin Expenditures Reporte |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Local Fiscal Year Ended Sept |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Account Code and Name |  |  | Governmental Funds |  |  |  |  | Proprietary Funds |  | Fiduciary Funds |  |  |  |  | 
+ |  |  | General | Special Revenue | Debt Service | Capital Projects | Permanent | Enterprise | Internal Service | Custodial | Pension | Trust | Private Purpose | Component Units | Total Account
+General Government Services  |  |  | 6196579 | 17999180 | 0 | 0 | 0 | 2688610 | 12156218 | 0 | 0 | 0 | 0 | 0 | 39040587
+ | 511 | Legislative | 425890 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 425890
+ | 512 | Executive | 980463 | 15000830 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 15981293
+ | 513 | Financial and Administrative | 2367606 | 779936 | 0 | 0 | 0 | 705005 | 7634147 | 0 | 0 | 0 | 0 | 0 | 11486694
+ | 514 | Legal Counsel | 238520 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 238520
+ | 515 | Comprehensive Planning | 1468716 | 4000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1472716
+ | 517 | Debt Service Payments | 150065 | 2188814 | 0 | 0 | 0 | 675645 | 0 | 0 | 0 | 0 | 0 | 0 | 3014524
+ | 519 | Other General Government Ser | 565319 | 25600 | 0 | 0 | 0 | 1307960 | 4522071 | 0 | 0 | 0 | 0 | 0 | 6420950
+Public Safety |  |  | 13247681 | 1274941 | 0 | 0 | 0 | 0 | 0 | 0 | 1817179 | 0 | 0 | 0 | 16339801
+ | 521 | Law Enforcement | 4831057 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4831057
+ | 522 | Fire Control | 8416505 | 47358 | 0 | 0 | 0 | 0 | 0 | 0 | 1817179 | 0 | 0 | 0 | 10281042
+ | 524 | Protective Inspections | 119 | 1227583 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1227702
+Physical Environment |  |  | 8753 | 123200 | 0 | 0 | 0 | 26959411 | 0 | 0 | 0 | 0 | 0 | 0 | 27091364
+ | 533 | Water Utility Services | 301 | 44000 | 0 | 0 | 0 | 8321613 | 0 | 0 | 0 | 0 | 0 | 0 | 8365914
+ | 534 | Garbage / Solid Waste Contro | 54 | 24800 | 0 | 0 | 0 | 6029343 | 0 | 0 | 0 | 0 | 0 | 0 | 6054197
+ | 535 | Sewer / Wastewater Services | 695 | 47200 | 0 | 0 | 0 | 8557026 | 0 | 0 | 0 | 0 | 0 | 0 | 8604921
+ | 538 | Flood Control / Stormwater M | 7703 | 7200 | 0 | 0 | 0 | 4051429 | 0 | 0 | 0 | 0 | 0 | 0 | 4066332
+Transportation |  |  | 2648755 | 1414099 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4062854
+ | 541 | Road and Street Facilities | 1584682 | 1414099 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2998781
+ | 545 | Parking Facilities | 1064073 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1064073
+Economic Environment |  |  | 0 | 6726278 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6726278
+ | 559 | Other Economic Environment | 0 | 6726278 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6726278
+Culture / Recreation |  |  | 11208099 | 5454474 | 0 | 0 | 0 | 560086 | 0 | 0 | 0 | 0 | 0 | 0 | 17222659
+ | 571 | Libraries | 2550373 | 17600 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2567973
+ | 572 | Parks and Recreation | 8506370 | 2793115 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11299485
+ | 573 | Cultural Services | 151356 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 151356
+ | 575 | Special Recreation Facilitie | 0 | 2643759 | 0 | 0 | 0 | 560086 | 0 | 0 | 0 | 0 | 0 | 0 | 3203845
+Other Uses and Non-Operating |  |  | 265000 | 63910 | 0 | 0 | 0 | 159600 | 0 | 0 | 0 | 0 | 0 | 0 | 488510
+ | 581 | Inter-fund Group Transfers O | 265000 | 63910 | 0 | 0 | 0 | 159600 | 0 | 0 | 0 | 0 | 0 | 0 | 488510
+Total - All Account Codes |  |  | 33574867 | 33056082 | 0 | 0 | 0 | 30367707 | 12156218 | 0 | 1817179 | 0 | 0 | 0 | 110972053
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  | 2022 Municipal Population: |  | 
+ |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Compiled from data obtained  |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+=== munifiscal/jacksonvilleexpenditures.xlsx: sheets ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005']
+--- sheet 2024
+Jacksonville Expenditures Re |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Local Fiscal Year Ended Sept |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Account Code and Name |  |  | Governmental Funds |  |  |  |  | Proprietary Funds |  | Fiduciary Funds |  |  |  |  | 
+ |  |  | General | Special Revenue | Debt Service | Capital Projects | Permanent | Enterprise | Internal Service | Custodial | Pension | Trust | Private Purpose | Component Units | Total Account
+General Government Services  |  |  | 228703548 | 33651765 | 124574154 | 118658754 | 0 | 27485124 | 431544723 | 3727705000 | 615093689 | 0 | 0 | 5220891 | 5312637648
+ | 511 | Legislative | 13020882 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 13020882
+ | 512 | Executive | 6818261 | 3915 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6822176
+ | 513 | Financial and Administrative | 140448179 | 10252000 | 0 | 0 | 0 | 3681413 | 153934964 | 3727705000 | 0 | 0 | 0 | 1107976 | 4037129532
+ | 514 | Legal Counsel | 1280336 | 0 | 0 | 0 | 0 | 0 | 12752269 | 0 | 0 | 0 | 0 | 0 | 14032605
+ | 515 | Comprehensive Planning | 5251814 | 5466508 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10718322
+ | 517 | Debt Service Payments | 20286070 | 898001 | 124574154 | 0 | 0 | 23762264 | 0 | 0 | 0 | 0 | 0 | 4112915 | 173633404
+ | 518 | Pension Benefits | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 615078371 | 0 | 0 | 0 | 615078371
+ | 519 | Other General Government Ser | 41598006 | 17031341 | 0 | 118658754 | 0 | 41447 | 264857490 | 0 | 15318 | 0 | 0 | 0 | 442202356
+Public Safety |  |  | 986006840 | 41628855 | 0 | 24448152 | 0 | 391547 | 0 | 0 | 0 | 0 | 0 | 0 | 1052475394
+ | 521 | Law Enforcement | 596833409 | 14158761 | 0 | 119022 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 611111192
+ | 522 | Fire Control | 259950520 | 2894209 | 0 | 24153028 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 286997757
+ | 523 | Detention and/or Correction | 174 | 466897 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 467071
+ | 524 | Protective Inspections | 296750 | 16057211 | 0 | 0 | 0 | 391547 | 0 | 0 | 0 | 0 | 0 | 0 | 16745508
+ | 525 | Emergency and Disaster Relie | 4687171 | 6589976 | 0 | 176102 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11453249
+ | 526 | Ambulance and Rescue Service | 114076217 | 1286400 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 115362617
+ | 527 | Medical Examiners | 6816655 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6816655
+ | 529 | Other Public Safety | 3345944 | 175401 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3521345
+Physical Environment |  |  | 38284257 | 12405406 | 0 | 2943191 | 0 | 149463984 | 0 | 0 | 0 | 0 | 0 | 2030893000 | 2233989838
+ | 531 | Electric Utility Services | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1387933000 | 1387933000
+ | 534 | Garbage / Solid Waste Contro | 2267793 | 0 | 0 | 0 | 0 | 125044969 | 0 | 0 | 0 | 0 | 0 | 0 | 127312762
+ | 536 | Water-Sewer Combination Serv | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 632809000 | 632809000
+ | 537 | Conservation and Resource Ma | 3848853 | 10329392 | 0 | 180042 | 0 | 22747641 | 0 | 0 | 0 | 0 | 0 | 0 | 37105928
+ | 538 | Flood Control / Stormwater M | 65063 | 0 | 0 | 1833283 | 0 | 202043 | 0 | 0 | 0 | 0 | 0 | 0 | 2100389
+ | 539 | Other Physical Environment | 32102548 | 2076014 | 0 | 929866 | 0 | 1469331 | 0 | 0 | 0 | 0 | 0 | 10151000 | 46728759
+Transportation |  |  | 37223562 | 218419849 | 0 | 123101163 | 0 | 4512944 | 0 | 0 | 0 | 0 | 0 | 264038231 | 647295749
+ | 541 | Road and Street Facilities | 31590564 | 30436283 | 0 | 5441053 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 67467900
+ | 543 | Water Transportation Systems | 167422 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 88217000 | 88384422
+ | 544 | Mass Transit Systems | 0 | 31481892 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 175821231 | 207303123
+ | 545 | Parking Facilities | 0 | 144 | 0 | 0 | 0 | 4512944 | 0 | 0 | 0 | 0 | 0 | 0 | 4513088
+ | 549 | Other Transportation Systems | 5465576 | 156501530 | 0 | 117660110 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 279627216
+Economic Environment |  |  | 27241606 | 50466604 | 0 | 3493108 | 0 | 0 | 0 | 0 | 0 | 0 | 5000 | 0 | 81206318
+ | 551 | Employment Opportunity and D | 0 | 248373 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5000 | 0 | 253373
+ | 552 | Industry Development | 16377718 | 29848246 | 0 | 3400728 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 49626692
+ | 553 | Veteran's Services | 1427489 | 799246 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2226735
+ | 554 | Housing and Urban Developmen | 472000 | 19570739 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 20042739
+ | 559 | Other Economic Environment | 8964399 | 0 | 0 | 92380 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 9056779
+Human Services |  |  | 84423155 | 174244881 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 258668036
+ | 561 | Hospital Services | 45589618 | 92979868 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 138569486
+ | 562 | Health Services | 16190756 | 14411504 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 30602260
+ | 563 | Mental Health Services | 6960083 | 582538 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 7542621
+--- sheet 2023
+Jacksonville Expenditures Re |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Local Fiscal Year Ended Sept |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Account Code and Name |  |  | Governmental Funds |  |  |  |  | Proprietary Funds |  | Fiduciary Funds |  |  |  |  | 
+ |  |  | General | Special Revenue | Debt Service | Capital Projects | Permanent | Enterprise | Internal Service | Custodial | Pension | Trust | Private Purpose | Component Units | Total Account
+General Government Services  |  |  | 194802857 | 89545833 | 256606351 | 121429127 | 0 | 55007706 | 345481360 | 3539892000 | 539373804 | 0 | 0 | 11705173 | 5153844211
+ | 511 | Legislative | 12560087 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 12560087
+ | 512 | Executive | 5976557 | 3661 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5980218
+ | 513 | Financial and Administrative | 135794215 | 17863931 | 0 | 0 | 0 | 49314581 | 151275207 | 3539892000 | 0 | 0 | 0 | 6138143 | 3900278077
+ | 514 | Legal Counsel | 0 | 0 | 0 | 0 | 0 | 0 | 12305909 | 0 | 0 | 0 | 0 | 0 | 12305909
+ | 515 | Comprehensive Planning | 4845439 | 4245243 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 9090682
+ | 517 | Debt Service Payments | 0 | 0 | 256606351 | 0 | 0 | 5591410 | 23250896 | 0 | 0 | 0 | 0 | 5567030 | 291015687
+ | 518 | Pension Benefits | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 539373804 | 0 | 0 | 0 | 539373804
+ | 519 | Other General Government Ser | 35626559 | 67432998 | 0 | 121429127 | 0 | 101715 | 158649348 | 0 | 0 | 0 | 0 | 0 | 383239747
+Public Safety |  |  | 906747214 | 53744770 | 0 | 29751383 | 0 | 379037 | 0 | 0 | 0 | 0 | 0 | 0 | 990622404
+ | 521 | Law Enforcement | 550788909 | 13082067 | 0 | 1657104 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 565528080
+ | 522 | Fire Control | 237469511 | 7976565 | 0 | 27522608 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 272968684
+ | 523 | Detention and/or Correction | 0 | 1132249 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1132249
+ | 524 | Protective Inspections | 274151 | 16244455 | 0 | 0 | 0 | 379037 | 0 | 0 | 0 | 0 | 0 | 0 | 16897643
+ | 525 | Emergency and Disaster Relie | 4210638 | 15189672 | 0 | 571671 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 19971981
+ | 526 | Ambulance and Rescue Service | 103448487 | 112741 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 103561228
+ | 527 | Medical Examiners | 6280716 | 7021 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6287737
+ | 529 | Other Public Safety | 4274802 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4274802
+Physical Environment |  |  | 26641841 | 22222267 | 0 | 9991449 | 0 | 144595597 | 0 | 0 | 0 | 0 | 0 | 2017677000 | 2221128154
+ | 531 | Electric Utility Services | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1405834000 | 1405834000
+ | 534 | Garbage / Solid Waste Contro | 2323564 | 10413701 | 0 | 0 | 0 | 121007789 | 0 | 0 | 0 | 0 | 0 | 0 | 133745054
+ | 536 | Water-Sewer Combination Serv | 0 | 0 | 0 | 2511730 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 602038000 | 604549730
+ | 537 | Conservation and Resource Ma | 3435662 | 9727156 | 0 | 0 | 0 | 20038831 | 0 | 0 | 0 | 0 | 0 | 0 | 33201649
+ | 538 | Flood Control / Stormwater M | 0 | 0 | 0 | 1126762 | 0 | 2043784 | 0 | 0 | 0 | 0 | 0 | 0 | 3170546
+ | 539 | Other Physical Environment | 20882615 | 2081410 | 0 | 6352957 | 0 | 1505193 | 0 | 0 | 0 | 0 | 0 | 9805000 | 40627175
+Transportation |  |  | 36203159 | 223164553 | 0 | 77533587 | 0 | 4122500 | 0 | 0 | 0 | 0 | 0 | 292106752 | 633130551
+ | 541 | Road and Street Facilities | 29058858 | 33749148 | 0 | 11450561 | 0 | 304 | 0 | 0 | 0 | 0 | 0 | 0 | 74258871
+ | 543 | Water Transportation Systems | 164140 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 101698000 | 101862140
+ | 544 | Mass Transit Systems | 0 | 32224245 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 174250882 | 206475127
+ | 545 | Parking Facilities | 0 | 531 | 0 | 0 | 0 | 4122196 | 0 | 0 | 0 | 0 | 0 | 0 | 4122727
+ | 549 | Other Transportation Systems | 6980161 | 157190629 | 0 | 66083026 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 16157870 | 246411686
+Economic Environment |  |  | 31004850 | 69522187 | 0 | 3320811 | 0 | 0 | 0 | 0 | 0 | 0 | 10000 | 4593000 | 108450848
+ | 551 | Employment Opportunity | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10000 | 0 | 10000
+ | 552 | Industry Development | 24922299 | 38721199 | 0 | 3159756 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 66803254
+ | 553 | Veteran's Services | 1374153 | 1234309 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2608462
+ | 554 | Housing and Urban Developmen | 114005 | 29566679 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4593000 | 34273684
+ | 559 | Other Economic Environment | 4594393 | 0 | 0 | 161055 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4755448
+Human Services |  |  | 81720946 | 111352183 | 0 | 168000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 193241129
+ | 561 | Hospital Services | 45581014 | 50242376 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 95823390
+ | 562 | Health Services | 15597936 | 8723818 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 24321754
+ | 563 | Mental Health Services | 6911785 | 2255512 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 9167297
+--- sheet 2022
+Jacksonville Expenditures Re |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Local Fiscal Year Ended Sept |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Account Code and Name |  |  | Governmental Funds |  |  |  |  | Proprietary Funds |  | Fiduciary Funds |  |  |  |  | 
+ |  |  | General | Special Revenue | Debt Service | Capital Projects | Permanent | Enterprise | Internal Service | Custodial | Pension | Trust | Private Purpose | Component Units | Total Account
+General Government Services  |  |  | 178030460 | 61098319 | 365093476 | 72434334 | 0 | 3983827 | 351765977 | 3103177000 | 557325431 | 0 | 0 | 9463024 | 4702371848
+ | 511 | Legislative | 11612178 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11612178
+ | 512 | Executive | 5427151 | 4034 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5431185
+ | 513 | Financial and Administrative | 122585595 | 1473163 | 0 | 175 | 0 | 426275 | 168464692 | 3103177000 | 0 | 0 | 0 | 3235359 | 3399362259
+ | 514 | Legal Counsel | 0 | 0 | 0 | 0 | 0 | 0 | 11410564 | 0 | 0 | 0 | 0 | 0 | 11410564
+ | 515 | Comprehensive Planning | 4342604 | 4423462 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 8766066
+ | 517 | Debt Service Payments | 0 | 0 | 365093476 | 0 | 0 | 3557552 | 18317122 | 0 | 0 | 0 | 0 | 6227665 | 393195815
+ | 518 | Pension Benefits | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 557325431 | 0 | 0 | 0 | 557325431
+ | 519 | Other General Government Ser | 34062932 | 55197660 | 0 | 72434159 | 0 | 0 | 153573599 | 0 | 0 | 0 | 0 | 0 | 315268350
+Public Safety |  |  | 834271109 | 70793373 | 0 | 19582688 | 0 | 310443 | 0 | 0 | 0 | 0 | 0 | 0 | 924957613
+ | 521 | Law Enforcement | 515230825 | 11604939 | 0 | 186745 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 527022509
+ | 522 | Fire Control | 212474811 | 9478193 | 0 | 18625162 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 240578166
+ | 523 | Detention and/or Correction | 0 | 1767833 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1767833
+ | 524 | Protective Inspections | 284455 | 16179369 | 0 | 0 | 0 | 310443 | 0 | 0 | 0 | 0 | 0 | 0 | 16774267
+ | 525 | Emergency and Disaster Relie | 3836629 | 31311324 | 0 | 770781 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 35918734
+ | 526 | Ambulance and Rescue Service | 94005290 | 446985 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 94452275
+ | 527 | Medical Examiners | 5790623 | 4730 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5795353
+ | 529 | Other Public Safety | 2648476 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2648476
+Physical Environment |  |  | 23877128 | 13785460 | 0 | 4577048 | 0 | 117089215 | 0 | 0 | 0 | 0 | 0 | 2174433000 | 2333761851
+ | 531 | Electric Utility Services | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1529004000 | 1529004000
+ | 534 | Garbage / Solid Waste Contro | 2128774 | 4549847 | 0 | 0 | 0 | 92938379 | 0 | 0 | 0 | 0 | 0 | 0 | 99617000
+ | 536 | Water-Sewer Combination Serv | 0 | 0 | 0 | 129689 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 503081000 | 503210689
+ | 537 | Conservation and Resource Ma | 3413887 | 7635799 | 0 | 0 | 0 | 21602010 | 0 | 0 | 0 | 0 | 0 | 0 | 32651696
+ | 538 | Flood Control / Stormwater M | 0 | 0 | 0 | 3611329 | 0 | 2059672 | 0 | 0 | 0 | 0 | 0 | 0 | 5671001
+ | 539 | Other Physical Environment | 18334467 | 1599814 | 0 | 836030 | 0 | 489154 | 0 | 0 | 0 | 0 | 0 | 142348000 | 163607465
+Transportation |  |  | 34220143 | 207253431 | 0 | 56394990 | 0 | 3762695 | 0 | 0 | 0 | 0 | 0 | 249658933 | 551290192
+ | 541 | Road and Street Facilities | 29145784 | 22218356 | 0 | 14057811 | 0 | 385 | 0 | 0 | 0 | 0 | 0 | 0 | 65422336
+ | 543 | Water Transportation Systems | 160921 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 76230000 | 76390921
+ | 544 | Mass Transit Systems | 0 | 34427308 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 150132769 | 184560077
+ | 545 | Parking Facilities | 0 | 531 | 0 | 0 | 0 | 3762310 | 0 | 0 | 0 | 0 | 0 | 0 | 3762841
+ | 549 | Other Transportation Systems | 4913438 | 150607236 | 0 | 42337179 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 23296164 | 221154017
+Economic Environment |  |  | 26439530 | 124899777 | 0 | 2708269 | 0 | 100000 | 0 | 0 | 0 | 0 | 500 | 746715 | 154894791
+ | 551 | Employment Opportunity and D | 1690 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 500 | 0 | 2190
+ | 552 | Industry Development | 22931841 | 67061114 | 0 | 2486884 | 0 | 100000 | 0 | 0 | 0 | 0 | 0 | 0 | 92579839
+ | 553 | Veteran's Services | 1327345 | 1693540 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3020885
+ | 554 | Housing and Urban Developmen | 72356 | 52145123 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 746715 | 52964194
+ | 559 | Other Economic Environment | 2106298 | 4000000 | 0 | 221385 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6327683
+Human Services |  |  | 80479537 | 106379807 | 0 | 354514 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 187213858
+ | 561 | Hospital Services | 45650126 | 49811841 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 95461967
+ | 562 | Health Services | 14798269 | 8783921 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 23582190
+ | 563 | Mental Health Services | 6888521 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6888521
+=== cntyfiscal/pinellascountyexpenditures.xlsx: sheets ['2025', '2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008', '2007', '2006', '2005']
+--- sheet 2025
+Pinellas County Government E |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Local Fiscal Year Ended Sept |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Account Code and Name |  |  | Governmental Funds |  |  |  |  | Proprietary Funds |  | Fiduciary Funds |  |  |  |  | 
+ |  |  | General | Special Revenue | Debt Service | Capital Projects | Permanent | Enterprise | Internal Service | Custodial | Pension | Trust | Private Purpose | Component Units | Total Account
+General Government Services  |  |  | 199641947 | 5237541 | 0 | 24894739 | 0 | 2189566 | 158864622 | 3632767486 | 0 | 0 | 0 | 3550758 | 4027146659
+ | 511 | Legislative | 2511050 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2511050
+ | 512 | Executive | 4335847 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4335847
+ | 513 | Financial and Administrative | 104745179 | 116823 | 0 | 0 | 0 | 0 | 0 | 3632767486 | 0 | 0 | 0 | 0 | 3737629488
+ | 514 | Legal Counsel | 5675288 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5675288
+ | 515 | Comprehensive Planning | 5772484 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3550758 | 9323242
+ | 516 | Non-Court Information System | 20783240 | 3867694 | 0 | 0 | 0 | 0 | 46206003 | 0 | 0 | 0 | 0 | 0 | 70856937
+ | 517 | Debt Service Payments | 0 | 0 | 0 | 0 | 0 | 2008723 | 0 | 0 | 0 | 0 | 0 | 0 | 2008723
+ | 519 | Other General Government Ser | 55818859 | 1253024 | 0 | 24894739 | 0 | 180843 | 112658619 | 0 | 0 | 0 | 0 | 0 | 194806084
+Public Safety |  |  | 579450844 | 251081307 | 0 | 15258457 | 0 | 0 | 79074865 | 9731251 | 0 | 0 | 0 | 0 | 934596724
+ | 521 | Law Enforcement | 467826053 | 0 | 0 | 0 | 0 | 0 | 79074865 | 9731251 | 0 | 0 | 0 | 0 | 556632169
+ | 522 | Fire Control | 1746841 | 21915242 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 23662083
+ | 523 | Detention and/or Correction | 3258295 | 0 | 0 | 675207 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3933502
+ | 524 | Protective Inspections | 2815316 | 8846791 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11662107
+ | 525 | Emergency and Disaster Relie | 89869845 | 22825328 | 0 | 5084 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 112700257
+ | 526 | Ambulance and Rescue Service | 0 | 197215482 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 197215482
+ | 527 | Medical Examiners | 10642926 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10642926
+ | 528 | Consumer Affairs | 1486422 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1486422
+ | 529 | Other Public Safety | 1805146 | 278464 | 0 | 14578166 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 16661776
+Physical Environment |  |  | 12162254 | 52111887 | 0 | 32675752 | 0 | 293745300 | 0 | 0 | 0 | 0 | 0 | 0 | 390695193
+ | 533 | Water Utility Services | 0 | 13569 | 0 | 0 | 0 | 100799570 | 0 | 0 | 0 | 0 | 0 | 0 | 100813139
+ | 534 | Garbage / Solid Waste Contro | 0 | 1874443 | 0 | 0 | 0 | 104702176 | 0 | 0 | 0 | 0 | 0 | 0 | 106576619
+ | 535 | Sewer / Wastewater Services | 0 | 16639028 | 0 | 0 | 0 | 88243554 | 0 | 0 | 0 | 0 | 0 | 0 | 104882582
+ | 537 | Conservation and Resource Ma | 4283393 | 13422073 | 0 | 28720538 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 46426004
+ | 538 | Flood Control / Stormwater M | 7878861 | 19968271 | 0 | 3955214 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 31802346
+ | 539 | Other Physical Environment | 0 | 194503 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 194503
+Transportation |  |  | 159290 | 90439969 | 0 | 60744318 | 0 | 27417139 | 0 | 0 | 0 | 0 | 0 | 0 | 178760716
+ | 541 | Road and Street Facilities | 159290 | 90439969 | 0 | 60744318 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 151343577
+ | 542 | Airports | 0 | 0 | 0 | 0 | 0 | 27417139 | 0 | 0 | 0 | 0 | 0 | 0 | 27417139
+Economic Environment |  |  | 36847316 | 69939935 | 0 | 26660454 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 21777851 | 155225556
+ | 551 | Employment Opportunity and D | 661946 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 661946
+ | 552 | Industry Development | 4465487 | 57249968 | 0 | 6820802 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 68536257
+ | 553 | Veteran's Services | 685255 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 685255
+ | 554 | Housing and Urban Developmen | 31034628 | 12689967 | 0 | 19839652 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 21777851 | 85342098
+Human Services |  |  | 62989447 | 158852291 | 0 | 2864178 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 619 | 224706535
+ | 562 | Health Services | 39602929 | 9190634 | 0 | 2864178 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 619 | 51658360
+ | 563 | Mental Health Services | 7307090 | 32149 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 7339239
+ | 564 | Public Assistance Services | 8721687 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 8721687
+ | 569 | Other Human Services | 7357741 | 149629508 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 156987249
+Culture / Recreation |  |  | 21916182 | 27254204 | 0 | 16871428 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 66041814
+ | 571 | Libraries | 0 | 11600955 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11600955
+--- sheet 2024
+Pinellas County Government E |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Local Fiscal Year Ended Sept |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Account Code and Name |  |  | Governmental Funds |  |  |  |  | Proprietary Funds |  | Fiduciary Funds |  |  |  |  | 
+ |  |  | General | Special Revenue | Debt Service | Capital Projects | Permanent | Enterprise | Internal Service | Custodial | Pension | Trust | Private Purpose | Component Units | Total Account
+General Government Services  |  |  | 190386746 | 4762421 | 0 | 43060053 | 0 | 2548415 | 160577307 | 4951474569 | 0 | 0 | 0 | 3224155 | 5356033666
+ | 511 | Legislative | 2468540 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2468540
+ | 512 | Executive | 3154638 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3154638
+ | 513 | Financial and Administrative | 104173506 | 28578 | 0 | 0 | 0 | 0 | 0 | 4951474569 | 0 | 0 | 0 | 0 | 5055676653
+ | 514 | Legal Counsel | 5917805 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5917805
+ | 515 | Comprehensive Planning | 5832137 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3224155 | 9056292
+ | 516 | Non-Court Information System | 19552065 | 1232394 | 0 | 0 | 0 | 0 | 49119894 | 0 | 0 | 0 | 0 | 0 | 69904353
+ | 517 | Debt Service Payments | 0 | 0 | 0 | 0 | 0 | 2352485 | 0 | 0 | 0 | 0 | 0 | 0 | 2352485
+ | 519 | Other General Government Ser | 49288055 | 3501449 | 0 | 43060053 | 0 | 195930 | 111457413 | 0 | 0 | 0 | 0 | 0 | 207502900
+Public Safety |  |  | 472989957 | 229067817 | 0 | 7307094 | 0 | 0 | 73543280 | 9505626 | 0 | 0 | 0 | 0 | 792413774
+ | 521 | Law Enforcement | 432497297 | 1904770 | 0 | 0 | 0 | 0 | 73543280 | 9505626 | 0 | 0 | 0 | 0 | 517450973
+ | 522 | Fire Control | 1453196 | 19337463 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 20790659
+ | 523 | Detention and/or Correction | 3402835 | 0 | 0 | 2291446 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5694281
+ | 524 | Protective Inspections | 2125867 | 9131285 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11257152
+ | 525 | Emergency and Disaster Relie | 19303379 | 17598063 | 0 | 1033329 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 37934771
+ | 526 | Ambulance and Rescue Service | 0 | 178598404 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 178598404
+ | 527 | Medical Examiners | 9136097 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 9136097
+ | 528 | Consumer Affairs | 1468484 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1468484
+ | 529 | Other Public Safety | 3602802 | 2497832 | 0 | 3982319 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10082953
+Physical Environment |  |  | 10170929 | 37659597 | 0 | 48314776 | 0 | 270465212 | 0 | 0 | 0 | 0 | 0 | 0 | 366610514
+ | 533 | Water Utility Services | 0 | 0 | 0 | 0 | 0 | 97012626 | 0 | 0 | 0 | 0 | 0 | 0 | 97012626
+ | 534 | Garbage / Solid Waste Contro | 0 | 1772122 | 0 | 0 | 0 | 92600053 | 0 | 0 | 0 | 0 | 0 | 0 | 94372175
+ | 535 | Sewer / Wastewater Services | 22 | 9358672 | 0 | 0 | 0 | 80852533 | 0 | 0 | 0 | 0 | 0 | 0 | 90211227
+ | 537 | Conservation and Resource Ma | 3869811 | 3576190 | 0 | 39959838 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 47405839
+ | 538 | Flood Control / Stormwater M | 6301096 | 22952613 | 0 | 8354938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 37608647
+Transportation |  |  | 157238 | 77899988 | 0 | 50668801 | 0 | 24821206 | 0 | 0 | 0 | 0 | 0 | 0 | 153547233
+ | 541 | Road and Street Facilities | 157238 | 77899988 | 0 | 50668801 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 128726027
+ | 542 | Airports | 0 | 0 | 0 | 0 | 0 | 24821206 | 0 | 0 | 0 | 0 | 0 | 0 | 24821206
+Economic Environment |  |  | 31319702 | 69121100 | 0 | 14091525 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5966424 | 120498751
+ | 551 | Employment Opportunity and D | 646449 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 646449
+ | 552 | Industry Development | 3360015 | 53750869 | 0 | 8156129 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 65267013
+ | 553 | Veteran's Services | 681292 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 681292
+ | 554 | Housing and Urban Developmen | 26618688 | 15370231 | 0 | 5935056 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5966424 | 53890399
+ | 559 | Other Economic Environment | 13258 | 0 | 0 | 340 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 13598
+Human Services |  |  | 65694493 | 112871405 | 0 | 5508464 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 7002 | 184081364
+ | 562 | Health Services | 42198981 | 8639427 | 0 | 5508464 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 7002 | 56353874
+ | 563 | Mental Health Services | 7746533 | 65162 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 7811695
+ | 564 | Public Assistance Services | 8678596 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 8678596
+ | 569 | Other Human Services | 7070383 | 104166816 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 111237199
+Culture / Recreation |  |  | 23320662 | 19576757 | 0 | 14947410 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 57844829
+ | 571 | Libraries | 0 | 10509415 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10509415
+--- sheet 2023
+Pinellas County Government E |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Local Fiscal Year Ended Sept |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Account Code and Name |  |  | Governmental Funds |  |  |  |  | Proprietary Funds |  | Fiduciary Funds |  |  |  |  | 
+ |  |  | General | Special Revenue | Debt Service | Capital Projects | Permanent | Enterprise | Internal Service | Custodial | Pension | Trust | Private Purpose | Component Units | Total Account
+General Government Services  |  |  | 177858015 | 501459 | 0 | 3891218 | 0 | 2925837 | 153082494 | 5740572206 | 0 | 0 | 0 | 3065903 | 6081897132
+ | 511 | Legislative | 2388930 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2388930
+ | 512 | Executive | 2681565 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2681565
+ | 513 | Financial and Administrative | 95281984 | 11325 | 0 | 0 | 0 | 0 | 0 | 5740572206 | 0 | 0 | 0 | 0 | 5835865515
+ | 514 | Legal Counsel | 5670799 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5670799
+ | 515 | Comprehensive Planning | 5246741 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3065903 | 8312644
+ | 516 | Non-Court Information System | 16716833 | 106999 | 0 | 0 | 0 | 0 | 46656662 | 0 | 0 | 0 | 0 | 0 | 63480494
+ | 517 | Debt Service Payments | 0 | 0 | 0 | 0 | 0 | 2674092 | 0 | 0 | 0 | 0 | 0 | 0 | 2674092
+ | 519 | Other General Government Ser | 49871163 | 383135 | 0 | 3891218 | 0 | 251745 | 106425832 | 0 | 0 | 0 | 0 | 0 | 160823093
+Public Safety |  |  | 433925022 | 217134491 | 0 | 11575227 | 0 | 288197 | 66381846 | 8347670 | 0 | 0 | 0 | 0 | 737652453
+ | 521 | Law Enforcement | 396926065 | 0 | 0 | 0 | 0 | 0 | 66381846 | 8347670 | 0 | 0 | 0 | 0 | 471655581
+ | 522 | Fire Control | 1311025 | 18066917 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 19377942
+ | 523 | Detention and/or Correction | 3071471 | 0 | 0 | 5241569 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 8313040
+ | 524 | Protective Inspections | 2101143 | 10920514 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 13021657
+ | 525 | Emergency and Disaster Relie | 18553802 | 19528948 | 0 | 1151567 | 0 | 288197 | 0 | 0 | 0 | 0 | 0 | 0 | 39522514
+ | 526 | Ambulance and Rescue Service | 0 | 166783641 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 166783641
+ | 527 | Medical Examiners | 8259009 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 8259009
+ | 528 | Consumer Affairs | 1320552 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1320552
+ | 529 | Other Public Safety | 2381955 | 1834471 | 0 | 5182091 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 9398517
+Physical Environment |  |  | 9507577 | 25354099 | 0 | 14381068 | 0 | 262423585 | 0 | 0 | 0 | 0 | 0 | 0 | 311666329
+ | 533 | Water Utility Services | 0 | 11308 | 0 | 0 | 0 | 93909260 | 0 | 0 | 0 | 0 | 0 | 0 | 93920568
+ | 534 | Garbage / Solid Waste Contro | 0 | 1587819 | 0 | 0 | 0 | 86791825 | 0 | 0 | 0 | 0 | 0 | 0 | 88379644
+ | 535 | Sewer / Wastewater Services | 0 | 95097 | 0 | 0 | 0 | 81722500 | 0 | 0 | 0 | 0 | 0 | 0 | 81817597
+ | 537 | Conservation and Resource Ma | 3826119 | 1671480 | 0 | 7257557 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 12755156
+ | 538 | Flood Control / Stormwater M | 5681458 | 21988395 | 0 | 7123511 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 34793364
+Transportation |  |  | 2627 | 58770152 | 0 | 39825122 | 0 | 25876275 | 0 | 0 | 0 | 0 | 0 | 0 | 124474176
+ | 541 | Road and Street Facilities | 2627 | 58770152 | 0 | 39825122 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 98597901
+ | 542 | Airports | 0 | 0 | 0 | 0 | 0 | 25876275 | 0 | 0 | 0 | 0 | 0 | 0 | 25876275
+Economic Environment |  |  | 26493255 | 55903750 | 0 | 21431345 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4904881 | 108733231
+ | 551 | Employment Opportunity and D | 726942 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 726942
+ | 552 | Industry Development | 3360517 | 45281506 | 0 | 15992770 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 64634793
+ | 553 | Veteran's Services | 451882 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 451882
+ | 554 | Housing and Urban Developmen | 21904539 | 10622244 | 0 | 5438575 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4904881 | 42870239
+ | 559 | Other Economic Environment | 49375 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 49375
+Human Services |  |  | 58136990 | 9203078 | 0 | 716549 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 175 | 68056792
+ | 562 | Health Services | 35619396 | 8199287 | 0 | 716549 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 175 | 44535407
+ | 563 | Mental Health Services | 7368311 | 1003791 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 8372102
+ | 564 | Public Assistance Services | 8528108 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 8528108
+ | 569 | Other Human Services | 6621175 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6621175
+Culture / Recreation |  |  | 21647327 | 12361223 | 0 | 9397205 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 43405755
+ | 571 | Libraries | 0 | 9240557 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 9240557
+=== munifiscal/dunedinrevenues.xlsx: sheets ['2024', '2023', '2022', '2021', '2020', '2019', '2018', '2017', '2016', '2015', '2014', '2013', '2012', '2011', '2010', '2009', '2008']
+--- sheet 2024
+Dunedin Revenues Reported by |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Local Fiscal Year Ended Sept |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Account Code and Name |  |  | Governmental Funds |  |  |  |  | Proprietary Funds |  | Fiduciary Funds |  |  |  |  | 
+ |  |  | General | Special Revenue | Debt Service | Capital Projects | Permanent | Enterprise | Internal Service | Custodial | Pension | Trust | Private Purpose | Component Units | Total Account
+General Government Taxes |  |  | 21268085 | 7917263 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 29185348
+ | 311 | Ad Valorem Taxes | 15696606 | 2036377 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 17732983
+ | 312.41 | First Local Option Fuel Tax  | 0 | 469554 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 469554
+ | 312.63 | Local Government Infrastruct | 0 | 5411332 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5411332
+ | 314.1 | Utility Service Tax - Electr | 3878030 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3878030
+ | 314.4 | Utility Service Tax - Gas | 119705 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 119705
+ | 314.8 | Utility Service Tax - Propan | 14049 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 14049
+ | 315.2 | Local Communications Service | 1446669 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1446669
+ | 316 | Local Business Tax (Chapter  | 113026 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 113026
+Permits, Fees, and Special A |  |  | 3037695 | 1295525 | 0 | 0 | 0 | 170984 | 0 | 0 | 0 | 0 | 0 | 0 | 4504204
+ | 322 | Building Permits (Buildling  | 24125 | 1214828 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1238953
+ | 323.1 | Franchise Fee - Electricity | 2865983 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2865983
+ | 323.4 | Franchise Fee - Gas | 115401 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 115401
+ | 323.7 | Franchise Fee - Solid Waste | 0 | 0 | 0 | 0 | 0 | 68613 | 0 | 0 | 0 | 0 | 0 | 0 | 68613
+ | 324.11 | Impact Fees - Residential -  | 0 | 1459 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1459
+ | 324.12 | Impact Fees - Commercial - P | 0 | 5578 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5578
+ | 324.22 | Impact Fees - Commercial - P | 0 | 0 | 0 | 0 | 0 | 83671 | 0 | 0 | 0 | 0 | 0 | 0 | 83671
+ | 324.31 | Impact Fees - Residential -  | 0 | 3696 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3696
+ | 324.32 | Impact Fees - Commercial - T | 0 | 7012 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 7012
+ | 324.61 | Impact Fees - Residential -  | 0 | 62952 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 62952
+ | 329.5 | Other Fees and Special Asses | 32186 | 0 | 0 | 0 | 0 | 18700 | 0 | 0 | 0 | 0 | 0 | 0 | 50886
+Intergovernmental Revenues |  |  | 5826335 | 9260248 | 0 | 0 | 0 | 613044 | 0 | 0 | 0 | 0 | 0 | 0 | 15699627
+ | 331.39 | Federal Grant - Physical Env | 0 | 0 | 0 | 0 | 0 | 113044 | 0 | 0 | 0 | 0 | 0 | 0 | 113044
+ | 331.5 | Federal Grant - Economic Env | 115510 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 115510
+ | 331.51 | Federal Grant - American Res | 0 | 7060252 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 7060252
+ | 331.7 | Federal Grant - Culture / Re | 14880 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 14880
+ | 334.49 | State Grant - Transportation | 75000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 75000
+ | 334.5 | State Grant - Economic Envir | 818 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 818
+ | 334.7 | State Grant - Culture / Recr | 0 | 2199996 | 0 | 0 | 0 | 500000 | 0 | 0 | 0 | 0 | 0 | 0 | 2699996
+ | 335.125 | State Shared Revenues - Gene | 1697602 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1697602
+ | 335.14 | State Shared Revenues - Gene | 24770 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 24770
+ | 335.15 | State Shared Revenues - Gene | 55577 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 55577
+ | 335.18 | State Shared Revenues - Gene | 2878494 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2878494
+ | 335.21 | State Shared Revenues - Publ | 23528 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 23528
+ | 335.45 | State Shared Revenues - Tran | 32884 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 32884
+ | 337.2 | Grants from Other Local Unit | 10000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10000
+ | 337.7 | Grants from Other Local Unit | 145206 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 145206
+ | 338 | Shared Revenue from Other Lo | 626012 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 626012
+ | 339 | Payments from Other Local Un | 126054 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 126054
+Charges for Services |  |  | 8395325 | 359254 | 0 | 0 | 0 | 34214337 | 16620091 | 0 | 0 | 0 | 0 | 0 | 59589007
+ | 341.2 | General Government - Interna | 0 | 0 | 0 | 0 | 0 | 0 | 16620091 | 0 | 0 | 0 | 0 | 0 | 16620091
+--- sheet 2023
+Dunedin Revenues Reported by |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Local Fiscal Year Ended Sept |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Account Code and Name |  |  | Governmental Funds |  |  |  |  | Proprietary Funds |  | Fiduciary Funds |  |  |  |  | 
+ |  |  | General | Special Revenue | Debt Service | Capital Projects | Permanent | Enterprise | Internal Service | Custodial | Pension | Trust | Private Purpose | Component Units | Total Account
+General Government Taxes |  |  | 19850268 | 7598431 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 27448699
+ | 311 | Ad Valorem Taxes | 14108271 | 1701199 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 15809470
+ | 312.41 | First Local Option Fuel Tax  | 0 | 483277 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 483277
+ | 314.1 | Utility Service Tax - Electr | 4016391 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 4016391
+ | 314.4 | Utility Service Tax - Gas | 136739 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 136739
+ | 314.8 | Utility Service Tax - Propan | 13220 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 13220
+ | 315.2 | Local Communications Service | 1434337 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1434337
+ | 316 | Local Business Tax (Chapter  | 141310 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 141310
+ | 319.9 | Other General Taxes | 0 | 5413955 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5413955
+Permits, Fees, and Special A |  |  | 3412939 | 1365561 | 0 | 0 | 0 | 378432 | 0 | 0 | 0 | 0 | 0 | 0 | 5156932
+ | 322 | Building Permits (Buildling  | 25716 | 1130514 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1156230
+ | 323.1 | Franchise Fee - Electricity | 3143226 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3143226
+ | 323.4 | Franchise Fee - Gas | 140047 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 140047
+ | 323.7 | Franchise Fee - Solid Waste | 0 | 0 | 0 | 0 | 0 | 63138 | 0 | 0 | 0 | 0 | 0 | 0 | 63138
+ | 324.11 | Impact Fees - Residential -  | 0 | 10255 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10255
+ | 324.12 | Impact Fees - Commercial - P | 0 | 14501 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 14501
+ | 324.22 | Impact Fees - Commercial - P | 0 | 0 | 0 | 0 | 0 | 263044 | 0 | 0 | 0 | 0 | 0 | 0 | 263044
+ | 324.32 | Impact Fees - Commercial - T | 0 | 24050 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 24050
+ | 324.61 | Impact Fees - Residential -  | 0 | 186241 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 186241
+ | 329.5 | Other Fees and Special Asses | 103950 | 0 | 0 | 0 | 0 | 52250 | 0 | 0 | 0 | 0 | 0 | 0 | 156200
+Intergovernmental Revenues |  |  | 6985374 | 2003661 | 0 | 0 | 0 | 6486 | 0 | 0 | 0 | 0 | 0 | 0 | 8995521
+ | 331.2 | Federal Grant - Public Safet | 1000000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1000000
+ | 331.5 | Federal Grant - Economic Env | 230877 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 230877
+ | 331.51 | Federal Grant - American Res | 0 | 795330 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 795330
+ | 331.7 | Federal Grant - Culture / Re | 6543 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 6543
+ | 334.49 | State Grant - Transportation | 25000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 25000
+ | 334.5 | State Grant - Economic Envir | 1363 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1363
+ | 334.62 | State Grant - Human Services | 0 | 0 | 0 | 0 | 0 | 6486 | 0 | 0 | 0 | 0 | 0 | 0 | 6486
+ | 334.7 | State Grant - Culture / Recr | 0 | 1208331 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1208331
+ | 335.125 | State Shared Revenues - Gene | 1789560 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1789560
+ | 335.14 | State Shared Revenues - Gene | 24177 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 24177
+ | 335.15 | State Shared Revenues - Gene | 47503 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 47503
+ | 335.18 | State Shared Revenues - Gene | 3059243 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3059243
+ | 335.21 | State Shared Revenues - Publ | 19233 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 19233
+ | 335.45 | State Shared Revenues - Tran | 28531 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 28531
+ | 337.2 | Grants from Other Local Unit | 10000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10000
+ | 337.7 | Grants from Other Local Unit | 66492 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 66492
+ | 338 | Shared Revenue from Other Lo | 559103 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 559103
+ | 339 | Payments from Other Local Un | 117749 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 117749
+Charges for Services |  |  | 7926863 | 346269 | 0 | 0 | 0 | 32735686 | 14659241 | 0 | 0 | 0 | 0 | 0 | 55668059
+ | 341.2 | General Government - Interna | 0 | 0 | 0 | 0 | 0 | 0 | 14659241 | 0 | 0 | 0 | 0 | 0 | 14659241
+--- sheet 2022
+Dunedin Revenues Reported by |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Local Fiscal Year Ended Sept |  |  |  |  |  |  |  |  |  |  |  |  |  |  | 
+Account Code and Name |  |  | Governmental Funds |  |  |  |  | Proprietary Funds |  | Fiduciary Funds |  |  |  |  | 
+ |  |  | General | Special Revenue | Debt Service | Capital Projects | Permanent | Enterprise | Internal Service | Custodial | Pension | Trust | Private Purpose | Component Units | Total Account
+General Government Taxes |  |  | 17861391 | 7315569 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 25176960
+ | 311 | Ad Valorem Taxes | 12557143 | 1518589 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 14075732
+ | 312.41 | First Local Option Fuel Tax  | 0 | 476062 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 476062
+ | 314.1 | Utility Service Tax - Electr | 3656248 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3656248
+ | 314.4 | Utility Service Tax - Gas | 136907 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 136907
+ | 314.8 | Utility Service Tax - Propan | 10979 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10979
+ | 315.2 | Local Communications Service | 1352669 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1352669
+ | 316 | Local Business Tax (Chapter  | 147445 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 147445
+ | 319.9 | Other General Taxes | 0 | 5320918 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 5320918
+Permits, Fees, and Special A |  |  | 3128305 | 1571082 | 0 | 0 | 0 | 276844 | 0 | 0 | 0 | 0 | 0 | 0 | 4976231
+ | 322 | Building Permits (Buildling  | 37318 | 1307620 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1344938
+ | 323.1 | Franchise Fee - Electricity | 2863163 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2863163
+ | 323.4 | Franchise Fee - Gas | 141999 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 141999
+ | 323.7 | Franchise Fee - Solid Waste | 0 | 0 | 0 | 0 | 0 | 61552 | 0 | 0 | 0 | 0 | 0 | 0 | 61552
+ | 324.11 | Impact Fees - Residential -  | 0 | 17438 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 17438
+ | 324.12 | Impact Fees - Commercial - P | 0 | 497 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 497
+ | 324.22 | Impact Fees - Commercial - P | 0 | 0 | 0 | 0 | 0 | 160767 | 0 | 0 | 0 | 0 | 0 | 0 | 160767
+ | 324.32 | Impact Fees - Commercial - T | 0 | 27956 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 27956
+ | 324.61 | Impact Fees - Residential -  | 0 | 200437 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 200437
+ | 325.2 | Special Assessments - Charge | 0 | 17134 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 17134
+ | 329.5 | Other Fees and Special Asses | 85825 | 0 | 0 | 0 | 0 | 54525 | 0 | 0 | 0 | 0 | 0 | 0 | 140350
+Intergovernmental Revenues |  |  | 7698891 | 2844498 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10543389
+ | 331.5 | Federal Grant - Economic Env | 11351 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 11351
+ | 331.51 | Federal Grant - American Res | 2020000 | 1344498 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3364498
+ | 331.7 | Federal Grant - Culture / Re | 8179 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 8179
+ | 334.7 | State Grant - Culture / Recr | 0 | 1500000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1500000
+ | 335.125 | State Shared Revenues - Gene | 1796636 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1796636
+ | 335.14 | State Shared Revenues - Gene | 24899 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 24899
+ | 335.15 | State Shared Revenues - Gene | 52938 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 52938
+ | 335.18 | State Shared Revenues - Gene | 3051926 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 3051926
+ | 335.21 | State Shared Revenues - Publ | 19599 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 19599
+ | 335.45 | State Shared Revenues - Tran | 27701 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 27701
+ | 337.2 | Grants from Other Local Unit | 10000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 10000
+ | 337.7 | Grants from Other Local Unit | 57285 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 57285
+ | 338 | Shared Revenue from Other Lo | 510734 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 510734
+ | 339 | Payments from Other Local Un | 107643 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 107643
+Charges for Services |  |  | 6900789 | 286301 | 0 | 0 | 0 | 30910703 | 13504630 | 0 | 0 | 0 | 0 | 0 | 51602423
+ | 341.2 | General Government - Interna | 0 | 0 | 0 | 0 | 0 | 0 | 13504630 | 0 | 0 | 0 | 0 | 0 | 13504630
+ | 341.9 | General Government - Other G | 2511069 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 2511069
+ | 342.2 | Public Safety - Fire Protect | 870000 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 870000
+ | 342.4 | Public Safety - Emergency Ma | 1678017 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 1678017
