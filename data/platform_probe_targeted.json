@@ -1,0 +1,143 @@
+[
+ {
+  "name": "Brevard County",
+  "hits": [
+   {
+    "platform": "legistar",
+    "client": "brevardfl",
+    "bodies": 12
+   },
+   {
+    "platform": "granicus",
+    "host": "brevardfl.granicus.com",
+    "view_id": 1,
+    "items": 101
+   }
+  ]
+ },
+ {
+  "name": "Volusia County",
+  "hits": []
+ },
+ {
+  "name": "Marion County",
+  "hits": [
+   {
+    "platform": "legistar",
+    "client": "marionfl",
+    "bodies": 23
+   },
+   {
+    "platform": "granicus",
+    "host": "marionfl.granicus.com",
+    "view_id": 1,
+    "items": 103
+   }
+  ]
+ },
+ {
+  "name": "Leon County",
+  "hits": []
+ },
+ {
+  "name": "Clay County",
+  "hits": []
+ },
+ {
+  "name": "DeSoto County",
+  "hits": [
+   {
+    "platform": "legistar",
+    "client": "desotobocc",
+    "bodies": 12
+   }
+  ]
+ },
+ {
+  "name": "Manatee County",
+  "hits": []
+ },
+ {
+  "name": "Hialeah",
+  "hits": []
+ },
+ {
+  "name": "West Palm Beach",
+  "hits": []
+ },
+ {
+  "name": "Palm Bay",
+  "hits": []
+ },
+ {
+  "name": "Pompano Beach",
+  "hits": []
+ },
+ {
+  "name": "Fort Myers",
+  "hits": []
+ },
+ {
+  "name": "Lauderhill",
+  "hits": []
+ },
+ {
+  "name": "Sarasota",
+  "hits": []
+ },
+ {
+  "name": "Panama City",
+  "hits": []
+ },
+ {
+  "name": "Naples",
+  "hits": []
+ },
+ {
+  "name": "Homestead",
+  "hits": []
+ },
+ {
+  "name": "DeLand",
+  "hits": [
+   {
+    "platform": "civicclerk",
+    "tenant": "delandfl"
+   },
+   {
+    "platform": "granicus",
+    "host": "delandfl.granicus.com",
+    "view_id": 1,
+    "items": 100
+   }
+  ]
+ },
+ {
+  "name": "Temple Terrace",
+  "hits": [
+   {
+    "platform": "civicclerk",
+    "tenant": "templeterracefl"
+   },
+   {
+    "platform": "granicus",
+    "host": "templeterrace.granicus.com",
+    "view_id": 1,
+    "items": 5
+   }
+  ]
+ },
+ {
+  "name": "Miami Gardens",
+  "hits": [
+   {
+    "platform": "civicclerk",
+    "tenant": "miamigardensfl"
+   }
+  ]
+ },
+ {
+  "name": "Largo",
+  "hits": []
+ }
+]
