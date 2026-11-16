@@ -1,18 +1,24 @@
-"""Test the eAgenda reader for Hillsborough County. Writes data/hcfl_probe.txt."""
-import json, sys, traceback
+"""One-off: scan Hillsborough County BOCC agendas for 2026 from eAgenda into the archive."""
+import json, sys
+from datetime import datetime, timezone
 from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
-from fetch_pdf_agendas import eagenda_docs, fetch
+import archive_items
+from fetch_pdf_agendas import eagenda_docs, scan_doc
 cfg = json.loads((ROOT / "config/pdf_sources.json").read_text())
+cfg = {**cfg, "max_pages_per_pdf": 400}
 g = cfg["eagenda"][0]
-out = []
-try:
-    html = fetch(g["base"] + "/results?F_MeetingType=Regular+BOCC+Meeting&F_DocType=Agenda&d-1334500-p=1")
-    out.append(f"results page len {len(html)}; rows marker count {html.count('title=\"Meeting\"')}; head {html[:300]!r}")
-    docs = eagenda_docs(g, "2026-01-01", "2026-12-31", max_pages=12)
-    out.append(f"docs {len(docs)}: {docs[:5]}")
-except Exception:
-    out.append(traceback.format_exc())
-(ROOT / "data/hcfl_probe.txt").write_text("\n".join(out))
-print("\n".join(out))
+now = datetime.now(timezone.utc)
+docs = eagenda_docs(g, "2026-01-01", now.date().isoformat(), max_pages=12)
+stp = ROOT / "data/backfill_pdf_state.json"
+st = json.loads(stp.read_text())
+store, d = {"items": []}, {"scanned": [], "errors": []}
+for dt, u, body in docs:
+    if u in st["seen"]: continue
+    before = len(store["items"])
+    scan_doc(store, {}, d, cfg, now, g["entity_id"], g["name"], "eagenda", body, dt, u, g["base"] + "/home", final=True)
+    st["seen"][u] = {"status": "ok", "hits": len(store["items"]) - before, "date": dt}
+print(archive_items.merge(store["items"], "pdf_backfill"), len(store["items"]), d["errors"][:3])
+print(json.dumps(d["scanned"], indent=0)[:2000])
+stp.write_text(json.dumps(st, indent=1, sort_keys=True))
