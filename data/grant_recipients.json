@@ -7380,14 +7380,23 @@
      "amount": null,
      "text": "Approval of an Amendment to the Interlocal Agreement with Polk County to cover Construction, Engineering, and Inspection (CEI) and post-design service costs not funded by the FDOT grant for the Ridge Scenic Highway (RSH) Connector Trail.",
      "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&event_id=1593"
+    },
+    {
+     "entity_id": "m-delraybeach",
+     "government": "Delray Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Sponsors: Public Works Department Agenda Cover Report A1a - Right of Way Deed - 814 SE 2nd Ave - LM One LLC A1b - Legal Review Right of Way Deed - 814 SE 2nd Ave - KM One LLC A2a - Right of Way Deed - 106 Heather LN - 106 Heather Lane LLC A2b - Legal Review Right of Way Deed - 106 Heather LN - 106 H",
+     "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3523"
     }
    ],
    "governments": [
     "Boynton Beach",
     "Coral Springs",
+    "Delray Beach",
     "Lake Wales"
    ],
-   "award_count": 4,
+   "award_count": 5,
    "total_amount": 0
   },
   "construction professional services funding for demolition": {
@@ -10476,12 +10485,20 @@
      "amount": null,
      "text": "B. RESOLUTIONS RES. NO. 2026-18 A Resolution of the City of Venice, Florida, Approving Amendment No. 4 to the Public Transportation Grant Agreement for Project Number 452977-1-94-01 by and Between the State of Florida Department of Transportation and the City of Venice, Florida for the Venice Munici",
      "link": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=2004"
+    },
+    {
+     "entity_id": "m-venice",
+     "government": "Venice",
+     "meeting_date": null,
+     "amount": null,
+     "text": "B. RESOLUTIONS RES. NO. 2026-06 A Resolution of the City of Venice, Florida, Approving an Amendment No. 2 to the Public Transportation Grant Agreement for Project Number 438750-1-94-02 by and Between the State of Florida Department of Transportation and the City of Venice, Florida, for the Design an",
+     "link": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1927"
     }
    ],
    "governments": [
     "Venice"
    ],
-   "award_count": 1,
+   "award_count": 2,
    "total_amount": 0
   },
   "expansion fbo apron": {
@@ -16279,9 +16296,205 @@
    ],
    "award_count": 2,
    "total_amount": 0
+  },
+  "fy25 26 funding construction professional services attachments": {
+   "name": "FY25-26 Funding Construction Professional Services Attachments",
+   "awards": [
+    {
+     "entity_id": "m-delraybeach",
+     "government": "Delray Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Sponsors: Public Works Department Agenda Cover Report First Amendment_CRA ILA CIP FY 2025-2026 Simple Legal Review Approval CRA ILA CIP Funding ILA CRA_CITY for FY25-26 Funding Construction Professional Services Attachments: APPROVAL OF HOLD HARMLESS AGREEMENT FOR THE SALE OF ONE CANINE6.G. Recommen",
+     "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3523"
+    }
+   ],
+   "governments": [
+    "Delray Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "palm beach metropolitan planning organization": {
+   "name": "Palm Beach Metropolitan Planning Organization",
+   "awards": [
+    {
+     "entity_id": "m-wellington",
+     "government": "Wellington",
+     "meeting_date": null,
+     "amount": 1500000.0,
+     "text": "H. 26-7699 RESOLUTION NO. R2026-13 (RESOLUTION OF SUPPORT FOR PALM BEACH METROPOLITAN PLANNING ORGANIZATION (MPO) TRANSPORTATION ALTERNATIVES (TA) GRANT PROGRAM) A RESOLUTION OF WELLINGTON, FLORIDA\u2019S COUNCIL TO SUPPORT AN APPLICATION FOR FINANCIAL ASSISTANCE PURSUANT TO THE PALM BEACH METROPOLITAN P",
+     "link": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1767"
+    },
+    {
+     "entity_id": "m-wellington",
+     "government": "Wellington",
+     "meeting_date": null,
+     "amount": 1500000.0,
+     "text": "K. 26-7699 RESOLUTION NO. R2026-13 (RESOLUTION OF SUPPORT FOR PALM BEACH METROPOLITAN PLANNING ORGANIZATION (MPO) TRANSPORTATION ALTERNATIVES (TA) GRANT PROGRAM) A RESOLUTION OF WELLINGTON, FLORIDA\u2019S COUNCIL TO SUPPORT AN APPLICATION FOR FINANCIAL ASSISTANCE PURSUANT TO THE PALM BEACH METROPOLITAN P",
+     "link": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1766"
+    }
+   ],
+   "governments": [
+    "Wellington"
+   ],
+   "award_count": 2,
+   "total_amount": 3000000.0
+  },
+  "wellington": {
+   "name": "Wellington",
+   "awards": [
+    {
+     "entity_id": "m-wellington",
+     "government": "Wellington",
+     "meeting_date": null,
+     "amount": null,
+     "text": "B. 26-7667 WELLINGTON COMMUNITY FOUNDATION FUNDING APPROVAL AND CHECK PRESENTATION Wellington Community Foundation funding approval and check presentation for Wellington community initiatives.",
+     "link": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1767"
+    }
+   ],
+   "governments": [
+    "Wellington"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "friends crystal river national wildlife refuge": {
+   "name": "Friends of Crystal River National Wildlife Refuge",
+   "awards": [
+    {
+     "entity_id": "m-crystalriver",
+     "government": "Crystal River",
+     "meeting_date": null,
+     "amount": 25000.0,
+     "text": "D. Motion to approve Resolution No. 25-R-13 for a $25,000 contribution to Friends of Crystal River National Wildlife Refuge to help fund construction of two manatee viewing platforms along Magnolia Springs, one wetland observation platform, and a fishing pier/dock along Lake Crystal.",
+     "link": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=321"
+    }
+   ],
+   "governments": [
+    "Crystal River"
+   ],
+   "award_count": 1,
+   "total_amount": 25000.0
+  },
+  "gadsden senior center": {
+   "name": "Gadsden Senior Center",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Item 11.r Approval to amend existing Volunteer Fire Contracts. (Robertsville) Item 11.s Approval of a study facilitated by Vibrant Medical Professionals to examine Medicaid billing processes and resulting revenues Item 11.t Approval to move funding from a Due To liability owed to the Gadsden Senior ",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=122"
+    },
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "11.t Approval to move funding from a Due To liability owed to the Gadsden Senior Center 2025- 26 budget. (Reginald James, Interim County Administrator/ Rose Raynak, Finance Director) (MATERIALS TO BE PROVIDED) 11.u Approval of Grant Agreement between Gadsden County and the Florida Division of Emerge",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=122"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 2,
+   "total_amount": 0
+  },
+  "bridges": {
+   "name": "Bridges",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "G. Lorie Ayers, General Services Director - Florida Commerce Storm Infrastructure Repair Program (IRP) Grant Application for Bridges",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=248"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "hardee county civic center": {
+   "name": "Hardee County Civic Center",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "H. Lorie Ayers, General Services Director - Florida Commerce Storm Infrastructure Repair Program (IRP) Grant Application for the Hardee County Civic Center",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=248"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "hardee county health department": {
+   "name": "Hardee County Health Department",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "I. Lorie Ayers, General Services Director - Florida Commerce Storm Infrastructure Repair Program (IRP) Grant Application for the Hardee County Health Department",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=248"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "three bridges": {
+   "name": "Three Bridges",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "J. Lorie Ayers, General Services Director - Florida Commerce Storm Infrastructure Repair Program (IRP) Grant Application for Three Bridges",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=248"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "waterway debris in hardee county": {
+   "name": "Waterway Debris in Hardee County",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "K. Lorie Ayers, General Services Director - Florida Commerce Storms Infrastructure Repair Program (IRP) Grant Application for Waterway Debris in Hardee County",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=248"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
   }
  },
- "generated_utc": "2026-11-17T17:28:33+00:00",
+ "generated_utc": "2026-11-17T17:59:50+00:00",
  "multi_government": [
   "commission",
   "section",
