@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-17T17:29:57+00:00",
- "count": 197,
+ "generated_utc": "2026-11-17T19:10:27+00:00",
+ "count": 199,
  "governments": {
   "m-fortlauderdale": {
    "name": "Fort Lauderdale",
@@ -42,7 +42,7 @@
    "status": "ok",
    "client": "jaxcityc",
    "events": 10,
-   "flagged": 112
+   "flagged": 116
   },
   "m-pinellaspark": {
    "name": "Pinellas Park",
@@ -102,7 +102,7 @@
    "name": "Miramar",
    "status": "ok",
    "client": "miramar",
-   "events": 2,
+   "events": 3,
    "flagged": 12
   },
   "m-deltona": {
@@ -179,7 +179,7 @@
    "name": "Marion County",
    "status": "ok",
    "client": "marionfl",
-   "events": 7,
+   "events": 8,
    "flagged": 23
   },
   "m-pompanobeach": {

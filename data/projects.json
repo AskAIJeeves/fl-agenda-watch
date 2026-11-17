@@ -1,5 +1,5 @@
 {
-"generated_utc": "2026-11-17T17:59:49+00:00",
+"generated_utc": "2026-11-17T19:40:13+00:00",
 "projects": {
 "c-brevard|ref:file 6566": {
 "government": "Brevard County",
@@ -10061,6 +10061,46 @@
 "first_date": null,
 "last_date": null
 },
+"c-gadsden|item:c-gadsden|nodate|0eba47ac|50f25fa71cd2": {
+"government": "Gadsden County",
+"name": "Request to ADD under Public Hearing: Item 10.c Approval of Resolution 2026-002 Budget Amendment for FY25-26 Sheriff’s Department Item 10.d Approval of Resolutio",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"c-gadsden|item:c-gadsden|nodate|0eba47ac|c59110cfe36a": {
+"government": "Gadsden County",
+"name": "11.a Approval of Modification No. 2 which extends the expiration date of the Hurricane Shelter Retrofit Agreement #F0100 (Tashonda Whaley, Emergency Management ",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"c-gadsden|item:c-gadsden|nodate|3ce1d8f6|404eeba774ed": {
+"government": "Gadsden County",
+"name": "11.k Approval of Amendments to Gadsden County Procurement Policy (Reginald James, Interim County Administrator / Louis J. Baptiste, Interim County Administrator",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"c-gadsden|item:c-gadsden|nodate|3ce1d8f6|9cd29dbc148e": {
+"government": "Gadsden County",
+"name": "under General Business: Item 11.L Approval of Resolution 2025-034 Grant Budget Amendment for FY2025",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
 "c-gadsden|item:c-gadsden|nodate|41d65c2b|46f7bb76bb21": {
 "government": "Gadsden County",
 "name": "Approval of 2026 Summer Youth Employment Program Plan (Reginald James, Interim County Administrator/Jeronda Robinson, Director of Human Resources) 11.p Request ",
@@ -10231,6 +10271,56 @@
 "first_date": null,
 "last_date": null
 },
+"c-gadsden|item:c-gadsden|nodate|f4108bfe|404eeba774ed": {
+"government": "Gadsden County",
+"name": "11.k Approval of Amendments to Gadsden County Procurement Policy (Reginald James, Interim County Administrator / Louis J. Baptiste, Interim County Administrator",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"c-gadsden|item:c-gadsden|nodate|f4108bfe|9cd29dbc148e": {
+"government": "Gadsden County",
+"name": "under General Business: Item 11.L Approval of Resolution 2025-034 Grant Budget Amendment for FY2025",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"c-gadsden|item:c-gadsden|nodate|f81b2313|84949bdde163": {
+"government": "Gadsden County",
+"name": "11.m Approval of the CDBG-DR EMS Quincy Grant Agreement M0026 Amendment #2 to Extend the Agreement Expiration Date through September 30, 2026. (Reginald James, ",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"c-gadsden|item:c-gadsden|nodate|f81b2313|efc8813d389e": {
+"government": "Gadsden County",
+"name": "11.c Approval and Execution of State Aid Grant Agreement (Reginald James, Interim County Administrator / Tabitha D. Washington, Director of Library Services) 11",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"c-gadsden|ref:ord/res 2026-001": {
+"government": "Gadsden County",
+"name": "11.e Approval of Resolution 2026-001 Grant Budget Amendment for FY25-26 Sheriff’s Department (Reginald James, Interim County Administrator / Rose Raynak, Financ",
+"items": 4,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
 "c-gadsden|ref:ord/res 2026-011": {
 "government": "Gadsden County",
 "name": "11.a Approval of Resolution 2026-011 Grant Budget Amendment for FY26",
@@ -10296,6 +10386,36 @@
 "name": "B. - Motion to approve the submission and acceptance of the Florida Department of Law Enforcement Justice Assistance Grant (JAG) award number JG234 for the purc",
 "items": 1,
 "spend_total": 88300.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|19450b31|38911b570265": {
+"government": "Hardee County",
+"name": "B. - Motion to approve the submission and acceptance of the Department of Agriculture and Consumer Services Countywide Mosquito Control grant for FY2025-26, in ",
+"items": 1,
+"spend_total": 69600.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|19450b31|52462d231464": {
+"government": "Hardee County",
+"name": "- Motion to approve the agreement the County and the Central Florida Behavioral Health Network, Inc. for Florida Opioid Settlement Funding in an amount not to e",
+"items": 1,
+"spend_total": 59700.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|19450b31|8ff4aabccd3f": {
+"government": "Hardee County",
+"name": "- Motion to approve the submission and acceptance of the Florida Department of Law Enforcement, Law Enforcement Salary Assistance grant award for Hardee County ",
+"items": 1,
+"spend_total": 513700.0,
 "receipts_total": null,
 "total_method": "single amount",
 "first_date": null,
@@ -10786,6 +10906,156 @@
 "name": "- Motion to approve the contracts between the County and the Hardee County Sheriff's Office for annual work squad contracts for Parks and Recreation in the amou",
 "items": 1,
 "spend_total": 141400.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|58b71875|56201405515b": {
+"government": "Hardee County",
+"name": "- Motion to approve the agreement between the County and S-Works Construction Corporation for the construction of the Pioneer Park Bathhouse in an amount not to",
+"items": 1,
+"spend_total": 216800.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|58b71875|d0c615d8a3d5": {
+"government": "Hardee County",
+"name": "H. Lorie Ayers, General Services Director - FDEP Grant Agreement for Phase 7 Regional Wastewater Improvements",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|58b71875|f78c15c0040f": {
+"government": "Hardee County",
+"name": "- Motion to approve the acceptance of the State of Florida Department of Management Services grant agreement S27-25-07-16 for Prepaid Next Generation 911 (NG911",
+"items": 1,
+"spend_total": 359800.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|58b71875|f8439cecc818": {
+"government": "Hardee County",
+"name": "- Motion to accept the Florida Department of Environmental Protection grant agreement QG038 for Hardee County Phase 7 Regional Wastewater Improvements in an amo",
+"items": 1,
+"spend_total": 3385100.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|5b63e612|18370519f2b9": {
+"government": "Hardee County",
+"name": "C. Tapanga Arana, Grants Coordinator - CDBG Grant Agreement for Hardee County Fire Station No. 1",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|5b63e612|380f569a0358": {
+"government": "Hardee County",
+"name": "- Motion to approve the submission and acceptance of the Department of Agriculture and Consumer Services Countywide Mosquito Control grant for FY2025-26, in the",
+"items": 1,
+"spend_total": 56000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|5b63e612|41c64526370c": {
+"government": "Hardee County",
+"name": "- Motion to approve the submission and acceptance of the State of Florida Department of Commerce Federally Funded Community Development Block Grant Disaster Rec",
+"items": 1,
+"spend_total": 24600.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|5b63e612|7065ae33be33": {
+"government": "Hardee County",
+"name": "C. Motion to approve the ratification of the Spring State Grant E911 Hardware grant application in the amount of $359,841.42; authorizing the County Manager or ",
+"items": 1,
+"spend_total": 359800.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|5b63e612|8bc7e9ce95bb": {
+"government": "Hardee County",
+"name": "J. Motion to approve the submission and acceptance of the Department of Homeland Security Fiscal Year 2024 Staffing for Adequate Fire and Emergency Response (SA",
+"items": 1,
+"spend_total": 1172600.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|5b63e612|97472751ccdb": {
+"government": "Hardee County",
+"name": "E. Tapanga Arana, Grants Coordinator - Addendum #1 to CFRPC Interlocal Agreement for the Revised Vulnerability Assessment Contract",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|5b63e612|a698e6362f10": {
+"government": "Hardee County",
+"name": "M. Motion to approve Change Order 1 with Ajax Building Company, LLC for the Emergency Operations Center Facility in the amount of $70,000.90; authorizing the Co",
+"items": 1,
+"spend_total": 70000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|5b63e612|cbc6a377cb1d": {
+"government": "Hardee County",
+"name": "- Motion to approve the submission and acceptance of the application for disaster assistance local match reduction or waiver and payment deferral application fo",
+"items": 1,
+"spend_total": 39600.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|5b63e612|d160ccd5242e": {
+"government": "Hardee County",
+"name": "D. Tapanga Arana, Grants Coordinator - CDBG Grant for Wauchula Hills Lift Station",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|5b63e612|d6e38f75ebb9": {
+"government": "Hardee County",
+"name": "- Motion to approve the submission and acceptance of the State of Florida Department of Commerce Federally Funded Community Development Block Grant Disaster Rec",
+"items": 1,
+"spend_total": 24000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|5b63e612|d8c8735c1bb0": {
+"government": "Hardee County",
+"name": "- Motion to approve the submission and acceptance of the T-Mobile Hometown Grant application for Pioneer Park playground renovations in the amount of $50,000; a",
+"items": 1,
+"spend_total": 50000.0,
 "receipts_total": null,
 "total_method": "single amount",
 "first_date": null,
@@ -11431,6 +11701,46 @@
 "first_date": null,
 "last_date": null
 },
+"c-hardee|item:c-hardee|nodate|d086c6b0|083c0dfd9832": {
+"government": "Hardee County",
+"name": "G. Motion to approve the contract for construction between the County and Garland/DBS, Inc. for the pool pavillion building renovations in an amount not to exce",
+"items": 1,
+"spend_total": 100000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|d086c6b0|24e4957628ea": {
+"government": "Hardee County",
+"name": "F. Motion to approve the submission and acceptance of the State of Florida, Division of Emergency Management's Emergency Management Preparedness and Assistance ",
+"items": 1,
+"spend_total": 105800.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|d086c6b0|3f7c9e1f8e72": {
+"government": "Hardee County",
+"name": "H. Motion to approve the contracts between the County and the Hardee County Sheriff's Office for the 2026 Work Squads for parks and recreation department ($108,",
+"items": 1,
+"spend_total": 116500.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|d086c6b0|57067b7fabcf": {
+"government": "Hardee County",
+"name": "B. Motion to approve the settlement agreement in the amount of $55,000; authorizing the County Manager to execute the settlement agreement in substantially the ",
+"items": 1,
+"spend_total": 55000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
 "c-hardee|item:c-hardee|nodate|d0cf1a1f|21c076577d35": {
 "government": "Hardee County",
 "name": "C. Motion to ratify the submission and acceptance of the Florida Department of Commerce Fiscal Year 2026-27 Community Planning Technical Assistance Program Gran",
@@ -11508,6 +11818,16 @@
 "spend_total": 58800.0,
 "receipts_total": null,
 "total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|item:c-hardee|nodate|d39413a7|2a305e6c4136": {
+"government": "Hardee County",
+"name": "N. Lorie Ayers, General Services Director - HMGP Grant for West Main Street Traffic Light",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
 "first_date": null,
 "last_date": null
 },
@@ -11608,6 +11928,46 @@
 "spend_total": null,
 "receipts_total": null,
 "total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|ref:ord/res 2025-50": {
+"government": "Hardee County",
+"name": "- Motion to approve Resolution 2025-50, A Resolution of the Board of County Commissioners of Hardee County, Florida, approving the award of Invitation to Bid (I",
+"items": 1,
+"spend_total": 437200.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|ref:ord/res 2025-65": {
+"government": "Hardee County",
+"name": "A. Motion to approve Resolution 2025-65, A Resolution of the Board of County Commissioners of Hardee County, Florida ratifying and approving entrance into an in",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|ref:ord/res 2025-68": {
+"government": "Hardee County",
+"name": "- Motion to approve Resolution 2025-68, A Resolution of the Board of County Commissioners of Hardee County, Florida, approving the award of invitation to bid (I",
+"items": 1,
+"spend_total": 1467300.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"c-hardee|ref:ord/res 2025-70": {
+"government": "Hardee County",
+"name": "- Motion to approve Resolution 2025-70, A Resolution of the Board of County Commissioners of Hardee County, Florida, approving the increase of the construction ",
+"items": 1,
+"spend_total": 550500.0,
+"receipts_total": null,
+"total_method": "single amount",
 "first_date": null,
 "last_date": null
 },
@@ -51961,6 +52321,16 @@
 "first_date": null,
 "last_date": null
 },
+"m-bradenton|item:m-bradenton|nodate|dc629bd4|8a4229899e8c": {
+"government": "Bradenton",
+"name": "Approve the $85,104.00 in SHIP funding for a loan on 2104 14th Ave. E. Bradenton, FL 34208. The bid submitted by Pinnacle Group for $85,104.00 was determined to",
+"items": 1,
+"spend_total": 85100.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
 "m-bradenton|item:m-bradenton|nodate|dd803062|0097d41f70b9": {
 "government": "Bradenton",
 "name": "a) Community Redevelopment Agency : Historic Preservation Grant Request for a Property Located at 1206 Manatee Ave West",
@@ -58771,6 +59141,16 @@
 "first_date": null,
 "last_date": null
 },
+"m-coconutcreek|ref:ord/res 2025-102": {
+"government": "Coconut Creek",
+"name": "8. RES 2025-102 A RESOLUTION AUTHORIZING THE MAYOR AND THE CITY MANAGER, OR THEIR DESIGNEES, TO EXECUTE THE INTERLOCAL AGREEMENT WITH BROWARD COUNTY FOR BROWARD",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
 "m-coconutcreek|ref:ord/res 2025-113": {
 "government": "Coconut Creek",
 "name": "8. RES 2025-113 A RESOLUTION APPROVING THE GINGER TREE HOMEOWNERS ASSOCIATION APPLICATION FOR GRANT FUNDS FROM THE TREE CANOPY REPLACEMENT GRANT PROGRAM FOR A M",
@@ -61111,6 +61491,46 @@
 "first_date": "2026-11-09",
 "last_date": "2026-11-09"
 },
+"m-crystalriver|item:m-crystalriver|nodate|09dd9a61|632608377b6f": {
+"government": "Crystal River",
+"name": "A. Motion to approve an Interlocal Agreement for Enhanced Law Enforcement Services to include Ancillary School Crossing Guard Services between the City of Cryst",
+"items": 1,
+"spend_total": 1434600.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-crystalriver|item:m-crystalriver|nodate|09dd9a61|cd51aecad8d3": {
+"government": "Crystal River",
+"name": "B. Motion to adopt Resolution No. 25-R-23 and award a contract to Sean M. Gerrits, Inc. for Surface Depression Restoration in accordance with R.F.P. No. 25-RFP-",
+"items": 1,
+"spend_total": 297700.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-crystalriver|item:m-crystalriver|nodate|09dd9a61|fc326ccc1260": {
+"government": "Crystal River",
+"name": "C. Motion to adopt Resolution No. 25-R-24 and authorize the Mayor to execute a purchase agreement and related closing documents for acquisition of the property ",
+"items": 1,
+"spend_total": 197000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-crystalriver|item:m-crystalriver|nodate|160f0cc6|d63d6e254c55": {
+"government": "Crystal River",
+"name": "C. Motion to authorize staff to proceed with acquisition of a property located at 41 NE Crystal Street owned by L&T Cattle, LLC, direct staff to either negotiat",
+"items": 1,
+"spend_total": 197000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
 "m-crystalriver|item:m-crystalriver|nodate|1a5ca03e|34889146354f": {
 "government": "Crystal River",
 "name": "B. Motion to adopt Resolution No. 26-R-11 and approve Kimley Horn IPO No. 3 for the 5th St. Streetscape Design Project in the amount of $48,700.00",
@@ -61501,6 +61921,16 @@
 "first_date": null,
 "last_date": null
 },
+"m-crystalriver|item:m-crystalriver|nodate|bbb9b344|ccfbb3dc1bff": {
+"government": "Crystal River",
+"name": "A. Motion to adopt Resolution No. 25-R-15 and approve a sole-source purchase in the amount of $34,590.18 from Aquaworx for replacement of Splashpad control stat",
+"items": 1,
+"spend_total": 34600.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
 "m-crystalriver|item:m-crystalriver|nodate|bd5aaf35|841ebc2f94ff": {
 "government": "Crystal River",
 "name": "B. Motion to authorize the Mayor to sign an agreement for the Crystal River Government Center Project, Proposal for Construction Documents with Monarch Design G",
@@ -61516,6 +61946,16 @@
 "name": "A. Motion to approve the purchase of 2017 Starcraft Allstar 24+2 Bus in the total amount of $67,500.00 from Model 1 Commercial Vehicles, Inc. RANGE 17 EAST, AND",
 "items": 1,
 "spend_total": 67500.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-crystalriver|item:m-crystalriver|nodate|d22f1d69|01bb45f5faba": {
+"government": "Crystal River",
+"name": "B. Motion to authorize the Mayor to execute a Florida Housing Finance Corporation \"Local Government Area of Opportunity Funding Form\" and reallocate a previous ",
+"items": 1,
+"spend_total": 340000.0,
 "receipts_total": null,
 "total_method": "single amount",
 "first_date": null,
@@ -72961,6 +73401,66 @@
 "first_date": null,
 "last_date": null
 },
+"m-delraybeach|item:m-delraybeach|nodate|1d3b253f|133f01799e7f": {
+"government": "Delray Beach",
+"name": "May 19, 2026City Commission Regular Commission Meeting Agenda Cover Report Legal Review Checklist Res No. 31-26 Agreement Scope of Services & Fee Schedule RFP20",
+"items": 1,
+"spend_total": 506700.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-delraybeach|item:m-delraybeach|nodate|1d3b253f|1df759e37f67": {
+"government": "Delray Beach",
+"name": "May 19, 2026City Commission Regular Commission Meeting Agenda Cover Report Res 82-26 Legal Review Checklist Agreement Exhibit A ITB 2026-024 Roof Replacement Fi",
+"items": 1,
+"spend_total": 624000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-delraybeach|item:m-delraybeach|nodate|1d3b253f|5ebb4cc3ff51": {
+"government": "Delray Beach",
+"name": "May 19, 2026City Commission Regular Commission Meeting Agenda Cover Report Legal Review FPL Easement - Water Treatment Plant FPL Easement Agreement_Water Treatm",
+"items": 1,
+"spend_total": 49400.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-delraybeach|item:m-delraybeach|nodate|1d3b253f|8ec6c44a88ec": {
+"government": "Delray Beach",
+"name": "Sponsors: Development Services Department Agenda Cover Report Item 1 and Item 2 - Exhibit: Proposed All County Paving Plat Attachments: RESOLUTION 81-26: A RESO",
+"items": 1,
+"spend_total": 320000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-delraybeach|item:m-delraybeach|nodate|1d3b253f|9c0ce3dfd969": {
+"government": "Delray Beach",
+"name": "May 19, 2026City Commission Regular Commission Meeting Agenda Cover Report Amendment No. 1 Legal Review Exhibit A Crest Theatre Concept Design Report_Final Agre",
+"items": 1,
+"spend_total": 4005800.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-delraybeach|item:m-delraybeach|nodate|1d3b253f|f9b10088ac93": {
+"government": "Delray Beach",
+"name": "Sponsors: Development Services Department Agenda Cover Report Item 1 - Exhibit: Milfred Industrial Plat Attachments: APPROVAL OF A REIMBURSABLE FIVE-YEAR EMS GR",
+"items": 1,
+"spend_total": 270000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
 "m-delraybeach|item:m-delraybeach|nodate|1f904508|3bc06a4a14ea": {
 "government": "Delray Beach",
 "name": "October 27, 2026Community Redevelopment Agency CRA Meeting INTERLOCAL AGREEMENT BETWEEN THE CITY OF DELRAY BEACH AND THE DELRAY BEACH COMMUNITY REDEVELOPMENT AG",
@@ -73098,6 +73598,16 @@
 "spend_total": null,
 "receipts_total": -201700.0,
 "total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"m-delraybeach|item:m-delraybeach|nodate|625dcb7a|5f162ad801ff": {
+"government": "Delray Beach",
+"name": "May 26, 2026Community Redevelopment Agency CRA Meeting CRA FINANCIAL REPORT - APRIL 20267B. Recommendation: Receive and File. Agenda Cover Report Exhibit A - Fi",
+"items": 1,
+"spend_total": 350000.0,
+"receipts_total": null,
+"total_method": "single amount",
 "first_date": null,
 "last_date": null
 },
@@ -73291,6 +73801,36 @@
 "first_date": null,
 "last_date": null
 },
+"m-delraybeach|item:m-delraybeach|nodate|f0ff62b3|027058773f82": {
+"government": "Delray Beach",
+"name": "Sponsors: Development Services Department Agenda Cover Report Resolution No. 97-26, Distance Separation Waiver Tattoo Establishment Distance Exhibit Justificati",
+"items": 1,
+"spend_total": 8000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-delraybeach|item:m-delraybeach|nodate|f0ff62b3|7e4b031a7ed6": {
+"government": "Delray Beach",
+"name": "June 2, 2026City Commission Regular Commission Meeting Recommendation: Review and consider Resolution 91-26,authorizing a Special Event Sponsorship in an amount",
+"items": 1,
+"spend_total": 8000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-delraybeach|item:m-delraybeach|nodate|f0ff62b3|c2eaf065169c": {
+"government": "Delray Beach",
+"name": "Sponsors: City Manager Department Agenda Cover Report Muscle Beach Sponsorship Package 91-26 Sponsorship Resolution Simple Legal Review Approval- Dani Sponsorsh",
+"items": 1,
+"spend_total": 2748200.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
 "m-delraybeach|ref:itb 2026-020": {
 "government": "Delray Beach",
 "name": "Sponsors: Purchasing Department and IT Department Agenda Cover Report Legal Review Checklist Avolve Resolution 93-26 Exhibit A- Approved City Standard Agreement",
@@ -73301,11 +73841,31 @@
 "first_date": null,
 "last_date": null
 },
+"m-delraybeach|ref:itb 2026-024": {
+"government": "Delray Beach",
+"name": "Sponsors: IT Department and Purchasing Department Agenda Cover Report Legal Review Checklist Reso 54-26 lg rev Agreement Exhibit A Exhibit B EXHIBIT C Attachmen",
+"items": 1,
+"spend_total": 119600.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
 "m-delraybeach|ref:itb 2026-034": {
 "government": "Delray Beach",
 "name": "Sponsors: IT Department and Purchasing Department Agenda Cover Report Legal Review Resolution No 85-26 Agreement Attachments: APPROVAL OF RESOLUTION NO. 137-26 ",
 "items": 1,
 "spend_total": 840000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-delraybeach|ref:ord/res 81-26": {
+"government": "Delray Beach",
+"name": "7. REGULAR AGENDA: RESOLUTION NO. 81-26: A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF DELRAY BEACH, FLORIDA, AUTHORIZING THE CITY MANAGER TO ACCEPT A ONE-",
+"items": 1,
+"spend_total": 320000.0,
 "receipts_total": null,
 "total_method": "single amount",
 "first_date": null,
@@ -73348,6 +73908,16 @@
 "spend_total": 169145900.0,
 "receipts_total": null,
 "total_method": "distinct amounts summed",
+"first_date": null,
+"last_date": null
+},
+"m-delraybeach|ref:rfq 2025-019": {
+"government": "Delray Beach",
+"name": "Sponsors: Neighborhood & Community Services Agenda Cover Report Love Your Block 2026-2028 Program Guidelines & FAQ Love Your Block 2026-2028 Application Attachm",
+"items": 1,
+"spend_total": 1509900.0,
+"receipts_total": null,
+"total_method": "single amount",
 "first_date": null,
 "last_date": null
 },
@@ -91851,6 +92421,16 @@
 "first_date": "2026-11-10",
 "last_date": "2026-11-10"
 },
+"m-jacksonville|ref:file 2026-0856": {
+"government": "Jacksonville",
+"name": "ORD Approp $1,329,510.00 from the Gen Operating Fund - IP Hospital Care - Medicaid Acct to the Multiyear Progs & Initiatives - Economic Dev - Contingency Acct t",
+"items": 1,
+"spend_total": 1329500.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-11-10",
+"last_date": "2026-11-10"
+},
 "m-jacksonville|ref:file 2026-0857": {
 "government": "Jacksonville",
 "name": "ORD Approp $1,150,000.00 in Grant Funds from the Build America Bureau within the U.S. DOT, Thru the Regional Infrastructure Accelerator Grant Prog, for the Jax ",
@@ -91866,6 +92446,16 @@
 "name": "ORD-MC Amend Sec 111.940 (Affordable Housing Special Revenue Fund), Pt 9 (Neighborhood Development), Ch 111 (Special Revenue & Trust Accounts), Ord Code, to Cha",
 "items": 1,
 "spend_total": 245000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-11-10",
+"last_date": "2026-11-10"
+},
+"m-jacksonville|ref:file 2026-0861": {
+"government": "Jacksonville",
+"name": "ORD Approp Interest Income, Loan Repayment Revenue, & Investment Pool Earnings Within the Downtown Economic Dev Fund to Clean Up the All Years Budget & Actuals ",
+"items": 1,
+"spend_total": 2233300.0,
 "receipts_total": null,
 "total_method": "single amount",
 "first_date": "2026-11-10",
@@ -95601,6 +96191,36 @@
 "first_date": null,
 "last_date": null
 },
+"m-lakewales|item:m-lakewales|nodate|0e10ba18|1bde8f49ee87": {
+"government": "Lake Wales",
+"name": "Staff is recommending the commission approve the Force main 1 Improvements task order with Kimley-Horn and Associates for the design, bid and construction phase",
+"items": 1,
+"spend_total": 165000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-lakewales|item:m-lakewales|nodate|0e10ba18|6247f6e4c837": {
+"government": "Lake Wales",
+"name": "Staff requests City Commission approval to expend funds in the amount of $70,531.00 for the proposed exterior painting renovations and decal for the High School",
+"items": 1,
+"spend_total": 70500.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-lakewales|item:m-lakewales|nodate|0e10ba18|cc7603ce253c": {
+"government": "Lake Wales",
+"name": "Staff is recommending the commission approve entering into an agreement with Kimley-Horn and Associates for the bid and construction phase services for the reha",
+"items": 1,
+"spend_total": 70500.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
 "m-lakewales|item:m-lakewales|nodate|0f7f2534|288cfb1c3aa7": {
 "government": "Lake Wales",
 "name": "CITY COMMISSION REGULAR MEETING OFFICIAL AGENDA June 16, 2026 6:00 p.m. Municipal Administration Building Commission Chambers 201 W. Central Avenue Lake Wales, ",
@@ -95611,9 +96231,49 @@
 "first_date": null,
 "last_date": null
 },
+"m-lakewales|item:m-lakewales|nodate|12e1130c|0b6ea8d43b91": {
+"government": "Lake Wales",
+"name": "Staff is recommending the approval to expend funds for $87,865.32 for the force main cleaning services provided by Professional Piping Services",
+"items": 1,
+"spend_total": 87900.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-lakewales|item:m-lakewales|nodate|12e1130c|73f940238a0c": {
+"government": "Lake Wales",
+"name": "Staff is recommending the approval to expend funds for $51,399.60 for the force main cleaning services provided by Professional Piping Services.",
+"items": 1,
+"spend_total": 51400.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-lakewales|item:m-lakewales|nodate|12e1130c|958d29e6f227": {
+"government": "Lake Wales",
+"name": "Staff is requesting authorization to expend $937,319.03 for the FY 2025–2026 annual street resurfacing program. Work will be completed by Asphalt Paving Systems",
+"items": 1,
+"spend_total": 937300.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
 "m-lakewales|item:m-lakewales|nodate|160b9e92|ce6612483834": {
 "government": "Lake Wales",
 "name": "Grove Manor Funding Request for the City of Lake Wales (Phase III)",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"m-lakewales|item:m-lakewales|nodate|16180dd7|db0d6c88b24d": {
+"government": "Lake Wales",
+"name": "The CRA Board will consider awarding the Food Services Grant to Business Owners Gene and Lynette Hofferber of Vibin’ Vinny’s at 230 E. Park Avenue, Unit #24 and",
 "items": 1,
 "spend_total": null,
 "receipts_total": null,
@@ -96058,6 +96718,16 @@
 "spend_total": null,
 "receipts_total": null,
 "total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"m-lakewales|item:m-lakewales|nodate|fc3a0976|282f64c2d353": {
+"government": "Lake Wales",
+"name": "CITY COMMISSION REGULAR MEETING OFFICIAL AGENDA December 2, 2025 6:00 p.m. Municipal Administration Building Commission Chambers 201 W. Central Avenue Lake Wale",
+"items": 1,
+"spend_total": 49500.0,
+"receipts_total": null,
+"total_method": "single amount",
 "first_date": null,
 "last_date": null
 },
@@ -105651,6 +106321,26 @@
 "first_date": null,
 "last_date": null
 },
+"m-marcoisland|item:m-marcoisland|nodate|75480f74|4ca50f67ee68": {
+"government": "Marco Island",
+"name": "May 4, 2026City Council Meeting Agenda - Final Reappropriation of General Fund Reserves and Award of Contract to Capital Contractors LLC. for Winterberry Beach ",
+"items": 1,
+"spend_total": 34000000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-marcoisland|item:m-marcoisland|nodate|75480f74|81a5e67d4279": {
+"government": "Marco Island",
+"name": "May 4, 2026City Council Meeting Agenda - Final [Approval of Consent Agenda passes all routine items listed below.] Resolution - Approval of the County’s Potenti",
+"items": 1,
+"spend_total": 92400.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
 "m-marcoisland|item:m-marcoisland|nodate|8c5194fd|38c941674486": {
 "government": "Marco Island",
 "name": "September 22, 2026City Council Meeting Agenda - Final-revised [Approval of Consent Agenda passes all routine items listed below.] Resolution - Approving Appoint",
@@ -105736,6 +106426,16 @@
 "name": "June 1, 2026City Council Meeting Agenda - Final Authorize the City Manager to Issue a Purchase Order to Apex Companies for the Plugging and Abandonment for Two ",
 "items": 1,
 "spend_total": 145000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-marcoisland|ref:contract 2024-015-1": {
+"government": "Marco Island",
+"name": "8. Approval of the Consent Agenda [Approval of Consent Agenda passes all routine items listed below.] Approval of Memorandum of Understanding (MOU) to Provide S",
+"items": 1,
+"spend_total": 224200.0,
 "receipts_total": null,
 "total_method": "single amount",
 "first_date": null,
@@ -108621,6 +109321,16 @@
 "first_date": "2026-11-18",
 "last_date": "2026-11-18"
 },
+"m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|6037904e38ab": {
+"government": "Miami Beach",
+"name": "NOTE, MORTGAGE AND SECURITY AGREEMENT, RESTRICTIVE COVENANT AND OTHER LOAN DOCUMENTS, DATED FEBRUARY 5, 2007, BETWEEN THE RDA (\"LENDER\") AND MBCDC MERIDIAN PLAC",
+"items": 1,
+"spend_total": 1500000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-11-18",
+"last_date": "2026-11-18"
+},
 "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|608c3f053627": {
 "government": "Miami Beach",
 "name": "R7 AW A RESOLUTION OF THE MAYOR AND CITY COMMISSION OF THE CITY OF MIAMI BEACH, FLORIDA, DIRECTING THE CITY ADMINISTRATION TO MAKE FUNDING IN THE AMOUNT OF $275",
@@ -108676,6 +109386,16 @@
 "name": "R7 BB A RESOLUTION OF THE MAYOR AND CITY COMMISSION OF THE CITY OF MIAMI BEACH, FLORIDA, APPROVING THE INSTALLATION BY THE BASS MUSEUM OF ART OF PUBLIC ARTWORKS",
 "items": 1,
 "spend_total": 5217500.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-11-18",
+"last_date": "2026-11-18"
+},
+"m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|8079b29e2b8d": {
+"government": "Miami Beach",
+"name": "WITH HISTORIC PRESERVATION REQUIREMENTS; AND PROVIDING FOR A MAXIMUM GROUND LEASE TERM OF NINETY-NINE (99) YEARS, COMPRISED OF AN INITIAL FIFTY-ONE (51) YEAR TE",
+"items": 1,
+"spend_total": 2000000.0,
 "receipts_total": null,
 "total_method": "single amount",
 "first_date": "2026-11-18",
@@ -108866,6 +109586,16 @@
 "name": "R7 AJ A RESOLUTION OF THE MAYOR AND CITY COMMISSION OF THE CITY OF MIAMI BEACH, FLORIDA, MODIFYING THE AUTHORITY OF THE CITY MANAGER AND CITY ATTORNEY OF MIAMI ",
 "items": 1,
 "spend_total": 50000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-11-18",
+"last_date": "2026-11-18"
+},
+"m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|e962925cd5af": {
+"government": "Miami Beach",
+"name": "NEIGHBORHOOD QUALITY OF LIFE COMMITTEE AT ITS FEBRUARY 19, 2026 MEETING, AND APPROVING THE ADDITION OF BENCHES IN SHADED AREAS OF BAYSHORE PARK, CONTINGENT ON T",
+"items": 1,
+"spend_total": 14000.0,
 "receipts_total": null,
 "total_method": "single amount",
 "first_date": "2026-11-18",
@@ -114811,6 +115541,46 @@
 "first_date": null,
 "last_date": null
 },
+"m-oaklandpark|item:m-oaklandpark|nodate|69d7bbf4|f64beeab0218": {
+"government": "Oakland Park",
+"name": "A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF OAKLAND PARK, FLORIDA, APPROVING AND AUTHORIZING THE PURCHASE OF ONE (1) JOHN DEERE 325P TRACK SKID STEER LOA",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"m-oaklandpark|item:m-oaklandpark|nodate|69d7bbf4|f6bda62b1309": {
+"government": "Oakland Park",
+"name": "A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF OAKLAND PARK, FLORIDA, APPROVING AND AUTHORIZING THE PROPER CITY OFFICIALS TO EXECUTE A WORK AUTHORIZATION BE",
+"items": 1,
+"spend_total": 100000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-oaklandpark|item:m-oaklandpark|nodate|740fad17|f64beeab0218": {
+"government": "Oakland Park",
+"name": "A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF OAKLAND PARK, FLORIDA, APPROVING AND AUTHORIZING THE PURCHASE OF ONE (1) JOHN DEERE 325P TRACK SKID STEER LOA",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"m-oaklandpark|item:m-oaklandpark|nodate|740fad17|f6bda62b1309": {
+"government": "Oakland Park",
+"name": "A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF OAKLAND PARK, FLORIDA, APPROVING AND AUTHORIZING THE PROPER CITY OFFICIALS TO EXECUTE A WORK AUTHORIZATION BE",
+"items": 1,
+"spend_total": 100000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
 "m-oaklandpark|item:m-oaklandpark|nodate|8e095ef5|1a5f5204aa54": {
 "government": "Oakland Park",
 "name": "A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF OAKLAND PARK, FLORIDA, APPROVING AND AUTHORIZING THE EMERGENCY PROCUREMENT WITH DBF CONSTRUCTION IN THE AMOUN",
@@ -115391,6 +116161,26 @@
 "first_date": null,
 "last_date": null
 },
+"m-oaklandpark|item:m-oaklandpark|nodate|fce7574c|1e4364278861": {
+"government": "Oakland Park",
+"name": "A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF OAKLAND PARK, FLORIDA, APPROVING AND AUTHORIZING THE APPROPRIATE CITY OFFICIAL TO EXECUTE AN AGREEMENT WITH A",
+"items": 1,
+"spend_total": 497200.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-oaklandpark|item:m-oaklandpark|nodate|fce7574c|f47f465ba15f": {
+"government": "Oakland Park",
+"name": "A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF OAKLAND PARK, FLORIDA, APPROVING AND AUTHORIZING THE PROPER CITY OFFICIALS TO EXECUTE ALL APPROPRIATE DOCUMEN",
+"items": 1,
+"spend_total": 1000000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
 "m-oaklandpark|ref:contract 010825-WQI": {
 "government": "Oakland Park",
 "name": "A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF OAKLAND PARK, FLORIDA, APPROVING AND AUTHORIZING EXPENDITURES WITH WASTEQUIP MANUFACTURING COMPANY LLC DURING",
@@ -115418,6 +116208,16 @@
 "spend_total": null,
 "receipts_total": null,
 "total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"m-oaklandpark|ref:contract 25-0767-B-HD": {
+"government": "Oakland Park",
+"name": "A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF OAKLAND PARK, FLORIDA, APPROVING AND AUTHORIZING THE PURCHASE AND INSTALLATION OF WINDOW TINTING FROM CAROLIN",
+"items": 1,
+"spend_total": 41700.0,
+"receipts_total": null,
+"total_method": "single amount",
 "first_date": null,
 "last_date": null
 },
@@ -115458,6 +116258,16 @@
 "spend_total": 33200.0,
 "receipts_total": null,
 "total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-oaklandpark|ref:contract RPW22137MM-A": {
+"government": "Oakland Park",
+"name": "A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF OAKLAND PARK, FLORIDA, APPROVING AND AUTHORIZING THE APPROPRIATE CITY OFFICIALS TO EXECUTE AN AGREEMENT WITH ",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
 "first_date": null,
 "last_date": null
 },
@@ -115666,6 +116476,26 @@
 "name": "City Council Agenda - Final July 7, 2026 6c. Budget Resolution 2026-149 to amend the Fiscal Year 2025-26 budget to appropriate funds from the Police Trust and A",
 "items": 1,
 "spend_total": 91500.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-ocala|item:m-ocala|nodate|d6688fcb|10405a4593d7": {
+"government": "Ocala",
+"name": "6. Consent Agenda Consent Agenda items are considered to be routine and will be enacted by one roll call vote. There will be no separate discussion of these ite",
+"items": 1,
+"spend_total": 57700.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-ocala|item:m-ocala|nodate|d6688fcb|e92c8c29497e": {
+"government": "Ocala",
+"name": "10. General Business 10a. One-year renewal of the agreement with C.W. Roberts Contracting, Inc., for Transportation Rehabilitation Improvement Program projects ",
+"items": 1,
+"spend_total": 6000000.0,
 "receipts_total": null,
 "total_method": "single amount",
 "first_date": null,
@@ -117661,6 +118491,26 @@
 "first_date": null,
 "last_date": null
 },
+"m-palmettobay|item:m-palmettobay|nodate|cbe1aeb6|a15adfa83974": {
+"government": "Palmetto Bay",
+"name": "A RESOLUTION OF THE MAYOR AND VILLAGE COUNCIL OF THE VILLAGE OF PALMETTO BAY, FLORIDA, RELATED TO PROCUREMENT; AMENDING RESOLUTION NO. 2024-66, APPROVING FUNDIN",
+"items": 1,
+"spend_total": 3324500.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-palmettobay|item:m-palmettobay|nodate|cbe1aeb6|ad8d200f7d50": {
+"government": "Palmetto Bay",
+"name": "A RESOLUTION OF THE MAYOR AND VILLAGE COUNCIL OF THE VILLAGE OF PALMETTO BAY, FLORIDA, REQUIRING VILLAGE COUNCIL APPROVAL OF OUTSIDE COUNSEL THAT COMBINES LEGAL",
+"items": 1,
+"spend_total": 50000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
 "m-palmettobay|item:m-palmettobay|nodate|d5d9de09|2b47235ae6cc": {
 "government": "Palmetto Bay",
 "name": "A RESOLUTION OF THE MAYOR AND VILLAGE COUNCIL OF THE VILLAGE OF PALMETTO BAY, FLORIDA, RELATED TO PROCUREMENT; APPROVING THE SELECTION OF PIMENTEL CONSTRUCTION ",
@@ -117686,6 +118536,36 @@
 "name": "A RESOLUTION OF THE MAYOR AND VILLAGE COUNCIL OF THE VILLAGE OF PALMETTO BAY, FLORIDA, RELATED TO PROCUREMENT; APPROVING AN AMENDMENT FOR THE SCOPE OF SERVICES ",
 "items": 1,
 "spend_total": 876100.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-palmettobay|item:m-palmettobay|nodate|ec3390f6|310f8a011508": {
+"government": "Palmetto Bay",
+"name": "A RESOLUTION OF THE MAYOR AND VILLAGE COUNCIL OF THE VILLAGE OF PALMETTO BAY, FLORIDA, RELATED TO PROCUREMENT; APPROVING THE SELECTION OF PLATFORM GROUP, LLC. F",
+"items": 1,
+"spend_total": 450000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-palmettobay|item:m-palmettobay|nodate|ec3390f6|a15adfa83974": {
+"government": "Palmetto Bay",
+"name": "A RESOLUTION OF THE MAYOR AND VILLAGE COUNCIL OF THE VILLAGE OF PALMETTO BAY, FLORIDA, RELATED TO PROCUREMENT; AMENDING RESOLUTION No. 2024-66, APPROVING FUNDIN",
+"items": 1,
+"spend_total": 3324500.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-palmettobay|item:m-palmettobay|nodate|ec3390f6|d9b59a5669e0": {
+"government": "Palmetto Bay",
+"name": "A RESOLUTION OF THE MAYOR AND VILLAGE COUNCIL OF THE VILLAGE OF PALMETTO BAY, FLORIDA, RELATED TO PROCUREMENT; APPROVING THE SELECTION OF DEKORA, LLC. TO REPLAC",
+"items": 1,
+"spend_total": 117500.0,
 "receipts_total": null,
 "total_method": "single amount",
 "first_date": null,
@@ -119321,6 +120201,36 @@
 "first_date": null,
 "last_date": null
 },
+"m-pinecrest|item:m-pinecrest|nodate|22e9e5a4|c19bde62ded2": {
+"government": "Pinecrest",
+"name": "1. HIP GRANT REQUEST (COUNCILMEMBER HOCHKAMMER) TAB 8-Reports & Recomm - Council - HIP.Village of Pinecrest Grant.January 2024",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"m-pinecrest|item:m-pinecrest|nodate|4c50efe5|81f9e4ba9eb9": {
+"government": "Pinecrest",
+"name": "6. A RESOLUTION OF THE VILLAGE OF PINECREST, FLORIDA, AUTHORIZING THE VILLAGE MANAGER TO EXECUTE AN INTERLOCAL AGREEMENT WITH MIAMI-DADE COUNTY FOR RECEIPT OF $",
+"items": 1,
+"spend_total": 500000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-pinecrest|item:m-pinecrest|nodate|4c50efe5|a3cd1c57017a": {
+"government": "Pinecrest",
+"name": "4. A RESOLUTION OF THE VILLAGE OF PINECREST, FLORIDA, WAIVING THE COMPETITIVE BID REQUIREMENTS AND AUTHORIZING THE VILLAGE MANAGER TO NEGOTIATE AND ENTER INTO A",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
 "m-pinecrest|item:m-pinecrest|nodate|605e9b45|8060b11c928a": {
 "government": "Pinecrest",
 "name": "5. A RESOLUTION OF THE VILLAGE OF PINECREST, FLORIDA, ACCEPTING A DONATION FROM HOWARD PALMETTO BASEBALL SOFTBALL ASSOCIATION (HPBSA) FOR A BASEBALL FENCE DONAT",
@@ -119404,6 +120314,16 @@
 "m-pinecrest|item:m-pinecrest|nodate|b81dc6ce|18a55974d5dc": {
 "government": "Pinecrest",
 "name": "6. A RESOLUTION OF THE VILLAGE OF PINECREST, FLORIDA, WAIVING THE COMPETITIVE BID REQUIREMENTS AND AUTHORIZING THE VILLAGE MANAGER TO ENTER INTO AN AGREEMENT WI",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"m-pinecrest|item:m-pinecrest|nodate|ed2fea58|bf99759a12ae": {
+"government": "Pinecrest",
+"name": "4. A RESOLUTION OF THE VILLAGE OF PINECREST, FLORIDA, ACCEPTING A DONATION FROM ADAM AND JESSICA MOSKOWITZ, FOR A BED AT CAMILLUS HOUSE HOMELESS SHELTER FOR ONE",
 "items": 1,
 "spend_total": null,
 "receipts_total": null,
@@ -121701,6 +122621,16 @@
 "first_date": null,
 "last_date": null
 },
+"m-puntagorda|item:m-puntagorda|nodate|195b16da|3573ef4dfcd2": {
+"government": "Punta Gorda",
+"name": "5. CONSENT AGENDA 5.a Request for approval to increase the annual spend threshold to $350,000.00 annually for continued purchases from Core & Main under existin",
+"items": 1,
+"spend_total": 350000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
 "m-puntagorda|item:m-puntagorda|nodate|5db89d18|9d7fcdcc861b": {
 "government": "Punta Gorda",
 "name": "Retirees Monthly Benefit Check Date Form of Benefit Sent to Custodian Anthony Laurenti (Early) $5,661.10 7/1/2026 JS/100% w/ Pop-Up 6/29/2026 (estimate from por",
@@ -121768,6 +122698,26 @@
 "spend_total": 1000000.0,
 "receipts_total": null,
 "total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-puntagorda|item:m-puntagorda|nodate|cc026581|3573ef4dfcd2": {
+"government": "Punta Gorda",
+"name": "5. CONSENT AGENDA 5.a Request for approval to increase the annual spend threshold to $350,000.00 annually for continued purchases from Core & Main under existin",
+"items": 1,
+"spend_total": 350000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-puntagorda|ref:contract 43220000-NASPO-19-ACS": {
+"government": "Punta Gorda",
+"name": "8.c A resolution of the City Council of the City of Punta Gorda, Florida, adopting a proposed millage rate for the Fiscal Year 2026-2027; setting a date, time a",
+"items": 3,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
 "first_date": null,
 "last_date": null
 },
@@ -126448,6 +127398,16 @@
 "spend_total": 266000.0,
 "receipts_total": null,
 "total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-stuart|ref:ord/res 72-2019": {
+"government": "Stuart",
+"name": "RESOLUTION No. 72-2019; A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF STUART, FLORIDA AUTHORIZING THE PUBLIC WORKS DEPARTMENT TO SUBMIT A GRANT APPLICATION",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
 "first_date": null,
 "last_date": null
 },
@@ -142731,10 +143691,60 @@
 "first_date": "2026-11-17",
 "last_date": "2026-11-17"
 },
+"m-tarponsprings|item:m-tarponsprings|2026-11-17|d6ab950e|37498c3ffdbb": {
+"government": "Tarpon Springs",
+"name": "4 WSP USA PROJECT HISTORY • 2010: Project was identified on the City’s original Stormwater Action Plan (SAP) • 2018: Dodecanese Blvd./Athens St. Feasibility Ana",
+"items": 1,
+"spend_total": null,
+"receipts_total": -3140000.0,
+"total_method": "no amount",
+"first_date": "2026-11-17",
+"last_date": "2026-11-17"
+},
+"m-tarponsprings|item:m-tarponsprings|2026-11-17|d6ab950e|63981e4a061d": {
+"government": "Tarpon Springs",
+"name": "Recommendation Approval is recommended for the Mayor or his designee per City resolution to execute a Subgrant Agreement for Highway Traffic Safety with the Flo",
+"items": 1,
+"spend_total": 20000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-11-17",
+"last_date": "2026-11-17"
+},
+"m-tarponsprings|item:m-tarponsprings|2026-11-17|d6ab950e|85f0adf0cfc9": {
+"government": "Tarpon Springs",
+"name": "Page 1 of 14 ARTICLE X. SUBDIVISION REGULATIONS § 161.00 GENERAL REQUIREMENTS. (A) No person shall subdivide land regardless of zoning after the effective date ",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": "2026-11-17",
+"last_date": "2026-11-17"
+},
+"m-tarponsprings|item:m-tarponsprings|2026-11-17|d6ab950e|c27c508bf0f3": {
+"government": "Tarpon Springs",
+"name": "FDACS-02017 Rev. 09/26 Page 3 of 16 f. Travel Expenses. Separate reimbursement for travel is not contemplated under this agr eement; however, if prior written a",
+"items": 1,
+"spend_total": null,
+"receipts_total": -74200.0,
+"total_method": "no amount",
+"first_date": "2026-11-17",
+"last_date": "2026-11-17"
+},
+"m-tarponsprings|item:m-tarponsprings|2026-11-17|d6ab950e|d5e8bbb9db6a": {
+"government": "Tarpon Springs",
+"name": "Recommendation Approval is recommended for the Mayor or his designee per City resolution to execute a standard grant agreement with the Florida Department of Ag",
+"items": 1,
+"spend_total": 74200.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-11-17",
+"last_date": "2026-11-17"
+},
 "m-tarponsprings|ref:contract RFP-24-195": {
 "government": "Tarpon Springs",
 "name": "Increase File No. 250033-C-AS, Water and Wastewater Treatment Supplies, utilizing City of St. Petersburg Contract No. RFP-24-195, with Core & Main LP, effective",
-"items": 9,
+"items": 12,
 "spend_total": 3570000.0,
 "receipts_total": null,
 "total_method": "distinct amounts summed",
@@ -143801,6 +144811,16 @@
 "first_date": null,
 "last_date": null
 },
+"m-venice|ref:ord/res 2026-11": {
+"government": "Venice",
+"name": "A. ORDINANCES ORD. NO. 2026-11 An Ordinance Amending City of Venice Ordinance No. 2025-32, as Previously Amended, Which Adopted the Official Budget of the City ",
+"items": 2,
+"spend_total": 265000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
 "m-venice|ref:ord/res 2026-18": {
 "government": "Venice",
 "name": "B. RESOLUTIONS RES. NO. 2026-18 A Resolution of the City of Venice, Florida, Approving Amendment No. 4 to the Public Transportation Grant Agreement for Project ",
@@ -144221,6 +145241,16 @@
 "first_date": null,
 "last_date": null
 },
+"m-wellington|item:m-wellington|nodate|3664a41a|fbbdcd1dfdb5": {
+"government": "Wellington",
+"name": "B. 26-7643 RESOLUTION NO. R2026-16 RATIFYING THE AGREEMENT WITH THE FLORIDA DEPARTMENT OF AGRICULTURE AND CONSUMER SERVICES FOR THE PURPOSE OF RECEIVING A GRANT",
+"items": 1,
+"spend_total": null,
+"receipts_total": -50000.0,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
 "m-wellington|item:m-wellington|nodate|36cfb7b8|0c09f3994506": {
 "government": "Wellington",
 "name": "Q. 26-7723 AUTHORIZATION TO UTILIZE A CITY OF WEST PALM BEACH CONTRACT FOR A PERMIT AND INSPECTION FEE EVALUATION Authorization to utilize a City of West Palm B",
@@ -144398,6 +145428,16 @@
 "spend_total": 5178000.0,
 "receipts_total": null,
 "total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-wellington|item:m-wellington|nodate|4e5bcd99|b755a2faf958": {
+"government": "Wellington",
+"name": "D. 26-7643 RESOLUTION NO. R2026-16 RATIFYING THE AGREEMENT WITH THE FLORIDA DEPARTMENT OF AGRICULTURE AND CONSUMER SERVICES FOR THE PURPOSE OF RECEIVING A GRANT",
+"items": 1,
+"spend_total": null,
+"receipts_total": -50000.0,
+"total_method": "no amount",
 "first_date": null,
 "last_date": null
 },
@@ -146061,6 +147101,26 @@
 "first_date": null,
 "last_date": null
 },
+"m-winterhaven|item:m-winterhaven|nodate|f08c4d2b|006614bb14a6": {
+"government": "Winter Haven",
+"name": "14.A Florida Job Growth Infrastructure Grant Agreement for Rail Spur – State of Florida Department of Commerce 14.B Approval of a Cooperation Agreement by, and ",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"m-winterhaven|item:m-winterhaven|nodate|f08c4d2b|d88a655f79d3": {
+"government": "Winter Haven",
+"name": "Staff Contact: Eric Labbe, Economic Opportunity & Community Investment Director , elabbe@mywinterhaven.com Summary - Florida Job Growth Infrastructure Grant Agr",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
 "m-winterhaven|item:m-winterhaven|nodate|f626fc61|31024db5a20b": {
 "government": "Winter Haven",
 "name": "10.D Fairfax Water Treatment Plant, High Service Pump Replacement 10.E Wastewater Treatment Plant #2 Emergency Purchase Justification 10.F ITB-26-20 - 3rd Stree",
@@ -146161,6 +147221,26 @@
 "first_date": null,
 "last_date": null
 },
+"m-winterpark|item:m-winterpark|nodate|a247b3b9|3e994d99f7bf": {
+"government": "Winter Park",
+"name": "f. Approval the following formal solicitations: 1 . Tetra Tech, Inc. - RFP14-23 - Emergency Debris Monitoring Services; Amount: $150,000 2 . Ceres Environmental",
+"items": 1,
+"spend_total": 400000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-winterpark|item:m-winterpark|nodate|a247b3b9|51ee76eef276": {
+"government": "Winter Park",
+"name": "g. Approval of the following contract: Xylem Water Solutions USA, Inc. - SS23-12 - Flygt Products; For goods on an as-needed basis through September 30, 2023; A",
+"items": 1,
+"spend_total": 150000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
 "m-winterpark|item:m-winterpark|nodate|e347440e|03839938c458": {
 "government": "Winter Park",
 "name": "e. Approval of the following formal solicitations: 1 . Ovation Construction Company, Inc. - RFQ20-23 - Repair and Construction Services (Projects Under $300,000",
@@ -146226,6 +147306,16 @@
 "name": "c. Approval of the following piggyback contract: 1 . Control Technologies, Inc. - Florida Department of Transportation Contract #DOT-ITB-23-9037-SJ - Approved P",
 "items": 1,
 "spend_total": 225000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-winterpark|ref:contract ITB23-42": {
+"government": "Winter Park",
+"name": "e. Approval of the following piggyback contracts: 1 . All-Rite Fencing Services , LLC. – City of Oviedo Contract #ITB23-42 - Fencing Installation, Replacement, ",
+"items": 1,
+"spend_total": 200000.0,
 "receipts_total": null,
 "total_method": "single amount",
 "first_date": null,
@@ -147348,7 +148438,14 @@
 "c-flagler|2026-11-16|fb7542d7|fc3aba5d7515": "c-flagler|item:c-flagler|2026-11-16|fb7542d7|fc3aba5d7515",
 "c-gadsden|nodate|053a0ef5|63cfbf5175d5": "c-gadsden|item:c-gadsden|nodate|053a0ef5|63cfbf5175d5",
 "c-gadsden|nodate|053a0ef5|afda3d249c3a": "c-gadsden|item:c-gadsden|nodate|053a0ef5|afda3d249c3a",
+"c-gadsden|nodate|0eba47ac|50f25fa71cd2": "c-gadsden|item:c-gadsden|nodate|0eba47ac|50f25fa71cd2",
+"c-gadsden|nodate|0eba47ac|59d4afa68c91": "c-gadsden|ref:ord/res 2026-001",
+"c-gadsden|nodate|0eba47ac|c59110cfe36a": "c-gadsden|item:c-gadsden|nodate|0eba47ac|c59110cfe36a",
+"c-gadsden|nodate|0eba47ac|f2e1a9f5b6a4": "c-gadsden|ref:ord/res 2026-001",
 "c-gadsden|nodate|3484af01|b860644579a3": "c-gadsden|ref:ord/res 2026-011",
+"c-gadsden|nodate|3ce1d8f6|404eeba774ed": "c-gadsden|item:c-gadsden|nodate|3ce1d8f6|404eeba774ed",
+"c-gadsden|nodate|3ce1d8f6|9cd29dbc148e": "c-gadsden|item:c-gadsden|nodate|3ce1d8f6|9cd29dbc148e",
+"c-gadsden|nodate|3ce1d8f6|afdd04431c02": "c-gadsden|ref:ord/res 2026-001",
 "c-gadsden|nodate|41d65c2b|46f7bb76bb21": "c-gadsden|item:c-gadsden|nodate|41d65c2b|46f7bb76bb21",
 "c-gadsden|nodate|41d65c2b|719a524018ce": "c-gadsden|item:c-gadsden|nodate|41d65c2b|719a524018ce",
 "c-gadsden|nodate|4e150db9|a7014c75f4f4": "c-gadsden|item:c-gadsden|nodate|4e150db9|a7014c75f4f4",
@@ -147367,12 +148464,22 @@
 "c-gadsden|nodate|bd08d49d|d09c2b90f52e": "c-gadsden|item:c-gadsden|nodate|bd08d49d|d09c2b90f52e",
 "c-gadsden|nodate|e2ad5afa|ec838dd236e2": "c-gadsden|item:c-gadsden|nodate|e2ad5afa|ec838dd236e2",
 "c-gadsden|nodate|e3d359f3|7048dac118bb": "c-gadsden|item:c-gadsden|nodate|e3d359f3|7048dac118bb",
+"c-gadsden|nodate|f4108bfe|404eeba774ed": "c-gadsden|item:c-gadsden|nodate|f4108bfe|404eeba774ed",
+"c-gadsden|nodate|f4108bfe|9cd29dbc148e": "c-gadsden|item:c-gadsden|nodate|f4108bfe|9cd29dbc148e",
+"c-gadsden|nodate|f4108bfe|afdd04431c02": "c-gadsden|ref:ord/res 2026-001",
+"c-gadsden|nodate|f81b2313|84949bdde163": "c-gadsden|item:c-gadsden|nodate|f81b2313|84949bdde163",
+"c-gadsden|nodate|f81b2313|efc8813d389e": "c-gadsden|item:c-gadsden|nodate|f81b2313|efc8813d389e",
 "c-hardee|nodate|07a1b25d|07b6970fcbf0": "c-hardee|item:c-hardee|nodate|07a1b25d|07b6970fcbf0",
 "c-hardee|nodate|07a1b25d|336fb4162dca": "c-hardee|item:c-hardee|nodate|07a1b25d|336fb4162dca",
 "c-hardee|nodate|07a1b25d|c913e5b52e0d": "c-hardee|item:c-hardee|nodate|07a1b25d|c913e5b52e0d",
 "c-hardee|nodate|07a1b25d|eb752cafed06": "c-hardee|item:c-hardee|nodate|07a1b25d|eb752cafed06",
 "c-hardee|nodate|0e7cee75|18a10e2246ba": "c-hardee|ref:ord/res 2026-11",
 "c-hardee|nodate|0e7cee75|e5800bccdb0b": "c-hardee|item:c-hardee|nodate|0e7cee75|e5800bccdb0b",
+"c-hardee|nodate|19450b31|38911b570265": "c-hardee|item:c-hardee|nodate|19450b31|38911b570265",
+"c-hardee|nodate|19450b31|52462d231464": "c-hardee|item:c-hardee|nodate|19450b31|52462d231464",
+"c-hardee|nodate|19450b31|7ee77ea47da2": "c-hardee|ref:ord/res 2025-70",
+"c-hardee|nodate|19450b31|8ff4aabccd3f": "c-hardee|item:c-hardee|nodate|19450b31|8ff4aabccd3f",
+"c-hardee|nodate|19450b31|e43686babf46": "c-hardee|ref:ord/res 2025-68",
 "c-hardee|nodate|1c13fde4|ef717b2a2209": "c-hardee|item:c-hardee|nodate|1c13fde4|ef717b2a2209",
 "c-hardee|nodate|2085736b|2ea73de280b9": "c-hardee|item:c-hardee|nodate|2085736b|2ea73de280b9",
 "c-hardee|nodate|2085736b|402d696de134": "c-hardee|ref:ord/res 2026-45",
@@ -147426,6 +148533,23 @@
 "c-hardee|nodate|56097b4c|4b3fdae0f5fb": "c-hardee|item:c-hardee|nodate|56097b4c|4b3fdae0f5fb",
 "c-hardee|nodate|56097b4c|9d6d6fba1a56": "c-hardee|item:c-hardee|nodate|56097b4c|9d6d6fba1a56",
 "c-hardee|nodate|56097b4c|e51930e58f75": "c-hardee|item:c-hardee|nodate|56097b4c|e51930e58f75",
+"c-hardee|nodate|58b71875|56201405515b": "c-hardee|item:c-hardee|nodate|58b71875|56201405515b",
+"c-hardee|nodate|58b71875|d0c615d8a3d5": "c-hardee|item:c-hardee|nodate|58b71875|d0c615d8a3d5",
+"c-hardee|nodate|58b71875|e056a014fa9e": "c-hardee|ref:ord/res 2025-65",
+"c-hardee|nodate|58b71875|f78c15c0040f": "c-hardee|item:c-hardee|nodate|58b71875|f78c15c0040f",
+"c-hardee|nodate|58b71875|f8439cecc818": "c-hardee|item:c-hardee|nodate|58b71875|f8439cecc818",
+"c-hardee|nodate|5b63e612|18370519f2b9": "c-hardee|item:c-hardee|nodate|5b63e612|18370519f2b9",
+"c-hardee|nodate|5b63e612|2932d4299d30": "c-hardee|ref:ord/res 2025-50",
+"c-hardee|nodate|5b63e612|380f569a0358": "c-hardee|item:c-hardee|nodate|5b63e612|380f569a0358",
+"c-hardee|nodate|5b63e612|41c64526370c": "c-hardee|item:c-hardee|nodate|5b63e612|41c64526370c",
+"c-hardee|nodate|5b63e612|7065ae33be33": "c-hardee|item:c-hardee|nodate|5b63e612|7065ae33be33",
+"c-hardee|nodate|5b63e612|8bc7e9ce95bb": "c-hardee|item:c-hardee|nodate|5b63e612|8bc7e9ce95bb",
+"c-hardee|nodate|5b63e612|97472751ccdb": "c-hardee|item:c-hardee|nodate|5b63e612|97472751ccdb",
+"c-hardee|nodate|5b63e612|a698e6362f10": "c-hardee|item:c-hardee|nodate|5b63e612|a698e6362f10",
+"c-hardee|nodate|5b63e612|cbc6a377cb1d": "c-hardee|item:c-hardee|nodate|5b63e612|cbc6a377cb1d",
+"c-hardee|nodate|5b63e612|d160ccd5242e": "c-hardee|item:c-hardee|nodate|5b63e612|d160ccd5242e",
+"c-hardee|nodate|5b63e612|d6e38f75ebb9": "c-hardee|item:c-hardee|nodate|5b63e612|d6e38f75ebb9",
+"c-hardee|nodate|5b63e612|d8c8735c1bb0": "c-hardee|item:c-hardee|nodate|5b63e612|d8c8735c1bb0",
 "c-hardee|nodate|5ca90845|ba0751580e0b": "c-hardee|item:c-hardee|nodate|5ca90845|ba0751580e0b",
 "c-hardee|nodate|609f1084|13f128605816": "c-hardee|item:c-hardee|nodate|609f1084|13f128605816",
 "c-hardee|nodate|609f1084|7947b08657b3": "c-hardee|item:c-hardee|nodate|609f1084|7947b08657b3",
@@ -147497,6 +148621,10 @@
 "c-hardee|nodate|c29e3ba2|44e05ea56a42": "c-hardee|item:c-hardee|nodate|c29e3ba2|44e05ea56a42",
 "c-hardee|nodate|ca951fde|4504da595efc": "c-hardee|item:c-hardee|nodate|ca951fde|4504da595efc",
 "c-hardee|nodate|ca951fde|e155e56d61dc": "c-hardee|item:c-hardee|nodate|ca951fde|e155e56d61dc",
+"c-hardee|nodate|d086c6b0|083c0dfd9832": "c-hardee|item:c-hardee|nodate|d086c6b0|083c0dfd9832",
+"c-hardee|nodate|d086c6b0|24e4957628ea": "c-hardee|item:c-hardee|nodate|d086c6b0|24e4957628ea",
+"c-hardee|nodate|d086c6b0|3f7c9e1f8e72": "c-hardee|item:c-hardee|nodate|d086c6b0|3f7c9e1f8e72",
+"c-hardee|nodate|d086c6b0|57067b7fabcf": "c-hardee|item:c-hardee|nodate|d086c6b0|57067b7fabcf",
 "c-hardee|nodate|d0cf1a1f|21c076577d35": "c-hardee|item:c-hardee|nodate|d0cf1a1f|21c076577d35",
 "c-hardee|nodate|d0cf1a1f|4e8d4f824c57": "c-hardee|item:c-hardee|nodate|d0cf1a1f|4e8d4f824c57",
 "c-hardee|nodate|d0cf1a1f|58914316d1c5": "c-hardee|item:c-hardee|nodate|d0cf1a1f|58914316d1c5",
@@ -147506,6 +148634,7 @@
 "c-hardee|nodate|d0cf1a1f|b6a44b43e8d3": "c-hardee|item:c-hardee|nodate|d0cf1a1f|b6a44b43e8d3",
 "c-hardee|nodate|d0cf1a1f|e153758a38f9": "c-hardee|item:c-hardee|nodate|d0cf1a1f|e153758a38f9",
 "c-hardee|nodate|d0cf1a1f|e5df1d10f562": "c-hardee|item:c-hardee|nodate|d0cf1a1f|e5df1d10f562",
+"c-hardee|nodate|d39413a7|2a305e6c4136": "c-hardee|item:c-hardee|nodate|d39413a7|2a305e6c4136",
 "c-hardee|nodate|e17e88ae|8c0e28d82bff": "c-hardee|item:c-hardee|nodate|e17e88ae|8c0e28d82bff",
 "c-hardee|nodate|e17e88ae|aedacb9b45da": "c-hardee|item:c-hardee|nodate|e17e88ae|aedacb9b45da",
 "c-hardee|nodate|e17e88ae|c5ab195ce61a": "c-hardee|item:c-hardee|nodate|e17e88ae|c5ab195ce61a",
@@ -151605,6 +152734,7 @@
 "m-bradenton|nodate|b7605085|c7fbe6bc34c1": "m-bradenton|item:m-bradenton|nodate|b7605085|c7fbe6bc34c1",
 "m-bradenton|nodate|b7605085|ff36e2020f8d": "m-bradenton|item:m-bradenton|nodate|b7605085|ff36e2020f8d",
 "m-bradenton|nodate|d22549ac|06875a87f809": "m-bradenton|item:m-bradenton|nodate|d22549ac|06875a87f809",
+"m-bradenton|nodate|dc629bd4|8a4229899e8c": "m-bradenton|item:m-bradenton|nodate|dc629bd4|8a4229899e8c",
 "m-bradenton|nodate|dd803062|0097d41f70b9": "m-bradenton|item:m-bradenton|nodate|dd803062|0097d41f70b9",
 "m-bradenton|nodate|e683b7a7|0097d41f70b9": "m-bradenton|item:m-bradenton|nodate|e683b7a7|0097d41f70b9",
 "m-capecoral|2026-11-02|92e40094|0372959cb8f0": "m-capecoral|item:m-capecoral|2026-11-02|92e40094|0372959cb8f0",
@@ -152340,6 +153470,7 @@
 "m-coconutcreek|nodate|693cff50|9c8be3352e4c": "m-coconutcreek|ref:ord/res 2025-190",
 "m-coconutcreek|nodate|693cff50|d60f6d124d34": "m-coconutcreek|ref:ord/res 2025-186",
 "m-coconutcreek|nodate|693cff50|dbe9e1f2075e": "m-coconutcreek|ref:ord/res 2025-188",
+"m-coconutcreek|nodate|7c7a0244|6f5f75778321": "m-coconutcreek|ref:ord/res 2025-102",
 "m-coconutcreek|nodate|81c45b7c|13738d937c69": "m-coconutcreek|ref:ord/res 2026-009",
 "m-coconutcreek|nodate|81c45b7c|5cdc4d6ae5ae": "m-coconutcreek|ref:ord/res 2026-008",
 "m-coconutcreek|nodate|8690956b|8a73c30ddb1b": "m-coconutcreek|ref:ord/res 2026-045",
@@ -152560,6 +153691,10 @@
 "m-coralsprings|nodate|ff9983b7|edc0cd032e5b": "m-coralsprings|item:m-coralsprings|nodate|ff9983b7|edc0cd032e5b",
 "m-coralsprings|nodate|ffdc7772|9c820d1a56fd": "m-coralsprings|item:m-coralsprings|nodate|ffdc7772|9c820d1a56fd",
 "m-crestview|2026-11-09|e01b117f|3589f6ea2a93": "m-crestview|item:m-crestview|2026-11-09|e01b117f|3589f6ea2a93",
+"m-crystalriver|nodate|09dd9a61|632608377b6f": "m-crystalriver|item:m-crystalriver|nodate|09dd9a61|632608377b6f",
+"m-crystalriver|nodate|09dd9a61|cd51aecad8d3": "m-crystalriver|item:m-crystalriver|nodate|09dd9a61|cd51aecad8d3",
+"m-crystalriver|nodate|09dd9a61|fc326ccc1260": "m-crystalriver|item:m-crystalriver|nodate|09dd9a61|fc326ccc1260",
+"m-crystalriver|nodate|160f0cc6|d63d6e254c55": "m-crystalriver|item:m-crystalriver|nodate|160f0cc6|d63d6e254c55",
 "m-crystalriver|nodate|1a5ca03e|34889146354f": "m-crystalriver|item:m-crystalriver|nodate|1a5ca03e|34889146354f",
 "m-crystalriver|nodate|1a5ca03e|c734128e290c": "m-crystalriver|item:m-crystalriver|nodate|1a5ca03e|c734128e290c",
 "m-crystalriver|nodate|1ebfebcc|e6792095275b": "m-crystalriver|ref:bid 26-B-02",
@@ -152600,8 +153735,10 @@
 "m-crystalriver|nodate|7a347cf1|b2be97736914": "m-crystalriver|item:m-crystalriver|nodate|7a347cf1|b2be97736914",
 "m-crystalriver|nodate|81a04cd3|c444b264ba17": "m-crystalriver|item:m-crystalriver|nodate|81a04cd3|c444b264ba17",
 "m-crystalriver|nodate|87ffa87e|89d2534a4728": "m-crystalriver|item:m-crystalriver|nodate|87ffa87e|89d2534a4728",
+"m-crystalriver|nodate|bbb9b344|ccfbb3dc1bff": "m-crystalriver|item:m-crystalriver|nodate|bbb9b344|ccfbb3dc1bff",
 "m-crystalriver|nodate|bd5aaf35|841ebc2f94ff": "m-crystalriver|item:m-crystalriver|nodate|bd5aaf35|841ebc2f94ff",
 "m-crystalriver|nodate|bd5aaf35|d62588f92551": "m-crystalriver|item:m-crystalriver|nodate|bd5aaf35|d62588f92551",
+"m-crystalriver|nodate|d22f1d69|01bb45f5faba": "m-crystalriver|item:m-crystalriver|nodate|d22f1d69|01bb45f5faba",
 "m-crystalriver|nodate|dae7aced|1472a65a80ac": "m-crystalriver|item:m-crystalriver|nodate|dae7aced|1472a65a80ac",
 "m-crystalriver|nodate|dae7aced|aab49fb09f3b": "m-crystalriver|item:m-crystalriver|nodate|dae7aced|aab49fb09f3b",
 "m-crystalriver|nodate|dae7aced|eb83bcd1e8d1": "m-crystalriver|item:m-crystalriver|nodate|dae7aced|eb83bcd1e8d1",
@@ -153850,6 +154987,14 @@
 "m-delraybeach|nodate|17491d92|f43d7c48da85": "m-delraybeach|item:m-delraybeach|nodate|17491d92|f43d7c48da85",
 "m-delraybeach|nodate|19848d4c|353c30f6ad51": "m-delraybeach|item:m-delraybeach|nodate|19848d4c|353c30f6ad51",
 "m-delraybeach|nodate|19848d4c|4ba13eb2139c": "m-delraybeach|item:m-delraybeach|nodate|19848d4c|4ba13eb2139c",
+"m-delraybeach|nodate|1d3b253f|133f01799e7f": "m-delraybeach|item:m-delraybeach|nodate|1d3b253f|133f01799e7f",
+"m-delraybeach|nodate|1d3b253f|1df759e37f67": "m-delraybeach|item:m-delraybeach|nodate|1d3b253f|1df759e37f67",
+"m-delraybeach|nodate|1d3b253f|5ebb4cc3ff51": "m-delraybeach|item:m-delraybeach|nodate|1d3b253f|5ebb4cc3ff51",
+"m-delraybeach|nodate|1d3b253f|8ec6c44a88ec": "m-delraybeach|item:m-delraybeach|nodate|1d3b253f|8ec6c44a88ec",
+"m-delraybeach|nodate|1d3b253f|9c0ce3dfd969": "m-delraybeach|item:m-delraybeach|nodate|1d3b253f|9c0ce3dfd969",
+"m-delraybeach|nodate|1d3b253f|dd10e3352678": "m-delraybeach|ref:itb 2026-024",
+"m-delraybeach|nodate|1d3b253f|f9b10088ac93": "m-delraybeach|item:m-delraybeach|nodate|1d3b253f|f9b10088ac93",
+"m-delraybeach|nodate|1d3b253f|fb28722c7d48": "m-delraybeach|ref:rfq 2025-019",
 "m-delraybeach|nodate|1f904508|3bc06a4a14ea": "m-delraybeach|item:m-delraybeach|nodate|1f904508|3bc06a4a14ea",
 "m-delraybeach|nodate|24b157b9|5ab589b4a5b8": "m-delraybeach|item:m-delraybeach|nodate|24b157b9|5ab589b4a5b8",
 "m-delraybeach|nodate|24b157b9|ec7936980e5a": "m-delraybeach|item:m-delraybeach|nodate|24b157b9|ec7936980e5a",
@@ -153866,6 +155011,7 @@
 "m-delraybeach|nodate|5a6d8ae5|0bb37737b9b6": "m-delraybeach|item:m-delraybeach|nodate|5a6d8ae5|0bb37737b9b6",
 "m-delraybeach|nodate|5a6d8ae5|0fe09975c521": "m-delraybeach|item:m-delraybeach|nodate|5a6d8ae5|0fe09975c521",
 "m-delraybeach|nodate|5a6d8ae5|c7465989798b": "m-delraybeach|item:m-delraybeach|nodate|5a6d8ae5|c7465989798b",
+"m-delraybeach|nodate|625dcb7a|5f162ad801ff": "m-delraybeach|item:m-delraybeach|nodate|625dcb7a|5f162ad801ff",
 "m-delraybeach|nodate|63580ca5|05a76d9eb7c7": "m-delraybeach|item:m-delraybeach|nodate|63580ca5|05a76d9eb7c7",
 "m-delraybeach|nodate|63580ca5|0de6bd107917": "m-delraybeach|ref:rfq 2025-013",
 "m-delraybeach|nodate|63580ca5|2c410d2757c3": "m-delraybeach|item:m-delraybeach|nodate|63580ca5|2c410d2757c3",
@@ -153888,6 +155034,10 @@
 "m-delraybeach|nodate|d2f328bd|3d7e7861fb78": "m-delraybeach|item:m-delraybeach|nodate|d2f328bd|3d7e7861fb78",
 "m-delraybeach|nodate|efe5a179|02d1d1e1e827": "m-delraybeach|item:m-delraybeach|nodate|efe5a179|02d1d1e1e827",
 "m-delraybeach|nodate|efe5a179|3c692c441496": "m-delraybeach|item:m-delraybeach|nodate|efe5a179|3c692c441496",
+"m-delraybeach|nodate|f0ff62b3|027058773f82": "m-delraybeach|item:m-delraybeach|nodate|f0ff62b3|027058773f82",
+"m-delraybeach|nodate|f0ff62b3|7e4b031a7ed6": "m-delraybeach|item:m-delraybeach|nodate|f0ff62b3|7e4b031a7ed6",
+"m-delraybeach|nodate|f0ff62b3|7ec9c0113d04": "m-delraybeach|ref:ord/res 81-26",
+"m-delraybeach|nodate|f0ff62b3|c2eaf065169c": "m-delraybeach|item:m-delraybeach|nodate|f0ff62b3|c2eaf065169c",
 "m-deltona|matter|15-10348": "m-deltona|ref:file 15-10348",
 "m-deltona|matter|15-10374": "m-deltona|ref:file 15-10374",
 "m-deltona|matter|15-10441": "m-deltona|ref:file 15-10441",
@@ -155805,8 +156955,10 @@
 "m-jacksonville|matter|2026-0853": "m-jacksonville|ref:file 2026-0853",
 "m-jacksonville|matter|2026-0854": "m-jacksonville|ref:file 2026-0854",
 "m-jacksonville|matter|2026-0855-A": "m-jacksonville|ref:file 2026-0855-A",
+"m-jacksonville|matter|2026-0856": "m-jacksonville|ref:file 2026-0856",
 "m-jacksonville|matter|2026-0857": "m-jacksonville|ref:file 2026-0857",
 "m-jacksonville|matter|2026-0858": "m-jacksonville|ref:file 2026-0858",
+"m-jacksonville|matter|2026-0861": "m-jacksonville|ref:file 2026-0861",
 "m-jacksonville|matter|2026-0862": "m-jacksonville|ref:file 2026-0862",
 "m-jacksonville|matter|2026-0863": "m-jacksonville|ref:file 2026-0863",
 "m-jacksonville|matter|2026-0865-E": "m-jacksonville|ref:file 2026-0865-E",
@@ -156209,8 +157361,15 @@
 "m-lakewales|nodate|0095294a|6f6dd85d7c29": "m-lakewales|item:m-lakewales|nodate|0095294a|6f6dd85d7c29",
 "m-lakewales|nodate|0897c8f1|f41cb076ba66": "m-lakewales|item:m-lakewales|nodate|0897c8f1|f41cb076ba66",
 "m-lakewales|nodate|096f9c8b|00073702b83c": "m-lakewales|ref:bid 26-03",
+"m-lakewales|nodate|0e10ba18|1bde8f49ee87": "m-lakewales|item:m-lakewales|nodate|0e10ba18|1bde8f49ee87",
+"m-lakewales|nodate|0e10ba18|6247f6e4c837": "m-lakewales|item:m-lakewales|nodate|0e10ba18|6247f6e4c837",
+"m-lakewales|nodate|0e10ba18|cc7603ce253c": "m-lakewales|item:m-lakewales|nodate|0e10ba18|cc7603ce253c",
 "m-lakewales|nodate|0f7f2534|288cfb1c3aa7": "m-lakewales|item:m-lakewales|nodate|0f7f2534|288cfb1c3aa7",
+"m-lakewales|nodate|12e1130c|0b6ea8d43b91": "m-lakewales|item:m-lakewales|nodate|12e1130c|0b6ea8d43b91",
+"m-lakewales|nodate|12e1130c|73f940238a0c": "m-lakewales|item:m-lakewales|nodate|12e1130c|73f940238a0c",
+"m-lakewales|nodate|12e1130c|958d29e6f227": "m-lakewales|item:m-lakewales|nodate|12e1130c|958d29e6f227",
 "m-lakewales|nodate|160b9e92|ce6612483834": "m-lakewales|item:m-lakewales|nodate|160b9e92|ce6612483834",
+"m-lakewales|nodate|16180dd7|db0d6c88b24d": "m-lakewales|item:m-lakewales|nodate|16180dd7|db0d6c88b24d",
 "m-lakewales|nodate|22dc0382|ba0144654a58": "m-lakewales|item:m-lakewales|nodate|22dc0382|ba0144654a58",
 "m-lakewales|nodate|2c6ea79c|0f75c4d5b316": "m-lakewales|item:m-lakewales|nodate|2c6ea79c|0f75c4d5b316",
 "m-lakewales|nodate|31b034ea|5104f0bc9d18": "m-lakewales|item:m-lakewales|nodate|31b034ea|5104f0bc9d18",
@@ -156258,6 +157417,7 @@
 "m-lakewales|nodate|e306bda6|906bb803b0c6": "m-lakewales|item:m-lakewales|nodate|e306bda6|906bb803b0c6",
 "m-lakewales|nodate|e47445e8|00073702b83c": "m-lakewales|ref:bid 26-03",
 "m-lakewales|nodate|f6ee9212|906bb803b0c6": "m-lakewales|item:m-lakewales|nodate|f6ee9212|906bb803b0c6",
+"m-lakewales|nodate|fc3a0976|282f64c2d353": "m-lakewales|item:m-lakewales|nodate|fc3a0976|282f64c2d353",
 "m-lakewales|nodate|fe71652d|e74df5059cd8": "m-lakewales|item:m-lakewales|nodate|fe71652d|e74df5059cd8",
 "m-lakewales|nodate|fe71652d|f4785290b58e": "m-lakewales|item:m-lakewales|nodate|fe71652d|f4785290b58e",
 "m-lakewales|nodate|ff19fa46|d77eafdfa9c0": "m-lakewales|item:m-lakewales|nodate|ff19fa46|d77eafdfa9c0",
@@ -157484,6 +158644,8 @@
 "m-marcoisland|nodate|588f59d0|368b3fb27223": "m-marcoisland|item:m-marcoisland|nodate|588f59d0|368b3fb27223",
 "m-marcoisland|nodate|59d97021|34349d09d122": "m-marcoisland|item:m-marcoisland|nodate|59d97021|34349d09d122",
 "m-marcoisland|nodate|7090f6a1|9ba9a782c02c": "m-marcoisland|item:m-marcoisland|nodate|7090f6a1|9ba9a782c02c",
+"m-marcoisland|nodate|75480f74|4ca50f67ee68": "m-marcoisland|item:m-marcoisland|nodate|75480f74|4ca50f67ee68",
+"m-marcoisland|nodate|75480f74|81a5e67d4279": "m-marcoisland|item:m-marcoisland|nodate|75480f74|81a5e67d4279",
 "m-marcoisland|nodate|891336b6|d8e1d9d5fe3b": "m-marcoisland|ref:contract 21-7885",
 "m-marcoisland|nodate|8c5194fd|38c941674486": "m-marcoisland|item:m-marcoisland|nodate|8c5194fd|38c941674486",
 "m-marcoisland|nodate|8c5194fd|9ba9a782c02c": "m-marcoisland|item:m-marcoisland|nodate|8c5194fd|9ba9a782c02c",
@@ -157495,6 +158657,7 @@
 "m-marcoisland|nodate|aef26d3a|73f3b1baf04f": "m-marcoisland|ref:contract 15-6409",
 "m-marcoisland|nodate|aef26d3a|f237f23d3cfd": "m-marcoisland|item:m-marcoisland|nodate|aef26d3a|f237f23d3cfd",
 "m-marcoisland|nodate|b09ba6f4|d8e1d9d5fe3b": "m-marcoisland|ref:contract 21-7885",
+"m-marcoisland|nodate|d880761b|ec5209e55327": "m-marcoisland|ref:contract 2024-015-1",
 "m-marcoisland|nodate|f1bd22fc|3de00b399332": "m-marcoisland|item:m-marcoisland|nodate|f1bd22fc|3de00b399332",
 "m-melbourne|2026-04-14|cc90d4f0|a24d183cdd45": "m-melbourne|item:m-melbourne|2026-04-14|cc90d4f0|a24d183cdd45",
 "m-melbourne|2026-04-14|cc90d4f0|acb81eaa3705": "m-melbourne|item:m-melbourne|2026-04-14|cc90d4f0|acb81eaa3705",
@@ -157786,12 +158949,14 @@
 "m-miamibeach|2026-11-18|d1985502|330637a972c2": "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|330637a972c2",
 "m-miamibeach|2026-11-18|d1985502|4d8827d541bd": "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|4d8827d541bd",
 "m-miamibeach|2026-11-18|d1985502|506b3cb183d1": "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|506b3cb183d1",
+"m-miamibeach|2026-11-18|d1985502|6037904e38ab": "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|6037904e38ab",
 "m-miamibeach|2026-11-18|d1985502|608c3f053627": "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|608c3f053627",
 "m-miamibeach|2026-11-18|d1985502|62f2b1b05e48": "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|62f2b1b05e48",
 "m-miamibeach|2026-11-18|d1985502|6735f29392a0": "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|6735f29392a0",
 "m-miamibeach|2026-11-18|d1985502|6afc9eafcfb3": "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|6afc9eafcfb3",
 "m-miamibeach|2026-11-18|d1985502|6bd4f6993a20": "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|6bd4f6993a20",
 "m-miamibeach|2026-11-18|d1985502|7261ae5b4648": "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|7261ae5b4648",
+"m-miamibeach|2026-11-18|d1985502|8079b29e2b8d": "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|8079b29e2b8d",
 "m-miamibeach|2026-11-18|d1985502|81d85653b2ca": "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|81d85653b2ca",
 "m-miamibeach|2026-11-18|d1985502|87e196d8fa63": "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|87e196d8fa63",
 "m-miamibeach|2026-11-18|d1985502|8a62256a3f6b": "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|8a62256a3f6b",
@@ -157812,6 +158977,7 @@
 "m-miamibeach|2026-11-18|d1985502|cfbcf7a90fe6": "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|cfbcf7a90fe6",
 "m-miamibeach|2026-11-18|d1985502|e3b5740a02c0": "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|e3b5740a02c0",
 "m-miamibeach|2026-11-18|d1985502|e49a9f16f3df": "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|e49a9f16f3df",
+"m-miamibeach|2026-11-18|d1985502|e962925cd5af": "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|e962925cd5af",
 "m-miamibeach|2026-11-18|d1985502|ea1e4996f876": "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|ea1e4996f876",
 "m-miamibeach|2026-11-18|d1985502|f4c56681e9f2": "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|f4c56681e9f2",
 "m-miamibeach|2026-11-18|d1985502|f8a64b2e4c1d": "m-miamibeach|item:m-miamibeach|2026-11-18|d1985502|f8a64b2e4c1d",
@@ -158432,6 +159598,10 @@
 "m-oaklandpark|nodate|2e15eaa9|6b84c6899bb1": "m-oaklandpark|item:m-oaklandpark|nodate|2e15eaa9|6b84c6899bb1",
 "m-oaklandpark|nodate|2e15eaa9|b894675d19a4": "m-oaklandpark|item:m-oaklandpark|nodate|2e15eaa9|b894675d19a4",
 "m-oaklandpark|nodate|5d0ec411|459de2444b3b": "m-oaklandpark|item:m-oaklandpark|nodate|5d0ec411|459de2444b3b",
+"m-oaklandpark|nodate|69d7bbf4|f64beeab0218": "m-oaklandpark|item:m-oaklandpark|nodate|69d7bbf4|f64beeab0218",
+"m-oaklandpark|nodate|69d7bbf4|f6bda62b1309": "m-oaklandpark|item:m-oaklandpark|nodate|69d7bbf4|f6bda62b1309",
+"m-oaklandpark|nodate|740fad17|f64beeab0218": "m-oaklandpark|item:m-oaklandpark|nodate|740fad17|f64beeab0218",
+"m-oaklandpark|nodate|740fad17|f6bda62b1309": "m-oaklandpark|item:m-oaklandpark|nodate|740fad17|f6bda62b1309",
 "m-oaklandpark|nodate|8e095ef5|1a5f5204aa54": "m-oaklandpark|item:m-oaklandpark|nodate|8e095ef5|1a5f5204aa54",
 "m-oaklandpark|nodate|8f6770ea|1cecb7d0bb27": "m-oaklandpark|item:m-oaklandpark|nodate|8f6770ea|1cecb7d0bb27",
 "m-oaklandpark|nodate|8f6770ea|77c87f288e4f": "m-oaklandpark|ref:contract 22-730K",
@@ -158500,6 +159670,10 @@
 "m-oaklandpark|nodate|ee09c9ea|b24a152efa4e": "m-oaklandpark|ref:rfq 100323",
 "m-oaklandpark|nodate|ee09c9ea|ba2af1fd7214": "m-oaklandpark|item:m-oaklandpark|nodate|ee09c9ea|ba2af1fd7214",
 "m-oaklandpark|nodate|ee09c9ea|c2e12c686b10": "m-oaklandpark|item:m-oaklandpark|nodate|ee09c9ea|c2e12c686b10",
+"m-oaklandpark|nodate|fce7574c|1e4364278861": "m-oaklandpark|item:m-oaklandpark|nodate|fce7574c|1e4364278861",
+"m-oaklandpark|nodate|fce7574c|5c8fbf0d332c": "m-oaklandpark|ref:contract 25-0767-B-HD",
+"m-oaklandpark|nodate|fce7574c|d106010d8e88": "m-oaklandpark|ref:contract RPW22137MM-A",
+"m-oaklandpark|nodate|fce7574c|f47f465ba15f": "m-oaklandpark|item:m-oaklandpark|nodate|fce7574c|f47f465ba15f",
 "m-ocala|nodate|149b0b07|6d56ceb084aa": "m-ocala|item:m-ocala|nodate|149b0b07|6d56ceb084aa",
 "m-ocala|nodate|15a131ce|0f70f4a3ca77": "m-ocala|item:m-ocala|nodate|15a131ce|0f70f4a3ca77",
 "m-ocala|nodate|15a131ce|1b5aca434bcd": "m-ocala|item:m-ocala|nodate|15a131ce|1b5aca434bcd",
@@ -158521,6 +159695,8 @@
 "m-ocala|nodate|c5ee042b|400f4ecf1c01": "m-ocala|ref:ord/res 2026-101",
 "m-ocala|nodate|cbf73485|f29565698a30": "m-ocala|item:m-ocala|nodate|cbf73485|f29565698a30",
 "m-ocala|nodate|cc555635|d8a3a7e81760": "m-ocala|item:m-ocala|nodate|cc555635|d8a3a7e81760",
+"m-ocala|nodate|d6688fcb|10405a4593d7": "m-ocala|item:m-ocala|nodate|d6688fcb|10405a4593d7",
+"m-ocala|nodate|d6688fcb|e92c8c29497e": "m-ocala|item:m-ocala|nodate|d6688fcb|e92c8c29497e",
 "m-ocala|nodate|ef83dd2c|64741159e544": "m-ocala|item:m-ocala|nodate|ef83dd2c|64741159e544",
 "m-ocoee|2026-06-02|21e16333|38e0a341cc46": "m-ocoee|item:m-ocoee|2026-06-02|21e16333|38e0a341cc46",
 "m-ocoee|2026-06-02|21e16333|adae3684b435": "m-ocoee|item:m-ocoee|2026-06-02|21e16333|adae3684b435",
@@ -158729,9 +159905,14 @@
 "m-palmettobay|nodate|aa314ab1|3b4885cd00e1": "m-palmettobay|item:m-palmettobay|nodate|aa314ab1|3b4885cd00e1",
 "m-palmettobay|nodate|c1dae93c|9e2619c59132": "m-palmettobay|item:m-palmettobay|nodate|c1dae93c|9e2619c59132",
 "m-palmettobay|nodate|c1dae93c|bc06cc04cc11": "m-palmettobay|item:m-palmettobay|nodate|c1dae93c|bc06cc04cc11",
+"m-palmettobay|nodate|cbe1aeb6|a15adfa83974": "m-palmettobay|item:m-palmettobay|nodate|cbe1aeb6|a15adfa83974",
+"m-palmettobay|nodate|cbe1aeb6|ad8d200f7d50": "m-palmettobay|item:m-palmettobay|nodate|cbe1aeb6|ad8d200f7d50",
 "m-palmettobay|nodate|d5d9de09|2b47235ae6cc": "m-palmettobay|item:m-palmettobay|nodate|d5d9de09|2b47235ae6cc",
 "m-palmettobay|nodate|d5d9de09|90ba427ee289": "m-palmettobay|item:m-palmettobay|nodate|d5d9de09|90ba427ee289",
 "m-palmettobay|nodate|d5d9de09|ea7bb2f103ba": "m-palmettobay|item:m-palmettobay|nodate|d5d9de09|ea7bb2f103ba",
+"m-palmettobay|nodate|ec3390f6|310f8a011508": "m-palmettobay|item:m-palmettobay|nodate|ec3390f6|310f8a011508",
+"m-palmettobay|nodate|ec3390f6|a15adfa83974": "m-palmettobay|item:m-palmettobay|nodate|ec3390f6|a15adfa83974",
+"m-palmettobay|nodate|ec3390f6|d9b59a5669e0": "m-palmettobay|item:m-palmettobay|nodate|ec3390f6|d9b59a5669e0",
 "m-palmettobay|nodate|f6257d55|0012d46ff29e": "m-palmettobay|item:m-palmettobay|nodate|f6257d55|0012d46ff29e",
 "m-palmettobay|nodate|f6257d55|af9d5dbc0c7e": "m-palmettobay|item:m-palmettobay|nodate|f6257d55|af9d5dbc0c7e",
 "m-parkland|2026-09-14|7ca21794|0dfbc2a376c7": "m-parkland|ref:ord/res 2026-052",
@@ -158907,6 +160088,9 @@
 "m-pembrokepines|matter|26-3102": "m-pembrokepines|ref:file 26-3102",
 "m-pinecrest|nodate|183bc19a|8fe7577c72d4": "m-pinecrest|item:m-pinecrest|nodate|183bc19a|8fe7577c72d4",
 "m-pinecrest|nodate|20466970|78c2c0b3ca5f": "m-pinecrest|item:m-pinecrest|nodate|20466970|78c2c0b3ca5f",
+"m-pinecrest|nodate|22e9e5a4|c19bde62ded2": "m-pinecrest|item:m-pinecrest|nodate|22e9e5a4|c19bde62ded2",
+"m-pinecrest|nodate|4c50efe5|81f9e4ba9eb9": "m-pinecrest|item:m-pinecrest|nodate|4c50efe5|81f9e4ba9eb9",
+"m-pinecrest|nodate|4c50efe5|a3cd1c57017a": "m-pinecrest|item:m-pinecrest|nodate|4c50efe5|a3cd1c57017a",
 "m-pinecrest|nodate|605e9b45|8060b11c928a": "m-pinecrest|item:m-pinecrest|nodate|605e9b45|8060b11c928a",
 "m-pinecrest|nodate|6cd51b4b|74139505edd0": "m-pinecrest|item:m-pinecrest|nodate|6cd51b4b|74139505edd0",
 "m-pinecrest|nodate|6cd51b4b|ef2f75c05c18": "m-pinecrest|item:m-pinecrest|nodate|6cd51b4b|ef2f75c05c18",
@@ -158916,6 +160100,7 @@
 "m-pinecrest|nodate|886350ab|7bccd6681d0b": "m-pinecrest|item:m-pinecrest|nodate|886350ab|7bccd6681d0b",
 "m-pinecrest|nodate|a1de53b9|c688af0df5b6": "m-pinecrest|item:m-pinecrest|nodate|a1de53b9|c688af0df5b6",
 "m-pinecrest|nodate|b81dc6ce|18a55974d5dc": "m-pinecrest|item:m-pinecrest|nodate|b81dc6ce|18a55974d5dc",
+"m-pinecrest|nodate|ed2fea58|bf99759a12ae": "m-pinecrest|item:m-pinecrest|nodate|ed2fea58|bf99759a12ae",
 "m-pinellaspark|matter|25-3062": "m-pinellaspark|ref:file 25-3062",
 "m-pinellaspark|matter|25-3215": "m-pinellaspark|ref:file 25-3215",
 "m-pinellaspark|matter|25-3218": "m-pinellaspark|ref:file 25-3218",
@@ -159146,13 +160331,18 @@
 "m-portstlucie|matter|2026-972": "m-portstlucie|ref:contract 20270011",
 "m-puntagorda|nodate|18129054|9d7fcdcc861b": "m-puntagorda|item:m-puntagorda|nodate|18129054|9d7fcdcc861b",
 "m-puntagorda|nodate|18129054|b12556f3d4ac": "m-puntagorda|item:m-puntagorda|nodate|18129054|b12556f3d4ac",
+"m-puntagorda|nodate|195b16da|3573ef4dfcd2": "m-puntagorda|item:m-puntagorda|nodate|195b16da|3573ef4dfcd2",
 "m-puntagorda|nodate|5db89d18|9d7fcdcc861b": "m-puntagorda|item:m-puntagorda|nodate|5db89d18|9d7fcdcc861b",
 "m-puntagorda|nodate|5db89d18|b12556f3d4ac": "m-puntagorda|item:m-puntagorda|nodate|5db89d18|b12556f3d4ac",
+"m-puntagorda|nodate|86133549|e05876baae06": "m-puntagorda|ref:contract 43220000-NASPO-19-ACS",
 "m-puntagorda|nodate|a41ba110|1ef917b70b1a": "m-puntagorda|item:m-puntagorda|nodate|a41ba110|1ef917b70b1a",
 "m-puntagorda|nodate|ae50d8c3|50395b76deb7": "m-puntagorda|item:m-puntagorda|nodate|ae50d8c3|50395b76deb7",
 "m-puntagorda|nodate|ae50d8c3|5cdce7f1d53e": "m-puntagorda|item:m-puntagorda|nodate|ae50d8c3|5cdce7f1d53e",
 "m-puntagorda|nodate|ae50d8c3|e4f299d99b75": "m-puntagorda|item:m-puntagorda|nodate|ae50d8c3|e4f299d99b75",
 "m-puntagorda|nodate|c354e3ed|0c7d7a06dc60": "m-puntagorda|item:m-puntagorda|nodate|c354e3ed|0c7d7a06dc60",
+"m-puntagorda|nodate|cc026581|3573ef4dfcd2": "m-puntagorda|item:m-puntagorda|nodate|cc026581|3573ef4dfcd2",
+"m-puntagorda|nodate|da6eb9fe|e05876baae06": "m-puntagorda|ref:contract 43220000-NASPO-19-ACS",
+"m-puntagorda|nodate|f17f8758|e05876baae06": "m-puntagorda|ref:contract 43220000-NASPO-19-ACS",
 "m-sanford|nodate|000fc4e0|55c12fc75265": "m-sanford|item:m-sanford|nodate|000fc4e0|55c12fc75265",
 "m-sanford|nodate|000fc4e0|8376f8666983": "m-sanford|item:m-sanford|nodate|000fc4e0|8376f8666983",
 "m-sanford|nodate|000fc4e0|c7c21b4e3eb6": "m-sanford|item:m-sanford|nodate|000fc4e0|c7c21b4e3eb6",
@@ -159611,6 +160801,7 @@
 "m-stuart|nodate|37c5fc7d|8475c8208d85": "m-stuart|ref:ord/res 13-2020",
 "m-stuart|nodate|3b234fea|21ce2ae4f72b": "m-stuart|ref:ord/res 95-2019",
 "m-stuart|nodate|3c6a0d90|1bc5b0cc0fce": "m-stuart|ref:ord/res 108-2020",
+"m-stuart|nodate|3e8e2f65|858d68968e83": "m-stuart|ref:ord/res 72-2019",
 "m-stuart|nodate|4085be5e|2c5a30b2ee00": "m-stuart|ref:ord/res 11-2020",
 "m-stuart|nodate|41657092|1115b674022b": "m-stuart|ref:ord/res 08-2020",
 "m-stuart|nodate|4af1d95a|87e7b2ae1f08": "m-stuart|ref:ord/res 03-2020",
@@ -161305,6 +162496,14 @@
 "m-tarponsprings|2026-11-17|d5374ab2|85f0adf0cfc9": "m-tarponsprings|item:m-tarponsprings|2026-11-17|d5374ab2|85f0adf0cfc9",
 "m-tarponsprings|2026-11-17|d5374ab2|c27c508bf0f3": "m-tarponsprings|item:m-tarponsprings|2026-11-17|d5374ab2|c27c508bf0f3",
 "m-tarponsprings|2026-11-17|d5374ab2|d5e8bbb9db6a": "m-tarponsprings|item:m-tarponsprings|2026-11-17|d5374ab2|d5e8bbb9db6a",
+"m-tarponsprings|2026-11-17|d6ab950e|32fda347d684": "m-tarponsprings|ref:contract RFP-24-195",
+"m-tarponsprings|2026-11-17|d6ab950e|37498c3ffdbb": "m-tarponsprings|item:m-tarponsprings|2026-11-17|d6ab950e|37498c3ffdbb",
+"m-tarponsprings|2026-11-17|d6ab950e|37660a75390c": "m-tarponsprings|ref:contract RFP-24-195",
+"m-tarponsprings|2026-11-17|d6ab950e|48185a1e900e": "m-tarponsprings|ref:contract RFP-24-195",
+"m-tarponsprings|2026-11-17|d6ab950e|63981e4a061d": "m-tarponsprings|item:m-tarponsprings|2026-11-17|d6ab950e|63981e4a061d",
+"m-tarponsprings|2026-11-17|d6ab950e|85f0adf0cfc9": "m-tarponsprings|item:m-tarponsprings|2026-11-17|d6ab950e|85f0adf0cfc9",
+"m-tarponsprings|2026-11-17|d6ab950e|c27c508bf0f3": "m-tarponsprings|item:m-tarponsprings|2026-11-17|d6ab950e|c27c508bf0f3",
+"m-tarponsprings|2026-11-17|d6ab950e|d5e8bbb9db6a": "m-tarponsprings|item:m-tarponsprings|2026-11-17|d6ab950e|d5e8bbb9db6a",
 "m-tavares|2026-11-18|953110a1|0a0b4f2fcab4": "m-tavares|item:m-tavares|2026-11-18|953110a1|0a0b4f2fcab4",
 "m-tavares|2026-11-18|953110a1|344a6b82fc47": "m-tavares|item:m-tavares|2026-11-18|953110a1|344a6b82fc47",
 "m-tavares|2026-11-18|953110a1|a17be29758a3": "m-tavares|ref:ord/res 2026-24",
@@ -161405,10 +162604,12 @@
 "m-venice|nodate|03bb3a91|023d4a05c9b5": "m-venice|item:m-venice|nodate|03bb3a91|023d4a05c9b5",
 "m-venice|nodate|2a1279e8|99539baaae5f": "m-venice|item:m-venice|nodate|2a1279e8|99539baaae5f",
 "m-venice|nodate|2a1279e8|c59c55706bc8": "m-venice|item:m-venice|nodate|2a1279e8|c59c55706bc8",
+"m-venice|nodate|3d1d3092|e6747ddf9e5d": "m-venice|ref:ord/res 2026-11",
 "m-venice|nodate|5fefdd7b|025ff6b47645": "m-venice|item:m-venice|nodate|5fefdd7b|025ff6b47645",
 "m-venice|nodate|64ec154f|c0753cd8862e": "m-venice|item:m-venice|nodate|64ec154f|c0753cd8862e",
 "m-venice|nodate|64ec154f|d8a0aaa7daa2": "m-venice|ref:ord/res 2026-21",
 "m-venice|nodate|6ff9136b|1e4ff49479a1": "m-venice|item:m-venice|nodate|6ff9136b|1e4ff49479a1",
+"m-venice|nodate|9272d22c|fba3bc57e18f": "m-venice|ref:ord/res 2026-11",
 "m-venice|nodate|a1247706|6a5b4a0b05c3": "m-venice|item:m-venice|nodate|a1247706|6a5b4a0b05c3",
 "m-venice|nodate|a1a8e843|70be4e75e005": "m-venice|ref:ord/res 2026-37",
 "m-venice|nodate|a1a8e843|d0ed4292aec2": "m-venice|item:m-venice|nodate|a1a8e843|d0ed4292aec2",
@@ -161454,6 +162655,7 @@
 "m-wellington|nodate|26a1b76d|b766b7ff7351": "m-wellington|item:m-wellington|nodate|26a1b76d|b766b7ff7351",
 "m-wellington|nodate|26a1b76d|e2ac69b91a5c": "m-wellington|item:m-wellington|nodate|26a1b76d|e2ac69b91a5c",
 "m-wellington|nodate|26a1b76d|fc7c41372e00": "m-wellington|item:m-wellington|nodate|26a1b76d|fc7c41372e00",
+"m-wellington|nodate|3664a41a|fbbdcd1dfdb5": "m-wellington|item:m-wellington|nodate|3664a41a|fbbdcd1dfdb5",
 "m-wellington|nodate|36cfb7b8|0c09f3994506": "m-wellington|item:m-wellington|nodate|36cfb7b8|0c09f3994506",
 "m-wellington|nodate|36cfb7b8|101a612162d5": "m-wellington|item:m-wellington|nodate|36cfb7b8|101a612162d5",
 "m-wellington|nodate|36cfb7b8|2352607eac58": "m-wellington|item:m-wellington|nodate|36cfb7b8|2352607eac58",
@@ -161474,6 +162676,7 @@
 "m-wellington|nodate|4301a57b|a90ba0675f38": "m-wellington|item:m-wellington|nodate|4301a57b|a90ba0675f38",
 "m-wellington|nodate|4301a57b|c73a18ef715f": "m-wellington|item:m-wellington|nodate|4301a57b|c73a18ef715f",
 "m-wellington|nodate|4301a57b|ea1027eed26c": "m-wellington|item:m-wellington|nodate|4301a57b|ea1027eed26c",
+"m-wellington|nodate|4e5bcd99|b755a2faf958": "m-wellington|item:m-wellington|nodate|4e5bcd99|b755a2faf958",
 "m-wellington|nodate|60ad10a2|00a887a01ae0": "m-wellington|item:m-wellington|nodate|60ad10a2|00a887a01ae0",
 "m-wellington|nodate|60ad10a2|03d65867136c": "m-wellington|item:m-wellington|nodate|60ad10a2|03d65867136c",
 "m-wellington|nodate|60ad10a2|26ce8e4d157a": "m-wellington|item:m-wellington|nodate|60ad10a2|26ce8e4d157a",
@@ -161644,6 +162847,8 @@
 "m-winterhaven|nodate|ea430ed6|31024db5a20b": "m-winterhaven|item:m-winterhaven|nodate|ea430ed6|31024db5a20b",
 "m-winterhaven|nodate|ea430ed6|f125c704f4ab": "m-winterhaven|item:m-winterhaven|nodate|ea430ed6|f125c704f4ab",
 "m-winterhaven|nodate|ea430ed6|f188099a0c2d": "m-winterhaven|item:m-winterhaven|nodate|ea430ed6|f188099a0c2d",
+"m-winterhaven|nodate|f08c4d2b|006614bb14a6": "m-winterhaven|item:m-winterhaven|nodate|f08c4d2b|006614bb14a6",
+"m-winterhaven|nodate|f08c4d2b|d88a655f79d3": "m-winterhaven|item:m-winterhaven|nodate|f08c4d2b|d88a655f79d3",
 "m-winterhaven|nodate|f626fc61|31024db5a20b": "m-winterhaven|item:m-winterhaven|nodate|f626fc61|31024db5a20b",
 "m-winterhaven|nodate|f626fc61|f125c704f4ab": "m-winterhaven|item:m-winterhaven|nodate|f626fc61|f125c704f4ab",
 "m-winterhaven|nodate|f626fc61|f188099a0c2d": "m-winterhaven|item:m-winterhaven|nodate|f626fc61|f188099a0c2d",
@@ -161655,6 +162860,9 @@
 "m-winterpark|nodate|610f14e9|328cf1071a4c": "m-winterpark|ref:contract DOT-ITB-23-9037-SJ",
 "m-winterpark|nodate|610f14e9|495f0af4c985": "m-winterpark|item:m-winterpark|nodate|610f14e9|495f0af4c985",
 "m-winterpark|nodate|610f14e9|6486a3fd2e64": "m-winterpark|item:m-winterpark|nodate|610f14e9|6486a3fd2e64",
+"m-winterpark|nodate|a247b3b9|3e994d99f7bf": "m-winterpark|item:m-winterpark|nodate|a247b3b9|3e994d99f7bf",
+"m-winterpark|nodate|a247b3b9|51ee76eef276": "m-winterpark|item:m-winterpark|nodate|a247b3b9|51ee76eef276",
+"m-winterpark|nodate|a247b3b9|fdabbc2f1320": "m-winterpark|ref:contract ITB23-42",
 "m-winterpark|nodate|e347440e|03839938c458": "m-winterpark|item:m-winterpark|nodate|e347440e|03839938c458",
 "m-winterpark|nodate|e347440e|4f7da46a9b97": "m-winterpark|item:m-winterpark|nodate|e347440e|4f7da46a9b97",
 "m-winterpark|nodate|e347440e|ba363b038fea": "m-winterpark|item:m-winterpark|nodate|e347440e|ba363b038fea",
