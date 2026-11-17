@@ -7,6 +7,8 @@ ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(ROOT / "scripts"))
 import rules
 from archive_items import key as archive_key
+import dupes
+_DUP = None
 
 def load(name):
     p = ROOT / "data" / name
@@ -62,6 +64,10 @@ def tag_stage_category(it, today):
     it["id"] = archive_key(it)        # same key as data/archive and the review queue
     it["project_id"], it["project_total"] = project_of(it["id"])
     it.update(budget_share(it, budget_of(it.get("entity_id"))))
+    global _DUP
+    if _DUP is None: _DUP = dupes.Index()
+    it["possible_duplicates"] = _DUP.find(it["id"], it.get("entity_id"), it.get("meeting_date"), it.get("max_amount"), it.get("title"))
+    it["possible_duplicate_label"] = dupes.label(it["possible_duplicates"], it.get("meeting_date"))
     md = it.get("meeting_date")
     days = (datetime.fromisoformat(md).date() - today).days if md else None
     early = bool(EARLY.search(it.get("body") or ""))
@@ -111,6 +117,7 @@ def main():
                       "by_category": dict(Counter(c for x in pool for c in x["categories"]))},
            "upcoming": sorted([x for x in pool if x["stage"] in ("upcoming", "early_warning")], key=lambda x: (x["days_until_meeting"], -(x.get("signal_score") or 0)))[:200],
            "outgoing_grants": grants, "bypass_competition": bypass, "other": rest}
+    out["counts"]["possible_duplicates"] = sum(1 for x in pool if x.get("possible_duplicate_label"))
     out["counts"]["missing_link"] = sum(1 for x in pool if not x.get("link"))
     (ROOT / "data/candidates.json").write_text(json.dumps(out, indent=1))
 
