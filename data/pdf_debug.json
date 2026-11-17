@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-17T14:48:17+00:00",
+ "generated_utc": "2026-11-17T17:01:45+00:00",
  "sources": {
   "m-stpetersburg": {
    "name": "St. Petersburg",
@@ -816,8 +816,8 @@
        "After Midnight Alcohol Sales Hearing"
       ],
       [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/2nd-Committee-Meeting-for-RFP26-0439-Grounds-Maintenance-for-Wastewater-Admin-Conserv-II-and-Various-Lift-Station-111726",
-       "2nd Committee Meeting for RFP26-0439"
+       "https://www.orlando.gov/Our-Government/Public-Meetings/CANCELED-2nd-Committee-Meeting-for-RFP26-0439-Grounds-Maintenance-for-Wastewater-Admin-Conserv-II-and-Various-Lift-Station-111726",
+       "*CANCELED* - 2nd Committee Meeting for RFP26-0439"
       ],
       [
        "https://www.orlando.gov/Our-Government/Public-Meetings/1st-Committee-Meeting-for-One-North-Orange-Redevelopment-Solicitation-111826",
@@ -860,8 +860,8 @@
        "Municipal Planning Board (MPB) November 17, 2026 Hybrid Meeting"
       ],
       [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/2nd-Committee-Meeting-for-RFP26-0439-Grounds-Maintenance-for-Wastewater-Admin-Conserv-II-and-Various-Lift-Station-111726",
-       "2nd Committee Meeting for RFP26-0439 November 17, 2026 In-Person Meeting"
+       "https://www.orlando.gov/Our-Government/Public-Meetings/CANCELED-2nd-Committee-Meeting-for-RFP26-0439-Grounds-Maintenance-for-Wastewater-Admin-Conserv-II-and-Various-Lift-Station-111726",
+       "*CANCELED* - 2nd Committee Meeting for RFP26-0439 November 17, 2026 In-Person Meeting"
       ],
       [
        "https://www.orlando.gov/Our-Government/Public-Meetings/Families-Parks-and-Recreation-Advisory-Board-111726",
@@ -1111,8 +1111,8 @@
        "After Midnight Alcohol Sales Hearing"
       ],
       [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/2nd-Committee-Meeting-for-RFP26-0439-Grounds-Maintenance-for-Wastewater-Admin-Conserv-II-and-Various-Lift-Station-111726",
-       "2nd Committee Meeting for RFP26-0439"
+       "https://www.orlando.gov/Our-Government/Public-Meetings/CANCELED-2nd-Committee-Meeting-for-RFP26-0439-Grounds-Maintenance-for-Wastewater-Admin-Conserv-II-and-Various-Lift-Station-111726",
+       "*CANCELED* - 2nd Committee Meeting for RFP26-0439"
       ],
       [
        "https://www.orlando.gov/Our-Government/Public-Meetings/1st-Committee-Meeting-for-One-North-Orange-Redevelopment-Solicitation-111826",
@@ -1349,8 +1349,8 @@
        "After Midnight Alcohol Sales Hearing"
       ],
       [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/2nd-Committee-Meeting-for-RFP26-0439-Grounds-Maintenance-for-Wastewater-Admin-Conserv-II-and-Various-Lift-Station-111726",
-       "2nd Committee Meeting for RFP26-0439"
+       "https://www.orlando.gov/Our-Government/Public-Meetings/CANCELED-2nd-Committee-Meeting-for-RFP26-0439-Grounds-Maintenance-for-Wastewater-Admin-Conserv-II-and-Various-Lift-Station-111726",
+       "*CANCELED* - 2nd Committee Meeting for RFP26-0439"
       ],
       [
        "https://www.orlando.gov/Our-Government/Public-Meetings/1st-Committee-Meeting-for-One-North-Orange-Redevelopment-Solicitation-111826",
@@ -1579,8 +1579,8 @@
        "After Midnight Alcohol Sales Hearing"
       ],
       [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/2nd-Committee-Meeting-for-RFP26-0439-Grounds-Maintenance-for-Wastewater-Admin-Conserv-II-and-Various-Lift-Station-111726",
-       "2nd Committee Meeting for RFP26-0439"
+       "https://www.orlando.gov/Our-Government/Public-Meetings/CANCELED-2nd-Committee-Meeting-for-RFP26-0439-Grounds-Maintenance-for-Wastewater-Admin-Conserv-II-and-Various-Lift-Station-111726",
+       "*CANCELED* - 2nd Committee Meeting for RFP26-0439"
       ],
       [
        "https://www.orlando.gov/Our-Government/Public-Meetings/1st-Committee-Meeting-for-One-North-Orange-Redevelopment-Solicitation-111826",
@@ -1661,6 +1661,10 @@
       [
        "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1619",
        "COMMUNITY REDEVELOPMENT AGENCY SPECIAL MEETING - Nov 19, 2026"
+      ],
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3666",
+       "CITY COMMISSION SPECIAL MEETING - Nov 16, 2026"
       ],
       [
        "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3663",
@@ -2057,20 +2061,23 @@
       [
        "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3462",
        "CITY COMMISSION REGULAR MEETING - May 22, 2025"
-      ],
-      [
-       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3459",
-       "CITY COMMISSION REGULAR MEETING - May 08, 2025"
       ]
      ]
     }
    ],
    "pdfs_found": 102,
-   "scanned": [],
+   "scanned": [
+    {
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3666",
+     "pages": 2,
+     "hits": 0
+    }
+   ],
    "errors": [],
    "pdf_sample": [
     "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1611",
     "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1619",
+    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3666",
     "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3663",
     "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3662",
     "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3659",
@@ -2082,8 +2089,7 @@
     "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3634",
     "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3638",
     "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3633",
-    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3630",
-    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3626"
+    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3630"
    ]
   },
   "m-tampa": {
@@ -2575,7 +2581,7 @@
    "listing": [
     {
      "url": "https://coralsprings.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-     "links": 110,
+     "links": 109,
      "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>Coral Springs, FL: Coral Springs ",
      "sample": [
       [
@@ -2613,10 +2619,6 @@
       [
        "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2314",
        "Coral Springs City Commission Swearing-In Ceremony - Nov 17, 2026"
-      ],
-      [
-       "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2165",
-       "Accessibility Advisory Group Meeting - Nov 17, 2026"
       ],
       [
        "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=336",
@@ -3021,14 +3023,8 @@
      ]
     }
    ],
-   "pdfs_found": 110,
-   "scanned": [
-    {
-     "pdf": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2171",
-     "pages": 2,
-     "hits": 0
-    }
-   ],
+   "pdfs_found": 109,
+   "scanned": [],
    "errors": [],
    "pdf_sample": [
     "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2281",
@@ -3040,12 +3036,12 @@
     "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2315",
     "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2523",
     "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2314",
-    "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2165",
     "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=336",
     "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=337",
     "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=335",
     "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=334",
-    "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=333"
+    "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=333",
+    "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=332"
    ]
   },
   "m-plantation": {
@@ -3493,10 +3489,6 @@
        "Special City Commission Meeting - Nov 16, 2026"
       ],
       [
-       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1282",
-       "City Commission Meeting - Nov 10, 2026"
-      ],
-      [
        "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1283",
        "City Commission Meeting - Nov 10, 2026"
       ],
@@ -3887,22 +3879,19 @@
       [
        "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=975",
        "City Commission Meeting - Jan 09, 2024"
+      ],
+      [
+       "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=973",
+       "Local Planning Agency - Dec 12, 2023"
       ]
      ]
     }
    ],
    "pdfs_found": 100,
-   "scanned": [
-    {
-     "pdf": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1284",
-     "pages": 2,
-     "hits": 0
-    }
-   ],
+   "scanned": [],
    "errors": [],
    "pdf_sample": [
     "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1284",
-    "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1282",
     "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1283",
     "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1279",
     "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1272",
@@ -3915,7 +3904,8 @@
     "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1233",
     "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1230",
     "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1228",
-    "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1223"
+    "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1223",
+    "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1220"
    ]
   },
   "m-tamarac": {
@@ -4430,13 +4420,7 @@
     }
    ],
    "pdfs_found": 101,
-   "scanned": [
-    {
-     "pdf": "https://bocaraton.granicus.com/AgendaViewer.php?view_id=9&event_id=23334",
-     "pages": 1,
-     "hits": 0
-    }
-   ],
+   "scanned": [],
    "errors": [
     "listing https://bocaraton.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas: HTTP Error 403: Forbidden"
    ],
@@ -5413,42 +5397,42 @@
    "pdfs_found": 104,
    "scanned": [
     {
-     "pdf": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3572",
+     "pdf": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3554",
      "pages": 4,
      "hits": 0
     },
     {
-     "pdf": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3570",
+     "pdf": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3548",
+     "pages": 7,
+     "hits": 2
+    },
+    {
+     "pdf": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3545",
+     "pages": 11,
+     "hits": 2
+    },
+    {
+     "pdf": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3543",
      "pages": 3,
      "hits": 0
     },
     {
-     "pdf": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3565",
+     "pdf": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3541",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3538",
+     "pages": 20,
+     "hits": 7
+    },
+    {
+     "pdf": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3537",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3566",
-     "pages": 12,
-     "hits": 3
-    },
-    {
-     "pdf": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3563",
-     "pages": 3,
-     "hits": 0
-    },
-    {
-     "pdf": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3558",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3559",
-     "pages": 14,
-     "hits": 3
-    },
-    {
-     "pdf": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3556",
+     "pdf": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3534",
      "pages": 2,
      "hits": 0
     }
@@ -5981,34 +5965,29 @@
    "pdfs_found": 102,
    "scanned": [
     {
-     "pdf": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&event_id=1609",
-     "pages": 2,
-     "hits": 0
-    },
-    {
-     "pdf": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1788",
+     "pdf": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1780",
      "pages": 3,
      "hits": 0
     },
     {
-     "pdf": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1785",
-     "pages": 2,
-     "hits": 0
-    },
-    {
-     "pdf": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1784",
+     "pdf": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1779",
      "pages": 3,
      "hits": 0
     },
     {
-     "pdf": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1783",
+     "pdf": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1778",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1782",
-     "pages": 2,
-     "hits": 0
+     "pdf": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1774",
+     "pages": 7,
+     "hits": 14
+    },
+    {
+     "pdf": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1773",
+     "pages": 6,
+     "hits": 14
     }
    ],
    "errors": [],
@@ -6035,12 +6014,16 @@
    "listing": [
     {
      "url": "https://margatefl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-     "links": 101,
+     "links": 102,
      "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>Margate, FL: Default View (Agenda",
      "sample": [
       [
-       "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&event_id=1521",
-       "Development Review Committee - Nov 17, 2026"
+       "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&event_id=1524",
+       "Development Review Committee - Dec 08, 2026"
+      ],
+      [
+       "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&event_id=1523",
+       "Planning and Zoning Board - Dec 01, 2026"
       ],
       [
        "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1120",
@@ -6445,11 +6428,43 @@
      ]
     }
    ],
-   "pdfs_found": 101,
-   "scanned": [],
+   "pdfs_found": 102,
+   "scanned": [
+    {
+     "pdf": "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&event_id=1524",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&event_id=1523",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1035",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1031",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1027",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1029",
+     "pages": 1,
+     "hits": 0
+    }
+   ],
    "errors": [],
    "pdf_sample": [
-    "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&event_id=1521",
+    "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&event_id=1524",
+    "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&event_id=1523",
     "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1120",
     "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1118",
     "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1116",
@@ -6462,8 +6477,7 @@
     "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1102",
     "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1100",
     "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1098",
-    "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1096",
-    "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1094"
+    "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1096"
    ]
   },
   "m-coconutcreek": {
@@ -6880,44 +6894,44 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2261",
-     "pages": 5,
-     "hits": 3
-    },
-    {
-     "pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2256",
-     "pages": 3,
-     "hits": 0
-    },
-    {
-     "pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2251",
-     "pages": 5,
-     "hits": 0
-    },
-    {
-     "pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2245",
+     "pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2228",
      "pages": 4,
-     "hits": 2
-    },
-    {
-     "pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2236",
-     "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2237",
+     "pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2221",
      "pages": 6,
-     "hits": 2
+     "hits": 8
     },
     {
-     "pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2233",
+     "pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2215",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2231",
-     "pages": 3,
+     "pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2208",
+     "pages": 7,
+     "hits": 2
+    },
+    {
+     "pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2203",
+     "pages": 2,
      "hits": 0
+    },
+    {
+     "pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2196",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2197",
+     "pages": 5,
+     "hits": 0
+    },
+    {
+     "pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2191",
+     "pages": 5,
+     "hits": 1
     }
    ],
    "errors": [],
@@ -7357,34 +7371,34 @@
    "pdfs_found": 101,
    "scanned": [
     {
-     "pdf": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=4159",
-     "pages": 3,
-     "hits": 0
-    },
-    {
-     "pdf": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=4157",
-     "pages": 3,
-     "hits": 0
-    },
-    {
-     "pdf": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=4156",
+     "pdf": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=4108",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=4153",
-     "pages": 7,
-     "hits": 1
-    },
-    {
-     "pdf": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=4110",
-     "pages": 3,
+     "pdf": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=4106",
+     "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=4111",
+     "pdf": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=4104",
+     "pages": 3,
+     "hits": 2
+    },
+    {
+     "pdf": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=4102",
+     "pages": 4,
+     "hits": 0
+    },
+    {
+     "pdf": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=4098",
      "pages": 6,
      "hits": 1
+    },
+    {
+     "pdf": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=4093",
+     "pages": 3,
+     "hits": 0
     }
    ],
    "errors": [],
@@ -7832,42 +7846,42 @@
    "pdfs_found": 103,
    "scanned": [
     {
-     "pdf": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=333",
+     "pdf": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=325",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=332",
+     "pdf": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=322",
+     "pages": 1,
+     "hits": 1
+    },
+    {
+     "pdf": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=323",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=331",
+     "pdf": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=324",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=330",
-     "pages": 1,
-     "hits": 3
-    },
-    {
-     "pdf": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=329",
-     "pages": 1,
-     "hits": 4
-    },
-    {
-     "pdf": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=328",
+     "pdf": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=321",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=327",
+     "pdf": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=320",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=326",
+     "pdf": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=319",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=318",
      "pages": 1,
      "hits": 0
     }
@@ -8341,37 +8355,37 @@
    "pdfs_found": 109,
    "scanned": [
     {
-     "pdf": "https://coralgables.granicus.com/AgendaViewer.php?view_id=2&event_id=2646",
+     "pdf": "https://coralgables.granicus.com/AgendaViewer.php?view_id=2&clip_id=4044",
      "pages": 3,
      "hits": 0
     },
     {
-     "pdf": "https://coralgables.granicus.com/AgendaViewer.php?view_id=2&clip_id=4071",
+     "pdf": "https://coralgables.granicus.com/AgendaViewer.php?view_id=2&clip_id=4026",
      "pages": 3,
      "hits": 0
     },
     {
-     "pdf": "https://coralgables.granicus.com/AgendaViewer.php?view_id=2&clip_id=4103",
+     "pdf": "https://coralgables.granicus.com/AgendaViewer.php?view_id=2&clip_id=4046",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://coralgables.granicus.com/AgendaViewer.php?view_id=2&clip_id=4018",
+     "pages": 3,
+     "hits": 0
+    },
+    {
+     "pdf": "https://coralgables.granicus.com/AgendaViewer.php?view_id=2&clip_id=4024",
      "pages": 4,
      "hits": 0
     },
     {
-     "pdf": "https://coralgables.granicus.com/AgendaViewer.php?view_id=2&clip_id=4117",
-     "pages": 4,
-     "hits": 0
-    },
-    {
-     "pdf": "https://coralgables.granicus.com/AgendaViewer.php?view_id=2&clip_id=4086",
+     "pdf": "https://coralgables.granicus.com/AgendaViewer.php?view_id=2&clip_id=4020",
      "pages": 3,
      "hits": 0
     },
     {
-     "pdf": "https://coralgables.granicus.com/AgendaViewer.php?view_id=2&clip_id=4073",
-     "pages": 3,
-     "hits": 0
-    },
-    {
-     "pdf": "https://coralgables.granicus.com/AgendaViewer.php?view_id=2&clip_id=4088",
+     "pdf": "https://coralgables.granicus.com/AgendaViewer.php?view_id=2&clip_id=4040",
      "pages": 3,
      "hits": 0
     }
@@ -8809,22 +8823,22 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://cutlerbay.granicus.com/AgendaViewer.php?view_id=1&clip_id=266",
+     "pdf": "https://cutlerbay.granicus.com/AgendaViewer.php?view_id=1&clip_id=255",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://cutlerbay.granicus.com/AgendaViewer.php?view_id=1&clip_id=264",
+     "pdf": "https://cutlerbay.granicus.com/AgendaViewer.php?view_id=1&clip_id=253",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://cutlerbay.granicus.com/AgendaViewer.php?view_id=1&clip_id=263",
+     "pdf": "https://cutlerbay.granicus.com/AgendaViewer.php?view_id=1&clip_id=250",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://cutlerbay.granicus.com/AgendaViewer.php?view_id=1&clip_id=259",
+     "pdf": "https://cutlerbay.granicus.com/AgendaViewer.php?view_id=1&clip_id=247",
      "pages": 1,
      "hits": 0
     }
@@ -9270,44 +9284,44 @@
    "pdfs_found": 102,
    "scanned": [
     {
-     "pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=455",
-     "pages": 1,
+     "pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=482",
+     "pages": 2,
      "hits": 1
     },
     {
-     "pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=480",
-     "pages": 1,
-     "hits": 1
-    },
-    {
-     "pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=430",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=395",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=484",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=483",
+     "pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=423",
      "pages": 1,
      "hits": 2
     },
     {
-     "pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=426",
-     "pages": 1,
+     "pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=433",
+     "pages": 67,
+     "hits": 13
+    },
+    {
+     "pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=481",
+     "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=387",
-     "pages": 3,
+     "pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=347",
+     "pages": 5,
+     "hits": 3
+    },
+    {
+     "pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=337",
+     "pages": 5,
+     "hits": 3
+    },
+    {
+     "pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=332",
+     "pages": 2,
      "hits": 0
+    },
+    {
+     "pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=330",
+     "pages": 4,
+     "hits": 1
     }
    ],
    "errors": [],
@@ -9334,7 +9348,7 @@
    "listing": [
     {
      "url": "https://marcoisland.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
-     "links": 102,
+     "links": 101,
      "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>Marco Island: Marco Island Web Pa",
      "sample": [
       [
@@ -9342,7 +9356,7 @@
        "Parks and Recreation Advisory Committee on 2026-11-17 3:30 PM - Nov 17, 2026"
       ],
       [
-       "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&event_id=1826",
+       "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2120",
        "Code Enforcement Magistrate on 2026-11-17 10:00 AM - Nov 17, 2026"
       ],
       [
@@ -9740,61 +9754,45 @@
       [
        "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=1997",
        "City Council on 2026-01-12 1:00 PM - City Council Priorities Workshop - Jan 12, 2026"
-      ],
-      [
-       "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=1996",
-       "Planning Board on 2026-01-09 9:00 AM - Jan 09, 2026"
       ]
      ]
     }
    ],
-   "pdfs_found": 102,
+   "pdfs_found": 101,
    "scanned": [
     {
-     "pdf": "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2119",
-     "pages": 7,
-     "hits": 1
-    },
-    {
-     "pdf": "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2089",
-     "pages": 2,
-     "hits": 0
-    },
-    {
-     "pdf": "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2081",
-     "pages": 2,
-     "hits": 0
-    },
-    {
-     "pdf": "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2088",
+     "pdf": "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2120",
      "pages": 3,
      "hits": 0
     },
     {
-     "pdf": "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2080",
-     "pages": 4,
+     "pdf": "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2072",
+     "pages": 6,
+     "hits": 1
+    },
+    {
+     "pdf": "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2071",
+     "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2079",
+     "pdf": "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2069",
      "pages": 7,
-     "hits": 3
-    },
-    {
-     "pdf": "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2078",
-     "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2077",
-     "pages": 1,
+     "pdf": "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2070",
+     "pages": 7,
      "hits": 0
     }
    ],
-   "errors": [],
+   "errors": [
+    "pdf https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2076: HTTP Error 404: Not Found",
+    "pdf https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2074: HTTP Error 404: Not Found"
+   ],
    "pdf_sample": [
     "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&event_id=1829",
-    "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&event_id=1826",
+    "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2120",
     "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2119",
     "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2118",
     "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2117",
@@ -10236,37 +10234,37 @@
    "pdfs_found": 103,
    "scanned": [
     {
-     "pdf": "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1377",
+     "pdf": "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1376",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1374",
-     "pages": 4,
-     "hits": 1
-    },
-    {
-     "pdf": "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1372",
+     "pdf": "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1375",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1364",
+     "pdf": "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1366",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1382",
+     "pdf": "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1365",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1362",
-     "pages": 5,
-     "hits": 3
+     "pdf": "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1370",
+     "pages": 2,
+     "hits": 0
     },
     {
-     "pdf": "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1373",
+     "pdf": "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1392",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1334",
      "pages": 2,
      "hits": 0
     }
@@ -10708,33 +10706,43 @@
    "pdfs_found": 101,
    "scanned": [
     {
-     "pdf": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1952",
-     "pages": 3,
-     "hits": 0
-    },
-    {
-     "pdf": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1948",
-     "pages": 7,
-     "hits": 2
-    },
-    {
-     "pdf": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1947",
-     "pages": 3,
-     "hits": 0
-    },
-    {
-     "pdf": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1946",
+     "pdf": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1942",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1944",
-     "pages": 3,
+     "pdf": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1941",
+     "pages": 4,
      "hits": 0
     },
     {
-     "pdf": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1943",
+     "pdf": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1940",
+     "pages": 5,
+     "hits": 1
+    },
+    {
+     "pdf": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1939",
      "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1937",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1936",
+     "pages": 6,
+     "hits": 0
+    },
+    {
+     "pdf": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1935",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1934",
+     "pages": 6,
      "hits": 0
     }
    ],
@@ -11171,43 +11179,43 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://winterpark.granicus.com/AgendaViewer.php?view_id=6&clip_id=1231",
+     "pdf": "https://winterpark.granicus.com/AgendaViewer.php?view_id=6&clip_id=1218",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://winterpark.granicus.com/AgendaViewer.php?view_id=6&clip_id=1228",
+     "pdf": "https://winterpark.granicus.com/AgendaViewer.php?view_id=6&clip_id=1216",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://winterpark.granicus.com/AgendaViewer.php?view_id=6&clip_id=1229",
+     "pdf": "https://winterpark.granicus.com/AgendaViewer.php?view_id=6&clip_id=1215",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://winterpark.granicus.com/AgendaViewer.php?view_id=6&clip_id=1227",
+     "pdf": "https://winterpark.granicus.com/AgendaViewer.php?view_id=6&clip_id=1214",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://winterpark.granicus.com/AgendaViewer.php?view_id=6&clip_id=1213",
      "pages": 4,
-     "hits": 1
+     "hits": 3
     },
     {
-     "pdf": "https://winterpark.granicus.com/AgendaViewer.php?view_id=6&clip_id=1226",
+     "pdf": "https://winterpark.granicus.com/AgendaViewer.php?view_id=6&clip_id=1210",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://winterpark.granicus.com/AgendaViewer.php?view_id=6&clip_id=1225",
+     "pdf": "https://winterpark.granicus.com/AgendaViewer.php?view_id=6&clip_id=1211",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://winterpark.granicus.com/AgendaViewer.php?view_id=6&clip_id=1223",
+     "pdf": "https://winterpark.granicus.com/AgendaViewer.php?view_id=6&clip_id=1207",
      "pages": 2,
-     "hits": 0
-    },
-    {
-     "pdf": "https://winterpark.granicus.com/AgendaViewer.php?view_id=6&clip_id=1220",
-     "pages": 3,
      "hits": 0
     }
    ],
@@ -11648,22 +11656,42 @@
    "pdfs_found": 101,
    "scanned": [
     {
-     "pdf": "https://hallandalebeach.granicus.com/AgendaViewer.php?view_id=2&clip_id=1090",
+     "pdf": "https://hallandalebeach.granicus.com/AgendaViewer.php?view_id=2&clip_id=1078",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://hallandalebeach.granicus.com/AgendaViewer.php?view_id=2&clip_id=1089",
+     "pdf": "https://hallandalebeach.granicus.com/AgendaViewer.php?view_id=2&clip_id=1080",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://hallandalebeach.granicus.com/AgendaViewer.php?view_id=2&clip_id=1085",
+     "pdf": "https://hallandalebeach.granicus.com/AgendaViewer.php?view_id=2&clip_id=1081",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://hallandalebeach.granicus.com/AgendaViewer.php?view_id=2&clip_id=1084",
+     "pdf": "https://hallandalebeach.granicus.com/AgendaViewer.php?view_id=2&clip_id=1083",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://hallandalebeach.granicus.com/AgendaViewer.php?view_id=2&clip_id=1072",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://hallandalebeach.granicus.com/AgendaViewer.php?view_id=2&clip_id=1070",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://hallandalebeach.granicus.com/AgendaViewer.php?view_id=2&clip_id=1071",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://hallandalebeach.granicus.com/AgendaViewer.php?view_id=2&clip_id=1069",
      "pages": 1,
      "hits": 0
     }
@@ -12109,7 +12137,32 @@
    "pdfs_found": 102,
    "scanned": [
     {
-     "pdf": "https://keywestcity.granicus.com/AgendaViewer.php?view_id=1&clip_id=2054",
+     "pdf": "https://keywestcity.granicus.com/AgendaViewer.php?view_id=1&clip_id=2048",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://keywestcity.granicus.com/AgendaViewer.php?view_id=1&clip_id=2045",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://keywestcity.granicus.com/AgendaViewer.php?view_id=1&clip_id=2044",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://keywestcity.granicus.com/AgendaViewer.php?view_id=1&clip_id=2043",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://keywestcity.granicus.com/AgendaViewer.php?view_id=1&clip_id=2041",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://keywestcity.granicus.com/AgendaViewer.php?view_id=1&clip_id=2040",
      "pages": 1,
      "hits": 0
     }
@@ -12555,43 +12608,43 @@
    "pdfs_found": 102,
    "scanned": [
     {
-     "pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&event_id=1593",
-     "pages": 1,
-     "hits": 4
-    },
-    {
-     "pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&event_id=1594",
-     "pages": 1,
-     "hits": 4
-    },
-    {
-     "pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=969",
-     "pages": 3,
-     "hits": 1
-    },
-    {
-     "pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=967",
-     "pages": 1,
-     "hits": 1
-    },
-    {
-     "pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=964",
-     "pages": 1,
-     "hits": 1
-    },
-    {
-     "pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=961",
-     "pages": 1,
-     "hits": 1
-    },
-    {
-     "pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=959",
+     "pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=955",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=957",
-     "pages": 5,
+     "pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=953",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=950",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=933",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=927",
+     "pages": 4,
+     "hits": 0
+    },
+    {
+     "pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=925",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=923",
+     "pages": 1,
+     "hits": 1
+    },
+    {
+     "pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=921",
+     "pages": 4,
      "hits": 1
     }
    ],
@@ -13032,7 +13085,27 @@
    "pdfs_found": 101,
    "scanned": [
     {
-     "pdf": "https://cityofnewportrichey.granicus.com/AgendaViewer.php?view_id=1&clip_id=673",
+     "pdf": "https://cityofnewportrichey.granicus.com/AgendaViewer.php?view_id=1&clip_id=668",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://cityofnewportrichey.granicus.com/AgendaViewer.php?view_id=1&clip_id=665",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://cityofnewportrichey.granicus.com/AgendaViewer.php?view_id=1&clip_id=663",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://cityofnewportrichey.granicus.com/AgendaViewer.php?view_id=1&clip_id=664",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://cityofnewportrichey.granicus.com/AgendaViewer.php?view_id=1&clip_id=661",
      "pages": 1,
      "hits": 0
     }
@@ -13934,42 +14007,42 @@
    "pdfs_found": 104,
    "scanned": [
     {
-     "pdf": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1172",
+     "pdf": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1156",
      "pages": 3,
      "hits": 0
     },
     {
-     "pdf": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1170",
-     "pages": 3,
-     "hits": 0
-    },
-    {
-     "pdf": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1164",
+     "pdf": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1162",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1167",
+     "pdf": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1152",
+     "pages": 3,
+     "hits": 0
+    },
+    {
+     "pdf": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1153",
+     "pages": 3,
+     "hits": 0
+    },
+    {
+     "pdf": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1151",
+     "pages": 3,
+     "hits": 0
+    },
+    {
+     "pdf": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1149",
      "pages": 4,
+     "hits": 1
+    },
+    {
+     "pdf": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1146",
+     "pages": 5,
      "hits": 0
     },
     {
-     "pdf": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1165",
-     "pages": 2,
-     "hits": 0
-    },
-    {
-     "pdf": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1160",
-     "pages": 6,
-     "hits": 0
-    },
-    {
-     "pdf": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1163",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1158",
+     "pdf": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1144",
      "pages": 3,
      "hits": 0
     }
@@ -14419,42 +14492,42 @@
    "pdfs_found": 103,
    "scanned": [
     {
-     "pdf": "https://cityofedgewater.granicus.com/AgendaViewer.php?view_id=2&event_id=1671",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://cityofedgewater.granicus.com/AgendaViewer.php?view_id=2&event_id=1670",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://cityofedgewater.granicus.com/AgendaViewer.php?view_id=2&clip_id=1747",
+     "pdf": "https://cityofedgewater.granicus.com/AgendaViewer.php?view_id=2&clip_id=1741",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://cityofedgewater.granicus.com/AgendaViewer.php?view_id=2&clip_id=1745",
+     "pdf": "https://cityofedgewater.granicus.com/AgendaViewer.php?view_id=2&clip_id=1739",
      "pages": 2,
-     "hits": 1
+     "hits": 0
     },
     {
-     "pdf": "https://cityofedgewater.granicus.com/AgendaViewer.php?view_id=2&clip_id=1744",
+     "pdf": "https://cityofedgewater.granicus.com/AgendaViewer.php?view_id=2&clip_id=1738",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://cityofedgewater.granicus.com/AgendaViewer.php?view_id=2&clip_id=1746",
+     "pdf": "https://cityofedgewater.granicus.com/AgendaViewer.php?view_id=2&clip_id=1736",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://cityofedgewater.granicus.com/AgendaViewer.php?view_id=2&clip_id=1737",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://cityofedgewater.granicus.com/AgendaViewer.php?view_id=2&clip_id=1735",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://cityofedgewater.granicus.com/AgendaViewer.php?view_id=2&clip_id=1733",
      "pages": 4,
-     "hits": 1
-    },
-    {
-     "pdf": "https://cityofedgewater.granicus.com/AgendaViewer.php?view_id=2&clip_id=1742",
-     "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://cityofedgewater.granicus.com/AgendaViewer.php?view_id=2&clip_id=1743",
+     "pdf": "https://cityofedgewater.granicus.com/AgendaViewer.php?view_id=2&clip_id=1732",
      "pages": 1,
      "hits": 0
     }
@@ -14890,38 +14963,7 @@
     }
    ],
    "pdfs_found": 100,
-   "scanned": [
-    {
-     "pdf": "https://cocoabeach.granicus.com/AgendaViewer.php?view_id=4&clip_id=4544",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://cocoabeach.granicus.com/AgendaViewer.php?view_id=4&clip_id=4539",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://cocoabeach.granicus.com/AgendaViewer.php?view_id=4&clip_id=4535",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://cocoabeach.granicus.com/AgendaViewer.php?view_id=4&clip_id=4547",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://cocoabeach.granicus.com/AgendaViewer.php?view_id=4&clip_id=4541",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://cocoabeach.granicus.com/AgendaViewer.php?view_id=4&clip_id=4543",
-     "pages": 1,
-     "hits": 0
-    }
-   ],
+   "scanned": [],
    "errors": [],
    "pdf_sample": [
     "https://cocoabeach.granicus.com/AgendaViewer.php?view_id=4&clip_id=4581",
@@ -15355,22 +15397,12 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://satellitebeach.granicus.com/AgendaViewer.php?view_id=2&clip_id=949",
+     "pdf": "https://satellitebeach.granicus.com/AgendaViewer.php?view_id=2&clip_id=895",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://satellitebeach.granicus.com/AgendaViewer.php?view_id=2&clip_id=937",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://satellitebeach.granicus.com/AgendaViewer.php?view_id=2&clip_id=928",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://satellitebeach.granicus.com/AgendaViewer.php?view_id=2&clip_id=914",
+     "pdf": "https://satellitebeach.granicus.com/AgendaViewer.php?view_id=2&clip_id=890",
      "pages": 1,
      "hits": 0
     }
@@ -15776,44 +15808,44 @@
    "pdfs_found": 92,
    "scanned": [
     {
-     "pdf": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=271",
+     "pdf": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=245",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=269",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=265",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=264",
+     "pdf": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=246",
      "pages": 1,
      "hits": 1
     },
     {
-     "pdf": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=263",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=257",
-     "pages": 1,
-     "hits": 3
-    },
-    {
-     "pdf": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=250",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=249",
+     "pdf": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=239",
      "pages": 1,
      "hits": 1
+    },
+    {
+     "pdf": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=233",
+     "pages": 1,
+     "hits": 2
+    },
+    {
+     "pdf": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=232",
+     "pages": 1,
+     "hits": 1
+    },
+    {
+     "pdf": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=224",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=219",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=218",
+     "pages": 1,
+     "hits": 0
     }
    ],
    "errors": [],
@@ -15853,7 +15885,7 @@
       ],
       [
        "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4625",
-       "Swearing In Event - Nov 16, 2026"
+       "Swearing-In Event - Nov 16, 2026"
       ],
       [
        "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4623",
@@ -16257,44 +16289,44 @@
    "pdfs_found": 102,
    "scanned": [
     {
-     "pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4625",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4567",
+     "pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4530",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4560",
-     "pages": 7,
-     "hits": 0
-    },
-    {
-     "pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4550",
+     "pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4517",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4541",
-     "pages": 1,
-     "hits": 2
-    },
-    {
-     "pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4537",
+     "pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4516",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4538",
-     "pages": 1,
-     "hits": 8
+     "pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4515",
+     "pages": 6,
+     "hits": 0
     },
     {
-     "pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4536",
-     "pages": 3,
+     "pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4491",
+     "pages": 1,
      "hits": 0
+    },
+    {
+     "pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4495",
+     "pages": 1,
+     "hits": 4
+    },
+    {
+     "pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4524",
+     "pages": 1,
+     "hits": 4
+    },
+    {
+     "pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4525",
+     "pages": 1,
+     "hits": 4
     }
    ],
    "errors": [],
@@ -16782,32 +16814,32 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://palmettobay.granicus.com/AgendaViewer.php?view_id=3&clip_id=2112",
+     "pdf": "https://palmettobay.granicus.com/AgendaViewer.php?view_id=3&clip_id=2098",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://palmettobay.granicus.com/AgendaViewer.php?view_id=3&clip_id=2110",
+     "pdf": "https://palmettobay.granicus.com/AgendaViewer.php?view_id=3&clip_id=2090",
      "pages": 1,
-     "hits": 1
+     "hits": 5
     },
     {
-     "pdf": "https://palmettobay.granicus.com/AgendaViewer.php?view_id=3&clip_id=2108",
-     "pages": 1,
-     "hits": 2
-    },
-    {
-     "pdf": "https://palmettobay.granicus.com/AgendaViewer.php?view_id=3&clip_id=2099",
+     "pdf": "https://palmettobay.granicus.com/AgendaViewer.php?view_id=3&clip_id=2087",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://palmettobay.granicus.com/AgendaViewer.php?view_id=3&clip_id=2100",
+     "pdf": "https://palmettobay.granicus.com/AgendaViewer.php?view_id=3&clip_id=2083",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://palmettobay.granicus.com/AgendaViewer.php?view_id=3&clip_id=2086",
      "pages": 1,
      "hits": 1
     },
     {
-     "pdf": "https://palmettobay.granicus.com/AgendaViewer.php?view_id=3&clip_id=2097",
+     "pdf": "https://palmettobay.granicus.com/AgendaViewer.php?view_id=3&clip_id=2082",
      "pages": 1,
      "hits": 1
     }
@@ -17248,42 +17280,42 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=789",
+     "pdf": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=777",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=782",
-     "pages": 2,
-     "hits": 0
-    },
-    {
-     "pdf": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=783",
-     "pages": 7,
-     "hits": 0
-    },
-    {
-     "pdf": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=781",
-     "pages": 3,
-     "hits": 0
-    },
-    {
-     "pdf": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=773",
+     "pdf": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=765",
      "pages": 6,
-     "hits": 0
+     "hits": 2
     },
     {
-     "pdf": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=771",
-     "pages": 7,
-     "hits": 1
-    },
-    {
-     "pdf": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=767",
+     "pdf": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=764",
      "pages": 3,
      "hits": 0
     },
     {
-     "pdf": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=766",
+     "pdf": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=776",
+     "pages": 3,
+     "hits": 0
+    },
+    {
+     "pdf": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=762",
+     "pages": 3,
+     "hits": 0
+    },
+    {
+     "pdf": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=763",
+     "pages": 7,
+     "hits": 2
+    },
+    {
+     "pdf": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=775",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=759",
      "pages": 6,
      "hits": 0
     }
@@ -17721,44 +17753,34 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=341",
-     "pages": 3,
-     "hits": 1
+     "pdf": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=331",
+     "pages": 5,
+     "hits": 9
     },
     {
-     "pdf": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=340",
-     "pages": 2,
+     "pdf": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=345",
+     "pages": 84,
      "hits": 0
     },
     {
-     "pdf": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=337",
-     "pages": 2,
-     "hits": 0
-    },
-    {
-     "pdf": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=339",
-     "pages": 2,
-     "hits": 0
-    },
-    {
-     "pdf": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=336",
-     "pages": 3,
-     "hits": 0
-    },
-    {
-     "pdf": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=335",
+     "pdf": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=329",
      "pages": 4,
+     "hits": 4
+    },
+    {
+     "pdf": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=346",
+     "pages": 46,
+     "hits": 0
+    },
+    {
+     "pdf": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=328",
+     "pages": 3,
      "hits": 2
     },
     {
-     "pdf": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=344",
-     "pages": 38,
-     "hits": 0
-    },
-    {
-     "pdf": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=330",
-     "pages": 1,
-     "hits": 0
+     "pdf": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=327",
+     "pages": 3,
+     "hits": 2
     }
    ],
    "errors": [],
@@ -18206,7 +18228,12 @@
    "pdfs_found": 103,
    "scanned": [
     {
-     "pdf": "https://hernandocountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=2054",
+     "pdf": "https://hernandocountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=2049",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://hernandocountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=2044",
      "pages": 1,
      "hits": 0
     }
@@ -18642,7 +18669,23 @@
     }
    ],
    "pdfs_found": 100,
-   "scanned": [],
+   "scanned": [
+    {
+     "pdf": "https://monroecountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=97",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://monroecountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=95",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://monroecountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=93",
+     "pages": 1,
+     "hits": 0
+    }
+   ],
    "errors": [],
    "pdf_sample": [
     "https://monroecountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=137",
@@ -19074,7 +19117,33 @@
     }
    ],
    "pdfs_found": 100,
-   "scanned": [],
+   "scanned": [
+    {
+     "pdf": "https://martin.granicus.com/AgendaViewer.php?view_id=2&clip_id=5589",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://martin.granicus.com/AgendaViewer.php?view_id=2&clip_id=5583",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://martin.granicus.com/AgendaViewer.php?view_id=2&clip_id=5571",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://martin.granicus.com/AgendaViewer.php?view_id=2&clip_id=5569",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://martin.granicus.com/AgendaViewer.php?view_id=2&clip_id=5566",
+     "pages": 1,
+     "hits": 0
+    }
+   ],
    "errors": [],
    "pdf_sample": [
     "https://martin.granicus.com/AgendaViewer.php?view_id=2&clip_id=5818",
@@ -19960,34 +20029,39 @@
    "pdfs_found": 101,
    "scanned": [
     {
-     "pdf": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=147",
+     "pdf": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=141",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=148",
-     "pages": 8,
-     "hits": 2
-    },
-    {
-     "pdf": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=146",
-     "pages": 6,
+     "pdf": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=140",
+     "pages": 4,
      "hits": 1
     },
     {
-     "pdf": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=144",
-     "pages": 5,
+     "pdf": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=139",
+     "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=142",
+     "pdf": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=138",
+     "pages": 4,
+     "hits": 0
+    },
+    {
+     "pdf": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=136",
      "pages": 5,
      "hits": 2
     },
     {
-     "pdf": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=143",
+     "pdf": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=135",
      "pages": 2,
      "hits": 0
+    },
+    {
+     "pdf": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=133",
+     "pages": 5,
+     "hits": 1
     }
    ],
    "errors": [],
@@ -20017,6 +20091,10 @@
      "links": 100,
      "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>Hardee County : County Board of C",
      "sample": [
+      [
+       "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=457",
+       "Hardee County Board of County Commissioners - Nov 17, 2026"
+      ],
       [
        "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=450",
        "Hardee County Board of County Commissioners - Nov 05, 2026"
@@ -20412,10 +20490,6 @@
       [
        "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=117",
        "Hardee County Board of County Commissioners - May 16, 2024"
-      ],
-      [
-       "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=118",
-       "Hardee County Board of County Commissioners - May 16, 2024"
       ]
      ]
     }
@@ -20423,48 +20497,44 @@
    "pdfs_found": 100,
    "scanned": [
     {
-     "pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=342",
+     "pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=457",
      "pages": 1,
-     "hits": 3
+     "hits": 4
     },
     {
-     "pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=340",
+     "pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=317",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=338",
-     "pages": 1,
-     "hits": 1
-    },
-    {
-     "pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=337",
+     "pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=316",
      "pages": 1,
      "hits": 2
     },
     {
-     "pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=326",
+     "pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=308",
+     "pages": 1,
+     "hits": 5
+    },
+    {
+     "pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=296",
      "pages": 1,
      "hits": 1
     },
     {
-     "pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=325",
+     "pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=291",
      "pages": 1,
      "hits": 1
     },
     {
-     "pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=322",
+     "pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=293",
      "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=319",
-     "pages": 1,
-     "hits": 2
+     "hits": 1
     }
    ],
    "errors": [],
    "pdf_sample": [
+    "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=457",
     "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=450",
     "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=443",
     "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=439",
@@ -20478,8 +20548,7 @@
     "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=420",
     "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=413",
     "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=417",
-    "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=418",
-    "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=408"
+    "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=418"
    ]
   },
   "m-tarponsprings:civicclerk": {
@@ -20500,18 +20569,11 @@
    ],
    "scanned": [
     {
-     "pdf": "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3802,plainText=false)",
-     "pages": 2,
+     "pdf": "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3804,plainText=false)",
+     "pages": 1,
      "hits": 0,
-     "chars": 2634,
-     "meeting_date": "2026-11-17"
-    },
-    {
-     "pdf": "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3803,plainText=false)",
-     "pages": 257,
-     "hits": 8,
-     "chars": 394700,
-     "meeting_date": "2026-11-17"
+     "chars": 1027,
+     "meeting_date": "2026-11-19"
     }
    ],
    "errors": []
@@ -20561,36 +20623,7 @@
     "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=392,plainText=false)",
     "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=393,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=392,plainText=false)",
-     "pages": 5,
-     "hits": 0,
-     "chars": 9201,
-     "meeting_date": "2026-11-17"
-    },
-    {
-     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=393,plainText=false)",
-     "pages": 290,
-     "hits": 7,
-     "chars": 603622,
-     "meeting_date": "2026-11-17"
-    },
-    {
-     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=359,plainText=false)",
-     "pages": 2,
-     "hits": 0,
-     "chars": 1814,
-     "meeting_date": "2026-11-18"
-    },
-    {
-     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=360,plainText=false)",
-     "pages": 24,
-     "hits": 0,
-     "chars": 34844,
-     "meeting_date": "2026-11-18"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "c-lake:civicclerk": {
@@ -20605,15 +20638,7 @@
     "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7853,plainText=false)",
     "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7858,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7858,plainText=false)",
-     "pages": 213,
-     "hits": 15,
-     "chars": 233350,
-     "meeting_date": "2026-11-18"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-tallahassee:civicclerk": {
@@ -20630,22 +20655,7 @@
     "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1078,plainText=false)",
     "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1079,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1086,plainText=false)",
-     "pages": 3,
-     "hits": 1,
-     "chars": 5772,
-     "meeting_date": "2026-11-18"
-    },
-    {
-     "pdf": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1087,plainText=false)",
-     "pages": 400,
-     "hits": 29,
-     "chars": 796483,
-     "meeting_date": "2026-11-18"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-miamigardens:civicclerk": {
@@ -20693,9 +20703,7 @@
     "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3346,plainText=false)",
     "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3347,plainText=false)",
     "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3340,plainText=false)",
-    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3341,plainText=false)",
-    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3353,plainText=false)",
-    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3354,plainText=false)"
+    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3341,plainText=false)"
    ],
    "scanned": [],
    "errors": []
@@ -20716,22 +20724,7 @@
     "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11235,plainText=false)",
     "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11238,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11238,plainText=false)",
-     "pages": 1,
-     "hits": 0,
-     "chars": 1471,
-     "meeting_date": "2026-11-19"
-    },
-    {
-     "pdf": "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11239,plainText=false)",
-     "pages": 49,
-     "hits": 0,
-     "chars": 108631,
-     "meeting_date": "2026-11-19"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "c-lee:civicclerk": {
@@ -20743,22 +20736,7 @@
     "https://leecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=903,plainText=false)",
     "https://leecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=901,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://leecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=902,plainText=false)",
-     "pages": 15,
-     "hits": 15,
-     "chars": 32023,
-     "meeting_date": "2026-11-17"
-    },
-    {
-     "pdf": "https://leecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=903,plainText=false)",
-     "pages": 400,
-     "hits": 60,
-     "chars": 770985,
-     "meeting_date": "2026-11-17"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "c-escambia:civicclerk": {
@@ -20796,22 +20774,7 @@
     "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12061,plainText=false)",
     "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12062,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12102,plainText=false)",
-     "pages": 3,
-     "hits": 0,
-     "chars": 4106,
-     "meeting_date": "2026-11-18"
-    },
-    {
-     "pdf": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12103,plainText=false)",
-     "pages": 215,
-     "hits": 1,
-     "chars": 129959,
-     "meeting_date": "2026-11-18"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-jupiter:civicclerk": {
@@ -20829,29 +20792,7 @@
     "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2170,plainText=false)",
     "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2165,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2166,plainText=false)",
-     "pages": 2,
-     "hits": 0,
-     "chars": 2770,
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "pdf": "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2167,plainText=false)",
-     "pages": 86,
-     "hits": 1,
-     "chars": 161168,
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "pdf": "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2170,plainText=false)",
-     "pages": 400,
-     "hits": 18,
-     "chars": 741310,
-     "meeting_date": "2026-11-17"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-portorange:civicclerk": {
@@ -20973,8 +20914,7 @@
    "files": [
     "https://greenacresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2845,plainText=false)",
     "https://greenacresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2846,plainText=false)",
-    "https://greenacresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2847,plainText=false)",
-    "https://greenacresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3840,plainText=false)"
+    "https://greenacresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2847,plainText=false)"
    ],
    "scanned": [],
    "errors": []
@@ -20995,15 +20935,7 @@
     "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3938,plainText=false)",
     "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3939,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3940,plainText=false)",
-     "pages": 1,
-     "hits": 0,
-     "chars": 382,
-     "meeting_date": "2026-11-17"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-fortwaltonbeach:civicclerk": {
@@ -21076,22 +21008,7 @@
     "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1656,plainText=false)",
     "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1658,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1659,plainText=false)",
-     "pages": 24,
-     "hits": 1,
-     "chars": 57855,
-     "meeting_date": "2026-11-19"
-    },
-    {
-     "pdf": "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1658,plainText=false)",
-     "pages": 127,
-     "hits": 24,
-     "chars": 287607,
-     "meeting_date": "2026-11-19"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-mountdora:civicclerk": {
@@ -21206,22 +21123,7 @@
     "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3845,plainText=false)",
     "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3847,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3850,plainText=false)",
-     "pages": 3,
-     "hits": 3,
-     "chars": 8524,
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "pdf": "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3851,plainText=false)",
-     "pages": 400,
-     "hits": 25,
-     "chars": 898848,
-     "meeting_date": "2026-11-16"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-longwood:civicclerk": {
@@ -21252,15 +21154,7 @@
     "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2629,plainText=false)",
     "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2633,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2633,plainText=false)",
-     "pages": 74,
-     "hits": 10,
-     "chars": 124568,
-     "meeting_date": "2026-11-19"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-lakepark:civicclerk": {
@@ -21281,9 +21175,17 @@
     "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7098,plainText=false)",
     "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7099,plainText=false)",
     "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7100,plainText=false)",
-    "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7101,plainText=false)"
+    "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7102,plainText=false)"
    ],
-   "scanned": [],
+   "scanned": [
+    {
+     "pdf": "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7102,plainText=false)",
+     "pages": 73,
+     "hits": 3,
+     "chars": 104245,
+     "meeting_date": "2026-11-18"
+    }
+   ],
    "errors": []
   },
   "m-daniabeach:civicclerk": {
@@ -21312,15 +21214,7 @@
     "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2793,plainText=false)",
     "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2795,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2795,plainText=false)",
-     "pages": 400,
-     "hits": 8,
-     "chars": 706149,
-     "meeting_date": "2026-11-18"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-lighthousepoint:civicclerk": {
@@ -21391,15 +21285,7 @@
     "https://lynnhavenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2179,plainText=false)",
     "https://lynnhavenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2180,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://lynnhavenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2180,plainText=false)",
-     "pages": 1,
-     "hits": 0,
-     "chars": 1208,
-     "meeting_date": "2026-11-20"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-tavares:civicclerk": {
@@ -21433,22 +21319,7 @@
     "https://minneolafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9523,plainText=false)",
     "https://minneolafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9524,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://minneolafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9535,plainText=false)",
-     "pages": 5,
-     "hits": 1,
-     "chars": 8090,
-     "meeting_date": "2026-11-17"
-    },
-    {
-     "pdf": "https://minneolafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9536,plainText=false)",
-     "pages": 400,
-     "hits": 2,
-     "chars": 415994,
-     "meeting_date": "2026-11-17"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-inverness:civicclerk": {
@@ -21584,64 +21455,7 @@
     "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12818,plainText=false)",
     "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12819,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12881,plainText=false)",
-     "pages": 3,
-     "hits": 0,
-     "chars": 4730,
-     "meeting_date": "2026-11-17"
-    },
-    {
-     "pdf": "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12882,plainText=false)",
-     "pages": 3,
-     "hits": 0,
-     "chars": 4794,
-     "meeting_date": "2026-11-17"
-    },
-    {
-     "pdf": "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12884,plainText=false)",
-     "pages": 3,
-     "hits": 0,
-     "chars": 4750,
-     "meeting_date": "2026-11-17"
-    },
-    {
-     "pdf": "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12879,plainText=false)",
-     "pages": 3,
-     "hits": 0,
-     "chars": 4753,
-     "meeting_date": "2026-11-17"
-    },
-    {
-     "pdf": "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12844,plainText=false)",
-     "pages": 25,
-     "hits": 0,
-     "chars": 28376,
-     "meeting_date": "2026-11-18"
-    },
-    {
-     "pdf": "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12845,plainText=false)",
-     "pages": 4,
-     "hits": 0,
-     "chars": 4392,
-     "meeting_date": "2026-11-18"
-    },
-    {
-     "pdf": "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12865,plainText=false)",
-     "pages": 3,
-     "hits": 0,
-     "chars": 3250,
-     "meeting_date": "2026-11-19"
-    },
-    {
-     "pdf": "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12866,plainText=false)",
-     "pages": 400,
-     "hits": 2,
-     "chars": 697862,
-     "meeting_date": "2026-11-19"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "c-highlands:civicclerk": {
@@ -21756,7 +21570,7 @@
      "hits": 0
     },
     {
-     "doc": "234179/City%20Commission%20-%20Nov%2018%202026.pdf?handle=39706106905C45B99267904FF6357219",
+     "doc": "234179/City%20Commission%20-%20Nov%2018%202026.pdf?handle=DE10F1DC92214A348FDD0DBC83A6A63B",
      "meeting": "City Commission - Nov 18 2026",
      "date": "2026-11-18",
      "pages": 400,
@@ -21863,18 +21677,9 @@
      "pages": 1,
      "hits": 0,
      "pdf": false
-    },
-    {
-     "doc": "/Meeting.aspx?Id=8e39fe3c-20b2-4760-b829-c00fa0d30327&Agenda=Agenda&lang=English",
-     "meeting": "TOML Committee Meetings",
-     "date": "2026-11-16",
-     "pages": 1,
-     "hits": 0,
-     "pdf": false
     }
    ],
    "errors": [
-    "filestream: HTTP Error 403: Forbidden",
     "filestream: HTTP Error 403: Forbidden",
     "filestream: HTTP Error 403: Forbidden",
     "filestream: HTTP Error 403: Forbidden"
@@ -21924,27 +21729,9 @@
      "pages": 1,
      "hits": 0,
      "pdf": false
-    },
-    {
-     "doc": "/Meeting.aspx?Id=4176f8cb-14f0-4c03-9db7-65bad15b3074&Agenda=Agenda&lang=English",
-     "meeting": "City Commission Meeting",
-     "date": "2026-11-05",
-     "pages": 1,
-     "hits": 3,
-     "pdf": false
-    },
-    {
-     "doc": "/Meeting.aspx?Id=e4e35c18-b1f4-4717-9ff2-d66f8ed91d77&Agenda=Agenda&lang=English",
-     "meeting": "CRA Workshop",
-     "date": "2026-11-05",
-     "pages": 1,
-     "hits": 0,
-     "pdf": false
     }
    ],
    "errors": [
-    "filestream: HTTP Error 403: Forbidden",
-    "filestream: HTTP Error 403: Forbidden",
     "filestream: HTTP Error 403: Forbidden",
     "filestream: HTTP Error 403: Forbidden",
     "filestream: HTTP Error 403: Forbidden",
@@ -21989,7 +21776,7 @@
      "doc": "amibeachfl.primegov.com/Public/CompiledDocument?meetingTemplateId=5727&compileOutputType=1",
      "meeting": "Design Review Board",
      "date": "2026-11-19",
-     "pages": 1,
+     "pages": 3,
      "hits": 0
     },
     {
@@ -21998,13 +21785,6 @@
      "date": "2026-11-18",
      "pages": 63,
      "hits": 29
-    },
-    {
-     "doc": "amibeachfl.primegov.com/Public/CompiledDocument?meetingTemplateId=6325&compileOutputType=1",
-     "meeting": "Special Commission Meeting",
-     "date": "2026-11-16",
-     "pages": 2,
-     "hits": 0
     }
    ],
    "errors": []
@@ -22034,20 +21814,6 @@
      "date": "2026-11-17",
      "pages": 2,
      "hits": 0
-    },
-    {
-     "doc": "yofoviedo.primegov.com/Public/CompiledDocument?meetingTemplateId=11313&compileOutputType=1",
-     "meeting": "City Council Regular Meeting",
-     "date": "2026-11-16",
-     "pages": 3,
-     "hits": 0
-    },
-    {
-     "doc": "yofoviedo.primegov.com/Public/CompiledDocument?meetingTemplateId=11381&compileOutputType=1",
-     "meeting": "Community Redevelopment Agency",
-     "date": "2026-11-16",
-     "pages": 2,
-     "hits": 0
     }
    ],
    "errors": []
@@ -22055,7 +21821,7 @@
   "m-lauderdalelakes:primegov": {
    "name": "Lauderdale Lakes",
    "platform": "primegov",
-   "meetings": 7,
+   "meetings": 8,
    "scanned": [],
    "errors": []
   },
@@ -22128,12 +21894,6 @@
      "meeting": "Development Review Committee",
      "pages": 4,
      "hits": 0
-    },
-    {
-     "pdf": "Board_of_Commissioners_2193_Agenda_11_16_2026_5_30_00_PM.pdf?documentType=1&meetingId=2193",
-     "meeting": "Board of Commissioners",
-     "pages": 16,
-     "hits": 6
     }
    ],
    "errors": []
@@ -22190,16 +21950,10 @@
    "name": "Lakeland",
    "platform": "date_template",
    "found": [
-    "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/11-16-26/11-16-26 Agenda.pdf",
     "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/12-04-26/12-04-26 Agenda.pdf",
     "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/12-07-26/12-07-26 Agenda.pdf"
    ],
    "scanned": [
-    {
-     "pdf": "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/11-16-26/11-16-26 Agenda.pdf",
-     "pages": 3,
-     "hits": 1
-    },
     {
      "pdf": "https://www.lakelandgov.net/Portals/CityClerk/City Commission/Agendas/2026/12-04-26/12-04-26 Agenda.pdf",
      "pages": 1,

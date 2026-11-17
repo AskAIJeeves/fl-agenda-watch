@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-17T14:47:49+00:00",
- "count": 198,
+ "generated_utc": "2026-11-17T17:00:43+00:00",
+ "count": 197,
  "governments": {
   "m-fortlauderdale": {
    "name": "Fort Lauderdale",
@@ -158,7 +158,7 @@
    "name": "Plant City",
    "status": "ok",
    "client": "plantcity",
-   "events": 1,
+   "events": 2,
    "flagged": 0
   },
   "m-aventura": {
@@ -193,7 +193,7 @@
    "name": "Brevard County",
    "status": "ok",
    "client": "brevardfl",
-   "events": 4,
+   "events": 5,
    "flagged": 2
   },
   "c-desoto": {

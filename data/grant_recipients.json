@@ -10382,12 +10382,44 @@
      "amount": null,
      "text": "Polk County - Equipment Donation to the Chain of Lakes Park via Interlocal Agreement",
      "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=645"
+    },
+    {
+     "entity_id": "m-winterhaven",
+     "government": "Winter Haven",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Equipment Donation from Polk County to Chain of Lakes Park via Interlocal Agreement",
+     "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=423"
+    },
+    {
+     "entity_id": "m-winterhaven",
+     "government": "Winter Haven",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Summary - Equipment Donation from Polk County to Chain of Lakes Park via Interlocal Agreement",
+     "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=423"
+    },
+    {
+     "entity_id": "m-winterhaven",
+     "government": "Winter Haven",
+     "meeting_date": null,
+     "amount": null,
+     "text": "10. CONSENT AGENDA 10.A Equipment Donation from Polk County to Chain of Lakes Park via Interlocal Agreement CITY COMMISSION MEETING",
+     "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=433"
+    },
+    {
+     "entity_id": "m-winterhaven",
+     "government": "Winter Haven",
+     "meeting_date": null,
+     "amount": null,
+     "text": "SUBJECT: Equipment Donation from Polk County to Chain of Lakes Park via Interlocal Agreement",
+     "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=433"
     }
    ],
    "governments": [
     "Winter Haven"
    ],
-   "award_count": 1,
+   "award_count": 5,
    "total_amount": 0
   },
   "properties located": {
@@ -10418,13 +10450,21 @@
      "amount": 204010.0,
      "text": "B. CITY MANAGER Engineering 26-0799 Authorize the Mayor to Execute the State of Florida Division of Emergency Management Federally-Funded Subaward (Grant #4673-305-P31) for $150,000.00 to Produce a Watershed Master Plan (WMP) for Credit Under Community Rating System (CRS) Memorandum Grant Agreement ",
      "link": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=2004"
+    },
+    {
+     "entity_id": "m-venice",
+     "government": "Venice",
+     "meeting_date": null,
+     "amount": 937125.0,
+     "text": "B. CITY MANAGER Engineering 26-0617 Authorize the Mayor to Execute the State of Florida Division of Emergency Management Federally-Funded Subaward (Grant #4673-213-R) for $937,125.00 to Install an Emergency Generator and Wind Protection at the Public Works Building Located at 1350 Ridgewood Avenue M",
+     "link": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1940"
     }
    ],
    "governments": [
     "Venice"
    ],
-   "award_count": 1,
-   "total_amount": 204010.0
+   "award_count": 2,
+   "total_amount": 1141135.0
   },
   "public transportation grant agreement for project number": {
    "name": "Public Transportation Grant Agreement for Project Number",
@@ -12074,12 +12114,20 @@
      "amount": null,
      "text": "Program/Activity: Community Engagement and Special Events Goal: Increase the visibility of the Wilton Drive Improvement District through expanded support of community events and signature programming. Objectives: \u2022 Increase the District's participation and visibility at community events. \u2022 Continue ",
      "link": "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7101,plainText=false)"
+    },
+    {
+     "entity_id": "m-wiltonmanors",
+     "government": "Wilton Manors",
+     "meeting_date": "2026-11-18",
+     "amount": null,
+     "text": "EXHIBIT A FY2026/2027 Wilton Drive Improvement District Performance Measures and Standards Program/Activity: Marketing and Promotion of Wilton Drive Goal: Increase awareness of Wilton Drive through strategic marketing, authentic storytelling, and community engagement. Objectives: \u2022 Expand marketing ",
+     "link": "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7102,plainText=false)"
     }
    ],
    "governments": [
     "Wilton Manors"
    ],
-   "award_count": 1,
+   "award_count": 2,
    "total_amount": 0
   },
   "use discretionary funds": {
@@ -13203,12 +13251,21 @@
      "amount": 1525324.0,
      "text": "Budget Amendment 2027-012 RESOLUTION OF THE BOARD OF COUNTY COMMISSIONERS OF SANTA ROSA COUNTY, FLORIDA, AMENDING THE FISCAL YEAR 2027 BUDGET, CHANGING THE ESTIMATED TOTAL REVENUES, SURPLUS OR EXPENDITURES AND PROVIDING AN EFFECTIVE DATE. WHEREAS, the Board of County Commissioners has determined tha",
      "link": "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3109,plainText=false)"
+    },
+    {
+     "entity_id": "m-delraybeach",
+     "government": "Delray Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "July 21, 2026City Commission Regular Commission Meeting Agenda Cover Report Drowning Prevention_Legal Review.pdf Drowning Prevention Standard Municipal Agreement Delray Beach FINAL 6.9.26.pdf Attachments: APPROVAL OF REQUESTS FOR FUNDING FROM THE LAW ENFORCEMENT TRUST FUND (LETF) FOR FISCAL YEAR 202",
+     "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3545"
     }
    ],
    "governments": [
+    "Delray Beach",
     "Santa Rosa County"
    ],
-   "award_count": 2,
+   "award_count": 3,
    "total_amount": 3050648.0
   },
   "fema public assistance": {
@@ -15231,12 +15288,20 @@
      "amount": 300000.0,
      "text": "August 11, 2026City Commission Regular Commission Meeting Agenda Cover Report Legal Review Water and Sewer Utility Easement Agreement - 14535 S Military Trail - RPT Realty LP Water and Sewer Utility Easement Agreement - 14535 S Military Trail - RPT Realty LP 07 2026 Attachments: 6.J. PROCLAMATIONS: ",
      "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3559"
+    },
+    {
+     "entity_id": "m-delraybeach",
+     "government": "Delray Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Sponsors: Neighborhood & Community Services Agenda Cover Report Solid Waste Authority and Distressed Property Clean-Up Grant Application 2025 Perimeter Wall Boy Scout Park 1 Perimeter Wall Boy Scout Park 2 Perimeter Wall Boy Scout Park 3 Attachments: RESOLUTION NO. 105-26 FUNDING COMMITMENTS TO CONT",
+     "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3538"
     }
    ],
    "governments": [
     "Delray Beach"
    ],
-   "award_count": 1,
+   "award_count": 2,
    "total_amount": 300000.0
   },
   "police explorers donation backup letf request memo police explorers donation attachments": {
@@ -15982,9 +16047,241 @@
    ],
    "award_count": 1,
    "total_amount": 0
+  },
+  "construction": {
+   "name": "Construction",
+   "awards": [
+    {
+     "entity_id": "m-ocala",
+     "government": "Ocala",
+     "meeting_date": null,
+     "amount": null,
+     "text": "7. Airport Director's Report a. FDOT Pond Relocation Design b. MALSR/RPZ RY36 Grading Grant Application for Construction c. A9 Driveway Permitting d. T-Hangar Campus Rehab Permitting e. A12 Infrastructure Funding f. Concrete Pads Permitting g. TWY-C Phase I Funding/Permitting h. Airshow Planning Pag",
+     "link": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=4104"
+    }
+   ],
+   "governments": [
+    "Ocala"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "additional funds": {
+   "name": "Additional Funds",
+   "awards": [
+    {
+     "entity_id": "m-bradenton",
+     "government": "Bradenton",
+     "meeting_date": null,
+     "amount": null,
+     "text": "d) Community Redevelopment Agency : Roof Grant Request for Additional Funds from Carol Daste for a property located at 1105 12th Street West",
+     "link": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=322"
+    }
+   ],
+   "governments": [
+    "Bradenton"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "commercial improvement grant community redevelopment agency": {
+   "name": "Commercial Improvement Grant COMMUNITY REDEVELOPMENT AGENCY",
+   "awards": [
+    {
+     "entity_id": "m-winterhaven",
+     "government": "Winter Haven",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Staff Contact: Angela Hibbard, CRA Manager, AHibbard@MyWinterHaven.com Summary - Budget Amendment - Additional Funding for Commercial Improvement Grant COMMUNITY REDEVELOPMENT AGENCY (CRA) DOWNTOWN ADVISORY COMMITTEE \u2013 APRIL 20, 2026",
+     "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=482"
+    }
+   ],
+   "governments": [
+    "Winter Haven"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "mixed use": {
+   "name": "Mixed Use",
+   "awards": [
+    {
+     "entity_id": "m-winterhaven",
+     "government": "Winter Haven",
+     "meeting_date": null,
+     "amount": null,
+     "text": "12. ORDINANCE(S) - FIRST READING 12.A O-26-10 - Request by Langley Gault to rezone two parcels from Commercial- Highway (C-3) zoning district to Mixed Use (MX) zoning district (120 and 124 Avenue H, SE) Summary - Equipment Donation from Polk County to Chain of Lakes Park via Interlocal Agreement Int",
+     "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=433"
+    }
+   ],
+   "governments": [
+    "Winter Haven"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "resolution r 26 09": {
+   "name": "Resolution R-26-09",
+   "awards": [
+    {
+     "entity_id": "m-winterhaven",
+     "government": "Winter Haven",
+     "meeting_date": null,
+     "amount": null,
+     "text": "20. ADJOURNMENT Summary - Resolution R-26-09 FDEP WRP16 Grant Award Resolution R-26-09 Exhibit A to Resolution R-26-09 (FDEP WRP16 Grant Agreement) East Winter Haven Aquifer Recharge and Wetland Restoration Concept",
+     "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=347"
+    }
+   ],
+   "governments": [
+    "Winter Haven"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "r h malcom park staff contact": {
+   "name": "R.H. Malcom Park Staff Contact",
+   "awards": [
+    {
+     "entity_id": "m-winterhaven",
+     "government": "Winter Haven",
+     "meeting_date": null,
+     "amount": null,
+     "text": "13. NEW BUSINESS 13.A 2026-2027 CDBG Allocation Funding Support and Public Comment for R.H. Malcom Park Staff Contact: AJ Nicholson, Assistant to the City Manager, anicholson@mywinterhaven.com Summary - FLC FAST Fly In",
+     "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=330"
+    }
+   ],
+   "governments": [
+    "Winter Haven"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "eagle nest park": {
+   "name": "Eagle Nest Park",
+   "awards": [
+    {
+     "entity_id": "m-wintersprings",
+     "government": "Winter Springs",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Naming Rights and Sponsorship Agreements for Eagle Nest Park",
+     "link": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1149"
+    }
+   ],
+   "governments": [
+    "Winter Springs"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "roads for economic vitality": {
+   "name": "Roads for Economic Vitality",
+   "awards": [
+    {
+     "entity_id": "m-oaklandpark",
+     "government": "Oakland Park",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Resolution of support for a Grant Application for the Roads for Economic Vitality (REV) for the Main Street/NE 12th Avenue Project.",
+     "link": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4495"
+    },
+    {
+     "entity_id": "m-oaklandpark",
+     "government": "Oakland Park",
+     "meeting_date": null,
+     "amount": null,
+     "text": "3. Resolution of support for a Grant Application for the Roads for Economic Vitality (REV) for the Main Street/NE 12th Avenue Project..",
+     "link": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4524"
+    }
+   ],
+   "governments": [
+    "Oakland Park"
+   ],
+   "award_count": 2,
+   "total_amount": 0
+  },
+  "fy25 rollforward": {
+   "name": "FY25 Rollforward",
+   "awards": [
+    {
+     "entity_id": "m-crystalriver",
+     "government": "Crystal River",
+     "meeting_date": null,
+     "amount": 8735572.0,
+     "text": "D. Motion to approve Resolution #26-R-02 to approve an allocation of funding from various funds totaling $8,735,572.42 for the FY25 Rollforward funding for FY2026.",
+     "link": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=329"
+    }
+   ],
+   "governments": [
+    "Crystal River"
+   ],
+   "award_count": 1,
+   "total_amount": 8735572.0
+  },
+  "home elevations": {
+   "name": "Home Elevations",
+   "awards": [
+    {
+     "entity_id": "m-crystalriver",
+     "government": "Crystal River",
+     "meeting_date": null,
+     "amount": null,
+     "text": "D. Update on Hazard Mitigation Grant Program (HMGP) Funding for Home Elevations.",
+     "link": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=329"
+    }
+   ],
+   "governments": [
+    "Crystal River"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "kimley horn ipo no": {
+   "name": "Kimley Horn IPO No",
+   "awards": [
+    {
+     "entity_id": "m-crystalriver",
+     "government": "Crystal River",
+     "meeting_date": null,
+     "amount": 63964.0,
+     "text": "C. Motion to adopt Resolution No. 26-R-01 and approve additional funding in the amount of $8,964 for Kimley Horn IPO No. 2 as a part of IPO No. 24 executed on November 13, 2023, to assess expansion areas for the Crystal River Community Redevelopment Area as well as update the CRA Redevelopment Plan ",
+     "link": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=328"
+    }
+   ],
+   "governments": [
+    "Crystal River"
+   ],
+   "award_count": 1,
+   "total_amount": 63964.0
+  },
+  "liability": {
+   "name": "Liability",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Item 10.a Approval of funding from a Due to Liability owed Midway Senior Center moved to FY 25-26 Budget",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=136"
+    },
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "10.a Approval to reallocate funding from a Due to Liability (Reginald James, Interim County Administrator/Curtis Young, Public Works Director)",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=136"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 2,
+   "total_amount": 0
   }
  },
- "generated_utc": "2026-11-17T15:18:59+00:00",
+ "generated_utc": "2026-11-17T17:28:33+00:00",
  "multi_government": [
   "commission",
   "section",
@@ -15993,6 +16290,7 @@
   "general fund",
   "improvements",
   "american",
+  "florida statute",
   "martin luther king jr avenue",
   "cra board",
   "district",
