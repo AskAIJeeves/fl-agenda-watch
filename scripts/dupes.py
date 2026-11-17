@@ -19,6 +19,26 @@ STOP = set("the and for with from that this approve approval agreement county ci
            "authorize execute contract services fiscal year fund funding total department commission".split())
 WINDOW = 400
 
+# Details that tell two items apart. If both texts name one and they share none, the pair is not flagged:
+# two grants of the same size to different addresses or companies are separate awards, not a duplicate.
+ADDR = re.compile(r"\b(\d{1,5})\s+(?:[NSEW]\.?\s+)?([A-Z][A-Za-z.]+)(?:\s+[A-Z][A-Za-z.]+){0,3}\s+(?:St|Street|Ave|Avenue|Blvd|Boulevard|Rd|Road|Dr|Drive|Hwy|Highway|Way|Ln|Lane|Ct|Court|Pl|Place|Pkwy|Parkway|Ter|Terrace|Cir|Circle)\b\.?")
+ORG = re.compile(r"\b((?:[A-Z0-9][\w&'.-]*\s+){0,5}[A-Z0-9][\w&'.-]*),?\s+(?:LLC|L\.L\.C\.|Inc\b|Incorporated|Corp\b|Corporation|LLLP|L\.P\.|P\.A\.)")
+ORGSTOP = {"the", "with", "to", "and", "for", "of", "from", "by", "approve", "agreement", "dba", "d/b/a"}
+RESNO = re.compile(r"(?i)\b(?:res(?:olution)?|ord(?:inance)?)\.?\s*(?:no\.?\s*)?#?\s*(\d{2,4}-\d{1,5}(?:-[a-z])?)")
+
+def details(t):
+    t = t or ""
+    addrs = {f"{n} {w.lower().rstrip('.')}" for n, w in ADDR.findall(t)}
+    orgs = set()
+    for m in ORG.findall(t):
+        w = [x for x in m.lower().split() if x not in ORGSTOP]
+        if w: orgs.add(" ".join(w[-3:]))
+    return addrs, orgs, {r.lower() for r in RESNO.findall(t)}
+
+def distinct(d0, d1):
+    """True when both items name addresses, companies or resolution numbers and none of them match."""
+    return any(a and b and not (a & b) for a, b in zip(d0, d1))
+
 def words(t):
     return {w for w in WORD.findall((t or "").lower()) if w not in STOP}
 
@@ -38,13 +58,14 @@ class Index:
                 ent = r.get("entity_id")
                 if not ent: continue
                 self.by_ent.setdefault(ent, []).append(
-                    (k, day(r.get("meeting_date")), num(r.get("max_amount")), words(r.get("title")), r.get("meeting_date")))
+                    (k, day(r.get("meeting_date")), num(r.get("max_amount")), words(r.get("title")), r.get("meeting_date"), details(r.get("title"))))
 
     def find(self, item_id, ent, meeting_date, amount, title, limit=3):
-        d0, amt, w0 = day(meeting_date), num(amount), words(title)
+        d0, amt, w0, det0 = day(meeting_date), num(amount), words(title), details(title)
         hits = []
-        for k, d, a, w, md in self.by_ent.get(ent, []):
+        for k, d, a, w, md, det in self.by_ent.get(ent, []):
             if k == item_id: continue
+            if distinct(det0, det): continue
             if d0 and d and abs((d - d0).days) > WINDOW: continue
             reasons = []
             j = len(w0 & w) / len(w0 | w) if len(w0) >= 4 and len(w) >= 4 else 0
