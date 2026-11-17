@@ -46,7 +46,7 @@
      "reason": "similar text 0.80"
     }
    ],
-   "possible_duplicate_label": "2024-06-18 (similar text 0.80): m-jacksonville|2024-06-18|1dcce2a4|42fb9fd89e81"
+   "possible_duplicate_label": "2024-06-18 (similar text 0.80)"
   },
   {
    "id": "m-northport|matter|RES. NO. 2024-R-17",
@@ -112,22 +112,12 @@
    "pct_of_paying_fund": 0.435,
    "possible_duplicates": [
     {
-     "id": "m-jacksonville|matter|2024-0452-E",
-     "meeting_date": "2024-05-28",
-     "reason": "same amount"
-    },
-    {
      "id": "m-jacksonville|2024-06-17|220081a3|573983601744",
      "meeting_date": "2024-06-17",
      "reason": "similar text 0.80"
-    },
-    {
-     "id": "m-jacksonville|2024-06-18|1dcce2a4|a10367467436",
-     "meeting_date": "2024-06-18",
-     "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2024-05-28 (same amount): m-jacksonville|matter|2024-0452-E; 2024-06-17 (similar text 0.80): m-jacksonville|2024-06-17|220081a3|573983601744"
+   "possible_duplicate_label": "2024-06-17 (similar text 0.80)"
   },
   {
    "id": "m-jacksonville|matter|2026-0572-E",
@@ -190,14 +180,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 1746961049,
    "pct_of_paying_fund": 1.259,
-   "possible_duplicates": [
-    {
-     "id": "m-jacksonville|matter|2023-0876-AW",
-     "meeting_date": "2026-01-13",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-01-13 (same amount): m-jacksonville|matter|2023-0876-AW"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-jacksonville|matter|2023-0876-AW",
@@ -228,14 +212,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 1746961049,
    "pct_of_paying_fund": 1.259,
-   "possible_duplicates": [
-    {
-     "id": "m-jacksonville|2025-05-20|6778dd21|8e1b792b2c24",
-     "meeting_date": "2025-05-20",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2025-05-20 (same amount): m-jacksonville|2025-05-20|6778dd21|8e1b792b2c24"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-jacksonville|2025-02-03|4fadd760|ff576e2f261f",
@@ -393,22 +371,12 @@
    "pct_of_paying_fund": 1.145,
    "possible_duplicates": [
     {
-     "id": "m-jacksonville|2024-09-03|6dcae71f|f11c5ca5f1db",
-     "meeting_date": "2024-09-03",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-jacksonville|2024-09-04|6dd862b5|f11c5ca5f1db",
-     "meeting_date": "2024-09-04",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-jacksonville|matter|2025-0151-A",
-     "meeting_date": "2025-02-25",
-     "reason": "same amount"
+     "id": "m-jacksonville|matter|2026-0037-A",
+     "meeting_date": "2026-01-27",
+     "reason": "similar text 0.68"
     }
    ],
-   "possible_duplicate_label": "2024-09-03 (same amount): m-jacksonville|2024-09-03|6dcae71f|f11c5ca5f1db; 2024-09-04 (same amount): m-jacksonville|2024-09-04|6dd862b5|f11c5ca5f1db; 2025-02-25 (same amount): m-jacksonville|matter|2025-0151-A"
+   "possible_duplicate_label": "2026-01-27 (similar text 0.68)"
   },
   {
    "id": "c-orange|matter|25-1366",
@@ -438,19 +406,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 1499122392,
    "pct_of_paying_fund": 0.667,
-   "possible_duplicates": [
-    {
-     "id": "c-orange|matter|26-1007",
-     "meeting_date": "2026-08-25",
-     "reason": "same amount"
-    },
-    {
-     "id": "c-orange|matter|26-1258",
-     "meeting_date": "2026-11-10",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-08-25 (same amount): c-orange|matter|26-1007; 2026-11-10 (same amount): c-orange|matter|26-1258"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-jacksonville|matter|2024-0452-E",
@@ -481,24 +438,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 1746961049,
    "pct_of_paying_fund": 0.435,
-   "possible_duplicates": [
-    {
-     "id": "m-jacksonville|2024-06-18|1dcce2a4|42fb9fd89e81",
-     "meeting_date": "2024-06-18",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-jacksonville|2024-06-18|1dcce2a4|a10367467436",
-     "meeting_date": "2024-06-18",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-jacksonville|matter|2024-0849-E",
-     "meeting_date": "2024-10-22",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2024-06-18 (same amount): m-jacksonville|2024-06-18|1dcce2a4|42fb9fd89e81; 2024-10-22 (same amount): m-jacksonville|matter|2024-0849-E"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-jacksonville|2024-08-06|5d4169db|6a2792d59361",
@@ -540,7 +481,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2024-08-07 (same amount, similar text 0.98): m-jacksonville|2024-08-07|fcc0c955|abcaa369d26c; 2024-06-25 (same amount): m-jacksonville|matter|2024-0494-E"
+   "possible_duplicate_label": "2024-08-07 (same amount, similar text 0.98); 2024-06-25 (same amount)"
   },
   {
    "id": "m-jacksonville|2024-08-07|fcc0c955|abcaa369d26c",
@@ -582,7 +523,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2024-08-06 (same amount, similar text 0.98): m-jacksonville|2024-08-06|5d4169db|6a2792d59361; 2024-06-25 (same amount): m-jacksonville|matter|2024-0494-E"
+   "possible_duplicate_label": "2024-08-06 (same amount, similar text 0.98); 2024-06-25 (same amount)"
   },
   {
    "id": "m-jacksonville|matter|2024-0849-E",
@@ -613,24 +554,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 1746961049,
    "pct_of_paying_fund": 0.435,
-   "possible_duplicates": [
-    {
-     "id": "m-jacksonville|matter|2024-0452-E",
-     "meeting_date": "2024-05-28",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-jacksonville|2024-06-18|1dcce2a4|42fb9fd89e81",
-     "meeting_date": "2024-06-18",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-jacksonville|2024-06-18|1dcce2a4|a10367467436",
-     "meeting_date": "2024-06-18",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2024-05-28 (same amount): m-jacksonville|matter|2024-0452-E; 2024-06-18 (same amount): m-jacksonville|2024-06-18|1dcce2a4|42fb9fd89e81"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-jacksonville|2025-03-31|05a4443c|b7b8cd62ff95",
@@ -672,7 +597,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2025-03-18 (same amount): m-jacksonville|2025-03-18|d95dc18a|ad032f7e4d10"
+   "possible_duplicate_label": "2025-03-18 (same amount)"
   },
   {
    "id": "m-jacksonville|2025-03-31|6d5e0b6f|8a29cec42924",
@@ -714,7 +639,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2025-03-18 (same amount): m-jacksonville|2025-03-18|d95dc18a|ad032f7e4d10"
+   "possible_duplicate_label": "2025-03-18 (same amount)"
   },
   {
    "id": "m-portstlucie|matter|2026-228",
@@ -751,7 +676,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-04-27 (same amount): m-portstlucie|matter|2026-400"
+   "possible_duplicate_label": "2026-04-27 (same amount)"
   },
   {
    "id": "m-jacksonville|matter|2026-0326-A",
@@ -873,14 +798,8 @@
    "paying_fund": "enterprise",
    "paying_fund_expenditures": 322988993,
    "pct_of_paying_fund": 12.075,
-   "possible_duplicates": [
-    {
-     "id": "m-jacksonville|matter|2024-0748-E",
-     "meeting_date": "2024-09-30",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2024-09-30 (same amount): m-jacksonville|matter|2024-0748-E"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-broward|matter|25-531",
@@ -1067,7 +986,7 @@
      "reason": "similar text 0.69"
     }
    ],
-   "possible_duplicate_label": "2024-01-09 (similar text 0.65): c-hillsborough|matter|2024-0011"
+   "possible_duplicate_label": "2024-01-09 (similar text 0.65)"
   },
   {
    "id": "c-pinellas|matter|24-1367A",
@@ -1261,7 +1180,7 @@
      "reason": "same amount, similar text 1.00"
     }
    ],
-   "possible_duplicate_label": "2026-09-15 (same amount, similar text 1.00): m-jacksonville|2026-09-15|c64a4e9a|b523dd3ad8f6"
+   "possible_duplicate_label": "2026-09-15 (same amount, similar text 1.00)"
   },
   {
    "id": "m-clearwater|matter|ID#24-0678",
@@ -1444,24 +1363,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 1746961049,
    "pct_of_paying_fund": 0.687,
-   "possible_duplicates": [
-    {
-     "id": "m-jacksonville|matter|2025-0362-E",
-     "meeting_date": "2025-05-27",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-jacksonville|2025-06-17|e9da921a|40514a01dbcf",
-     "meeting_date": "2025-06-17",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-jacksonville|2026-10-19|fdd9c9dd|d6ed912391a8",
-     "meeting_date": "2026-10-19",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2025-05-27 (same amount): m-jacksonville|matter|2025-0362-E; 2025-06-17 (same amount): m-jacksonville|2025-06-17|e9da921a|40514a01dbcf; 2026-10-19 (same amount): m-jacksonville|2026-10-19|fdd9c9dd|d6ed912391a8"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-orange|matter|26-0117",
@@ -1497,7 +1400,7 @@
      "reason": "similar text 0.72"
     }
    ],
-   "possible_duplicate_label": "2025-09-16 (similar text 0.72): c-orange|matter|25-1174"
+   "possible_duplicate_label": "2025-09-16 (similar text 0.72)"
   },
   {
    "id": "m-fortlauderdale|matter|26-0441",
@@ -1574,7 +1477,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-09-23 (same amount, similar text 0.99): m-daytonabeach|2026-09-23|c8fc0dd3|ca320909b8d7"
+   "possible_duplicate_label": "2026-09-23 (same amount, similar text 0.99)"
   },
   {
    "id": "m-daytonabeach|2026-09-23|c8fc0dd3|ca320909b8d7",
@@ -1621,7 +1524,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-09-09 (same amount, similar text 0.99): m-daytonabeach|2026-09-09|e3c29b99|1030cecdd3e9"
+   "possible_duplicate_label": "2026-09-09 (same amount, similar text 0.99)"
   },
   {
    "id": "m-boyntonbeach|nodate|f5a76304|3faa20509214",
@@ -1766,7 +1669,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2025-01-28 (same amount): m-jacksonville|matter|2025-0040-A"
+   "possible_duplicate_label": "2025-01-28 (same amount)"
   },
   {
    "id": "m-fortlauderdale|matter|25-0945",
@@ -1796,24 +1699,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 476645235,
    "pct_of_paying_fund": 2.098,
-   "possible_duplicates": [
-    {
-     "id": "m-fortlauderdale|matter|25-0190",
-     "meeting_date": "2025-02-18",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|26-0327",
-     "meeting_date": "2026-03-19",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|26-0253",
-     "meeting_date": "2026-04-07",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2025-02-18 (same amount): m-fortlauderdale|matter|25-0190; 2026-03-19 (same amount): m-fortlauderdale|matter|26-0327; 2026-04-07 (same amount): m-fortlauderdale|matter|26-0253"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-lee|2026-11-03|7b46c2b5|9b28ac6f74db",
@@ -1905,14 +1792,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 1746961049,
    "pct_of_paying_fund": 0.429,
-   "possible_duplicates": [
-    {
-     "id": "m-jacksonville|matter|2024-0419-A",
-     "meeting_date": "2024-05-28",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2024-05-28 (same amount): m-jacksonville|matter|2024-0419-A"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-broward|matter|25-179",
@@ -1990,7 +1871,7 @@
      "reason": "similar text 0.61"
     }
    ],
-   "possible_duplicate_label": "2024-08-27 (similar text 0.71): c-orange|matter|24-1210; 2024-09-24 (similar text 0.61): c-orange|matter|24-1323; 2024-10-29 (similar text 0.61): c-orange|matter|24-1502"
+   "possible_duplicate_label": "2024-08-27 (similar text 0.71); 2024-09-24 (similar text 0.61); 2024-10-29 (similar text 0.61)"
   },
   {
    "id": "m-hollywood|matter|R-2024-058",
@@ -2056,19 +1937,9 @@
      "id": "m-fortlauderdale|matter|24-0558",
      "meeting_date": "2024-06-04",
      "reason": "same amount, similar text 1.00"
-    },
-    {
-     "id": "m-fortlauderdale|matter|24-0186",
-     "meeting_date": "2024-02-20",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|25-0162",
-     "meeting_date": "2025-02-18",
-     "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2024-06-04 (same amount, similar text 1.00): m-fortlauderdale|matter|24-0558; 2024-02-20 (same amount): m-fortlauderdale|matter|24-0186; 2025-02-18 (same amount): m-fortlauderdale|matter|25-0162"
+   "possible_duplicate_label": "2024-06-04 (same amount, similar text 1.00)"
   },
   {
    "id": "m-fortlauderdale|matter|24-0558",
@@ -2103,19 +1974,9 @@
      "id": "m-fortlauderdale|matter|24-0430",
      "meeting_date": "2024-05-21",
      "reason": "same amount, similar text 1.00"
-    },
-    {
-     "id": "m-fortlauderdale|matter|24-0186",
-     "meeting_date": "2024-02-20",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|25-0162",
-     "meeting_date": "2025-02-18",
-     "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2024-05-21 (same amount, similar text 1.00): m-fortlauderdale|matter|24-0430; 2024-02-20 (same amount): m-fortlauderdale|matter|24-0186; 2025-02-18 (same amount): m-fortlauderdale|matter|25-0162"
+   "possible_duplicate_label": "2024-05-21 (same amount, similar text 1.00)"
   },
   {
    "id": "c-hillsborough|matter|2024-0060",
@@ -2162,7 +2023,7 @@
      "reason": "similar text 0.61"
     }
    ],
-   "possible_duplicate_label": "2024-01-09 (similar text 0.63): c-hillsborough|matter|2024-0011"
+   "possible_duplicate_label": "2024-01-09 (similar text 0.63)"
   },
   {
    "id": "m-fortlauderdale|matter|25-0162",
@@ -2194,22 +2055,12 @@
    "pct_of_paying_fund": 1.259,
    "possible_duplicates": [
     {
-     "id": "m-fortlauderdale|matter|24-0186",
-     "meeting_date": "2024-02-20",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|24-0430",
-     "meeting_date": "2024-05-21",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|24-0558",
-     "meeting_date": "2024-06-04",
-     "reason": "same amount"
+     "id": "m-fortlauderdale|matter|25-0190",
+     "meeting_date": "2025-02-18",
+     "reason": "similar text 0.63"
     }
    ],
-   "possible_duplicate_label": "2024-02-20 (same amount): m-fortlauderdale|matter|24-0186; 2024-05-21 (same amount): m-fortlauderdale|matter|24-0430; 2024-06-04 (same amount): m-fortlauderdale|matter|24-0558"
+   "possible_duplicate_label": null
   },
   {
    "id": "c-broward|matter|25-356",
@@ -2245,7 +2096,7 @@
      "reason": "similar text 0.61"
     }
    ],
-   "possible_duplicate_label": "2025-11-13 (similar text 0.61): c-broward|matter|25-1156"
+   "possible_duplicate_label": "2025-11-13 (similar text 0.61)"
   },
   {
    "id": "c-hillsborough|matter|2025-0038",
@@ -2292,7 +2143,7 @@
      "reason": "similar text 0.67"
     }
    ],
-   "possible_duplicate_label": "2024-04-09 (similar text 0.65): c-hillsborough|matter|2024-0038; 2024-05-07 (similar text 0.67): c-hillsborough|matter|2024-0042"
+   "possible_duplicate_label": "2024-04-09 (similar text 0.65); 2024-05-07 (similar text 0.67)"
   },
   {
    "id": "c-broward|matter|25-1156",
@@ -2328,7 +2179,7 @@
      "reason": "similar text 0.61"
     }
    ],
-   "possible_duplicate_label": "2025-04-22 (similar text 0.61): c-broward|matter|25-356"
+   "possible_duplicate_label": "2025-04-22 (similar text 0.61)"
   },
   {
    "id": "c-broward|matter|26-422",
@@ -2358,19 +2209,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 1932826044,
    "pct_of_paying_fund": 0.362,
-   "possible_duplicates": [
-    {
-     "id": "c-broward|matter|26-660",
-     "meeting_date": "2026-06-09",
-     "reason": "same amount"
-    },
-    {
-     "id": "c-broward|matter|26-910",
-     "meeting_date": "2026-10-06",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-06-09 (same amount): c-broward|matter|26-660; 2026-10-06 (same amount): c-broward|matter|26-910"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-orange|matter|26-0870",
@@ -2400,14 +2240,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 1499122392,
    "pct_of_paying_fund": 0.434,
-   "possible_duplicates": [
-    {
-     "id": "c-orange|matter|26-0927",
-     "meeting_date": "2026-08-25",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-08-25 (same amount): c-orange|matter|26-0927"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-northport|matter|24-0776",
@@ -2475,7 +2309,7 @@
      "reason": "same amount, similar text 1.00"
     }
    ],
-   "possible_duplicate_label": "2024-07-15 (same amount, similar text 1.00): m-clearwater|matter|ID#24-0779"
+   "possible_duplicate_label": "2024-07-15 (same amount, similar text 1.00)"
   },
   {
    "id": "m-jacksonville|matter|2025-0329-E",
@@ -2511,7 +2345,7 @@
      "reason": "similar text 0.74"
     }
    ],
-   "possible_duplicate_label": "2024-05-28 (similar text 0.74): m-jacksonville|matter|2024-0422-E"
+   "possible_duplicate_label": "2024-05-28 (similar text 0.74)"
   },
   {
    "id": "m-jacksonville|2026-06-15|8dc516a6|9e47b49e4ade",
@@ -2540,14 +2374,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 1746961049,
    "pct_of_paying_fund": 2.061,
-   "possible_duplicates": [
-    {
-     "id": "m-jacksonville|2026-10-21|f59012c7|5813828c1965",
-     "meeting_date": "2026-10-21",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-10-21 (same amount): m-jacksonville|2026-10-21|f59012c7|5813828c1965"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-lee|2026-08-18|09709973|08354b8741bb",
@@ -2643,7 +2471,7 @@
      "reason": "similar text 0.72"
     }
    ],
-   "possible_duplicate_label": "2026-01-27 (similar text 0.72): c-orange|matter|26-0117"
+   "possible_duplicate_label": "2026-01-27 (similar text 0.72)"
   },
   {
    "id": "m-fortlauderdale|matter|26-0440",
@@ -2769,7 +2597,7 @@
      "reason": "similar text 0.74"
     }
    ],
-   "possible_duplicate_label": "2025-05-27 (similar text 0.74): m-jacksonville|matter|2025-0329-E"
+   "possible_duplicate_label": "2025-05-27 (similar text 0.74)"
   },
   {
    "id": "m-pembrokepines|matter|2024-R-42",
@@ -2859,14 +2687,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 1746961049,
    "pct_of_paying_fund": 14.311,
-   "possible_duplicates": [
-    {
-     "id": "m-jacksonville|matter|2026-0455-E",
-     "meeting_date": "2026-05-26",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-05-26 (same amount): m-jacksonville|matter|2026-0455-E"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-polk|matter|26-1794",
@@ -3144,7 +2966,7 @@
      "reason": "similar text 0.71"
     }
    ],
-   "possible_duplicate_label": "2025-01-07 (similar text 0.71): c-orange|matter|25-083"
+   "possible_duplicate_label": "2025-01-07 (similar text 0.71)"
   },
   {
    "id": "c-orange|matter|25-083",
@@ -3180,7 +3002,7 @@
      "reason": "similar text 0.71"
     }
    ],
-   "possible_duplicate_label": "2024-09-24 (similar text 0.71): c-orange|matter|24-1336"
+   "possible_duplicate_label": "2024-09-24 (similar text 0.71)"
   },
   {
    "id": "c-orange|matter|25-369",
@@ -3247,7 +3069,7 @@
      "reason": "similar text 0.82"
     }
    ],
-   "possible_duplicate_label": "2025-03-31 (similar text 0.82): m-jacksonville|matter|2025-0193-E"
+   "possible_duplicate_label": "2025-03-31 (similar text 0.82)"
   },
   {
    "id": "c-broward|matter|25-1169",
@@ -3642,24 +3464,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 1746961049,
    "pct_of_paying_fund": 0.572,
-   "possible_duplicates": [
-    {
-     "id": "m-jacksonville|matter|2024-0836-A",
-     "meeting_date": "2024-10-22",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-jacksonville|2025-02-13|ed621b5d|b62c3012b989",
-     "meeting_date": "2025-02-13",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-jacksonville|2025-03-04|1bc7a0f8|3567da31584b",
-     "meeting_date": "2025-03-04",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2024-10-22 (same amount): m-jacksonville|matter|2024-0836-A; 2025-02-13 (same amount): m-jacksonville|2025-02-13|ed621b5d|b62c3012b989; 2025-03-04 (same amount): m-jacksonville|2025-03-04|1bc7a0f8|3567da31584b"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-hollywood|matter|R-2024-098",
@@ -3809,24 +3615,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 1746961049,
    "pct_of_paying_fund": 5.724,
-   "possible_duplicates": [
-    {
-     "id": "m-jacksonville|2024-06-04|ceb49513|1715f814d680",
-     "meeting_date": "2024-06-04",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-jacksonville|matter|2025-0041-A",
-     "meeting_date": "2025-01-28",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-jacksonville|matter|2025-0319-E",
-     "meeting_date": "2025-05-27",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2024-06-04 (same amount): m-jacksonville|2024-06-04|ceb49513|1715f814d680; 2025-01-28 (same amount): m-jacksonville|matter|2025-0041-A; 2025-05-27 (same amount): m-jacksonville|matter|2025-0319-E"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-jacksonville|matter|2025-0041-A",
@@ -3860,19 +3650,9 @@
      "id": "m-jacksonville|matter|2025-0741-A",
      "meeting_date": "2025-09-23",
      "reason": "same amount, similar text 0.96"
-    },
-    {
-     "id": "m-jacksonville|2024-06-04|ceb49513|1715f814d680",
-     "meeting_date": "2024-06-04",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-jacksonville|2025-01-07|d27e6bf8|94c5e1e2c874",
-     "meeting_date": "2025-01-07",
-     "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2025-09-23 (same amount, similar text 0.96): m-jacksonville|matter|2025-0741-A; 2024-06-04 (same amount): m-jacksonville|2024-06-04|ceb49513|1715f814d680; 2025-01-07 (same amount): m-jacksonville|2025-01-07|d27e6bf8|94c5e1e2c874"
+   "possible_duplicate_label": "2025-09-23 (same amount, similar text 0.96)"
   },
   {
    "id": "m-jacksonville|matter|2025-0741-A",
@@ -3911,14 +3691,9 @@
      "id": "m-jacksonville|matter|2026-0765-A",
      "meeting_date": "2026-09-22",
      "reason": "same amount, similar text 0.91"
-    },
-    {
-     "id": "m-jacksonville|2025-01-07|d27e6bf8|94c5e1e2c874",
-     "meeting_date": "2025-01-07",
-     "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2025-01-28 (same amount, similar text 0.96): m-jacksonville|matter|2025-0041-A; 2026-09-22 (same amount, similar text 0.91): m-jacksonville|matter|2026-0765-A; 2025-01-07 (same amount): m-jacksonville|2025-01-07|d27e6bf8|94c5e1e2c874"
+   "possible_duplicate_label": "2025-01-28 (same amount, similar text 0.96); 2026-09-22 (same amount, similar text 0.91)"
   },
   {
    "id": "c-orange|matter|25-1254",
@@ -3960,7 +3735,7 @@
      "reason": "similar text 0.62"
     }
    ],
-   "possible_duplicate_label": "2025-04-08 (similar text 0.61): c-orange|matter|25-514; 2025-11-18 (similar text 0.62): c-orange|matter|25-1435"
+   "possible_duplicate_label": "2025-04-08 (similar text 0.61); 2025-11-18 (similar text 0.62)"
   },
   {
    "id": "c-hillsborough|matter|CDD 26-0144",
@@ -3996,7 +3771,7 @@
      "reason": "similar text 0.62"
     }
    ],
-   "possible_duplicate_label": "2026-04-07 (similar text 0.62): c-hillsborough|matter|CDD 26-0248"
+   "possible_duplicate_label": "2026-04-07 (similar text 0.62)"
   },
   {
    "id": "m-jacksonville|matter|2026-0765-A",
@@ -4032,7 +3807,7 @@
      "reason": "same amount, similar text 0.91"
     }
    ],
-   "possible_duplicate_label": "2025-09-23 (same amount, similar text 0.91): m-jacksonville|matter|2025-0741-A"
+   "possible_duplicate_label": "2025-09-23 (same amount, similar text 0.91)"
   },
   {
    "id": "m-clearwater|matter|ID#24-0185",
@@ -4109,7 +3884,7 @@
      "reason": "similar text 0.61"
     }
    ],
-   "possible_duplicate_label": "2024-08-27 (similar text 0.71): c-orange|matter|24-1210; 2024-09-24 (similar text 0.62): c-orange|matter|24-1323; 2024-10-29 (similar text 0.61): c-orange|matter|24-1502"
+   "possible_duplicate_label": "2024-08-27 (similar text 0.71); 2024-09-24 (similar text 0.62); 2024-10-29 (similar text 0.61)"
   },
   {
    "id": "m-northport|matter|RES. NO. 2025-R-06",
@@ -4175,7 +3950,7 @@
      "reason": "similar text 0.87"
     }
    ],
-   "possible_duplicate_label": "2025-06-24 (similar text 0.87): m-northport|matter|RES. NO. 2025-R-44"
+   "possible_duplicate_label": "2025-06-24 (similar text 0.87)"
   },
   {
    "id": "m-pembrokepines|matter|2025-11",
@@ -4276,7 +4051,7 @@
      "reason": "similar text 0.62"
     }
    ],
-   "possible_duplicate_label": "2026-03-23 (same amount): m-portstlucie|matter|2026-228; 2026-07-13 (similar text 0.62): m-portstlucie|matter|2026-633"
+   "possible_duplicate_label": "2026-03-23 (same amount); 2026-07-13 (similar text 0.62)"
   },
   {
    "id": "m-portstlucie|matter|2026-551",
@@ -4312,7 +4087,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-07-13 (same amount): m-portstlucie|matter|2026-633"
+   "possible_duplicate_label": "2026-07-13 (same amount)"
   },
   {
    "id": "c-orange|matter|26-0729",
@@ -4359,7 +4134,7 @@
      "reason": "similar text 0.63"
     }
    ],
-   "possible_duplicate_label": "2025-07-15 (similar text 0.60): c-orange|matter|25-938; 2025-08-05 (similar text 0.63): c-orange|matter|25-1013"
+   "possible_duplicate_label": "2025-07-15 (similar text 0.60); 2025-08-05 (similar text 0.63)"
   },
   {
    "id": "m-portstlucie|matter|2026-633",
@@ -4400,7 +4175,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-04-27 (similar text 0.62): m-portstlucie|matter|2026-400; 2026-06-22 (same amount): m-portstlucie|matter|2026-551"
+   "possible_duplicate_label": "2026-04-27 (similar text 0.62); 2026-06-22 (same amount)"
   },
   {
    "id": "m-pembrokepines|matter|2026-R-16",
@@ -4465,19 +4240,9 @@
      "id": "m-jacksonville|2024-04-16|4138869f|d855dfa7c55d",
      "meeting_date": "2024-04-16",
      "reason": "same amount, similar text 0.99"
-    },
-    {
-     "id": "m-jacksonville|matter|2024-0272-E",
-     "meeting_date": "2024-03-26",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-jacksonville|2024-04-15|cdc76c06|a4010e9e7a74",
-     "meeting_date": "2024-04-15",
-     "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2024-04-16 (same amount, similar text 0.99): m-jacksonville|2024-04-16|4138869f|d855dfa7c55d; 2024-03-26 (same amount): m-jacksonville|matter|2024-0272-E"
+   "possible_duplicate_label": "2024-04-16 (same amount, similar text 0.99)"
   },
   {
    "id": "m-jacksonville|2024-04-16|4138869f|d855dfa7c55d",
@@ -4512,19 +4277,9 @@
      "id": "m-jacksonville|2024-04-15|cdc76c06|203592a6569d",
      "meeting_date": "2024-04-15",
      "reason": "same amount, similar text 0.99"
-    },
-    {
-     "id": "m-jacksonville|matter|2024-0272-E",
-     "meeting_date": "2024-03-26",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-jacksonville|2024-04-15|cdc76c06|a4010e9e7a74",
-     "meeting_date": "2024-04-15",
-     "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2024-04-15 (same amount, similar text 0.99): m-jacksonville|2024-04-15|cdc76c06|203592a6569d; 2024-03-26 (same amount): m-jacksonville|matter|2024-0272-E"
+   "possible_duplicate_label": "2024-04-15 (same amount, similar text 0.99)"
   },
   {
    "id": "c-orange|matter|24-753",
@@ -4583,14 +4338,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 78023595,
    "pct_of_paying_fund": 76.9,
-   "possible_duplicates": [
-    {
-     "id": "m-northport|matter|RES. NO. 2025-R-44",
-     "meeting_date": "2025-06-24",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2025-06-24 (same amount): m-northport|matter|RES. NO. 2025-R-44"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-northport|matter|ORD. NO. 2024-45",
@@ -4626,7 +4375,7 @@
      "reason": "similar text 0.63"
     }
    ],
-   "possible_duplicate_label": "2025-02-25 (similar text 0.63): m-northport|matter|ORD. NO. 2025-09"
+   "possible_duplicate_label": "2025-02-25 (similar text 0.63)"
   },
   {
    "id": "c-pinellas|matter|25-0199A",
@@ -4662,7 +4411,7 @@
      "reason": "similar text 0.63"
     }
    ],
-   "possible_duplicate_label": "2025-03-25 (similar text 0.63): c-pinellas|matter|25-0362A"
+   "possible_duplicate_label": "2025-03-25 (similar text 0.63)"
   },
   {
    "id": "c-orange|matter|25-1435",
@@ -4709,7 +4458,7 @@
      "reason": "similar text 0.60"
     }
    ],
-   "possible_duplicate_label": "2025-04-08 (similar text 0.62): c-orange|matter|25-514; 2025-05-06 (similar text 0.62): c-orange|matter|25-641; 2025-07-15 (similar text 0.60): c-orange|matter|25-933"
+   "possible_duplicate_label": "2025-04-08 (similar text 0.62); 2025-05-06 (similar text 0.62); 2025-07-15 (similar text 0.60)"
   },
   {
    "id": "c-hillsborough|matter|CDD 26-0168",
@@ -4805,24 +4554,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 1746961049,
    "pct_of_paying_fund": 0.286,
-   "possible_duplicates": [
-    {
-     "id": "m-jacksonville|2024-02-15|dacd58a5|7638b4a5534f",
-     "meeting_date": "2024-02-15",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-jacksonville|2024-02-21|dafe39ea|7d1ab9881b2a",
-     "meeting_date": "2024-02-21",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-jacksonville|2024-03-18|578657cf|0a071a66a3f9",
-     "meeting_date": "2024-03-18",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2024-02-15 (same amount): m-jacksonville|2024-02-15|dacd58a5|7638b4a5534f; 2024-02-21 (same amount): m-jacksonville|2024-02-21|dafe39ea|7d1ab9881b2a; 2024-03-18 (same amount): m-jacksonville|2024-03-18|578657cf|0a071a66a3f9"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-fortlauderdale|matter|24-0596",
@@ -4978,7 +4711,7 @@
      "reason": "similar text 0.82"
     }
    ],
-   "possible_duplicate_label": "2025-09-23 (similar text 0.82): m-jacksonville|matter|2025-0738-E"
+   "possible_duplicate_label": "2025-09-23 (similar text 0.82)"
   },
   {
    "id": "c-broward|matter|25-212",
@@ -5007,24 +4740,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 1932826044,
    "pct_of_paying_fund": 0.259,
-   "possible_duplicates": [
-    {
-     "id": "c-broward|matter|24-650",
-     "meeting_date": "2024-06-04",
-     "reason": "same amount"
-    },
-    {
-     "id": "c-broward|matter|24-1288",
-     "meeting_date": "2024-10-22",
-     "reason": "same amount"
-    },
-    {
-     "id": "c-broward|matter|25-479",
-     "meeting_date": "2025-05-06",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2024-06-04 (same amount): c-broward|matter|24-650; 2024-10-22 (same amount): c-broward|matter|24-1288; 2025-05-06 (same amount): c-broward|matter|25-479"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-hollywood|matter|R-2025-225",
@@ -5102,7 +4819,7 @@
      "reason": "similar text 0.62"
     }
    ],
-   "possible_duplicate_label": "2024-08-27 (similar text 0.62): c-orange|matter|24-1210; 2024-11-19 (similar text 0.60): c-orange|matter|24-1620"
+   "possible_duplicate_label": "2024-08-27 (similar text 0.62); 2024-11-19 (similar text 0.60)"
   },
   {
    "id": "m-pembrokepines|matter|2025-R-39",
@@ -5178,7 +4895,7 @@
      "reason": "similar text 0.66"
     }
    ],
-   "possible_duplicate_label": "2024-08-27 (similar text 0.69): c-orange|matter|24-1186; 2024-09-24 (similar text 0.62): c-orange|matter|24-1323; 2024-10-29 (similar text 0.66): c-orange|matter|24-1502"
+   "possible_duplicate_label": "2024-08-27 (similar text 0.69); 2024-09-24 (similar text 0.62); 2024-10-29 (similar text 0.66)"
   },
   {
    "id": "c-hillsborough|matter|CDD 25-0843",
@@ -5237,19 +4954,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 292743261,
    "pct_of_paying_fund": 17.08,
-   "possible_duplicates": [
-    {
-     "id": "c-lake|2026-11-17|42cf0f31|4f589b13532d",
-     "meeting_date": "2026-11-17",
-     "reason": "same amount"
-    },
-    {
-     "id": "c-lake|2026-11-17|a8a0630c|4f589b13532d",
-     "meeting_date": "2026-11-17",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-11-17 (same amount): c-lake|2026-11-17|42cf0f31|4f589b13532d"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-clearwater|matter|ID#26-1209",
@@ -5285,7 +4991,7 @@
      "reason": "similar text 0.61"
     }
    ],
-   "possible_duplicate_label": "2026-04-23 (similar text 0.61): m-clearwater|matter|ID#26-0293"
+   "possible_duplicate_label": "2026-04-23 (similar text 0.61)"
   },
   {
    "id": "m-jacksonville|2024-08-06|5d4169db|2ae715946763",
@@ -5351,7 +5057,7 @@
      "reason": "same amount, similar text 0.78"
     }
    ],
-   "possible_duplicate_label": "2025-10-21 (same amount, similar text 0.78): c-polk|matter|25-1921"
+   "possible_duplicate_label": "2025-10-21 (same amount, similar text 0.78)"
   },
   {
    "id": "c-polk|matter|25-1921",
@@ -5387,7 +5093,7 @@
      "reason": "same amount, similar text 0.78"
     }
    ],
-   "possible_duplicate_label": "2025-09-02 (same amount, similar text 0.78): c-polk|matter|25-1413"
+   "possible_duplicate_label": "2025-09-02 (same amount, similar text 0.78)"
   },
   {
    "id": "m-jacksonville|matter|2026-0921",
@@ -5449,19 +5155,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 1932826044,
    "pct_of_paying_fund": 0.31,
-   "possible_duplicates": [
-    {
-     "id": "c-broward|matter|26-160",
-     "meeting_date": "2026-03-26",
-     "reason": "same amount"
-    },
-    {
-     "id": "c-broward|matter|26-291",
-     "meeting_date": "2026-05-12",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-03-26 (same amount): c-broward|matter|26-160; 2026-05-12 (same amount): c-broward|matter|26-291"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-broward|matter|26-863",
@@ -5588,14 +5283,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 476645235,
    "pct_of_paying_fund": 0.058,
-   "possible_duplicates": [
-    {
-     "id": "m-fortlauderdale|matter|26-0366",
-     "meeting_date": "2026-04-21",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-04-21 (same amount): m-fortlauderdale|matter|26-0366"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-broward|matter|26-091",
@@ -5657,14 +5346,8 @@
    "paying_fund": "special_revenue",
    "paying_fund_expenditures": 89448301,
    "pct_of_paying_fund": 4.472,
-   "possible_duplicates": [
-    {
-     "id": "m-hollywood|matter|R-2026-026",
-     "meeting_date": "2026-01-21",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-01-21 (same amount): m-hollywood|matter|R-2026-026"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-fortlauderdale|matter|24-0645",
@@ -5697,17 +5380,12 @@
    "pct_of_paying_fund": 0.315,
    "possible_duplicates": [
     {
-     "id": "m-fortlauderdale|matter|24-0096",
-     "meeting_date": "2024-02-06",
-     "reason": "same amount"
-    },
-    {
      "id": "m-fortlauderdale|matter|25-0331",
      "meeting_date": "2025-04-01",
      "reason": "similar text 0.64"
     }
    ],
-   "possible_duplicate_label": "2024-02-06 (same amount): m-fortlauderdale|matter|24-0096; 2025-04-01 (similar text 0.64): m-fortlauderdale|matter|25-0331"
+   "possible_duplicate_label": "2025-04-01 (similar text 0.64)"
   },
   {
    "id": "m-boyntonbeach|nodate|de88499b|44a5e47d457d",
@@ -5833,14 +5511,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 476645235,
    "pct_of_paying_fund": 0.017,
-   "possible_duplicates": [
-    {
-     "id": "m-fortlauderdale|matter|25-1037",
-     "meeting_date": "2026-01-06",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-01-06 (same amount): m-fortlauderdale|matter|25-1037"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-daytonabeach|2026-08-05|b7884646|b68b82a1c859",
@@ -5872,22 +5544,12 @@
    "pct_of_paying_fund": 1.044,
    "possible_duplicates": [
     {
-     "id": "m-daytonabeach|2026-03-04|9727d13b|d181b184e0cd",
-     "meeting_date": "2026-03-04",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-daytonabeach|2026-07-01|0310e126|6d018650273d",
-     "meeting_date": "2026-07-01",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-daytonabeach|2026-07-01|0310e126|6da7e1eda1cf",
+     "id": "m-daytonabeach|2026-07-01|e6abfa42|bb8e04cc6301",
      "meeting_date": "2026-07-01",
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-03-04 (same amount): m-daytonabeach|2026-03-04|9727d13b|d181b184e0cd; 2026-07-01 (same amount): m-daytonabeach|2026-07-01|0310e126|6d018650273d"
+   "possible_duplicate_label": "2026-07-01 (same amount)"
   },
   {
    "id": "c-broward|matter|24-1628",
@@ -5949,14 +5611,8 @@
    "paying_fund": "special_revenue",
    "paying_fund_expenditures": 116078032,
    "pct_of_paying_fund": 0.194,
-   "possible_duplicates": [
-    {
-     "id": "m-fortlauderdale|matter|26-0481",
-     "meeting_date": "2026-08-18",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-08-18 (same amount): m-fortlauderdale|matter|26-0481"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-tallahassee|2026-10-12|630340ff|4376e5debf94",
@@ -5998,12 +5654,12 @@
      "reason": "same amount, similar text 0.75"
     },
     {
-     "id": "m-tallahassee|2026-01-12|a88a2bdd|7bac75bdf3f0",
-     "meeting_date": "2026-01-12",
-     "reason": "same amount"
+     "id": "m-tallahassee|2026-01-28|46159130|99bb0b023359",
+     "meeting_date": "2026-01-28",
+     "reason": "similar text 0.62"
     }
    ],
-   "possible_duplicate_label": "2026-01-28 (same amount, similar text 0.68): m-tallahassee|2026-01-28|46159130|55f6bc8323aa; 2026-04-07 (same amount, similar text 0.75): m-tallahassee|2026-04-07|8a641716|56ed689ed60f; 2026-01-12 (same amount): m-tallahassee|2026-01-12|a88a2bdd|7bac75bdf3f0"
+   "possible_duplicate_label": "2026-01-28 (same amount, similar text 0.68); 2026-04-07 (same amount, similar text 0.75)"
   },
   {
    "id": "m-boyntonbeach|nodate|a700a9d4|54c857858d59",
@@ -6075,14 +5731,9 @@
      "id": "m-fortlauderdale|matter|25-0008",
      "meeting_date": "2025-01-22",
      "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|26-0404",
-     "meeting_date": "2026-05-05",
-     "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2024-10-01 (similar text 0.64): m-fortlauderdale|matter|24-0645; 2025-01-22 (same amount): m-fortlauderdale|matter|25-0008; 2026-05-05 (same amount): m-fortlauderdale|matter|26-0404"
+   "possible_duplicate_label": "2024-10-01 (similar text 0.64); 2025-01-22 (same amount)"
   },
   {
    "id": "m-fortlauderdale|matter|26-0357",
@@ -6112,24 +5763,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 476645235,
    "pct_of_paying_fund": 0.016,
-   "possible_duplicates": [
-    {
-     "id": "m-fortlauderdale|matter|26-0250",
-     "meeting_date": "2026-03-19",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|26-0691",
-     "meeting_date": "2026-08-18",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|26-0840",
-     "meeting_date": "2026-09-02",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-03-19 (same amount): m-fortlauderdale|matter|26-0250; 2026-08-18 (same amount): m-fortlauderdale|matter|26-0691; 2026-09-02 (same amount): m-fortlauderdale|matter|26-0840"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-capecoral|2026-11-02|92e40094|a6d9a9ae8fe2",
@@ -6194,16 +5829,6 @@
      "id": "m-boyntonbeach|nodate|1ee98ecc|a5e6065d4b8d",
      "meeting_date": null,
      "reason": "similar text 0.78"
-    },
-    {
-     "id": "m-boyntonbeach|nodate|53b6bb94|01097d14f388",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-boyntonbeach|nodate|923bdcca|0159ac10dcec",
-     "meeting_date": null,
-     "reason": "same amount"
     }
    ],
    "possible_duplicate_label": null
@@ -6236,23 +5861,7 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 126944717,
    "pct_of_paying_fund": 0.047,
-   "possible_duplicates": [
-    {
-     "id": "m-boyntonbeach|nodate|1ee98ecc|1237ae891c37",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-boyntonbeach|nodate|53b6bb94|01097d14f388",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-boyntonbeach|nodate|e6a4ed3c|291f16242548",
-     "meeting_date": null,
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -6321,22 +5930,12 @@
    "pct_of_paying_fund": 0.362,
    "possible_duplicates": [
     {
-     "id": "c-broward|matter|26-422",
-     "meeting_date": "2026-05-26",
-     "reason": "same amount"
-    },
-    {
      "id": "c-broward|matter|26-579",
      "meeting_date": "2026-05-26",
      "reason": "similar text 0.67"
-    },
-    {
-     "id": "c-broward|matter|26-910",
-     "meeting_date": "2026-10-06",
-     "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-05-26 (same amount): c-broward|matter|26-422; 2026-10-06 (same amount): c-broward|matter|26-910"
+   "possible_duplicate_label": "2026-05-26 (similar text 0.67)"
   },
   {
    "id": "m-tallahassee|2026-08-27|99b4494c|01e27e3dfd24",
@@ -6383,7 +5982,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-08-03 (same amount): m-tallahassee|2026-08-03|4bad3dad|46bc83b8281f"
+   "possible_duplicate_label": "2026-08-03 (same amount)"
   },
   {
    "id": "m-tallahassee|2026-08-27|99b4494c|1c34a0a93f1a",
@@ -6430,7 +6029,7 @@
      "reason": "similar text 0.65"
     }
    ],
-   "possible_duplicate_label": "2026-11-19 (same amount, similar text 0.60): m-tallahassee|2026-11-19|2248fe4c|73adf0be4a4f; 2026-03-09 (similar text 0.65): m-tallahassee|2026-03-09|f9cdbc2e|aa7c13c0af7c; 2026-05-28 (similar text 0.65): m-tallahassee|2026-05-28|e0ca200f|aa7c13c0af7c"
+   "possible_duplicate_label": "2026-11-19 (same amount, similar text 0.60); 2026-03-09 (similar text 0.65); 2026-05-28 (similar text 0.65)"
   },
   {
    "id": "m-boyntonbeach|nodate|f83f1234|a3fd10cd0b10",
@@ -6461,16 +6060,6 @@
    "paying_fund_expenditures": 126944717,
    "pct_of_paying_fund": 0.039,
    "possible_duplicates": [
-    {
-     "id": "m-boyntonbeach|nodate|7414bdab|e0b5804c4f5c",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-boyntonbeach|nodate|b52df607|3f6eb9a64d5e",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
     {
      "id": "m-boyntonbeach|nodate|ee285993|912fe1da2ed5",
      "meeting_date": null,
@@ -6572,7 +6161,7 @@
      "reason": "same amount, similar text 0.62"
     }
    ],
-   "possible_duplicate_label": "2026-08-19 (same amount, similar text 0.94): m-daytonabeach|2026-08-19|3470f774|89239b691fb9; 2026-09-23 (same amount, similar text 0.65): m-daytonabeach|2026-09-23|c8fc0dd3|6e08dd61372f; 2026-11-04 (same amount, similar text 0.62): m-daytonabeach|2026-11-04|793b7038|bbdd64aebbe3"
+   "possible_duplicate_label": "2026-08-19 (same amount, similar text 0.94); 2026-09-23 (same amount, similar text 0.65); 2026-11-04 (same amount, similar text 0.62)"
   },
   {
    "id": "m-daytonabeach|2026-09-23|c8fc0dd3|6e08dd61372f",
@@ -6615,12 +6204,12 @@
      "reason": "same amount, similar text 0.65"
     },
     {
-     "id": "m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0",
-     "meeting_date": "2026-01-21",
-     "reason": "same amount"
+     "id": "m-daytonabeach|2026-10-21|aa77a5d7|6e08dd61372f",
+     "meeting_date": "2026-10-21",
+     "reason": "similar text 0.78"
     }
    ],
-   "possible_duplicate_label": "2026-08-19 (same amount, similar text 0.63): m-daytonabeach|2026-08-19|3470f774|89239b691fb9; 2026-09-09 (same amount, similar text 0.65): m-daytonabeach|2026-09-09|e3c29b99|a8017ad20d67; 2026-01-21 (same amount): m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0"
+   "possible_duplicate_label": "2026-08-19 (same amount, similar text 0.63); 2026-09-09 (same amount, similar text 0.65); 2026-10-21 (similar text 0.78)"
   },
   {
    "id": "m-daytonabeach|2026-11-04|793b7038|bbdd64aebbe3",
@@ -6663,12 +6252,12 @@
      "reason": "same amount, similar text 0.62"
     },
     {
-     "id": "m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0",
-     "meeting_date": "2026-01-21",
+     "id": "m-daytonabeach|2026-09-23|c8fc0dd3|6e08dd61372f",
+     "meeting_date": "2026-09-23",
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-08-19 (same amount, similar text 0.61): m-daytonabeach|2026-08-19|3470f774|89239b691fb9; 2026-09-09 (same amount, similar text 0.62): m-daytonabeach|2026-09-09|e3c29b99|a8017ad20d67; 2026-01-21 (same amount): m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0"
+   "possible_duplicate_label": "2026-08-19 (same amount, similar text 0.61); 2026-09-09 (same amount, similar text 0.62); 2026-09-23 (same amount)"
   },
   {
    "id": "m-boyntonbeach|nodate|1ee98ecc|a5e6065d4b8d",
@@ -6982,7 +6571,7 @@
      "reason": "similar text 0.67"
     }
    ],
-   "possible_duplicate_label": "2026-06-09 (similar text 0.67): c-broward|matter|26-660"
+   "possible_duplicate_label": "2026-06-09 (similar text 0.67)"
   },
   {
    "id": "m-hollywood|matter|R-CRA-2026-34",
@@ -7941,7 +7530,7 @@
      "reason": "similar text 0.74"
     }
    ],
-   "possible_duplicate_label": "2026-05-12 (similar text 0.74): m-pinellaspark|matter|26-3372"
+   "possible_duplicate_label": "2026-05-12 (similar text 0.74)"
   },
   {
    "id": "m-pinellaspark|matter|26-3372",
@@ -7978,7 +7567,7 @@
      "reason": "similar text 0.74"
     }
    ],
-   "possible_duplicate_label": "2026-03-24 (similar text 0.74): m-pinellaspark|matter|26-3314"
+   "possible_duplicate_label": "2026-03-24 (similar text 0.74)"
   },
   {
    "id": "m-tarponsprings|2026-08-06|c6963ca3|fabc5d368987",
@@ -8087,7 +7676,7 @@
      "reason": "similar text 1.00"
     }
    ],
-   "possible_duplicate_label": "2026-01-28 (similar text 1.00): m-tallahassee|2026-01-28|46159130|2a68ee993110; 2026-07-14 (similar text 1.00): m-tallahassee|2026-07-14|2ae39896|2a68ee993110; 2026-10-06 (similar text 1.00): m-tallahassee|2026-10-06|4ac2d25c|2a68ee993110"
+   "possible_duplicate_label": "2026-01-28 (similar text 1.00); 2026-07-14 (similar text 1.00); 2026-10-06 (similar text 1.00)"
   },
   {
    "id": "m-gainesville|2026-10-06|3e863110|bb057073b720",
@@ -8124,7 +7713,7 @@
      "reason": "similar text 0.61"
     }
    ],
-   "possible_duplicate_label": "2026-10-20 (similar text 0.61): m-gainesville|2026-10-20|2595273b|21a255784c18"
+   "possible_duplicate_label": "2026-10-20 (similar text 0.61)"
   },
   {
    "id": "m-daytonabeach|2026-10-14|3b56a4a5|33da41024235",
@@ -8185,13 +7774,7 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 38960693,
    "pct_of_paying_fund": 1.566,
-   "possible_duplicates": [
-    {
-     "id": "m-dunedin|nodate|8bc85ce8|d79a7d963d98",
-     "meeting_date": null,
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -8222,13 +7805,7 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 38960693,
    "pct_of_paying_fund": 1.566,
-   "possible_duplicates": [
-    {
-     "id": "m-dunedin|nodate|8bc85ce8|867b68f9adfb",
-     "meeting_date": null,
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -8266,12 +7843,7 @@
      "reason": "same amount, similar text 0.91"
     },
     {
-     "id": "m-sunrise|nodate|1c6bedb8|c77d52706a75",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-sunrise|nodate|1c6bedb8|f44f985d806c",
+     "id": "m-sunrise|nodate|f311731c|55e318fb0efa",
      "meeting_date": null,
      "reason": "same amount"
     }
@@ -8316,11 +7888,6 @@
      "id": "m-sunrise|nodate|f311731c|55e318fb0efa",
      "meeting_date": null,
      "reason": "same amount, similar text 0.63"
-    },
-    {
-     "id": "m-sunrise|nodate|1c6bedb8|c77d52706a75",
-     "meeting_date": null,
-     "reason": "same amount"
     }
    ],
    "possible_duplicate_label": null
@@ -8382,13 +7949,7 @@
    "paying_fund": "special_revenue",
    "paying_fund_expenditures": 17997895,
    "pct_of_paying_fund": 1.945,
-   "possible_duplicates": [
-    {
-     "id": "m-deerfieldbeach|2026-11-05|faa415af|f6e60d8df2b1",
-     "meeting_date": "2026-11-05",
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -8554,22 +8115,17 @@
    "pct_of_paying_fund": 0.59,
    "possible_duplicates": [
     {
-     "id": "m-tallahassee|2026-01-12|a88a2bdd|7bac75bdf3f0",
-     "meeting_date": "2026-01-12",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-tallahassee|2026-01-28|46159130|309367ff5793",
+     "id": "m-tallahassee|2026-01-28|46159130|3bfe66468261",
      "meeting_date": "2026-01-28",
      "reason": "same amount"
     },
     {
-     "id": "m-tallahassee|2026-01-28|46159130|3addad3c1cd0",
-     "meeting_date": "2026-01-28",
+     "id": "m-tallahassee|2026-05-28|e0ca200f|3bfe66468261",
+     "meeting_date": "2026-05-28",
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-01-12 (same amount): m-tallahassee|2026-01-12|a88a2bdd|7bac75bdf3f0; 2026-01-28 (same amount): m-tallahassee|2026-01-28|46159130|309367ff5793"
+   "possible_duplicate_label": "2026-01-28 (same amount); 2026-05-28 (same amount)"
   },
   {
    "id": "m-tallahassee|2026-08-27|99b4494c|caebae8379d5",
@@ -8603,19 +8159,9 @@
      "id": "m-tallahassee|2026-08-27|99b4494c|d62d0cacc8a3",
      "meeting_date": "2026-08-27",
      "reason": "same amount, similar text 0.95"
-    },
-    {
-     "id": "m-tallahassee|2026-01-12|a88a2bdd|7bac75bdf3f0",
-     "meeting_date": "2026-01-12",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-tallahassee|2026-01-28|46159130|309367ff5793",
-     "meeting_date": "2026-01-28",
-     "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-01-12 (same amount): m-tallahassee|2026-01-12|a88a2bdd|7bac75bdf3f0; 2026-01-28 (same amount): m-tallahassee|2026-01-28|46159130|309367ff5793"
+   "possible_duplicate_label": null
   },
   {
    "id": "m-tallahassee|2026-08-27|99b4494c|d62d0cacc8a3",
@@ -8649,19 +8195,9 @@
      "id": "m-tallahassee|2026-08-27|99b4494c|caebae8379d5",
      "meeting_date": "2026-08-27",
      "reason": "same amount, similar text 0.95"
-    },
-    {
-     "id": "m-tallahassee|2026-01-12|a88a2bdd|7bac75bdf3f0",
-     "meeting_date": "2026-01-12",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-tallahassee|2026-01-28|46159130|309367ff5793",
-     "meeting_date": "2026-01-28",
-     "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-01-12 (same amount): m-tallahassee|2026-01-12|a88a2bdd|7bac75bdf3f0; 2026-01-28 (same amount): m-tallahassee|2026-01-28|46159130|309367ff5793"
+   "possible_duplicate_label": null
   },
   {
    "id": "m-daytonabeach|2026-10-21|aa77a5d7|a8db5776ff89",
@@ -8707,7 +8243,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-10-07 (same amount, similar text 0.60): m-daytonabeach|2026-10-07|b6904b94|ed57b57ff174"
+   "possible_duplicate_label": "2026-10-07 (same amount, similar text 0.60)"
   },
   {
    "id": "c-seminole|matter|2026-0095",
@@ -8743,7 +8279,7 @@
      "reason": "same amount, similar text 0.86"
     }
    ],
-   "possible_duplicate_label": "2026-11-10 (same amount, similar text 0.86): c-seminole|matter|2026-0914"
+   "possible_duplicate_label": "2026-11-10 (same amount, similar text 0.86)"
   },
   {
    "id": "m-sunrise|nodate|e789da4c|9098e7489365",
@@ -8861,7 +8397,7 @@
      "reason": "similar text 0.62"
     }
    ],
-   "possible_duplicate_label": "2026-07-14 (same amount, similar text 0.86): m-tallahassee|2026-07-14|2ae39896|f1b3f3d57395; 2026-01-28 (similar text 0.66): m-tallahassee|2026-01-28|46159130|3fa37b825925"
+   "possible_duplicate_label": "2026-07-14 (same amount, similar text 0.86); 2026-01-28 (similar text 0.66)"
   },
   {
    "id": "m-tallahassee|2026-08-27|99b4494c|fbb0f87ebdd0",
@@ -8907,7 +8443,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-07-14 (same amount): m-tallahassee|2026-07-14|2ae39896|3535d49af8cb"
+   "possible_duplicate_label": "2026-07-14 (same amount)"
   },
   {
    "id": "m-daytonabeach|2026-11-04|793b7038|d22df13adbfd",
@@ -9027,23 +8563,7 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 126944717,
    "pct_of_paying_fund": 0.039,
-   "possible_duplicates": [
-    {
-     "id": "m-boyntonbeach|nodate|7414bdab|e0b5804c4f5c",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-boyntonbeach|nodate|b52df607|3f6eb9a64d5e",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-boyntonbeach|nodate|ee285993|912fe1da2ed5",
-     "meeting_date": null,
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -9119,24 +8639,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 377305377,
    "pct_of_paying_fund": 0.013,
-   "possible_duplicates": [
-    {
-     "id": "c-seminole|matter|2026-0203",
-     "meeting_date": "2026-03-24",
-     "reason": "same amount"
-    },
-    {
-     "id": "c-seminole|matter|2026-0249",
-     "meeting_date": "2026-03-24",
-     "reason": "same amount"
-    },
-    {
-     "id": "c-seminole|matter|2026-0457",
-     "meeting_date": "2026-06-09",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-03-24 (same amount): c-seminole|matter|2026-0203; 2026-06-09 (same amount): c-seminole|matter|2026-0457"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-daytonabeach|2026-08-05|b7884646|bab3553e1e90",
@@ -9167,22 +8671,22 @@
    "pct_of_paying_fund": 0.033,
    "possible_duplicates": [
     {
-     "id": "m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0",
-     "meeting_date": "2026-01-21",
+     "id": "m-daytonabeach|2026-09-09|e3c29b99|f996895e2df3",
+     "meeting_date": "2026-09-09",
      "reason": "same amount"
     },
     {
-     "id": "m-daytonabeach|2026-02-11|b8a9ce76|8deef44e9a36",
-     "meeting_date": "2026-02-11",
+     "id": "m-daytonabeach|2026-10-07|b6904b94|637f378b99a4",
+     "meeting_date": "2026-10-07",
      "reason": "same amount"
     },
     {
-     "id": "m-daytonabeach|2026-05-05|5fc94056|87dfdc3ae8c0",
-     "meeting_date": "2026-05-05",
+     "id": "m-daytonabeach|2026-10-07|ed7b6c41|a25519ee0c97",
+     "meeting_date": "2026-10-07",
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-01-21 (same amount): m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0; 2026-02-11 (same amount): m-daytonabeach|2026-02-11|b8a9ce76|8deef44e9a36; 2026-05-05 (same amount): m-daytonabeach|2026-05-05|5fc94056|87dfdc3ae8c0"
+   "possible_duplicate_label": "2026-09-09 (same amount); 2026-10-07 (same amount)"
   },
   {
    "id": "m-daytonabeach|2026-08-12|c47464e2|8fddff3ae6d3",
@@ -9213,22 +8717,17 @@
    "pct_of_paying_fund": 0.033,
    "possible_duplicates": [
     {
-     "id": "m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0",
-     "meeting_date": "2026-01-21",
+     "id": "m-daytonabeach|2026-09-09|e3c29b99|5a50c98517c5",
+     "meeting_date": "2026-09-09",
      "reason": "same amount"
     },
     {
-     "id": "m-daytonabeach|2026-02-11|b8a9ce76|8deef44e9a36",
-     "meeting_date": "2026-02-11",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-daytonabeach|2026-05-05|5fc94056|87dfdc3ae8c0",
-     "meeting_date": "2026-05-05",
+     "id": "m-daytonabeach|2026-09-16|4ab0d325|ce0c5822838b",
+     "meeting_date": "2026-09-16",
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-01-21 (same amount): m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0; 2026-02-11 (same amount): m-daytonabeach|2026-02-11|b8a9ce76|8deef44e9a36; 2026-05-05 (same amount): m-daytonabeach|2026-05-05|5fc94056|87dfdc3ae8c0"
+   "possible_duplicate_label": "2026-09-09 (same amount); 2026-09-16 (same amount)"
   },
   {
    "id": "m-daytonabeach|2026-08-19|3470f774|89239b691fb9",
@@ -9275,7 +8774,7 @@
      "reason": "same amount, similar text 0.61"
     }
    ],
-   "possible_duplicate_label": "2026-09-09 (same amount, similar text 0.94): m-daytonabeach|2026-09-09|e3c29b99|a8017ad20d67; 2026-09-23 (same amount, similar text 0.63): m-daytonabeach|2026-09-23|c8fc0dd3|6e08dd61372f; 2026-11-04 (same amount, similar text 0.61): m-daytonabeach|2026-11-04|793b7038|bbdd64aebbe3"
+   "possible_duplicate_label": "2026-09-09 (same amount, similar text 0.94); 2026-09-23 (same amount, similar text 0.63); 2026-11-04 (same amount, similar text 0.61)"
   },
   {
    "id": "m-daytonabeach|2026-09-09|e3c29b99|f996895e2df3",
@@ -9306,22 +8805,22 @@
    "pct_of_paying_fund": 0.033,
    "possible_duplicates": [
     {
-     "id": "m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0",
-     "meeting_date": "2026-01-21",
+     "id": "m-daytonabeach|2026-08-05|b7884646|bab3553e1e90",
+     "meeting_date": "2026-08-05",
      "reason": "same amount"
     },
     {
-     "id": "m-daytonabeach|2026-02-11|b8a9ce76|8deef44e9a36",
-     "meeting_date": "2026-02-11",
+     "id": "m-daytonabeach|2026-10-07|b6904b94|637f378b99a4",
+     "meeting_date": "2026-10-07",
      "reason": "same amount"
     },
     {
-     "id": "m-daytonabeach|2026-05-05|5fc94056|87dfdc3ae8c0",
-     "meeting_date": "2026-05-05",
+     "id": "m-daytonabeach|2026-10-21|aa77a5d7|d0166dcc0e63",
+     "meeting_date": "2026-10-21",
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-01-21 (same amount): m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0; 2026-02-11 (same amount): m-daytonabeach|2026-02-11|b8a9ce76|8deef44e9a36; 2026-05-05 (same amount): m-daytonabeach|2026-05-05|5fc94056|87dfdc3ae8c0"
+   "possible_duplicate_label": "2026-08-05 (same amount); 2026-10-07 (same amount); 2026-10-21 (same amount)"
   },
   {
    "id": "m-daytonabeach|2026-09-16|4ab0d325|9eee2cd23336",
@@ -9350,24 +8849,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 149810473,
    "pct_of_paying_fund": 0.033,
-   "possible_duplicates": [
-    {
-     "id": "m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0",
-     "meeting_date": "2026-01-21",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-daytonabeach|2026-02-11|b8a9ce76|8deef44e9a36",
-     "meeting_date": "2026-02-11",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-daytonabeach|2026-05-05|5fc94056|87dfdc3ae8c0",
-     "meeting_date": "2026-05-05",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-01-21 (same amount): m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0; 2026-02-11 (same amount): m-daytonabeach|2026-02-11|b8a9ce76|8deef44e9a36; 2026-05-05 (same amount): m-daytonabeach|2026-05-05|5fc94056|87dfdc3ae8c0"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-daytonabeach|2026-09-16|4ab0d325|ce0c5822838b",
@@ -9398,22 +8881,12 @@
    "pct_of_paying_fund": 0.033,
    "possible_duplicates": [
     {
-     "id": "m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0",
-     "meeting_date": "2026-01-21",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-daytonabeach|2026-02-11|b8a9ce76|8deef44e9a36",
-     "meeting_date": "2026-02-11",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-daytonabeach|2026-05-05|5fc94056|87dfdc3ae8c0",
-     "meeting_date": "2026-05-05",
+     "id": "m-daytonabeach|2026-08-12|c47464e2|8fddff3ae6d3",
+     "meeting_date": "2026-08-12",
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-01-21 (same amount): m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0; 2026-02-11 (same amount): m-daytonabeach|2026-02-11|b8a9ce76|8deef44e9a36; 2026-05-05 (same amount): m-daytonabeach|2026-05-05|5fc94056|87dfdc3ae8c0"
+   "possible_duplicate_label": "2026-08-12 (same amount)"
   },
   {
    "id": "m-daytonabeach|2026-10-07|b6904b94|557343ba39a3",
@@ -9447,19 +8920,9 @@
      "id": "m-daytonabeach|2026-10-07|ed7b6c41|557343ba39a3",
      "meeting_date": "2026-10-07",
      "reason": "same amount, similar text 0.96"
-    },
-    {
-     "id": "m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0",
-     "meeting_date": "2026-01-21",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-daytonabeach|2026-02-11|b8a9ce76|8deef44e9a36",
-     "meeting_date": "2026-02-11",
-     "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-01-21 (same amount): m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0; 2026-02-11 (same amount): m-daytonabeach|2026-02-11|b8a9ce76|8deef44e9a36"
+   "possible_duplicate_label": null
   },
   {
    "id": "m-daytonabeach|2026-10-07|b6904b94|637f378b99a4",
@@ -9495,17 +8958,17 @@
      "reason": "same amount, similar text 0.87"
     },
     {
-     "id": "m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0",
-     "meeting_date": "2026-01-21",
+     "id": "m-daytonabeach|2026-08-05|b7884646|bab3553e1e90",
+     "meeting_date": "2026-08-05",
      "reason": "same amount"
     },
     {
-     "id": "m-daytonabeach|2026-02-11|b8a9ce76|8deef44e9a36",
-     "meeting_date": "2026-02-11",
+     "id": "m-daytonabeach|2026-09-09|e3c29b99|f996895e2df3",
+     "meeting_date": "2026-09-09",
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-01-21 (same amount): m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0; 2026-02-11 (same amount): m-daytonabeach|2026-02-11|b8a9ce76|8deef44e9a36"
+   "possible_duplicate_label": "2026-08-05 (same amount); 2026-09-09 (same amount)"
   },
   {
    "id": "m-daytonabeach|2026-10-07|ed7b6c41|a25519ee0c97",
@@ -9541,17 +9004,12 @@
      "reason": "same amount, similar text 0.87"
     },
     {
-     "id": "m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0",
-     "meeting_date": "2026-01-21",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-daytonabeach|2026-02-11|b8a9ce76|8deef44e9a36",
-     "meeting_date": "2026-02-11",
+     "id": "m-daytonabeach|2026-08-05|b7884646|bab3553e1e90",
+     "meeting_date": "2026-08-05",
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-01-21 (same amount): m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0; 2026-02-11 (same amount): m-daytonabeach|2026-02-11|b8a9ce76|8deef44e9a36"
+   "possible_duplicate_label": "2026-08-05 (same amount)"
   },
   {
    "id": "m-daytonabeach|2026-10-21|aa77a5d7|d0166dcc0e63",
@@ -9582,22 +9040,12 @@
    "pct_of_paying_fund": 0.033,
    "possible_duplicates": [
     {
-     "id": "m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0",
-     "meeting_date": "2026-01-21",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-daytonabeach|2026-02-11|b8a9ce76|8deef44e9a36",
-     "meeting_date": "2026-02-11",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-daytonabeach|2026-05-05|5fc94056|87dfdc3ae8c0",
-     "meeting_date": "2026-05-05",
+     "id": "m-daytonabeach|2026-09-09|e3c29b99|f996895e2df3",
+     "meeting_date": "2026-09-09",
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-01-21 (same amount): m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0; 2026-02-11 (same amount): m-daytonabeach|2026-02-11|b8a9ce76|8deef44e9a36; 2026-05-05 (same amount): m-daytonabeach|2026-05-05|5fc94056|87dfdc3ae8c0"
+   "possible_duplicate_label": "2026-09-09 (same amount)"
   },
   {
    "id": "m-daytonabeach|2026-11-04|793b7038|80a0029f799d",
@@ -9628,22 +9076,12 @@
    "pct_of_paying_fund": 0.033,
    "possible_duplicates": [
     {
-     "id": "m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0",
-     "meeting_date": "2026-01-21",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-daytonabeach|2026-02-11|b8a9ce76|8deef44e9a36",
-     "meeting_date": "2026-02-11",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-daytonabeach|2026-05-05|5fc94056|87dfdc3ae8c0",
-     "meeting_date": "2026-05-05",
+     "id": "m-daytonabeach|2026-08-05|b7884646|bab3553e1e90",
+     "meeting_date": "2026-08-05",
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-01-21 (same amount): m-daytonabeach|2026-01-21|ef5d8f9f|ec26ed3322f0; 2026-02-11 (same amount): m-daytonabeach|2026-02-11|b8a9ce76|8deef44e9a36; 2026-05-05 (same amount): m-daytonabeach|2026-05-05|5fc94056|87dfdc3ae8c0"
+   "possible_duplicate_label": "2026-08-05 (same amount)"
   },
   {
    "id": "m-daytonabeach|2026-08-05|b7884646|58ddb61d83e8",
@@ -9684,7 +9122,7 @@
      "reason": "similar text 0.66"
     }
    ],
-   "possible_duplicate_label": "2026-08-19 (similar text 0.64): m-daytonabeach|2026-08-19|3470f774|89239b691fb9; 2026-09-09 (similar text 0.66): m-daytonabeach|2026-09-09|e3c29b99|a8017ad20d67"
+   "possible_duplicate_label": "2026-08-19 (similar text 0.64); 2026-09-09 (similar text 0.66)"
   },
   {
    "id": "m-daytonabeach|2026-09-16|4ab0d325|e3549d787823",
@@ -9952,13 +9390,7 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 2087838582,
    "pct_of_paying_fund": 0.359,
-   "possible_duplicates": [
-    {
-     "id": "c-palmbeach|2026-11-10|5b6bfac3|ca2e26b3af83",
-     "meeting_date": "2026-11-10",
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -9995,7 +9427,7 @@
      "reason": "similar text 0.66"
     }
    ],
-   "possible_duplicate_label": "2024-12-10 (similar text 0.66): c-broward|matter|24-1612"
+   "possible_duplicate_label": "2024-12-10 (similar text 0.66)"
   },
   {
    "id": "c-orange|matter|26-1281",
@@ -10062,7 +9494,7 @@
      "reason": "same amount, similar text 0.74"
     }
    ],
-   "possible_duplicate_label": "2026-11-17 (same amount, similar text 0.74): c-lee|2026-11-17|35f106d9|e43523c46a9c"
+   "possible_duplicate_label": "2026-11-17 (same amount, similar text 0.74)"
   },
   {
    "id": "c-broward|matter|24-1117",
@@ -10108,7 +9540,7 @@
      "reason": "similar text 0.65"
     }
    ],
-   "possible_duplicate_label": "2024-08-22 (similar text 0.84): c-broward|matter|24-1059; 2024-09-17 (similar text 0.71): c-broward|matter|24-1298; 2025-09-04 (similar text 0.65): c-broward|matter|25-1038"
+   "possible_duplicate_label": "2024-08-22 (similar text 0.84); 2024-09-17 (similar text 0.71); 2025-09-04 (similar text 0.65)"
   },
   {
    "id": "m-miamibeach|2026-09-10|d19ba976|e04d7ebd09f5",
@@ -10307,7 +9739,7 @@
      "reason": "similar text 0.69"
     }
    ],
-   "possible_duplicate_label": "2024-07-23 (similar text 0.69): m-northport|matter|24-0815"
+   "possible_duplicate_label": "2024-07-23 (similar text 0.69)"
   },
   {
    "id": "c-broward|matter|24-1059",
@@ -10353,7 +9785,7 @@
      "reason": "similar text 0.76"
     }
    ],
-   "possible_duplicate_label": "2024-09-05 (similar text 0.84): c-broward|matter|24-1117; 2024-09-17 (similar text 0.61): c-broward|matter|24-1206"
+   "possible_duplicate_label": "2024-09-05 (similar text 0.84); 2024-09-17 (similar text 0.61)"
   },
   {
    "id": "m-clearwater|matter|ID#24-0673",
@@ -10383,14 +9815,8 @@
    "paying_fund": "special_revenue",
    "paying_fund_expenditures": 45147851,
    "pct_of_paying_fund": 6.645,
-   "possible_duplicates": [
-    {
-     "id": "m-clearwater|matter|ID#24-1467",
-     "meeting_date": "2024-12-19",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2024-12-19 (same amount): m-clearwater|matter|ID#24-1467"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-escambia|2026-11-05|11a10970|1162843d08de",
@@ -10450,23 +9876,7 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 178534093,
    "pct_of_paying_fund": 1.4,
-   "possible_duplicates": [
-    {
-     "id": "m-sunrise|nodate|61df71fd|e367dd643076",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-sunrise|nodate|7840f44a|2e764d7bdfa4",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-sunrise|nodate|7840f44a|adb8674ff6a0",
-     "meeting_date": null,
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -10749,14 +10159,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 1932826044,
    "pct_of_paying_fund": 1.035,
-   "possible_duplicates": [
-    {
-     "id": "c-broward|matter|25-338",
-     "meeting_date": "2025-04-22",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2025-04-22 (same amount): c-broward|matter|25-338"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-miamigardens|2026-10-14|f4178b68|18c3e66cac14",
@@ -10927,14 +10331,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 476645235,
    "pct_of_paying_fund": 0.315,
-   "possible_duplicates": [
-    {
-     "id": "m-fortlauderdale|matter|24-0645",
-     "meeting_date": "2024-10-01",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2024-10-01 (same amount): m-fortlauderdale|matter|24-0645"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-broward|matter|24-1298",
@@ -10980,7 +10378,7 @@
      "reason": "similar text 0.63"
     }
    ],
-   "possible_duplicate_label": "2024-08-22 (similar text 0.76): c-broward|matter|24-1059; 2024-09-05 (similar text 0.71): c-broward|matter|24-1117"
+   "possible_duplicate_label": "2024-08-22 (similar text 0.76); 2024-09-05 (similar text 0.71)"
   },
   {
    "id": "c-orange|matter|25-463",
@@ -11016,7 +10414,7 @@
      "reason": "similar text 0.63"
     }
    ],
-   "possible_duplicate_label": "2024-10-29 (similar text 0.63): c-orange|matter|24-1564"
+   "possible_duplicate_label": "2024-10-29 (similar text 0.63)"
   },
   {
    "id": "c-orange|matter|25-1401",
@@ -11057,7 +10455,7 @@
      "reason": "similar text 0.80"
     }
    ],
-   "possible_duplicate_label": "2024-10-29 (similar text 0.83): c-orange|matter|24-1564; 2026-10-27 (similar text 0.80): c-orange|matter|26-1282"
+   "possible_duplicate_label": "2024-10-29 (similar text 0.83); 2026-10-27 (similar text 0.80)"
   },
   {
    "id": "m-pembrokepines|matter|26-2867",
@@ -11120,22 +10518,12 @@
    "pct_of_paying_fund": 0.031,
    "possible_duplicates": [
     {
-     "id": "m-fortlauderdale|matter|26-0159",
-     "meeting_date": "2026-02-03",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|26-0065",
-     "meeting_date": "2026-02-17",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|26-0379",
-     "meeting_date": "2026-05-05",
+     "id": "m-fortlauderdale|matter|26-0690",
+     "meeting_date": "2026-09-15",
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-02-03 (same amount): m-fortlauderdale|matter|26-0159; 2026-02-17 (same amount): m-fortlauderdale|matter|26-0065; 2026-05-05 (same amount): m-fortlauderdale|matter|26-0379"
+   "possible_duplicate_label": null
   },
   {
    "id": "c-lee|2026-10-06|af47127f|aea704f10e3b",
@@ -11171,7 +10559,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-11-17 (same amount): c-lee|2026-11-17|35f106d9|d313a5d93b45"
+   "possible_duplicate_label": "2026-11-17 (same amount)"
   },
   {
    "id": "c-orange|matter|26-1282",
@@ -11207,7 +10595,7 @@
      "reason": "similar text 0.80"
     }
    ],
-   "possible_duplicate_label": "2025-10-28 (similar text 0.80): c-orange|matter|25-1401"
+   "possible_duplicate_label": "2025-10-28 (similar text 0.80)"
   },
   {
    "id": "m-coralsprings|nodate|14f45ebb|b2a4b3b14a1b",
@@ -11283,7 +10671,7 @@
      "reason": "similar text 0.97"
     }
    ],
-   "possible_duplicate_label": "2024-07-23 (similar text 0.97): m-northport|matter|24-0815"
+   "possible_duplicate_label": "2024-07-23 (similar text 0.97)"
   },
   {
    "id": "c-broward|matter|24-723",
@@ -11319,7 +10707,7 @@
      "reason": "similar text 0.68"
     }
    ],
-   "possible_duplicate_label": "2025-06-10 (similar text 0.68): c-broward|matter|25-658"
+   "possible_duplicate_label": "2025-06-10 (similar text 0.68)"
   },
   {
    "id": "m-fortlauderdale|matter|24-0906",
@@ -11395,7 +10783,7 @@
      "reason": "similar text 0.83"
     }
    ],
-   "possible_duplicate_label": "2024-04-09 (similar text 0.61): c-orange|matter|24-530; 2025-03-25 (similar text 0.63): c-orange|matter|25-463; 2025-10-28 (similar text 0.83): c-orange|matter|25-1401"
+   "possible_duplicate_label": "2024-04-09 (similar text 0.61); 2025-03-25 (similar text 0.63); 2025-10-28 (similar text 0.83)"
   },
   {
    "id": "m-northport|matter|ORD. NO. 2025-09",
@@ -11436,7 +10824,7 @@
      "reason": "similar text 0.67"
     }
    ],
-   "possible_duplicate_label": "2024-11-26 (similar text 0.63): m-northport|matter|ORD. NO. 2024-45; 2025-07-22 (similar text 0.67): m-northport|matter|ORD. NO. 2025-17"
+   "possible_duplicate_label": "2024-11-26 (similar text 0.63); 2025-07-22 (similar text 0.67)"
   },
   {
    "id": "c-lee|2026-09-01|dba45e78|606230ec6540",
@@ -11814,7 +11202,7 @@
      "reason": "similar text 0.62"
     }
    ],
-   "possible_duplicate_label": "2024-04-23 (similar text 0.97): m-northport|matter|24-0506"
+   "possible_duplicate_label": "2024-04-23 (similar text 0.97)"
   },
   {
    "id": "c-polk|matter|25-0197",
@@ -11921,7 +11309,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-08-04 (same amount, similar text 1.00): m-largo|2026-08-04|88529bd0|7ef5918557a0"
+   "possible_duplicate_label": "2026-08-04 (same amount, similar text 1.00)"
   },
   {
    "id": "m-kissimmee|2026-09-22|c728e79b|c061a0c1b5be",
@@ -11981,23 +11369,7 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 111890517,
    "pct_of_paying_fund": 0.089,
-   "possible_duplicates": [
-    {
-     "id": "m-kissimmee|2026-10-06|bfed15d8|41962ef99bb3",
-     "meeting_date": "2026-10-06",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-kissimmee|2026-10-06|bfed15d8|4cd871299194",
-     "meeting_date": "2026-10-06",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-kissimmee|2026-10-06|bfed15d8|e508d71e937e",
-     "meeting_date": "2026-10-06",
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -12029,16 +11401,6 @@
    "paying_fund_expenditures": 111890517,
    "pct_of_paying_fund": 0.089,
    "possible_duplicates": [
-    {
-     "id": "m-kissimmee|2026-10-06|bfed15d8|41962ef99bb3",
-     "meeting_date": "2026-10-06",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-kissimmee|2026-10-06|bfed15d8|4cd871299194",
-     "meeting_date": "2026-10-06",
-     "reason": "same amount"
-    },
     {
      "id": "m-kissimmee|2026-10-06|bfed15d8|905215f7bae4",
      "meeting_date": "2026-10-06",
@@ -12081,7 +11443,7 @@
      "reason": "similar text 0.69"
     }
    ],
-   "possible_duplicate_label": "2024-12-04 (similar text 0.69): m-hollywood|matter|R-2024-402"
+   "possible_duplicate_label": "2024-12-04 (similar text 0.69)"
   },
   {
    "id": "c-orange|matter|26-1098",
@@ -12183,7 +11545,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-11-18 (same amount, similar text 0.64): m-daytonabeach|2026-11-18|a58bd2b2|19b966e72bb3"
+   "possible_duplicate_label": "2026-11-18 (same amount, similar text 0.64)"
   },
   {
    "id": "m-daytonabeach|2026-10-07|ed7b6c41|e68e773ee847",
@@ -12225,7 +11587,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-11-18 (same amount): m-daytonabeach|2026-11-18|a58bd2b2|19b966e72bb3"
+   "possible_duplicate_label": "2026-11-18 (same amount)"
   },
   {
    "id": "c-escambia|2026-11-09|2b77fe64|064bb73ab04d",
@@ -12307,7 +11669,7 @@
      "reason": "similar text 0.62"
     }
    ],
-   "possible_duplicate_label": "2024-07-23 (similar text 0.62): m-northport|matter|24-0815"
+   "possible_duplicate_label": "2024-07-23 (similar text 0.62)"
   },
   {
    "id": "m-northport|matter|24-0604",
@@ -12373,7 +11735,7 @@
      "reason": "similar text 0.83"
     }
    ],
-   "possible_duplicate_label": "2025-08-26 (similar text 0.83): c-orange|matter|25-1130"
+   "possible_duplicate_label": "2025-08-26 (similar text 0.83)"
   },
   {
    "id": "m-fortlauderdale|matter|25-0677",
@@ -12439,7 +11801,7 @@
      "reason": "similar text 0.67"
     }
    ],
-   "possible_duplicate_label": "2025-02-25 (similar text 0.67): m-northport|matter|ORD. NO. 2025-09"
+   "possible_duplicate_label": "2025-02-25 (similar text 0.67)"
   },
   {
    "id": "c-broward|matter|25-1038",
@@ -12485,7 +11847,7 @@
      "reason": "similar text 0.79"
     }
    ],
-   "possible_duplicate_label": "2024-08-22 (similar text 0.69): c-broward|matter|24-1059; 2024-09-05 (similar text 0.65): c-broward|matter|24-1117; 2024-09-17 (similar text 0.79): c-broward|matter|24-1298"
+   "possible_duplicate_label": "2024-08-22 (similar text 0.69); 2024-09-05 (similar text 0.65); 2024-09-17 (similar text 0.79)"
   },
   {
    "id": "m-sunrise|nodate|0d48ebe2|09aac71ebf89",
@@ -12517,16 +11879,6 @@
    "possible_duplicates": [
     {
      "id": "m-sunrise|nodate|0d48ebe2|3c4ebd3f11e1",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-sunrise|nodate|25952578|7f70d2217610",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-sunrise|nodate|cf733105|1cee79b692e9",
      "meeting_date": null,
      "reason": "same amount"
     }
@@ -12561,23 +11913,7 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 178534093,
    "pct_of_paying_fund": 0.028,
-   "possible_duplicates": [
-    {
-     "id": "m-sunrise|nodate|05deec70|4f3187342380",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-sunrise|nodate|05deec70|d5099817d514",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-sunrise|nodate|0d48ebe2|a93e100af66a",
-     "meeting_date": null,
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -12703,7 +12039,7 @@
      "reason": "similar text 0.65"
     }
    ],
-   "possible_duplicate_label": "2024-01-09 (similar text 0.63): c-hillsborough|matter|2024-0011"
+   "possible_duplicate_label": "2024-01-09 (similar text 0.63)"
   },
   {
    "id": "c-hillsborough|matter|2024-0046",
@@ -12750,7 +12086,7 @@
      "reason": "similar text 0.67"
     }
    ],
-   "possible_duplicate_label": "2024-01-09 (similar text 0.64): c-hillsborough|matter|2024-0011"
+   "possible_duplicate_label": "2024-01-09 (similar text 0.64)"
   },
   {
    "id": "c-orange|matter|24-1140",
@@ -12787,7 +12123,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2024-06-18 (same amount): c-orange|matter|24-906"
+   "possible_duplicate_label": "2024-06-18 (same amount)"
   },
   {
    "id": "c-polk|matter|25-1310",
@@ -12863,7 +12199,7 @@
      "reason": "similar text 0.71"
     }
    ],
-   "possible_duplicate_label": "2024-09-17 (similar text 0.66): c-broward|matter|24-1206"
+   "possible_duplicate_label": "2024-09-17 (similar text 0.66)"
   },
   {
    "id": "c-broward|matter|25-961",
@@ -12983,24 +12319,8 @@
    "paying_fund": "special_revenue",
    "paying_fund_expenditures": 1673577471,
    "pct_of_paying_fund": 0.03,
-   "possible_duplicates": [
-    {
-     "id": "c-broward|matter|25-1604",
-     "meeting_date": "2026-03-03",
-     "reason": "same amount"
-    },
-    {
-     "id": "c-broward|matter|26-215",
-     "meeting_date": "2026-04-14",
-     "reason": "same amount"
-    },
-    {
-     "id": "c-broward|matter|26-829",
-     "meeting_date": "2026-08-20",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-03-03 (same amount): c-broward|matter|25-1604; 2026-04-14 (same amount): c-broward|matter|26-215; 2026-08-20 (same amount): c-broward|matter|26-829"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-northport|matter|RES. NO. 2026-R-43",
@@ -13067,7 +12387,7 @@
      "reason": "similar text 0.60"
     }
    ],
-   "possible_duplicate_label": "2026-01-21 (similar text 0.60): m-hollywood|matter|R-2026-019"
+   "possible_duplicate_label": "2026-01-21 (similar text 0.60)"
   },
   {
    "id": "c-lee|2026-09-01|dba45e78|b71d7a5708ac",
@@ -13211,7 +12531,7 @@
      "reason": "similar text 0.70"
     }
    ],
-   "possible_duplicate_label": "2024-01-09 (similar text 0.66): c-hillsborough|matter|2024-0011"
+   "possible_duplicate_label": "2024-01-09 (similar text 0.66)"
   },
   {
    "id": "c-broward|matter|24-470",
@@ -13242,17 +12562,12 @@
    "pct_of_paying_fund": 0.207,
    "possible_duplicates": [
     {
-     "id": "c-broward|matter|23-2521",
-     "meeting_date": "2024-01-23",
-     "reason": "same amount"
-    },
-    {
      "id": "c-broward|matter|25-646",
      "meeting_date": "2025-05-20",
      "reason": "similar text 0.61"
     }
    ],
-   "possible_duplicate_label": "2024-01-23 (same amount): c-broward|matter|23-2521; 2025-05-20 (similar text 0.61): c-broward|matter|25-646"
+   "possible_duplicate_label": "2025-05-20 (similar text 0.61)"
   },
   {
    "id": "c-hillsborough|matter|2024-0042",
@@ -13299,7 +12614,7 @@
      "reason": "similar text 0.68"
     }
    ],
-   "possible_duplicate_label": "2024-01-09 (similar text 0.61): c-hillsborough|matter|2024-0011"
+   "possible_duplicate_label": "2024-01-09 (similar text 0.61)"
   },
   {
    "id": "c-hillsborough|matter|2024-0056",
@@ -13346,7 +12661,7 @@
      "reason": "similar text 0.66"
     }
    ],
-   "possible_duplicate_label": "2024-01-09 (similar text 0.69): c-hillsborough|matter|2024-0011"
+   "possible_duplicate_label": "2024-01-09 (similar text 0.69)"
   },
   {
    "id": "c-broward|matter|24-1206",
@@ -13392,7 +12707,7 @@
      "reason": "similar text 0.66"
     }
    ],
-   "possible_duplicate_label": "2024-08-22 (similar text 0.61): c-broward|matter|24-1059; 2025-09-04 (similar text 0.66): c-broward|matter|25-1039"
+   "possible_duplicate_label": "2024-08-22 (similar text 0.61); 2025-09-04 (similar text 0.66)"
   },
   {
    "id": "c-hillsborough|matter|2025-0002",
@@ -13439,7 +12754,7 @@
      "reason": "similar text 0.62"
     }
    ],
-   "possible_duplicate_label": "2024-01-09 (similar text 0.67): c-hillsborough|matter|2024-0011"
+   "possible_duplicate_label": "2024-01-09 (similar text 0.67)"
   },
   {
    "id": "c-hillsborough|matter|2025-0030",
@@ -13486,7 +12801,7 @@
      "reason": "similar text 0.71"
     }
    ],
-   "possible_duplicate_label": "2024-03-19 (similar text 0.62): c-hillsborough|matter|PI 5976; 2024-04-09 (similar text 0.67): c-hillsborough|matter|2024-0038"
+   "possible_duplicate_label": "2024-03-19 (similar text 0.62); 2024-04-09 (similar text 0.67)"
   },
   {
    "id": "m-fortlauderdale|matter|26-0058",
@@ -13605,13 +12920,7 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 299490946,
    "pct_of_paying_fund": 1.402,
-   "possible_duplicates": [
-    {
-     "id": "c-escambia|2026-09-10|ef7672e9|a8b58e605f13",
-     "meeting_date": "2026-09-10",
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -13751,7 +13060,7 @@
      "reason": "similar text 0.67"
     }
    ],
-   "possible_duplicate_label": "2024-01-09 (similar text 0.65): c-hillsborough|matter|2024-0011"
+   "possible_duplicate_label": "2024-01-09 (similar text 0.65)"
   },
   {
    "id": "c-hillsborough|matter|2024-0086",
@@ -13798,7 +13107,7 @@
      "reason": "similar text 0.68"
     }
    ],
-   "possible_duplicate_label": "2024-01-09 (similar text 0.65): c-hillsborough|matter|2024-0011"
+   "possible_duplicate_label": "2024-01-09 (similar text 0.65)"
   },
   {
    "id": "m-fortlauderdale|matter|25-0461",
@@ -13827,24 +13136,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 476645235,
    "pct_of_paying_fund": 0.629,
-   "possible_duplicates": [
-    {
-     "id": "m-fortlauderdale|matter|25-1046",
-     "meeting_date": "2025-11-18",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|26-0227",
-     "meeting_date": "2026-03-03",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|26-0405",
-     "meeting_date": "2026-05-05",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2025-11-18 (same amount): m-fortlauderdale|matter|25-1046; 2026-03-03 (same amount): m-fortlauderdale|matter|26-0227; 2026-05-05 (same amount): m-fortlauderdale|matter|26-0405"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-fortlauderdale|matter|26-0227",
@@ -13873,24 +13166,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 476645235,
    "pct_of_paying_fund": 0.629,
-   "possible_duplicates": [
-    {
-     "id": "m-fortlauderdale|matter|25-0461",
-     "meeting_date": "2025-05-06",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|25-1046",
-     "meeting_date": "2025-11-18",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|26-0405",
-     "meeting_date": "2026-05-05",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2025-05-06 (same amount): m-fortlauderdale|matter|25-0461; 2025-11-18 (same amount): m-fortlauderdale|matter|25-1046; 2026-05-05 (same amount): m-fortlauderdale|matter|26-0405"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-broward|matter|26-287",
@@ -13924,14 +13201,9 @@
      "id": "c-broward|matter|26-288",
      "meeting_date": "2026-04-14",
      "reason": "similar text 0.88"
-    },
-    {
-     "id": "c-broward|matter|26-1432",
-     "meeting_date": "2026-11-10",
-     "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-11-10 (same amount): c-broward|matter|26-1432"
+   "possible_duplicate_label": null
   },
   {
    "id": "m-fortlauderdale|matter|26-0405",
@@ -13960,24 +13232,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 476645235,
    "pct_of_paying_fund": 0.629,
-   "possible_duplicates": [
-    {
-     "id": "m-fortlauderdale|matter|25-0461",
-     "meeting_date": "2025-05-06",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|25-1046",
-     "meeting_date": "2025-11-18",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|26-0227",
-     "meeting_date": "2026-03-03",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2025-05-06 (same amount): m-fortlauderdale|matter|25-0461; 2025-11-18 (same amount): m-fortlauderdale|matter|25-1046; 2026-03-03 (same amount): m-fortlauderdale|matter|26-0227"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-northport|matter|26-0339",
@@ -14006,19 +13262,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 78023595,
    "pct_of_paying_fund": 3.845,
-   "possible_duplicates": [
-    {
-     "id": "m-northport|matter|26-0659",
-     "meeting_date": "2026-07-07",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-northport|matter|26-0864",
-     "meeting_date": "2026-07-07",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-07-07 (same amount): m-northport|matter|26-0659"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-clearwater|matter|ID#26-0790",
@@ -14233,17 +13478,12 @@
    "pct_of_paying_fund": 0.155,
    "possible_duplicates": [
     {
-     "id": "c-broward|matter|26-287",
-     "meeting_date": "2026-04-14",
-     "reason": "same amount"
-    },
-    {
      "id": "c-broward|matter|26-1434",
      "meeting_date": "2026-11-10",
      "reason": "similar text 0.75"
     }
    ],
-   "possible_duplicate_label": "2026-04-14 (same amount): c-broward|matter|26-287"
+   "possible_duplicate_label": null
   },
   {
    "id": "c-palmbeach|2026-11-10|5b6bfac3|9743110defd3",
@@ -14302,18 +13542,7 @@
    "paying_fund": "special_revenue",
    "paying_fund_expenditures": 14647667,
    "pct_of_paying_fund": 15.361,
-   "possible_duplicates": [
-    {
-     "id": "m-sunrise|nodate|61df71fd|34235c701de2",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-sunrise|nodate|61df71fd|85f58c0e7472",
-     "meeting_date": null,
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -14343,18 +13572,7 @@
    "paying_fund": "special_revenue",
    "paying_fund_expenditures": 14647667,
    "pct_of_paying_fund": 15.361,
-   "possible_duplicates": [
-    {
-     "id": "m-sunrise|nodate|61df71fd|34235c701de2",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-sunrise|nodate|61df71fd|680d417dc248",
-     "meeting_date": null,
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -14384,23 +13602,7 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 178534093,
    "pct_of_paying_fund": 1.4,
-   "possible_duplicates": [
-    {
-     "id": "m-sunrise|nodate|61df71fd|649014982234",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-sunrise|nodate|7840f44a|2e764d7bdfa4",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-sunrise|nodate|7840f44a|adb8674ff6a0",
-     "meeting_date": null,
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -14472,7 +13674,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-05-05 (same amount): m-northport|matter|26-0536"
+   "possible_duplicate_label": "2026-05-05 (same amount)"
   },
   {
    "id": "c-orange|matter|26-0548",
@@ -14670,7 +13872,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-06-11 (same amount, similar text 0.66): m-tallahassee|2026-06-11|5a63e7d2|5dfdf4607d26"
+   "possible_duplicate_label": "2026-06-11 (same amount, similar text 0.66)"
   },
   {
    "id": "m-kissimmee|2026-11-03|98a47d57|33b03481834a",
@@ -14712,7 +13914,7 @@
      "reason": "same amount, similar text 0.80"
     }
    ],
-   "possible_duplicate_label": "2026-11-17 (same amount, similar text 0.80): m-kissimmee|2026-11-17|7664079f|0c4fc1a82f0d"
+   "possible_duplicate_label": "2026-11-17 (same amount, similar text 0.80)"
   },
   {
    "id": "m-boyntonbeach|nodate|61bcdd68|ea098c3b5b16",
@@ -14825,7 +14027,7 @@
      "reason": "similar text 0.65"
     }
    ],
-   "possible_duplicate_label": "2024-01-09 (similar text 0.77): c-hillsborough|matter|2024-0011"
+   "possible_duplicate_label": "2024-01-09 (similar text 0.77)"
   },
   {
    "id": "c-hillsborough|matter|2024-0048",
@@ -14872,7 +14074,7 @@
      "reason": "similar text 0.68"
     }
    ],
-   "possible_duplicate_label": "2024-01-09 (similar text 0.66): c-hillsborough|matter|2024-0011"
+   "possible_duplicate_label": "2024-01-09 (similar text 0.66)"
   },
   {
    "id": "c-hillsborough|matter|2024-0052",
@@ -14919,7 +14121,7 @@
      "reason": "similar text 0.64"
     }
    ],
-   "possible_duplicate_label": "2024-01-09 (similar text 0.62): c-hillsborough|matter|2024-0011; 2024-02-13 (similar text 0.64): c-hillsborough|matter|2024-0028"
+   "possible_duplicate_label": "2024-01-09 (similar text 0.62); 2024-02-13 (similar text 0.64)"
   },
   {
    "id": "m-hollywood|matter|R-2024-403",
@@ -15032,7 +14234,7 @@
      "reason": "similar text 0.67"
     }
    ],
-   "possible_duplicate_label": "2024-01-09 (similar text 0.71): c-hillsborough|matter|2024-0011"
+   "possible_duplicate_label": "2024-01-09 (similar text 0.71)"
   },
   {
    "id": "c-broward|matter|26-284",
@@ -15061,19 +14263,8 @@
    "paying_fund": "special_revenue",
    "paying_fund_expenditures": 1673577471,
    "pct_of_paying_fund": 0.12,
-   "possible_duplicates": [
-    {
-     "id": "c-broward|matter|25-1544",
-     "meeting_date": "2025-12-09",
-     "reason": "same amount"
-    },
-    {
-     "id": "c-broward|matter|26-384",
-     "meeting_date": "2026-04-14",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2025-12-09 (same amount): c-broward|matter|25-1544; 2026-04-14 (same amount): c-broward|matter|26-384"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-broward|matter|26-384",
@@ -15102,19 +14293,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 1932826044,
    "pct_of_paying_fund": 0.103,
-   "possible_duplicates": [
-    {
-     "id": "c-broward|matter|25-1544",
-     "meeting_date": "2025-12-09",
-     "reason": "same amount"
-    },
-    {
-     "id": "c-broward|matter|26-284",
-     "meeting_date": "2026-03-26",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2025-12-09 (same amount): c-broward|matter|25-1544; 2026-03-26 (same amount): c-broward|matter|26-284"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-fortlauderdale|matter|26-0319",
@@ -15144,24 +14324,8 @@
    "paying_fund": "special_revenue",
    "paying_fund_expenditures": 116078032,
    "pct_of_paying_fund": 0.172,
-   "possible_duplicates": [
-    {
-     "id": "m-fortlauderdale|matter|26-0241",
-     "meeting_date": "2026-04-21",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|26-0422",
-     "meeting_date": "2026-05-19",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|26-0576",
-     "meeting_date": "2026-07-02",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-04-21 (same amount): m-fortlauderdale|matter|26-0241; 2026-07-02 (same amount): m-fortlauderdale|matter|26-0576"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-lee|2026-08-18|09709973|d4a3ea02db52",
@@ -15287,7 +14451,7 @@
      "reason": "same amount, similar text 0.78"
     }
    ],
-   "possible_duplicate_label": "2026-11-17 (same amount, similar text 0.78): c-lee|2026-11-17|35f106d9|f7ad2682df42"
+   "possible_duplicate_label": "2026-11-17 (same amount, similar text 0.78)"
   },
   {
    "id": "c-lee|2026-10-20|712b9e6b|9ed6cdf71ad8",
@@ -15459,13 +14623,7 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 186505847,
    "pct_of_paying_fund": 0.804,
-   "possible_duplicates": [
-    {
-     "id": "m-coralsprings|nodate|d4f8f879|8c3bd9687d6f",
-     "meeting_date": null,
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -15590,7 +14748,7 @@
      "reason": "similar text 0.67"
     }
    ],
-   "possible_duplicate_label": "2024-01-09 (similar text 0.64): c-hillsborough|matter|2024-0011"
+   "possible_duplicate_label": "2024-01-09 (similar text 0.64)"
   },
   {
    "id": "c-hillsborough|matter|2024-0044",
@@ -15637,7 +14795,7 @@
      "reason": "similar text 0.65"
     }
    ],
-   "possible_duplicate_label": "2024-01-09 (similar text 0.63): c-hillsborough|matter|2024-0011"
+   "possible_duplicate_label": "2024-01-09 (similar text 0.63)"
   },
   {
    "id": "c-hillsborough|matter|2024-0050",
@@ -15684,7 +14842,7 @@
      "reason": "similar text 0.62"
     }
    ],
-   "possible_duplicate_label": "2024-01-09 (similar text 0.60): c-hillsborough|matter|2024-0011; 2024-02-13 (similar text 0.62): c-hillsborough|matter|2024-0028"
+   "possible_duplicate_label": "2024-01-09 (similar text 0.60); 2024-02-13 (similar text 0.62)"
   },
   {
    "id": "c-hillsborough|matter|2024-0076",
@@ -15731,7 +14889,7 @@
      "reason": "similar text 0.61"
     }
    ],
-   "possible_duplicate_label": "2024-01-09 (similar text 0.67): c-hillsborough|matter|2024-0011"
+   "possible_duplicate_label": "2024-01-09 (similar text 0.67)"
   },
   {
    "id": "c-broward|matter|24-1114",
@@ -15792,17 +14950,12 @@
    "pct_of_paying_fund": 0.467,
    "possible_duplicates": [
     {
-     "id": "m-hollywood|matter|R-2024-096",
-     "meeting_date": "2024-03-20",
-     "reason": "same amount"
-    },
-    {
      "id": "m-hollywood|matter|R-2024-128",
      "meeting_date": "2024-04-17",
      "reason": "similar text 0.69"
     }
    ],
-   "possible_duplicate_label": "2024-03-20 (same amount): m-hollywood|matter|R-2024-096; 2024-04-17 (similar text 0.69): m-hollywood|matter|R-2024-128"
+   "possible_duplicate_label": "2024-04-17 (similar text 0.69)"
   },
   {
    "id": "c-hillsborough|matter|2025-0006",
@@ -15849,7 +15002,7 @@
      "reason": "similar text 0.70"
     }
    ],
-   "possible_duplicate_label": "2024-01-09 (similar text 0.61): c-hillsborough|matter|2024-0011"
+   "possible_duplicate_label": "2024-01-09 (similar text 0.61)"
   },
   {
    "id": "m-northport|matter|26-0604",
@@ -15938,13 +15091,7 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 111890517,
    "pct_of_paying_fund": 1.341,
-   "possible_duplicates": [
-    {
-     "id": "m-kissimmee|2026-09-09|851babd5|dca7a0d33bac",
-     "meeting_date": "2026-09-09",
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -16071,24 +15218,8 @@
    "paying_fund": "special_revenue",
    "paying_fund_expenditures": 602560841,
    "pct_of_paying_fund": 0.025,
-   "possible_duplicates": [
-    {
-     "id": "c-lee|2026-03-03|15075677|386228376974",
-     "meeting_date": "2026-03-03",
-     "reason": "same amount"
-    },
-    {
-     "id": "c-lee|2026-05-05|1ca9c38b|589c6e1ed252",
-     "meeting_date": "2026-05-05",
-     "reason": "same amount"
-    },
-    {
-     "id": "c-lee|2026-09-01|dba45e78|c5a468376f6b",
-     "meeting_date": "2026-09-01",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-03-03 (same amount): c-lee|2026-03-03|15075677|386228376974; 2026-05-05 (same amount): c-lee|2026-05-05|1ca9c38b|589c6e1ed252; 2026-09-01 (same amount): c-lee|2026-09-01|dba45e78|c5a468376f6b"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-orange|matter|26-1251",
@@ -16232,7 +15363,7 @@
      "reason": "similar text 0.63"
     }
    ],
-   "possible_duplicate_label": "2024-01-09 (similar text 0.77): c-hillsborough|matter|2024-0011"
+   "possible_duplicate_label": "2024-01-09 (similar text 0.77)"
   },
   {
    "id": "m-clearwater|matter|ID#25-1006",
@@ -16269,7 +15400,7 @@
      "reason": "same amount, similar text 0.89"
     }
    ],
-   "possible_duplicate_label": "2026-03-05 (same amount, similar text 0.89): m-clearwater|matter|ID#26-0207"
+   "possible_duplicate_label": "2026-03-05 (same amount, similar text 0.89)"
   },
   {
    "id": "m-hollywood|matter|R-2026-097",
@@ -16360,22 +15491,12 @@
    "pct_of_paying_fund": 1.072,
    "possible_duplicates": [
     {
-     "id": "m-kissimmee|2026-03-17|c42f24b7|442156583c9a",
-     "meeting_date": "2026-03-17",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-kissimmee|2026-03-17|c42f24b7|8d9ae91ad977",
-     "meeting_date": "2026-03-17",
-     "reason": "same amount"
-    },
-    {
      "id": "m-kissimmee|2026-11-03|98a47d57|5e913e223cee",
      "meeting_date": "2026-11-03",
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-03-17 (same amount): m-kissimmee|2026-03-17|c42f24b7|442156583c9a"
+   "possible_duplicate_label": null
   },
   {
    "id": "m-deerfieldbeach|2026-11-05|faa415af|fd97d83614ec",
@@ -17173,19 +16294,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 321448595,
    "pct_of_paying_fund": 0.311,
-   "possible_duplicates": [
-    {
-     "id": "m-hollywood|matter|R-2025-158",
-     "meeting_date": "2025-05-21",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-hollywood|matter|R-2026-219",
-     "meeting_date": "2026-06-17",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2025-05-21 (same amount): m-hollywood|matter|R-2025-158; 2026-06-17 (same amount): m-hollywood|matter|R-2026-219"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-orange|matter|26-0143",
@@ -17246,19 +16356,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 224561521,
    "pct_of_paying_fund": 1.024,
-   "possible_duplicates": [
-    {
-     "id": "m-clearwater|matter|ID#24-0841",
-     "meeting_date": "2024-07-29",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-clearwater|matter|ID#26-0052",
-     "meeting_date": "2026-02-19",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2024-07-29 (same amount): m-clearwater|matter|ID#24-0841; 2026-02-19 (same amount): m-clearwater|matter|ID#26-0052"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-hollywood|matter|R-2025-428",
@@ -17365,7 +16464,7 @@
      "reason": "similar text 0.79"
     }
    ],
-   "possible_duplicate_label": "2026-06-17 (similar text 0.79): m-hollywood|matter|R-2026-210"
+   "possible_duplicate_label": "2026-06-17 (similar text 0.79)"
   },
   {
    "id": "c-lee|2026-08-18|09709973|5dd132ddd5e3",
@@ -17701,24 +16800,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 476645235,
    "pct_of_paying_fund": 1.259,
-   "possible_duplicates": [
-    {
-     "id": "m-fortlauderdale|matter|24-0430",
-     "meeting_date": "2024-05-21",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|24-0558",
-     "meeting_date": "2024-06-04",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|25-0162",
-     "meeting_date": "2025-02-18",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2024-05-21 (same amount): m-fortlauderdale|matter|24-0430; 2024-06-04 (same amount): m-fortlauderdale|matter|24-0558; 2025-02-18 (same amount): m-fortlauderdale|matter|25-0162"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-dunedin|nodate|5a493ca1|3f9e29f73d5e",
@@ -17865,7 +16948,7 @@
      "reason": "similar text 0.87"
     }
    ],
-   "possible_duplicate_label": "2025-09-18 (similar text 0.87): m-clearwater|matter|ID#25-0830"
+   "possible_duplicate_label": "2025-09-18 (similar text 0.87)"
   },
   {
    "id": "m-hollywood|matter|R-2026-015",
@@ -17897,22 +16980,12 @@
    "pct_of_paying_fund": 0.156,
    "possible_duplicates": [
     {
-     "id": "m-hollywood|matter|R-CRA-2026-07",
-     "meeting_date": "2026-02-04",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-hollywood|matter|R-2026-088",
-     "meeting_date": "2026-03-04",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-hollywood|matter|R-2026-153",
-     "meeting_date": "2026-05-20",
+     "id": "m-hollywood|matter|R-2026-364",
+     "meeting_date": "2026-11-05",
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-02-04 (same amount): m-hollywood|matter|R-CRA-2026-07; 2026-03-04 (same amount): m-hollywood|matter|R-2026-088; 2026-05-20 (same amount): m-hollywood|matter|R-2026-153"
+   "possible_duplicate_label": "2026-11-05 (same amount)"
   },
   {
    "id": "c-polk|matter|26-0166",
@@ -18101,7 +17174,7 @@
      "reason": "similar text 0.75"
     }
    ],
-   "possible_duplicate_label": "2026-11-05 (similar text 0.75): m-clearwater|matter|ID#26-1295"
+   "possible_duplicate_label": "2026-11-05 (similar text 0.75)"
   },
   {
    "id": "m-clearwater|matter|ID#26-0358",
@@ -18130,24 +17203,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 224561521,
    "pct_of_paying_fund": 1.336,
-   "possible_duplicates": [
-    {
-     "id": "m-clearwater|matter|ID#25-1146",
-     "meeting_date": "2025-11-20",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-clearwater|matter|ID#25-1284",
-     "meeting_date": "2026-02-05",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-clearwater|matter|ID#25-1292",
-     "meeting_date": "2026-03-30",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2025-11-20 (same amount): m-clearwater|matter|ID#25-1146; 2026-02-05 (same amount): m-clearwater|matter|ID#25-1284"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-clearwater|matter|ID#26-0966",
@@ -18176,14 +17233,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 224561521,
    "pct_of_paying_fund": 1.559,
-   "possible_duplicates": [
-    {
-     "id": "m-clearwater|matter|ID#26-0298",
-     "meeting_date": "2026-04-23",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-04-23 (same amount): m-clearwater|matter|ID#26-0298"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-hollywood|matter|R-2026-331",
@@ -18243,23 +17294,7 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 178534093,
    "pct_of_paying_fund": 0.126,
-   "possible_duplicates": [
-    {
-     "id": "m-sunrise|nodate|9e33a000|4cc8b6e729dc",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-sunrise|nodate|9e33a000|e5b393cd2500",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-sunrise|nodate|a2e8457c|44d416ac97d7",
-     "meeting_date": null,
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -18289,14 +17324,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 224561521,
    "pct_of_paying_fund": 1.024,
-   "possible_duplicates": [
-    {
-     "id": "m-clearwater|matter|ID#25-0329",
-     "meeting_date": "2025-04-28",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2025-04-28 (same amount): m-clearwater|matter|ID#25-0329"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-hollywood|matter|R-2026-256",
@@ -18454,7 +17483,7 @@
      "reason": "similar text 0.75"
     }
    ],
-   "possible_duplicate_label": "2026-03-05 (similar text 0.75): m-clearwater|matter|ID#26-0119"
+   "possible_duplicate_label": "2026-03-05 (similar text 0.75)"
   },
   {
    "id": "m-hollywood|matter|R-2026-372",
@@ -18576,23 +17605,7 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 321448595,
    "pct_of_paying_fund": 0.062,
-   "possible_duplicates": [
-    {
-     "id": "m-hollywood|matter|R-2026-017",
-     "meeting_date": "2026-01-21",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-hollywood|matter|R-2026-018",
-     "meeting_date": "2026-01-21",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-hollywood|matter|R-2026-022",
-     "meeting_date": "2026-01-21",
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -18894,13 +17907,7 @@
    "paying_fund": "special_revenue",
    "paying_fund_expenditures": 64296492,
    "pct_of_paying_fund": 1.866,
-   "possible_duplicates": [
-    {
-     "id": "m-coralsprings|nodate|a26d95e7|eb31c09dd2aa",
-     "meeting_date": null,
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -18998,7 +18005,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-02-03 (same amount): m-fortlauderdale|matter|26-0011"
+   "possible_duplicate_label": "2026-02-03 (same amount)"
   },
   {
    "id": "m-hollywood|matter|R-CRA-2026-17",
@@ -19117,24 +18124,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 584712851,
    "pct_of_paying_fund": 0.222,
-   "possible_duplicates": [
-    {
-     "id": "c-polk|matter|25-2577",
-     "meeting_date": "2026-01-20",
-     "reason": "same amount"
-    },
-    {
-     "id": "c-polk|matter|26-0092",
-     "meeting_date": "2026-02-17",
-     "reason": "same amount"
-    },
-    {
-     "id": "c-polk|matter|26-1069",
-     "meeting_date": "2026-07-21",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-01-20 (same amount): c-polk|matter|25-2577; 2026-02-17 (same amount): c-polk|matter|26-0092; 2026-07-21 (same amount): c-polk|matter|26-1069"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-miamibeach|2026-10-14|399ff719|491c92fd81b9",
@@ -19378,14 +18369,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 321448595,
    "pct_of_paying_fund": 0.296,
-   "possible_duplicates": [
-    {
-     "id": "m-hollywood|matter|R-2026-163",
-     "meeting_date": "2026-05-20",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-05-20 (same amount): m-hollywood|matter|R-2026-163"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-clearwater|matter|ID#26-0070",
@@ -19692,24 +18677,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 224561521,
    "pct_of_paying_fund": 0.334,
-   "possible_duplicates": [
-    {
-     "id": "m-clearwater|matter|ID#26-0626",
-     "meeting_date": "2026-06-04",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-clearwater|matter|ID#26-1098",
-     "meeting_date": "2026-09-17",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-clearwater|matter|ID#26-1332",
-     "meeting_date": "2026-11-17",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-06-04 (same amount): m-clearwater|matter|ID#26-0626; 2026-09-17 (same amount): m-clearwater|matter|ID#26-1098; 2026-11-17 (same amount): m-clearwater|matter|ID#26-1332"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-orange|matter|26-0076",
@@ -19745,7 +18714,7 @@
      "reason": "similar text 0.63"
     }
    ],
-   "possible_duplicate_label": "2026-06-30 (similar text 0.63): c-orange|matter|26-0779"
+   "possible_duplicate_label": "2026-06-30 (similar text 0.63)"
   },
   {
    "id": "m-clearwater|matter|ID#25-1322",
@@ -19804,24 +18773,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 321448595,
    "pct_of_paying_fund": 0.233,
-   "possible_duplicates": [
-    {
-     "id": "m-hollywood|matter|R-2026-006",
-     "meeting_date": "2026-01-21",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-hollywood|matter|R-CRA-2026-02",
-     "meeting_date": "2026-01-21",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-hollywood|matter|R-2026-190",
-     "meeting_date": "2026-06-03",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-01-21 (same amount): m-hollywood|matter|R-2026-006; 2026-06-03 (same amount): m-hollywood|matter|R-2026-190"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-hollywood|matter|R-2026-190",
@@ -19850,24 +18803,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 321448595,
    "pct_of_paying_fund": 0.233,
-   "possible_duplicates": [
-    {
-     "id": "m-hollywood|matter|R-2026-006",
-     "meeting_date": "2026-01-21",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-hollywood|matter|R-CRA-2026-02",
-     "meeting_date": "2026-01-21",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-hollywood|matter|R-2026-093",
-     "meeting_date": "2026-03-04",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-01-21 (same amount): m-hollywood|matter|R-2026-006; 2026-03-04 (same amount): m-hollywood|matter|R-2026-093"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-hollywood|matter|R-2026-301",
@@ -20196,13 +19133,7 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 178534093,
    "pct_of_paying_fund": 0.28,
-   "possible_duplicates": [
-    {
-     "id": "m-sunrise|nodate|72df6bd6|2b945ed28abc",
-     "meeting_date": null,
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -20232,24 +19163,8 @@
    "paying_fund": "special_revenue",
    "paying_fund_expenditures": 89448301,
    "pct_of_paying_fund": 0.559,
-   "possible_duplicates": [
-    {
-     "id": "m-hollywood|matter|R-2026-015",
-     "meeting_date": "2026-01-21",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-hollywood|matter|R-2026-088",
-     "meeting_date": "2026-03-04",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-hollywood|matter|R-2026-153",
-     "meeting_date": "2026-05-20",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-01-21 (same amount): m-hollywood|matter|R-2026-015; 2026-03-04 (same amount): m-hollywood|matter|R-2026-088; 2026-05-20 (same amount): m-hollywood|matter|R-2026-153"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-clearwater|matter|ID#26-0051",
@@ -20308,14 +19223,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 321448595,
    "pct_of_paying_fund": 0.14,
-   "possible_duplicates": [
-    {
-     "id": "m-hollywood|matter|R-2026-300",
-     "meeting_date": "2026-09-16",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-09-16 (same amount): m-hollywood|matter|R-2026-300"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-hollywood|matter|R-2026-089",
@@ -20381,7 +19290,7 @@
      "reason": "similar text 0.82"
     }
    ],
-   "possible_duplicate_label": "2026-11-05 (similar text 0.82): m-hollywood|matter|R-2026-362"
+   "possible_duplicate_label": "2026-11-05 (similar text 0.82)"
   },
   {
    "id": "m-hollywood|matter|R-2026-143",
@@ -20596,23 +19505,7 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 186505847,
    "pct_of_paying_fund": 0.214,
-   "possible_duplicates": [
-    {
-     "id": "m-coralsprings|nodate|23bf4c81|b298bdf9cb9f",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-coralsprings|nodate|250b0c40|33ca18b74f4d",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-coralsprings|nodate|421a9513|6748cf5b8c40",
-     "meeting_date": null,
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -20672,19 +19565,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 224561521,
    "pct_of_paying_fund": 0.178,
-   "possible_duplicates": [
-    {
-     "id": "m-clearwater|matter|ID#25-1294",
-     "meeting_date": "2026-01-15",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-clearwater|matter|ID#25-1318",
-     "meeting_date": "2026-01-15",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-01-15 (same amount): m-clearwater|matter|ID#25-1294"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-clearwater|matter|ID#26-0623",
@@ -20780,7 +19662,7 @@
      "reason": "same amount, similar text 0.66"
     }
    ],
-   "possible_duplicate_label": "2026-11-17 (same amount, similar text 0.66): c-lee|2026-11-17|35f106d9|9cb0b71e2058"
+   "possible_duplicate_label": "2026-11-17 (same amount, similar text 0.66)"
   },
   {
    "id": "c-lee|2026-10-06|af47127f|a79e077ee3c6",
@@ -20816,7 +19698,7 @@
      "reason": "same amount, similar text 0.62"
     }
    ],
-   "possible_duplicate_label": "2026-11-17 (same amount, similar text 0.62): c-lee|2026-11-17|35f106d9|afeece348687"
+   "possible_duplicate_label": "2026-11-17 (same amount, similar text 0.62)"
   },
   {
    "id": "m-dunedin|nodate|157b2709|ac109b0e067b",
@@ -20911,14 +19793,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 476645235,
    "pct_of_paying_fund": 0.063,
-   "possible_duplicates": [
-    {
-     "id": "m-fortlauderdale|matter|26-0108",
-     "meeting_date": "2026-02-03",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-02-03 (same amount): m-fortlauderdale|matter|26-0108"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-lee|2026-09-01|dba45e78|4d63ab68e4f7",
@@ -21050,7 +19926,7 @@
      "reason": "similar text 0.65"
     }
    ],
-   "possible_duplicate_label": "2026-02-19 (similar text 0.65): m-clearwater|matter|ID#26-0055"
+   "possible_duplicate_label": "2026-02-19 (similar text 0.65)"
   },
   {
    "id": "m-clearwater|matter|ID#26-1120",
@@ -21177,7 +20053,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-11-18 (same amount): m-daytonabeach|2026-11-18|a58bd2b2|2336f4b50d65"
+   "possible_duplicate_label": "2026-11-18 (same amount)"
   },
   {
    "id": "m-coralsprings|nodate|23bf4c81|70bf33818502",
@@ -21298,24 +20174,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 149810473,
    "pct_of_paying_fund": 0.167,
-   "possible_duplicates": [
-    {
-     "id": "m-daytonabeach|2026-03-18|0b194d14|6a3281081542",
-     "meeting_date": "2026-03-18",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-daytonabeach|2026-04-15|4414ce8c|d741f69088a9",
-     "meeting_date": "2026-04-15",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-daytonabeach|2026-05-06|5c6c1468|1b8def4eae67",
-     "meeting_date": "2026-05-06",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-03-18 (same amount): m-daytonabeach|2026-03-18|0b194d14|6a3281081542; 2026-04-15 (same amount): m-daytonabeach|2026-04-15|4414ce8c|d741f69088a9; 2026-05-06 (same amount): m-daytonabeach|2026-05-06|5c6c1468|1b8def4eae67"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-palmbeach|2026-11-10|5b6bfac3|68debb7c7d51",
@@ -21416,14 +20276,8 @@
    "paying_fund": "special_revenue",
    "paying_fund_expenditures": 1634110448,
    "pct_of_paying_fund": 1.102,
-   "possible_duplicates": [
-    {
-     "id": "c-orange|matter|24-576",
-     "meeting_date": "2024-04-23",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2024-04-23 (same amount): c-orange|matter|24-576"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-dunedin|nodate|fda7686c|68768c6e04db",
@@ -21453,18 +20307,7 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 38960693,
    "pct_of_paying_fund": 3.003,
-   "possible_duplicates": [
-    {
-     "id": "m-dunedin|nodate|0836b4ae|c6f3037e8995",
-     "meeting_date": null,
-     "reason": "same amount"
-    },
-    {
-     "id": "m-dunedin|nodate|fda7686c|bee0e38b33d4",
-     "meeting_date": null,
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -21734,24 +20577,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 78023595,
    "pct_of_paying_fund": 0.384,
-   "possible_duplicates": [
-    {
-     "id": "m-northport|matter|26-0534",
-     "meeting_date": "2026-05-05",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-northport|matter|26-0842",
-     "meeting_date": "2026-09-08",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-northport|matter|26-1169",
-     "meeting_date": "2026-10-06",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-05-05 (same amount): m-northport|matter|26-0534; 2026-10-06 (same amount): m-northport|matter|26-1169"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-lee|2026-09-15|2a8c7f6b|8d3f085e6174",
@@ -21792,7 +20619,7 @@
      "reason": "same amount, similar text 0.65"
     }
    ],
-   "possible_duplicate_label": "2026-10-06 (same amount, similar text 0.90): c-lee|2026-10-06|af47127f|7092dc02b871; 2026-11-17 (same amount, similar text 0.65): c-lee|2026-11-17|35f106d9|a37ba9b3f81b"
+   "possible_duplicate_label": "2026-10-06 (same amount, similar text 0.90); 2026-11-17 (same amount, similar text 0.65)"
   },
   {
    "id": "c-polk|matter|25-2468",
@@ -21876,7 +20703,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-10-14 (same amount, similar text 0.92): m-miamibeach|2026-10-14|399ff719|b3532a8112eb; 2026-11-18 (same amount, similar text 0.95): m-miamibeach|2026-11-18|d1985502|2544379963d0"
+   "possible_duplicate_label": "2026-10-14 (same amount, similar text 0.92); 2026-11-18 (same amount, similar text 0.95)"
   },
   {
    "id": "m-miamibeach|2026-10-14|399ff719|b3532a8112eb",
@@ -21924,7 +20751,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-09-10 (same amount, similar text 0.92): m-miamibeach|2026-09-10|d19ba976|f15b3ea94460; 2026-11-18 (same amount, similar text 0.97): m-miamibeach|2026-11-18|d1985502|2544379963d0"
+   "possible_duplicate_label": "2026-09-10 (same amount, similar text 0.92); 2026-11-18 (same amount, similar text 0.97)"
   },
   {
    "id": "m-pembrokepines|matter|26-2566",
@@ -22044,13 +20871,7 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 186505847,
    "pct_of_paying_fund": 0.643,
-   "possible_duplicates": [
-    {
-     "id": "m-coralsprings|nodate|6c74b501|8f2bbe5fc6f0",
-     "meeting_date": null,
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -22085,11 +20906,6 @@
      "id": "m-dunedin|nodate|fda7686c|bee0e38b33d4",
      "meeting_date": null,
      "reason": "same amount, similar text 1.00"
-    },
-    {
-     "id": "m-dunedin|nodate|fda7686c|68768c6e04db",
-     "meeting_date": null,
-     "reason": "same amount"
     }
    ],
    "possible_duplicate_label": null
@@ -22126,11 +20942,6 @@
      "id": "m-dunedin|nodate|0836b4ae|c6f3037e8995",
      "meeting_date": null,
      "reason": "same amount, similar text 1.00"
-    },
-    {
-     "id": "m-dunedin|nodate|fda7686c|68768c6e04db",
-     "meeting_date": null,
-     "reason": "same amount"
     }
    ],
    "possible_duplicate_label": null
@@ -22324,14 +21135,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 224561521,
    "pct_of_paying_fund": 4.008,
-   "possible_duplicates": [
-    {
-     "id": "m-clearwater|matter|ID#26-0042",
-     "meeting_date": "2026-02-05",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-02-05 (same amount): m-clearwater|matter|ID#26-0042"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-fortlauderdale|matter|26-0253",
@@ -22365,19 +21170,9 @@
      "id": "m-fortlauderdale|matter|26-0396",
      "meeting_date": "2026-06-16",
      "reason": "same amount, similar text 1.00"
-    },
-    {
-     "id": "m-fortlauderdale|matter|25-0945",
-     "meeting_date": "2025-12-02",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|26-0327",
-     "meeting_date": "2026-03-19",
-     "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-06-16 (same amount, similar text 1.00): m-fortlauderdale|matter|26-0396; 2025-12-02 (same amount): m-fortlauderdale|matter|25-0945; 2026-03-19 (same amount): m-fortlauderdale|matter|26-0327"
+   "possible_duplicate_label": "2026-06-16 (same amount, similar text 1.00)"
   },
   {
    "id": "c-polk|matter|26-1791",
@@ -22412,14 +21207,9 @@
      "id": "c-polk|matter|26-1793",
      "meeting_date": "2026-09-15",
      "reason": "same amount, similar text 0.75"
-    },
-    {
-     "id": "c-polk|matter|26-2093",
-     "meeting_date": "2026-11-03",
-     "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-11-03 (same amount): c-polk|matter|26-2093"
+   "possible_duplicate_label": null
   },
   {
    "id": "c-polk|matter|26-1793",
@@ -22454,14 +21244,9 @@
      "id": "c-polk|matter|26-1791",
      "meeting_date": "2026-09-15",
      "reason": "same amount, similar text 0.75"
-    },
-    {
-     "id": "c-polk|matter|26-2093",
-     "meeting_date": "2026-11-03",
-     "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-11-03 (same amount): c-polk|matter|26-2093"
+   "possible_duplicate_label": null
   },
   {
    "id": "m-miamibeach|2026-10-14|399ff719|91f776e68380",
@@ -22550,13 +21335,7 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 178534093,
    "pct_of_paying_fund": 4.201,
-   "possible_duplicates": [
-    {
-     "id": "m-sunrise|nodate|95d6419f|d7f7a9904ecc",
-     "meeting_date": null,
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -22586,13 +21365,7 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 178534093,
    "pct_of_paying_fund": 4.201,
-   "possible_duplicates": [
-    {
-     "id": "m-sunrise|nodate|95d6419f|9ae40e7a3f1f",
-     "meeting_date": null,
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -22670,7 +21443,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-08-04 (same amount): m-largo|2026-08-04|3ebb49a8|bcadea859b77"
+   "possible_duplicate_label": "2026-08-04 (same amount)"
   },
   {
    "id": "c-palmbeach|2026-11-10|5b6bfac3|ca2e26b3af83",
@@ -22699,13 +21472,7 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 2087838582,
    "pct_of_paying_fund": 0.359,
-   "possible_duplicates": [
-    {
-     "id": "c-palmbeach|2026-11-10|5b6bfac3|6cc99ceec34d",
-     "meeting_date": "2026-11-10",
-     "reason": "same amount"
-    }
-   ],
+   "possible_duplicates": [],
    "possible_duplicate_label": null
   },
   {
@@ -22814,7 +21581,7 @@
      "reason": "same amount, similar text 0.92"
     }
    ],
-   "possible_duplicate_label": "2026-03-03 (same amount, similar text 0.91): m-daytonabeach|2026-03-03|3b9c3548|3a87657843c0; 2026-04-07 (same amount, similar text 0.92): m-daytonabeach|2026-04-07|9adfb151|8dce5886b625"
+   "possible_duplicate_label": "2026-03-03 (same amount, similar text 0.91); 2026-04-07 (same amount, similar text 0.92)"
   },
   {
    "id": "m-daytonabeach|2026-10-06|86713026|efc3aaca3c69",
@@ -22860,7 +21627,7 @@
      "reason": "same amount, similar text 0.61"
     }
    ],
-   "possible_duplicate_label": "2026-03-03 (same amount, similar text 1.00): m-daytonabeach|2026-03-03|3b9c3548|efc3aaca3c69; 2026-04-07 (same amount, similar text 0.72): m-daytonabeach|2026-04-07|9adfb151|8dce5886b625"
+   "possible_duplicate_label": "2026-03-03 (same amount, similar text 1.00); 2026-04-07 (same amount, similar text 0.72)"
   },
   {
    "id": "m-fortlauderdale|matter|26-0554",
@@ -22889,24 +21656,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 476645235,
    "pct_of_paying_fund": 1.049,
-   "possible_duplicates": [
-    {
-     "id": "m-fortlauderdale|matter|26-0347",
-     "meeting_date": "2026-04-21",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|26-0487",
-     "meeting_date": "2026-06-02",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|26-0491",
-     "meeting_date": "2026-06-02",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-04-21 (same amount): m-fortlauderdale|matter|26-0347; 2026-06-02 (same amount): m-fortlauderdale|matter|26-0487"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-largo|2026-09-01|ebebbd08|be3d2f44b221",
@@ -23025,19 +21776,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 78023595,
    "pct_of_paying_fund": 0.513,
-   "possible_duplicates": [
-    {
-     "id": "m-northport|matter|26-0715",
-     "meeting_date": "2026-06-09",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-northport|matter|26-0878",
-     "meeting_date": "2026-09-08",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-06-09 (same amount): m-northport|matter|26-0715"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-gainesville|2026-10-15|8cf5b47e|f89b026ad780",
@@ -23127,24 +21867,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 476645235,
    "pct_of_paying_fund": 0.629,
-   "possible_duplicates": [
-    {
-     "id": "m-fortlauderdale|matter|25-0461",
-     "meeting_date": "2025-05-06",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|26-0227",
-     "meeting_date": "2026-03-03",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|26-0405",
-     "meeting_date": "2026-05-05",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2025-05-06 (same amount): m-fortlauderdale|matter|25-0461; 2026-03-03 (same amount): m-fortlauderdale|matter|26-0227; 2026-05-05 (same amount): m-fortlauderdale|matter|26-0405"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-polk|matter|26-0613",
@@ -23243,14 +21967,9 @@
      "id": "m-northport|matter|26-0930",
      "meeting_date": "2026-07-21",
      "reason": "same amount"
-    },
-    {
-     "id": "m-northport|matter|26-1063",
-     "meeting_date": "2026-09-08",
-     "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-09-08 (same amount): m-northport|matter|26-1063"
+   "possible_duplicate_label": null
   },
   {
    "id": "m-deerfieldbeach|2026-11-05|faa415af|c5ff7a35aa29",
@@ -23362,7 +22081,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-09-15 (same amount): m-fortlauderdale|matter|26-0811"
+   "possible_duplicate_label": "2026-09-15 (same amount)"
   },
   {
    "id": "m-miamigardens|2026-10-14|f4178b68|1d1957300a77",
@@ -23500,7 +22219,7 @@
      "reason": "same amount, similar text 0.84"
     }
    ],
-   "possible_duplicate_label": "2026-02-18 (same amount, similar text 0.83): m-daytonabeach|2026-02-18|8646a038|f60306c4497d; 2026-03-18 (same amount, similar text 0.81): m-daytonabeach|2026-03-18|0b194d14|741bef3a87d9; 2026-05-20 (same amount, similar text 0.84): m-daytonabeach|2026-05-20|fd8521bb|7fb039391c3b"
+   "possible_duplicate_label": "2026-02-18 (same amount, similar text 0.83); 2026-03-18 (same amount, similar text 0.81); 2026-05-20 (same amount, similar text 0.84)"
   },
   {
    "id": "m-kissimmee|2026-11-03|98a47d57|1b604c711dd5",
@@ -23546,7 +22265,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-11-17 (same amount, similar text 0.72): m-kissimmee|2026-11-17|7664079f|061dc730a361"
+   "possible_duplicate_label": "2026-11-17 (same amount, similar text 0.72)"
   },
   {
    "id": "m-kissimmee|2026-11-03|98a47d57|4a93b0ae9432",
@@ -23592,7 +22311,7 @@
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-11-17 (same amount, similar text 0.61): m-kissimmee|2026-11-17|7664079f|061dc730a361"
+   "possible_duplicate_label": "2026-11-17 (same amount, similar text 0.61)"
   },
   {
    "id": "c-palmbeach|2026-11-10|5b6bfac3|2d15ce742a03",
@@ -23621,14 +22340,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 2087838582,
    "pct_of_paying_fund": 0.01,
-   "possible_duplicates": [
-    {
-     "id": "c-palmbeach|2026-11-17|8ee49c4a|150f609f6746",
-     "meeting_date": "2026-11-17",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-11-17 (same amount): c-palmbeach|2026-11-17|8ee49c4a|150f609f6746"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "c-palmbeach|2026-11-10|5b6bfac3|e7e0d210c902",
@@ -23761,22 +22474,12 @@
    "pct_of_paying_fund": 0.031,
    "possible_duplicates": [
     {
-     "id": "m-fortlauderdale|matter|26-0159",
-     "meeting_date": "2026-02-03",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|26-0065",
-     "meeting_date": "2026-02-17",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-fortlauderdale|matter|26-0379",
-     "meeting_date": "2026-05-05",
+     "id": "m-fortlauderdale|matter|26-0734",
+     "meeting_date": "2026-09-15",
      "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-02-03 (same amount): m-fortlauderdale|matter|26-0159; 2026-02-17 (same amount): m-fortlauderdale|matter|26-0065; 2026-05-05 (same amount): m-fortlauderdale|matter|26-0379"
+   "possible_duplicate_label": null
   },
   {
    "id": "m-clearwater|matter|ID#26-0800",
@@ -23805,14 +22508,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 224561521,
    "pct_of_paying_fund": 0.534,
-   "possible_duplicates": [
-    {
-     "id": "m-clearwater|matter|ID#26-0876",
-     "meeting_date": "2026-08-06",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-08-06 (same amount): m-clearwater|matter|ID#26-0876"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-stpetersburg|2026-10-01|c324ef76|c294cdc0c864",
@@ -23841,19 +22538,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 526760634,
    "pct_of_paying_fund": 0.024,
-   "possible_duplicates": [
-    {
-     "id": "m-stpetersburg|2026-10-15|2b139e63|5b64d9599662",
-     "meeting_date": "2026-10-15",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-stpetersburg|2026-11-05|a82b6b41|f3b682702637",
-     "meeting_date": "2026-11-05",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-10-15 (same amount): m-stpetersburg|2026-10-15|2b139e63|5b64d9599662; 2026-11-05 (same amount): m-stpetersburg|2026-11-05|a82b6b41|f3b682702637"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-gainesville|2026-10-15|8cf5b47e|f523c40d62a0",
@@ -23977,19 +22663,9 @@
      "id": "m-daytonabeach|2026-05-20|fd8521bb|8cfb274a9170",
      "meeting_date": "2026-05-20",
      "reason": "same amount, similar text 0.67"
-    },
-    {
-     "id": "m-daytonabeach|2026-01-07|9d840795|0d49b6790900",
-     "meeting_date": "2026-01-07",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-daytonabeach|2026-07-09|f092619e|0168f5d54df5",
-     "meeting_date": "2026-07-09",
-     "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-05-20 (same amount, similar text 0.67): m-daytonabeach|2026-05-20|fd8521bb|8cfb274a9170; 2026-01-07 (same amount): m-daytonabeach|2026-01-07|9d840795|0d49b6790900; 2026-07-09 (same amount): m-daytonabeach|2026-07-09|f092619e|0168f5d54df5"
+   "possible_duplicate_label": "2026-05-20 (same amount, similar text 0.67)"
   },
   {
    "id": "m-tallahassee|2026-08-27|99b4494c|571d26665cc7",
@@ -24023,19 +22699,9 @@
      "id": "m-tallahassee|2026-05-28|e0ca200f|64e1e93ad964",
      "meeting_date": "2026-05-28",
      "reason": "same amount, similar text 0.81"
-    },
-    {
-     "id": "m-tallahassee|2026-01-12|a88a2bdd|fa719b091916",
-     "meeting_date": "2026-01-12",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-tallahassee|2026-01-28|46159130|fa719b091916",
-     "meeting_date": "2026-01-28",
-     "reason": "same amount"
     }
    ],
-   "possible_duplicate_label": "2026-05-28 (same amount, similar text 0.81): m-tallahassee|2026-05-28|e0ca200f|64e1e93ad964; 2026-01-12 (same amount): m-tallahassee|2026-01-12|a88a2bdd|fa719b091916; 2026-01-28 (same amount): m-tallahassee|2026-01-28|46159130|fa719b091916"
+   "possible_duplicate_label": "2026-05-28 (same amount, similar text 0.81)"
   },
   {
    "id": "m-miamibeach|2026-09-10|d19ba976|306ad058735c",
@@ -24064,24 +22730,8 @@
    "paying_fund": "general",
    "paying_fund_expenditures": 445068042,
    "pct_of_paying_fund": 0.022,
-   "possible_duplicates": [
-    {
-     "id": "m-miamibeach|2026-04-22|26c37c48|649a3d02e43b",
-     "meeting_date": "2026-04-22",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-miamibeach|2026-06-24|27917e17|4a591ffe9a25",
-     "meeting_date": "2026-06-24",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-miamibeach|2026-07-22|d8f18221|39c2ccda059f",
-     "meeting_date": "2026-07-22",
-     "reason": "same amount"
-    }
-   ],
-   "possible_duplicate_label": "2026-04-22 (same amount): m-miamibeach|2026-04-22|26c37c48|649a3d02e43b; 2026-06-24 (same amount): m-miamibeach|2026-06-24|27917e17|4a591ffe9a25; 2026-07-22 (same amount): m-miamibeach|2026-07-22|d8f18221|39c2ccda059f"
+   "possible_duplicates": [],
+   "possible_duplicate_label": null
   },
   {
    "id": "m-kissimmee|2026-10-06|bfed15d8|41962ef99bb3",
@@ -24117,14 +22767,9 @@
      "reason": "same amount, similar text 0.90"
     },
     {
-     "id": "m-kissimmee|2026-10-06|bfed15d8|ae51b2d9f059",
+     "id": "m-kissimmee|2026-10-06|bfed15d8|e8852d96b722",
      "meeting_date": "2026-10-06",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-kissimmee|2026-10-06|bfed15d8|e508d71e937e",
-     "meeting_date": "2026-10-06",
-     "reason": "same amount"
+     "reason": "similar text 0.60"
     }
    ],
    "possible_duplicate_label": null
@@ -24166,11 +22811,6 @@
      "id": "m-kissimmee|2026-10-06|bfed15d8|8d9f0e9da7a9",
      "meeting_date": "2026-10-06",
      "reason": "similar text 0.64"
-    },
-    {
-     "id": "m-kissimmee|2026-10-06|bfed15d8|ae51b2d9f059",
-     "meeting_date": "2026-10-06",
-     "reason": "same amount"
     }
    ],
    "possible_duplicate_label": null

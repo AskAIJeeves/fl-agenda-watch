@@ -3,7 +3,8 @@
 re-listed, an agenda and its minutes). Nothing is merged or dropped; each item just gets a short list of likely twins.
 
 Rules, within one government:
-  same amount   identical dollar amount of $50,000 or more, meetings within 400 days
+  same amount   identical dollar amount of $50,000 or more, meetings within 400 days; a round amount (a multiple of
+                $5,000, common for grant caps and program limits) also needs some text overlap (0.45)
   similar text  title word overlap (Jaccard) of 0.6 or more, meetings within 400 days
 """
 import json, re, sys
@@ -46,10 +47,10 @@ class Index:
             if k == item_id: continue
             if d0 and d and abs((d - d0).days) > WINDOW: continue
             reasons = []
-            if amt and a and amt >= 50000 and abs(a - amt) < 1: reasons.append("same amount")
-            if len(w0) >= 4 and len(w) >= 4:
-                j = len(w0 & w) / len(w0 | w)
-                if j >= 0.6: reasons.append(f"similar text {j:.2f}")
+            j = len(w0 & w) / len(w0 | w) if len(w0) >= 4 and len(w) >= 4 else 0
+            if amt and a and amt >= 50000 and abs(a - amt) < 1 and (amt % 5000 or j >= 0.45):
+                reasons.append("same amount")
+            if j >= 0.6: reasons.append(f"similar text {j:.2f}")
             if reasons:
                 hits.append({"id": k, "meeting_date": md, "reason": ", ".join(reasons)})
         hits.sort(key=lambda h: (-len(h["reason"].split(",")), h["meeting_date"] or ""))
@@ -62,7 +63,7 @@ def label(hits, meeting_date=None):
     for h in hits:
         if h["meeting_date"] == meeting_date or h["meeting_date"] in dates: continue
         dates.add(h["meeting_date"]); other.append(h)
-    return "; ".join(f'{h["meeting_date"] or "undated"} ({h["reason"]}): {h["id"]}' for h in other) or None
+    return "; ".join(f'{h["meeting_date"] or "undated"} ({h["reason"]})' for h in other) or None
 
 def enrich_backlog():
     """Add possible_duplicates to data/backlog_candidates.json in place (order and n unchanged)."""
