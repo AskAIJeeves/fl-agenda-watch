@@ -4774,6 +4774,14 @@
      "amount": null,
      "text": "Sustainability District Meeting Tuesday, September 15, 2026 6:00 PM 2 | Page energy conservation, renewable energy, and improvements is to levy non-ad valorem special assessments on properties that derive a direct benefit from the improvements. This type of assessment is based on benefit and collect",
      "link": "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12819,plainText=false)"
+    },
+    {
+     "entity_id": "c-stlucie",
+     "government": "St. Lucie County",
+     "meeting_date": "2026-11-19",
+     "amount": null,
+     "text": "With the exception of Jenkins Road & Okeechobee Road, these deficiencies are projected to occur under background conditions without project traffic. The intersection of Jenkins Road & Okeechobee Road will operate at LOS D or better through buildout of the project with signal timing optimization. Bec",
+     "link": "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12866,plainText=false)"
     }
    ],
    "governments": [
@@ -4783,7 +4791,7 @@
     "Sunrise",
     "Wildwood"
    ],
-   "award_count": 12,
+   "award_count": 13,
    "total_amount": 33575123.0
   },
   "gy2026": {
@@ -4822,13 +4830,29 @@
      "amount": 2000000.0,
      "text": "1. Staff recommends motion to approve: an allocation of $2,000,000 of State Housing Initiatives Partnership (SHIP) Program funding for the Flood Disaster Assistance Program (FDAP) to provide financial assistance to eligible homeowners who suffered flood-related damages to homestead properties. Summa",
      "link": "https://discover.pbcgov.org/countycommissioners/Agenda_Master/20261117.pdf"
+    },
+    {
+     "entity_id": "c-palmbeach",
+     "government": "Palm Beach County",
+     "meeting_date": "2026-11-17",
+     "amount": 2000000.0,
+     "text": "NOVEMBER 17, 2026 PAGE ITEM 31 5C-1 *ADD/ ON / (HED) Renumbered from 3I-1 to 5C-1: Staff recommends motion to: an allocation of $2,000,000 of State Housing Initiatives Partnership (SHIP) Program funding for the Flood Disaster Assistance Program (FDAP) to provide financial assistance to eligible home",
+     "link": "https://discover.pbcgov.org/countycommissioners/Agenda_Master/20261117.pdf"
+    },
+    {
+     "entity_id": "c-palmbeach",
+     "government": "Palm Beach County",
+     "meeting_date": "2026-11-17",
+     "amount": 2000000.0,
+     "text": "C. HOUSING & ECONOMIC DEVELOPMENT Page 31 5C-1 an allocation of $2,000,000 of State Housing Initiatives Partnership (SHIP) Program funding for the Flood Disaster Assistance Program (FDAP) to provide financial assistance to eligible homeowners who suffered flood-related damage to homestead properties",
+     "link": "https://discover.pbcgov.org/countycommissioners/Agenda_Master/20261117.pdf"
     }
    ],
    "governments": [
     "Palm Beach County"
    ],
-   "award_count": 2,
-   "total_amount": 4000000.0
+   "award_count": 4,
+   "total_amount": 8000000.0
   },
   "rural areas program": {
    "name": "Rural Areas Program",
@@ -6413,12 +6437,21 @@
      "amount": null,
      "text": "How does funding flow to the Authority? 4",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1218"
+    },
+    {
+     "entity_id": "c-lake",
+     "government": "Lake County",
+     "meeting_date": "2026-11-18",
+     "amount": null,
+     "text": "The Lake County Water Authority\u2019s FY 2026 adopted budget provided funding for the Authority\u2019s water resource management programs, operations, conservation initiatives, and capital improvement projects. Financial planning focused on supporting ongoing program responsibilities while allocating resourc",
+     "link": "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7858,plainText=false)"
     }
    ],
    "governments": [
+    "Lake County",
     "Sunrise"
    ],
-   "award_count": 1,
+   "award_count": 2,
    "total_amount": 0
   },
   "swa non ad valorem assessment fy": {
@@ -7339,13 +7372,22 @@
      "amount": null,
      "text": "12. Resolution 2025-023, First Amendment to the Interlocal Agreement with Broward County for Bus Shelter Repair and Replacement (Tina Jou) Request to approve Resolution 2025-023, authorizing the execution of the First Amendment to the Interlocal Agreement (ILA) between Broward County and the City of",
      "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=270"
+    },
+    {
+     "entity_id": "m-lakewales",
+     "government": "Lake Wales",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Approval of an Amendment to the Interlocal Agreement with Polk County to cover Construction, Engineering, and Inspection (CEI) and post-design service costs not funded by the FDOT grant for the Ridge Scenic Highway (RSH) Connector Trail.",
+     "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&event_id=1593"
     }
    ],
    "governments": [
     "Boynton Beach",
-    "Coral Springs"
+    "Coral Springs",
+    "Lake Wales"
    ],
-   "award_count": 3,
+   "award_count": 4,
    "total_amount": 0
   },
   "construction professional services funding for demolition": {
@@ -10838,13 +10880,22 @@
      "amount": 449811.0,
      "text": "E. The City is willing to contribute funding for design for the Improvements as part of the Project in the amount of Four Hundred Forty-Nine Thousand Eight Hundred Eleven and 27/100 Dollars ($449,811.27) (the \"Local Share\").",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=990"
+    },
+    {
+     "entity_id": "m-gainesville",
+     "government": "Gainesville",
+     "meeting_date": "2026-11-17",
+     "amount": 3000000.0,
+     "text": "FY26 Adopted Budget 10/1/2025 FY26 Amended Budget as of 9/3/2026 Recommended Amendments FY26 Amended Budget as of 9/30/2026 Attachment \"A\" WSPP Greentree Park Improvements - 363,795.50 - 363,795.50 WSPP Hippodrome - 373,426.60 - 373,426.60 WSPP Ironwood Upgrades - 160,716.18 - 160,716.18 WSPP Mornin",
+     "link": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=393,plainText=false)"
     }
    ],
    "governments": [
+    "Gainesville",
     "Sunrise"
    ],
-   "award_count": 1,
-   "total_amount": 449811.0
+   "award_count": 2,
+   "total_amount": 3449811.0
   },
   "nami broward proclamation for hope unite international": {
    "name": "NAMI Broward Proclamation for Hope Unite International",
@@ -15169,15 +15220,778 @@
    ],
    "award_count": 1,
    "total_amount": 0
+  },
+  "approve resolution no": {
+   "name": "Approve Resolution No",
+   "awards": [
+    {
+     "entity_id": "m-delraybeach",
+     "government": "Delray Beach",
+     "meeting_date": null,
+     "amount": 300000.0,
+     "text": "August 11, 2026City Commission Regular Commission Meeting Agenda Cover Report Legal Review Water and Sewer Utility Easement Agreement - 14535 S Military Trail - RPT Realty LP Water and Sewer Utility Easement Agreement - 14535 S Military Trail - RPT Realty LP 07 2026 Attachments: 6.J. PROCLAMATIONS: ",
+     "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3559"
+    }
+   ],
+   "governments": [
+    "Delray Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 300000.0
+  },
+  "police explorers donation backup letf request memo police explorers donation attachments": {
+   "name": "Police Explorers Donation BACKUP-LETF Request Memo-Police Explorers Donation Attachments",
+   "awards": [
+    {
+     "entity_id": "m-coconutcreek",
+     "government": "Coconut Creek",
+     "meeting_date": null,
+     "amount": 5000.0,
+     "text": "6. RES 2026-014 A RESOLUTION AUTHORIZING THE USE OF STATE LAW ENFORCEMENT TRUST FUNDS IN THE AMOUNT OF FIVE THOUSAND DOLLARS ($5,000) FROM THE STATE FORFEITURE FUND FOR A DONATION TO THE POLICE EXPLORER POST. RESOLUTION 2026-014-LETF Request for Police Explorers Donation BACKUP-LETF Request Memo-Pol",
+     "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2245"
+    }
+   ],
+   "governments": [
+    "Coconut Creek"
+   ],
+   "award_count": 1,
+   "total_amount": 5000.0
+  },
+  "aja business holdings": {
+   "name": "AJA Business Holdings",
+   "awards": [
+    {
+     "entity_id": "m-bradenton",
+     "government": "Bradenton",
+     "meeting_date": null,
+     "amount": null,
+     "text": "a) Community Redevelopment Agency : Amended Redevelopment Grant Request for AJA Business Holdings, LLC. for a property located at 2514 9th Street West.",
+     "link": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=330"
+    }
+   ],
+   "governments": [
+    "Bradenton"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "fy27 grant awards": {
+   "name": "FY27 Grant Awards",
+   "awards": [
+    {
+     "entity_id": "m-winterhaven",
+     "government": "Winter Haven",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Grant and Aid Application Review Committee Recommendations for FY27 Grant Awards",
+     "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=455"
+    }
+   ],
+   "governments": [
+    "Winter Haven"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "commercial improvement grant": {
+   "name": "Commercial Improvement Grant",
+   "awards": [
+    {
+     "entity_id": "m-winterhaven",
+     "government": "Winter Haven",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Summary - Budget Reallocation - Additional Funding for Commercial Improvement Grant",
+     "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=483"
+    }
+   ],
+   "governments": [
+    "Winter Haven"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "properties": {
+   "name": "Properties",
+   "awards": [
+    {
+     "entity_id": "m-winterhaven",
+     "government": "Winter Haven",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Summary - Appeal \u2013 Commercial Improvement Grant applications for Properties on 3rd, LLC (100 & 118 3rd Street SW)",
+     "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=483"
+    }
+   ],
+   "governments": [
+    "Winter Haven"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "architects design group": {
+   "name": "Architects Design Group",
+   "awards": [
+    {
+     "entity_id": "m-puntagorda",
+     "government": "Punta Gorda",
+     "meeting_date": null,
+     "amount": null,
+     "text": "6. REGULAR AGENDA 6.a Agreement award to Architects Design Group, Inc., of Winter Park, FL for a master agreement to provide assessment & planning for the City's Public Safety Complex at 1410 Tamiami Trail, Punta Gorda. 6.b Award of Amendment 1 to Architect Design Group LLC of Winter Park, FL for pr",
+     "link": "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1362"
+    }
+   ],
+   "governments": [
+    "Punta Gorda"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "council directives": {
+   "name": "Council Directives",
+   "awards": [
+    {
+     "entity_id": "m-venice",
+     "government": "Venice",
+     "meeting_date": null,
+     "amount": null,
+     "text": "June 23, 2026City Council Meeting Agenda Appeal Application CC Affected Party Status Request - David Topian CC Affected Party Status Request - Mary Topian (Withdrawn) CC Affected Party Status Request -Brooks Mathews (Withdrawn) CC Affected Party Status Request -Bert Mathews (Withdrawn) CC Affected P",
+     "link": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1948"
+    }
+   ],
+   "governments": [
+    "Venice"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "ridge scenic highway connector trail": {
+   "name": "Ridge Scenic Highway Connector Trail",
+   "awards": [
+    {
+     "entity_id": "m-lakewales",
+     "government": "Lake Wales",
+     "meeting_date": null,
+     "amount": null,
+     "text": "CRA Funding Authorization \u2013 Interlocal Agreement Amendment for the Ridge Scenic Highway Connector Trail",
+     "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&event_id=1594"
+    }
+   ],
+   "governments": [
+    "Lake Wales"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "cei pdf": {
+   "name": "CEI.pdf",
+   "awards": [
+    {
+     "entity_id": "m-lakewales",
+     "government": "Lake Wales",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Memo for RSH funding for CEI.pdf",
+     "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&event_id=1594"
+    }
+   ],
+   "governments": [
+    "Lake Wales"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "mcgowin": {
+   "name": "McGowin",
+   "awards": [
+    {
+     "entity_id": "m-lakewales",
+     "government": "Lake Wales",
+     "meeting_date": null,
+     "amount": null,
+     "text": "The CRA Board will consider awarding the Food Services Grant to McGowin\u2019s on Park.",
+     "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&event_id=1594"
+    }
+   ],
+   "governments": [
+    "Lake Wales"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "downtown pizza": {
+   "name": "Downtown Pizza",
+   "awards": [
+    {
+     "entity_id": "m-lakewales",
+     "government": "Lake Wales",
+     "meeting_date": null,
+     "amount": null,
+     "text": "The CRA Board will consider awarding the Food Services Grant to Downtown Pizza & Sports Bar.",
+     "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&event_id=1594"
+    }
+   ],
+   "governments": [
+    "Lake Wales"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "lady b": {
+   "name": "Lady B",
+   "awards": [
+    {
+     "entity_id": "m-lakewales",
+     "government": "Lake Wales",
+     "meeting_date": null,
+     "amount": null,
+     "text": "The CRA Board will consider awarding the Food Services Grant to Lady B\u2019s Tea Parlour owned by Jessica Bray and Deborah Partlow, applicants.",
+     "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=967"
+    }
+   ],
+   "governments": [
+    "Lake Wales"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "park improvement invoices": {
+   "name": "Park Improvement Invoices",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "11.g Approval of Funding for Park Improvement Invoices (Reginald James, Interim County Administrator) 11.h Approval to Issue the Notice of Intent to Award, the Notice of Award, and Approval to Negotiate a contract with the selected proposer of Request for Qualifications (RFQ) 26-03 Professional CMAR",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=148"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "community events": {
+   "name": "Community Events",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "11.n Approval of RFP 26-10 Construction of Hurricane Special Needs Shelter Retrofit (Reginald James, Interim County Administrator/Kassandra McGlonn, Director of Grants Administration) 11.o Approval of RFP 26-11 Construction of Boys & Girls Club Facility-Quincy, Florida (Reginald James, Interim Count",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=148"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "apply for florida e911 rural county grant offered": {
+   "name": "Apply for the Florida E911 Rural County Grant Offered",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "11.a Request for Board Approval to Apply for the Florida E911 Rural County Grant Offered by the Florida Department of Management Services to Continue Year Two Services of the",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=146"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "gadsden county senior foundation": {
+   "name": "Gadsden County Senior Foundation",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": 25000.0,
+     "text": "Approval to reallocate budgeted funding for Gadsden County Senior Foundation, LLC within the Elder Affairs Budget to other line items in that same budget to serve seniors in FY25-26 (Reginald James, Interim County Administrator/Louis Baptiste, Interim County Attorney) 11.d Approval of Resolution 202",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=142"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 1,
+   "total_amount": 25000.0
+  },
+  "issue notice intent": {
+   "name": "Issue the Notice of Intent",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "11.a Approval to Issue the Notice of Intent to Award, the Notice of Award, and to negotiate contracts with the selected proposers of Request for Qualifications (RFQ) 26-02 Professional Engineering Services for Facilities, Parks, and Other Structures (Reginald James, Interim County Administrator/Rose",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=142"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "emergency operations center": {
+   "name": "Emergency Operations Center",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "A. Motion to approve amendment #3 to the State of Florida, Division of Emergency Management grant agreement number F0117 for the Emergency Operations Center; authorizing the County Manager or Chair to sign any necessary documents in furtherance thereof, and to expend funds as provided for in the gra",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=342"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "s main st": {
+   "name": "S Main St",
+   "awards": [
+    {
+     "entity_id": "m-gainesville",
+     "government": "Gainesville",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "FY26 Adopted Budget 10/1/2025 FY26 Amended Budget as of 9/3/2026 Recommended Amendments FY26 Amended Budget as of 9/30/2026 Attachment \"A\" Arts in Public Places Trust Sources: Interfund Transfer Revenue - 322,720.78 - 322,720.78 Use of Fund Balance - 42,744.65 - 42,744.65 Total Sources - 365,465.43 ",
+     "link": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=393,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Gainesville"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "special revenue fund": {
+   "name": "Special Revenue Fund",
+   "awards": [
+    {
+     "entity_id": "m-gainesville",
+     "government": "Gainesville",
+     "meeting_date": "2026-11-17",
+     "amount": 56820912.0,
+     "text": "SPECIAL REVENUE FUND \u2013 GRANTS The fifth budget amendment to Special Revenue Fund \u2013 Grants includes: \u2022 Intergovernmental Revenue: o $56,820,912 \u2013 reallocate revenue category to Intergovernmental Revenue from Use of Fund Balance o $119,162 \u2013 new revenue from the FY25 Edward Byrne Memorial Justice Assi",
+     "link": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=393,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Gainesville"
+   ],
+   "award_count": 1,
+   "total_amount": 56820912.0
+  },
+  "axon interview room camera body worn camera": {
+   "name": "AXON Interview Room Camera and Body Worn Camera",
+   "awards": [
+    {
+     "entity_id": "m-gainesville",
+     "government": "Gainesville",
+     "meeting_date": "2026-11-17",
+     "amount": 3040443.0,
+     "text": "PO Box 490 \u2022 Gainesville, Florida 32627 - 0490 www.CityofGainesville.org \u2022 Police: o $3,040,443 \u2013 funding for GASB 96 full cost allocations for AXON Interview Room Camera and Body Worn Camera software subscriptions \u2022 Public Works: o $1,279,357 \u2013 funding for Alachua County streetlights \u2022 Technology: ",
+     "link": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=393,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Gainesville"
+   ],
+   "award_count": 1,
+   "total_amount": 3040443.0
+  },
+  "genfare urban transportation association": {
+   "name": "Genfare and Urban Transportation Association",
+   "awards": [
+    {
+     "entity_id": "m-gainesville",
+     "government": "Gainesville",
+     "meeting_date": "2026-11-17",
+     "amount": 3100000.0,
+     "text": "transfer from the General Fund for long - term loan to eliminate the negative equity in pooled cash balance o $3,100,000 \u2013 Transportation - transfer from the General Fund to eliminate the negative equity in pooled cash balance o $200,689 \u2013 Transportation \u2013 funding for GASB 96 full cost allocations f",
+     "link": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=393,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Gainesville"
+   ],
+   "award_count": 1,
+   "total_amount": 3100000.0
+  },
+  "police for fy25": {
+   "name": "Police for FY25",
+   "awards": [
+    {
+     "entity_id": "m-gainesville",
+     "government": "Gainesville",
+     "meeting_date": "2026-11-17",
+     "amount": 1259825.0,
+     "text": "Expenditure appropriation adjustments include: \u2022 $1,259,825 \u2013 Transfer from the General Fund (Fund Balance) and addition to fund balance to resolve the negative fund balance in the Miscellaneous Grants Fund \u2022 $119,162 \u2013 Allocation for Police for FY25 (Local) Edward Byrne Memorial Justice Assistance ",
+     "link": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=393,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Gainesville"
+   ],
+   "award_count": 1,
+   "total_amount": 1259825.0
+  },
+  "nutrient reduction facility": {
+   "name": "Nutrient Reduction Facility",
+   "awards": [
+    {
+     "entity_id": "c-lake",
+     "government": "Lake County",
+     "meeting_date": "2026-11-18",
+     "amount": 525000.0,
+     "text": "BUILDING ON LEGISLATIVE PROGRESS LCWA\u2019s legislative efforts produced meaningful results during the year, securing $150,000 for the Nutrient Reduction Facility (NuRF) and $525,000 for the Pine Meadows Hicks Ditch Restoration Project in the State\u2019s Fiscal Year 2026- 2027 budget. The NuRF appropriation",
+     "link": "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7858,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Lake County"
+   ],
+   "award_count": 1,
+   "total_amount": 525000.0
+  },
+  "trout lake nature center": {
+   "name": "Trout Lake Nature Center",
+   "awards": [
+    {
+     "entity_id": "c-lake",
+     "government": "Lake County",
+     "meeting_date": "2026-11-18",
+     "amount": 80000.0,
+     "text": "Trout Lake Nature Center remained one of LCWA\u2019s most significant education partners. During FY 2026, LCWA supported restoration work and educational programming at the center. In August, the Board received an update highlighting middle-school water education, school visits, library programs, summer ",
+     "link": "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7858,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Lake County"
+   ],
+   "award_count": 1,
+   "total_amount": 80000.0
+  },
+  "marine patrol units": {
+   "name": "Marine Patrol Units",
+   "awards": [
+    {
+     "entity_id": "c-lake",
+     "government": "Lake County",
+     "meeting_date": "2026-11-18",
+     "amount": null,
+     "text": "\u2022 Continued funding and operational support for Marine Patrol Units.",
+     "link": "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7858,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Lake County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "kirkland ranch": {
+   "name": "Kirkland Ranch",
+   "awards": [
+    {
+     "entity_id": "c-pasco",
+     "government": "Pasco County",
+     "meeting_date": "2026-11-18",
+     "amount": null,
+     "text": "Mr. Covey used a PowerPoint presentation to review the item and spoke regarding that SWFWMD approved the funding and acquisition for the Kirkland Ranch site and the number of units throughout the lifespan of VOPH.",
+     "link": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12103,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Pasco County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "actuarially determined contribution contribution deficiency": {
+   "name": "Actuarially Determined Contribution Contribution Deficiency",
+   "awards": [
+    {
+     "entity_id": "m-casselberry",
+     "government": "Casselberry",
+     "meeting_date": "2026-11-16",
+     "amount": 2242833.0,
+     "text": "105 CITY OF CASSELBERRY, FLORIDA SCHEDULE OF CONTRIBUTIONS POLICE OFFICERS' AND FIREFIGHTERS' PENSION PLAN LAST 10 FISCAL YEARS Fiscal Year Ending September 30, Actuarially Determined Contribution Contributions in Relation to the Actuarially Determined Contribution Contribution Deficiency (Excess) C",
+     "link": "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3851,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Casselberry"
+   ],
+   "award_count": 1,
+   "total_amount": 2242833.0
+  },
+  "fuel island": {
+   "name": "Fuel Island",
+   "awards": [
+    {
+     "entity_id": "m-casselberry",
+     "government": "Casselberry",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "Account Number PO Number Vendor Project Number General Fund (001) Increase Decrease Revenues 001-0000-389-90-00 Provide funding for FY 2027 budget rollover 269,666 001-0000-389-90-00 Provide funding for FY 2027 budget rollover 1,230,334 001-0000-334-90-07-PW2110 PW2110 STATE GRANT FDEP LWCF DEW DROP",
+     "link": "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3851,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Casselberry"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "general employees defined contribution plan": {
+   "name": "General Employees' Defined Contribution Plan",
+   "awards": [
+    {
+     "entity_id": "m-casselberry",
+     "government": "Casselberry",
+     "meeting_date": "2026-11-16",
+     "amount": 1220249.0,
+     "text": "D. Defined Contribution Retirement Plan The City contributes to the General Employees' Defined Contribution Plan (DC Plan) for all full-time employees, other than certified police officers hired after January 1, 1996. All full-time and regular part-time general employees are eligible to participate ",
+     "link": "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3851,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Casselberry"
+   ],
+   "award_count": 1,
+   "total_amount": 1220249.0
+  },
+  "frs his": {
+   "name": "FRS and HIS",
+   "awards": [
+    {
+     "entity_id": "m-casselberry",
+     "government": "Casselberry",
+     "meeting_date": "2026-11-16",
+     "amount": 150.0,
+     "text": "CITY OF CASSELBERRY, FLORIDA NOTES TO FINANCIAL STATEMENTS - Continued September 30, 2025 76 Fund and accrue interest. The net pension liability does not include amounts for DROP participants, as these members are considered retired and are not accruing additional pension benefits. Membership and Pl",
+     "link": "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3851,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Casselberry"
+   ],
+   "award_count": 1,
+   "total_amount": 150.0
+  },
+  "arpa project pw 1706": {
+   "name": "ARPA Project PW-1706",
+   "awards": [
+    {
+     "entity_id": "m-casselberry",
+     "government": "Casselberry",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "EXPLANATION OF REQUEST: This item seeks City Commission approval to amend the Fiscal Year 2026 budget in order to provide funding for retainage for ARPA Project PW-1706 cleanup. According to City policy based on budget adoption, expenditures/expenses in all categories must remain within budget.",
+     "link": "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3851,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Casselberry"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "cra cra": {
+   "name": "CRA. The CRA",
+   "awards": [
+    {
+     "entity_id": "m-casselberry",
+     "government": "Casselberry",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "A. The Reporting Entity The City was created under general law pursuant to voters' referendum held on October 30, 1940. The most recent amendments to the City Charter were adopted by way of voters' referendum held on August 14, 2016. The legislative branch of the City is composed of a five (5) membe",
+     "link": "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3851,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Casselberry"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "opeb": {
+   "name": "OPEB. The",
+   "awards": [
+    {
+     "entity_id": "m-casselberry",
+     "government": "Casselberry",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "R. Deferred Inflows of Resources/Deferred Outflows of Resources In addition to assets and liabilities, the City reports the financial statement elements of deferred outflows of resources and deferred inflows of resources. Deferred outflows of resources represent a consumption of net assets that appl",
+     "link": "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3851,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Casselberry"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "title i": {
+   "name": "Title I",
+   "awards": [
+    {
+     "entity_id": "m-cocoa",
+     "government": "Cocoa",
+     "meeting_date": "2026-11-19",
+     "amount": 103352.0,
+     "text": "2. Grantee's Complete Address (as shown in item S of Standard Form 424) 4. Date use of funds may begin 65 Stone Street (mm/dd/yyyy) Cocoa, FL 32922 Sa. Project/Grant No. 1 6a. Amount Approved B-20-MW-12-0003 $103,352 Sb. Project/Grant No. 2 6b. Amount Approved Grant Agreement: This Grant Agreement b",
+     "link": "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2633,plainText=false)"
+    },
+    {
+     "entity_id": "m-cocoa",
+     "government": "Cocoa",
+     "meeting_date": "2026-11-19",
+     "amount": 133.0,
+     "text": "2. Grantee's Complete Address (as shown in item 5 of Standard Form 424) 4. Date use of funds may begin 603 Brevard Ave 07/17/2020 Cocoa, FL 32922-7807 5a. ProjecUGrant No. 1 6a. Amount Approved B-20-MW-12-0003 $133 ,363 5b. ProjecUGrant No. 2 6b. Amount Approved Grant Agreement: Thi s Grant Agreemen",
+     "link": "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2633,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Cocoa"
+   ],
+   "award_count": 2,
+   "total_amount": 103485.0
+  },
+  "covid cv3": {
+   "name": "COVID-CV3",
+   "awards": [
+    {
+     "entity_id": "m-cocoa",
+     "government": "Cocoa",
+     "meeting_date": "2026-11-19",
+     "amount": 19716.0,
+     "text": "This amendment reallocates $19,716 from 103 (CDBG Fund) Federal Grant revenue for COVID-CV3 to 001 (General Fund) Community Development Funds for general fund to pay for the costs that were incurred after July 17, 2026. Staff is requesting Council approve the Budget Resolution and Budget Amendment, ",
+     "link": "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2633,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Cocoa"
+   ],
+   "award_count": 1,
+   "total_amount": 19716.0
+  },
+  "grantees": {
+   "name": "Grantees",
+   "awards": [
+    {
+     "entity_id": "m-cocoa",
+     "government": "Cocoa",
+     "meeting_date": "2026-11-19",
+     "amount": null,
+     "text": "Additional CDBG-CV Requirements In addition to the terms and conditions in the Funding Approval/Agreement, the following requirements apply to Grantees receiving CD BG -CV funds in accordance with the Coronavirus Aid, Relief and Economic Security Act (CARES Act) (Pub. L. 116-136).",
+     "link": "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2633,plainText=false)"
+    },
+    {
+     "entity_id": "m-cocoa",
+     "government": "Cocoa",
+     "meeting_date": "2026-11-19",
+     "amount": null,
+     "text": "Additional CDBG -CV Requirements In addition to the terms and conditions in the Funding Approval/ Agreement, the following requirements apply to Grantees receiving CDBG -CV funds in accordance with the Coronavirus Aid, Relief and Economic Security Act (CARES Act) (Pub . L. 116-136). 1} The Grantee a",
+     "link": "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2633,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Cocoa"
+   ],
+   "award_count": 2,
+   "total_amount": 0
+  },
+  "hud recipient": {
+   "name": "HUD. The Recipient",
+   "awards": [
+    {
+     "entity_id": "m-cocoa",
+     "government": "Cocoa",
+     "meeting_date": "2026-11-19",
+     "amount": null,
+     "text": "6) The Recipient shall attach a schedule of its indirect cost rate(s) in the format set forth below to the executed Funding Approval/Agreement that is returned to HUD. The Recipient shall provide HUD with a revised schedule when any change is made to the rate(s) described in the schedule. The schedu",
+     "link": "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2633,plainText=false)"
+    },
+    {
+     "entity_id": "m-cocoa",
+     "government": "Cocoa",
+     "meeting_date": "2026-11-19",
+     "amount": null,
+     "text": "4) The grantee agrees to establish and maintain adequate procedures to prevent any duplication of benefits as required by section 312 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5155), as amended by section 1210 of the Disaster Recovery Reform Act of 2018 (divis",
+     "link": "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2633,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Cocoa"
+   ],
+   "award_count": 2,
+   "total_amount": 0
+  },
+  "cdbg funds used": {
+   "name": "CDBG Funds Used",
+   "awards": [
+    {
+     "entity_id": "m-cocoa",
+     "government": "Cocoa",
+     "meeting_date": "2026-11-19",
+     "amount": null,
+     "text": "Key CPD COVID-19 Program Information and Guidance Community Development Block Grant CDBG COVID-19 Resources CARES Act Flexibilities for CDBG Funds Used to Support Coronavirus Response and plan amendment waiver CDBG Eligible Activities to Support Infectious Disease Response Grantee Questions: CPDQues",
+     "link": "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2633,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Cocoa"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "existing conditions": {
+   "name": "Existing Conditions",
+   "awards": [
+    {
+     "entity_id": "c-stlucie",
+     "government": "St. Lucie County",
+     "meeting_date": "2026-11-19",
+     "amount": null,
+     "text": "Traffic Impact Analysis k:\\wpd_tpto\\245490005 - pruitt commerce center (tcerda)\\tia\\2026-05-15 pruitt tia-text.docx Page | 10 committed traffic taken from the Hope Commercial traffic study and other committed developments requested by the county. Future Total Conditions (2035) This analysis scenario",
+     "link": "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12866,plainText=false)"
+    }
+   ],
+   "governments": [
+    "St. Lucie County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
   }
  },
- "generated_utc": "2026-11-16T20:16:10+00:00",
+ "generated_utc": "2026-11-17T15:18:59+00:00",
  "multi_government": [
   "commission",
   "section",
   "contractor",
   "florida department environmental protection",
   "general fund",
+  "improvements",
   "american",
   "martin luther king jr avenue",
   "cra board",
@@ -15195,6 +16009,7 @@
   "supplier",
   "sourcewell",
   "florida department transportation",
+  "authority",
   "interlocal agreement",
   "amendment no",
   "division",

@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-16T19:47:28+00:00",
- "count": 201,
+ "generated_utc": "2026-11-17T14:47:49+00:00",
+ "count": 198,
  "governments": {
   "m-fortlauderdale": {
    "name": "Fort Lauderdale",
@@ -27,7 +27,7 @@
    "name": "Hillsborough County",
    "status": "ok",
    "client": "hillsboroughcounty",
-   "events": 2,
+   "events": 1,
    "flagged": 0
   },
   "m-clearwater": {
@@ -109,7 +109,7 @@
    "name": "Deltona",
    "status": "ok",
    "client": "deltona",
-   "events": 7,
+   "events": 5,
    "flagged": 1
   },
   "m-northport": {
@@ -151,14 +151,14 @@
    "name": "Port St. Lucie",
    "status": "ok",
    "client": "psl",
-   "events": 10,
-   "flagged": 3
+   "events": 11,
+   "flagged": 0
   },
   "m-plantcity": {
    "name": "Plant City",
    "status": "ok",
    "client": "plantcity",
-   "events": 2,
+   "events": 1,
    "flagged": 0
   },
   "m-aventura": {
@@ -179,7 +179,7 @@
    "name": "Marion County",
    "status": "ok",
    "client": "marionfl",
-   "events": 9,
+   "events": 7,
    "flagged": 23
   },
   "m-pompanobeach": {
@@ -193,7 +193,7 @@
    "name": "Brevard County",
    "status": "ok",
    "client": "brevardfl",
-   "events": 5,
+   "events": 4,
    "flagged": 2
   },
   "c-desoto": {
