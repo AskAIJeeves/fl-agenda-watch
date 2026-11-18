@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-17T19:10:27+00:00",
- "count": 199,
+ "generated_utc": "2026-11-18T07:10:12+00:00",
+ "count": 122,
  "governments": {
   "m-fortlauderdale": {
    "name": "Fort Lauderdale",
@@ -13,8 +13,8 @@
    "name": "Broward County",
    "status": "ok",
    "client": "broward",
-   "events": 2,
-   "flagged": 19
+   "events": 1,
+   "flagged": 0
   },
   "c-pinellas": {
    "name": "Pinellas County",
@@ -41,8 +41,8 @@
    "name": "Jacksonville",
    "status": "ok",
    "client": "jaxcityc",
-   "events": 10,
-   "flagged": 116
+   "events": 8,
+   "flagged": 77
   },
   "m-pinellaspark": {
    "name": "Pinellas Park",
@@ -62,7 +62,7 @@
    "name": "Hollywood",
    "status": "ok",
    "client": "hollywoodfl",
-   "events": 2,
+   "events": 0,
    "flagged": 0
   },
   "m-gainesville": {
@@ -76,8 +76,8 @@
    "name": "Seminole County",
    "status": "ok",
    "client": "seminolecountyfl",
-   "events": 5,
-   "flagged": 14
+   "events": 4,
+   "flagged": 0
   },
   "c-polk": {
    "name": "Polk County",
@@ -103,7 +103,7 @@
    "status": "ok",
    "client": "miramar",
    "events": 3,
-   "flagged": 12
+   "flagged": 11
   },
   "m-deltona": {
    "name": "Deltona",
@@ -116,8 +116,8 @@
    "name": "North Port",
    "status": "ok",
    "client": "cityofnorthport",
-   "events": 17,
-   "flagged": 13
+   "events": 15,
+   "flagged": 6
   },
   "m-doral": {
    "name": "Doral",
@@ -144,21 +144,21 @@
    "name": "Orange County",
    "status": "ok",
    "client": "occompt",
-   "events": 2,
-   "flagged": 19
+   "events": 1,
+   "flagged": 0
   },
   "m-portstlucie": {
    "name": "Port St. Lucie",
    "status": "ok",
    "client": "psl",
-   "events": 11,
+   "events": 10,
    "flagged": 0
   },
   "m-plantcity": {
    "name": "Plant City",
    "status": "ok",
    "client": "plantcity",
-   "events": 2,
+   "events": 3,
    "flagged": 0
   },
   "m-aventura": {
@@ -179,28 +179,28 @@
    "name": "Marion County",
    "status": "ok",
    "client": "marionfl",
-   "events": 8,
+   "events": 7,
    "flagged": 23
   },
   "m-pompanobeach": {
    "name": "Pompano Beach",
    "status": "ok",
    "client": "pompano",
-   "events": 3,
-   "flagged": 6
+   "events": 2,
+   "flagged": 0
   },
   "c-brevard": {
    "name": "Brevard County",
    "status": "ok",
    "client": "brevardfl",
-   "events": 5,
-   "flagged": 2
+   "events": 4,
+   "flagged": 0
   },
   "c-desoto": {
    "name": "DeSoto County",
    "status": "ok",
    "client": "desotobocc",
-   "events": 2,
+   "events": 1,
    "flagged": 1
   }
  }
