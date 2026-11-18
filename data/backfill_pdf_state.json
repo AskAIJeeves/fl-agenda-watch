@@ -1,7 +1,97 @@
 {
  "list_errors": {},
- "remaining": 768,
+ "remaining": 268,
  "seen": {
+  "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3050,plainText=false)": {
+   "date": "2026-02-18",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3052,plainText=false)": {
+   "date": "2026-02-18",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3055,plainText=false)": {
+   "date": "2026-02-25",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3057,plainText=false)": {
+   "date": "2026-03-04",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3059,plainText=false)": {
+   "date": "2026-03-04",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3063,plainText=false)": {
+   "date": "2026-03-10",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3066,plainText=false)": {
+   "date": "2026-03-11",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3068,plainText=false)": {
+   "date": "2026-03-18",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3072,plainText=false)": {
+   "date": "2026-03-18",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3076,plainText=false)": {
+   "date": "2026-03-25",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3082,plainText=false)": {
+   "date": "2026-04-01",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3084,plainText=false)": {
+   "date": "2026-04-01",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3086,plainText=false)": {
+   "date": "2026-04-08",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3088,plainText=false)": {
+   "date": "2026-04-14",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3092,plainText=false)": {
+   "date": "2026-04-15",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3098,plainText=false)": {
+   "date": "2026-04-15",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3104,plainText=false)": {
+   "date": "2026-04-15",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3106,plainText=false)": {
+   "date": "2026-04-22",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3108,plainText=false)": {
    "date": "2026-04-29",
    "hits": 0,
@@ -317,6 +407,76 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://bartowfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4255,plainText=false)": {
+   "date": "2026-02-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://bartowfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4259,plainText=false)": {
+   "date": "2026-02-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://bartowfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4264,plainText=false)": {
+   "date": "2026-02-25",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://bartowfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5265,plainText=false)": {
+   "date": "2026-02-25",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://bartowfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6277,plainText=false)": {
+   "date": "2026-03-02",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://bartowfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6285,plainText=false)": {
+   "date": "2026-03-04",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://bartowfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6302,plainText=false)": {
+   "date": "2026-03-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://bartowfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6319,plainText=false)": {
+   "date": "2026-03-25",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://bartowfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6331,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://bartowfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6350,plainText=false)": {
+   "date": "2026-04-08",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://bartowfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6353,plainText=false)": {
+   "date": "2026-04-06",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://bartowfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6358,plainText=false)": {
+   "date": "2026-04-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://bartowfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6367,plainText=false)": {
+   "date": "2026-04-22",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://bartowfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6368,plainText=false)": {
+   "date": "2026-04-20",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://bartowfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6370,plainText=false)": {
    "date": "2026-04-29",
    "hits": 1,
@@ -350,6 +510,41 @@
   "https://bartowfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7415,plainText=false)": {
    "date": "2026-06-15",
    "hits": 0,
+   "status": "ok"
+  },
+  "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3708,plainText=false)": {
+   "date": "2026-02-23",
+   "hits": 3,
+   "status": "ok"
+  },
+  "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3712,plainText=false)": {
+   "date": "2026-02-25",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3716,plainText=false)": {
+   "date": "2026-03-11",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3724,plainText=false)": {
+   "date": "2026-03-09",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3727,plainText=false)": {
+   "date": "2026-04-08",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3733,plainText=false)": {
+   "date": "2026-04-13",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3737,plainText=false)": {
+   "date": "2026-04-27",
+   "hits": 3,
    "status": "ok"
   },
   "https://casselberryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3747,plainText=false)": {
@@ -447,6 +642,21 @@
    "hits": 3,
    "status": "ok"
   },
+  "https://cityofoviedo.primegov.com/Public/CompiledDocument?meetingTemplateId=10921&compileOutputType=1": {
+   "date": "2026-03-02",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://cityofoviedo.primegov.com/Public/CompiledDocument?meetingTemplateId=10929&compileOutputType=1": {
+   "date": "2026-04-06",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://cityofoviedo.primegov.com/Public/CompiledDocument?meetingTemplateId=10933&compileOutputType=1": {
+   "date": "2026-04-20",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://cityofoviedo.primegov.com/Public/CompiledDocument?meetingTemplateId=10937&compileOutputType=1": {
    "date": "2026-05-04",
    "hits": 0,
@@ -477,8 +687,63 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://cityofoviedo.primegov.com/Public/CompiledDocument?meetingTemplateId=11073&compileOutputType=1": {
+   "date": "2026-02-25",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://cityofoviedo.primegov.com/Public/CompiledDocument?meetingTemplateId=11077&compileOutputType=1": {
+   "date": "2026-03-11",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://cityofoviedo.primegov.com/Public/CompiledDocument?meetingTemplateId=11081&compileOutputType=1": {
+   "date": "2026-03-25",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://cityofoviedo.primegov.com/Public/CompiledDocument?meetingTemplateId=11089&compileOutputType=1": {
+   "date": "2026-04-22",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://cityofoviedo.primegov.com/Public/CompiledDocument?meetingTemplateId=11097&compileOutputType=1": {
+   "date": "2026-02-18",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://cityofoviedo.primegov.com/Public/CompiledDocument?meetingTemplateId=11101&compileOutputType=1": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://cityofoviedo.primegov.com/Public/CompiledDocument?meetingTemplateId=11109&compileOutputType=1": {
+   "date": "2026-04-20",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://cityofoviedo.primegov.com/Public/CompiledDocument?meetingTemplateId=11121&compileOutputType=1": {
+   "date": "2026-03-30",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://cityofoviedo.primegov.com/Public/CompiledDocument?meetingTemplateId=11125&compileOutputType=1": {
+   "date": "2026-03-18",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://cityofoviedo.primegov.com/Public/CompiledDocument?meetingTemplateId=11141&compileOutputType=1": {
+   "date": "2026-04-27",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://cityofoviedo.primegov.com/Public/CompiledDocument?meetingTemplateId=11145&compileOutputType=1": {
    "date": "2026-06-29",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://cityofoviedo.primegov.com/Public/CompiledDocument?meetingTemplateId=11149&compileOutputType=1": {
+   "date": "2026-04-15",
    "hits": 0,
    "status": "ok"
   },
@@ -514,6 +779,11 @@
   },
   "https://cityofoviedo.primegov.com/Public/CompiledDocument?meetingTemplateId=11189&compileOutputType=1": {
    "date": "2026-05-19",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://cityofoviedo.primegov.com/Public/CompiledDocument?meetingTemplateId=11193&compileOutputType=1": {
+   "date": "2026-04-27",
    "hits": 0,
    "status": "ok"
   },
@@ -679,6 +949,71 @@
   },
   "https://cityofoviedo.primegov.com/Public/CompiledDocument?meetingTemplateId=11381&compileOutputType=1": {
    "date": "2026-11-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5556,plainText=false)": {
+   "date": "2026-02-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5562,plainText=false)": {
+   "date": "2026-02-24",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5564,plainText=false)": {
+   "date": "2026-02-25",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5566,plainText=false)": {
+   "date": "2026-02-25",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5570,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5578,plainText=false)": {
+   "date": "2026-03-10",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5580,plainText=false)": {
+   "date": "2026-03-11",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5582,plainText=false)": {
+   "date": "2026-03-10",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5588,plainText=false)": {
+   "date": "2026-03-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5594,plainText=false)": {
+   "date": "2026-03-24",
+   "hits": 3,
+   "status": "ok"
+  },
+  "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5599,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5605,plainText=false)": {
+   "date": "2026-04-14",
+   "hits": 7,
+   "status": "ok"
+  },
+  "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5611,plainText=false)": {
+   "date": "2026-04-21",
    "hits": 0,
    "status": "ok"
   },
@@ -934,6 +1269,56 @@
   },
   "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5856,plainText=false)": {
    "date": "2026-11-10",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2150,plainText=false)": {
+   "date": "2026-02-17",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2167,plainText=false)": {
+   "date": "2026-03-19",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2171,plainText=false)": {
+   "date": "2026-03-24",
+   "hits": 3,
+   "status": "ok"
+  },
+  "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2173,plainText=false)": {
+   "date": "2026-04-01",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2175,plainText=false)": {
+   "date": "2026-04-01",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2181,plainText=false)": {
+   "date": "2026-04-06",
+   "hits": 6,
+   "status": "ok"
+  },
+  "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2191,plainText=false)": {
+   "date": "2026-03-10",
+   "hits": 13,
+   "status": "ok"
+  },
+  "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2203,plainText=false)": {
+   "date": "2026-04-14",
+   "hits": 29,
+   "status": "ok"
+  },
+  "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2216,plainText=false)": {
+   "date": "2026-04-20",
+   "hits": 9,
+   "status": "ok"
+  },
+  "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2245,plainText=false)": {
+   "date": "2026-04-21",
    "hits": 0,
    "status": "ok"
   },
@@ -1230,6 +1615,11 @@
    "error": "doc sion%20-%20Nov%2004%202026.pdf?handle=A9C23B5496634317ADFA613B2B6BD74C: Reached maximum array element count.",
    "hits": 0,
    "status": "error"
+  },
+  "https://codb.civicweb.net/Portal/MeetingInformation.aspx?Id=3464": {
+   "date": "2026-11-18",
+   "hits": 19,
+   "status": "ok"
   },
   "https://codb.civicweb.net/Portal/MeetingInformation.aspx?Id=3474": {
    "date": "2026-01-21",
@@ -1628,6 +2018,11 @@
   "https://codb.civicweb.net/Portal/MeetingInformation.aspx?Id=3574": {
    "status": "no_doc"
   },
+  "https://codb.civicweb.net/Portal/MeetingInformation.aspx?Id=3599": {
+   "date": "2026-11-18",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://codb.civicweb.net/Portal/MeetingInformation.aspx?Id=3600": {
    "date": "2026-11-03",
    "hits": 3,
@@ -1923,6 +2318,76 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://colliercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3743,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://crestviewfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3528,plainText=false)": {
+   "date": "2026-02-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://crestviewfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3531,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://crestviewfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3536,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://crestviewfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3539,plainText=false)": {
+   "date": "2026-03-02",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://crestviewfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3550,plainText=false)": {
+   "date": "2026-03-09",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://crestviewfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3553,plainText=false)": {
+   "date": "2026-03-10",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://crestviewfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3561,plainText=false)": {
+   "date": "2026-03-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://crestviewfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3567,plainText=false)": {
+   "date": "2026-04-06",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://crestviewfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3580,plainText=false)": {
+   "date": "2026-04-13",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://crestviewfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3583,plainText=false)": {
+   "date": "2026-04-14",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://crestviewfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3586,plainText=false)": {
+   "date": "2026-04-20",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://crestviewfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3598,plainText=false)": {
+   "date": "2026-04-27",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://crestviewfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3602,plainText=false)": {
+   "date": "2026-04-27",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://crestviewfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3614,plainText=false)": {
    "date": "2026-05-11",
    "hits": 0,
@@ -2073,6 +2538,41 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3339,plainText=false)": {
+   "date": "2026-02-24",
+   "hits": 3,
+   "status": "ok"
+  },
+  "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3346,plainText=false)": {
+   "date": "2026-03-10",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3348,plainText=false)": {
+   "date": "2026-03-10",
+   "hits": 4,
+   "status": "ok"
+  },
+  "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3350,plainText=false)": {
+   "date": "2026-03-12",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3360,plainText=false)": {
+   "date": "2026-03-24",
+   "hits": 3,
+   "status": "ok"
+  },
+  "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3370,plainText=false)": {
+   "date": "2026-04-14",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3379,plainText=false)": {
+   "date": "2026-04-14",
+   "hits": 6,
+   "status": "ok"
+  },
   "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3384,plainText=false)": {
    "date": "2026-04-28",
    "hits": 1,
@@ -2165,6 +2665,16 @@
   },
   "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3531,plainText=false)": {
    "date": "2026-10-27",
+   "hits": 5,
+   "status": "ok"
+  },
+  "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3535,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3541,plainText=false)": {
+   "date": "2026-11-17",
    "hits": 5,
    "status": "ok"
   },
@@ -2381,6 +2891,91 @@
   "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3346,plainText=false)": {
    "date": "2026-11-10",
    "hits": 1,
+   "status": "ok"
+  },
+  "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3358,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 3,
+   "status": "ok"
+  },
+  "https://delandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2178,plainText=false)": {
+   "date": "2026-02-28",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://delandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2185,plainText=false)": {
+   "date": "2026-03-02",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://delandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2192,plainText=false)": {
+   "date": "2026-03-02",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://delandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2194,plainText=false)": {
+   "date": "2026-02-26",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://delandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2202,plainText=false)": {
+   "date": "2026-03-09",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://delandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2206,plainText=false)": {
+   "date": "2026-03-09",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://delandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2211,plainText=false)": {
+   "date": "2026-03-11",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://delandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2216,plainText=false)": {
+   "date": "2026-03-19",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://delandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2219,plainText=false)": {
+   "date": "2026-03-16",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://delandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2230,plainText=false)": {
+   "date": "2026-03-28",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://delandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2232,plainText=false)": {
+   "date": "2026-03-30",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://delandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2240,plainText=false)": {
+   "date": "2026-04-06",
+   "hits": 4,
+   "status": "ok"
+  },
+  "https://delandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2244,plainText=false)": {
+   "date": "2026-04-08",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://delandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2247,plainText=false)": {
+   "date": "2026-04-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://delandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2248,plainText=false)": {
+   "date": "2026-04-15",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://delandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2258,plainText=false)": {
+   "date": "2026-04-20",
+   "hits": 3,
    "status": "ok"
   },
   "https://delandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2276,plainText=false)": {
@@ -2630,6 +3225,51 @@
   },
   "https://delandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2535,plainText=false)": {
    "date": "2026-11-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://delandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2540,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3671,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3673,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3676,plainText=false)": {
+   "date": "2026-04-13",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3678,plainText=false)": {
+   "date": "2026-04-14",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3680,plainText=false)": {
+   "date": "2026-04-15",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3683,plainText=false)": {
+   "date": "2026-04-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3691,plainText=false)": {
+   "date": "2026-04-20",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3699,plainText=false)": {
+   "date": "2026-04-23",
    "hits": 0,
    "status": "ok"
   },
@@ -2940,6 +3580,21 @@
   },
   "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3931,plainText=false)": {
    "date": "2026-11-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3934,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3938,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3940,plainText=false)": {
+   "date": "2026-11-17",
    "hits": 0,
    "status": "ok"
   },
@@ -3438,6 +4093,16 @@
    "hits": 4,
    "status": "ok"
   },
+  "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5370,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5374,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1092,plainText=false)": {
    "date": "2026-06-18",
    "hits": 0,
@@ -3445,6 +4110,11 @@
   },
   "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1103,plainText=false)": {
    "date": "2026-06-24",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1105,plainText=false)": {
+   "date": "2026-04-07",
    "hits": 0,
    "status": "ok"
   },
@@ -3468,8 +4138,28 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1273,plainText=false)": {
+   "date": "2026-03-11",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1323,plainText=false)": {
    "date": "2026-05-07",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1325,plainText=false)": {
+   "date": "2026-04-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1328,plainText=false)": {
+   "date": "2026-04-02",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1331,plainText=false)": {
+   "date": "2026-02-19",
    "hits": 0,
    "status": "ok"
   },
@@ -3556,6 +4246,31 @@
   "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=49,plainText=false)": {
    "date": "2026-05-07",
    "hits": 0,
+   "status": "ok"
+  },
+  "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=52,plainText=false)": {
+   "date": "2026-04-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=55,plainText=false)": {
+   "date": "2026-04-02",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=58,plainText=false)": {
+   "date": "2026-03-19",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=61,plainText=false)": {
+   "date": "2026-03-05",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=64,plainText=false)": {
+   "date": "2026-02-19",
+   "hits": 1,
    "status": "ok"
   },
   "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11130,plainText=false)": {
@@ -3933,6 +4648,16 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12647,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12651,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 8,
+   "status": "ok"
+  },
   "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12662,plainText=false)": {
    "date": "2026-11-16",
    "hits": 0,
@@ -4015,6 +4740,11 @@
   },
   "https://flaglercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2113,plainText=false)": {
    "date": "2026-11-10",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://flaglercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2119,plainText=false)": {
+   "date": "2026-11-17",
    "hits": 0,
    "status": "ok"
   },
@@ -4193,6 +4923,11 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=392,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=42,plainText=false)": {
    "date": "2026-09-24",
    "hits": 0,
@@ -4253,6 +4988,11 @@
    "hits": 2,
    "status": "ok"
   },
+  "https://greenacresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=259,plainText=false)": {
+   "date": "2026-03-02",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://greenacresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2794,plainText=false)": {
    "date": "2026-09-08",
    "hits": 0,
@@ -4293,6 +5033,26 @@
    "hits": 4,
    "status": "ok"
   },
+  "https://greenacresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=367,plainText=false)": {
+   "date": "2026-03-11",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://greenacresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=39,plainText=false)": {
+   "date": "2026-04-09",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://greenacresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=686,plainText=false)": {
+   "date": "2026-04-06",
+   "hits": 5,
+   "status": "ok"
+  },
+  "https://greenacresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=693,plainText=false)": {
+   "date": "2026-04-20",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://greenacresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=698,plainText=false)": {
    "date": "2026-05-04",
    "hits": 0,
@@ -4300,6 +5060,11 @@
   },
   "https://greenacresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=706,plainText=false)": {
    "date": "2026-05-14",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://greenacresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=709,plainText=false)": {
+   "date": "2026-04-08",
    "hits": 0,
    "status": "ok"
   },
@@ -4350,6 +5115,56 @@
   },
   "https://greenacresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=772,plainText=false)": {
    "date": "2026-07-20",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://highlandscofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2217,plainText=false)": {
+   "date": "2026-02-17",
+   "hits": 3,
+   "status": "ok"
+  },
+  "https://highlandscofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3211,plainText=false)": {
+   "date": "2026-02-26",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://highlandscofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3219,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 7,
+   "status": "ok"
+  },
+  "https://highlandscofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3232,plainText=false)": {
+   "date": "2026-03-10",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://highlandscofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3240,plainText=false)": {
+   "date": "2026-03-17",
+   "hits": 6,
+   "status": "ok"
+  },
+  "https://highlandscofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3242,plainText=false)": {
+   "date": "2026-03-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://highlandscofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3253,plainText=false)": {
+   "date": "2026-04-14",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://highlandscofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3274,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://highlandscofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3299,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 8,
+   "status": "ok"
+  },
+  "https://highlandscofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3303,plainText=false)": {
+   "date": "2026-04-21",
    "hits": 0,
    "status": "ok"
   },
@@ -4551,6 +5366,16 @@
   "https://highlandscofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3674,plainText=false)": {
    "date": "2026-11-03",
    "hits": 0,
+   "status": "ok"
+  },
+  "https://highlandscofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3681,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://highlandscofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4691,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 6,
    "status": "ok"
   },
   "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3195,plainText=false)": {
@@ -4933,9 +5758,44 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3455,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3461,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3462,plainText=false)": {
    "date": "2026-11-16",
    "hits": 0,
+   "status": "ok"
+  },
+  "https://invernessfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=238,plainText=false)": {
+   "date": "2026-02-17",
+   "hits": 5,
+   "status": "ok"
+  },
+  "https://invernessfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=241,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 3,
+   "status": "ok"
+  },
+  "https://invernessfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=245,plainText=false)": {
+   "date": "2026-03-17",
+   "hits": 4,
+   "status": "ok"
+  },
+  "https://invernessfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=251,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 3,
+   "status": "ok"
+  },
+  "https://invernessfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=254,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 4,
    "status": "ok"
   },
   "https://invernessfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=257,plainText=false)": {
@@ -5001,6 +5861,41 @@
   "https://invernessfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=300,plainText=false)": {
    "date": "2026-11-04",
    "hits": 2,
+   "status": "ok"
+  },
+  "https://invernessfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=303,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 13,
+   "status": "ok"
+  },
+  "https://jacksoncofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2701,plainText=false)": {
+   "date": "2026-02-24",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://jacksoncofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3709,plainText=false)": {
+   "date": "2026-03-10",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://jacksoncofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3720,plainText=false)": {
+   "date": "2026-03-24",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://jacksoncofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3733,plainText=false)": {
+   "date": "2026-04-14",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://jacksoncofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3744,plainText=false)": {
+   "date": "2026-04-28",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://jacksoncofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3752,plainText=false)": {
+   "date": "2026-04-28",
+   "hits": 0,
    "status": "ok"
   },
   "https://jacksoncofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3756,plainText=false)": {
@@ -5091,6 +5986,46 @@
   "https://jacksoncofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3912,plainText=false)": {
    "date": "2026-11-10",
    "hits": 2,
+   "status": "ok"
+  },
+  "https://jacksoncofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3916,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://jacksonvillebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3996,plainText=false)": {
+   "date": "2026-03-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://jacksonvillebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4015,plainText=false)": {
+   "date": "2026-04-06",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://jacksonvillebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4020,plainText=false)": {
+   "date": "2026-04-15",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://jacksonvillebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4025,plainText=false)": {
+   "date": "2026-04-13",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://jacksonvillebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4027,plainText=false)": {
+   "date": "2026-04-20",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://jacksonvillebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4037,plainText=false)": {
+   "date": "2026-04-27",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://jacksonvillebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4040,plainText=false)": {
+   "date": "2026-04-27",
+   "hits": 0,
    "status": "ok"
   },
   "https://jacksonvillebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4053,plainText=false)": {
@@ -5298,8 +6233,113 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://jacksonvillebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4275,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://jacksonvillebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4279,plainText=false)": {
    "date": "2026-11-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://jacksonvillebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4281,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1848,plainText=false)": {
+   "date": "2026-02-17",
+   "hits": 4,
+   "status": "ok"
+  },
+  "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1851,plainText=false)": {
+   "date": "2026-02-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1857,plainText=false)": {
+   "date": "2026-03-09",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1860,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 3,
+   "status": "ok"
+  },
+  "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1864,plainText=false)": {
+   "date": "2026-03-10",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1866,plainText=false)": {
+   "date": "2026-03-11",
+   "hits": 3,
+   "status": "ok"
+  },
+  "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1867,plainText=false)": {
+   "date": "2026-03-17",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1869,plainText=false)": {
+   "date": "2026-03-17",
+   "hits": 6,
+   "status": "ok"
+  },
+  "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1877,plainText=false)": {
+   "date": "2026-03-30",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1881,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 3,
+   "status": "ok"
+  },
+  "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1884,plainText=false)": {
+   "date": "2026-04-10",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1887,plainText=false)": {
+   "date": "2026-04-08",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1893,plainText=false)": {
+   "date": "2026-04-20",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1896,plainText=false)": {
+   "date": "2026-04-13",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1897,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1903,plainText=false)": {
+   "date": "2026-04-14",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1905,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 6,
+   "status": "ok"
+  },
+  "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1910,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1920,plainText=false)": {
+   "date": "2026-04-27",
    "hits": 0,
    "status": "ok"
   },
@@ -5548,6 +6588,11 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2160,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 9,
+   "status": "ok"
+  },
   "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2166,plainText=false)": {
    "date": "2026-11-16",
    "hits": 0,
@@ -5710,6 +6755,21 @@
   },
   "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11205,plainText=false)": {
    "date": "2026-11-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11223,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11227,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 15,
+   "status": "ok"
+  },
+  "https://kissimmeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=11229,plainText=false)": {
+   "date": "2026-11-17",
    "hits": 0,
    "status": "ok"
   },
@@ -5923,6 +6983,16 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1237,plainText=false)": {
+   "date": "2026-04-14",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1239,plainText=false)": {
+   "date": "2026-03-10",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1360,plainText=false)": {
    "date": "2026-11-02",
    "hits": 3,
@@ -5988,6 +7058,31 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=458,plainText=false)": {
+   "date": "2026-04-20",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=461,plainText=false)": {
+   "date": "2026-04-06",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=464,plainText=false)": {
+   "date": "2026-03-16",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=467,plainText=false)": {
+   "date": "2026-03-02",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=470,plainText=false)": {
+   "date": "2026-02-17",
+   "hits": 2,
+   "status": "ok"
+  },
   "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=563,plainText=false)": {
    "date": "2026-10-05",
    "hits": 1,
@@ -6043,8 +7138,18 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=815,plainText=false)": {
+   "date": "2026-04-06",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=839,plainText=false)": {
    "date": "2026-10-05",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=887,plainText=false)": {
+   "date": "2026-03-02",
    "hits": 0,
    "status": "ok"
   },
@@ -6090,6 +7195,16 @@
   },
   "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=948,plainText=false)": {
    "date": "2026-05-12",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=950,plainText=false)": {
+   "date": "2026-04-14",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=952,plainText=false)": {
+   "date": "2026-03-10",
    "hits": 0,
    "status": "ok"
   },
@@ -6345,6 +7460,66 @@
   },
   "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7835,plainText=false)": {
    "date": "2026-11-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7840,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7850,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 3,
+   "status": "ok"
+  },
+  "https://lakemaryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2824,plainText=false)": {
+   "date": "2026-02-19",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lakemaryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2827,plainText=false)": {
+   "date": "2026-02-24",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lakemaryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3830,plainText=false)": {
+   "date": "2026-03-02",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lakemaryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3838,plainText=false)": {
+   "date": "2026-03-05",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lakemaryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3843,plainText=false)": {
+   "date": "2026-03-10",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lakemaryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3845,plainText=false)": {
+   "date": "2026-03-09",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lakemaryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3856,plainText=false)": {
+   "date": "2026-04-02",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lakemaryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3862,plainText=false)": {
+   "date": "2026-04-06",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lakemaryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3866,plainText=false)": {
+   "date": "2026-04-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lakemaryfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3870,plainText=false)": {
+   "date": "2026-04-13",
    "hits": 0,
    "status": "ok"
   },
@@ -7015,6 +8190,121 @@
    "hits": 10,
    "status": "ok"
   },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3786&compileOutputType=1": {
+   "date": "2026-02-17",
+   "hits": 15,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3791&compileOutputType=1": {
+   "date": "2026-02-19",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3796&compileOutputType=1": {
+   "date": "2026-02-23",
+   "hits": 12,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3801&compileOutputType=1": {
+   "date": "2026-02-24",
+   "hits": 43,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3806&compileOutputType=1": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3811&compileOutputType=1": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3816&compileOutputType=1": {
+   "date": "2026-03-04",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3821&compileOutputType=1": {
+   "date": "2026-03-05",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3826&compileOutputType=1": {
+   "date": "2026-03-09",
+   "hits": 4,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3831&compileOutputType=1": {
+   "date": "2026-03-10",
+   "hits": 23,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3836&compileOutputType=1": {
+   "date": "2026-03-12",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3841&compileOutputType=1": {
+   "date": "2026-03-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3846&compileOutputType=1": {
+   "date": "2026-03-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3851&compileOutputType=1": {
+   "date": "2026-03-23",
+   "hits": 3,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3856&compileOutputType=1": {
+   "date": "2026-03-24",
+   "hits": 35,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3861&compileOutputType=1": {
+   "date": "2026-04-07",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3866&compileOutputType=1": {
+   "date": "2026-04-09",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3871&compileOutputType=1": {
+   "date": "2026-04-13",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3876&compileOutputType=1": {
+   "date": "2026-04-13",
+   "hits": 16,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3881&compileOutputType=1": {
+   "date": "2026-04-14",
+   "hits": 32,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3886&compileOutputType=1": {
+   "date": "2026-04-21",
+   "hits": 8,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3891&compileOutputType=1": {
+   "date": "2026-04-27",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3896&compileOutputType=1": {
+   "date": "2026-04-28",
+   "hits": 32,
+   "status": "ok"
+  },
   "https://lauderdalelakesfl.primegov.com/Public/CompiledDocument?meetingTemplateId=3901&compileOutputType=1": {
    "date": "2026-04-29",
    "hits": 0,
@@ -7330,6 +8620,56 @@
    "hits": 20,
    "status": "ok"
   },
+  "https://leecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=901,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://leecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=902,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 15,
+   "status": "ok"
+  },
+  "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2213,plainText=false)": {
+   "date": "2026-02-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3215,plainText=false)": {
+   "date": "2026-03-02",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3218,plainText=false)": {
+   "date": "2026-03-09",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3223,plainText=false)": {
+   "date": "2026-03-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3229,plainText=false)": {
+   "date": "2026-04-13",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3231,plainText=false)": {
+   "date": "2026-04-13",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3237,plainText=false)": {
+   "date": "2026-04-13",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3242,plainText=false)": {
+   "date": "2026-04-27",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3251,plainText=false)": {
    "date": "2026-05-04",
    "hits": 0,
@@ -7473,6 +8813,71 @@
   "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3363,plainText=false)": {
    "date": "2026-11-09",
    "hits": 0,
+   "status": "ok"
+  },
+  "https://levycofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=30,plainText=false)": {
+   "date": "2026-02-17",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://levycofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=35,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 7,
+   "status": "ok"
+  },
+  "https://longwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1285,plainText=false)": {
+   "date": "2026-02-16",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://longwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1299,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://longwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1304,plainText=false)": {
+   "date": "2026-03-02",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://longwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1307,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://longwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1310,plainText=false)": {
+   "date": "2026-03-11",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://longwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1316,plainText=false)": {
+   "date": "2026-03-16",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://longwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1327,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://longwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1344,plainText=false)": {
+   "date": "2026-04-06",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://longwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1354,plainText=false)": {
+   "date": "2026-04-08",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://longwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1355,plainText=false)": {
+   "date": "2026-04-08",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://longwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1362,plainText=false)": {
+   "date": "2026-04-20",
+   "hits": 1,
    "status": "ok"
   },
   "https://longwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1373,plainText=false)": {
@@ -7647,6 +9052,11 @@
   },
   "https://longwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1623,plainText=false)": {
    "date": "2026-11-10",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://longwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1632,plainText=false)": {
+   "date": "2026-11-17",
    "hits": 0,
    "status": "ok"
   },
@@ -8654,6 +10064,61 @@
    "hits": 1,
    "status": "ok"
   },
+  "https://minneolafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9523,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://minneolafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9535,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6549,plainText=false)": {
+   "date": "2026-03-26",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6552,plainText=false)": {
+   "date": "2026-03-24",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6560,plainText=false)": {
+   "date": "2026-03-25",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6561,plainText=false)": {
+   "date": "2026-03-25",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6567,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6573,plainText=false)": {
+   "date": "2026-04-13",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6575,plainText=false)": {
+   "date": "2026-04-14",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6578,plainText=false)": {
+   "date": "2026-04-15",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6587,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6596,plainText=false)": {
    "date": "2026-04-29",
    "hits": 0,
@@ -8964,6 +10429,16 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7951,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7953,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3496,plainText=false)": {
    "date": "2026-09-14",
    "hits": 8,
@@ -9036,6 +10511,11 @@
   },
   "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3615,plainText=false)": {
    "date": "2026-07-28",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3669,plainText=false)": {
+   "date": "2026-04-21",
    "hits": 0,
    "status": "ok"
   },
@@ -9137,6 +10617,16 @@
   "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3690,plainText=false)": {
    "date": "2026-06-02",
    "hits": 0,
+   "status": "ok"
+  },
+  "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3745,plainText=false)": {
+   "date": "2026-04-22",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3747,plainText=false)": {
+   "date": "2026-04-27",
+   "hits": 6,
    "status": "ok"
   },
   "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3749,plainText=false)": {
@@ -9379,6 +10869,96 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4389,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1327,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1330,plainText=false)": {
+   "date": "2026-03-05",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1332,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1334,plainText=false)": {
+   "date": "2026-03-19",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1335,plainText=false)": {
+   "date": "2026-03-19",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1338,plainText=false)": {
+   "date": "2026-03-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1342,plainText=false)": {
+   "date": "2026-03-10",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1345,plainText=false)": {
+   "date": "2026-03-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1346,plainText=false)": {
+   "date": "2026-03-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1352,plainText=false)": {
+   "date": "2026-03-19",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1358,plainText=false)": {
+   "date": "2026-03-26",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1362,plainText=false)": {
+   "date": "2026-04-02",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1364,plainText=false)": {
+   "date": "2026-04-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1365,plainText=false)": {
+   "date": "2026-04-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1366,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 4,
+   "status": "ok"
+  },
+  "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1379,plainText=false)": {
+   "date": "2026-04-14",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1386,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 1,
+   "status": "ok"
+  },
   "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1394,plainText=false)": {
    "date": "2026-05-06",
    "hits": 0,
@@ -9619,6 +11199,61 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://opalockafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7896,plainText=false)": {
+   "date": "2026-02-25",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://opalockafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7899,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://opalockafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7902,plainText=false)": {
+   "date": "2026-03-05",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://opalockafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7920,plainText=false)": {
+   "date": "2026-03-11",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://opalockafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7933,plainText=false)": {
+   "date": "2026-03-25",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://opalockafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7937,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://opalockafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7947,plainText=false)": {
+   "date": "2026-04-08",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://opalockafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7949,plainText=false)": {
+   "date": "2026-04-06",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://opalockafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7958,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://opalockafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7965,plainText=false)": {
+   "date": "2026-04-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://opalockafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7975,plainText=false)": {
+   "date": "2026-04-22",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://opalockafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7979,plainText=false)": {
    "date": "2026-05-04",
    "hits": 0,
@@ -9749,6 +11384,56 @@
    "hits": 1,
    "status": "ok"
   },
+  "https://ormondbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3884,plainText=false)": {
+   "date": "2026-02-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ormondbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3891,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ormondbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3894,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ormondbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3902,plainText=false)": {
+   "date": "2026-03-13",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ormondbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3906,plainText=false)": {
+   "date": "2026-03-24",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ormondbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3913,plainText=false)": {
+   "date": "2026-03-24",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://ormondbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3931,plainText=false)": {
+   "date": "2026-03-31",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ormondbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3936,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ormondbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3943,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://ormondbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3947,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://ormondbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3957,plainText=false)": {
    "date": "2026-05-05",
    "hits": 0,
@@ -9832,6 +11517,96 @@
   "https://ormondbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4290,plainText=false)": {
    "date": "2026-11-04",
    "hits": 0,
+   "status": "ok"
+  },
+  "https://ormondbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4303,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1024,plainText=false)": {
+   "date": "2026-02-18",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1036,plainText=false)": {
+   "date": "2026-02-26",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1038,plainText=false)": {
+   "date": "2026-02-26",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1049,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1051,plainText=false)": {
+   "date": "2026-03-05",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1057,plainText=false)": {
+   "date": "2026-03-04",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1061,plainText=false)": {
+   "date": "2026-03-12",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1073,plainText=false)": {
+   "date": "2026-03-18",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1075,plainText=false)": {
+   "date": "2026-03-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1087,plainText=false)": {
+   "date": "2026-03-26",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1095,plainText=false)": {
+   "date": "2026-04-02",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1098,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1100,plainText=false)": {
+   "date": "2026-04-08",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1106,plainText=false)": {
+   "date": "2026-04-09",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1110,plainText=false)": {
+   "date": "2026-04-20",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1112,plainText=false)": {
+   "date": "2026-04-20",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1122,plainText=false)": {
+   "date": "2026-04-23",
+   "hits": 1,
    "status": "ok"
   },
   "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1126,plainText=false)": {
@@ -10141,6 +11916,81 @@
   },
   "https://palmcoast.primegov.com/Public/CompiledDocument?meetingTemplateId=864&compileOutputType=1": {
    "date": "2026-04-22",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2509,plainText=false)": {
+   "date": "2026-02-18",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2515,plainText=false)": {
+   "date": "2026-02-18",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2523,plainText=false)": {
+   "date": "2026-03-02",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2527,plainText=false)": {
+   "date": "2026-03-10",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2529,plainText=false)": {
+   "date": "2026-03-12",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2538,plainText=false)": {
+   "date": "2026-03-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2541,plainText=false)": {
+   "date": "2026-03-18",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2550,plainText=false)": {
+   "date": "2026-03-18",
+   "hits": 4,
+   "status": "ok"
+  },
+  "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2561,plainText=false)": {
+   "date": "2026-04-06",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2567,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2573,plainText=false)": {
+   "date": "2026-04-15",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2576,plainText=false)": {
+   "date": "2026-04-09",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2578,plainText=false)": {
+   "date": "2026-04-15",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2584,plainText=false)": {
+   "date": "2026-04-22",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2586,plainText=false)": {
+   "date": "2026-04-21",
    "hits": 0,
    "status": "ok"
   },
@@ -10760,8 +12610,113 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12082,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 14,
+   "status": "ok"
+  },
   "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12085,plainText=false)": {
    "date": "2026-11-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8203,plainText=false)": {
+   "date": "2026-02-17",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8209,plainText=false)": {
+   "date": "2026-02-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8212,plainText=false)": {
+   "date": "2026-02-26",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8225,plainText=false)": {
+   "date": "2026-02-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8227,plainText=false)": {
+   "date": "2026-02-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8231,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8233,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8238,plainText=false)": {
+   "date": "2026-03-05",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8256,plainText=false)": {
+   "date": "2026-03-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8258,plainText=false)": {
+   "date": "2026-03-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8260,plainText=false)": {
+   "date": "2026-03-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8272,plainText=false)": {
+   "date": "2026-03-25",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8273,plainText=false)": {
+   "date": "2026-04-01",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8278,plainText=false)": {
+   "date": "2026-03-26",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8285,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8298,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8302,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8304,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8310,plainText=false)": {
+   "date": "2026-04-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8323,plainText=false)": {
+   "date": "2026-04-27",
    "hits": 0,
    "status": "ok"
   },
@@ -10990,9 +12945,119 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9731,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 1,
+   "status": "ok"
+  },
   "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9733,plainText=false)": {
    "date": "2026-11-16",
    "hits": 0,
+   "status": "ok"
+  },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2864,plainText=false)": {
+   "date": "2026-02-18",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2866,plainText=false)": {
+   "date": "2026-02-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2873,plainText=false)": {
+   "date": "2026-02-24",
+   "hits": 8,
+   "status": "ok"
+  },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2878,plainText=false)": {
+   "date": "2026-02-26",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2879,plainText=false)": {
+   "date": "2026-02-26",
+   "hits": 8,
+   "status": "ok"
+  },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2883,plainText=false)": {
+   "date": "2026-03-19",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2890,plainText=false)": {
+   "date": "2026-03-12",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2892,plainText=false)": {
+   "date": "2026-03-10",
+   "hits": 4,
+   "status": "ok"
+  },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2894,plainText=false)": {
+   "date": "2026-03-12",
+   "hits": 5,
+   "status": "ok"
+  },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2902,plainText=false)": {
+   "date": "2026-03-26",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2904,plainText=false)": {
+   "date": "2026-03-24",
+   "hits": 6,
+   "status": "ok"
+  },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2907,plainText=false)": {
+   "date": "2026-03-26",
+   "hits": 6,
+   "status": "ok"
+  },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2911,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 6,
+   "status": "ok"
+  },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2913,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2915,plainText=false)": {
+   "date": "2026-04-09",
+   "hits": 6,
+   "status": "ok"
+  },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2917,plainText=false)": {
+   "date": "2026-04-16",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2919,plainText=false)": {
+   "date": "2026-04-09",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2921,plainText=false)": {
+   "date": "2026-04-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2925,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 7,
+   "status": "ok"
+  },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2934,plainText=false)": {
+   "date": "2026-04-28",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2937,plainText=false)": {
+   "date": "2026-04-23",
+   "hits": 6,
    "status": "ok"
   },
   "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2947,plainText=false)": {
@@ -11235,6 +13300,11 @@
    "hits": 13,
    "status": "ok"
   },
+  "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3115,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://seminolefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=461,plainText=false)": {
    "date": "2026-01-13",
    "hits": 1,
@@ -11415,8 +13485,78 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://staugustinefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4282,plainText=false)": {
+   "date": "2026-02-19",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://staugustinefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4286,plainText=false)": {
+   "date": "2026-02-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://staugustinefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4288,plainText=false)": {
+   "date": "2026-02-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://staugustinefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4291,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://staugustinefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4315,plainText=false)": {
+   "date": "2026-03-09",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://staugustinefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4326,plainText=false)": {
+   "date": "2026-03-19",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://staugustinefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4330,plainText=false)": {
+   "date": "2026-03-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://staugustinefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4340,plainText=false)": {
+   "date": "2026-04-02",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://staugustinefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4351,plainText=false)": {
+   "date": "2026-03-27",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://staugustinefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4361,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://staugustinefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4369,plainText=false)": {
+   "date": "2026-04-13",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://staugustinefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4386,plainText=false)": {
+   "date": "2026-04-16",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://staugustinefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4391,plainText=false)": {
    "date": "2026-05-05",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://staugustinefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4398,plainText=false)": {
+   "date": "2026-04-27",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://staugustinefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4405,plainText=false)": {
+   "date": "2026-04-27",
    "hits": 0,
    "status": "ok"
   },
@@ -11615,6 +13755,41 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://stcloudfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=136,plainText=false)": {
+   "date": "2026-02-19",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://stcloudfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=139,plainText=false)": {
+   "date": "2026-03-02",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://stcloudfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=140,plainText=false)": {
+   "date": "2026-03-05",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://stcloudfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=142,plainText=false)": {
+   "date": "2026-03-12",
+   "hits": 4,
+   "status": "ok"
+  },
+  "https://stcloudfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=145,plainText=false)": {
+   "date": "2026-03-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://stcloudfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=156,plainText=false)": {
+   "date": "2026-04-09",
+   "hits": 8,
+   "status": "ok"
+  },
+  "https://stcloudfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=159,plainText=false)": {
+   "date": "2026-04-16",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://stcloudfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=166,plainText=false)": {
    "date": "2026-05-05",
    "hits": 0,
@@ -11752,6 +13927,76 @@
   },
   "https://stcloudfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=295,plainText=false)": {
    "date": "2026-11-12",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12029,plainText=false)": {
+   "date": "2026-03-10",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12031,plainText=false)": {
+   "date": "2026-03-11",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12034,plainText=false)": {
+   "date": "2026-03-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12045,plainText=false)": {
+   "date": "2026-03-19",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12053,plainText=false)": {
+   "date": "2026-03-17",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12056,plainText=false)": {
+   "date": "2026-03-17",
+   "hits": 11,
+   "status": "ok"
+  },
+  "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12092,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12096,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 10,
+   "status": "ok"
+  },
+  "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12113,plainText=false)": {
+   "date": "2026-04-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12120,plainText=false)": {
+   "date": "2026-04-14",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12126,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12136,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12162,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 7,
+   "status": "ok"
+  },
+  "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12174,plainText=false)": {
+   "date": "2026-04-23",
    "hits": 0,
    "status": "ok"
   },
@@ -12042,6 +14287,31 @@
   },
   "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12850,plainText=false)": {
    "date": "2026-11-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12874,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12879,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12881,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12882,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12884,plainText=false)": {
+   "date": "2026-11-17",
    "hits": 0,
    "status": "ok"
   },
@@ -12400,6 +14670,31 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://stpetebeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8194,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 4,
+   "status": "ok"
+  },
+  "https://suwanneecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1053,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 6,
+   "status": "ok"
+  },
+  "https://suwanneecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1061,plainText=false)": {
+   "date": "2026-03-17",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://suwanneecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1069,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://suwanneecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1074,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 1,
+   "status": "ok"
+  },
   "https://suwanneecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1077,plainText=false)": {
    "date": "2026-05-05",
    "hits": 1,
@@ -12495,6 +14790,11 @@
    "hits": 1,
    "status": "ok"
   },
+  "https://suwanneecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=54,plainText=false)": {
+   "date": "2026-02-17",
+   "hits": 2,
+   "status": "ok"
+  },
   "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=105,plainText=false)": {
    "date": "2026-09-23",
    "hits": 0,
@@ -12542,6 +14842,11 @@
   },
   "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1076,plainText=false)": {
    "date": "2026-11-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1080,plainText=false)": {
+   "date": "2026-11-17",
    "hits": 0,
    "status": "ok"
   },
@@ -13100,6 +15405,46 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3802,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://tavaresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1778,plainText=false)": {
+   "date": "2026-02-19",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://tavaresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1782,plainText=false)": {
+   "date": "2026-02-18",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://tavaresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2790,plainText=false)": {
+   "date": "2026-03-04",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://tavaresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2799,plainText=false)": {
+   "date": "2026-03-19",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://tavaresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2806,plainText=false)": {
+   "date": "2026-03-18",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://tavaresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2827,plainText=false)": {
+   "date": "2026-04-01",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://tavaresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2840,plainText=false)": {
+   "date": "2026-04-15",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://tavaresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2852,plainText=false)": {
    "date": "2026-05-06",
    "hits": 0,
@@ -13168,6 +15513,41 @@
   "https://tavaresfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2983,plainText=false)": {
    "date": "2026-10-21",
    "hits": 0,
+   "status": "ok"
+  },
+  "https://templeterracefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2080,plainText=false)": {
+   "date": "2026-02-17",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://templeterracefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3080,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://templeterracefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3083,plainText=false)": {
+   "date": "2026-03-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://templeterracefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3085,plainText=false)": {
+   "date": "2026-03-17",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://templeterracefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3088,plainText=false)": {
+   "date": "2026-03-31",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://templeterracefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3089,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 3,
+   "status": "ok"
+  },
+  "https://templeterracefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3093,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 2,
    "status": "ok"
   },
   "https://templeterracefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3096,plainText=false)": {
@@ -13273,6 +15653,16 @@
   "https://templeterracefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5232,plainText=false)": {
    "date": "2026-11-02",
    "hits": 1,
+   "status": "ok"
+  },
+  "https://templeterracefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5235,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://templeterracefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5238,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
    "status": "ok"
   },
   "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2167,plainText=false)": {
@@ -13550,6 +15940,11 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2501,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2509,plainText=false)": {
    "date": "2026-10-27",
    "hits": 3,
@@ -13597,6 +15992,101 @@
   },
   "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2541,plainText=false)": {
    "date": "2026-11-13",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2551,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2552,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2555,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5612,plainText=false)": {
+   "date": "2026-02-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5614,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5617,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5619,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5631,plainText=false)": {
+   "date": "2026-03-09",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5634,plainText=false)": {
+   "date": "2026-03-10",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5647,plainText=false)": {
+   "date": "2026-03-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5650,plainText=false)": {
+   "date": "2026-03-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5661,plainText=false)": {
+   "date": "2026-03-30",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5663,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5668,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5672,plainText=false)": {
+   "date": "2026-04-07",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5681,plainText=false)": {
+   "date": "2026-04-14",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5686,plainText=false)": {
+   "date": "2026-04-13",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5695,plainText=false)": {
+   "date": "2026-04-20",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5700,plainText=false)": {
+   "date": "2026-04-27",
    "hits": 0,
    "status": "ok"
   },
@@ -13835,6 +16325,46 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4752,plainText=false)": {
+   "date": "2026-02-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4761,plainText=false)": {
+   "date": "2026-02-24",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5761,plainText=false)": {
+   "date": "2026-02-24",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5772,plainText=false)": {
+   "date": "2026-03-10",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5782,plainText=false)": {
+   "date": "2026-03-24",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5784,plainText=false)": {
+   "date": "2026-03-24",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5801,plainText=false)": {
+   "date": "2026-04-14",
+   "hits": 2,
+   "status": "ok"
+  },
+  "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5806,plainText=false)": {
+   "date": "2026-04-13",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5819,plainText=false)": {
    "date": "2026-04-28",
    "hits": 0,
@@ -14003,6 +16533,76 @@
   "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7095,plainText=false)": {
    "date": "2026-11-09",
    "hits": 0,
+   "status": "ok"
+  },
+  "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7098,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1432,plainText=false)": {
+   "date": "2026-03-10",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1435,plainText=false)": {
+   "date": "2026-03-11",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1436,plainText=false)": {
+   "date": "2026-03-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1438,plainText=false)": {
+   "date": "2026-03-12",
+   "hits": 3,
+   "status": "ok"
+  },
+  "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1444,plainText=false)": {
+   "date": "2026-03-25",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1448,plainText=false)": {
+   "date": "2026-03-26",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1452,plainText=false)": {
+   "date": "2026-04-06",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1456,plainText=false)": {
+   "date": "2026-04-09",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1458,plainText=false)": {
+   "date": "2026-04-08",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1460,plainText=false)": {
+   "date": "2026-04-14",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1462,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1467,plainText=false)": {
+   "date": "2026-04-22",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1476,plainText=false)": {
+   "date": "2026-04-23",
+   "hits": 2,
    "status": "ok"
   },
   "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1481,plainText=false)": {
@@ -14205,9 +16805,139 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1677,plainText=false)": {
+   "date": "2026-11-17",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1688,plainText=false)": {
    "date": "2026-11-12",
    "hits": 4,
+   "status": "ok"
+  },
+  "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=416,plainText=false)": {
+   "date": "2026-03-02",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=421,plainText=false)": {
+   "date": "2026-02-26",
+   "hits": 3,
+   "status": "ok"
+  },
+  "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=422,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=424,plainText=false)": {
+   "date": "2026-02-25",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=425,plainText=false)": {
+   "date": "2026-03-03",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1237,plainText=false)": {
+   "date": "2026-02-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1238,plainText=false)": {
+   "date": "2026-02-19",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1240,plainText=false)": {
+   "date": "2026-02-16",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1262,plainText=false)": {
+   "date": "2026-02-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1264,plainText=false)": {
+   "date": "2026-02-23",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1266,plainText=false)": {
+   "date": "2026-03-02",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1271,plainText=false)": {
+   "date": "2026-03-09",
+   "hits": 1,
+   "status": "ok"
+  },
+  "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1274,plainText=false)": {
+   "date": "2026-03-09",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1276,plainText=false)": {
+   "date": "2026-03-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1278,plainText=false)": {
+   "date": "2026-03-17",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1286,plainText=false)": {
+   "date": "2026-03-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1288,plainText=false)": {
+   "date": "2026-03-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1294,plainText=false)": {
+   "date": "2026-04-06",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1297,plainText=false)": {
+   "date": "2026-04-13",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1299,plainText=false)": {
+   "date": "2026-04-13",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1301,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1303,plainText=false)": {
+   "date": "2026-04-23",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1305,plainText=false)": {
+   "date": "2026-04-21",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1312,plainText=false)": {
+   "date": "2026-04-27",
+   "hits": 0,
+   "status": "ok"
+  },
+  "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1319,plainText=false)": {
+   "date": "2026-04-27",
+   "hits": 0,
    "status": "ok"
   },
   "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1330,plainText=false)": {
@@ -14391,5 +17121,5 @@
    "status": "ok"
   }
  },
- "updated_utc": "2026-11-17T18:37:30+00:00"
+ "updated_utc": "2026-11-18T02:55:50+00:00"
 }
