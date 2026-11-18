@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-18T07:10:12+00:00",
- "count": 122,
+ "generated_utc": "2026-11-18T17:05:35+00:00",
+ "count": 121,
  "governments": {
   "m-fortlauderdale": {
    "name": "Fort Lauderdale",
@@ -117,7 +117,7 @@
    "status": "ok",
    "client": "cityofnorthport",
    "events": 15,
-   "flagged": 6
+   "flagged": 5
   },
   "m-doral": {
    "name": "Doral",
@@ -151,7 +151,7 @@
    "name": "Port St. Lucie",
    "status": "ok",
    "client": "psl",
-   "events": 10,
+   "events": 11,
    "flagged": 0
   },
   "m-plantcity": {

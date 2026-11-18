@@ -10637,12 +10637,20 @@
      "amount": null,
      "text": "B. RESOLUTIONS RES. NO. 2026-06 A Resolution of the City of Venice, Florida, Approving an Amendment No. 2 to the Public Transportation Grant Agreement for Project Number 438750-1-94-02 by and Between the State of Florida Department of Transportation and the City of Venice, Florida, for the Design an",
      "link": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1927"
+    },
+    {
+     "entity_id": "m-venice",
+     "government": "Venice",
+     "meeting_date": null,
+     "amount": null,
+     "text": "B. RESOLUTIONS RES. NO. 2025-28 A Resolution of the City of Venice, Florida, Approving Amendment No. 2 to the Public Transportation Grant Agreement for Project Number 456529-1-94-01 by and Between the State of Florida Department of Transportation and the City of Venice, Florida, for the Venice Munic",
+     "link": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1896"
     }
    ],
    "governments": [
     "Venice"
    ],
-   "award_count": 2,
+   "award_count": 3,
    "total_amount": 0
   },
   "expansion fbo apron": {
@@ -16801,13 +16809,22 @@
      "amount": null,
      "text": "under General Business: Item 11.L Approval of Resolution 2025-034 Grant Budget Amendment for FY2025",
      "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=117"
+    },
+    {
+     "entity_id": "m-crystalriver",
+     "government": "Crystal River",
+     "meeting_date": null,
+     "amount": 6899546.0,
+     "text": "D. Motion to adopt Resolution No. 25-R-03 for allocation of funding from various funds totaling the amount of $6,899,546.59 for the rollforward funding for FY2025.",
+     "link": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=292"
     }
    ],
    "governments": [
+    "Crystal River",
     "Gadsden County"
    ],
-   "award_count": 2,
-   "total_amount": 0
+   "award_count": 3,
+   "total_amount": 6899546.0
   },
   "gadsden county procurement policy": {
    "name": "Gadsden County Procurement Policy",
@@ -17408,13 +17425,404 @@
    ],
    "award_count": 1,
    "total_amount": 0
+  },
+  "duke energy": {
+   "name": "Duke Energy",
+   "awards": [
+    {
+     "entity_id": "m-stpetersburg",
+     "government": "St. Petersburg",
+     "meeting_date": "2026-11-19",
+     "amount": null,
+     "text": "4) E-4 Setting December 3, 2026 as the public hearing date for an ordinance authorizing the grant of a Public Utility Easement to Duke Energy within City-owned Williams Park located at 330 2nd Ave N (Aaron Fisch)",
+     "link": "https://www.stpete.org/Government/Agendas and Documents/agenda order/2026-11-19 Proposed Agenda Order.pdf?t=202611180927530"
+    }
+   ],
+   "governments": [
+    "St. Petersburg"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "land water conservation fund": {
+   "name": "Land and Water Conservation Fund",
+   "awards": [
+    {
+     "entity_id": "m-wellington",
+     "government": "Wellington",
+     "meeting_date": null,
+     "amount": 1500000.0,
+     "text": "I. 26-7556 RESOLUTION NO. R2026-09 FOR LAND AND WATER CONSERVATION FUND PROGRAM GRANT FOR THE WELLINGTON AQUATICS COMPLEX PROJECT AND RESOLUTION NO. R2026-10 FOR A BUDGET AMENDMENT TO ALLOCATE SAID GRANT RESOLUTION NO. R2026-09 (LAND AND WATER CONSERVATION FUND) A RESOLUTION OF WELLINGTON, FLORIDA\u2019S",
+     "link": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1734"
+    },
+    {
+     "entity_id": "m-wellington",
+     "government": "Wellington",
+     "meeting_date": null,
+     "amount": 1500000.0,
+     "text": "K. 26-7556 RESOLUTION NO. R2026-09 FOR LAND AND WATER CONSERVATION FUND PROGRAM GRANT FOR THE WELLINGTON AQUATICS COMPLEX PROJECT AND RESOLUTION NO. R2026-10 FOR A BUDGET AMENDMENT TO ALLOCATE SAID GRANT RESOLUTION NO. R2026-09 (LAND AND WATER CONSERVATION FUND) A RESOLUTION OF WELLINGTON, FLORIDA\u2019S",
+     "link": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1732"
+    }
+   ],
+   "governments": [
+    "Wellington"
+   ],
+   "award_count": 2,
+   "total_amount": 3000000.0
+  },
+  "west coast inland navigation district": {
+   "name": "West Coast Inland Navigation District",
+   "awards": [
+    {
+     "entity_id": "m-venice",
+     "government": "Venice",
+     "meeting_date": null,
+     "amount": 204010.0,
+     "text": "B. CITY MANAGER Fire 25-0439 Approve Grant Agreement Between Sarasota County and the City of Venice for the West Coast Inland Navigation District (WCIND) Waterway Development Program Project Agreement for the Fire Department, Project No. S-516, not to Exceed $12,500.00 Memorandum Grant Agreement S-5",
+     "link": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1903"
+    }
+   ],
+   "governments": [
+    "Venice"
+   ],
+   "award_count": 1,
+   "total_amount": 204010.0
+  },
+  "purchase local designation plaque for nassau house": {
+   "name": "Purchase of Local Designation Plaque For Nassau House",
+   "awards": [
+    {
+     "entity_id": "m-venice",
+     "government": "Venice",
+     "meeting_date": null,
+     "amount": null,
+     "text": "November 13, 2025Historic and Architectural Preservation Board Meeting Agenda Staff- Email HAPB Meeting 10-9-2025 Action Items Applicant - Architectural Review Set 3 Applicant - Architectural Changes Description Staff Report Applicant - Application Applicant - Architectural Review Set Speaker Cards ",
+     "link": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1893"
+    }
+   ],
+   "governments": [
+    "Venice"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "property owner scenic west": {
+   "name": "Property Owner Scenic West",
+   "awards": [
+    {
+     "entity_id": "m-lakewales",
+     "government": "Lake Wales",
+     "meeting_date": null,
+     "amount": null,
+     "text": "COMMUNITY REDEVELOPMENT AGENCY (CRA) OFFICIAL AGENDA October 13, 2023 2:00 p.m. Municipal Administration Building Commission Chambers 201 W. Central Avenue Lake Wales, FL 33853 CALL TO ORDER & ROLL CALL COMMENTS AND PETITIONS Public participation from residents, taxpayers, business owners, and utili",
+     "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=877"
+    }
+   ],
+   "governments": [
+    "Lake Wales"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "broward county for": {
+   "name": "Broward County for",
+   "awards": [
+    {
+     "entity_id": "m-oaklandpark",
+     "government": "Oakland Park",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Item 1 (Supplemental) - Resolution of Support for a Grant Application to Broward County for the 52nd Year CDBG Program",
+     "link": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4308"
+    }
+   ],
+   "governments": [
+    "Oakland Park"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "hurricane helene": {
+   "name": "Hurricane Helene",
+   "awards": [
+    {
+     "entity_id": "m-crystalriver",
+     "government": "Crystal River",
+     "meeting_date": null,
+     "amount": 800000.0,
+     "text": "D. Motion to adopt Resolution No. 25-ER-02 appropriating additional emergency funding in the amount of $800,000 to address issues related to Hurricane Helene",
+     "link": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=291"
+    }
+   ],
+   "governments": [
+    "Crystal River"
+   ],
+   "award_count": 1,
+   "total_amount": 800000.0
+  },
+  "gadsden county senior citizens": {
+   "name": "Gadsden County Senior Citizens",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "7.b Senior Citizen Reallocation of Funding for Gadsden County Senior Citizens 7.c County Administrator Update",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=102"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "florida commerce requesting amendment": {
+   "name": "Florida Commerce Requesting Amendment",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Item 11.j. Approval of the CDBG-DR EMS Quincy Grant Agreement M0026 Letter to Florida Commerce Requesting Amendment #2 to Extend the Agreement Expiration Date through September 30, 2027. (Roosevelt Morris, Interim County Administrator/Rose Raynak, Finance Director) Item 11.k. Approval of Health Insu",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=100"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "toys for tots funding": {
+   "name": "Toys for Tots Funding",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "11.d Approval of Donation to Toys for Tots Funding (Roosevelt Morris, County Interim Administrator/ Earlean Taylor Ealey, Coordinator, Toys for Tots)",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=100"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "gadsden industrial development authority": {
+   "name": "Gadsden Industrial Development Authority",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "11.i Approval to make Appointments to the Gadsden Industrial Development Authority (Roosevelt Morris, Interim County Administrator) 11.j Approval of the CDBG-DR EMS Quincy Grant Agreement M0026 Letter to Florida Commerce Requesting Amendment #2 to Extend the Agreement Expiration Date through Septemb",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=100"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "pool road": {
+   "name": "Pool Road",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": 3293207.0,
+     "text": "- Motion to approve the submission of the Florida Department of Transporation SCRAP/SCOP grant application for Pool Road (south of County Road 664 to east of County Road 664) in the amount of $3,293,207.35; authorizing the County Manager or Chair to sign any necessary documents in furtherance thereo",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=197"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 1,
+   "total_amount": 3293207.0
+  },
+  "east west ten mile grade": {
+   "name": "East-West Ten Mile Grade",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": 3371176.0,
+     "text": "- Motion to approve the submission of the Florida Department of Transportation SCOP funding for East-West Ten Mile Grade (from 0.30 miles east of Bridge #064120 to Marguerete Road at the Highlands County Line) in the amount of $3,371,176.07; authorizing the County Manager or Chair to sign any necess",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=197"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 1,
+   "total_amount": 3371176.0
+  },
+  "segment": {
+   "name": "Segment",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "M. Christopher Simpron, Assistant County Manager - Resolution 2025-34 - County Road 663 Supplemental Funding Agreement for Segment 1.",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=197"
+    },
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "N. Christopher Simpron, Assistant County Manager - Resolution 2025-35, County Road 663 Supplemental Funding Agreement for Segment 3.",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=197"
+    },
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "N. Christopher Simpron, Assistant County Manager - Resolution 2025-34 - County Road 663 Supplemental Funding Agreement for Segment 1.",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=194"
+    },
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "O. Christopher Simpron, Assistant County Manager - Resolution 2025-35, County Road 663 Supplemental Funding Agreement for Segment 3.",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=194"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 4,
+   "total_amount": 0
+  },
+  "florida department transportation fiscal year": {
+   "name": "Florida Department of Transportation Fiscal Year",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "P. Christopher Simpron, Assistant County Manager - Grant Applications for Florida Department of Transportation Fiscal Year 2026-31 SCRAP/SCOP Funding",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=197"
+    },
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Q. Christopher Simpron, Assistant County Manager - Grant Application for Florida Department of Transportation Fiscal Year 2026-31 SCOP Funding",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=197"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 2,
+   "total_amount": 0
+  },
+  "safe streets for all west tennessee street planning study": {
+   "name": "Safe Streets for All West Tennessee Street Planning Study",
+   "awards": [
+    {
+     "entity_id": "m-tallahassee",
+     "government": "Tallahassee",
+     "meeting_date": "2026-11-23",
+     "amount": 600000.0,
+     "text": "STATEMENT OF ISSUE The purpose of this item is to amend the CRTPA\u2019s Fiscal (FY) 2027 \u2013 FY 2028 Unified Planning Work Program (UPWP) to include the funding under agreements for the Safe Streets for All West Tennessee Street Planning Study . The amendment to the FY 2027 \u2013 FY 2028 UPWP incorporates $15",
+     "link": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1091,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Tallahassee"
+   ],
+   "award_count": 1,
+   "total_amount": 600000.0
+  },
+  "west tennessee street safe streets for all safety action plan": {
+   "name": "West Tennessee Street Safe Streets for All Safety Action Plan",
+   "awards": [
+    {
+     "entity_id": "m-tallahassee",
+     "government": "Tallahassee",
+     "meeting_date": "2026-11-23",
+     "amount": 600000.0,
+     "text": "STATEMENT OF ISSUE The purpose of this item is to adopt Resolution No. 2026-11-7A (Attachment 1) amending the CRTPA FY 2027 - FY 2031 Transportation Improvement Program (TIP) to reflect the addition of two projects and associated funding, and to revise funding amounts for an existing FTA project. Th",
+     "link": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1091,plainText=false)"
+    },
+    {
+     "entity_id": "m-tallahassee",
+     "government": "Tallahassee",
+     "meeting_date": "2026-11-23",
+     "amount": 600000.0,
+     "text": "Agenda Item 7A - FY 2027 \u2013 FY 2031 Transportation Improvement Program Amendment November 23, 2026 Page 2 In addition, the funding for the FTA 5307 Operating Assistance grant is revised to reflect the full prior and c urrent years\u2019 funding. Lastly, the TIP is amended to include the project and fundin",
+     "link": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1091,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Tallahassee"
+   ],
+   "award_count": 2,
+   "total_amount": 1200000.0
+  },
+  "governor state florida": {
+   "name": "Governor of the State of Florida",
+   "awards": [
+    {
+     "entity_id": "m-tallahassee",
+     "government": "Tallahassee",
+     "meeting_date": "2026-11-23",
+     "amount": 600000.0,
+     "text": "CR TPA RESOLUTION 2026-11-7A A RESOLUTION OF THE CAPITAL REGION TRANSPORTATION PLANNING AGENCY (CRTPA) BOARD ENDORSING THE AMENDMENT TO THE FY 2027 \u2013 2031 TRANSPORTATION IMPROVEMENT PROGRAM Whereas, the Capital Region Transportation Planning Agency (CRTPA) is the organization designated by the Gover",
+     "link": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1091,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Tallahassee"
+   ],
+   "award_count": 1,
+   "total_amount": 600000.0
+  },
+  "annual single audit report staff": {
+   "name": "Annual Single Audit Report. Staff",
+   "awards": [
+    {
+     "entity_id": "m-tallahassee",
+     "government": "Tallahassee",
+     "meeting_date": "2026-11-23",
+     "amount": null,
+     "text": "A. CRTPA Annual Audit \u2013 Fiscal Year 2025 Financial Statements This item provides information related to the Annual Single Audit Report. Staff from James Moore and Company, and City of Tallahassee Financial Services and Grants Departments will be on hand for questions related to the FY 2025 Annual Fi",
+     "link": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1091,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Tallahassee"
+   ],
+   "award_count": 1,
+   "total_amount": 0
   }
  },
- "generated_utc": "2026-11-18T07:38:51+00:00",
+ "generated_utc": "2026-11-18T17:43:33+00:00",
  "multi_government": [
   "commission",
   "section",
   "contractor",
+  "fy2025",
   "florida department environmental protection",
   "general fund",
   "improvements",
