@@ -1,0 +1,8 @@
+{
+  // Cloudflare Workers static site for floridaspending.com
+  "name": "floridaspending",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./site"
+  }
+}
