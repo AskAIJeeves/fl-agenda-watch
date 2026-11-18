@@ -1,27 +1,27 @@
 {
- "generated_utc": "2026-11-18T17:43:33+00:00",
+ "generated_utc": "2026-11-18T18:51:08+00:00",
  "counts": {
-  "pool": 3283,
-  "outgoing_grants": 1015,
-  "bypass": 402,
+  "pool": 3363,
+  "outgoing_grants": 1049,
+  "bypass": 408,
   "other_top": 150,
   "by_stage": {
-   "upcoming": 403,
+   "upcoming": 417,
    "early_warning": 5,
    "past_meeting": 1351,
-   "undated": 1524
+   "undated": 1590
   },
   "by_category": {
-   "outgoing_grant": 1015,
-   "vanity": 156,
-   "debt": 170,
-   "private_benefit": 61,
-   "consultants": 231,
+   "outgoing_grant": 1049,
+   "vanity": 160,
+   "debt": 175,
+   "private_benefit": 63,
+   "consultants": 236,
    "legal": 38,
-   "facilities": 91,
-   "officials_perks": 48,
-   "large_spending": 1421,
-   "no_bid": 404
+   "facilities": 97,
+   "officials_perks": 50,
+   "large_spending": 1448,
+   "no_bid": 410
   },
   "possible_duplicates": 291,
   "missing_link": 0
@@ -107,6 +107,11 @@
    "general_fund": 215096000,
    "pct_of_general_fund": 581.136,
    "possible_duplicates": [
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|068c38a21962",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 0.91"
+    },
     {
      "id": "m-tallahassee|2026-11-18|6c640e76|068c38a21962",
      "meeting_date": "2026-11-18",
@@ -558,6 +563,11 @@
    "pct_of_general_fund": 141.658,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|62016db7ea9f",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|62016db7ea9f",
      "meeting_date": "2026-11-18",
      "reason": "same amount, similar text 1.00"
@@ -612,6 +622,11 @@
    "general_fund": 215096000,
    "pct_of_general_fund": null,
    "possible_duplicates": [
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|1657bb66175a",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 0.97"
+    },
     {
      "id": "m-tallahassee|2026-11-18|6c640e76|1657bb66175a",
      "meeting_date": "2026-11-18",
@@ -1230,6 +1245,11 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|267672da8d57",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|267672da8d57",
      "meeting_date": "2026-11-18",
      "reason": "same amount, similar text 1.00"
@@ -1238,11 +1258,6 @@
      "id": "m-tallahassee|2026-11-18|992bb360|267672da8d57",
      "meeting_date": "2026-11-18",
      "reason": "same amount, similar text 1.00"
-    },
-    {
-     "id": "m-tallahassee|2026-11-18|1d632697|29ed30498249",
-     "meeting_date": "2026-11-18",
-     "reason": "same amount"
     }
    ],
    "possible_duplicate_label": null,
@@ -1521,6 +1536,11 @@
    "pct_of_general_fund": 0.232,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|12eba048dab8",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 0.90"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|12eba048dab8",
      "meeting_date": "2026-11-18",
      "reason": "same amount, similar text 1.00"
@@ -1570,6 +1590,11 @@
    "general_fund": 215096000,
    "pct_of_general_fund": null,
    "possible_duplicates": [
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|adf68665ef46",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
     {
      "id": "m-tallahassee|2026-11-18|6c640e76|adf68665ef46",
      "meeting_date": "2026-11-18",
@@ -1725,6 +1750,11 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|65aac3515049",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|65aac3515049",
      "meeting_date": "2026-11-18",
      "reason": "same amount, similar text 1.00"
@@ -1775,6 +1805,11 @@
    "pct_of_general_fund": 0.167,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|c18064f4d09e",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|c18064f4d09e",
      "meeting_date": "2026-11-18",
      "reason": "same amount, similar text 1.00"
@@ -1824,6 +1859,11 @@
    "general_fund": 215096000,
    "pct_of_general_fund": null,
    "possible_duplicates": [
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|2ffb5ea3c3c5",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
     {
      "id": "m-tallahassee|2026-11-18|6c640e76|2ffb5ea3c3c5",
      "meeting_date": "2026-11-18",
@@ -2722,6 +2762,11 @@
    "general_fund": 215096000,
    "pct_of_general_fund": 1.534,
    "possible_duplicates": [
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|1c6d1630c675",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
     {
      "id": "m-tallahassee|2026-11-18|6c640e76|1c6d1630c675",
      "meeting_date": "2026-11-18",
@@ -3883,6 +3928,11 @@
    "pct_of_general_fund": 0.744,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|0488763392a5",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|0488763392a5",
      "meeting_date": "2026-11-18",
      "reason": "same amount, similar text 1.00"
@@ -4619,6 +4669,11 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|fefd44c7ffa1",
+     "meeting_date": "2026-11-18",
+     "reason": "similar text 0.89"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|8ea1ed0f1e77",
      "meeting_date": "2026-11-18",
      "reason": "similar text 1.00"
@@ -4668,6 +4723,11 @@
    "general_fund": 215096000,
    "pct_of_general_fund": null,
    "possible_duplicates": [
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|9568ccf811f6",
+     "meeting_date": "2026-11-18",
+     "reason": "similar text 1.00"
+    },
     {
      "id": "m-tallahassee|2026-11-18|6c640e76|9568ccf811f6",
      "meeting_date": "2026-11-18",
@@ -4721,6 +4781,11 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|28cdf488342c",
+     "meeting_date": "2026-11-18",
+     "reason": "similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|28cdf488342c",
      "meeting_date": "2026-11-18",
      "reason": "similar text 1.00"
@@ -4773,17 +4838,17 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
-     "id": "m-tallahassee|2026-11-18|6c640e76|2c3bfd622637",
+     "id": "m-tallahassee|2026-11-18|1300d365|2c3bfd622637",
      "meeting_date": "2026-11-18",
      "reason": "similar text 1.00"
     },
     {
-     "id": "m-tallahassee|2026-11-18|6c640e76|33078d869616",
+     "id": "m-tallahassee|2026-11-18|1300d365|b0da91c21a0b",
      "meeting_date": "2026-11-18",
      "reason": "similar text 0.68"
     },
     {
-     "id": "m-tallahassee|2026-11-18|82af2c92|7c274b5cde84",
+     "id": "m-tallahassee|2026-11-18|5f6109ca|7c274b5cde84",
      "meeting_date": "2026-11-18",
      "reason": "similar text 0.73"
     }
@@ -4830,19 +4895,19 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|61bd5cd44458",
+     "meeting_date": "2026-11-18",
+     "reason": "similar text 0.72"
+    },
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|fe4f3cf3ed69",
+     "meeting_date": "2026-11-18",
+     "reason": "similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|1d632697|2f78ed40eccc",
      "meeting_date": "2026-11-18",
      "reason": "similar text 0.72"
-    },
-    {
-     "id": "m-tallahassee|2026-11-18|6c640e76|2f78ed40eccc",
-     "meeting_date": "2026-11-18",
-     "reason": "similar text 0.72"
-    },
-    {
-     "id": "m-tallahassee|2026-11-18|6c640e76|fe4f3cf3ed69",
-     "meeting_date": "2026-11-18",
-     "reason": "similar text 1.00"
     }
    ],
    "possible_duplicate_label": null,
@@ -4887,17 +4952,17 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
-     "id": "m-tallahassee|2026-11-18|1d632697|fe4f3cf3ed69",
+     "id": "m-tallahassee|2026-11-18|1300d365|61bd5cd44458",
+     "meeting_date": "2026-11-18",
+     "reason": "similar text 0.85"
+    },
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|fe4f3cf3ed69",
      "meeting_date": "2026-11-18",
      "reason": "similar text 0.72"
     },
     {
-     "id": "m-tallahassee|2026-11-18|6c640e76|2f78ed40eccc",
-     "meeting_date": "2026-11-18",
-     "reason": "similar text 1.00"
-    },
-    {
-     "id": "m-tallahassee|2026-11-18|6c640e76|fe4f3cf3ed69",
+     "id": "m-tallahassee|2026-11-18|1d632697|fe4f3cf3ed69",
      "meeting_date": "2026-11-18",
      "reason": "similar text 0.72"
     }
@@ -4947,12 +5012,12 @@
      "reason": "similar text 1.00"
     },
     {
-     "id": "m-tallahassee|2026-11-18|6c640e76|484803e701ec",
+     "id": "m-tallahassee|2026-11-18|1300d365|484803e701ec",
      "meeting_date": "2026-11-18",
      "reason": "similar text 1.00"
     },
     {
-     "id": "m-tallahassee|2026-11-18|992bb360|484803e701ec",
+     "id": "m-tallahassee|2026-11-18|6c640e76|484803e701ec",
      "meeting_date": "2026-11-18",
      "reason": "similar text 1.00"
     }
@@ -5613,19 +5678,19 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|2c3bfd622637",
+     "meeting_date": "2026-11-18",
+     "reason": "similar text 0.73"
+    },
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|b0da91c21a0b",
+     "meeting_date": "2026-11-18",
+     "reason": "similar text 0.92"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|1d632697|2c3bfd622637",
      "meeting_date": "2026-11-18",
      "reason": "similar text 0.73"
-    },
-    {
-     "id": "m-tallahassee|2026-11-18|6c640e76|2c3bfd622637",
-     "meeting_date": "2026-11-18",
-     "reason": "similar text 0.73"
-    },
-    {
-     "id": "m-tallahassee|2026-11-18|6c640e76|33078d869616",
-     "meeting_date": "2026-11-18",
-     "reason": "similar text 0.92"
     }
    ],
    "possible_duplicate_label": null,
@@ -7059,6 +7124,11 @@
    "pct_of_general_fund": 0.385,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|29ed30498249",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|29ed30498249",
      "meeting_date": "2026-11-18",
      "reason": "same amount, similar text 1.00"
@@ -7067,11 +7137,6 @@
      "id": "m-tallahassee|2026-11-18|992bb360|29ed30498249",
      "meeting_date": "2026-11-18",
      "reason": "same amount, similar text 1.00"
-    },
-    {
-     "id": "m-tallahassee|2026-11-18|1d632697|267672da8d57",
-     "meeting_date": "2026-11-18",
-     "reason": "same amount"
     }
    ],
    "possible_duplicate_label": null,
@@ -7268,6 +7333,11 @@
    "pct_of_general_fund": 0.256,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|c190f598bcf6",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|c190f598bcf6",
      "meeting_date": "2026-11-18",
      "reason": "same amount, similar text 1.00"
@@ -7320,6 +7390,11 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|db58d836387a",
+     "meeting_date": "2026-11-18",
+     "reason": "similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|db58d836387a",
      "meeting_date": "2026-11-18",
      "reason": "similar text 1.00"
@@ -7369,6 +7444,11 @@
    "general_fund": 215096000,
    "pct_of_general_fund": null,
    "possible_duplicates": [
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|638f2ed3fb7b",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
     {
      "id": "m-tallahassee|2026-11-18|6c640e76|638f2ed3fb7b",
      "meeting_date": "2026-11-18",
@@ -7527,6 +7607,11 @@
    "general_fund": 215096000,
    "pct_of_general_fund": 0.167,
    "possible_duplicates": [
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|be1084e663db",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
     {
      "id": "m-tallahassee|2026-11-18|6c640e76|be1084e663db",
      "meeting_date": "2026-11-18",
@@ -8012,6 +8097,11 @@
    "pct_of_general_fund": 0.084,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|7c1aceb3e748",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|7c1aceb3e748",
      "meeting_date": "2026-11-18",
      "reason": "same amount, similar text 1.00"
@@ -8269,6 +8359,11 @@
    "general_fund": 215096000,
    "pct_of_general_fund": 0.077,
    "possible_duplicates": [
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|91fb473b63f7",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
     {
      "id": "m-tallahassee|2026-11-18|6c640e76|91fb473b63f7",
      "meeting_date": "2026-11-18",
@@ -9374,6 +9469,11 @@
    "general_fund": 215096000,
    "pct_of_general_fund": 0.028,
    "possible_duplicates": [
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|d032f9aa3350",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 0.86"
+    },
     {
      "id": "m-tallahassee|2026-11-18|6c640e76|061b768516c1",
      "meeting_date": "2026-11-18",
@@ -10813,7 +10913,13 @@
    "pct_of_paying_fund": 0.279,
    "general_fund": 215096000,
    "pct_of_general_fund": 0.279,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-tallahassee|2026-11-23|747c4828|4709b645d167",
+     "meeting_date": "2026-11-23",
+     "reason": "similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 5,
@@ -10857,7 +10963,17 @@
    "pct_of_general_fund": 0.279,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-23|747c4828|278fe02836c4",
+     "meeting_date": "2026-11-23",
+     "reason": "same amount, similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-23|5ab73d8d|b107b4c11c15",
+     "meeting_date": "2026-11-23",
+     "reason": "same amount"
+    },
+    {
+     "id": "m-tallahassee|2026-11-23|747c4828|b107b4c11c15",
      "meeting_date": "2026-11-23",
      "reason": "same amount"
     }
@@ -10905,7 +11021,17 @@
    "pct_of_general_fund": 0.279,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-23|747c4828|b107b4c11c15",
+     "meeting_date": "2026-11-23",
+     "reason": "same amount, similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-23|5ab73d8d|278fe02836c4",
+     "meeting_date": "2026-11-23",
+     "reason": "same amount"
+    },
+    {
+     "id": "m-tallahassee|2026-11-23|747c4828|278fe02836c4",
      "meeting_date": "2026-11-23",
      "reason": "same amount"
     }
@@ -10951,7 +11077,13 @@
    "pct_of_paying_fund": 0.279,
    "general_fund": 215096000,
    "pct_of_general_fund": 0.279,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-tallahassee|2026-11-23|747c4828|2bb8b45285ae",
+     "meeting_date": "2026-11-23",
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 5,
@@ -11838,6 +11970,122 @@
    ]
   },
   {
+   "entity_id": "m-leesburg",
+   "government": "Leesburg",
+   "client": "civicclerk",
+   "body": "City Commission Meeting",
+   "meeting_date": "2026-11-23",
+   "agenda_number": "p.2",
+   "file_number": null,
+   "title": "1. Resolution of the City Commission of the City of Leesburg, Florida authorizing the Mayor and City Clerk to execute Civic Organization Funding Agreements for Fiscal Year 2026-27 with Community Development Corporation of Leesburg, Inc., Leesburg Area Chamber of Commerce, Inc., Leesburg Arts Festival, Inc. DBA Leesburg Arts Center, Leesburg Yellow Jacket Booster Club, Inc. and SoS, Inc. of Leesburg High School (Leesburg High School Band); and providing an effective date.",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [
+    "vanity"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 4,
+   "keywords": [],
+   "meeting_url": "https://leesburgfl.portal.civicclerk.com/",
+   "agenda_pdf": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3367,plainText=false)",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3367,plainText=false)#page=2",
+   "id": "m-leesburg|2026-11-23|89333b0b|e37805a91478",
+   "project_id": "m-leesburg|item:m-leesburg|2026-11-23|89333b0b|e37805a91478",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 36309173,
+   "pct_of_paying_fund": null,
+   "general_fund": 36309173,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [
+    {
+     "id": "m-leesburg|2026-11-23|d480b72a|127608b5e1de",
+     "meeting_date": "2026-11-23",
+     "reason": "similar text 0.97"
+    },
+    {
+     "id": "m-leesburg|2026-11-23|d480b72a|7b95d60e27a5",
+     "meeting_date": "2026-11-23",
+     "reason": "similar text 1.00"
+    },
+    {
+     "id": "m-leesburg|2026-11-23|d480b72a|e37805a91478",
+     "meeting_date": "2026-11-23",
+     "reason": "similar text 1.00"
+    }
+   ],
+   "possible_duplicate_label": null,
+   "stage": "upcoming",
+   "days_until_meeting": 5,
+   "categories": [
+    "outgoing_grant",
+    "vanity"
+   ]
+  },
+  {
+   "entity_id": "m-leesburg",
+   "government": "Leesburg",
+   "client": "civicclerk",
+   "body": "City Commission Meeting",
+   "meeting_date": "2026-11-23",
+   "agenda_number": "p.35",
+   "file_number": null,
+   "title": "RESOLUTION OF THE CITY COMMISSION OF THE CITY OF LEESBURG, FLORIDA AUTHORIZING THE MAYOR AND CITY CLERK TO EXECUTE CIVIC ORGANIZATION FUNDING AGREEMENTS FOR FISCAL YEAR 2026- 27 WITH COMMUNITY DEVELOPMENT CORPORATION OF LEESBURG, INC., LEESBURG AREA CHAMBER OF COMMERCE, INC., LEESBURG ARTS FESTIVAL, INC. DBA LEESBURG ARTS CENTER, LEESBURG YELLOW JACKET BOOSTER CLUB, INC. AND SOS, INC. OF LEESBURG HIGH SCHOOL (LEESBURG HIGH SCHOOL BAND); AND PROVIDING AN EFFECTIVE DATE.",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [
+    "vanity"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 4,
+   "keywords": [],
+   "meeting_url": "https://leesburgfl.portal.civicclerk.com/",
+   "agenda_pdf": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)#page=35",
+   "id": "m-leesburg|2026-11-23|d480b72a|7b95d60e27a5",
+   "project_id": "m-leesburg|item:m-leesburg|2026-11-23|d480b72a|7b95d60e27a5",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 36309173,
+   "pct_of_paying_fund": null,
+   "general_fund": 36309173,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [
+    {
+     "id": "m-leesburg|2026-11-23|89333b0b|e37805a91478",
+     "meeting_date": "2026-11-23",
+     "reason": "similar text 1.00"
+    },
+    {
+     "id": "m-leesburg|2026-11-23|d480b72a|127608b5e1de",
+     "meeting_date": "2026-11-23",
+     "reason": "similar text 0.97"
+    },
+    {
+     "id": "m-leesburg|2026-11-23|d480b72a|e37805a91478",
+     "meeting_date": "2026-11-23",
+     "reason": "similar text 1.00"
+    }
+   ],
+   "possible_duplicate_label": null,
+   "stage": "upcoming",
+   "days_until_meeting": 5,
+   "categories": [
+    "outgoing_grant",
+    "vanity"
+   ]
+  },
+  {
    "entity_id": "m-tallahassee",
    "government": "Tallahassee",
    "client": "civicclerk",
@@ -11872,6 +12120,11 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|267672da8d57",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|267672da8d57",
      "meeting_date": "2026-11-18",
      "reason": "same amount, similar text 1.00"
@@ -11880,11 +12133,6 @@
      "id": "m-tallahassee|2026-11-18|992bb360|267672da8d57",
      "meeting_date": "2026-11-18",
      "reason": "same amount, similar text 1.00"
-    },
-    {
-     "id": "m-tallahassee|2026-11-18|1d632697|29ed30498249",
-     "meeting_date": "2026-11-18",
-     "reason": "same amount"
     }
    ],
    "possible_duplicate_label": null,
@@ -11926,6 +12174,11 @@
    "general_fund": 215096000,
    "pct_of_general_fund": 0.232,
    "possible_duplicates": [
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|12eba048dab8",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 0.90"
+    },
     {
      "id": "m-tallahassee|2026-11-18|6c640e76|12eba048dab8",
      "meeting_date": "2026-11-18",
@@ -11976,6 +12229,11 @@
    "general_fund": 215096000,
    "pct_of_general_fund": null,
    "possible_duplicates": [
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|adf68665ef46",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
     {
      "id": "m-tallahassee|2026-11-18|6c640e76|adf68665ef46",
      "meeting_date": "2026-11-18",
@@ -12181,6 +12439,11 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|65aac3515049",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|65aac3515049",
      "meeting_date": "2026-11-18",
      "reason": "same amount, similar text 1.00"
@@ -12231,6 +12494,11 @@
    "pct_of_general_fund": 0.167,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|c18064f4d09e",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|c18064f4d09e",
      "meeting_date": "2026-11-18",
      "reason": "same amount, similar text 1.00"
@@ -12280,6 +12548,11 @@
    "general_fund": 215096000,
    "pct_of_general_fund": null,
    "possible_duplicates": [
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|2ffb5ea3c3c5",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
     {
      "id": "m-tallahassee|2026-11-18|6c640e76|2ffb5ea3c3c5",
      "meeting_date": "2026-11-18",
@@ -13216,6 +13489,61 @@
    ]
   },
   {
+   "entity_id": "m-leesburg",
+   "government": "Leesburg",
+   "client": "civicclerk",
+   "body": "City Commission Meeting",
+   "meeting_date": "2026-11-23",
+   "agenda_number": "p.39",
+   "file_number": null,
+   "title": "Section 1. City Obligations. City agrees to provide the Agency with a $50,000.00 funding contribution in fiscal year 2026/2027. Said funding contribution will be issued to the Agency as a lump sum disbursement.",
+   "max_amount": 50000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 50000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Agency",
+   "signal_score": 2.7,
+   "keywords": [],
+   "meeting_url": "https://leesburgfl.portal.civicclerk.com/",
+   "agenda_pdf": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)#page=39",
+   "id": "m-leesburg|2026-11-23|d480b72a|d97929a38f13",
+   "project_id": "m-leesburg|item:m-leesburg|2026-11-23|d480b72a|d97929a38f13",
+   "project_total": 50000.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 36309173,
+   "pct_of_paying_fund": 0.138,
+   "general_fund": 36309173,
+   "pct_of_general_fund": 0.138,
+   "possible_duplicates": [
+    {
+     "id": "m-leesburg|2026-11-23|d480b72a|19bbda341197",
+     "meeting_date": "2026-11-23",
+     "reason": "similar text 1.00"
+    },
+    {
+     "id": "m-leesburg|2026-11-23|d480b72a|8f26ac9443cd",
+     "meeting_date": "2026-11-23",
+     "reason": "similar text 0.88"
+    },
+    {
+     "id": "m-leesburg|2026-11-23|d480b72a|a267093dac52",
+     "meeting_date": "2026-11-23",
+     "reason": "similar text 0.88"
+    }
+   ],
+   "possible_duplicate_label": null,
+   "stage": "upcoming",
+   "days_until_meeting": 5,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
    "entity_id": "c-nassau",
    "government": "Nassau County",
    "client": "civicclerk",
@@ -13964,6 +14292,11 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|fefd44c7ffa1",
+     "meeting_date": "2026-11-18",
+     "reason": "similar text 0.89"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|8ea1ed0f1e77",
      "meeting_date": "2026-11-18",
      "reason": "similar text 1.00"
@@ -14013,6 +14346,11 @@
    "general_fund": 215096000,
    "pct_of_general_fund": null,
    "possible_duplicates": [
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|9568ccf811f6",
+     "meeting_date": "2026-11-18",
+     "reason": "similar text 1.00"
+    },
     {
      "id": "m-tallahassee|2026-11-18|6c640e76|9568ccf811f6",
      "meeting_date": "2026-11-18",
@@ -14066,6 +14404,11 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|28cdf488342c",
+     "meeting_date": "2026-11-18",
+     "reason": "similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|28cdf488342c",
      "meeting_date": "2026-11-18",
      "reason": "similar text 1.00"
@@ -14118,17 +14461,17 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
-     "id": "m-tallahassee|2026-11-18|6c640e76|2c3bfd622637",
+     "id": "m-tallahassee|2026-11-18|1300d365|2c3bfd622637",
      "meeting_date": "2026-11-18",
      "reason": "similar text 1.00"
     },
     {
-     "id": "m-tallahassee|2026-11-18|6c640e76|33078d869616",
+     "id": "m-tallahassee|2026-11-18|1300d365|b0da91c21a0b",
      "meeting_date": "2026-11-18",
      "reason": "similar text 0.68"
     },
     {
-     "id": "m-tallahassee|2026-11-18|82af2c92|7c274b5cde84",
+     "id": "m-tallahassee|2026-11-18|5f6109ca|7c274b5cde84",
      "meeting_date": "2026-11-18",
      "reason": "similar text 0.73"
     }
@@ -14175,19 +14518,19 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|61bd5cd44458",
+     "meeting_date": "2026-11-18",
+     "reason": "similar text 0.72"
+    },
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|fe4f3cf3ed69",
+     "meeting_date": "2026-11-18",
+     "reason": "similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|1d632697|2f78ed40eccc",
      "meeting_date": "2026-11-18",
      "reason": "similar text 0.72"
-    },
-    {
-     "id": "m-tallahassee|2026-11-18|6c640e76|2f78ed40eccc",
-     "meeting_date": "2026-11-18",
-     "reason": "similar text 0.72"
-    },
-    {
-     "id": "m-tallahassee|2026-11-18|6c640e76|fe4f3cf3ed69",
-     "meeting_date": "2026-11-18",
-     "reason": "similar text 1.00"
     }
    ],
    "possible_duplicate_label": null,
@@ -14232,17 +14575,17 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
-     "id": "m-tallahassee|2026-11-18|1d632697|fe4f3cf3ed69",
+     "id": "m-tallahassee|2026-11-18|1300d365|61bd5cd44458",
+     "meeting_date": "2026-11-18",
+     "reason": "similar text 0.85"
+    },
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|fe4f3cf3ed69",
      "meeting_date": "2026-11-18",
      "reason": "similar text 0.72"
     },
     {
-     "id": "m-tallahassee|2026-11-18|6c640e76|2f78ed40eccc",
-     "meeting_date": "2026-11-18",
-     "reason": "similar text 1.00"
-    },
-    {
-     "id": "m-tallahassee|2026-11-18|6c640e76|fe4f3cf3ed69",
+     "id": "m-tallahassee|2026-11-18|1d632697|fe4f3cf3ed69",
      "meeting_date": "2026-11-18",
      "reason": "similar text 0.72"
     }
@@ -14292,12 +14635,12 @@
      "reason": "similar text 1.00"
     },
     {
-     "id": "m-tallahassee|2026-11-18|6c640e76|484803e701ec",
+     "id": "m-tallahassee|2026-11-18|1300d365|484803e701ec",
      "meeting_date": "2026-11-18",
      "reason": "similar text 1.00"
     },
     {
-     "id": "m-tallahassee|2026-11-18|992bb360|484803e701ec",
+     "id": "m-tallahassee|2026-11-18|6c640e76|484803e701ec",
      "meeting_date": "2026-11-18",
      "reason": "similar text 1.00"
     }
@@ -15149,19 +15492,19 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|2c3bfd622637",
+     "meeting_date": "2026-11-18",
+     "reason": "similar text 0.73"
+    },
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|b0da91c21a0b",
+     "meeting_date": "2026-11-18",
+     "reason": "similar text 0.92"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|1d632697|2c3bfd622637",
      "meeting_date": "2026-11-18",
      "reason": "similar text 0.73"
-    },
-    {
-     "id": "m-tallahassee|2026-11-18|6c640e76|2c3bfd622637",
-     "meeting_date": "2026-11-18",
-     "reason": "similar text 0.73"
-    },
-    {
-     "id": "m-tallahassee|2026-11-18|6c640e76|33078d869616",
-     "meeting_date": "2026-11-18",
-     "reason": "similar text 0.92"
     }
    ],
    "possible_duplicate_label": null,
@@ -17045,9 +17388,343 @@
      "id": "m-tallahassee|2026-04-20|35d7de4e|003ef4bdd715",
      "meeting_date": "2026-04-20",
      "reason": "similar text 0.91"
+    },
+    {
+     "id": "m-tallahassee|2026-11-23|747c4828|750b9e42a30f",
+     "meeting_date": "2026-11-23",
+     "reason": "similar text 1.00"
     }
    ],
    "possible_duplicate_label": "2026-04-20 (similar text 0.91)",
+   "stage": "upcoming",
+   "days_until_meeting": 5,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-leesburg",
+   "government": "Leesburg",
+   "client": "civicclerk",
+   "body": "City Commission Meeting",
+   "meeting_date": "2026-11-23",
+   "agenda_number": "p.45",
+   "file_number": null,
+   "title": "CIVIC ORGANIZATION FUNDING AGREEMENT THIS AGREEMENT is entered into by and between the City of Leesburg, Florida (hereinafter referred to as \u201cCity\u201d), and SoS, Inc. of Leesburg High School a not-for-profit corporation (hereinafter referred to as \u201cAgency\u201d). WITNESSETH: THAT, it is permissible for cities to make contributions to nonprofit corporations where the contributions further a public purpose. Agency is seeking a City contribution to help provide a public service to City residents and the City wishes to make such a contribution for the public purposes stated herein and in accordance with the terms and conditions of this Agreement. NOW, THEREFORE, in consideration of the promises, mutual covenants, conditions and payments hereinafter contained, the parties agree as follows: Section 1. City Obligations. City agrees to provide the Agency with a $2,500.00 funding contribution in fiscal year 2026/2027. Said funding contribution will be issued to the Agency as a lump sum disbursement. Section 2. Agency Obligations. Agency shall be responsible for providing the City with a copy of the most recent IRS Form 990, proof of non-profit status and an activity report(s) showing the uses for w",
+   "max_amount": 2500.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 2500.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Agency",
+   "signal_score": 2,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://leesburgfl.portal.civicclerk.com/",
+   "agenda_pdf": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)#page=45",
+   "id": "m-leesburg|2026-11-23|d480b72a|858dff8b84da",
+   "project_id": "m-leesburg|item:m-leesburg|2026-11-23|d480b72a|858dff8b84da",
+   "project_total": 2500.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 36309173,
+   "pct_of_paying_fund": 0.007,
+   "general_fund": 36309173,
+   "pct_of_general_fund": 0.007,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "upcoming",
+   "days_until_meeting": 5,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-leesburg",
+   "government": "Leesburg",
+   "client": "civicclerk",
+   "body": "City Commission Meeting",
+   "meeting_date": "2026-11-23",
+   "agenda_number": "p.7",
+   "file_number": null,
+   "title": "Items pulled for discussion: 5.C.1 Agreement with Core G Sunnyside LLC 5.C.2 Funding Agreement for FY26/27 with Leesburg Cemeteries",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://leesburgfl.portal.civicclerk.com/",
+   "agenda_pdf": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)#page=7",
+   "id": "m-leesburg|2026-11-23|d480b72a|f345889ad148",
+   "project_id": "m-leesburg|item:m-leesburg|2026-11-23|d480b72a|f345889ad148",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 36309173,
+   "pct_of_paying_fund": null,
+   "general_fund": 36309173,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "upcoming",
+   "days_until_meeting": 5,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-leesburg",
+   "government": "Leesburg",
+   "client": "civicclerk",
+   "body": "City Commission Meeting",
+   "meeting_date": "2026-11-23",
+   "agenda_number": "p.37",
+   "file_number": null,
+   "title": "THAT, it is permissible for cities to make contributions to nonprofit corporations where the contributions further a public purpose. Agency is seeking a City contribution to help provide a public service to City residents and the City wishes to make such a contribution for the public purposes stated herein and in accordance with the terms and conditions of this Agreement.",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://leesburgfl.portal.civicclerk.com/",
+   "agenda_pdf": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)#page=37",
+   "id": "m-leesburg|2026-11-23|d480b72a|b33274a8786b",
+   "project_id": "m-leesburg|item:m-leesburg|2026-11-23|d480b72a|b33274a8786b",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 36309173,
+   "pct_of_paying_fund": null,
+   "general_fund": 36309173,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "upcoming",
+   "days_until_meeting": 5,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-leesburg",
+   "government": "Leesburg",
+   "client": "civicclerk",
+   "body": "City Commission Meeting",
+   "meeting_date": "2026-11-23",
+   "agenda_number": "p.37",
+   "file_number": null,
+   "title": "Section 1. City Obligations. City agrees to provide the Agency with a $3,880.00 funding contribution in fiscal year 2026/2027. Said funding contribution will be issued to the Agency as a lump sum disbursement.",
+   "max_amount": 3880.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 3880.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Agency",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://leesburgfl.portal.civicclerk.com/",
+   "agenda_pdf": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)#page=37",
+   "id": "m-leesburg|2026-11-23|d480b72a|8f26ac9443cd",
+   "project_id": "m-leesburg|item:m-leesburg|2026-11-23|d480b72a|8f26ac9443cd",
+   "project_total": 3900.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 36309173,
+   "pct_of_paying_fund": 0.011,
+   "general_fund": 36309173,
+   "pct_of_general_fund": 0.011,
+   "possible_duplicates": [
+    {
+     "id": "m-leesburg|2026-11-23|d480b72a|19bbda341197",
+     "meeting_date": "2026-11-23",
+     "reason": "similar text 0.88"
+    },
+    {
+     "id": "m-leesburg|2026-11-23|d480b72a|a267093dac52",
+     "meeting_date": "2026-11-23",
+     "reason": "similar text 0.88"
+    },
+    {
+     "id": "m-leesburg|2026-11-23|d480b72a|d97929a38f13",
+     "meeting_date": "2026-11-23",
+     "reason": "similar text 0.88"
+    }
+   ],
+   "possible_duplicate_label": null,
+   "stage": "upcoming",
+   "days_until_meeting": 5,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-leesburg",
+   "government": "Leesburg",
+   "client": "civicclerk",
+   "body": "City Commission Meeting",
+   "meeting_date": "2026-11-23",
+   "agenda_number": "p.37",
+   "file_number": null,
+   "title": "Section 4. Lapse. In the event the Agency does not spend the funding contribution from the City within the stated term of this Agreement for the purposes outlined in this Agreement, or in the event this Agreement is terminated prior to the one-year term in accordance with Section 5 below, the Agency shall return all of the unspent funding contribution to the City on or before the end of the first business day following the termination of this Agreement.",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://leesburgfl.portal.civicclerk.com/",
+   "agenda_pdf": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)#page=37",
+   "id": "m-leesburg|2026-11-23|d480b72a|8723b4b1a92a",
+   "project_id": "m-leesburg|item:m-leesburg|2026-11-23|d480b72a|8723b4b1a92a",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 36309173,
+   "pct_of_paying_fund": null,
+   "general_fund": 36309173,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "upcoming",
+   "days_until_meeting": 5,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-leesburg",
+   "government": "Leesburg",
+   "client": "civicclerk",
+   "body": "City Commission Meeting",
+   "meeting_date": "2026-11-23",
+   "agenda_number": "p.41",
+   "file_number": null,
+   "title": "Section 1. City Obligations. City agrees to provide the Agency with a $10,670.00 funding contribution in fiscal year 2026/2027. Said funding contribution will be issued to the Agency as a lump sum disbursement.",
+   "max_amount": 10670.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 10670.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Agency",
+   "signal_score": 2.0,
+   "keywords": [],
+   "meeting_url": "https://leesburgfl.portal.civicclerk.com/",
+   "agenda_pdf": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)#page=41",
+   "id": "m-leesburg|2026-11-23|d480b72a|a267093dac52",
+   "project_id": "m-leesburg|item:m-leesburg|2026-11-23|d480b72a|a267093dac52",
+   "project_total": 10700.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 36309173,
+   "pct_of_paying_fund": 0.029,
+   "general_fund": 36309173,
+   "pct_of_general_fund": 0.029,
+   "possible_duplicates": [
+    {
+     "id": "m-leesburg|2026-11-23|d480b72a|19bbda341197",
+     "meeting_date": "2026-11-23",
+     "reason": "similar text 0.88"
+    },
+    {
+     "id": "m-leesburg|2026-11-23|d480b72a|8f26ac9443cd",
+     "meeting_date": "2026-11-23",
+     "reason": "similar text 0.88"
+    },
+    {
+     "id": "m-leesburg|2026-11-23|d480b72a|d97929a38f13",
+     "meeting_date": "2026-11-23",
+     "reason": "similar text 0.88"
+    }
+   ],
+   "possible_duplicate_label": null,
+   "stage": "upcoming",
+   "days_until_meeting": 5,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-leesburg",
+   "government": "Leesburg",
+   "client": "civicclerk",
+   "body": "City Commission Meeting",
+   "meeting_date": "2026-11-23",
+   "agenda_number": "p.43",
+   "file_number": null,
+   "title": "Section 1. City Obligations. City agrees to provide the Agency with a $5,000.00 funding contribution in fiscal year 2026/2027. Said funding contribution will be issued to the Agency as a lump sum disbursement.",
+   "max_amount": 5000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 5000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Agency",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://leesburgfl.portal.civicclerk.com/",
+   "agenda_pdf": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)#page=43",
+   "id": "m-leesburg|2026-11-23|d480b72a|19bbda341197",
+   "project_id": "m-leesburg|item:m-leesburg|2026-11-23|d480b72a|19bbda341197",
+   "project_total": 5000.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 36309173,
+   "pct_of_paying_fund": 0.014,
+   "general_fund": 36309173,
+   "pct_of_general_fund": 0.014,
+   "possible_duplicates": [
+    {
+     "id": "m-leesburg|2026-11-23|d480b72a|8f26ac9443cd",
+     "meeting_date": "2026-11-23",
+     "reason": "similar text 0.88"
+    },
+    {
+     "id": "m-leesburg|2026-11-23|d480b72a|a267093dac52",
+     "meeting_date": "2026-11-23",
+     "reason": "similar text 0.88"
+    },
+    {
+     "id": "m-leesburg|2026-11-23|d480b72a|d97929a38f13",
+     "meeting_date": "2026-11-23",
+     "reason": "similar text 1.00"
+    }
+   ],
+   "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 5,
    "categories": [
@@ -28539,7 +29216,13 @@
    "pct_of_paying_fund": null,
    "general_fund": 26426640,
    "pct_of_general_fund": null,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-eustis|2026-11-10|08749bb8|8b8ffc03b73d",
+     "meeting_date": "2026-11-10",
+     "reason": "similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "past_meeting",
    "days_until_meeting": -8,
@@ -35909,6 +36592,48 @@
    ]
   },
   {
+   "entity_id": "c-gadsden",
+   "government": "Gadsden County",
+   "client": "pdf",
+   "body": "Board of County Commissioners - Jun 03, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.2",
+   "file_number": null,
+   "title": "3. May 6, 2025, Regular BOCC Meeting 7.c Approval of Law Enforcement Education Funds for DARE Officer Training (Roosevelt Morris, Interim County Administrator / Morris A. Young, Sheriff) 7.d Approval of Law Enforcement Education Funds for DARE Officer Training (Roosevelt Morris, Interim County Administrator / Morris A. Young, Sheriff) 7.e Approval of Department of Highway Safety and Motor Vehicles - Memorandum of Understanding - Annual Certification Statement (Roosevelt Morris, Interim County Administrator / Temeka Rollins, Probation Manager) 7.f Approval of Funding Request for Sawdust-Gunn May Celebration (Roosevelt Morris, Interim County Administrator / Rose Raynak, Finance Director) 7.g Approval of Signatures for Special Assessment Liens and Contracts - State Housing Initiative Partnership Program (SHIP) (Roosevelt Morris, Interim County Administrator / Sonya Burns, Housing Coordinator) 7.h Approval to Apply for the 2025 911 State Grant Program Funds for $258,080.65 for FY2025- 2026 (Roosevelt Morris, Interim County Administrator / Morris A. Young, Sheriff / Tashonda Whaley, Emergency Management Director / Rachel Harrison, E911 Coordinator) 7.i Approval to Accept the State-Funde",
+   "max_amount": 258080.0,
+   "flow": "in",
+   "funding_source": "unstated",
+   "signed_amount": -258080.0,
+   "signals": [
+    "vanity"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "DARE Officer Training",
+   "signal_score": 5.4,
+   "keywords": [],
+   "meeting_url": "https://gadsdencountyfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=91",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=91#page=2",
+   "id": "c-gadsden|nodate|ca7f532e|f41ba694a5f5",
+   "project_id": "c-gadsden|item:c-gadsden|nodate|ca7f532e|f41ba694a5f5",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 41142440,
+   "pct_of_paying_fund": 0.627,
+   "general_fund": 41142440,
+   "pct_of_general_fund": 0.627,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant",
+    "vanity"
+   ]
+  },
+  {
    "entity_id": "m-palmettobay",
    "government": "Palmetto Bay",
    "client": "pdf",
@@ -36404,6 +37129,63 @@
    "general_fund": 10325480,
    "pct_of_general_fund": 84.602,
    "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "c-hardee",
+   "government": "Hardee County",
+   "client": "pdf",
+   "body": "Hardee County Board of County Commissioners AM - Nov 19, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "- Motion to approve the submission and acceptance of the Division of State Fire Marshal, Florida Department of Financial Services grant for Hardee County Fire Rescue Station 1 in the amount of $7,500,000; authorizing the County Manager or Chair to sign any necessary documents in furtherance thereof and to expend funds as provided for in the grant application and agreement.",
+   "max_amount": 7500000.0,
+   "flow": "mixed",
+   "funding_source": "unstated",
+   "signed_amount": 7500000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Hardee County Fire Rescue Station",
+   "signal_score": 4.9,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://hardeecountyfl.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas",
+   "agenda_pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=174",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=174#page=1",
+   "id": "c-hardee|nodate|86059712|947d0d274200",
+   "project_id": "c-hardee|item:c-hardee|nodate|86059712|947d0d274200",
+   "project_total": 7500000.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 42766943,
+   "pct_of_paying_fund": 17.537,
+   "general_fund": 42766943,
+   "pct_of_general_fund": 17.537,
+   "possible_duplicates": [
+    {
+     "id": "c-hardee|nodate|07a1b25d|c913e5b52e0d",
+     "meeting_date": null,
+     "reason": "similar text 0.63"
+    },
+    {
+     "id": "c-hardee|nodate|86059712|b08421a1850d",
+     "meeting_date": null,
+     "reason": "similar text 0.79"
+    },
+    {
+     "id": "c-hardee|nodate|86059712|c609b0e81f76",
+     "meeting_date": null,
+     "reason": "similar text 0.84"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "undated",
    "days_until_meeting": null,
@@ -39564,6 +40346,56 @@
    ]
   },
   {
+   "entity_id": "m-lakewales",
+   "government": "Lake Wales",
+   "client": "pdf",
+   "body": "City Commission Regular Meeting 09-03-2024 - Sep 03, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "The City Commission will consider approving Resolution 2025-17, authorizing an agreement with the Federal Aviation Administration (FAA) to provide funding for Lake Wales Airport Reconstruction of Runway 6-24 Lights and Signage.",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [
+    "vanity"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Lake Wales Airport Reconstruction of Runway",
+   "signal_score": 4,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://lakewales.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=861",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=861#page=1",
+   "id": "m-lakewales|nodate|1cf3e0d9|a776e5995cbc",
+   "project_id": "m-lakewales|item:m-lakewales|nodate|1cf3e0d9|a776e5995cbc",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 27610085,
+   "pct_of_paying_fund": null,
+   "general_fund": 27610085,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [
+    {
+     "id": "m-lakewales|nodate|d3b6178c|a776e5995cbc",
+     "meeting_date": null,
+     "reason": "similar text 1.00"
+    }
+   ],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant",
+    "vanity"
+   ]
+  },
+  {
    "entity_id": "m-sunrise",
    "government": "Sunrise",
    "client": "pdf",
@@ -39932,6 +40764,48 @@
    "categories": [
     "outgoing_grant",
     "debt"
+   ]
+  },
+  {
+   "entity_id": "m-ocala",
+   "government": "Ocala",
+   "client": "pdf",
+   "body": "City Council - Apr 07, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.6",
+   "file_number": null,
+   "title": "City Council Agenda - Final April 7, 2026 10m. Budget Resolution 2026-133 amending the Fiscal Year 2025-26 budget to accept and appropriate funding for the City of Ocala\u2019s Home Investment Partnership Program grant in the amount of $255,186 BR-2026-133 Presentation By: James Haynes 10n. Continued utilization of the State of Florida Alternative Source Contract with SHI International Corp. for the one-year renewal of Microsoft 365 cloud subscriptions, endpoint licenses, security tools, and AI licenses with an estimated aggregate expenditure amount of $578,413 Presentation By: Christopher Ramos 10o. Purchase of physical security cameras for Parking Garage No. 2 from Morse Communications Inc., with an estimated expenditure of $281,573 Presentation By: Christopher Ramos 10p. Budget Resolution 2026-134 to amend the Fiscal Year 2025-26 budget to transfer funds from reserves for the purchase of physical security cameras for Parking Garage No. 2 from Morse Communications Inc. in the amount of $141,583 BR-2026-134 Presentation By: Christopher Ramos 10q. Selection of an applicant for appointment to the Airport Advisory Board for a new four-year term ending April 7, 2030 Presentation By: Angel ",
+   "max_amount": 578413.0,
+   "flow": "mixed",
+   "funding_source": "unstated",
+   "signed_amount": 578413.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Parking Garage No",
+   "signal_score": 3.8,
+   "keywords": [
+    "contract",
+    "purchase"
+   ],
+   "meeting_url": "https://ocala.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas",
+   "agenda_pdf": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=3925",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=3925#page=6",
+   "id": "m-ocala|nodate|f65a7981|31b531acbc15",
+   "project_id": "m-ocala|item:m-ocala|nodate|f65a7981|31b531acbc15",
+   "project_total": 578400.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 147885494,
+   "pct_of_paying_fund": 0.391,
+   "general_fund": 147885494,
+   "pct_of_general_fund": 0.391,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
    ]
   },
   {
@@ -41354,9 +42228,9 @@
      "reason": "similar text 0.73"
     },
     {
-     "id": "m-lakewales|nodate|afaf1224|553432c9a63e",
+     "id": "m-lakewales|nodate|74ae82d0|fcafe2d2f00d",
      "meeting_date": null,
-     "reason": "similar text 0.74"
+     "reason": "similar text 0.71"
     }
    ],
    "possible_duplicate_label": null,
@@ -41796,6 +42670,110 @@
    "categories": [
     "outgoing_grant",
     "consultants"
+   ]
+  },
+  {
+   "entity_id": "m-venice",
+   "government": "Venice",
+   "client": "pdf",
+   "body": "City Council on 2025-10-28 9:00 AM - Oct 28, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.5",
+   "file_number": null,
+   "title": "B. RESOLUTIONS RES. NO. 2025-25 A Resolution of the City of Venice, Florida, Reducing the Fee Surcharge of Fifteen Percent for the Collection of Program Recyclables to Ten Percent; Superseding Resolution No. 2023-23; and Providing an Effective Date Resolution Memorandum Attachments: RES. NO. 2025-26 A Resolution of the City of Venice, Florida, Approving Amendment No. 3 to the Public Transportation Grant Agreement for Project Number 452977-1-94-01 by and Between the State of Florida Department of Transportation and the City of Venice, Florida for the Venice Municipal Airport Master Plan Update; Authorizing Appropriate City Officials to Execute it; and Providing an Effective Date Resolution Memorandum Amendment No. 3 to the Agreement Attachments: RES. NO. 2025-27 A Resolution of the City of Venice, Florida, Relating to the State Revolving Fund Loan Program; Making Findings; Authorizing the Loan Application; Authorizing the Loan Agreement; Establishing Pledged Revenues; Designating Authorized Representatives; Providing Assurances; and Providing an Effective Date ResolutionAttachments: IX. CHARTER OFFICER REPORTS City Attorney City Clerk City Manager",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [
+    "consultants"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Collection of Program Recyclables",
+   "signal_score": 3,
+   "keywords": [
+    "agreement",
+    "loan"
+   ],
+   "meeting_url": "https://venice.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1888",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1888#page=5",
+   "id": "m-venice|nodate|ebc8b553|312d8cee37e9",
+   "project_id": "m-venice|ref:ord/res 2025-25",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 52375073,
+   "pct_of_paying_fund": null,
+   "general_fund": 52375073,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant",
+    "consultants",
+    "debt"
+   ]
+  },
+  {
+   "entity_id": "m-lakewales",
+   "government": "Lake Wales",
+   "client": "pdf",
+   "body": "City Commission Regular Meeting 08-05-2025 - Aug 05, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "CITY COMMISSION REGULAR MEETING OFFICIAL AGENDA August 5, 2025 6:00 p.m. Municipal Administration Building Commission Chambers 201 W. Central Avenue Lake Wales, FL 33853 INVOCATION PLEDGE OF ALLEGIANCE CALL TO ORDER ROLL CALL PROCLAMATIONS AND AWARDS PROCLAMATION - Water Professionals Month PROCLAMATION WATER PROFESSIONALS MONTH.PDF AWARD - Small Public Water System Of The Year From Florida Rural Water Association PRESENTATION/REPORT Presentation - Superintendent, Lake Wales Charter Schools COMMENTS AND PETITIONS Public participation from residents, taxpayers, business owners, and utility customers is encouraged. The City Commission welcomes information that would assist them in considering agenda items, City business, and otherwise fulfilling the City\u2019s mission to make Lake Wales \u201ca bit better or more beautiful\u201d for its citizens. Anyone wishing to speak should give their name, state if they are a resident, taxpayer, business owner, or utility customer and they will have 5 minutes. Courtesy and respect is the hallmark. Speakers are expected to address the Commission and not audience members, and not engage in back and forth discussions that can deteriorate into argument, debate and",
+   "max_amount": null,
+   "flow": "in",
+   "funding_source": "special_revenue",
+   "signed_amount": null,
+   "signals": [
+    "facilities"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "CRA. CITY COMMISSION AGENDA ITEM",
+   "signal_score": 3,
+   "keywords": [],
+   "meeting_url": "https://lakewales.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=847",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=847#page=1",
+   "id": "m-lakewales|nodate|74ae82d0|fcafe2d2f00d",
+   "project_id": "m-lakewales|item:m-lakewales|nodate|74ae82d0|fcafe2d2f00d",
+   "project_total": null,
+   "paying_fund": "special_revenue",
+   "paying_fund_expenditures": 17311875,
+   "pct_of_paying_fund": null,
+   "general_fund": 27610085,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [
+    {
+     "id": "m-lakewales|nodate|0f7f2534|288cfb1c3aa7",
+     "meeting_date": null,
+     "reason": "similar text 0.71"
+    },
+    {
+     "id": "m-lakewales|nodate|3ab9d99b|746d4a6442de",
+     "meeting_date": null,
+     "reason": "similar text 0.72"
+    },
+    {
+     "id": "m-lakewales|nodate|afaf1224|553432c9a63e",
+     "meeting_date": null,
+     "reason": "similar text 0.63"
+    }
+   ],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant",
+    "facilities"
    ]
   },
   {
@@ -42988,6 +43966,45 @@
      "reason": "similar text 0.72"
     }
    ],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "c-hardee",
+   "government": "Hardee County",
+   "client": "pdf",
+   "body": "Hardee County Board of County Commissioners - Sep 30, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "- Motion to approve Resolution 2024-80, A Resolution of the Board of County Commissioners of Hardee County, Florida, approving the submission of a grant application to the Florida Department of Agriculture and Consumer Services for Agriculture Education and promotion facility; and to match awarded funds in an amount not to exceed fifty thousand dollars ($50,000); providing for authorization; and providing for an effective date.",
+   "max_amount": 50000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 50000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Florida Department of Agriculture and Consumer Services for Agriculture Education",
+   "signal_score": 2.7,
+   "keywords": [],
+   "meeting_url": "https://hardeecountyfl.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas",
+   "agenda_pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=157",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=157#page=1",
+   "id": "c-hardee|nodate|b328da2f|dc5157031379",
+   "project_id": "c-hardee|ref:ord/res 2024-80",
+   "project_total": 50000.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 42766943,
+   "pct_of_paying_fund": 0.117,
+   "general_fund": 42766943,
+   "pct_of_general_fund": 0.117,
+   "possible_duplicates": [],
    "possible_duplicate_label": null,
    "stage": "undated",
    "days_until_meeting": null,
@@ -45616,7 +46633,13 @@
    "pct_of_paying_fund": null,
    "general_fund": 27727898,
    "pct_of_general_fund": null,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wintersprings|nodate|0e3194b9|4563fff25b6d",
+     "meeting_date": null,
+     "reason": "similar text 0.88"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "undated",
    "days_until_meeting": null,
@@ -51207,7 +52230,13 @@
    "pct_of_paying_fund": null,
    "general_fund": 62942605,
    "pct_of_general_fund": null,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-bradenton|nodate|2674f85f|06875a87f809",
+     "meeting_date": null,
+     "reason": "similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "undated",
    "days_until_meeting": null,
@@ -55164,7 +56193,13 @@
    "pct_of_paying_fund": null,
    "general_fund": 92393339,
    "pct_of_general_fund": null,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-oaklandpark|nodate|93a615da|cf7faced10cd",
+     "meeting_date": null,
+     "reason": "similar text 0.88"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "undated",
    "days_until_meeting": null,
@@ -55604,6 +56639,700 @@
      "reason": "similar text 1.00"
     }
    ],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-coconutcreek",
+   "government": "Coconut Creek",
+   "client": "pdf",
+   "body": "City Commission on 2025-02-27 7:00 PM - Feb 27, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.4",
+   "file_number": null,
+   "title": "7. RES 2025-030 A RESOLUTION AUTHORIZING THE USE OF STATE LAW ENFORCEMENT TRUST FUNDS IN THE AMOUNT OF FIVE THOUSAND DOLLARS ($5,000) FROM THE STATE FORFEITURE FUND FOR A DONATION TO THE POLICE EXPLORER POST. RESOLUTION 2025-030-LETF Request for Police Explorers Donation BACKUP-LETF Request Memo-Police Explorers Donation Attachments: City Attorney",
+   "max_amount": 5000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 5000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Police Explorers Donation BACKUP-LETF Request Memo-Police Explorers Donation Attachments",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://coconutcreek.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=1969",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=1969#page=4",
+   "id": "m-coconutcreek|nodate|44d16461|c7d6541e0dd4",
+   "project_id": "m-coconutcreek|ref:ord/res 2025-030",
+   "project_total": 5000.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 106392129,
+   "pct_of_paying_fund": 0.005,
+   "general_fund": 106392129,
+   "pct_of_general_fund": 0.005,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-coconutcreek",
+   "government": "Coconut Creek",
+   "client": "pdf",
+   "body": "City Commission on 2025-02-13 7:00 PM - Feb 13, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.3",
+   "file_number": null,
+   "title": "6. RES 2025-025 A RESOLUTION AUTHORIZING THE CITY MANAGER, OR DESIGNEE, TO PREPARE AND SUBMIT A GRANT APPLICATION TO THE FLORIDA DEPARTMENT OF ENVIRONMENTAL PROTECTION (DEP) FOR THE 2025 RECREATIONAL TRAILS PROGRAM (RTP) FOR THE OAK TRAILS PARK TRAIL SYSTEM EXPANSION PROJECT; AND AUTHORIZING THE CITY MANAGER, OR DESIGNEE, TO ENTER INTO THE APPROPRIATE AGREEMENTS REQUIRED TO RECEIVE FUNDING. Sponsors: Sustainable Development RESOLUTION 2025-025-Oak Trails Park Expansion RTP Grant BACKUP-Location Map-Oak Trails Park BACKUP-Conceptual Design-Oak Trails Park Attachments: REGULAR AGENDA Public Works Department",
+   "max_amount": null,
+   "flow": "mixed",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://coconutcreek.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=1954",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=1954#page=3",
+   "id": "m-coconutcreek|nodate|0328a48f|aa4699301153",
+   "project_id": "m-coconutcreek|ref:ord/res 2025-025",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 106392129,
+   "pct_of_paying_fund": null,
+   "general_fund": 106392129,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-lakewales",
+   "government": "Lake Wales",
+   "client": "pdf",
+   "body": "City Commission Regular Meeting 09-03-2024 - Sep 03, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "The City Commission will consider approving Resolution 2025-18, authorizing the grant application submittal to Florida Commerce for construction of a secondary access road with funding through Impact Fees.",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "special_revenue",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Florida Commerce",
+   "signal_score": 2,
+   "keywords": [
+    "construction"
+   ],
+   "meeting_url": "https://lakewales.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=861",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=861#page=1",
+   "id": "m-lakewales|nodate|1cf3e0d9|685d7e46c5f6",
+   "project_id": "m-lakewales|item:m-lakewales|nodate|1cf3e0d9|685d7e46c5f6",
+   "project_total": null,
+   "paying_fund": "special_revenue",
+   "paying_fund_expenditures": 17311875,
+   "pct_of_paying_fund": null,
+   "general_fund": 27610085,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-lakewales",
+   "government": "Lake Wales",
+   "client": "pdf",
+   "body": "City Commission Regular Meeting 08-19-2025 - Aug 19, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "The City Commission will consider approving Resolution 2025-16, authorizing an agreement with the Federal Aviation Administration (FAA) to provide funding for Lake Wales Airport Install Weather Report Equipment (AWOS) and Rotating Beacon-Design Phase.",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Lake Wales Airport Install Weather Report Equipment",
+   "signal_score": 2,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://lakewales.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=855",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=855#page=1",
+   "id": "m-lakewales|nodate|6451e735|d62308ec3c31",
+   "project_id": "m-lakewales|item:m-lakewales|nodate|6451e735|d62308ec3c31",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 27610085,
+   "pct_of_paying_fund": null,
+   "general_fund": 27610085,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [
+    {
+     "id": "m-lakewales|nodate|3fc208ec|d62308ec3c31",
+     "meeting_date": null,
+     "reason": "similar text 1.00"
+    }
+   ],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-wintersprings",
+   "government": "Winter Springs",
+   "client": "pdf",
+   "body": "City Commission - Nov 10, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.2",
+   "file_number": null,
+   "title": "Police Station Safe Room Grant Funding Modification for Extension",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "special_revenue",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Extension",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://winterspringsfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1088",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1088#page=2",
+   "id": "m-wintersprings|nodate|0e3194b9|4563fff25b6d",
+   "project_id": "m-wintersprings|item:m-wintersprings|nodate|0e3194b9|4563fff25b6d",
+   "project_total": null,
+   "paying_fund": "special_revenue",
+   "paying_fund_expenditures": 18330181,
+   "pct_of_paying_fund": null,
+   "general_fund": 27727898,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [
+    {
+     "id": "m-wintersprings|nodate|abcbd7ec|5e366a937ca7",
+     "meeting_date": null,
+     "reason": "similar text 0.88"
+    }
+   ],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-stuart",
+   "government": "Stuart",
+   "client": "pdf",
+   "body": "Regular City Commission Meeting - Jan 28, 2019",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "5. CHILDRENS SERVICES GRANT APPLICATION FOR EAST STUART YOUITH INITIATIVE (RC):",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://cityofstuart.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=89",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=89#page=1",
+   "id": "m-stuart|nodate|e4e7582d|ee4b3c8d4c7a",
+   "project_id": "m-stuart|item:m-stuart|nodate|e4e7582d|ee4b3c8d4c7a",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 47708426,
+   "pct_of_paying_fund": null,
+   "general_fund": 47708426,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-oaklandpark",
+   "government": "Oakland Park",
+   "client": "pdf",
+   "body": "04-14-26 - City Projects Update &amp; Preview - Apr 14, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "1. Resolution of Support for a Grant Application to Broward County for the 52nd Year CDBG Program",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "special_revenue",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Broward County for",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://oaklandparkfl.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas",
+   "agenda_pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4311",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4311#page=1",
+   "id": "m-oaklandpark|nodate|93a615da|cf7faced10cd",
+   "project_id": "m-oaklandpark|item:m-oaklandpark|nodate|93a615da|cf7faced10cd",
+   "project_total": null,
+   "paying_fund": "special_revenue",
+   "paying_fund_expenditures": 1458147,
+   "pct_of_paying_fund": null,
+   "general_fund": 92393339,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [
+    {
+     "id": "m-oaklandpark|nodate|f9423d31|26ddf5183731",
+     "meeting_date": null,
+     "reason": "similar text 0.88"
+    }
+   ],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-pinecrest",
+   "government": "Pinecrest",
+   "client": "pdf",
+   "body": "Village Council - Dec 13, 2022",
+   "meeting_date": null,
+   "agenda_number": "p.3",
+   "file_number": null,
+   "title": "4. A RESOLUTION OF THE VILLAGE OF PINECREST, FLORIDA, ACCEPTING A DONATION FROM THE MOSKOWITZ FAMILY FOUNDATION OF FUNDS FOR POLICE FIREARMS AND ACTIVE SHOOTER FIREARMS TRAINING SIMULATION SYSTEM AND ACCOMPANYING ACCESSORIES PURSUANT TO RESOLUTION 2016-36; PROVIDING FOR AN EFFECTIVE DATE. TAB 5-Donation for PD",
+   "max_amount": null,
+   "flow": "in",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://pinecrest.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=672",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=672#page=3",
+   "id": "m-pinecrest|nodate|1f6354b4|80fbb516e98b",
+   "project_id": "m-pinecrest|item:m-pinecrest|nodate|1f6354b4|80fbb516e98b",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 40057295,
+   "pct_of_paying_fund": null,
+   "general_fund": 40057295,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-pinecrest",
+   "government": "Pinecrest",
+   "client": "pdf",
+   "body": "Village Council - Dec 13, 2022",
+   "meeting_date": null,
+   "agenda_number": "p.6",
+   "file_number": null,
+   "title": "1. HIP GRANT REQUEST (COUNCILMEMBER HOCHKAMMER) TAB 14-Reports and Rec.-Council-Grant Request",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://pinecrest.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
+   "agenda_pdf": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=672",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=672#page=6",
+   "id": "m-pinecrest|nodate|1f6354b4|1d1abf77d830",
+   "project_id": "m-pinecrest|item:m-pinecrest|nodate|1f6354b4|1d1abf77d830",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 40057295,
+   "pct_of_paying_fund": null,
+   "general_fund": 40057295,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-crystalriver",
+   "government": "Crystal River",
+   "client": "pdf",
+   "body": "City Council Meeting  - Aug 12, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.197",
+   "file_number": null,
+   "title": "Project Funding Identification \u2013 List Funding Sources for the Project",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://crystalriverfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=279",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=279#page=197",
+   "id": "m-crystalriver|nodate|62c680d5|1de9c0d3d748",
+   "project_id": "m-crystalriver|item:m-crystalriver|nodate|62c680d5|1de9c0d3d748",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 10325480,
+   "pct_of_paying_fund": null,
+   "general_fund": 10325480,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-crystalriver",
+   "government": "Crystal River",
+   "client": "pdf",
+   "body": "City Council Meeting  - Aug 12, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.248",
+   "file_number": null,
+   "title": "(a) any sale, conveyance, assignment or other transfer of or the grant of a security interest in, all or any part of the title to the Premises, other than easements or licenses necessary for the development and use of the improvements on the Premises, excluding the Senior Mortgage or any refinancing of the Senior Mortgage with an independent institutional lender. Notwithstanding any provision to the contrary in the Note or in this Mortgage, (a) the Limited Partner and the Special Limited Partner, and their successors and assigns, shall be permitted to (i) remove and replace any general partner of the Mortgagor for cause in accordance with the Partnership Agreement without the consent of the Mortgagee and (ii) directly or indirectly transfer its partnership interests in Mortgagor in accordance with the terms of the Partnership Agreement without the consent of Mortgagee (each, a \u201cPermitted Transfer\u201d), (b) no Permitted Transfer shall cause a default under this Deed of Trust or the Note, (c) Mortgagee shall not receive any fee or other amounts from the Mortgagor in connection with a Permitted Transfer, and (d) the Partnership Agreement may be amended or modified without the prior writt",
+   "max_amount": null,
+   "flow": "in",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Premises",
+   "signal_score": 2,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://crystalriverfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=279",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=279#page=248",
+   "id": "m-crystalriver|nodate|62c680d5|368dabdff4ac",
+   "project_id": "m-crystalriver|item:m-crystalriver|nodate|62c680d5|368dabdff4ac",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 10325480,
+   "pct_of_paying_fund": null,
+   "general_fund": 10325480,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-crystalriver",
+   "government": "Crystal River",
+   "client": "pdf",
+   "body": "City Council Meeting  - Aug 12, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.279",
+   "file_number": null,
+   "title": "(iii) Subordinate Lender acknowledges that Senior Lender may grant or refuse consent to Subordinate Lender\u2019s Enforcement Action in Senior Lender\u2019s sole and absolute discretion. At the expiration of such 90-day period or",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Subordinate Lender",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://crystalriverfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=279",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=279#page=279",
+   "id": "m-crystalriver|nodate|62c680d5|03e82e81090d",
+   "project_id": "m-crystalriver|item:m-crystalriver|nodate|62c680d5|03e82e81090d",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 10325480,
+   "pct_of_paying_fund": null,
+   "general_fund": 10325480,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "c-gadsden",
+   "government": "Gadsden County",
+   "client": "pdf",
+   "body": "Board of County Commissioners - May 27, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.3",
+   "file_number": null,
+   "title": "11.a Approval of Funding Request for Stallworth & Associates Global (Roosevelt Morris, Interim County Administrator) 11.b Discussion and Approval of PAMS Program, Gadsden County Health Council Mobile Unit, and Gadsden County Board of County Commissioners Employee Raises (Brenda A. Holt, District 4 Commissioner / Roosevelt Morris, Interim County Administrator) (MATERIAL TO BE PROVIDED) 11.c Approval of Local Agency (LAP) contract for South Adams Street Sidewalk Project, Interlocal Agreement between the Gadsden County Board of County Commissioners and the City of Quincy (Roosevelt Morris, Interim County Administrator / Curtis Young, Public Works Director)",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Stallworth",
+   "signal_score": 2,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://gadsdencountyfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=89",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=89#page=3",
+   "id": "c-gadsden|nodate|2ad05055|9e35a33ca0d5",
+   "project_id": "c-gadsden|item:c-gadsden|nodate|2ad05055|9e35a33ca0d5",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 41142440,
+   "pct_of_paying_fund": null,
+   "general_fund": 41142440,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "c-gadsden",
+   "government": "Gadsden County",
+   "client": "pdf",
+   "body": "Board of County Commissioners - May 06, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.3",
+   "file_number": null,
+   "title": "(Roosevelt Morris, Interim County Administrator / Kassandra McGlonn, Grants Manager) 7.l Adopt-A-Road Agreement with the Gadsden County 4-H Saddle Club (Roosevelt Morris, Interim County Administrator / Curtis Young, Public Works Director) 7.m Approval of 2025 Small County Consolidated Waste Grant Application with the Florida Department of Environmental Protection (DEP) (Roosevelt Morris, Interim County Administrator / Curtis Young, Public Works Director) 7.n Approval of Donation to Crossroad Academy (Roosevelt Morris, Interim County Administrator)",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Crossroad Academy",
+   "signal_score": 2,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://gadsdencountyfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=86",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=86#page=3",
+   "id": "c-gadsden|nodate|55bcdacf|cc89ec3ac1f0",
+   "project_id": "c-gadsden|item:c-gadsden|nodate|55bcdacf|cc89ec3ac1f0",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 41142440,
+   "pct_of_paying_fund": null,
+   "general_fund": 41142440,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "c-gadsden",
+   "government": "Gadsden County",
+   "client": "pdf",
+   "body": "Board of County Commissioners - May 06, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.3",
+   "file_number": null,
+   "title": "11.a Approval of Resolution 2025-028 Grant Budget Amendment for FY2025 (Roosevelt Morris, Interim County Administrator / Rose Raynak, Director of Finance / Trudei Porter, Finance Director for the Clerk of Court) 11.b Appointments for the Small County Coalition (Roosevelt Morris, Interim County Administrator) 11.c Approval to Confirm the EMS Director (Roosevelt Morris, Interim County Administrator)",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "FY2025",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://gadsdencountyfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=86",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=86#page=3",
+   "id": "c-gadsden|nodate|55bcdacf|3279b96b05dd",
+   "project_id": "c-gadsden|ref:ord/res 2025-028",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 41142440,
+   "pct_of_paying_fund": null,
+   "general_fund": 41142440,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "c-hardee",
+   "government": "Hardee County",
+   "client": "pdf",
+   "body": "Hardee County Board of County Commissioners AM - Nov 19, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "P. Christopher Simpron, Assistant County Manager/Public Works Director - Resolution 2025-12 - Ten Mile Grade Supplemental Funding Agreement 440576-1 from Scarbourgh Road to Bridge 064120",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Bridge",
+   "signal_score": 2,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://hardeecountyfl.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas",
+   "agenda_pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=174",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=174#page=1",
+   "id": "c-hardee|nodate|86059712|128a55d117e4",
+   "project_id": "c-hardee|item:c-hardee|nodate|86059712|128a55d117e4",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 42766943,
+   "pct_of_paying_fund": null,
+   "general_fund": 42766943,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "c-hardee",
+   "government": "Hardee County",
+   "client": "pdf",
+   "body": "Hardee County Board of County Commissioners - Oct 31, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "B. Lorie Ayers, General Services Director - FDEM Public Assistant Grant for Hurricane Milton",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Hurricane Milton",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://hardeecountyfl.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas",
+   "agenda_pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=168",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=168#page=1",
+   "id": "c-hardee|nodate|4003ce6d|3d45d1bd9b73",
+   "project_id": "c-hardee|item:c-hardee|nodate|4003ce6d|3d45d1bd9b73",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 42766943,
+   "pct_of_paying_fund": null,
+   "general_fund": 42766943,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
    "possible_duplicate_label": null,
    "stage": "undated",
    "days_until_meeting": null,
@@ -65530,9 +67259,9 @@
      "reason": "similar text 0.70"
     },
     {
-     "id": "m-lakewales|nodate|afaf1224|553432c9a63e",
+     "id": "m-lakewales|nodate|74ae82d0|fcafe2d2f00d",
      "meeting_date": null,
-     "reason": "similar text 0.70"
+     "reason": "similar text 0.72"
     }
    ],
    "possible_duplicate_label": null,
@@ -65949,6 +67678,57 @@
    ]
   },
   {
+   "entity_id": "m-lakewales",
+   "government": "Lake Wales",
+   "client": "pdf",
+   "body": "City Commission Regular Meeting 08-19-2025 - Aug 19, 2025",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "Staff recommends the City Commission approve entering into a piggyback agreement and expending funds with Engineered Sprayed Solutions, LLC to coat twenty-three manholes using SewperCoat Calcium Aluminate Protective Coating System for $82,435.50.",
+   "max_amount": 82435.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 82435.0,
+   "signals": [
+    "private_benefit"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 4.9,
+   "keywords": [
+    "agreement",
+    "piggyback"
+   ],
+   "meeting_url": "https://lakewales.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=855",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=855#page=1",
+   "id": "m-lakewales|nodate|6451e735|0f203d086aa4",
+   "project_id": "m-lakewales|item:m-lakewales|nodate|6451e735|0f203d086aa4",
+   "project_total": 82400.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 27610085,
+   "pct_of_paying_fund": 0.299,
+   "general_fund": 27610085,
+   "pct_of_general_fund": 0.299,
+   "possible_duplicates": [
+    {
+     "id": "m-lakewales|nodate|3fc208ec|0f203d086aa4",
+     "meeting_date": null,
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid",
+    "private_benefit"
+   ]
+  },
+  {
    "entity_id": "m-marcoisland",
    "government": "Marco Island",
    "client": "pdf",
@@ -66075,6 +67855,49 @@
    "categories": [
     "no_bid",
     "facilities"
+   ]
+  },
+  {
+   "entity_id": "m-ocala",
+   "government": "Ocala",
+   "client": "pdf",
+   "body": "City Council - Apr 07, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.4",
+   "file_number": null,
+   "title": "10. General Business 10a. Additional expenditures under the cooperative purchasing agreement with Milliken Services, Inc., for flooring materials, supplies and services for an increased aggregate contract expenditure not to exceed $450,000 Presentation By: Gary Crews 10b. Additional expenditures under the Agreement for heating, ventilation and air conditioning repairs and installation services with Sherman Mechanical Contractors for an increased aggregate expenditure not to exceed $300,000 Presentation By: Gary Crews 10c. One-year renewal of the contract with Marion Rock, LLC, for the Drainage Rehabilitation Improvement Program with an aggregate expenditure not to exceed $1,250,000 Presentation By: Sean Lanier 10d. Award of contract to Ulloa Management Group, LLC, for construction services for Union Station restrooms with ticketing kiosk in the amount of $662,900, plus a 10 percent contingency, for a total project budget not to exceed $729,190 Presentation By: Sean Lanier Page 3 of 6",
+   "max_amount": 1250000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 1250000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 4.1,
+   "keywords": [
+    "agreement",
+    "construction",
+    "contract"
+   ],
+   "meeting_url": "https://ocala.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas",
+   "agenda_pdf": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=3925",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=3925#page=4",
+   "id": "m-ocala|nodate|f65a7981|b8309fc7241b",
+   "project_id": "m-ocala|item:m-ocala|nodate|f65a7981|b8309fc7241b",
+   "project_total": 1250000.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 147885494,
+   "pct_of_paying_fund": 0.845,
+   "general_fund": 147885494,
+   "pct_of_general_fund": 0.845,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
    ]
   },
   {
@@ -66588,6 +68411,51 @@
    "days_until_meeting": null,
    "categories": [
     "no_bid"
+   ]
+  },
+  {
+   "entity_id": "m-ocala",
+   "government": "Ocala",
+   "client": "pdf",
+   "body": "City Council - Apr 07, 2026",
+   "meeting_date": null,
+   "agenda_number": "p.3",
+   "file_number": null,
+   "title": "City Council Agenda - Final April 7, 2026 6c. Rental agreement with The Magic House, St. Louis Children\u2019s Museum for the \u201cSuper WHY!: Super Readers, Power Up!\u201d educational traveling exhibit in the amount of $55,000 Presentation By: John Spencer 6d. Rental agreement with Omaha Children\u2019s Museum for the \u201cMy Wild Backyard\u201d educational traveling exhibit in the amount of $55,000 Presentation By: John Spencer 6e. Utilization of a cooperative purchasing agreement with Alfred Benesch & Company for fire assessment study update services for Fiscal Year 2026-27 in an amount not to exceed $79,810 Presentation By: Tammi Haslam 6f. One-year renewal with Bound Tree Medical, LLC, Henry Schein, Inc., and Life Assist, Inc., for the purchase of emergency medical supplies in the amount of $75,000 Presentation By: Clint Welborn 6g. Renaming of Baseline Substation at 950 Northeast 58th Avenue in honor of Marshall T. Penuel Presentation By: Doug Peebles 6h. Resolution 2026-22 to adopt the Marion County Consortium 2024-2028 Citizen Participation Plan RES-2026-22 Presentation By: James Haynes 6i. Administrative Services Agreement between the City of Ocala and MissionSquare Retirement for administration and",
+   "max_amount": 79810.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 79810.0,
+   "signals": [
+    "consultants"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.9,
+   "keywords": [
+    "agreement",
+    "purchase"
+   ],
+   "meeting_url": "https://ocala.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas",
+   "agenda_pdf": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=3925",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=3925#page=3",
+   "id": "m-ocala|nodate|f65a7981|339b601a6704",
+   "project_id": "m-ocala|item:m-ocala|nodate|f65a7981|339b601a6704",
+   "project_total": 79800.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 147885494,
+   "pct_of_paying_fund": 0.054,
+   "general_fund": 147885494,
+   "pct_of_general_fund": 0.054,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid",
+    "consultants"
    ]
   },
   {
@@ -70012,6 +71880,60 @@
    ]
   },
   {
+   "entity_id": "c-hardee",
+   "government": "Hardee County",
+   "client": "pdf",
+   "body": "Hardee County Board of County Commissioners - Sep 30, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "- Motion to award the 100KW generator at Vandolah Wastewater Treatment Facility to Mid-Florida Diesel by PO in accordance with the piggyback contract with Hernando County in an amount not to exceed $94,100, authorizing the County Manager or Chair to sign any necessary documents in furtherance thereof and to expend funds as provided for in the agreement.",
+   "max_amount": 94100.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 94100.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.0,
+   "keywords": [
+    "agreement",
+    "contract",
+    "piggyback"
+   ],
+   "meeting_url": "https://hardeecountyfl.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas",
+   "agenda_pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=157",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=157#page=1",
+   "id": "c-hardee|nodate|b328da2f|da4fa25dfe34",
+   "project_id": "c-hardee|item:c-hardee|nodate|b328da2f|da4fa25dfe34",
+   "project_total": 94100.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 42766943,
+   "pct_of_paying_fund": 0.22,
+   "general_fund": 42766943,
+   "pct_of_general_fund": 0.22,
+   "possible_duplicates": [
+    {
+     "id": "c-hardee|nodate|b328da2f|3d35be8198b4",
+     "meeting_date": null,
+     "reason": "similar text 0.60"
+    },
+    {
+     "id": "c-hardee|nodate|b328da2f|b088da171ecc",
+     "meeting_date": null,
+     "reason": "similar text 0.62"
+    }
+   ],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
    "entity_id": "m-winterpark",
    "government": "Winter Park",
    "client": "pdf",
@@ -70306,6 +72228,114 @@
    "general_fund": 147885494,
    "pct_of_general_fund": 0.059,
    "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
+   "entity_id": "c-hardee",
+   "government": "Hardee County",
+   "client": "pdf",
+   "body": "Hardee County Board of County Commissioners - Sep 30, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "- Motion to award the 30KW generator at South Florida State College Lift Station to Mid-Florida Diesel by PO in accordance with the piggyback contract with Hernando County in an amount not to exceed $77,139, authorizing the County Manager or Chair to sign any necessary documents in furtherance thereof and to expend funds as provided for in the agreement.",
+   "max_amount": 77139.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 77139.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2.9,
+   "keywords": [
+    "agreement",
+    "contract",
+    "piggyback"
+   ],
+   "meeting_url": "https://hardeecountyfl.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas",
+   "agenda_pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=157",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=157#page=1",
+   "id": "c-hardee|nodate|b328da2f|b088da171ecc",
+   "project_id": "c-hardee|item:c-hardee|nodate|b328da2f|b088da171ecc",
+   "project_total": 77100.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 42766943,
+   "pct_of_paying_fund": 0.18,
+   "general_fund": 42766943,
+   "pct_of_general_fund": 0.18,
+   "possible_duplicates": [
+    {
+     "id": "c-hardee|nodate|b328da2f|3d35be8198b4",
+     "meeting_date": null,
+     "reason": "similar text 0.68"
+    },
+    {
+     "id": "c-hardee|nodate|b328da2f|da4fa25dfe34",
+     "meeting_date": null,
+     "reason": "similar text 0.62"
+    }
+   ],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
+   "entity_id": "c-hardee",
+   "government": "Hardee County",
+   "client": "pdf",
+   "body": "Hardee County Board of County Commissioners - Sep 30, 2024",
+   "meeting_date": null,
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "- Motion to award the 50KW generator at Wauchula Hills Sub-division Lift Station to Mid-Florida Diesel by PO in accordance with the piggyback contract with Hernando County in an amount not to exceed $83,506, authorizing the County Manager or Chair to sign any necessary documents in furtherance thereof and to expend funds as provided for in the agreement.",
+   "max_amount": 83506.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 83506.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2.9,
+   "keywords": [
+    "agreement",
+    "contract",
+    "piggyback"
+   ],
+   "meeting_url": "https://hardeecountyfl.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas",
+   "agenda_pdf": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=157",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=157#page=1",
+   "id": "c-hardee|nodate|b328da2f|3d35be8198b4",
+   "project_id": "c-hardee|item:c-hardee|nodate|b328da2f|3d35be8198b4",
+   "project_total": 83500.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 42766943,
+   "pct_of_paying_fund": 0.195,
+   "general_fund": 42766943,
+   "pct_of_general_fund": 0.195,
+   "possible_duplicates": [
+    {
+     "id": "c-hardee|nodate|b328da2f|b088da171ecc",
+     "meeting_date": null,
+     "reason": "similar text 0.68"
+    },
+    {
+     "id": "c-hardee|nodate|b328da2f|da4fa25dfe34",
+     "meeting_date": null,
+     "reason": "similar text 0.60"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "undated",
    "days_until_meeting": null,
@@ -74394,6 +76424,11 @@
    "pct_of_general_fund": 581.136,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|068c38a21962",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 0.91"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|068c38a21962",
      "meeting_date": "2026-11-18",
      "reason": "same amount, similar text 1.00"
@@ -74646,6 +76681,11 @@
    "pct_of_general_fund": 141.658,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|62016db7ea9f",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|62016db7ea9f",
      "meeting_date": "2026-11-18",
      "reason": "same amount, similar text 1.00"
@@ -74700,6 +76740,11 @@
    "general_fund": 215096000,
    "pct_of_general_fund": null,
    "possible_duplicates": [
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|1657bb66175a",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 0.97"
+    },
     {
      "id": "m-tallahassee|2026-11-18|6c640e76|1657bb66175a",
      "meeting_date": "2026-11-18",
@@ -76733,6 +78778,11 @@
      "id": "m-tallahassee|2026-05-19|f5d0f30f|80004a967c66",
      "meeting_date": "2026-05-19",
      "reason": "same amount, similar text 0.90"
+    },
+    {
+     "id": "m-tallahassee|2026-11-23|747c4828|80004a967c66",
+     "meeting_date": "2026-11-23",
+     "reason": "same amount, similar text 1.00"
     }
    ],
    "possible_duplicate_label": "2026-01-12 (same amount, similar text 0.72); 2026-05-19 (same amount, similar text 0.90)",
@@ -77026,17 +79076,17 @@
    "pct_of_general_fund": 0.26,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-23|747c4828|89bd740981e8",
+     "meeting_date": "2026-11-23",
+     "reason": "same amount, similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-09-28|232db8ea|16f57fc5213e",
      "meeting_date": "2026-09-28",
      "reason": "same amount"
     },
     {
      "id": "m-tallahassee|2026-09-28|232db8ea|27c3665dd4f5",
-     "meeting_date": "2026-09-28",
-     "reason": "same amount"
-    },
-    {
-     "id": "m-tallahassee|2026-09-28|232db8ea|86ce3828fe06",
      "meeting_date": "2026-09-28",
      "reason": "same amount"
     }
@@ -77179,6 +79229,11 @@
    "general_fund": 215096000,
    "pct_of_general_fund": 1.534,
    "possible_duplicates": [
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|1c6d1630c675",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
     {
      "id": "m-tallahassee|2026-11-18|6c640e76|1c6d1630c675",
      "meeting_date": "2026-11-18",
@@ -78621,6 +80676,11 @@
    "general_fund": 215096000,
    "pct_of_general_fund": 0.744,
    "possible_duplicates": [
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|0488763392a5",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
     {
      "id": "m-tallahassee|2026-11-18|6c640e76|0488763392a5",
      "meeting_date": "2026-11-18",
@@ -80722,6 +82782,11 @@
    "pct_of_general_fund": 0.385,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|29ed30498249",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|29ed30498249",
      "meeting_date": "2026-11-18",
      "reason": "same amount, similar text 1.00"
@@ -80730,11 +82795,6 @@
      "id": "m-tallahassee|2026-11-18|992bb360|29ed30498249",
      "meeting_date": "2026-11-18",
      "reason": "same amount, similar text 1.00"
-    },
-    {
-     "id": "m-tallahassee|2026-11-18|1d632697|267672da8d57",
-     "meeting_date": "2026-11-18",
-     "reason": "same amount"
     }
    ],
    "possible_duplicate_label": null,
@@ -81206,6 +83266,11 @@
      "id": "m-tallahassee|2026-11-23|5ab73d8d|3da45ec6a17a",
      "meeting_date": "2026-11-23",
      "reason": "same amount"
+    },
+    {
+     "id": "m-tallahassee|2026-11-23|747c4828|3da45ec6a17a",
+     "meeting_date": "2026-11-23",
+     "reason": "same amount"
     }
    ],
    "possible_duplicate_label": null,
@@ -81250,6 +83315,11 @@
    "general_fund": 215096000,
    "pct_of_general_fund": 0.279,
    "possible_duplicates": [
+    {
+     "id": "m-tallahassee|2026-11-23|747c4828|3da45ec6a17a",
+     "meeting_date": "2026-11-23",
+     "reason": "same amount, similar text 1.00"
+    },
     {
      "id": "m-tallahassee|2026-11-23|5ab73d8d|7e32cc96cad2",
      "meeting_date": "2026-11-23",
@@ -81565,6 +83635,11 @@
    "pct_of_general_fund": 0.256,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|c190f598bcf6",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|c190f598bcf6",
      "meeting_date": "2026-11-18",
      "reason": "same amount, similar text 1.00"
@@ -81617,6 +83692,11 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-tallahassee|2026-11-18|1300d365|db58d836387a",
+     "meeting_date": "2026-11-18",
+     "reason": "similar text 1.00"
+    },
+    {
      "id": "m-tallahassee|2026-11-18|6c640e76|db58d836387a",
      "meeting_date": "2026-11-18",
      "reason": "similar text 1.00"
@@ -81666,6 +83746,11 @@
    "general_fund": 215096000,
    "pct_of_general_fund": null,
    "possible_duplicates": [
+    {
+     "id": "m-tallahassee|2026-11-18|1300d365|638f2ed3fb7b",
+     "meeting_date": "2026-11-18",
+     "reason": "same amount, similar text 1.00"
+    },
     {
      "id": "m-tallahassee|2026-11-18|6c640e76|638f2ed3fb7b",
      "meeting_date": "2026-11-18",
@@ -81882,6 +83967,88 @@
    ]
   },
   {
+   "entity_id": "m-leesburg",
+   "government": "Leesburg",
+   "client": "civicclerk",
+   "body": "City Commission Meeting",
+   "meeting_date": "2026-11-23",
+   "agenda_number": "p.21",
+   "file_number": null,
+   "title": "Procurement Analysis: On October 28, 2024, the Commission approved Resolution No. 11,921 authorizing an agreement with Itron, Inc. for the Advanced Metering Infrastructure (AMI). The City's request of $550,000.00 includes annual service fees and provides funding for potential additional endpoint charges.",
+   "max_amount": 550000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 550000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.7,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://leesburgfl.portal.civicclerk.com/",
+   "agenda_pdf": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)#page=21",
+   "id": "m-leesburg|2026-11-23|d480b72a|2fe3e28f89e1",
+   "project_id": "m-leesburg|item:m-leesburg|2026-11-23|d480b72a|2fe3e28f89e1",
+   "project_total": 550000.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 36309173,
+   "pct_of_paying_fund": 1.515,
+   "general_fund": 36309173,
+   "pct_of_general_fund": 1.515,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "upcoming",
+   "days_until_meeting": 5,
+   "categories": [
+    "large_spending"
+   ]
+  },
+  {
+   "entity_id": "m-leesburg",
+   "government": "Leesburg",
+   "client": "civicclerk",
+   "body": "City Commission Meeting",
+   "meeting_date": "2026-11-23",
+   "agenda_number": "p.21",
+   "file_number": null,
+   "title": "1. Approve the purchase request to Itron, Inc. for $550,000.00; or",
+   "max_amount": 550000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 550000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.7,
+   "keywords": [
+    "purchase"
+   ],
+   "meeting_url": "https://leesburgfl.portal.civicclerk.com/",
+   "agenda_pdf": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)#page=21",
+   "id": "m-leesburg|2026-11-23|d480b72a|6534c8ababe8",
+   "project_id": "m-leesburg|item:m-leesburg|2026-11-23|d480b72a|6534c8ababe8",
+   "project_total": 550000.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 36309173,
+   "pct_of_paying_fund": 1.515,
+   "general_fund": 36309173,
+   "pct_of_general_fund": 1.515,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "upcoming",
+   "days_until_meeting": 5,
+   "categories": [
+    "large_spending"
+   ]
+  },
+  {
    "entity_id": "m-stpetersburg",
    "government": "St. Petersburg",
    "client": "pdf",
@@ -81930,109 +84097,6 @@
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 1,
-   "categories": [
-    "large_spending"
-   ]
-  },
-  {
-   "entity_id": "m-stpetersburg",
-   "government": "St. Petersburg",
-   "client": "pdf",
-   "body": "Agenda",
-   "meeting_date": "2026-11-19",
-   "agenda_number": "p.171",
-   "file_number": null,
-   "title": "WHEREAS, Namaste 1616, LLC, a Florida limited liability company (\u201cNamaste\u201d), previously constructed an 11-unit for-sale townhome development (\u201c16th Square Townhomes\u201d), on certain real property located at 1509 Dr. Martin Luther King Jr. Street South, St. Petersburg, Florida, as further described in the grant agreement (the \u201cProperty\u201d); and WHEREAS, Namaste has requested funding assistance for the construction of 16th Square Townhomes, Phase Two, which will be located on the Property and consist of 4 dwelling units, all of which will be sold to households earning at or below 100% of the area median income (the \u201cProject\u201d); and WHEREAS, City administration recommends funding in an amount not to exceed $400,000.00 in Housing Capital Improvement Program (\u201cHCIP\u201d) funds for the Project; and WHEREAS, funds in the amount of $400,000.00 have been previously appropriated in the Housing Capital Improvement Fund (3000), Affordable/Workforce Housing Project (16670) ($157,729.47), and Affordable/Workforce Housing FY26 Project (21232) ($242,270.53); and WHEREAS, the funding provided by this resolution will be subject to certain conditions as set forth in the grant agreement, including but not limit",
-   "max_amount": 400000.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 1.6,
-   "keywords": [
-    "agreement",
-    "construction"
-   ],
-   "meeting_url": "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-   "agenda_pdf": "https://www.stpete.org/2026-11-19 Agenda Packet (compressed).pdf?t=202611061050570",
-   "found_utc": "2026-11-15T01:57:09+00:00",
-   "flow": "out",
-   "funding_source": "capital_projects",
-   "signed_amount": 400000.0,
-   "link": "https://www.stpete.org/2026-11-19 Agenda Packet (compressed).pdf?t=202611061050570#page=171",
-   "id": "m-stpetersburg|2026-11-19|338ed491|3d7227c93ba2",
-   "project_id": "m-stpetersburg|item:m-stpetersburg|2026-11-19|338ed491|3d7227c93ba2",
-   "project_total": 400000.0,
-   "paying_fund": "capital_projects",
-   "paying_fund_expenditures": 97973517,
-   "pct_of_paying_fund": 0.408,
-   "general_fund": 526760634,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [
-    {
-     "id": "m-stpetersburg|2026-11-19|a6cc8f29|3d7227c93ba2",
-     "meeting_date": "2026-11-19",
-     "reason": "same amount, similar text 1.00"
-    },
-    {
-     "id": "m-stpetersburg|2026-11-19|edfbd71e|3d7227c93ba2",
-     "meeting_date": "2026-11-19",
-     "reason": "same amount, similar text 1.00"
-    }
-   ],
-   "possible_duplicate_label": null,
-   "stage": "upcoming",
-   "days_until_meeting": 1,
-   "categories": [
-    "large_spending"
-   ]
-  },
-  {
-   "entity_id": "m-tallahassee",
-   "government": "Tallahassee",
-   "client": "civicclerk",
-   "body": "City Commission Meeting",
-   "meeting_date": "2026-11-18",
-   "agenda_number": "p.150",
-   "file_number": null,
-   "title": "Statement of Issue The City is requesting the Commission\u2019s approval to apply to the Federal Transit Administration (FTA) for the Section 5311 Grant. This grant application covers Federal Fiscal Year 2027-2028. The grant will provide up to $360,000 of funding to allow StarMetro as the area\u2019s Community Transportation Coordinator (CTC) to continue providing transportation services to residents in the non-urbanized areas of Leon County who have limited transportation choices. This grant specifically provides StarMetro the ability to fulfill trip request for individuals with limited mobility choices.",
-   "max_amount": 360000.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 1.6,
-   "keywords": [],
-   "meeting_url": "https://tallahasseefl.portal.civicclerk.com/",
-   "agenda_pdf": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1083,plainText=false)",
-   "found_utc": "2026-11-15T01:57:09+00:00",
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": 360000.0,
-   "link": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1083,plainText=false)#page=150",
-   "id": "m-tallahassee|2026-11-18|1d632697|be1084e663db",
-   "project_id": "m-tallahassee|item:m-tallahassee|2026-11-18|1d632697|be1084e663db",
-   "project_total": 360000.0,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 215096000,
-   "pct_of_paying_fund": 0.167,
-   "general_fund": 215096000,
-   "pct_of_general_fund": 0.167,
-   "possible_duplicates": [
-    {
-     "id": "m-tallahassee|2026-11-18|6c640e76|be1084e663db",
-     "meeting_date": "2026-11-18",
-     "reason": "same amount, similar text 1.00"
-    },
-    {
-     "id": "m-tallahassee|2026-11-18|992bb360|be1084e663db",
-     "meeting_date": "2026-11-18",
-     "reason": "same amount, similar text 1.00"
-    }
-   ],
-   "possible_duplicate_label": null,
-   "stage": "upcoming",
-   "days_until_meeting": 0,
    "categories": [
     "large_spending"
    ]
