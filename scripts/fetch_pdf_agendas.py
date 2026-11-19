@@ -211,16 +211,16 @@ def scan_platforms(cfg, store, seen, debug, now):
             if u not in seen: scan_doc(store, seen, d, cfg, now, g["entity_id"], g["name"], "eagenda", body, dt, u, g["base"] + "/home"); n += 1
     # BoardDocs (school districts): meeting list JSON, agenda HTML, then item details for items that look like spending
     money_title = re.compile(r"(?i)\$|approv|award|contract|purchas|agreement|\bbid\b|grant|lease|fund|change order|renewal|amendment|budget|construct|piggyback|sole source|consult|renovat|acqui")
-    # BoardDocs rate-limits fast clients with 403s: wait 3 s between requests, cap item fetches per run,
+    # BoardDocs rate-limits fast clients with 403s: wait 6 s between requests, cap item fetches per run,
     # and stop all BoardDocs requests for the run at the first 403. Item fetches are cached in seen, so coverage builds over nights.
     bd_budget = {"items": 0, "blocked": False}
-    BD_MAX_ITEMS = 80
+    BD_MAX_ITEMS = 50
     for g in cfg.get("boarddocs", []):
         if time.time() - T0 > PDF_BUDGET or bd_budget["blocked"]: break
         d = debug[g["entity_id"] + ":boarddocs"] = {"name": g["name"], "platform": "boarddocs", "meetings": 0, "scanned": [], "errors": []}
         base = f"https://go.boarddocs.com/{g['site']}/Board.nsf"
         def post(path, data, base=base):
-            time.sleep(3)
+            time.sleep(6)
             try: return OPENER.open(urllib.request.Request(f"{base}/{path}", data=urllib.parse.urlencode(data).encode(), headers=UA), timeout=60).read().decode("utf-8", "replace")
             except urllib.error.HTTPError as e:
                 if e.code == 403: bd_budget["blocked"] = True
