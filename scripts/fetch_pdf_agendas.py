@@ -209,6 +209,117 @@ def scan_platforms(cfg, store, seen, debug, now):
         for dt, u, body in sorted(docs, reverse=True):
             if n >= cap_n(cap): break
             if u not in seen: scan_doc(store, seen, d, cfg, now, g["entity_id"], g["name"], "eagenda", body, dt, u, g["base"] + "/home"); n += 1
+    # BoardDocs (school districts): meeting list JSON, agenda HTML, then item details for items that look like spending
+    money_title = re.compile(r"(?i)\$|approv|award|contract|purchas|agreement|\bbid\b|grant|lease|fund|change order|renewal|amendment|budget|construct|piggyback|sole source|consult|renovat|acqui")
+    bd_budget = {"items": 0}
+    for g in cfg.get("boarddocs", []):
+        if time.time() - T0 > PDF_BUDGET or bd_budget["items"] >= 300: break
+        d = debug[g["entity_id"] + ":boarddocs"] = {"name": g["name"], "platform": "boarddocs", "meetings": 0, "scanned": [], "errors": []}
+        base = f"https://go.boarddocs.com/{g['site']}/Board.nsf"
+        post = lambda path, data: OPENER.open(urllib.request.Request(f"{base}/{path}", data=urllib.parse.urlencode(data).encode(), headers=UA), timeout=60).read().decode("utf-8", "replace")
+        try:
+            cid = g.get("committee")
+            if not cid:
+                pub = OPENER.open(urllib.request.Request(f"{base}/Public", headers=UA), timeout=60).read().decode("utf-8", "replace")
+                cid = (re.findall(r'committeeid="([A-Z0-9]{12})"', pub) or [None])[0]
+            ms = json.loads(post("BD-GetMeetingsList?open", {"current_committee_id": cid}))
+        except Exception as e: d["errors"].append(f"list: {e}"); continue
+        ms = [m for m in ms if m.get("numberdate") and t0.replace("-", "") <= m["numberdate"] <= t1.replace("-", "") and not skip.search(m.get("name", ""))]
+        d["meetings"] = len(ms)
+        for m in sorted(ms, key=lambda m: m["numberdate"])[:4]:
+            key = f"boarddocs:{g['site']}:{m['unique']}"
+            if key in seen: continue
+            mdate = f"{m['numberdate'][:4]}-{m['numberdate'][4:6]}-{m['numberdate'][6:]}"
+            mu = f"{base}/goto?open&id={m['unique']}"
+            try:
+                ag = post("BD-GetAgenda?open", {"id": m["unique"], "current_committee_id": cid})
+                rows = re.findall(r'<li[^>]*\bitem\b[^>]*unique="([A-Z0-9]+)"[^>]*>(.*?)</li>', ag, re.S)
+                hits = 0; fetched = 0
+                for uid, row in rows:
+                    title = " ".join(re.sub(r"<[^>]+>", " ", row).split())
+                    ikey = f"boarddocs-item:{uid}"
+                    if not money_title.search(title) or fetched >= 60 or ikey in seen: continue
+                    if bd_budget["items"] >= 300 or time.time() - T0 > PDF_BUDGET: break
+                    fetched += 1; bd_budget["items"] += 1
+                    seen[ikey] = {"status": "ok", "date": now.date().isoformat()}
+                    try: det = post("BD-GetAgendaItem?open", {"id": uid, "current_committee_id": cid})
+                    except Exception as e: d["errors"].append(f"item {uid}: {e}"); continue
+                    import html as _h
+                    txt = _h.unescape(" ".join(re.sub(r"(?is)<(script|style).*?</\1>|<[^>]+>", " ", det).split()))
+                    txt = re.sub(r"^.*?Agenda Item Details\s*", "", txt)
+                    txt = re.sub(r"\s*document\.getElementById.*$", "", txt)
+                    tags = rules.classify(txt)
+                    if tags:
+                        hits += 1
+                        store["items"].append({"entity_id": g["entity_id"], "government": g["name"], "client": "boarddocs", "body": m["name"],
+                            "meeting_date": mdate, "agenda_number": None, "file_number": None, "title": txt[:1200], **tags,
+                            "keywords": sorted({k.group(0).lower() for k in KEYWORDS.finditer(txt)}),
+                            "meeting_url": mu, "agenda_pdf": f"{base}/goto?open&id={uid}", "found_utc": now.isoformat(timespec="seconds")})
+                    time.sleep(0.3)
+                if mdate < now.date().isoformat(): seen[key] = {"status": "ok", "hits": hits, "date": now.date().isoformat()}
+                d["scanned"].append({"doc": mu[-60:], "meeting": m["name"], "date": mdate, "items": len(rows), "fetched": fetched, "hits": hits})
+            except Exception as e: d["errors"].append(f"meeting {m['unique']}: {e}")
+            time.sleep(1)
+    # Swagit (Clay County): event pages carry the full agenda text
+    for g in cfg.get("swagit", []):
+        d = debug[g["entity_id"] + ":swagit"] = {"name": g["name"], "platform": "swagit", "meetings": 0, "scanned": [], "errors": []}
+        try:
+            page = OPENER.open(urllib.request.Request(f"https://{g['host']}{g.get('list_path', '/')}", headers=UA), timeout=60).read().decode("utf-8", "replace")
+            evs = sorted(set(re.findall(r'href="(/events/\d+)"', page)))
+        except Exception as e: d["errors"].append(f"list: {e}"); continue
+        d["meetings"] = len(evs)
+        for ev in evs[:4]:
+            u = f"https://{g['host']}{ev}"
+            if u in seen: continue
+            try:
+                data = OPENER.open(urllib.request.Request(u, headers=UA), timeout=60).read()
+                t = data.decode("utf-8", "replace")
+                tm = re.search(r"<title>\s*([A-Z][a-z]{2}) (\d{1,2}), (\d{4})\s*([^<-]*)", t)
+                mdate = datetime.strptime(f"{tm.group(1)} {tm.group(2)} {tm.group(3)}", "%b %d %Y").date().isoformat() if tm else None
+                body = (tm.group(4).strip() if tm else "") or "Board of County Commissioners"
+                if skip.search(body): continue
+                i = t.find('id="full-agenda"'); t2 = t[i:] if i > 0 else t[t.find("<body"):]
+                pages = html_text(t2.encode())
+                hits = passages(pages)[:60]
+                for pno, tags, ch in hits:
+                    store["items"].append({"entity_id": g["entity_id"], "government": g["name"], "client": "swagit", "body": body,
+                        "meeting_date": mdate, "agenda_number": None, "file_number": None, "title": ch, **tags,
+                        "keywords": sorted({k.group(0).lower() for k in KEYWORDS.finditer(ch)}),
+                        "meeting_url": u, "agenda_pdf": u, "found_utc": now.isoformat(timespec="seconds")})
+                if mdate and mdate < now.date().isoformat(): seen[u] = {"status": "ok", "hits": len(hits), "date": now.date().isoformat()}
+                d["scanned"].append({"doc": u, "meeting": body, "date": mdate, "hits": len(hits), "chars": len(pages[0][1])})
+            except Exception as e: d["errors"].append(f"event {ev}: {e}")
+            time.sleep(1)
+    # Granicus SpeakUp / granicusideas (City of Sarasota): meeting pages list agenda item titles
+    for g in cfg.get("granicusideas", []):
+        d = debug[g["entity_id"] + ":granicusideas"] = {"name": g["name"], "platform": "granicusideas", "meetings": 0, "scanned": [], "errors": []}
+        mlinks = []
+        for scope in ("upcoming", "past"):
+            try:
+                page = OPENER.open(urllib.request.Request(f"https://{g['host']}/meetings?scope={scope}", headers=UA), timeout=60).read().decode("utf-8", "replace")
+                mlinks += [l for l in re.findall(r'href="(/meetings/\d+-[^"/?#]+)"', page)][: (6 if scope == "upcoming" else 3)]
+            except Exception as e: d["errors"].append(f"list {scope}: {e}")
+        mlinks = list(dict.fromkeys(mlinks)); d["meetings"] = len(mlinks)
+        for ml in mlinks:
+            u = f"https://{g['host']}{ml}"
+            if u in seen: continue
+            try:
+                data = OPENER.open(urllib.request.Request(u, headers=UA), timeout=60).read()
+                t = data.decode("utf-8", "replace")
+                tm = re.search(r"([A-Z][a-z]+ \d{1,2}, \d{4}) at \d", re.sub(r"<[^>]+>", " ", t))
+                mdate = datetime.strptime(tm.group(1), "%B %d, %Y").date().isoformat() if tm else None
+                if mdate and mdate < t0: seen[u] = {"status": "old", "date": now.date().isoformat()}; continue
+                body = ml.split("-", 1)[1].replace("-", " ").title()
+                hits = passages(html_text(data), titles_only=True)[:60]
+                for pno, tags, ch in hits:
+                    store["items"].append({"entity_id": g["entity_id"], "government": g["name"], "client": "granicusideas", "body": body,
+                        "meeting_date": mdate, "agenda_number": None, "file_number": None, "title": ch, **tags,
+                        "keywords": sorted({k.group(0).lower() for k in KEYWORDS.finditer(ch)}),
+                        "meeting_url": u, "agenda_pdf": u, "found_utc": now.isoformat(timespec="seconds")})
+                if mdate and mdate < now.date().isoformat(): seen[u] = {"status": "ok", "hits": len(hits), "date": now.date().isoformat()}
+                d["scanned"].append({"doc": u[-70:], "meeting": body, "date": mdate, "hits": len(hits)})
+            except Exception as e: d["errors"].append(f"meeting {ml}: {e}")
+            time.sleep(1)
     # PrimeGov: upcoming + this year's archive JSON; compiled agenda PDF per meeting
     for g in cfg.get("primegov", []):
         d = debug[g["entity_id"] + ":primegov"] = {"name": g["name"], "platform": "primegov", "meetings": 0, "scanned": [], "errors": []}

@@ -1042,5 +1042,103 @@
    "doc_type": "Agenda",
    "notes": "BOCC agendas; Legistar only carries development review items"
   }
+ ],
+ "boarddocs": [
+  {
+   "entity_id": "sd-orange",
+   "name": "Orange County Public Schools",
+   "site": "fla/orcpsfl"
+  },
+  {
+   "entity_id": "sd-pasco",
+   "name": "Pasco County Schools",
+   "site": "fl/pasco"
+  },
+  {
+   "entity_id": "sd-palmbeach",
+   "name": "School District of Palm Beach County",
+   "site": "fl/palmbeach"
+  },
+  {
+   "entity_id": "sd-polk",
+   "name": "Polk County Public Schools",
+   "site": "fl/polk"
+  },
+  {
+   "entity_id": "sd-lee",
+   "name": "School District of Lee County",
+   "site": "fl/lee"
+  },
+  {
+   "entity_id": "sd-osceola",
+   "name": "Osceola County School District",
+   "site": "fl/osceola"
+  },
+  {
+   "entity_id": "sd-collier",
+   "name": "Collier County Public Schools",
+   "site": "fl/collier"
+  },
+  {
+   "entity_id": "sd-marion",
+   "name": "Marion County Public Schools",
+   "site": "fl/marion"
+  },
+  {
+   "entity_id": "sd-stjohns",
+   "name": "St. Johns County School District",
+   "site": "fl/stjohns"
+  },
+  {
+   "entity_id": "sd-escambia",
+   "name": "Escambia County School District",
+   "site": "fl/escambia"
+  },
+  {
+   "entity_id": "sd-okaloosa",
+   "name": "Okaloosa County School District",
+   "site": "fl/okaloosa"
+  },
+  {
+   "entity_id": "sd-citrus",
+   "name": "Citrus County Schools",
+   "site": "fl/citrus"
+  },
+  {
+   "entity_id": "sd-stlucie",
+   "name": "St. Lucie Public Schools",
+   "site": "fl/stlucie"
+  },
+  {
+   "entity_id": "sd-martin",
+   "name": "Martin County School District",
+   "site": "fl/martin"
+  },
+  {
+   "entity_id": "sd-nassau",
+   "name": "Nassau County School District",
+   "site": "fl/nassau"
+  },
+  {
+   "entity_id": "sd-putnam",
+   "name": "Putnam County School District",
+   "site": "fl/putnam"
+  }
+ ],
+ "_boarddocs_note": "School districts on BoardDocs (go.boarddocs.com). Districts with no meetings in the scan window (e.g. moved to another system) simply produce nothing. Item details are fetched only for spending-like titles, at most 300 per run.",
+ "swagit": [
+  {
+   "entity_id": "c-clay",
+   "name": "Clay County",
+   "host": "clayfl.new.swagit.com",
+   "list_path": "/board-of-commissioners"
+  }
+ ],
+ "granicusideas": [
+  {
+   "entity_id": "m-sarasota",
+   "name": "Sarasota",
+   "host": "sarasota.granicusideas.com"
+  }
  ]
 }
