@@ -7606,6 +7606,14 @@
      "amount": null,
      "text": "February 24, 2026City Commission Regular Commission Meeting Recommendation: Approve the Second Amendment to the Interlocal Agreement (ILA) between the City of Delray Beach (City) and Delray Beach Community Redevelopment Agency (CRA) for funding for Capital Improvement Plan (CIP) Projects within the ",
      "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3370"
+    },
+    {
+     "entity_id": "m-delraybeach",
+     "government": "Delray Beach",
+     "meeting_date": null,
+     "amount": 593700.0,
+     "text": "January 27, 2026Community Redevelopment Agency CRA Meeting SECOND AMENDMENT TO INTERLOCAL AGREEMENT BETWEEN THE CITY OF DELRAY BEACH AND DELRAY BEACH COMMUNITY REDEVELOPMENT AGENCY FOR FUNDING CONSTRUCTION/PROFESSIONAL SERVICES - FISCAL YEAR 2024-2025 7C. Recommendation: Approve the Second Amendment",
+     "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3343"
     }
    ],
    "governments": [
@@ -7614,8 +7622,8 @@
     "Delray Beach",
     "Lake Wales"
    ],
-   "award_count": 7,
-   "total_amount": 62500.0
+   "award_count": 8,
+   "total_amount": 656200.0
   },
   "construction professional services funding for demolition": {
    "name": "Construction and Professional Services Funding for the Demolition of",
@@ -10719,12 +10727,20 @@
      "amount": null,
      "text": "B. RESOLUTIONS RES. NO. 2025-28 A Resolution of the City of Venice, Florida, Approving Amendment No. 2 to the Public Transportation Grant Agreement for Project Number 456529-1-94-01 by and Between the State of Florida Department of Transportation and the City of Venice, Florida, for the Venice Munic",
      "link": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1896"
+    },
+    {
+     "entity_id": "m-venice",
+     "government": "Venice",
+     "meeting_date": null,
+     "amount": null,
+     "text": "August 26, 2025City Council Meeting Agenda RES. NO. 2025-18 A Resolution of the City of Venice, Florida, Approving an Amendment to the Public Transportation Grant Agreement for Project Number 456529-1-94-01 by and Between the State of Florida Department of Transportation and the City of Venice, Flor",
+     "link": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1869"
     }
    ],
    "governments": [
     "Venice"
    ],
-   "award_count": 3,
+   "award_count": 4,
    "total_amount": 0
   },
   "expansion fbo apron": {
@@ -15645,13 +15661,21 @@
      "amount": null,
      "text": "Sponsors: Neighborhood & Community Services Agenda Cover Report Solid Waste Authority and Distressed Property Clean-Up Grant Application 2025 Perimeter Wall Boy Scout Park 1 Perimeter Wall Boy Scout Park 2 Perimeter Wall Boy Scout Park 3 Attachments: RESOLUTION NO. 105-26 FUNDING COMMITMENTS TO CONT",
      "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3538"
+    },
+    {
+     "entity_id": "m-delraybeach",
+     "government": "Delray Beach",
+     "meeting_date": null,
+     "amount": 4412729.0,
+     "text": "February 3, 2026City Commission Regular Commission Meeting APPROVAL OF A RESOLUTION NO. 43-26 OF THE CITY OF DELRAY BEACH, FLORIDA, RETROACTIVELY APPROVING A GRANT APPLICATION AND APPROVING A GRANT AGREEMENT WITH THE U.S. ENVIRONMENTAL PROTECTION AGENCY PROVIDING FUNDING TO UPGRADE THE NORTH HIGH SE",
+     "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3352"
     }
    ],
    "governments": [
     "Delray Beach"
    ],
-   "award_count": 2,
-   "total_amount": 300000.0
+   "award_count": 3,
+   "total_amount": 4712729.0
   },
   "police explorers donation backup letf request memo police explorers donation attachments": {
    "name": "Police Explorers Donation BACKUP-LETF Request Memo-Police Explorers Donation Attachments",
@@ -18473,9 +18497,261 @@
    ],
    "award_count": 2,
    "total_amount": 0
+  },
+  "florida power light": {
+   "name": "Florida Power and Light",
+   "awards": [
+    {
+     "entity_id": "m-delraybeach",
+     "government": "Delray Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "February 3, 2026City Commission Regular Commission Meeting Sponsors: City Clerk Department Agenda Cover Report Resolution No. 44-26 (2026 Notice of Elections).docx Simple Legal Review Approval Resolution 44-26.docx Attachments: GRANT OF AN UNDERGROUND EASEMENT AT 1025 MISSION HILL ROAD TO FLORIDA PO",
+     "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3352"
+    }
+   ],
+   "governments": [
+    "Delray Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "cra legal counsel agenda cover report exhibit a": {
+   "name": "CRA Legal Counsel. Agenda Cover Report Exhibit A",
+   "awards": [
+    {
+     "entity_id": "m-delraybeach",
+     "government": "Delray Beach",
+     "meeting_date": null,
+     "amount": 3661.0,
+     "text": "January 27, 2026Community Redevelopment Agency CRA Meeting APPROVAL OF A PAINT-UP & SIGNAGE FUNDING ASSISTANCE AGREEMENT - CORE SHAKE STUDIO, LLC - 401 W. ATLANTIC AVENUE, IN AN AMOUNT NOT TO EXCEED $3,661.00 7F. Recommendation: Approve a Paint-Up & Signage Funding Assistance Agreement with Core Sha",
+     "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3343"
+    }
+   ],
+   "governments": [
+    "Delray Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 3661.0
+  },
+  "site development funding assistance grant": {
+   "name": "Site Development Funding Assistance Grant",
+   "awards": [
+    {
+     "entity_id": "m-delraybeach",
+     "government": "Delray Beach",
+     "meeting_date": null,
+     "amount": 56268.0,
+     "text": "January 27, 2026Community Redevelopment Agency CRA Meeting APPROVAL OF A REINSTATEMENT AND FIRST AMENDMENT TO THE SITE DEVELOPMENT FUNDING ASSISTANCE AGREEMENT - HARVEY INSURANCE SOLUTIONS, INC. LOCATED AT 20 NW 6TH AVENUE, UNIT #5, TO EXTEND THE TERMINATION DATE AND INCREASE THE FUNDING ASSISTANCE ",
+     "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3343"
+    }
+   ],
+   "governments": [
+    "Delray Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 56268.0
+  },
+  "lake wales municipal airport avgas trailer memo pdf": {
+   "name": "Lake Wales Municipal Airport. AVGAS TRAILER MEMO.PDF",
+   "awards": [
+    {
+     "entity_id": "m-lakewales",
+     "government": "Lake Wales",
+     "meeting_date": null,
+     "amount": 2000000.0,
+     "text": "CITY COMMISSION REGULAR MEETING OFFICIAL AGENDA May 6, 2025 6:00 p.m. Municipal Administration Building Commission Chambers 201 W. Central Avenue Lake Wales, FL 33853 INVOCATION PLEDGE OF ALLEGIANCE CALL TO ORDER ROLL CALL PROCLAMATIONS AND AWARDS PROCLAMATION - Public Works Week 2025 PWW PROCLAMATI",
+     "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=819"
+    }
+   ],
+   "governments": [
+    "Lake Wales"
+   ],
+   "award_count": 1,
+   "total_amount": 2000000.0
+  },
+  "community development block grant": {
+   "name": "Community Development Block Grant",
+   "awards": [
+    {
+     "entity_id": "m-lakewales",
+     "government": "Lake Wales",
+     "meeting_date": null,
+     "amount": null,
+     "text": "RESOLUTION 2025-08 \u2013 Grant Application to Community Development Block Grant \u2013 Small Cities for Fire Station #3",
+     "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=801"
+    }
+   ],
+   "governments": [
+    "Lake Wales"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "fy2024 25": {
+   "name": "FY2024-25",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": 47185.0,
+     "text": "- Motion to approve the submission and acceptance of the Department of Agriculture and Consumer Services Countywide Mosquito Control grant for FY2024-25, in the amount of $47,185.66, authorizing matching funds in an amount not to exceed $9,437.13; authorizing the County Manager or Chair to sign any ",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=123"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 1,
+   "total_amount": 47185.0
+  },
+  "point curvature": {
+   "name": "Point of Curvature",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "I. Christopher Simpron - Assistant County Manager / Public Works Director - Resolution 2024-39 - Supplemental State Funded Grant Agreement 445065 for County Road 663 and Roy Coker Road to the Point of Curvature at Station 486+50.",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=123"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "roy coker": {
+   "name": "Roy Coker",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "J. Christopher Simpron - Assistant County Manager / Public Works Director - Resolution 2024-40 - Supplemental State Funded Grant Agreement 445068 for County Road 663 from County Road 665 to Roy Coker",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=123"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "hardee county courthouse roof": {
+   "name": "Hardee County Courthouse Roof",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "O. Lorie Ayers - General Services Director - FY24/25 Federal Community Project Grant for Hardee County Courthouse Roof.",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=123"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "countywide parks infrastructure for wifi": {
+   "name": "Countywide Parks Infrastructure for WiFi",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "R. Lorie Ayers - General Services Director - EDA Grant for Countywide Parks Infrastructure for WiFi",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=123"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "drug free hardee": {
+   "name": "Drug Free Hardee",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "U. Terry Atchley - County Manager - Shed donation to Drug Free Hardee.",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=123"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "federal highway administration": {
+   "name": "Federal Highway Administration",
+   "awards": [
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "F. - Motion to approve Resolution 2024-44 - A Resolution of the Board of County Commissioners of Hardee County, approving the submission of a planning and demonstration grant application to the Federal Highway Administration (FHWA) to develop a countywide location road safety plan under the Safe Str",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=117"
+    }
+   ],
+   "governments": [
+    "Hardee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "authorization master scope change interim grant agreement": {
+   "name": "Authorization of Master Scope Change and Interim Grant Agreement",
+   "awards": [
+    {
+     "entity_id": "c-volusia",
+     "government": "Volusia County",
+     "meeting_date": null,
+     "amount": 192952.0,
+     "text": "Item # Subject Motion Action/Vote Item E Action Plan Amendments to reallocate federal Community Development Block Grant (CDBG) funds for Fiscal Years 2024/25 and 2025/26 APPROVED Motion by Robins; seconded by Johansson; carried 7 to 0. Item F America 250 Independence Day Celebration at Gemini Spring",
+     "link": "https://www.volusia.org/file/5903/20226-05-19-Action-List-ADA.pdf"
+    }
+   ],
+   "governments": [
+    "Volusia County"
+   ],
+   "award_count": 1,
+   "total_amount": 192952.0
+  },
+  "volusia county home rule charter": {
+   "name": "Volusia County Home Rule Charter",
+   "awards": [
+    {
+     "entity_id": "c-volusia",
+     "government": "Volusia County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "4) from Granvil M. Tracy, as Trustee of the Granvil M. Tracy Living Trust APPROVED the purchase agreement, design and engineering allocation, request to apply for FCT grant and authority for the County Chair and County Manager to execute any documents necessary in support of the related documents. M",
+     "link": "https://www.volusia.org/file/5903/20226-05-19-Action-List-ADA.pdf"
+    }
+   ],
+   "governments": [
+    "Volusia County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
   }
  },
- "generated_utc": "2026-11-19T07:38:01+00:00",
+ "generated_utc": "2026-11-19T08:55:39+00:00",
  "multi_government": [
   "commission",
   "section",
@@ -18489,13 +18765,13 @@
   "martin luther king jr avenue",
   "cra board",
   "district",
+  "interlocal agreement",
   "resolution no",
   "transportation disadvantaged",
   "department",
   "goodwill",
   "u s department housing urban development",
   "agency",
-  "interlocal agreement",
   "recipient",
   "grantee",
   "agreement",
