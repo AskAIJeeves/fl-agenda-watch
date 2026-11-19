@@ -2169,7 +2169,7 @@
     "Borrowing & debt",
     "Private benefit"
    ],
-   "featured": false,
+   "featured": true,
    "project_total": null,
    "added": "2026-11-15"
   },
@@ -2195,7 +2195,7 @@
     "Borrowing & debt",
     "Private benefit"
    ],
-   "featured": false,
+   "featured": true,
    "project_total": null,
    "added": "2026-11-15"
   },
@@ -4367,7 +4367,7 @@
     "Events, art & branding",
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": null,
    "added": "2026-11-16"
   },
@@ -4772,7 +4772,7 @@
     "Borrowing & debt",
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": null,
    "added": "2026-11-16"
   },
@@ -7715,6 +7715,31 @@
    ],
    "featured": false,
    "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "62255af788",
+   "government": "Dania Beach",
+   "governments": [
+    "Dania Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission (Nov 17 packet): Commissioner Ryan to contribute $1,000 from his contingency funds and Commissioner Rimoli and Vice Mayor Salvino to split $3,800, covering a $4,800 funding request for American Legion Posts 304 and 209 (0.006% of general fund). Outcome not verified.",
+   "shortfall": null,
+   "amount": 4800.0,
+   "link": "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3542,plainText=false)#page=32",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "Grants to outside groups",
+    "Perks for officials"
+   ],
+   "featured": false,
+   "project_total": 4800.0,
    "added": "2026-11-19"
   }
  ]

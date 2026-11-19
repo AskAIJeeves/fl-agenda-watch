@@ -1379,7 +1379,7 @@
   {
    "sheet": "Backlog",
    "item_id": "m-northport|matter|RES. NO. 2024-R-17",
-   "decision": null,
+   "decision": "Keep",
    "suggested": "Keep",
    "government": "North Port",
    "description": "City Commission: Res 2024-R-17 amends FY2023-24 budget by $20,359,097 for police HQ design, public art projects, EOC, capital contribution to West Villages Improvement District, Morgan Center reroof and two tire balancers. Result: Pass per clerk.",
@@ -1390,12 +1390,13 @@
    "meeting_date": "2024-05-14",
    "category": "outgoing_grant; vanity; facilities",
    "added": "2026-11-15",
-   "project_total": null
+   "project_total": null,
+   "needs_review": null
   },
   {
    "sheet": "Backlog",
    "item_id": "m-jacksonville|matter|2026-0572-E",
-   "decision": null,
+   "decision": "Feature",
    "suggested": "Feature",
    "government": "Jacksonville",
    "description": "City Council: Ord 2026-0572-E appropriates $33,958,000 from General Fund fund balance to a JXSF Completion Grant/Forgivable Loan contingency account to fund unfunded non-recurring future obligations. Result: Pass per clerk.",
@@ -1406,12 +1407,13 @@
    "meeting_date": "2026-07-28",
    "category": "outgoing_grant; debt; private_benefit",
    "added": "2026-11-15",
-   "project_total": null
+   "project_total": null,
+   "needs_review": null
   },
   {
    "sheet": "Backlog",
    "item_id": "m-jacksonville|matter|2023-0876-AW",
-   "decision": null,
+   "decision": "Feature",
    "suggested": "Feature",
    "government": "Jacksonville",
    "description": "City Council: Ord 2023-0876 appropriates $22,000,000 for a City Participation Loan and replenishment guaranty for Laura Trio, LLC, renovation of Laura Street Trio buildings plus two new towers (140+ hotel rooms, 165+ apartments). Outcome not verified.",
@@ -1422,7 +1424,8 @@
    "meeting_date": "2026-01-13",
    "category": "outgoing_grant; debt; private_benefit",
    "added": "2026-11-15",
-   "project_total": null
+   "project_total": null,
+   "needs_review": null
   },
   {
    "sheet": "Backlog",
@@ -4959,6 +4962,23 @@
    "category": "service cut",
    "added": "2026-11-19",
    "project_total": null
+  },
+  {
+   "sheet": "Backlog",
+   "item_id": "m-daniabeach|2026-11-17|032e9a70|d75c639b5646",
+   "decision": null,
+   "suggested": "Keep",
+   "government": "Dania Beach",
+   "description": "City Commission (Nov 17 packet): Commissioner Ryan to contribute $1,000 from his contingency funds and Commissioner Rimoli and Vice Mayor Salvino to split $3,800, covering a $4,800 funding request for American Legion Posts 304 and 209 (0.006% of general fund). Outcome not verified.",
+   "shortfall": null,
+   "amount": 4800.0,
+   "link": "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3542,plainText=false)#page=32",
+   "stage": "past_meeting",
+   "meeting_date": "2026-11-17",
+   "category": "outgoing_grant; officials_perks",
+   "added": "2026-11-19",
+   "project_total": 4800.0,
+   "needs_review": null
   }
  ]
 }
