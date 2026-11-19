@@ -1,0 +1,30 @@
+name: Site data
+on:
+  push:
+    paths:
+      - data/review_patch.json
+      - config/committed_projects.json
+      - scripts/build_site_items.py
+  workflow_dispatch: {}
+permissions:
+  contents: write
+concurrency:
+  group: data-writer
+  cancel-in-progress: false
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python scripts/merge_review_patch.py
+      - run: python scripts/build_site_items.py
+      - name: Commit
+        run: |
+          git config user.name "agenda-bot"
+          git config user.email "agenda-bot@users.noreply.github.com"
+          git add -A data/review_export.json data/review_patch.json site/data
+          git diff --cached --quiet && exit 0
+          git commit -m "Site data $(date -u +%F)"
+          for i in 1 2 3; do git pull --rebase -X theirs && git push && break; sleep 5; done
