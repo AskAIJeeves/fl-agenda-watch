@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-18T18:20:48+00:00",
- "count": 121,
+ "generated_utc": "2026-11-19T07:09:08+00:00",
+ "count": 125,
  "governments": {
   "m-fortlauderdale": {
    "name": "Fort Lauderdale",
@@ -34,15 +34,15 @@
    "name": "Clearwater",
    "status": "ok",
    "client": "clearwater",
-   "events": 5,
-   "flagged": 5
+   "events": 6,
+   "flagged": 11
   },
   "m-jacksonville": {
    "name": "Jacksonville",
    "status": "ok",
    "client": "jaxcityc",
    "events": 8,
-   "flagged": 77
+   "flagged": 79
   },
   "m-pinellaspark": {
    "name": "Pinellas Park",
@@ -116,7 +116,7 @@
    "name": "North Port",
    "status": "ok",
    "client": "cityofnorthport",
-   "events": 17,
+   "events": 19,
    "flagged": 5
   },
   "m-doral": {
@@ -152,7 +152,7 @@
    "status": "ok",
    "client": "psl",
    "events": 11,
-   "flagged": 0
+   "flagged": 1
   },
   "m-plantcity": {
    "name": "Plant City",

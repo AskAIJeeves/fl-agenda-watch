@@ -1129,14 +1129,39 @@
      "amount": 2294630.0,
      "text": "That the Board of County Commissioners approve the ratification of the submission of a Resilient Florida Grant Program Application to Florida Department of Environmental Protection (FDEP) to improve the drainage and flood protection for the Berman Road and Nubbin Slough Drainage Area in the amount o",
      "link": "https://okeechobee.granicus.com/AgendaViewer.php?view_id=1&clip_id=4325"
+    },
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "E. - Motion to approve Resolution 2024-70, A Resolution of the Board of County Commissioners of Hardee County, approving the submission of p hase 7 wastewater and potable water service improvement grant application to the Florida Department of Environmental Protection (FDEP) for a water quality impr",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=147"
+    },
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "F. - Motion to approve Resolution 2024-71, A Resolution of the Board of County Commissioners of Hardee County, approving the submission of phase 8 wastewater and potable water service improvements grant application to the Florida Department of Environmental Protection (FDEP) for a water quality impr",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=147"
+    },
+    {
+     "entity_id": "c-hardee",
+     "government": "Hardee County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "G. - Motion to approve Resolution 2024-72, A Resolution of the Board of County Commissioners of Hardee County, approving the submission of the Pioneer Park water and sewer improvement grant application to the Florida Department of Environmental Protection (FDEP) for a water quality improvement state",
+     "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=147"
     }
    ],
    "governments": [
+    "Hardee County",
     "Melbourne",
     "Okeechobee County",
     "Sunrise"
    ],
-   "award_count": 6,
+   "award_count": 9,
    "total_amount": 6297923.0
   },
   "council": {
@@ -3216,12 +3241,20 @@
      "amount": null,
      "text": "12. POLICY FORMATION AND DIRECTION 12.1 Adopt Resolution No. 26-R-42 Authorizing Acceptance and Execution of the Florida Division of Emergency Management Hazard Mitigation Grant Program Agreement for the Terminal Generator Replacement Project at the Tallahassee International Airport",
      "link": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1084,plainText=false)"
+    },
+    {
+     "entity_id": "m-tallahassee",
+     "government": "Tallahassee",
+     "meeting_date": "2026-11-18",
+     "amount": null,
+     "text": "Division of Emergency Management Hazard Mitigation Grant Program Agreement for the Terminal Generator Replacement Project at the Tallahassee International Airport -- David Pollard, Aviation 12.2 Approval of Resolution No. 26-R-38 Supporting the Establishment of a Foreign Trade Zone (FTZ) at the Tall",
+     "link": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1097,plainText=false)"
     }
    ],
    "governments": [
     "Tallahassee"
    ],
-   "award_count": 3,
+   "award_count": 4,
    "total_amount": 0
   },
   "fema no": {
@@ -3969,13 +4002,21 @@
      "amount": 43500.0,
      "text": "24. Approve FDOT Federal Funding Agreement for Traffic Operations Center Funding: Current Year Dollar Amount: $43,500 Included in the Current Budget?: Yes Fund: Transportation Trust Comments: Strategic Planning - Infrastructure, Roads & Bridges Item Summary: Approves a Federal Funding Supplemental A",
      "link": "https://leecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=897,plainText=false)"
+    },
+    {
+     "entity_id": "c-lee",
+     "government": "Lee County",
+     "meeting_date": "2026-11-17",
+     "amount": 277500.0,
+     "text": "24. Approve FDOT Federal Funding Agreement for Traffic Operations Center Funding: Current Year Dollar Amount: $43,500 Included in the Current Budget?: Yes Fund: Transportation Trust Comments: Strategic Planning - Infrastructure, Roads & Bridges Item Summary: Approves a Federal Funding Supplemental A",
+     "link": "https://leecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=904,plainText=false)"
     }
    ],
    "governments": [
     "Lee County"
    ],
-   "award_count": 1,
-   "total_amount": 43500.0
+   "award_count": 2,
+   "total_amount": 321000.0
   },
   "san carlos island flood mitigation improvements item summary": {
    "name": "San Carlos Island Flood Mitigation Improvements Item Summary",
@@ -4926,17 +4967,34 @@
      "amount": null,
      "text": "With the exception of Jenkins Road & Okeechobee Road, these deficiencies are projected to occur under background conditions without project traffic. The intersection of Jenkins Road & Okeechobee Road will operate at LOS D or better through buildout of the project with signal timing optimization. Bec",
      "link": "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12866,plainText=false)"
+    },
+    {
+     "entity_id": "m-delraybeach",
+     "government": "Delray Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "CITY OF DELRAY BEACH, FLORIDA CITY COMMISSION MEETING - MONDAY, MARCH 9, 2026 4:00 PM DELRAY BEACH CITY HALL OR WATCH ON YOUTUBE: HTTPS Mayor Thomas F. Carney, Jr. Deputy Vice Mayor Angela Burns Commissioner Tom Markert Commissioner Juli Casale Workshop Meeting at 4:00 PM Pursuant to Section 3.12 of",
+     "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3383"
+    },
+    {
+     "entity_id": "m-delraybeach",
+     "government": "Delray Beach",
+     "meeting_date": null,
+     "amount": 81000.0,
+     "text": "CITY OF DELRAY BEACH, FLORIDA CITY COMMISSION MEETING - TUESDAY, FEBRUARY 24, 2026 4:00 PM DELRAY BEACH CITY HALL OR WATCH ON YOUTUBE: HTTPS Mayor Thomas F. Carney, Jr. Deputy Vice Mayor Angela Burns Commissioner Tom Markert Commissioner Juli Casale Workshop Meeting at 4:00 PM Pursuant to Section 3.",
+     "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3369"
     }
    ],
    "governments": [
+    "Delray Beach",
     "Nassau County",
     "Palm Beach County",
     "St. Lucie County",
     "Sunrise",
     "Wildwood"
    ],
-   "award_count": 13,
-   "total_amount": 33575123.0
+   "award_count": 15,
+   "total_amount": 33656123.0
   },
   "gy2026": {
    "name": "GY2026",
@@ -7532,6 +7590,22 @@
      "amount": null,
      "text": "Sponsors: Public Works Department Agenda Cover Report A1a - Right of Way Deed - 814 SE 2nd Ave - LM One LLC A1b - Legal Review Right of Way Deed - 814 SE 2nd Ave - KM One LLC A2a - Right of Way Deed - 106 Heather LN - 106 Heather Lane LLC A2b - Legal Review Right of Way Deed - 106 Heather LN - 106 H",
      "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3523"
+    },
+    {
+     "entity_id": "m-delraybeach",
+     "government": "Delray Beach",
+     "meeting_date": null,
+     "amount": 62500.0,
+     "text": "November 18, 2026Community Redevelopment Agency CRA Meeting ACCEPTANCE OF SOLID WASTE AUTHORITY OF PALM BEACH COUNTY\u2019S BLIGHTED AND DISTRESSED PROPERTY CLEAN-UP GRANT OF $62,500 - CRA-PROPERTY OWNED LOCATED APPROXIMATELY AT LAKE IDA ROAD AND ROOSEVELT AVENUE 7C. Recommendation: Accept the Solid Wast",
+     "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3645"
+    },
+    {
+     "entity_id": "m-delraybeach",
+     "government": "Delray Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "February 24, 2026City Commission Regular Commission Meeting Recommendation: Approve the Second Amendment to the Interlocal Agreement (ILA) between the City of Delray Beach (City) and Delray Beach Community Redevelopment Agency (CRA) for funding for Capital Improvement Plan (CIP) Projects within the ",
+     "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3370"
     }
    ],
    "governments": [
@@ -7540,8 +7614,8 @@
     "Delray Beach",
     "Lake Wales"
    ],
-   "award_count": 5,
-   "total_amount": 0
+   "award_count": 7,
+   "total_amount": 62500.0
   },
   "construction professional services funding for demolition": {
    "name": "Construction and Professional Services Funding for the Demolition of",
@@ -18175,9 +18249,233 @@
    ],
    "award_count": 1,
    "total_amount": 50000.0
+  },
+  "north riverside": {
+   "name": "North Riverside",
+   "awards": [
+    {
+     "entity_id": "m-jacksonville",
+     "government": "Jacksonville",
+     "meeting_date": "2026-11-16",
+     "amount": 6000000.0,
+     "text": "The amendment was moved and seconded. Ms. Reber explained the amendment. The amendment was approved unanimously. \r\n\r\nCM Peluso said this was an exciting opportunity for the North Riverside area, which currently lacks parkland. He said land was sold to Classical Academy, and the proceeds were put int",
+     "link": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3782_A_Neighborhoods%2C_Community_Services%2C_Public_Health_and_Safety_Committee_26-11-16_Agenda.pdf"
+    }
+   ],
+   "governments": [
+    "Jacksonville"
+   ],
+   "award_count": 1,
+   "total_amount": 6000000.0
+  },
+  "pg va amendment": {
+   "name": "PG and VA and Amendment",
+   "awards": [
+    {
+     "entity_id": "m-delraybeach",
+     "government": "Delray Beach",
+     "meeting_date": null,
+     "amount": null,
+     "text": "March 9, 2026City Commission Meeting Agenda Cover Report Funding Agreement - Achievement Ctr for PG and VA and Amendment 1 Funding Agreement - Achievement Ctr for Programming and Amendment 1 Financial and Performance - Achievement Center for both Agreements Funding Agreement for Arts Garage Lease wi",
+     "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3383"
+    }
+   ],
+   "governments": [
+    "Delray Beach"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "rehabilitation t hangar taxilanes": {
+   "name": "Rehabilitation of the T-Hangar Taxilanes",
+   "awards": [
+    {
+     "entity_id": "m-winterhaven",
+     "government": "Winter Haven",
+     "meeting_date": null,
+     "amount": null,
+     "text": "11. RESOLUTION(S) 11.A R-25-27 - Approval of a Public Transportation Grant Agreement with the Florida Department of Transportation (FDOT) for Rehabilitation of the T-Hangar Taxilanes 11.B R-25-28 - Approval of Grant Agreement for Local Government Cybersecurity Grant Program",
+     "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=262"
+    }
+   ],
+   "governments": [
+    "Winter Haven"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "local government cybersecurity grant program resolution r 25 28 dms 2425 426 flds grant": {
+   "name": "Local Government Cybersecurity Grant Program Resolution R-25-28 DMS-2425-426 FLDS Grant",
+   "awards": [
+    {
+     "entity_id": "m-winterhaven",
+     "government": "Winter Haven",
+     "meeting_date": null,
+     "amount": null,
+     "text": "Staff Contact: Hiep Nguyen, Smart City Officer, hnguyen@mywinterhaven.com Summary - Resolution R 25-28 Approval of Grant Agreement for Local Government Cybersecurity Grant Program Resolution R-25-28 DMS-2425-426 FLDS Grant Agreement Local Government Cybersecurity Grant Program - Warranties and Commi",
+     "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=262"
+    }
+   ],
+   "governments": [
+    "Winter Haven"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "parks capital transportation bond borrowing levels bond referendum": {
+   "name": "Parks Capital Transportation Bond Borrowing Levels Bond Referendum",
+   "awards": [
+    {
+     "entity_id": "m-marcoisland",
+     "government": "Marco Island",
+     "meeting_date": null,
+     "amount": null,
+     "text": "4. Business Parks Master Plan & Capital Infrastructure Bond Workshop, Casey Lucius, Interim City Manager ID 26-5116 Parks & Recreation Master Plan Final Summary Memo - Parks Master Plan Top 5 Improvements Funding Options for Parks Capital Transportation Bond Borrowing Levels Bond Referendum - Critic",
+     "link": "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2008"
+    }
+   ],
+   "governments": [
+    "Marco Island"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "six municipalities": {
+   "name": "Six Municipalities",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "(Louis J. Baptiste, Esq., Interim County Administrator / Jeronda Robinson, Human Resources Manager) 7.b Approval of Funding for the Six Municipalities (Chattahoochee, Greensboro, Gretna, Havana, Midway, and Quincy) (Roosevelt Morris, Interim County Administrator) 7.c Approval of Resolution regarding",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=85"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "six municipalities pdf": {
+   "name": "Six Municipalities.pdf",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "7.b..Funding for the Six Municipalities.pdf",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=85"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "havana chattahoochee may day pdf": {
+   "name": "Havana and Chattahoochee May Day.pdf",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "7.d..Funding for Havana and Chattahoochee May Day.pdf",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=85"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "high school reunions pdf": {
+   "name": "High School Reunions.pdf",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "7.e..Funding for High School Reunions.pdf",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=85"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "fuel services inter local agreement": {
+   "name": "Fuel Services Inter-Local Agreement",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "7.a Ratification Memo (Clerk of Court) 7.b BOCC Meeting/Workshop Minutes: 7.b.1. March 18, 2025, Regular Board Meeting 7.b.2. March 28, 2025, Special Meeting 7.c Approval of Adding Gadsden County Public Health Department as a Participating Entity to the Fuel Services Inter-Local Agreement (Roosevelt",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=84"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "commissioners public comments input for grant application submittal": {
+   "name": "Commissioners and Public Comments and Input for Grant Application Submittal",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "10.a Public Hearing: Second Public Hearing for Commissioners and Public Comments and Input for Grant Application Submittal to the Florida Department of Economic Opportunity",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=84"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "dr camron browning": {
+   "name": "Dr. Camron Browning",
+   "awards": [
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "11.a Funding Request for Dr. Camron Browning (Roosevelt Morris, Interim County Administrator) 11.b Approval of the Summer Youth Application and Process (Roosevelt Morris, Interim County Administrator / Jeronda Robinson, Human Resources Manager) 11.c Approval to Confirm the Financial Director (Roosev",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=82"
+    },
+    {
+     "entity_id": "c-gadsden",
+     "government": "Gadsden County",
+     "meeting_date": null,
+     "amount": null,
+     "text": "11.a Funding Request for Dr. Camron Browning (Eric F. Hinson, Chairman / Roosevelt Morris, Interim County Administrator 11.b Board Direction Regarding Appointments/Reappointments of Board Members to the Gadsden Hospital, Inc. Board of Directors (Roosevelt Morris, Interim County Administrator) 11.c A",
+     "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=80"
+    }
+   ],
+   "governments": [
+    "Gadsden County"
+   ],
+   "award_count": 2,
+   "total_amount": 0
   }
  },
- "generated_utc": "2026-11-18T18:51:08+00:00",
+ "generated_utc": "2026-11-19T07:38:01+00:00",
  "multi_government": [
   "commission",
   "section",
@@ -18197,6 +18495,7 @@
   "goodwill",
   "u s department housing urban development",
   "agency",
+  "interlocal agreement",
   "recipient",
   "grantee",
   "agreement",
@@ -18206,7 +18505,6 @@
   "sourcewell",
   "florida department transportation",
   "authority",
-  "interlocal agreement",
   "amendment no",
   "division",
   "use grant funds",

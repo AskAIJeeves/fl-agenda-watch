@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-18T18:20:48+00:00",
- "count": 121,
+ "generated_utc": "2026-11-19T07:09:08+00:00",
+ "count": 125,
  "items": [
   {
    "entity_id": "m-jacksonville",
@@ -159,6 +159,35 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
+   "meeting_date": "2026-11-16",
+   "agenda_number": null,
+   "file_number": null,
+   "title": "The amendment was moved and seconded. Ms. Reber explained the amendment. The amendment was approved unanimously. \r\n\r\nCM Peluso said this was an exciting opportunity for the North Riverside area, which currently lacks parkland. He said land was sold to Classical Academy, and the proceeds were put into a fund for parkland in the area. The initial area considered did not work, but a new spot was found in collaboration with the community. \r\n\r\nCM Salem noted the parcels were non-contiguous and asked Daryl Joseph of the Parks Department whether he intended to close roads to join them. Mr. Joseph said they would close a right-of-way to join the properties. CM Salem asked if $6 million was in the fund for the project. Mr. Joseph confirmed and added that most of the funding came from the developer who purchased the property for Classical Academy. CM Salem asked if that was the majority of the $1.6 million being appropriated. Mr. Joseph said the developer contributed about $1.2 million, with the remainder coming from the Acquisition Fund. CM Salem said the bill appeared to draw all the money from the Fund. Mr. Joseph said the developer's money was deposited into the Acquisition Fund. Ms. Reber confirmed that. \r\n\r\nVice Chair Clark-Murray said the project had been in progress for nearly 10 years, and the community had gone without a park since then. She said the idea was to have various active parks for the community. She asked to be a co-sponsor. \r\n\r\nCM Peluso asked Mr. Joseph how tied ",
+   "max_amount": 6000000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 6000000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "North Riverside",
+   "signal_score": 4.8,
+   "keywords": [],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3782&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3782_A_Neighborhoods%2C_Community_Services%2C_Public_Health_and_Safety_Committee_26-11-16_Agenda.pdf",
+   "item_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3782&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "appearances": [
+    {
+     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
+     "meeting_date": "2026-11-16"
     }
    ]
   },
@@ -719,6 +748,10 @@
     {
      "body": "Council Work Session",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-19"
     }
    ]
   },
@@ -896,6 +929,10 @@
     {
      "body": "Council Work Session",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-19"
     }
    ]
   },
@@ -1121,6 +1158,39 @@
    ]
   },
   {
+   "entity_id": "m-clearwater",
+   "government": "Clearwater",
+   "client": "clearwater",
+   "body": "City Council",
+   "meeting_date": "2026-11-19",
+   "agenda_number": "7.5",
+   "file_number": "ID#26-1411",
+   "title": "Approve a Guaranteed Maximum Price (GMP) proposal from PJ Hayes Inc. dba Tandem Construction, of Sarasota, FL, for the Eddie C. Moore Complex Renovations project (25-0032-PR), in the amount of $20,982,456.64, pursuant to RFQ 13-26, Construction Manager at Risk (CMAR) Services; transfer $12,940,000 from retained earnings at first quarter to Eddie C. Moore Complex Renovations project (C2510) and authorize the appropriate officials to execute same.",
+   "max_amount": 20982456.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 20982456.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 3.3,
+   "keywords": [
+    "construction",
+    "gmp",
+    "guaranteed maximum price"
+   ],
+   "meeting_url": "https://clearwater.legistar.com/MeetingDetail.aspx?LEGID=3158&GID=391&G=E6D8F5E1-1A25-4C36-846B-5CFB5C80AB8C",
+   "agenda_pdf": "https://legistar2.granicus.com/clearwater/meetings/2026/11/3158_A_City_Council_26-11-19_Meeting_Agenda.pdf",
+   "item_url": "https://clearwater.legistar.com/gateway.aspx?M=L&ID=22792",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-19"
+    }
+   ]
+  },
+  {
    "entity_id": "m-jacksonville",
    "government": "Jacksonville",
    "client": "jaxcityc",
@@ -1187,6 +1257,10 @@
     {
      "body": "Council Work Session",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-19"
     }
    ]
   },
@@ -1670,6 +1744,37 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
+   "meeting_date": "2026-11-16",
+   "agenda_number": null,
+   "file_number": null,
+   "title": "The amendment was moved and seconded. Ms. Reber explained the amendment. \r\n\r\nCM M. Carlucci asked for the funding source for the study. Ms. Reber said there was a quiet zone CIP project with funds to pay for the project. CM M. Carlucci asked if San Marco was the only area being studied. Ms. Reber confirmed it was. He then asked how many studies had been done in San Marco. Scott Carter, Chief of Engineering, said he was not aware of other studies completed in the area. CM M. Carlucci asked if the district CM requested the study. Mr. Carter said there had been a long-standing CIP with a $250,000 allocation. He said the point of the study was to determine whether the district wanted to establish a quiet zone at this crossing, what changes would be needed, and the cost of those changes. He said from that point the Administration and the Council could determine whether the project would be worth it. CM M. Carlucci said he would support in Committee but said the issue has been raised multiple times over the years. Mr. Carter said he had spoken with the district CM about the study but could not speak to his level of support.\r\n\r\nMs. Norris said there was some confusion getting the bill on the agenda and that the district CM introduced the bill for the Administration.\r\n\r\nChair Miller asked whether other parts of the City would be considered. Mr. Carter said they do not intend to show favoritism. He said this one made it into the CIP and that they were executing it. He said that comple",
+   "max_amount": 250000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 250000.0,
+   "signals": [
+    "consultants"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2.4,
+   "keywords": [],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3782&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3782_A_Neighborhoods%2C_Community_Services%2C_Public_Health_and_Safety_Committee_26-11-16_Agenda.pdf",
+   "item_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3782&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "appearances": [
+    {
+     "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
+     "meeting_date": "2026-11-16"
     }
    ]
   },
@@ -2292,6 +2397,38 @@
    ]
   },
   {
+   "entity_id": "m-portstlucie",
+   "government": "Port St. Lucie",
+   "client": "psl",
+   "body": "City Council",
+   "meeting_date": "2026-11-23",
+   "agenda_number": "7.b",
+   "file_number": "2026-920",
+   "title": "Approval to Piggyback the OMNIA Contract #R-AB-26004-01 for Playground and Outdoor Fitness Equipment, Site Accessories, Surfacing, and Related Products and Services - City Contract #20270019.",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "contract",
+    "piggyback"
+   ],
+   "meeting_url": "https://psl.legistar.com/MeetingDetail.aspx?LEGID=2727&GID=747&G=597EF6D8-E9C6-40B6-8081-E988A76B06A6",
+   "agenda_pdf": "https://psl.legistar1.com/psl/meetings/2026/11/2727_A_City_Council_26-11-23_Meeting_Agenda.pdf",
+   "item_url": "https://psl.legistar.com/gateway.aspx?M=L&ID=11970",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-23"
+    }
+   ]
+  },
+  {
    "entity_id": "m-clearwater",
    "government": "Clearwater",
    "client": "clearwater",
@@ -2319,6 +2456,10 @@
     {
      "body": "Council Work Session",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-19"
     }
    ]
   },
@@ -2411,6 +2552,10 @@
     {
      "body": "Council Work Session",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-19"
     }
    ]
   },
