@@ -1,4 +1,4 @@
-"""Probe round 2: BoardDocs API shape, Volusia agenda app, Clay Swagit event list, Sarasota granicusideas links."""
+"""Probe round 3: BoardDocs item details with money, Clay Swagit event listing, Volusia agenda app pages, Sarasota upcoming."""
 import json, re, ssl, urllib.parse, urllib.request
 from http.cookiejar import CookieJar
 
@@ -19,54 +19,46 @@ def strip(t):
     return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", t))
 
 
-print("=== BoardDocs page")
-st, u, t = get("https://go.boarddocs.com/fl/pasco/Board.nsf/Public")
-for m in re.finditer(r"(?i)committee", t):
-    print("...", t[max(0, m.start() - 120):m.start() + 160].replace("\n", " "))
-    if m.start() > 60000: break
-ids = re.findall(r'"([A-Z0-9]{12})"', t)
-print("12-char ids", sorted(set(ids))[:20])
-for s in ["fl/pasco", "fla/orcpsfl", "fl/palmbeach"]:
-    st, u, t = get(f"https://go.boarddocs.com/{s}/Board.nsf/Public")
-    cands = sorted(set(re.findall(r'id="committee[^"]*"[^>]*value="([A-Z0-9]+)"', t) + re.findall(r'current_committee_id[^A-Z0-9]{0,8}([A-Z0-9]{12})', t)
-                       + re.findall(r'committeeid[^A-Z0-9]{0,8}([A-Z0-9]{12})', t, re.I)))
-    print(s, "candidates", cands)
-    for cid in cands[:3]:
-        st2, _, t2 = get(f"https://go.boarddocs.com/{s}/Board.nsf/BD-GetMeetingsList?open", {"current_committee_id": cid})
-        print(" list", cid, st2, len(t2), t2[:300])
-        try:
-            ms = json.loads(t2)
-        except Exception:
-            continue
-        if ms:
-            ms = sorted(ms, key=lambda m: m.get("numberdate", ""), reverse=True)
-            print(" newest", ms[:3])
-            uid = ms[0].get("unique")
-            st3, _, t3 = get(f"https://go.boarddocs.com/{s}/Board.nsf/BD-GetAgenda?open", {"id": uid, "current_committee_id": cid})
-            print(" agenda", st3, len(t3), strip(t3)[:700])
-            items = re.findall(r'unique="([A-Z0-9]+)"', t3)[:3] or re.findall(r"id=['\"]([A-Z0-9]{12})['\"]", t3)[:3]
-            print(" item ids", items)
-            for it in items[:2]:
-                st4, _, t4 = get(f"https://go.boarddocs.com/{s}/Board.nsf/BD-GetAgendaItem?open", {"id": it, "current_committee_id": cid})
-                print(" item", st4, len(t4), strip(t4)[:500], re.findall(r'href="([^"]+)"', t4)[:5])
-            break
-    print()
+print("=== BoardDocs Orange Nov 10 agenda, money items")
+s, cid = "fla/orcpsfl", "AA6H5P46CE9C"
+st, _, t = get(f"https://go.boarddocs.com/{s}/Board.nsf/BD-GetAgenda?open", {"id": "DNDPQK654DE3", "current_committee_id": cid})
+print(st, len(t))
+print(t[:1500])
+rows = re.findall(r'<li[^>]*class="[^"]*item[^"]*"[^>]*unique="([A-Z0-9]+)"[^>]*>(.*?)</li>', t, re.S)
+print("rows", len(rows))
+items = re.findall(r'unique="([A-Z0-9]+)"', t)
+print("uniques", len(items))
+money = [(u, strip(x)[:140]) for u, x in rows if re.search(r"(?i)\$|contract|purchase|award|agreement|approval", x)][:3]
+print(money)
+for u, _ in money[:2]:
+    st4, _, t4 = get(f"https://go.boarddocs.com/{s}/Board.nsf/BD-GetAgendaItem?open", {"id": u, "current_committee_id": cid})
+    print("item", st4, strip(t4)[:900])
+    print("links", re.findall(r'href="([^"]+)"', t4)[:8])
 
-print("=== Volusia agenda app")
-for u in ["https://vcservices.vcgov.org/agenda/agenda-minutes.asp"]:
-    st, uu, t = get(u)
-    print(u, st, uu, strip(t)[:600])
-    print([l for l in re.findall(r'(?:href|action)="([^"]+)"', t)][:30])
-    print(re.findall(r'<form[^>]*>', t)[:3], re.findall(r'<(?:input|select)[^>]*name="([^"]+)"', t)[:20])
-
-print("=== Clay Swagit home links")
-st, uu, t = get("https://clayfl.new.swagit.com/")
-print(sorted(set(re.findall(r'href="([^"#]+)"', t)))[:60])
+print("=== Clay Swagit commissioners page")
+st, uu, t = get("https://clayfl.new.swagit.com/board-of-commissioners")
+ev = re.findall(r'href="(/events/\d+)"[^>]*>(.*?)</a>', t, re.S)[:10]
+vids = re.findall(r'href="(/videos/\d+)"[^>]*>(.*?)</a>', t, re.S)[:5]
+print(st, [(a, strip(b)[:60]) for a, b in ev], [(a, strip(b)[:60]) for a, b in vids])
+print(strip(t)[:600])
 st, uu, t = get("https://clayfl.new.swagit.com/events/50593")
-print("event", st, strip(t)[:900])
-print(sorted(set(re.findall(r'href="([^"#]+)"', t)))[:40])
+body = t[t.find("<body"):]
+print("event items", strip(body)[:1500])
+print("doc links", [l for l in re.findall(r'href="([^"]+)"', t) if re.search(r"(?i)document|attach|pdf|agenda", l)][:10])
 
-print("=== Sarasota granicusideas")
-st, uu, t = get("https://sarasota.granicusideas.com/meetings")
-print(sorted(set(re.findall(r'href="([^"#]+)"', t)))[:60])
-print(strip(t)[200:1200])
+print("=== Volusia agenda list")
+st, uu, t = get("https://vcservices.vcgov.org/agenda/agenda-minutes.asp")
+sel = re.search(r'<select[^>]*id="AgendaList"[^>]*>(.*?)</select>', t, re.S)
+opts = re.findall(r'<option[^>]*value="([^"]+)"[^>]*>(.*?)</option>', sel.group(1) if sel else "")[:6]
+print(opts)
+if opts:
+    v = [o for o in opts if o[0] != "-1"][0][0]
+    st, uu, a = get(f"https://vcservices.vcgov.org/agenda/agendas/{v}/agenda.htm")
+    print(st, uu, strip(a)[:1200])
+    print([l for l in re.findall(r'href="([^"]+)"', a)][:20])
+
+print("=== Sarasota upcoming")
+st, uu, t = get("https://sarasota.granicusideas.com/meetings?scope=upcoming")
+print([l for l in re.findall(r'href="([^"]+)"', t) if "meetings/" in l][:10])
+st, uu, t = get("https://sarasota.granicusideas.com/meetings?scope=past")
+print([l for l in re.findall(r'href="([^"]+)"', t) if "meetings/" in l][:10])
