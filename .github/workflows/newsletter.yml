@@ -1,0 +1,35 @@
+name: Weekly newsletter
+on:
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "draft (review in Buttondown) or send"
+        default: draft
+        required: true
+concurrency: { group: data-writer, cancel-in-progress: false }
+permissions: { contents: write }
+jobs:
+  newsletter:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build
+        id: b
+        run: |
+          D=$(TZ=America/New_York date +%F)
+          echo "date=$D" >> $GITHUB_OUTPUT
+          python3 scripts/build_newsletter.py "$D"
+      - name: Send to Buttondown
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+        run: |
+          if [ -z "$BUTTONDOWN_API_KEY" ]; then echo "::error::BUTTONDOWN_API_KEY secret not set"; exit 1; fi
+          python3 scripts/send_newsletter.py "${{ steps.b.outputs.date }}" "${{ inputs.mode }}"
+      - name: Commit record
+        if: always()
+        run: |
+          git config user.name "fl-agenda-watch bot"; git config user.email "actions@users.noreply.github.com"
+          git add newsletter/
+          git diff --cached --quiet && exit 0
+          git commit -m "Newsletter ${{ steps.b.outputs.date }} (${{ inputs.mode }})"
+          for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
