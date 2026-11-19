@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-19T08:29:21+00:00",
- "count": 125,
+ "generated_utc": "2026-11-19T17:13:34+00:00",
+ "count": 122,
  "governments": {
   "m-fortlauderdale": {
    "name": "Fort Lauderdale",
@@ -83,7 +83,7 @@
    "name": "Polk County",
    "status": "ok",
    "client": "polkcountyfl",
-   "events": 2,
+   "events": 3,
    "flagged": 11
   },
   "c-lake": {
@@ -138,7 +138,7 @@
    "status": "ok",
    "client": "ppines",
    "events": 2,
-   "flagged": 3
+   "flagged": 0
   },
   "c-orange": {
    "name": "Orange County",

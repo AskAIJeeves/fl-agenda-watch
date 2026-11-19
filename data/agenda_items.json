@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-19T08:29:21+00:00",
- "count": 125,
+ "generated_utc": "2026-11-19T17:13:34+00:00",
+ "count": 122,
  "items": [
   {
    "entity_id": "m-jacksonville",
@@ -2368,35 +2368,6 @@
    ]
   },
   {
-   "entity_id": "m-pembrokepines",
-   "government": "Pembroke Pines",
-   "client": "ppines",
-   "body": "City Commission",
-   "meeting_date": "2026-11-18",
-   "agenda_number": "14.",
-   "file_number": "26-3094",
-   "title": "MAYOR CASTILLO ITEM NO. 1: DISCUSSION AND POSSIBLE ACTION TO RENAME THE POOL AT THE ACADEMIC VILLAGE CAMPUS THE \u201cSTEFANO G. DIOGUARDI R. POOL\u201d IN HONOR OF STEFANO G. DIOGUARDI R., A FORMER STUDENT AND CAPTAIN OF THE WATER POLO TEAM WHO TRAGICALLY LOST HIS LIFE IN JULY 2019 FOLLOWING A COURAGEOUS BATTLE WITH EWING SARCOMA. FOR THE PAST 10 YEARS, THE FORZA STEFANO CHARITABLE FOUNDATION HAS HOSTED THE ANNUAL FORZA STEFANO WATER POLO TOURNAMENT AT THE ACADEMIC VILLAGE POOL. THE FOUNDATION HAS ALSO AGREED TO MAKE AN ANNUAL DONATION OF $1,000 FOR THE NEXT 10 YEARS TO THE ACADEMIC VILLAGE AQUATIC CENTER TO HELP COVER POOL-RELATED NEEDS AND/OR SUPPORT THE PEMBROKE PINES CHARTER HIGH SCHOOL (PPCHS) WATER POLO TEAM.",
-   "max_amount": 1000.0,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": 1000.0,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2,
-   "keywords": [],
-   "meeting_url": "https://ppines.legistar.com/MeetingDetail.aspx?LEGID=1799&GID=38&G=11F1DFCB-631E-4C18-8D1F-165ADB0EFC0A",
-   "agenda_pdf": "https://ppines.legistar1.com/ppines/meetings/2026/11/1799_A_City_Commission_26-11-18_Meeting_Agenda.pdf",
-   "item_url": "https://ppines.legistar.com/gateway.aspx?M=L&ID=19871",
-   "appearances": [
-    {
-     "body": "City Commission",
-     "meeting_date": "2026-11-18"
-    }
-   ]
-  },
-  {
    "entity_id": "m-portstlucie",
    "government": "Port St. Lucie",
    "client": "psl",
@@ -2910,37 +2881,6 @@
    ]
   },
   {
-   "entity_id": "m-pembrokepines",
-   "government": "Pembroke Pines",
-   "client": "ppines",
-   "body": "City Commission",
-   "meeting_date": "2026-11-18",
-   "agenda_number": "6.",
-   "file_number": "26-3102",
-   "title": "MOTION TO APPROVE THE MASTER SOFTWARE AS A SERVICES (SAAS) AGREEMENT BETWEEN THE CITY OF PEMBROKE PINES AND ZOLL DATA SYSTEMS, INC., FOR THE ZOLL BILLING SOFTWARE SOLUTION FOR THE FIRE RESCUE DEPARTMENT, FOR AN INITIAL FIVE (5) YEAR PERIOD, IN AN AMOUNT NOT TO EXCEED $288,000, PURSUANT TO SECTION 35.18(C)(7) OF THE CITY'S PROCUREMENT CODE.",
-   "max_amount": 288000.0,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": 288000.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 1.5,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://ppines.legistar.com/MeetingDetail.aspx?LEGID=1799&GID=38&G=11F1DFCB-631E-4C18-8D1F-165ADB0EFC0A",
-   "agenda_pdf": "https://ppines.legistar1.com/ppines/meetings/2026/11/1799_A_City_Commission_26-11-18_Meeting_Agenda.pdf",
-   "item_url": "https://ppines.legistar.com/gateway.aspx?M=L&ID=19879",
-   "appearances": [
-    {
-     "body": "City Commission",
-     "meeting_date": "2026-11-18"
-    }
-   ]
-  },
-  {
    "entity_id": "m-jacksonville",
    "government": "Jacksonville",
    "client": "jaxcityc",
@@ -3001,38 +2941,6 @@
     {
      "body": "Board of County Commissioners (Organizational)",
      "meeting_date": "2026-11-17"
-    }
-   ]
-  },
-  {
-   "entity_id": "m-pembrokepines",
-   "government": "Pembroke Pines",
-   "client": "ppines",
-   "body": "City Commission",
-   "meeting_date": "2026-11-18",
-   "agenda_number": "1.",
-   "file_number": "26-3079",
-   "title": "MOTION TO APPROVE AN AGREEMENT WITH H&R PAVING, INC., FOR THE MILLING AND RESURFACING OF NW 125TH AVE FROM SHERIDAN STREET TO TAFT STREET, UTILIZING PRICING ESTABLISHED BY THE CITY OF MIAMI IFB NO. 1115382, FOR AN AMOUNT NOT TO EXCEED $226,978.50, WHICH INCLUDES $1,088 FOR PAYMENT AND PERFORMANCE BONDS, AND A 10% OWNER'S CONTINGENCY IN THE AMOUNT OF $20,535.50, PURSUANT TO SECTION 35.18(C)(5) OF THE CITY\u2019S CODE OF ORDINANCES.",
-   "max_amount": 226978.0,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": 226978.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 1.4,
-   "keywords": [
-    "agreement",
-    "bonds"
-   ],
-   "meeting_url": "https://ppines.legistar.com/MeetingDetail.aspx?LEGID=1799&GID=38&G=11F1DFCB-631E-4C18-8D1F-165ADB0EFC0A",
-   "agenda_pdf": "https://ppines.legistar1.com/ppines/meetings/2026/11/1799_A_City_Commission_26-11-18_Meeting_Agenda.pdf",
-   "item_url": "https://ppines.legistar.com/gateway.aspx?M=L&ID=19855",
-   "appearances": [
-    {
-     "body": "City Commission",
-     "meeting_date": "2026-11-18"
     }
    ]
   },

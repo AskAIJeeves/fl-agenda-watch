@@ -13242,13 +13242,21 @@
      "amount": null,
      "text": "Board of County Commissioners Item Title: NCSO Equitable Sharing Agreement and Certification Date: November 9, 2026 Department: County Manager Background: The Equitable Sharing Agreement, entered into among (1) the Federal Government, (2) the Agency, and (3) the Agency's governing body, sets forth t",
      "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    },
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": 259636.0,
+     "text": "Board of County Commissioners Item Title: Approve and authorize the Chair to execute contract CM4255 with Enviromatic Systems of Fort Worth Texas, Inc. DBA Facility Automation Solutions in an amount not to exceed $259,636.00. Date: November 9, 2026 Department: Tech Services Background: The Nassau Co",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
     }
    ],
    "governments": [
     "Nassau County"
    ],
-   "award_count": 5,
-   "total_amount": 2369019.0
+   "award_count": 6,
+   "total_amount": 2628655.0
   },
   "professional services": {
    "name": "Professional Services",
@@ -13304,13 +13312,21 @@
      "amount": null,
      "text": "Contract No.: CM3999 MUNICIPAL GRANT FUNDING AGREEMENT FOR CITY OF FERNANDINA BEACH FISCAL YEAR 2025/2026 THIS MUNICIPAL GRANT FUNDING AGREEMENT (hereinafter \"Agreement\") is entered into by and between the BOARD OF COUTNY COMMISSIONERS OF NASSAU COUNTY, a political subdivision of the State of Florid",
      "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    },
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": 50000.0,
+     "text": "Contract No.: CM3999 MUNICIPAL GRANT FUNDING AGREEMENT FOR CITY OF FERNANDINA BEACH FISCAL YEAR 2025/2026 THIS MUNICIPAL GRANT FUNDING AGREEMENT (hereinafter \"Agreement\") is entered into by and between the BOARD OF COUTNY COMMISSIONERS OF NASSAU COUNTY, a political subdivision of the State of Florid",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
     }
    ],
    "governments": [
     "Nassau County"
    ],
-   "award_count": 1,
-   "total_amount": 0
+   "award_count": 2,
+   "total_amount": 50000.0
   },
   "municipal grant funding for martin luther king jr sports": {
    "name": "Municipal Grant Funding for the Martin Luther King Jr. Sports",
@@ -18749,9 +18765,99 @@
    ],
    "award_count": 1,
    "total_amount": 0
+  },
+  "contract cm4170": {
+   "name": "Contract CM4170",
+   "awards": [
+    {
+     "entity_id": "c-nassau",
+     "government": "Nassau County",
+     "meeting_date": "2026-11-09",
+     "amount": 924727.0,
+     "text": "2 4 5 8 Board of County Commissioners Item Title: Approve and authorize the Chair to sign the second amendment to Contract CM4170, with Enviromatic Systems of Fort Worth Texas, Inc. DBA Facility Automation Solutions in an amount not to exceed $125,477.00. Date: November 9, 2026 Department: Tech Serv",
+     "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4381,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Nassau County"
+   ],
+   "award_count": 1,
+   "total_amount": 924727.0
+  },
+  "fire prevention services outsourcing transition": {
+   "name": "Fire Prevention Services Outsourcing Transition",
+   "awards": [
+    {
+     "entity_id": "m-titusville",
+     "government": "Titusville",
+     "meeting_date": "2026-11-24",
+     "amount": 369427.0,
+     "text": "E. Funding Transfer for Fire Prevention Services Outsourcing Transition - Approve the requested budget transfer from Fire Department Salaries and Benefits to Professional Services to support the transition of in-house fire prevention services to an outside professional service. The transition elimin",
+     "link": "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2558,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Titusville"
+   ],
+   "award_count": 1,
+   "total_amount": 369427.0
+  },
+  "public works": {
+   "name": "Public Works",
+   "awards": [
+    {
+     "entity_id": "m-titusville",
+     "government": "Titusville",
+     "meeting_date": "2026-11-24",
+     "amount": 74260.0,
+     "text": "Member Nelson stated that the City was already working to reduce costs to allocate additional funding to Public Works for flood control efforts. Therefore, the proposed cost of $74,260 was concerning.",
+     "link": "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2558,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Titusville"
+   ],
+   "award_count": 1,
+   "total_amount": 74260.0
+  },
+  "grace street": {
+   "name": "Grace Street",
+   "awards": [
+    {
+     "entity_id": "m-titusville",
+     "government": "Titusville",
+     "meeting_date": "2026-11-24",
+     "amount": null,
+     "text": "Motion: Member Nelson moved to authorize staff to prepare a letter of support for the reallocation of SUNTrail Funding for FPID (447608-1) \u2013 US 1 \u2013 East Coast Greenway \u2013 from SR 50 to Grace Street to be mailed to Steven Buck, P.E., District Five ISD Administrator. Mayor Connors distributed a sample ",
+     "link": "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2558,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Titusville"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "ocoee high school": {
+   "name": "Ocoee High School",
+   "awards": [
+    {
+     "entity_id": "sd-orange",
+     "government": "Orange County Public Schools",
+     "meeting_date": "2026-11-10",
+     "amount": 95000.0,
+     "text": "15.04 Request Approval of the Real Estate Purchase Agreement Between The School Board of Orange County, Florida and GS Crown Point, LLC d/b/a Elan Crown Point Type Action (Consent) Recommended Action Approval of the Real Estate Purchase Agreement Between The School Board of Orange County, Florida an",
+     "link": "https://go.boarddocs.com/fla/orcpsfl/Board.nsf/goto?open&id=DZBJMX4DEA91"
+    }
+   ],
+   "governments": [
+    "Orange County Public Schools"
+   ],
+   "award_count": 1,
+   "total_amount": 95000.0
   }
  },
- "generated_utc": "2026-11-19T08:55:39+00:00",
+ "generated_utc": "2026-11-19T17:34:31+00:00",
  "multi_government": [
   "commission",
   "section",
