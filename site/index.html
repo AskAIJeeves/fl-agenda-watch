@@ -342,7 +342,7 @@ function voteStrip(list){
   const soon = list.filter(i => isPending(i) && daysBetween(t, i.meeting_date) <= 14).sort((a, b) => a.meeting_date.localeCompare(b.meeting_date) || Math.abs(b.amount || 0) - Math.abs(a.amount || 0)).slice(0, 8);
   if (!soon.length) return "";
   return `<div class="strip"><h2>Up for a vote in the next two weeks</h2><ol>${soon.map(i =>
-    `<li><span class="d">${relDay(i.meeting_date)}</span><a href="#item-${i.id}"><span class="g">${esc(i.government)}:</span> ${esc(i.description.split(/[.;]/)[0].slice(0, 110))}</a><span class="a">${money(i.amount) || ""}</span></li>`).join("")}</ol></div>`;
+    `<li><span class="d">${relDay(i.meeting_date)}</span><a href="#item-${i.id}"><span class="g">${esc(i.government)}:</span> ${esc(i.description.length > 120 ? i.description.slice(0, 120).replace(/\s+\S*$/, "") + "…" : i.description)}</a><span class="a">${money(i.amount) || ""}</span></li>`).join("")}</ol></div>`;
 }
 
 function lede(title, list){

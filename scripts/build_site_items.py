@@ -29,6 +29,7 @@ CAT_NAMES = {
     "consultants": "Consultants", "debt": "Debt", "legal": "Legal", "large_spending": "Large spending",
     "receipt": "Money received", "deficit projection": "Deficit projection", "tax or fee increase": "Tax or fee increase",
     "service cut": "Service cut", "amendment 3 impact": "Amendment 3", "amendment 3": "Amendment 3",
+    "bypass": "No-bid / bidding waived", "bypass_competition": "No-bid / bidding waived", "tax increase": "Tax or fee increase",
 }
 SPLIT = re.compile(r"\s*(?:/|;|,| and )\s*")
 
