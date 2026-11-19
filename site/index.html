@@ -153,6 +153,8 @@ footer .wrap{padding-block:18px 28px;display:grid;gap:6px}
 .sort{font-size:13px}
 @media (max-width:520px){.strip li{grid-template-columns:auto 1fr}.strip li a{grid-column:1 / -1;order:3}}
 .dl{font-size:13px;color:var(--teal);font-weight:600}
+.linkbtn{font:inherit;color:inherit;background:none;border:0;padding:0;text-decoration:underline;cursor:pointer}
+.mailrow{display:flex;flex-wrap:wrap;gap:10px;margin-top:10px}
 </style>
 </head>
 <body>
@@ -204,7 +206,7 @@ footer .wrap{padding-block:18px 28px;display:grid;gap:6px}
 <footer>
   <div class="wrap">
     <span>Items come from published agendas, meeting packets, official statements and Florida news coverage. Each one links to its source. Where an item says the outcome is not verified, check the minutes.</span>
-    <span>Independent. Not affiliated with any government. <a href="#about">How items are chosen</a></span>
+    <span>Independent. Not affiliated with any government. <a href="#about">How items are chosen</a> · <button class="linkbtn" type="button" data-mail="tip">Submit a tip</button> · <button class="linkbtn" type="button" data-mail="contact">Contact us</button></span>
     <span id="updated"></span>
   </div>
 </footer>
@@ -412,6 +414,9 @@ Please send the records electronically if they exist in that form. If any part o
 Name:
 Email:</div>
   <p><button class="btn secondary" type="button" data-copy-el="pr-template">Copy request template</button></p>
+  <h2>Send a tip</h2>
+  <p>Seen spending on an upcoming agenda that is not listed here? Send the government, the meeting date and a link to the agenda item.</p>
+  <p><button class="btn" type="button" data-mail="tip">Submit a tip</button></p>
   <h2>Share an item</h2>
   <p>Every item has its own link and share buttons. Items marked with an orange vote date have not been voted on yet.</p>
   </div>`;
@@ -433,8 +438,9 @@ function renderAbout(){
     <li><b>Received</b> amounts (shown with a minus sign): money paid to the government, not spent by it.</li>
     <li><b>Part of a tracked project</b>: the item is one step of a larger deal; the total counts each approval of the same money once and may not include steps that are not tracked.</li>
   </ul>
-  <h2>Corrections</h2>
-  <p>Every item links to its public record. If an item is wrong or out of date, the source link is the place to check, and corrections are made as soon as they are confirmed.</p>
+  <h2>Corrections, tips and contact</h2>
+  <p>Every item links to its public record. If an item is wrong or out of date, or you know of spending on an upcoming agenda that is not listed here, send it in. A link to the agenda or packet page helps it get checked quickly. Corrections are made as soon as they are confirmed.</p>
+  <div class="mailrow"><button class="btn" type="button" data-mail="tip">Submit a tip</button><button class="btn secondary" type="button" data-mail="contact">Contact us</button></div>
   </div>`;
 }
 
@@ -496,6 +502,18 @@ function renderChips(){
 }
 
 function rerender(){ renderChips(); VIEWS[currentView()](); }
+
+/* The address is assembled only when someone clicks, so it never appears in the page source for scrapers. */
+const MAILBOX = ["moc.liamg", "adirolfxatporp"];
+const MAIL_SUBJECT = { tip: "Tip for Florida Spending", contact: "Florida Spending" };
+document.addEventListener("click", (e) => {
+  const m = e.target.closest("[data-mail]");
+  if (!m) return;
+  const rev = (x) => x.split("").reverse().join("");
+  const addr = rev(MAILBOX[1]) + String.fromCharCode(64) + rev(MAILBOX[0]);
+  const body = m.dataset.mail === "tip" ? "Government:\nMeeting date:\nAgenda item or link:\nWhat it is:\n" : "";
+  location.href = `mailto:${addr}?subject=${encodeURIComponent(MAIL_SUBJECT[m.dataset.mail])}&body=${encodeURIComponent(body)}`;
+});
 
 document.addEventListener("click", async (e) => {
   const b = e.target.closest("[data-copy],[data-copy-el],[data-rm]");
