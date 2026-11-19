@@ -89,6 +89,31 @@ def tag_stage_category(it, today):
     it["categories"] = cats or ["large_spending"]
     return it
 
+DAILY_KEYS = ("id", "government", "body", "meeting_date", "stage", "days_until_meeting", "categories", "max_amount",
+              "flow", "recipient", "link", "project_id", "project_total", "funding_source", "paying_fund",
+              "paying_fund_expenditures", "pct_of_paying_fund", "possible_duplicate_label")
+
+
+def write_daily(pool, now):
+    """Compact file the morning digest can read in full: items first found in the last 36 hours,
+    plus every upcoming vote in the next 14 days, minus money coming in and undated items. Pending votes first."""
+    rows = []
+    for x in pool:
+        fu = x.get("found_utc")
+        new = fu and (now - datetime.fromisoformat(fu)) <= timedelta(hours=36)
+        soon = x["stage"] in ("upcoming", "early_warning") and (x.get("days_until_meeting") or 99) <= 14
+        if not (new or soon) or x.get("flow") == "in" or x["stage"] == "undated":
+            continue
+        r = {k: x.get(k) for k in DAILY_KEYS}
+        r["new_today"] = bool(new)
+        r["text"] = " ".join((x.get("title") or "").split())[:700]
+        rows.append(r)
+    rank = {"upcoming": 0, "early_warning": 0, "past_meeting": 1, "undated": 2}
+    rows.sort(key=lambda r: (rank[r["stage"]], r["days_until_meeting"] if r["days_until_meeting"] is not None else 999))
+    (ROOT / "data/daily_new.json").write_text(json.dumps(
+        {"generated_utc": now.isoformat(timespec="seconds"), "count": len(rows), "items": rows}, indent=0, ensure_ascii=False))
+
+
 def main():
     now = datetime.now(timezone.utc); today = now.date()
     items = load("agenda_items.json")["items"] + load("pdf_items.json")["items"]
@@ -120,6 +145,7 @@ def main():
     out["counts"]["possible_duplicates"] = sum(1 for x in pool if x.get("possible_duplicate_label"))
     out["counts"]["missing_link"] = sum(1 for x in pool if not x.get("link"))
     (ROOT / "data/candidates.json").write_text(json.dumps(out, indent=1))
+    write_daily(pool, now)
 
     # running ledger of outgoing grant recipients (all time, all governments)
     lp = ROOT / "data/grant_recipients.json"

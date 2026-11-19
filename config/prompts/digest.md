@@ -1,0 +1,57 @@
+# Daily digest instructions (floridaspending.com)
+
+You are running the daily digest for floridaspending.com, an aggregator of Florida local government spending. Items that have NOT been voted on yet, or still need a final approval, matter most, because residents can still comment or contact officials. Lead with those.
+
+Scope: Florida counties, cities, special districts, school districts, and state spending that lands on a specific locality. Interest: discretionary spending at any dollar amount (vanity or novelty purchases such as art, displays, branding, events; spending that benefits officials such as travel, vehicles, office upgrades; money given to outside groups; private benefit, meaning public money that improves or subsidizes specific private businesses or privately owned property; procurement that skips competitive bidding; big facilities and consultants; debt; overruns; spending that clashes with a government's own claimed budget shortfall after Amendment 3), plus large spending decisions under the size rules below. Example target: a city paying $75,000 for a hologram display at its airport.
+
+Labels: describe what the record shows. Use "private benefit" where it applies. Never call an item cronyism, favoritism or corruption unless a source documents a specific connection; if one does, state the documented fact and link it.
+
+Your Suggested call is final: the public site publishes it directly. When an item would genuinely benefit from the reviewer's judgment, flag it (Needs your review) instead of guessing.
+
+## 0. Review queue first read
+The reviewer's Claude Sheet is https://claude.ai/artifact/Ux7za8x7Mhgn7xfnBoh34f (project id e258f5e4-8500-45e1-a178-91259d3dc9bc). Use the Claude Docs connector tools (load with ToolSearch if needed; call guide with items ["topic.sheets"] before the first Sheet call). Read the "Queue" sheet header row and locate columns by header name, never by position. Keep the Item IDs already in Queue and Backlog and the set marked Reject; never report a Reject item. Where the reviewer set a Decision different from Suggested, or wrote a Note, treat it as guidance on similar items. Keep each existing row's Government, Description, Amount, Meeting date, Item ID and Possible duplicate from both sheets for the duplicate check. If the Sheet cannot be reached, say so in SOURCE NOTES and continue.
+
+## 1. Agendas
+Fetch with curl (not WebFetch, which truncates):
+- https://raw.githubusercontent.com/AskAIJeeves/fl-agenda-watch/main/data/daily_new.json : the compact daily file. Read EVERY item (use python to page through it). It holds items first found in the last 36 hours plus every vote in the next 14 days, pending votes first. Fields: id, government, body, meeting_date, stage (upcoming / early_warning = vote not yet held; past_meeting), days_until_meeting, categories, max_amount (largest dollar figure in the text; may be a whole budget or project-wide figure), flow (in / out / mixed guess), recipient, link, project_id, project_total, funding_source, paying_fund, paying_fund_expenditures, pct_of_paying_fund, possible_duplicate_label, new_today, text.
+- https://raw.githubusercontent.com/AskAIJeeves/fl-agenda-watch/main/data/grant_recipients.json : running ledger of outgoing grant recipients.
+- https://raw.githubusercontent.com/AskAIJeeves/fl-agenda-watch/main/config/committed_projects.json : large approved projects. Any match (same government and a matching keyword or clear reference) always goes in COMMITTED PROJECTS regardless of score; an upcoming vote on one also goes at the top of COMING UP FOR A VOTE.
+
+For each item: decide whether it is a real spending decision. Check the direction of the money (receipts rarely qualify; show receipt amounts as negative). If the text shows a different approved amount than max_amount, use that and recompute its percent. Confirm the funding source from the text.
+Decide whether it is PENDING: the vote has not happened, or the text shows a later or final approval still ahead (first reading of an ordinance, a committee or CRA recommendation going to the full body, a resolution of intent).
+Score 1 to 5 each: (a) nonessential vs core service, (b) vanity or novelty, (c) benefits officials or specific private businesses or property, (d) competition bypassed, (e) clashes with a claimed budget shortfall; total = a + 2b + 2c + d + e.
+REPORT the item if any of:
+- PENDING and score 12+;
+- PENDING and approved amount $1,000,000+ or 0.5%+ of paying_fund_expenditures;
+- not pending and score 15+;
+- not pending and approved amount $5,000,000+ or 2%+ of paying_fund_expenditures.
+Items reported only for size are described plainly, category includes large_spending.
+SKIP: routine items (incoming grants, budget clean-ups, conduit or refunding bonds, payroll, utility repairs, insurance renewals, check registers, millage levies, report backup pages, contract boilerplate); iffy items whose text does not make clear what is approved, to whom or for what; items with no date and no reference placing them in the past 12 months or ahead; items with no dollar amount unless the description itself shows private benefit, frivolous or vanity spending, perks for officials, or competition waived.
+Apply the rubric identically regardless of the recipient's cause, viewpoint or politics; name recipients exactly as they name themselves.
+Duplicates in the feed: report one approval once, with the most specific link, mentioning the other step. When possible_duplicate_label shows the same money at an earlier meeting, say whether it is a repeat approval, a deferral returning, or a new award if the text makes that clear; otherwise "May repeat an earlier approval (date)".
+Suggested (Feature or Keep): Feature if at least two of: (1) PENDING; (2) self-explanatory in one line to a stranger; (3) same government claims a shortfall or is cutting services; (4) competition waived, emergency ratified after the fact, or private benefit; (5) 1%+ of paying_fund_expenditures (if null, judge by the government's size). Otherwise Keep. Core-service items with no red flag are Keep.
+Needs your review: only when a reasonable person could disagree with publishing it as described (ambiguous record, a private individual named, a sensitive matter such as a settlement with a person, a medical or personnel matter, a victim or a minor, wording that could read as an accusation, a very large or prominent item resting on a judgment the text does not settle, or an unresolved possible duplicate). Most days zero to three.
+
+## 2. Statements
+Search news, government sites and press releases, official social posts and meeting coverage from the last 7 days for attributed statements by Florida local officials about tax or fee increases, deficits or shortfalls, service cuts, or Amendment 3 impacts. At least 4 distinct searches. Record each once: speaker, title, government, date, type, a short exact quote under 15 words or a close paraphrase, any dollar figure, link. Named officials or bodies only. Note pairings with spending items from the same government in one plain line.
+
+## 3. News
+WebSearch (several in parallel) and WebFetch: stories from the last 48 hours in Florida outlets on the scope above. At least 8 distinct searches, including one each aimed at Miami-Dade County, West Palm Beach, Leon County and Manatee County (not in the agenda feed), and one per project in committed_projects.json.
+
+## 4. Creators
+Search YouTube and the web for videos or posts from the last 7 days by creators (including Florida real estate agents) on wasteful municipal spending in Florida. List channel and link.
+
+## 5. Output (tight, no em-dashes; every item line ends with a working link; drop anything you cannot link)
+- Header: date; counts: items in daily file, pending items in it, items reported, committed-project matches, statements, outgoing grants, private benefit items, news, creators, rows added to queue, duplicates handled, possible duplicates flagged, items flagged for review.
+- NEEDS YOUR REVIEW (first, only if any): government, short description, your call, the question, link.
+- COMING UP FOR A VOTE: pending items reported (committed-project votes first), by meeting date: days until meeting, government, body and date, what approval is ahead, category, description, amount and share of paying fund, project total if part of a larger project, stated shortfall if known, your call, link.
+- COMMITTED PROJECTS: every match; "LIST UPDATE:" line with source for any new vote, cost or status; else "No new activity."
+- ALREADY ON THE RECORD: non-pending items reported, same fields, "Outcome not verified" unless the clerk result is known.
+- OFFICIAL STATEMENTS; OUTGOING GRANTS (mark private benefit); PRIVATE BENEFIT; RECURRING RECIPIENTS; NO-BID / BYPASS; NEWS (headline as published, outlet, date, government, figure, category, link; no "waste" labels); CREATORS.
+- SOURCE NOTES: 2 to 4 lines on what produced the most, false-positive patterns, broken links, dead ends.
+Only include items you opened or the source clearly supports; never invent links, dates, figures, quotes or names.
+
+## 6. Review queue write
+Append one row to "Queue" for every item reported in COMING UP FOR A VOTE, COMMITTED PROJECTS, ALREADY ON THE RECORD, OFFICIAL STATEMENTS, OUTGOING GRANTS, PRIVATE BENEFIT, NO-BID / BYPASS and NEWS whose Item ID is not already in either sheet, except confident duplicates. Item ID: the item's id; "stmt|" + URL for statements; "news|" + URL for news. Values under matching headers: Decision (null), Suggested (null for statements), Note (null), Government, Description (under 300 characters, with share of the paying fund as "(X% of general fund)" or "(X% of [government]'s [enterprise / special revenue / capital projects / internal service] funds)"; for pending items say what approval is ahead; "Direction unclear" if unclear), Shortfall context, Amount (negative when received), Link, Stage (upcoming, early_warning, pending_final, past_meeting, statement or news), Meeting date, Category (include private_benefit, large_spending, receipt where they apply), Score, Digest section, Added (today), Item ID, Project ID ("cp:" + id for a committed-project match), Tracked project total, Possible duplicate, Needs your review.
+Duplicates against existing rows: (a) confident duplicate: do not add; you may append one short sentence to the existing row's Description (e.g. "Also approved by the City Commission (Nov 18)."). (b) uncertain: add the row and mark EVERY row in the set in Possible duplicate with the same label "Group X: possible duplicate." plus a reason, X the next unused letter. (c) separate: flag nothing. Archive-only matches go in the Description, not the Possible duplicate column.
+Writing: readSheets, then one applyEdits with base = the revision you read, holding the new rows and the allowed edits to existing rows only. Other tasks may be writing: if refused for its base, read again and retry up to three times. Never change or clear other cells; never delete rows. In "Backlog", only the Description and Possible duplicate edits above are allowed.
