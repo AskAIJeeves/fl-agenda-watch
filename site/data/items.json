@@ -4495,7 +4495,7 @@
     "Grants to outside groups",
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": null,
    "added": "2026-11-16"
   },
@@ -8280,6 +8280,863 @@
    ],
    "featured": false,
    "project_total": 92000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "0c7cc3f5a9",
+   "government": "Sanford",
+   "governments": [
+    "Sanford"
+   ],
+   "level": "city",
+   "counties": [
+    "Seminole"
+   ],
+   "description": "City Commission: special event funding for the \"Love Your Shorts Film Festival\"; amount not shown in agenda title. Outcome not verified.",
+   "shortfall": "Nov 16 (Fortune): Commissioner Patrick Austin: \"The voters have said we want less fees.\" City expects to lose about $15M in property tax revenue over two years.",
+   "amount": null,
+   "link": "https://sanfordfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=448#page=4",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-11-09",
+   "categories": [
+    "Grants to outside groups",
+    "Events, art & branding",
+    "Private benefit"
+   ],
+   "featured": true,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "e98ffc7dab",
+   "government": "Sanford",
+   "governments": [
+    "Sanford"
+   ],
+   "level": "city",
+   "counties": [
+    "Seminole"
+   ],
+   "description": "City Commission: funding for images for the 2027 Sanford Historic Trust Calendar; amount not shown in agenda title. Outcome not verified.",
+   "shortfall": "Nov 16 (Fortune): Commissioner Patrick Austin: \"The voters have said we want less fees.\" City expects to lose about $15M in property tax revenue over two years.",
+   "amount": null,
+   "link": "https://sanfordfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=432#page=4",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-09-28",
+   "categories": [
+    "Grants to outside groups",
+    "Events, art & branding",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "84c2789457",
+   "government": "Palmetto Bay",
+   "governments": [
+    "Palmetto Bay"
+   ],
+   "level": "city",
+   "counties": [
+    "Miami-Dade"
+   ],
+   "description": "Palmetto Bay Village Council: amends Res. 2024-66 to raise funding for design-build and construction of a pickleball center on village-owned property from $1,676,564.82 to up to $3,324,512.73, contract with Waypoint Contracting, Inc. (15.3% of general fund). Outcome not verified",
+   "shortfall": null,
+   "amount": 3324512.73,
+   "link": "https://palmettobay.granicus.com/AgendaViewer.php?view_id=3&clip_id=2067#page=1",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2025-07-07",
+   "categories": [
+    "Grants to outside groups",
+    "Buildings & facilities",
+    "Events, art & branding"
+   ],
+   "featured": false,
+   "project_total": 3324500.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "e6228ebc2c",
+   "government": "Stuart",
+   "governments": [
+    "Stuart"
+   ],
+   "level": "city",
+   "counties": [
+    "Martin"
+   ],
+   "description": "Stuart CRA Res. 11-2020: mural matching grant of $3,000 to Dehon Building Investors, LLC to install a mural on the exterior eastern wall of the Dehon Building (0.04% of Stuart's special revenue funds). Outcome not verified",
+   "shortfall": null,
+   "amount": 3000.0,
+   "link": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=350#page=1",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2020-10-26",
+   "categories": [
+    "Grants to outside groups",
+    "Events, art & branding",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": 3000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "b28f022920",
+   "government": "Sanford",
+   "governments": [
+    "Sanford"
+   ],
+   "level": "city",
+   "counties": [
+    "Seminole"
+   ],
+   "description": "Sanford City Commission: special event funding of $2,000 for the \"9th Annual Jazz in the Park\" on October 17, 2026 at Centennial Park (0.002% of general fund). Outcome not verified",
+   "shortfall": "Nov 16 (Fortune): Commissioner Patrick Austin, on a possible fire assessment fee: \"The voters have said we want less fees.\" City expects to lose about $15M in property tax revenue over two years.",
+   "amount": 2000.0,
+   "link": "https://sanfordfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=427#page=3",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-08-24",
+   "categories": [
+    "Grants to outside groups",
+    "Events"
+   ],
+   "featured": false,
+   "project_total": 2000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "ac8dc69c90",
+   "government": "Sunrise",
+   "governments": [
+    "Sunrise"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "Sunrise City Commission: appropriates $475,000 of fund balance and transfers it to the General Capital Improvements Fund for additional construction costs and updates to City Hall, Municipal Campus Expansion project (0.27% of general fund). Outcome not verified",
+   "shortfall": null,
+   "amount": 475000.0,
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1009#page=178",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2024-05-28",
+   "categories": [
+    "Grants to outside groups",
+    "Buildings & facilities"
+   ],
+   "featured": false,
+   "project_total": 475000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "09ba8d89d8",
+   "government": "Okeechobee County",
+   "governments": [
+    "Okeechobee County"
+   ],
+   "level": "county",
+   "counties": [
+    "Okeechobee"
+   ],
+   "description": "Okeechobee County Tourist Development Council: considers a $12,000 host funding application from Florida Equine Disaster Response for the Cowtown Classic events (0.04% of Okeechobee County's special revenue funds). Outcome not verified",
+   "shortfall": null,
+   "amount": 12000.0,
+   "link": "https://okeechobee.granicus.com/AgendaViewer.php?view_id=1&clip_id=4323#page=1",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-09-09",
+   "categories": [
+    "Grants to outside groups",
+    "Events"
+   ],
+   "featured": false,
+   "project_total": 12000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "b23047b36c",
+   "government": "Coral Springs",
+   "governments": [
+    "Coral Springs"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "Coral Springs CRA: request to approve a grant application from Deco Inn Inc. Amount not shown in agenda. Outcome not verified",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=259#page=1",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2025-04-29",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "ff2c1665cb",
+   "government": "Delray Beach",
+   "governments": [
+    "Delray Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Palm Beach"
+   ],
+   "description": "Delray Beach CRA Sep 24, 2026: first amendment to the Site Development Funding Assistance Agreement with Sun Up Skin, LLC (98 NW 5th Avenue). Amount not in feed text. Outcome not verified.",
+   "shortfall": "Nov 12 (Florida Today): Delray Beach loss from Amendment 3 estimated at $21M; Commissioner Casale puts it closer to $11M.",
+   "amount": null,
+   "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3599#page=5",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-09-24",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "b48f9d43b0",
+   "government": "Delray Beach",
+   "governments": [
+    "Delray Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Palm Beach"
+   ],
+   "description": "Delray Beach City Commission Sep 22, 2026: three-year funding agreement with Junior Achievement of Broward County, a grant of $50,000 per year ($150,000 total) (0.08% of general fund). Outcome not verified.",
+   "shortfall": "Nov 12 (Florida Today): Delray Beach loss from Amendment 3 estimated at $21M; Commissioner Casale puts it closer to $11M.",
+   "amount": 150000.0,
+   "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3593#page=12",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-09-22",
+   "categories": [
+    "Grants to outside groups"
+   ],
+   "featured": false,
+   "project_total": 150000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "0ea5b255d7",
+   "government": "Pinecrest",
+   "governments": [
+    "Pinecrest"
+   ],
+   "level": "city",
+   "counties": [
+    "Miami-Dade"
+   ],
+   "description": "Pinecrest Village Council Feb 11, 2025: waives competitive bidding and authorizes an agreement with Zoo Solutions for a Pinecrest Gardens feasibility study. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=763#page=4",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2025-02-11",
+   "categories": [
+    "No competitive bidding",
+    "Consultants"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "5de4b14004",
+   "government": "Coconut Creek",
+   "governments": [
+    "Coconut Creek"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "Coconut Creek City Commission Res 2026-142: Neighborhood Enhancement Grant matching funds to Cayman Village Condominium Association for energy conservation enhancements. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2473#page=3",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-09-10",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "1cbda15331",
+   "government": "Coral Springs",
+   "governments": [
+    "Coral Springs"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "Coral Springs City Commission: Economic Development Incentive Program grant of up to $50,000 to PERF OPCO, LLC, from the approved operating budget. Outcome not verified.",
+   "shortfall": null,
+   "amount": 50000.0,
+   "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=257#page=2",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2025-04-03",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": 50000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "d005ed9583",
+   "government": "Sunrise",
+   "governments": [
+    "Sunrise"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "Sunrise City Commission: contract for commission and purchase of public art with the Next Earth Project d/b/a In Theory Art Collective for two entryway sculptures in the Village Art Plaza. Amount not stated in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=979#page=3",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2024-02-27",
+   "categories": [
+    "Grants to outside groups",
+    "Events, art & branding"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "948016ff25",
+   "government": "Coconut Creek",
+   "governments": [
+    "Coconut Creek"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "Coconut Creek City Commission Res 2026-059: agreement with Becker & Poliakoff, P.A. for federal lobbying and funding advocacy services under RFP 04-29-26-11. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2328#page=3",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-06-11",
+   "categories": [
+    "Grants to outside groups",
+    "Perks for officials"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "0c0a7433fb",
+   "government": "Oakland Park",
+   "governments": [
+    "Oakland Park"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "Oakland Park City Commission: up to $640,000 as the city's financial support (loan per term sheet) for Phase II of a developer's project seeking Florida Housing Finance Corporation tax credits (0.69% of general fund). Outcome not verified.",
+   "shortfall": null,
+   "amount": 640000.0,
+   "link": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4538#page=1",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-08-05",
+   "categories": [
+    "Grants to outside groups",
+    "Borrowing & debt",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": 640000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "aba88a1f79",
+   "government": "Coconut Creek",
+   "governments": [
+    "Coconut Creek"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "Coconut Creek City Commission Res 2025-178: Neighborhood Enhancement Grant to The Landings at Victoria Isles Homeowners Association for a multi-phase landscape design project. Amount not in feed text. Outcome not verified. May repeat an existing entry (2026-01-22).",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2208#page=5",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2025-11-13",
+   "categories": [
+    "Grants to outside groups",
+    "Consultants",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "e1c4fb4992",
+   "government": "Lake Wales",
+   "governments": [
+    "Lake Wales"
+   ],
+   "level": "city",
+   "counties": [
+    "Polk"
+   ],
+   "description": "Lake Wales CRA: Grove Manor funding contribution request for Phase II. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=1028#page=1",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-10-13",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "8591384103",
+   "government": "Boynton Beach",
+   "governments": [
+    "Boynton Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Palm Beach"
+   ],
+   "description": "Boynton Beach CRA Board: consideration of a request for funding for the City View Apartments at the SW corner of Federal Highway and SE 5th Avenue. Amount not stated in item text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=277#page=1",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2025-05-13",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "96982ea469",
+   "government": "Coconut Creek",
+   "governments": [
+    "Coconut Creek"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "Coconut Creek City Commission Res 2026-143: Neighborhood Enhancement Grant matching funds to Tall Trees Homeowners Association for a beautification project. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2473#page=3",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-09-10",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "de8430f2b1",
+   "government": "Dunedin",
+   "governments": [
+    "Dunedin"
+   ],
+   "level": "city",
+   "counties": [
+    "Pinellas"
+   ],
+   "description": "City Commission: Leland Chase Outdoor Gallery Public Art Project Phase II at the Wastewater Treatment Plant; artwork selection, stipend and installation by Speed Pro Imaging/Printing, not to exceed $6,000 (0.02% of general fund). Outcome not verified.",
+   "shortfall": null,
+   "amount": 6000.0,
+   "link": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3479#page=2",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2025-07-17",
+   "categories": [
+    "No competitive bidding",
+    "Events, art & branding",
+    "Buildings & facilities"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "258c39888d",
+   "government": "Sunrise",
+   "governments": [
+    "Sunrise"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission: appropriates $1,550,000 of fund balance and transfers it to the Springtree Golf Club Fund for golf cart path upgrades tied to the Springtree Wellfield project and The Bridges at Springtree Golf Club (0.87% of general fund). Outcome not verified.",
+   "shortfall": null,
+   "amount": 1550000.0,
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1009#page=178",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2024-05-28",
+   "categories": [
+    "Grants to outside groups",
+    "Buildings & facilities"
+   ],
+   "featured": false,
+   "project_total": 1550000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "49ea25dc0b",
+   "government": "Boynton Beach",
+   "governments": [
+    "Boynton Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Palm Beach"
+   ],
+   "description": "CRA Board: Commercial Property Improvement Grant of $50,000 to Driftwood 2005 LLC d/b/a Driftwood, 2005 S. Federal Highway. Outcome not verified.",
+   "shortfall": null,
+   "amount": 50000.0,
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=277#page=1",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2025-05-13",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": 50000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "a1695b7a7f",
+   "government": "Boynton Beach",
+   "governments": [
+    "Boynton Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Palm Beach"
+   ],
+   "description": "CRA Board: Commercial Rent Reimbursement Grant of $21,000 to AJF Dental LLC d/b/a Forbes Dental, 1315 N. Federal Highway, Suite 1. Outcome not verified.",
+   "shortfall": null,
+   "amount": 21000.0,
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=255#page=1",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2025-03-20",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": 21000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "4373739c1d",
+   "government": "Boynton Beach",
+   "governments": [
+    "Boynton Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Palm Beach"
+   ],
+   "description": "CRA Board: Commercial Business Marketing Grant Program award of $2,500 to Alchemy, Ocean Plaza, 640 East Ocean Avenue, Suite 18. Outcome not verified.",
+   "shortfall": null,
+   "amount": 2500.0,
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=259#page=1",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2025-04-08",
+   "categories": [
+    "Grants to outside groups",
+    "Events, art & branding",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": 2500.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "a6476ea7c4",
+   "government": "Marco Island",
+   "governments": [
+    "Marco Island"
+   ],
+   "level": "city",
+   "counties": [
+    "Collier"
+   ],
+   "description": "City Council: award of contract to Capital Contractors LLC for Racquet Center upgrades, $517,050 (1.58% of general fund). Outcome not verified.",
+   "shortfall": null,
+   "amount": 517050.0,
+   "link": "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2005#page=4",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-02-02",
+   "categories": [
+    "No competitive bidding",
+    "Borrowing & debt"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "8a16914caa",
+   "government": "Coconut Creek",
+   "governments": [
+    "Coconut Creek"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission Res 2026-008: Neighborhood Enhancement Grant to Crescent Creek Homeowners Association for a multi-phase landscape design project to redesign the street tree landscape master plan. Amount not stated. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2237#page=4",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-01-22",
+   "categories": [
+    "Grants to outside groups",
+    "Consultants",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "8b3cd370aa",
+   "government": "Pinecrest",
+   "governments": [
+    "Pinecrest"
+   ],
+   "level": "city",
+   "counties": [
+    "Miami-Dade"
+   ],
+   "description": "Village Council: waives competitive bidding and authorizes an agreement with the Dutch Urban Design Team (DUDT) for miscellaneous multimodal transportation consulting services. Amount not stated. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=758#page=5",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2024-12-10",
+   "categories": [
+    "No competitive bidding",
+    "Consultants"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "f7a938af68",
+   "government": "Crystal River",
+   "governments": [
+    "Crystal River"
+   ],
+   "level": "city",
+   "counties": [
+    "Citrus"
+   ],
+   "description": "City Council Res 25-R-13: $25,000 contribution to Friends of Crystal River National Wildlife Refuge to help fund two manatee viewing platforms, a wetland observation platform and a fishing pier/dock (0.24% of general fund). Outcome not verified.",
+   "shortfall": null,
+   "amount": 25000.0,
+   "link": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=321#page=2",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2025-08-25",
+   "categories": [
+    "Grants to outside groups"
+   ],
+   "featured": false,
+   "project_total": 25000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "71f453fa3c",
+   "government": "Bradenton",
+   "governments": [
+    "Bradenton"
+   ],
+   "level": "city",
+   "counties": [
+    "Manatee"
+   ],
+   "description": "CRA Board: Historic Preservation Grant request for a property located at 1206 Manatee Ave West. Amount not stated. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&event_id=477#page=1",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-11-18",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "118faea816",
+   "government": "Coconut Creek",
+   "governments": [
+    "Coconut Creek"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission Res 2026-133: Neighborhood Enhancement Grant matching funds to Martinique II-C Condominium Association; project purpose is cut off in the item text. Amount not stated. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2467#page=4",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-08-27",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "ee8958e4d9",
+   "government": "Sunrise",
+   "governments": [
+    "Sunrise"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission C24052: catering contract with the Seminole Tribe of Florida d/b/a Seminole Hard Rock Hotel & Casino Hollywood for the City of Sunrise Employee Appreciation Dinner. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=990#page=2",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2024-04-23",
+   "categories": [
+    "No competitive bidding",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "ea61c59530",
+   "government": "Coconut Creek",
+   "governments": [
+    "Coconut Creek"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission Res 2026-087: Neighborhood Enhancement Grant matching funds to Bermuda Village Condominium Association for security enhancements. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2328#page=3",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-06-11",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "6e62ee3f37",
+   "government": "Coral Springs",
+   "governments": [
+    "Coral Springs"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission item 7: Sports Event Grants totaling $9,000: $2,000 to College Hockey South, $2,000 to South Florida Water Polo Foundation, $5,000 to Masters Basketball Association (0.014% of Coral Springs's special revenue funds). Outcome not verified.",
+   "shortfall": null,
+   "amount": 9000.0,
+   "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=244#page=2",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2025-02-06",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": 9000.0,
    "added": "2026-11-19"
   }
  ]
