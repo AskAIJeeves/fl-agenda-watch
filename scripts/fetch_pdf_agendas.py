@@ -413,6 +413,7 @@ def main():
         d["pdf_sample"] = [c[0] for c in cands[:15]]
         def udate(u):
             uu = urllib.parse.unquote(u)
+            uu = re.sub(r"(?<!\d)202\d(\d)-(\d\d)-(\d\d)", r"202\1-\2-\3", uu)   # typo'd 5-digit years such as 20226-06-16
             m = re.search(r"(20\d\d)[-_ ]?(\d\d)[-_ ]?(\d\d)", uu)
             try:
                 if m and 1 <= int(m[2]) <= 12: return datetime(int(m[1]), int(m[2]), int(m[3]), tzinfo=timezone.utc)
