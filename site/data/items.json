@@ -5723,7 +5723,7 @@
    "categories": [
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 50000.0,
    "added": "2026-11-16"
   },
@@ -5870,7 +5870,7 @@
     "Events, art & branding",
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 750000.0,
    "added": "2026-11-16"
   },
@@ -6343,7 +6343,7 @@
     "Grants to outside groups",
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 1500000.0,
    "added": "2026-11-16"
   },
@@ -6774,7 +6774,7 @@
     "Buildings & facilities",
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 100000.0,
    "added": "2026-11-16"
   },
@@ -7740,6 +7740,178 @@
    ],
    "featured": false,
    "project_total": 4800.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "c93dc9874f",
+   "government": "Dania Beach",
+   "governments": [
+    "Dania Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission: four statements of work with Entech Computer Services, LLC for IT managed services and onsite staff augmentation over a three-year term, $677,522.88 total base expenditure, competitive bidding waived. Outcome not verified.",
+   "shortfall": null,
+   "amount": 677522.88,
+   "link": "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3541,plainText=false)#page=4",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "No competitive bidding"
+   ],
+   "featured": true,
+   "project_total": 677500.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "b040d18338",
+   "government": "Jacksonville",
+   "governments": [
+    "Jacksonville"
+   ],
+   "level": "city",
+   "counties": [
+    "Duval"
+   ],
+   "description": "Finance Committee: Ord 2026-0867 appropriates $2,300,000 from General Fund operating reserves, including a $1,900,000 direct grant to United Way of Northeast Florida, Inc. for utility assistance; waives competitive award process; 25% advance (0.13% of general fund). Outcome not verified.",
+   "shortfall": "Nov 9 (Jacksonville Today): CAO Mike Weinstein: $150M to almost $200M less next budget; $300M by FY2028-29; library hours may be cut.",
+   "amount": 2300000.0,
+   "link": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=8992",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "Grants to outside groups",
+    "No competitive bidding"
+   ],
+   "featured": true,
+   "project_total": 2300000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "aba3871fbe",
+   "government": "Indian River County",
+   "governments": [
+    "Indian River County"
+   ],
+   "level": "county",
+   "counties": [
+    "Indian River"
+   ],
+   "description": "Board of County Commissioners: Additional Service #9 for $42,050, funded from the Sandridge Clubhouse & Event Space account. Recipient not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": 42050.0,
+   "link": "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3456,plainText=false)#page=313",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "Grants to outside groups"
+   ],
+   "featured": false,
+   "project_total": 42000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "1287b3cb9c",
+   "government": "Dania Beach",
+   "governments": [
+    "Dania Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission: request to use discretionary funds to support the D5K Walking Club Recruiting & Holiday Event, sponsored by Commissioner Davis. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3541,plainText=false)#page=3",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "Grants to outside groups"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "bc7468ed2c",
+   "government": "Fernandina Beach",
+   "governments": [
+    "Fernandina Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Nassau"
+   ],
+   "description": "City Commission: approves Freeman Well Drillers, Inc. as sole source vendor for FY2026/2027 evaluation and rehabilitation of the existing 12-inch well at the Golf Club, not to exceed $150,000. Outcome not verified.",
+   "shortfall": null,
+   "amount": 150000.0,
+   "link": "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12651,plainText=false)#page=4",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "No competitive bidding",
+    "Buildings & facilities"
+   ],
+   "featured": true,
+   "project_total": 150000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "d91f8ee4fb",
+   "government": "Dania Beach",
+   "governments": [
+    "Dania Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission: $2,000 city sponsorship of the Greater Dania Beach Chamber of Commerce First Responders Luncheon & Holiday Toy Drive, Dec 9, 2026 at the Marriott Dania Pointe (0.002% of general fund). Outcome not verified.",
+   "shortfall": null,
+   "amount": 2000.0,
+   "link": "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3542,plainText=false)#page=260",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "Grants to outside groups"
+   ],
+   "featured": false,
+   "project_total": 2000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "2f4d0b6fa6",
+   "government": "Jacksonville",
+   "governments": [
+    "Jacksonville"
+   ],
+   "level": "city",
+   "counties": [
+    "Duval"
+   ],
+   "description": "Rules Committee: Ord 2026-0848 moves $30,000 from the NE FL Immigrant Resource Alliance subsidy account to a direct grant to North Florida School of Special Education, Inc. (NFSSE) for Project Tracklift; waives competitive nonprofit award process (Sec 118.107) (0.002% of general fund). Outcome not verified.",
+   "shortfall": "Nov 9 (Jacksonville Today): CAO Mike Weinstein: $150M to almost $200M less next budget; $300M by FY2028-29; library hours may be cut.",
+   "amount": 30000.0,
+   "link": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=8973",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-16",
+   "categories": [
+    "Grants to outside groups",
+    "No competitive bidding",
+    "Private benefit"
+   ],
+   "featured": true,
+   "project_total": 30000.0,
    "added": "2026-11-19"
   }
  ]
