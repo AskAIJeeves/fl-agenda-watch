@@ -418,6 +418,8 @@ def main():
                 if m and 1 <= int(m[2]) <= 12: return datetime(int(m[1]), int(m[2]), int(m[3]), tzinfo=timezone.utc)
                 m = re.search(r"_(\d\d)(\d\d)(20\d\d)-", uu)  # CivicPlus _MMDDYYYY-
                 if m: return datetime(int(m[3]), int(m[1]), int(m[2]), tzinfo=timezone.utc)
+                m = re.search(r"(?<!\d)(\d\d)[.\-]?(\d\d)[.\-]?(20\d\d)(?!\d)", uu)  # MM.DD.YYYY or MMDDYYYY (Volusia)
+                if m and 1 <= int(m[1]) <= 12: return datetime(int(m[3]), int(m[1]), int(m[2]), tzinfo=timezone.utc)
             except ValueError: pass
             return None
         recent = [c for c in cands if not udate(c[0]) or (now - udate(c[0])).days <= 45]

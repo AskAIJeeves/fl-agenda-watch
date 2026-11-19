@@ -540,6 +540,17 @@
    "follow": "",
    "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
    "notes": "added 2026-11-16 from Granicus discovery probe"
+  },
+  {
+   "entity_id": "c-volusia",
+   "name": "Volusia County",
+   "platform": "listing",
+   "listing_urls": [
+    "https://www.volusia.org/government/county-council/county-council-meetings/actions.stml"
+   ],
+   "follow": "",
+   "pdf": "(?i)/file/5903/.*action-list.*\\.pdf",
+   "notes": "County Council action lists: each item with the council's action and vote, posted after the meeting. The agenda app (vcservices.vcgov.org) is a script-driven page and is not read yet."
   }
  ],
  "sequential": [
