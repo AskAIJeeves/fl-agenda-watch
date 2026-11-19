@@ -14,7 +14,7 @@ jobs:
           python-version: "3.12"
       - run: pip install openpyxl
       - run: pip install pypdf
-      - run: python scripts/probe_hcfl.py
+      - run: python scripts/probe_readers.py
       - name: Commit results
         run: |
           git config user.name "agenda-bot"
