@@ -121,6 +121,38 @@ main{padding-block:20px 56px}
 footer{border-top:1px solid var(--line);color:var(--muted);font-size:13px}
 footer .wrap{padding-block:18px 28px;display:grid;gap:6px}
 @media (prefers-reduced-motion:no-preference){.item:target{transition:background .4s}}
+
+/* Added: filter toggle, vote strip, projects, about */
+.filters .row2{display:contents}
+.ftoggle{display:none;font:600 13px var(--body);background:var(--chip);color:var(--ink);border:0;border-radius:999px;padding:6px 12px;cursor:pointer}
+@media (max-width:640px){
+  .ftoggle{display:inline-block}
+  .filters:not(.open) .row2{display:none}
+  .filters.open .row2{display:flex;flex-wrap:wrap;gap:8px;width:100%}
+}
+.indep{font-size:12px;color:var(--muted);letter-spacing:.02em}
+.strip{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:10px;padding:12px 14px;margin:0 0 26px}
+.strip h2{font:800 18px/1.2 var(--display);font-stretch:85%;text-transform:uppercase;margin:0 0 8px}
+.strip ol{list-style:none;margin:0;padding:0;display:grid;gap:6px}
+.strip li{display:grid;grid-template-columns:auto 1fr auto;gap:10px;align-items:baseline;font-size:14px}
+.strip .d{font-weight:700;color:var(--accent);white-space:nowrap;font-variant-numeric:tabular-nums}
+.strip a{text-decoration:none}
+.strip a:hover{text-decoration:underline}
+.strip .a{font-weight:700;font-variant-numeric:tabular-nums;white-space:nowrap}
+.strip .g{color:var(--muted)}
+.proj{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:16px 18px;margin:0 0 16px}
+.proj.pin{border-color:var(--accent);border-width:2px}
+.proj-h{display:flex;justify-content:space-between;align-items:baseline;gap:12px;flex-wrap:wrap}
+.proj-h h2{font:800 22px/1.1 var(--display);font-stretch:82%;margin:0}
+.proj .gv{font:700 13px var(--body);text-transform:uppercase;letter-spacing:.08em;color:var(--teal)}
+.proj .cost{font:800 26px/1 var(--display);font-stretch:85%;font-variant-numeric:tabular-nums}
+.proj dl{display:grid;grid-template-columns:max-content 1fr;gap:4px 14px;margin:12px 0 0;font-size:14px}
+.proj dt{color:var(--muted);font-weight:600}
+.proj dd{margin:0}
+.proj ul{margin:4px 0 0;padding-left:18px;font-size:14px}
+.sort{font-size:13px}
+@media (max-width:520px){.strip li{grid-template-columns:auto 1fr}.strip li a{grid-column:1 / -1;order:3}}
+.dl{font-size:13px;color:var(--teal);font-weight:600}
 </style>
 </head>
 <body>
@@ -129,12 +161,15 @@ footer .wrap{padding-block:18px 28px;display:grid;gap:6px}
     <a class="brand" href="#featured" aria-label="Florida Spending home">
       <span class="wordmark">Florida <span>Spending</span></span>
       <span class="tagline">Local government spending, found on the agenda before the vote.</span>
+      <span class="indep">Independent. Not affiliated with any government.</span>
     </a>
     <nav class="tabs" aria-label="Sections">
       <a href="#featured" data-view="featured">Featured</a>
       <a href="#all" data-view="all">All items</a>
+      <a href="#projects" data-view="projects">Big projects</a>
       <a href="#get-involved" data-view="get-involved">Get involved</a>
       <a href="#newsletter" data-view="newsletter">Newsletter</a>
+      <a href="#about" data-view="about">About</a>
     </nav>
   </div>
 </header>
@@ -142,25 +177,34 @@ footer .wrap{padding-block:18px 28px;display:grid;gap:6px}
 <div class="filters" id="filters">
   <div class="wrap">
     <label for="county-pick">County</label>
-    <select id="county-pick"><option value="">Add a county…</option></select>
+    <select id="county-pick"><option value="">Pick a county…</option></select>
     <div class="sel-chips" id="county-chips"></div>
-    <select id="cat-pick" aria-label="Category" hidden><option value="">All categories</option></select>
-    <select id="kind-pick" aria-label="Item type" hidden>
-      <option value="">Spending, statements and news</option>
-      <option value="spending">Spending items</option>
-      <option value="statement">Officials' statements</option>
-      <option value="news">News</option>
-    </select>
-    <input type="search" id="q" placeholder="Search items" aria-label="Search items" hidden>
+    <button class="ftoggle" id="ftoggle" type="button" aria-expanded="false" aria-controls="row2">More filters</button>
+    <div class="row2" id="row2">
+      <select id="cat-pick" aria-label="Category"><option value="">All categories</option></select>
+      <select id="kind-pick" aria-label="Item type">
+        <option value="">Spending, statements and news</option>
+        <option value="spending">Spending items</option>
+        <option value="statement">Officials' statements</option>
+        <option value="news">News</option>
+      </select>
+      <select id="sort-pick" class="sort" aria-label="Sort">
+        <option value="vote">Sort: next vote first</option>
+        <option value="amount">Sort: largest amount</option>
+        <option value="added">Sort: newest added</option>
+      </select>
+      <input type="search" id="q" placeholder="Search items" aria-label="Search items">
+    </div>
     <button class="clear" id="clear" type="button" hidden>Clear filters</button>
   </div>
 </div>
 
-<main class="wrap" id="main" aria-live="polite"></main>
+<main class="wrap" id="main" aria-live="polite"><!--STATIC-START--><p>Florida local government spending items from public agendas, updated 2026-11-18. Every item links to its public record.</p><h2>Up for a vote</h2><ul><li><b>Miami Beach</b> 2026-11-18: <strong>$450,000</strong> Commission R7 BC: allocates $450,000 from city share of Grand Theft Auto VI ad campaign revenue to Lummus Park lighting; waives Finance Committee referral for items over $75,000. Sponsor: Commissioner Monica Matteo-Salinas. <a href="https://miamibeachfl.primegov.com/Public/CompiledDocument?meetingTemplateId=6280&amp;compileOutputType=1#page=54">Source record</a></li><li><b>Daytona Beach</b> 2026-11-18: <strong>$5,000</strong> City Commission 8.F: $5,000 donation to Second Chance Collective, Inc. for its re-entry housing program; requested by Commissioner Ken Strickland. <a href="https://codb.civicweb.net/document/234179/City%20Commission%20-%20Nov%2018%202026.pdf?handle=D364D4CFA9E742549B93C4E9A5BC3FFB#page=111">Source record</a></li><li><b>Doral</b> 2026-11-18: Council: waives competitive bidding to contract with Art Foundation for People with Disabilities for theatre programming, 1 year plus four renewals; amount not stated (within budgeted funds). <a href="https://doral.legistar.com/gateway.aspx?M=L&amp;ID=9793">Source record</a></li><li><b>Miami Beach</b> 2026-11-18: <strong>$275,000</strong> Commission R7 AW: directs $275,000 for enhanced holiday decor and lighting along Ocean Drive and Lummus Park, with FY2027 budget amendment. Sponsor: Commissioner Laura Dominguez. <a href="https://miamibeachfl.primegov.com/Public/CompiledDocument?meetingTemplateId=6280&amp;compileOutputType=1#page=52">Source record</a></li><li><b>Miami Beach</b> 2026-11-18: <strong>$246,057</strong> Commission R7 AS: waives competitive bidding by 5/7 vote to buy existing golf course lawn equipment fleet from EFE, Inc., up to $246,057.27. <a href="https://miamibeachfl.primegov.com/Public/CompiledDocument?meetingTemplateId=6280&amp;compileOutputType=1#page=51">Source record</a></li><li><b>Pasco County</b> 2026-11-18: <strong>$5,000</strong> Tourist Development Council: Group Meeting Incentive funding up to $5,000 for the National Council of School Safety Directors National Conference. <a href="https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12095,plainText=false)#page=23">Source record</a></li><li><b>St. Petersburg</b> 2026-11-19: <strong>$2.2M</strong> City Council: up to $2,200,000 in South St. Pete CRA TIF funds to Hunter Brady SPV II, LLC for Ease on 5th multifamily housing. <a href="https://www.stpete.org/2026-11-19%20Agenda%20Packet%20(compressed).pdf?t=202611061050570#page=186">Source record</a></li><li><b>St. Petersburg</b> 2026-11-19: <strong>$400,000</strong> City Council: up to $400,000 in Housing Capital Improvement Program funds to Namaste 1616, LLC for 16th Square Townhomes Phase 2 (4 for-sale units). <a href="https://www.stpete.org/2026-11-19%20Agenda%20Packet%20(compressed).pdf?t=202611061050570#page=171">Source record</a></li><li><b>Tallahassee</b> 2026-11-19: <strong>$150,000</strong> CRA Board: staff recommends funding the Downtown Placemaking Program, not to exceed $150,000. <a href="https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1079,plainText=false)#page=83">Source record</a></li><li><b>Tallahassee</b> 2026-11-19: <strong>$56,920</strong> CRA Board: Commercial Property Improvement Program grant of $56,920 for exterior improvements at 1229 W. Tharpe Street. <a href="https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1079,plainText=false)#page=9">Source record</a></li></ul><h2>Featured</h2><ul><li><b>Jacksonville</b> 2026-11-16: <strong>$2M</strong> Rules Committee: Ord 2026-0810 appropriates $2,000,000 from General Fund operating reserves to Junior Achievement of North Florida, Inc. for its Experiential Learning Center; waives competitive nonprofit award process (Sec 118.107). Introduced by CM Diamond. <a href="https://jaxcityc.legistar.com/gateway.aspx?M=L&amp;ID=8928">Source record</a></li><li><b>Jacksonville</b> 2026-11-16: <strong>$900,000</strong> Rules Committee: Ord 2026-0809 appropriates $900,000 from General Fund operating reserves to Wareworks, Inc. for an Electrical Apprenticeship Training Center program; waives competitive nonprofit award process (Sec 118.107). Introduced by CM Diamond. <a href="https://jaxcityc.legistar.com/gateway.aspx?M=L&amp;ID=8927">Source record</a></li><li><b>Jacksonville</b> 2026-11-16: <strong>$3M</strong> Rules Committee: Ord 2026-0677 amended redevelopment agreement with Springfield Lofts, LLC: $3,000,000 completion grant plus $3,000,000 20-year loan; waives Public Investment Policy and lien rules. <a href="https://jaxcityc.legistar.com/gateway.aspx?M=L&amp;ID=8783">Source record</a></li><li><b>Fort Lauderdale</b> 2026-11-17: <strong>$500,000</strong> City Commission: FY2027 Not for Profit Grant Participation Agreement with Nova Southeastern University, Inc. for the NSU Art Museum, $500,000. <a href="https://fortlauderdale.legistar.com/gateway.aspx?M=L&amp;ID=21985">Source record</a></li><li><b>Palm Beach County</b> 2026-11-17: <strong>$100M</strong> BCC: CM at Risk contract for a new third county office building at the I-95/Southern Blvd complex: about 159,000 sq ft, five stories, multi-level parking garage. Feed amount $100M; contract value not verified. <a href="https://discover.pbcgov.org/countycommissioners/Agenda_Master/20261117.pdf#page=17">Source record</a></li><li><b>Pasco County</b> 2026-11-17: <strong>$21M</strong> BCC C23: economic incentive agreement with H. Lee Moffitt Cancer Center and Research Institute, Inc., $21,000,000. <a href="https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12082,plainText=false)#page=6">Source record</a></li></ul><h2>Big projects</h2><ul><li><b>City of Fort Lauderdale</b>: New City Hall (developer-built, FTL City Hall Partners), $217.1M. Preliminary approval; comprehensive agreement vote still ahead</li><li><b>Hillsborough County</b>: Tampa Bay Rays ballpark (Hillsborough College Dale Mabry campus), $796M. Approved; funding being appropriated in stages</li><li><b>Hillsborough County</b>: Benchmark International Arena renovation (Tampa Bay Lightning), $358.5M. Approved; reimbursements paid as renovation work is completed</li><li><b>Broward County</b>: New Broward County Government Center, $322M. Approved; spending status to be verified</li><li><b>City of Jacksonville</b>: RD River City Brewery / South Bank Residences (Related Group), Southbank incentives, $58.8M. Under construction (groundbreaking May 2026; permit at $150M vs $202.74M projected in 2024); completion grant paid at completion</li></ul><h2>More items</h2><ul><li><b>Deerfield Beach</b> 2026-11-05: <strong>$1.1M</strong> CRA presentation: FY2027-29 CIP includes about $1.1M for Cove Shopping Center signage, landscaping and hardscaping, plus branding and lighting bollards, and about $1.6M for a Museum of Discovery and Science nature center. Outcome not verified. <a href="https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3339,plainText=false)#page=47">Source record</a></li><li><b>Melbourne</b> 2026-11-10: City Manager memo: staff plans to bring a piggyback contract with Accenture for a fire assessment fee study to the Dec 8 meeting, after Council direction tied to Amendment 3 revenue loss. <a href="https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10190,plainText=false)#page=34">Source record</a></li><li><b>Daytona Beach</b> 2026-11-11: <strong>$8,000</strong> Beachside Redevelopment Board packet: Bullseye Marketing sponsorship proposal of $8,000 for New Year&#x27;s Eve on Main Street (stages, ball drop, fireworks). Outcome not verified. <a href="https://codb.civicweb.net/document/233988/Beachside%20Redevelopment%20Board%20-%20Nov%2011%202026.pdf?handle=936AB0C6C6B546F3ACCEF75D459AC779#page=58">Source record</a></li><li><b>Lee County</b> 2026-11-17: <strong>$185,001</strong> BCC item 29: single source purchase from Saffire LLC of a ticketing and admissions system for the Southwest Florida Ag Expo, 3 years, $185,001. <a href="https://leecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=898,plainText=false)#page=35">Source record</a></li><li><b>Lee County</b> 2026-11-17: <strong>$118,163</strong> BCC item 13: piggyback renewal of Gartner Research and Advisory Services for Human Resources, one year, $118,163. <a href="https://leecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=897,plainText=false)#page=5">Source record</a></li><li><b>North Port</b> 2026-11-17: <strong>$250,000</strong> City Commission: $250,000 contribution to the YMCA for construction of the YMCA Early Learning Facility at 1100 N Toledo Blade Blvd. <a href="https://cityofnorthport.legistar.com/gateway.aspx?M=L&amp;ID=21426">Source record</a></li><li><b>Palm Beach County</b> 2026-11-17: <strong>$1M</strong> BCC: ratify emergency contract with Archaeological and Historical Conservancy, Inc., up to $1,007,228.74, for Phase III archaeological assessment at Cam D. Milani Park, Highland Beach. <a href="https://discover.pbcgov.org/countycommissioners/Agenda_Master/20261117.pdf#page=31">Source record</a></li><li><b>Pasco County</b> 2026-11-17: <strong>$250,000</strong> Minutes in Nov 17 BCC packet: Commissioner Weightman moved, Yeager seconded, a $250,000 expenditure and agreement with a production company, cash-flowed from the general fund with intent to reimburse from tourist development funds. Outcome not verified. <a href="https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12083,plainText=false)#page=41">Source record</a></li><li><b>Pasco County</b> 2026-11-17: <strong>$315,000</strong> BCC C44: funding agreement with United Way of Pasco County, Inc. to support partner agencies, $315,000. <a href="https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12083,plainText=false)#page=156">Source record</a></li><li><b>Pasco County</b> 2026-11-17: <strong>$9.5M</strong> BCC R42: cooperative funding agreement with Pasco Economic Development Council, Inc., $9,500,000. <a href="https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12083,plainText=false)#page=106">Source record</a></li><li><b>Pasco County</b> 2026-11-17: <strong>$3.2M</strong> BCC R77: Confidential Project Wonka economic incentive agreement, $3,206,000. <a href="https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12083,plainText=false)#page=56">Source record</a></li><li><b>Pasco County</b> 2026-11-17: <strong>$2.4M</strong> BCC R27: cooperative funding agreement with AmSkills, Inc., $2,430,000. <a href="https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12083,plainText=false)#page=211">Source record</a></li></ul><!--STATIC-END--></main>
 
 <footer>
   <div class="wrap">
     <span>Items come from published agendas, meeting packets, official statements and Florida news coverage. Each one links to its source. Where an item says the outcome is not verified, check the minutes.</span>
+    <span>Independent. Not affiliated with any government. <a href="#about">How items are chosen</a></span>
     <span id="updated"></span>
   </div>
 </footer>
@@ -169,14 +213,21 @@ footer .wrap{padding-block:18px 28px;display:grid;gap:6px}
 const SITE_URL = "https://floridaspending.com/";
 /* Set to your Buttondown username once the newsletter account exists. */
 const BUTTONDOWN_USER = "";
+const FL_COUNTIES = ["Alachua","Baker","Bay","Bradford","Brevard","Broward","Calhoun","Charlotte","Citrus","Clay","Collier","Columbia","DeSoto","Dixie","Duval","Escambia","Flagler","Franklin","Gadsden","Gilchrist","Glades","Gulf","Hamilton","Hardee","Hendry","Hernando","Highlands","Hillsborough","Holmes","Indian River","Jackson","Jefferson","Lafayette","Lake","Lee","Leon","Levy","Liberty","Madison","Manatee","Marion","Martin","Miami-Dade","Monroe","Nassau","Okaloosa","Okeechobee","Orange","Osceola","Palm Beach","Pasco","Pinellas","Polk","Putnam","St. Johns","St. Lucie","Santa Rosa","Sarasota","Seminole","Sumter","Suwannee","Taylor","Union","Volusia","Wakulla","Walton","Washington"];
 
-const state = { items: [], updated: null, counties: [], cats: [], sel: [], cat: "", kind: "", q: "" };
+const state = { items: [], projects: [], updated: null, counties: [], cats: [], sel: [], cat: "", kind: "", q: "", sort: "vote" };
 const $ = (s) => document.querySelector(s);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const MONTHS = ["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"];
-const fmtDate = (iso) => { const [y,m,d] = iso.split("-").map(Number); return `${MONTHS[m-1]} ${d}`; };
+const DAYS = ["Sun","Mon","Tue","Wed","Thu","Fri","Sat"];
+const fmtDate = (iso) => { const [y,m,d] = String(iso).split("-").map(Number); return m && d ? `${MONTHS[m-1]} ${d}` : m ? `${MONTHS[m-1]}` : ""; };
+const fmtFull = (iso) => { const [y,m,d] = String(iso).split("-").map(Number); return d ? `${MONTHS[m-1]} ${d}, ${y}` : m ? `${MONTHS[m-1]} ${y}` : `${y}`; };
+const host = (u) => { try { return new URL(u).hostname.replace(/^www\./, ""); } catch { return "source"; } };
+const relDay = (iso) => { const d = daysBetween(todayISO(), iso); return d === 0 ? "Today" : d === 1 ? "Tomorrow" : fmtDay(iso); };
+const fmtDay = (iso) => { const [y,m,d] = iso.split("-").map(Number); return `${DAYS[new Date(y, m-1, d).getDay()]} ${MONTHS[m-1]} ${d}`; };
 const todayISO = () => { const t = new Date(); return `${t.getFullYear()}-${String(t.getMonth()+1).padStart(2,"0")}-${String(t.getDate()).padStart(2,"0")}`; };
 const daysBetween = (a, b) => Math.round((Date.parse(b) - Date.parse(a)) / 86400000);
+const isPending = (i) => i.kind === "spending" && i.meeting_date && i.meeting_date >= todayISO() && (i.stage === "upcoming" || i.stage === "early_warning");
 
 function money(n){
   if (n == null) return null;
@@ -195,7 +246,7 @@ function stagePill(it){
   if ((it.stage === "upcoming" || it.stage === "early_warning") && it.meeting_date){
     const d = daysBetween(t, it.meeting_date);
     if (d >= 0){
-      const when = d === 0 ? "today" : d === 1 ? "tomorrow" : `${fmtDate(it.meeting_date)} · in ${d} days`;
+      const when = d === 0 ? "today" : d === 1 ? "tomorrow" : `${fmtDay(it.meeting_date)} · in ${d} days`;
       const label = it.stage === "early_warning" ? "Workshop" : "Vote";
       return `<span class="pill pending">${label} ${when}</span>`;
     }
@@ -234,14 +285,24 @@ function filtered(featuredOnly){
   return state.items.filter(it =>
     (!featuredOnly || it.featured) &&
     (!state.sel.length || it.counties.some(c => state.sel.includes(c))) &&
-    (featuredOnly || !state.cat || it.categories.includes(state.cat)) &&
-    (featuredOnly || !state.kind || it.kind === state.kind) &&
-    (featuredOnly || !q || (it.description + " " + it.government).toLowerCase().includes(q)));
+    (!state.cat || it.categories.includes(state.cat)) &&
+    (!state.kind || it.kind === state.kind) &&
+    (!q || (it.description + " " + it.government + " " + it.categories.join(" ")).toLowerCase().includes(q)));
 }
 
-function nextVote(list){
-  const t = todayISO();
-  const d = list.filter(i => i.kind === "spending" && i.meeting_date && i.meeting_date >= t && i.stage !== "past_meeting").map(i => i.meeting_date).sort();
+function itemOrder(a, b){
+  if (state.sort === "amount") return Math.abs(b.amount || 0) - Math.abs(a.amount || 0);
+  if (state.sort === "added") return (b.added || "").localeCompare(a.added || "");
+  const pa = isPending(a), pb = isPending(b);
+  if (pa !== pb) return pa ? -1 : 1;
+  if (pa) return a.meeting_date.localeCompare(b.meeting_date) || Math.abs(b.amount || 0) - Math.abs(a.amount || 0);
+  return (b.meeting_date || "").localeCompare(a.meeting_date || "") || Math.abs(b.amount || 0) - Math.abs(a.amount || 0);
+}
+
+function groupKey(list){
+  if (state.sort === "amount") return -Math.max(0, ...list.map(i => Math.abs(i.amount || 0)));
+  if (state.sort === "added") return [...list.map(i => i.added || "")].sort().reverse()[0] || "";
+  const d = list.filter(isPending).map(i => i.meeting_date).sort();
   return d[0] || "9999";
 }
 
@@ -252,38 +313,53 @@ function groupByCounty(list){
     if (!map.has(c)) map.set(c, []);
     map.get(c).push(it);
   }
-  return [...map.entries()].sort((a, b) => nextVote(a[1]).localeCompare(nextVote(b[1])) || b[1].length - a[1].length || a[0].localeCompare(b[0]));
-}
-
-function govOrder(a, b){
-  const ac = a.endsWith("County"), bc = b.endsWith("County");
-  return ac === bc ? a.localeCompare(b) : ac ? -1 : 1;
+  const groups = [...map.entries()];
+  groups.sort((a, b) => {
+    const ka = groupKey(a[1]), kb = groupKey(b[1]);
+    const cmp = state.sort === "added" ? String(kb).localeCompare(String(ka)) : (typeof ka === "number" ? ka - kb : String(ka).localeCompare(String(kb)));
+    return cmp || b[1].length - a[1].length || a[0].localeCompare(b[0]);
+  });
+  return groups;
 }
 
 function countySection(county, list, withSaying){
   const byGov = new Map();
-  for (const it of list){ if (!byGov.has(it.government)) byGov.set(it.government, []); byGov.get(it.government).push(it); }
+  for (const it of [...list].sort(itemOrder)){ if (!byGov.has(it.government)) byGov.set(it.government, []); byGov.get(it.government).push(it); }
   let saying = "";
   if (withSaying){
     const st = state.items.filter(i => i.kind === "statement" && i.counties.includes(county)).sort((a, b) => (b.added || "").localeCompare(a.added || ""))[0];
     if (st) saying = `<div class="saying"><b>On the budget:</b> ${esc(st.description)} <a href="${esc(st.link)}" target="_blank" rel="noopener">Source ↗</a></div>`;
   }
-  const govs = [...byGov.keys()].sort(govOrder).map(g =>
+  const govs = [...byGov.keys()].map(g =>
     `<div class="gov"><h3 class="gov-h">${esc(g)}</h3>${byGov.get(g).map(itemHTML).join("")}</div>`).join("");
   const n = list.length;
   const name = county === "Other" ? "Other" : `${county} County`;
   return `<section class="county" aria-label="${esc(name)}"><div class="county-h"><h2>${esc(name)}</h2><span class="count">${n} item${n === 1 ? "" : "s"}</span></div>${saying}${govs}</section>`;
 }
 
-function renderFeatured(){
-  const list = filtered(true).filter(i => i.kind !== "statement");
+function voteStrip(list){
   const t = todayISO();
-  const pending = list.filter(i => i.kind === "spending" && i.meeting_date && i.meeting_date >= t && i.stage !== "past_meeting").length;
+  const soon = list.filter(i => isPending(i) && daysBetween(t, i.meeting_date) <= 14).sort((a, b) => a.meeting_date.localeCompare(b.meeting_date) || Math.abs(b.amount || 0) - Math.abs(a.amount || 0)).slice(0, 8);
+  if (!soon.length) return "";
+  return `<div class="strip"><h2>Up for a vote in the next two weeks</h2><ol>${soon.map(i =>
+    `<li><span class="d">${relDay(i.meeting_date)}</span><a href="#item-${i.id}"><span class="g">${esc(i.government)}:</span> ${esc(i.description.split(/[.;]/)[0].slice(0, 110))}</a><span class="a">${money(i.amount) || ""}</span></li>`).join("")}</ol></div>`;
+}
+
+function lede(title, list){
+  const pending = list.filter(isPending);
+  const dollars = pending.reduce((s, i) => s + Math.max(0, i.amount || 0), 0);
+  const groups = groupByCounty(list).length;
+  return `<div class="lede"><h1>${esc(title)}</h1><p><strong>${list.length}</strong> item${list.length === 1 ? "" : "s"} across <strong>${groups}</strong> count${groups === 1 ? "y" : "ies"} · <strong>${pending.length}</strong> still up for a vote${dollars ? `, <strong>${money(dollars)}</strong> in all` : ""}</p></div>`;
+}
+
+function scopeName(){ return state.sel.length ? state.sel.map(c => c + " County").join(", ") : "Florida"; }
+
+function renderFeatured(){
+  const list = filtered(true).filter(i => i.kind !== "statement" || state.kind === "statement");
   const groups = groupByCounty(list);
-  const scope = state.sel.length ? state.sel.map(c => c + " County").join(", ") : "Florida";
-  let html = `<div class="lede"><h1>Featured in ${esc(scope)}</h1><p><strong>${list.length}</strong> featured item${list.length === 1 ? "" : "s"} across <strong>${groups.length}</strong> count${groups.length === 1 ? "y" : "ies"} · <strong>${pending}</strong> still up for a vote</p></div>`;
+  let html = lede(`Featured in ${scopeName()}`, list) + voteStrip(list);
   html += groups.length ? groups.map(([c, l]) => countySection(c, l, true)).join("")
-    : `<div class="empty">No featured items for this county yet. <a class="more" href="#all">See all items</a></div>`;
+    : `<div class="empty">No featured items match these filters. <a class="more" href="#all">See all items</a></div>`;
   html += groups.length ? `<p><a class="more" href="#all">See every item, including the full archive →</a></p>` : "";
   $("#main").innerHTML = html;
 }
@@ -291,8 +367,25 @@ function renderFeatured(){
 function renderAll(){
   const list = filtered(false);
   const groups = groupByCounty(list);
-  let html = `<div class="lede"><h1>All items</h1><p><strong>${list.length}</strong> item${list.length === 1 ? "" : "s"} shown, grouped by county</p></div>`;
+  let html = lede(`All items in ${scopeName()}`, list) + `<p class="note" style="margin:-12px 0 20px"><a class="dl" href="data/items.csv" download>Download every item as a spreadsheet (CSV)</a></p>`;
   html += groups.length ? groups.map(([c, l]) => countySection(c, l, false)).join("") : `<div class="empty">Nothing matches these filters.</div>`;
+  $("#main").innerHTML = html;
+}
+
+function renderProjects(){
+  const list = state.projects.filter(p => !state.sel.length || (p.counties || []).some(c => state.sel.includes(c)));
+  const total = list.reduce((s, p) => s + (p.total_cost || 0), 0);
+  let html = `<div class="lede"><h1>Big projects in ${esc(scopeName())}</h1><p>Large spending already approved, with most of the money still to be paid out. <strong>${list.length}</strong> project${list.length === 1 ? "" : "s"}, <strong>${money(total) || "$0"}</strong> committed.</p></div>`;
+  html += list.length ? list.map(p => {
+    const votes = (p.votes || []).map(v => `<li>${esc(v.date ? fmtFull(v.date) : "Date not recorded")}: ${esc(v.body)}, ${esc(v.result)}. ${esc(v.action)}</li>`).join("");
+    const pay = p.annual_payment ? `${money(p.annual_payment)} a year${p.term_years ? ` for ${p.term_years} years` : ""}` : "";
+    const src = (p.sources || []).map(u => `<a href="${esc(u)}" target="_blank" rel="noopener">${esc(host(u))} ↗</a>`).join(" · ");
+    return `<article class="proj${p.pinned ? " pin" : ""}">
+      <div class="proj-h"><div><div class="gv">${esc(p.government)}</div><h2>${esc(p.project)}</h2></div><div class="cost">${money(p.total_cost) || ""}</div></div>
+      <dl>${pay ? `<dt>Payments</dt><dd>${esc(pay)}</dd>` : ""}${p.funding ? `<dt>Funding</dt><dd>${esc(p.funding)}</dd>` : ""}
+      <dt>Status</dt><dd>${esc(p.status || "")}</dd><dt>Next decision</dt><dd>${esc(p.next_decision || "Not scheduled")}</dd>
+      ${votes ? `<dt>Votes</dt><dd><ul>${votes}</ul></dd>` : ""}<dt>Sources</dt><dd>${src}</dd></dl></article>`;
+  }).join("") : `<div class="empty">No big projects tracked in this county yet.</div>`;
   $("#main").innerHTML = html;
 }
 
@@ -324,8 +417,29 @@ Email:</div>
   </div>`;
 }
 
+function renderAbout(){
+  $("#main").innerHTML = `<div class="page">
+  <h1>About</h1>
+  <p>Florida Spending lists local government spending decisions from the agendas of Florida counties, cities and special districts, with priority on items that have not been voted on yet. It is independent and not affiliated with any government, party or campaign.</p>
+  <h2>Where items come from</h2>
+  <p>Agendas and meeting packets from about 155 Florida governments are read every night. Items that involve money given to outside groups, public money that benefits specific private businesses or property, purchases that skip competitive bidding, large facilities, consultants, debt, events and perks for officials are pulled for review. Officials' public statements about budgets and Florida news coverage are added alongside them.</p>
+  <h2>How items are chosen</h2>
+  <p>Each item is scored on the same scale regardless of who receives the money: how essential the service is, novelty or vanity, benefit to officials or to specific private interests, whether competition was skipped, and whether it conflicts with the same government's stated budget shortfall. Recipients are named as they name themselves. Featured items are the ones a reviewer marked as most notable.</p>
+  <h2>What the labels mean</h2>
+  <ul>
+    <li><b>Vote</b> with a date: on an agenda that has not been voted on yet.</li>
+    <li><b>Meeting held, outcome not verified</b>: the meeting date has passed and the result has not been confirmed from the minutes.</li>
+    <li><b>Private benefit</b>: public money that improves or subsidizes specific private businesses or privately owned property.</li>
+    <li><b>Received</b> amounts (shown with a minus sign): money paid to the government, not spent by it.</li>
+    <li><b>Part of a tracked project</b>: the item is one step of a larger deal; the total counts each approval of the same money once and may not include steps that are not tracked.</li>
+  </ul>
+  <h2>Corrections</h2>
+  <p>Every item links to its public record. If an item is wrong or out of date, the source link is the place to check, and corrections are made as soon as they are confirmed.</p>
+  </div>`;
+}
+
 function renderNewsletter(){
-  const boxes = state.counties.map((c, i) => `<label><input type="checkbox" id="nl-c-${i}" value="${esc(c)}" ${state.sel.includes(c) ? "checked" : ""}> ${esc(c)}</label>`).join("");
+  const boxes = FL_COUNTIES.map((c, i) => `<label><input type="checkbox" id="nl-c-${i}" value="${esc(c)}" ${state.sel.includes(c) ? "checked" : ""}> ${esc(c)}</label>`).join("");
   $("#main").innerHTML = `<div class="page">
   <h1>The weekly email</h1>
   <p>One email a week with the spending items coming up for a vote in the counties you pick, each with its source link.</p>
@@ -350,38 +464,38 @@ async function subscribe(e){
   const body = new URLSearchParams({ email });
   tags.forEach(t => body.append("tag", t));
   try {
-    const r = await fetch(`https://buttondown.com/api/emails/embed-subscribe/${BUTTONDOWN_USER}`, { method: "POST", body, mode: "no-cors" });
+    await fetch(`https://buttondown.com/api/emails/embed-subscribe/${BUTTONDOWN_USER}`, { method: "POST", body, mode: "no-cors" });
     status.textContent = "Check your inbox to confirm your subscription.";
   } catch { status.textContent = "Signup did not go through. Try again in a minute."; }
 }
 
-const VIEWS = { featured: renderFeatured, all: renderAll, "get-involved": renderGuide, newsletter: renderNewsletter };
+const VIEWS = { featured: renderFeatured, all: renderAll, projects: renderProjects, "get-involved": renderGuide, newsletter: renderNewsletter, about: renderAbout };
+const LIST_VIEWS = new Set(["featured", "all", "projects"]);
+
+function currentView(){
+  const h = location.hash.slice(1);
+  if (h.startsWith("item-")){ const it = state.items.find(i => "item-" + i.id === h); return it && it.featured ? "featured" : "all"; }
+  return VIEWS[h] ? h : "featured";
+}
 
 function route(){
-  let h = location.hash.slice(1);
-  let target = null;
-  if (h.startsWith("item-")){ target = h; const it = state.items.find(i => "item-" + i.id === h); h = it && it.featured ? "featured" : "all"; }
-  if (!VIEWS[h]) h = "featured";
-  document.querySelectorAll("nav.tabs a").forEach(a => { if (a.dataset.view === h) a.setAttribute("aria-current","page"); else a.removeAttribute("aria-current"); });
-  const listView = h === "featured" || h === "all";
-  $("#filters").hidden = !listView;
-  ["#cat-pick", "#kind-pick", "#q"].forEach(s => $(s).hidden = h !== "all");
-  VIEWS[h]();
-  if (target){ const el = document.getElementById(target); if (el) el.scrollIntoView({ block: "center" }); }
+  const h = location.hash.slice(1);
+  const v = currentView();
+  document.querySelectorAll("nav.tabs a").forEach(a => { if (a.dataset.view === v) a.setAttribute("aria-current","page"); else a.removeAttribute("aria-current"); });
+  $("#filters").hidden = !LIST_VIEWS.has(v);
+  $("#row2").style.display = v === "projects" ? "none" : "";
+  $("#ftoggle").hidden = v === "projects";
+  VIEWS[v]();
+  if (h.startsWith("item-")){ const el = document.getElementById(h); if (el) el.scrollIntoView({ block: "center" }); }
 }
 
 function renderChips(){
   $("#county-chips").innerHTML = state.sel.map(c => `<button class="sel-chip" type="button" data-rm="${esc(c)}" aria-label="Remove ${esc(c)} County">${esc(c)} ×</button>`).join("");
-  $("#clear").hidden = !(state.sel.length || state.cat || state.kind || state.q);
+  $("#clear").hidden = !(state.sel.length || state.cat || state.kind || state.q || state.sort !== "vote");
   try { localStorage.setItem("fs-counties", JSON.stringify(state.sel)); } catch {}
 }
 
-function rerender(){
-  renderChips();
-  const h = location.hash.slice(1);
-  const v = VIEWS[h] || (h.startsWith("item-") ? (state.items.find(i => "item-" + i.id === h)?.featured ? renderFeatured : renderAll) : renderFeatured);
-  v();
-}
+function rerender(){ renderChips(); VIEWS[currentView()](); }
 
 document.addEventListener("click", async (e) => {
   const b = e.target.closest("[data-copy],[data-copy-el],[data-rm]");
@@ -397,8 +511,10 @@ document.addEventListener("click", async (e) => {
 $("#county-pick").addEventListener("change", (e) => { const v = e.target.value; if (v && !state.sel.includes(v)) state.sel.push(v); e.target.value = ""; rerender(); });
 $("#cat-pick").addEventListener("change", (e) => { state.cat = e.target.value; rerender(); });
 $("#kind-pick").addEventListener("change", (e) => { state.kind = e.target.value; rerender(); });
+$("#sort-pick").addEventListener("change", (e) => { state.sort = e.target.value; rerender(); });
 $("#q").addEventListener("input", (e) => { state.q = e.target.value; rerender(); });
-$("#clear").addEventListener("click", () => { state.sel = []; state.cat = ""; state.kind = ""; state.q = ""; $("#cat-pick").value = ""; $("#kind-pick").value = ""; $("#q").value = ""; rerender(); });
+$("#ftoggle").addEventListener("click", () => { const f = $("#filters"); const open = f.classList.toggle("open"); $("#ftoggle").setAttribute("aria-expanded", open); });
+$("#clear").addEventListener("click", () => { state.sel = []; state.cat = ""; state.kind = ""; state.q = ""; state.sort = "vote"; $("#cat-pick").value = ""; $("#kind-pick").value = ""; $("#q").value = ""; $("#sort-pick").value = "vote"; rerender(); });
 window.addEventListener("hashchange", route);
 
 async function load(){
@@ -410,7 +526,8 @@ async function load(){
     $("#main").innerHTML = `<div class="empty">The item list did not load. Refresh the page to try again.</div>`;
     return;
   }
-  state.counties = [...new Set(state.items.flatMap(i => i.counties))].filter(c => c !== "Other").sort();
+  try { const p = await (await fetch("data/projects.json", { cache: "no-cache" })).json(); state.projects = p.projects || []; } catch { state.projects = []; }
+  state.counties = [...new Set([...state.items.flatMap(i => i.counties), ...state.projects.flatMap(p => p.counties || [])])].filter(c => c !== "Other").sort();
   state.cats = [...new Set(state.items.flatMap(i => i.categories))].sort();
   $("#county-pick").insertAdjacentHTML("beforeend", state.counties.map(c => `<option value="${esc(c)}">${esc(c)} County</option>`).join(""));
   $("#cat-pick").insertAdjacentHTML("beforeend", state.cats.map(c => `<option value="${esc(c)}">${esc(c)}</option>`).join(""));

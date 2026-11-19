@@ -1,0 +1,170 @@
+{
+ "updated": "2026-11-18",
+ "projects": [
+  {
+   "id": "ftl-city-hall",
+   "government": "City of Fort Lauderdale",
+   "project": "New City Hall (developer-built, FTL City Hall Partners)",
+   "total_cost": 217100000,
+   "annual_payment": 15800000,
+   "term_years": 30,
+   "funding": null,
+   "votes": [
+    {
+     "date": "2026-07-02",
+     "body": "City Commission",
+     "result": "3-2",
+     "action": "Approved preliminary interim agreement; does not commit the city to the project or a comprehensive agreement"
+    }
+   ],
+   "status": "Preliminary approval; comprehensive agreement vote still ahead",
+   "next_decision": "Comprehensive agreement vote (date not yet known)",
+   "sources": [
+    "https://therealdeal.com/miami/2026/07/07/fort-lauderdale-oks-217-million-city-hall-development/",
+    "https://therealdeal.com/miami/2026/06/26/fort-lauderdale-city-hall-construction-item-back-for-a-vote/",
+    "https://www.gflalliance.org/news/2026/07/07/in-the-news/fort-lauderdale-backs-217-million-plan-for-new-city-hall-over-downtown-tower-renovations/"
+   ],
+   "pinned": true,
+   "counties": [
+    "Broward"
+   ]
+  },
+  {
+   "id": "hc-rays-ballpark",
+   "government": "Hillsborough County",
+   "project": "Tampa Bay Rays ballpark (Hillsborough College Dale Mabry campus)",
+   "total_cost": 796000000,
+   "annual_payment": null,
+   "term_years": null,
+   "funding": "County share up to $796M of a $2.36B project: $360M Community Investment Tax (pay-as-you-go over four years), $263M tourist development tax bonds plus reserves, up to $103M unrestricted county reserves, $30M federal disaster-recovery money",
+   "votes": [
+    {
+     "date": "2026-05-20",
+     "body": "Board of County Commissioners",
+     "result": "5-2",
+     "action": "Approved non-binding MOU"
+    },
+    {
+     "date": "2026-08-28",
+     "body": "Board of County Commissioners",
+     "result": "5-2",
+     "action": "Approved county funding share of up to $796M"
+    },
+    {
+     "date": "2026-11-10",
+     "body": "Board of County Commissioners",
+     "result": "5-2",
+     "action": "Appropriated $90M from the renewed CIT and adopted a master bond resolution for up to $263M in tourist development tax revenue bonds"
+    }
+   ],
+   "status": "Approved; funding being appropriated in stages",
+   "next_decision": "Further CIT appropriations and bond issuance",
+   "sources": [
+    "https://eagenda.hillsboroughcounty.org/portal/PTL29560/open/OBJ6LY568",
+    "https://eagenda.hillsboroughcounty.org/portal/PTL29560/open/OBJYQ1R18",
+    "https://www.foxsports.com/stories/mlb/tampa-bay-rays-new-stadium-approval",
+    "https://wusf.org/text/sports/2026-11-10/hillsborough-commissioners-advance-agenda-items-rays-stadium-financing",
+    "https://www.tampabay28.com/news/local-news/tampa-metro-west-hillsborough-county/rays-stadium-deal-here-is-where-each-hillsborough-county-commissioner-stands"
+   ],
+   "pinned": null,
+   "counties": [
+    "Hillsborough"
+   ]
+  },
+  {
+   "id": "hc-lightning-arena",
+   "government": "Hillsborough County",
+   "project": "Benchmark International Arena renovation (Tampa Bay Lightning)",
+   "total_cost": 358500000,
+   "annual_payment": null,
+   "term_years": null,
+   "funding": "County maximum raised by $250M to $358.5M, financed by tourist development tax revenue bonds; team and arena partners contribute $113.4M first, then the county reimburses",
+   "votes": [
+    {
+     "date": "2026-01-21",
+     "body": "Board of County Commissioners",
+     "result": "7-0",
+     "action": "Approved amended and restated Arena Renovation Improvements Agreement and lease extension through 2043"
+    }
+   ],
+   "status": "Approved; reimbursements paid as renovation work is completed",
+   "next_decision": "Bond issuance and reimbursement approvals",
+   "sources": [
+    "https://eagenda.hillsboroughcounty.org/portal/PTL29560/open/OBJ7Q3748",
+    "https://hcfl.gov/newsroom/2026/01/23/board-of-county-commissioners-meeting-recap-for-jan-21-2026",
+    "https://www.fox13news.com/news/new-lease-extension-commits-lightning-benchmark-arena-through-2043"
+   ],
+   "pinned": null,
+   "counties": [
+    "Hillsborough"
+   ]
+  },
+  {
+   "id": "broward-gov-center",
+   "government": "Broward County",
+   "project": "New Broward County Government Center",
+   "total_cost": 322000000,
+   "annual_payment": null,
+   "term_years": null,
+   "funding": null,
+   "votes": [
+    {
+     "date": "2023-11",
+     "body": "County Commission",
+     "result": "7-1",
+     "action": "Approved construction of new government center"
+    }
+   ],
+   "status": "Approved; spending status to be verified",
+   "next_decision": "To be determined",
+   "sources": [
+    "https://flvoicenews.com/?p=67809"
+   ],
+   "pinned": null,
+   "counties": [
+    "Broward"
+   ]
+  },
+  {
+   "id": "jax-southbank-related",
+   "government": "City of Jacksonville",
+   "project": "RD River City Brewery / South Bank Residences (Related Group), Southbank incentives",
+   "total_cost": 58790000,
+   "annual_payment": null,
+   "term_years": null,
+   "funding": null,
+   "votes": [
+    {
+     "date": "2021-06",
+     "body": "City Council",
+     "result": "unanimous",
+     "action": "Original redevelopment agreement, $18.27M incentives for 8-story version"
+    },
+    {
+     "date": "2024",
+     "body": "City Council",
+     "result": "unanimous",
+     "action": "New agreement: $39M completion grant plus $19.79M REV grant (75% property tax rebate over 15 years)"
+    },
+    {
+     "date": "2025",
+     "body": "City Council",
+     "result": "Pass per clerk",
+     "action": "Ord 2025-0640-E appropriates $39M, including $36,739,324 from the solid waste user fee account, for the city escrow obligation"
+    }
+   ],
+   "status": "Under construction (groundbreaking May 2026; permit at $150M vs $202.74M projected in 2024); completion grant paid at completion",
+   "next_decision": "Completion grant disbursement; REV grant payments over 15 years",
+   "sources": [
+    "https://www.jaxdailyrecord.com/news/2026/may/20/here-we-are-after-nearly-six-years-related-group-launches-work-on-downtown-jacksonville-high-rise/",
+    "https://www.jaxdailyrecord.com/news/2026/apr/08/mayor-donna-deegan-related-groups-tower-set-for-may-groundbreaking-in-downtown-jacksonville",
+    "https://jaxtoday.org/?p=73530",
+    "https://jacksonville.gov/city-council/docs/council-auditor/886-budget-summary-fiscal-year-2024-25.aspx"
+   ],
+   "pinned": null,
+   "counties": [
+    "Duval"
+   ]
+  }
+ ]
+}
