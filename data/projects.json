@@ -1,5 +1,5 @@
 {
-"generated_utc": "2026-11-19T17:34:31+00:00",
+"generated_utc": "2026-11-19T19:05:04+00:00",
 "projects": {
 "c-brevard|ref:file 6566": {
 "government": "Brevard County",
@@ -83341,6 +83341,76 @@
 "first_date": null,
 "last_date": null
 },
+"m-delraybeach|item:m-delraybeach|nodate|abb492d9|05a76d9eb7c7": {
+"government": "Delray Beach",
+"name": "Sponsors: Public Works Department and Purchasing Department Agenda Cover Report SS 2026-004 - SSES_Repair Invoice SS 2026-004 - SSES_Repair Invoice (Settlement)",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"m-delraybeach|item:m-delraybeach|nodate|abb492d9|2c410d2757c3": {
+"government": "Delray Beach",
+"name": "November 17, 2026City Commission Regular Commission Meeting Sponsors: Utilities Department Agenda Cover Report Item #26-1401_Water & Sewer Utility Easement Agre",
+"items": 1,
+"spend_total": 525000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-delraybeach|item:m-delraybeach|nodate|abb492d9|3930f14671c6": {
+"government": "Delray Beach",
+"name": "Sponsors: Development Services Department Agenda Cover Report (HPB 11-4) 714 NE 2nd Avenue Attachments: 6.O. AWARD OF BIDS AND CONTRACTS: APPROVAL OF 5 YEAR CON",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": null,
+"last_date": null
+},
+"m-delraybeach|item:m-delraybeach|nodate|abb492d9|52d9e8415fec": {
+"government": "Delray Beach",
+"name": "Sponsors: Public Works Department Agenda Cover Report Resolution. No. 172-26 Resolution. No. 172-26 - Legal Review upd. 11.9.26 Attachments: APPROVAL FOR ADDITI",
+"items": 1,
+"spend_total": 220000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-delraybeach|item:m-delraybeach|nodate|abb492d9|8b987c3ef275": {
+"government": "Delray Beach",
+"name": "Sponsors: Finance Department Agenda Cover Report Res. No. 156-26 10.26.26 Simple Legal Review Approval 156-26 Attachments: COMMUNITY REDEVELOPMENT AGENCY (CRA) ",
+"items": 1,
+"spend_total": 25000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-delraybeach|item:m-delraybeach|nodate|abb492d9|c1dfbf4d84d2": {
+"government": "Delray Beach",
+"name": "Sponsors: Fire Rescue Department Agenda Cover Report Request No. 26-1371 - Agreement Blood and Blood Component Supply Agreement Request No. 26-1371 - Legal Revi",
+"items": 1,
+"spend_total": 1522200.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
+"m-delraybeach|item:m-delraybeach|nodate|abb492d9|fb38f807a547": {
+"government": "Delray Beach",
+"name": "November 17, 2026City Commission Regular Commission Meeting Sponsors: Public Works Department Agenda Cover Report ILA ConstructionProfessional Services FY 2026-",
+"items": 1,
+"spend_total": 240000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": null,
+"last_date": null
+},
 "m-delraybeach|item:m-delraybeach|nodate|ac6a9ced|3b228478e631": {
 "government": "Delray Beach",
 "name": "2) Approve a work assignment between the Delray Beach Community Redevelopment Agency and The Tamara Peacock Company Architects of Florida, Inc. dba Peacock Arch",
@@ -83744,17 +83814,17 @@
 "m-delraybeach|ref:rfq 2025-006": {
 "government": "Delray Beach",
 "name": "November 17, 2026City Commission Regular Commission Meeting Agenda Cover Report RFQ No. 2025-013_Amendment No. 1 - A133 Modified Exhibit A.1 Modified Exhibit A.",
-"items": 2,
+"items": 3,
 "spend_total": 55818000.0,
 "receipts_total": null,
 "total_method": "distinct amounts summed",
 "first_date": null,
 "last_date": null
 },
-"m-delraybeach|ref:rfq 2025-013": {
+"m-delraybeach|ref:rfq 2025-012": {
 "government": "Delray Beach",
 "name": "Sponsors: Finance Department Agenda Cover Report Resolution No 166-26 lg rev Exhibit A 166-26 Rev1 Simple Legal Review Approval 166-26 Attachments: APPROVAL OF ",
-"items": 1,
+"items": 2,
 "spend_total": 113736900.0,
 "receipts_total": null,
 "total_method": "single amount",
@@ -166811,6 +166881,16 @@
 "first_date": "2026-11-10",
 "last_date": "2026-11-10"
 },
+"sd-orange|item:sd-orange|2026-11-10|66ab21e1|4764518dfe2e": {
+"government": "Orange County Public Schools",
+"name": "17.02 Request Approval of Resolution Authorizing the Acquisition of Fee Simple Title by Eminent Domain for the East River High School SR 50 Access Project (15.0",
+"items": 1,
+"spend_total": 94500.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-11-10",
+"last_date": "2026-11-10"
+},
 "sd-orange|item:sd-orange|2026-11-10|751a8f53|5b60f13557bf": {
 "government": "Orange County Public Schools",
 "name": "15.04 Request Approval of the Real Estate Purchase Agreement Between The School Board of Orange County, Florida and GS Crown Point, LLC d/b/a Elan Crown Point T",
@@ -175469,7 +175549,7 @@
 "m-delraybeach|nodate|5a6d8ae5|c7465989798b": "m-delraybeach|item:m-delraybeach|nodate|5a6d8ae5|c7465989798b",
 "m-delraybeach|nodate|625dcb7a|5f162ad801ff": "m-delraybeach|item:m-delraybeach|nodate|625dcb7a|5f162ad801ff",
 "m-delraybeach|nodate|63580ca5|05a76d9eb7c7": "m-delraybeach|item:m-delraybeach|nodate|63580ca5|05a76d9eb7c7",
-"m-delraybeach|nodate|63580ca5|0de6bd107917": "m-delraybeach|ref:rfq 2025-013",
+"m-delraybeach|nodate|63580ca5|0de6bd107917": "m-delraybeach|ref:rfq 2025-012",
 "m-delraybeach|nodate|63580ca5|2c410d2757c3": "m-delraybeach|item:m-delraybeach|nodate|63580ca5|2c410d2757c3",
 "m-delraybeach|nodate|63580ca5|3930f14671c6": "m-delraybeach|item:m-delraybeach|nodate|63580ca5|3930f14671c6",
 "m-delraybeach|nodate|63580ca5|52d9e8415fec": "m-delraybeach|item:m-delraybeach|nodate|63580ca5|52d9e8415fec",
@@ -175505,6 +175585,15 @@
 "m-delraybeach|nodate|9eed3a35|fcf9c345c125": "m-delraybeach|item:m-delraybeach|nodate|9eed3a35|fcf9c345c125",
 "m-delraybeach|nodate|a202d1c1|70ba9e38f41a": "m-delraybeach|item:m-delraybeach|nodate|a202d1c1|70ba9e38f41a",
 "m-delraybeach|nodate|a202d1c1|cd6afeea8506": "m-delraybeach|item:m-delraybeach|nodate|a202d1c1|cd6afeea8506",
+"m-delraybeach|nodate|abb492d9|05a76d9eb7c7": "m-delraybeach|item:m-delraybeach|nodate|abb492d9|05a76d9eb7c7",
+"m-delraybeach|nodate|abb492d9|0de6bd107917": "m-delraybeach|ref:rfq 2025-012",
+"m-delraybeach|nodate|abb492d9|2c410d2757c3": "m-delraybeach|item:m-delraybeach|nodate|abb492d9|2c410d2757c3",
+"m-delraybeach|nodate|abb492d9|3930f14671c6": "m-delraybeach|item:m-delraybeach|nodate|abb492d9|3930f14671c6",
+"m-delraybeach|nodate|abb492d9|52d9e8415fec": "m-delraybeach|item:m-delraybeach|nodate|abb492d9|52d9e8415fec",
+"m-delraybeach|nodate|abb492d9|8b987c3ef275": "m-delraybeach|item:m-delraybeach|nodate|abb492d9|8b987c3ef275",
+"m-delraybeach|nodate|abb492d9|9a837f86c82d": "m-delraybeach|ref:rfq 2025-006",
+"m-delraybeach|nodate|abb492d9|c1dfbf4d84d2": "m-delraybeach|item:m-delraybeach|nodate|abb492d9|c1dfbf4d84d2",
+"m-delraybeach|nodate|abb492d9|fb38f807a547": "m-delraybeach|item:m-delraybeach|nodate|abb492d9|fb38f807a547",
 "m-delraybeach|nodate|ac6a9ced|3b228478e631": "m-delraybeach|item:m-delraybeach|nodate|ac6a9ced|3b228478e631",
 "m-delraybeach|nodate|acaeded2|03069acaf981": "m-delraybeach|item:m-delraybeach|nodate|acaeded2|03069acaf981",
 "m-delraybeach|nodate|acaeded2|1ff81e94a486": "m-delraybeach|item:m-delraybeach|nodate|acaeded2|1ff81e94a486",
@@ -184472,6 +184561,7 @@
 "sd-orange|2026-11-10|039f09c8|98bc5f67d206": "sd-orange|item:sd-orange|2026-11-10|039f09c8|98bc5f67d206",
 "sd-orange|2026-11-10|0635440f|dd619e3f2ac1": "sd-orange|item:sd-orange|2026-11-10|0635440f|dd619e3f2ac1",
 "sd-orange|2026-11-10|2b264c24|32c7f933b576": "sd-orange|item:sd-orange|2026-11-10|2b264c24|32c7f933b576",
+"sd-orange|2026-11-10|66ab21e1|4764518dfe2e": "sd-orange|item:sd-orange|2026-11-10|66ab21e1|4764518dfe2e",
 "sd-orange|2026-11-10|751a8f53|5b60f13557bf": "sd-orange|item:sd-orange|2026-11-10|751a8f53|5b60f13557bf",
 "sd-orange|2026-11-10|7f0ca37f|39ef23e5fff0": "sd-orange|item:sd-orange|2026-11-10|7f0ca37f|39ef23e5fff0",
 "sd-orange|2026-11-10|94ed31ad|a6bc24a9bda6": "sd-orange|item:sd-orange|2026-11-10|94ed31ad|a6bc24a9bda6",

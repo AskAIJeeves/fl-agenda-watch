@@ -18855,9 +18855,35 @@
    ],
    "award_count": 1,
    "total_amount": 95000.0
+  },
+  "inflation reduction act grant for village park tree planting": {
+   "name": "Inflation Reduction Act Grant for the Village Park Tree Planting",
+   "awards": [
+    {
+     "entity_id": "m-wellington",
+     "government": "Wellington",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "G. 26-7845 RESOLUTION NO. R2026-37 RATIFYING THE AGREEMENT WITH THE FLORIDA DEPARTMENT OF AGRICULTURE AND CONSUMER SERVICES FOR THE PURPOSE OF RECEIVING A GRANT UNDER PROVISIONS OF THE INFLATION REDUCTION ACT PROGRAM FOR THE VILLAGE PARK TREE PLANTING PROJECT; AUTHORIZING THE SIGNATORY; AND RESOLUTI",
+     "link": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1806"
+    },
+    {
+     "entity_id": "m-wellington",
+     "government": "Wellington",
+     "meeting_date": null,
+     "amount": 50000.0,
+     "text": "August 10, 2026Village Council Workshop Meeting Agenda PROVISIONS OF THE INFLATION REDUCTION ACT PROGRAM FOR THE VILLAGE PARK TREE PLANTING PROJECT; AUTHORIZING THE SIGNATORY; AND RESOLUTION NO. R2026-38 FOR A BUDGET AMENDMENT TO ALLOCATE THE GRANT RESOLUTION NO. R2026-37 (RATIFYING THE AGREEMENT WI",
+     "link": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1805"
+    }
+   ],
+   "governments": [
+    "Wellington"
+   ],
+   "award_count": 2,
+   "total_amount": 100000.0
   }
  },
- "generated_utc": "2026-11-19T17:34:31+00:00",
+ "generated_utc": "2026-11-19T19:05:04+00:00",
  "multi_government": [
   "commission",
   "section",
