@@ -121,6 +121,7 @@ def main():
                                                   "funding", "votes", "status", "next_decision", "sources", "pinned")} | {"counties": cos})
     projects.sort(key=lambda p: (not p.get("pinned"), -(p.get("total_cost") or 0)))
     (ROOT / "site/data/projects.json").write_text(json.dumps({"updated": out["updated"], "projects": projects}, indent=1))
+    write_coverage(lookup)
     write_csv(items)
     write_snapshot(items, projects, out["updated"])
     print(f"site items: {len(items)} ({sum(i['featured'] for i in items)} featured); projects: {len(projects)}")
@@ -133,6 +134,37 @@ def money(n):
     if a >= 1e9: return f"{sign}${a/1e9:.2f}B".replace(".00B", "B")
     if a >= 1e6: return f"{sign}${a/1e6:.1f}M".replace(".0M", "M")
     return f"{sign}${a:,.0f}"
+
+
+def write_coverage(lookup):
+    """Governments whose agendas are read nightly and have produced items: config sources with archive entries."""
+    import sys
+    sys.path.insert(0, str(ROOT / "scripts"))
+    import archive_items
+    names = {}
+    for g in json.loads((ROOT / "config/governments.json").read_text())["governments"]:
+        names.setdefault(g["entity_id"], g["name"])
+    for k, v in json.loads((ROOT / "config/pdf_sources.json").read_text()).items():
+        if k.startswith("_") or not isinstance(v, list):
+            continue
+        for x in v:
+            if isinstance(x, dict) and x.get("entity_id") and not x.get("disabled"):
+                names.setdefault(x["entity_id"], x["name"])
+    seen = set()
+    for f in (ROOT / "data/archive").glob("*.json"):
+        seen.update(r.get("entity_id") for r in archive_items.load(str(f)).values())
+    by_county = {}
+    for eid, name in names.items():
+        if eid not in seen:
+            continue
+        _, cos = counties_for(name, lookup)
+        for c in cos:
+            by_county.setdefault(c, []).append(name)
+    for c in by_county:
+        by_county[c] = sorted(set(by_county[c]), key=lambda n: (not n.endswith("County"), n))
+    total = sum(1 for e in names if e in seen)
+    (ROOT / "site/data/coverage.json").write_text(json.dumps(
+        {"updated": date.today().isoformat(), "governments": total, "counties": dict(sorted(by_county.items()))}, indent=1))
 
 
 def write_csv(items):

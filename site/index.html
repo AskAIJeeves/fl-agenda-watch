@@ -206,7 +206,7 @@ footer .wrap{padding-block:18px 28px;display:grid;gap:6px}
 <footer>
   <div class="wrap">
     <span>Items come from published agendas, meeting packets, official statements and Florida news coverage. Each one links to its source. Where an item says the outcome is not verified, check the minutes.</span>
-    <span>Independent. Not affiliated with any government. <a href="#about">How items are chosen</a> · <button class="linkbtn" type="button" data-mail="tip">Submit a tip</button> · <button class="linkbtn" type="button" data-mail="contact">Contact us</button></span>
+    <span>Independent. Not affiliated with any government. <a href="#about">How items are chosen</a> · <a href="#coverage">Governments covered</a> · <button class="linkbtn" type="button" data-mail="tip">Submit a tip</button> · <button class="linkbtn" type="button" data-mail="contact">Contact us</button></span>
     <span id="updated"></span>
   </div>
 </footer>
@@ -428,6 +428,7 @@ function renderAbout(){
   <p>Florida Spending lists local government spending decisions from the agendas of Florida counties, cities and special districts, with priority on items that have not been voted on yet. It is independent and not affiliated with any government, party or campaign.</p>
   <h2>Where items come from</h2>
   <p>Agendas and meeting packets from about 155 Florida governments are read every night. Items that involve money given to outside groups, public money that benefits specific private businesses or property, purchases that skip competitive bidding, large facilities, consultants, debt, events and perks for officials are pulled for review. Officials' public statements about budgets and Florida news coverage are added alongside them.</p>
+  <p><a href="#coverage">See the full list of governments covered.</a></p>
   <h2>How items are chosen</h2>
   <p>Each item is scored on the same scale regardless of who receives the money: how essential the service is, novelty or vanity, benefit to officials or to specific private interests, whether competition was skipped, and whether it conflicts with the same government's stated budget shortfall. Recipients are named as they name themselves. Featured items are the ones a reviewer marked as most notable.</p>
   <h2>What the labels mean</h2>
@@ -445,19 +446,22 @@ function renderAbout(){
 }
 
 function renderNewsletter(){
-  const boxes = FL_COUNTIES.map((c, i) => `<label><input type="checkbox" id="nl-c-${i}" value="${esc(c)}" ${state.sel.includes(c) ? "checked" : ""}> ${esc(c)}</label>`).join("");
+  const all = `<label style="grid-column:1 / -1;font-weight:600"><input type="checkbox" id="nl-all" value="All"> All of Florida</label>`;
+  const boxes = all + FL_COUNTIES.map((c, i) => `<label><input type="checkbox" class="nl-c" id="nl-c-${i}" value="${esc(c)}" ${state.sel.includes(c) ? "checked" : ""}> ${esc(c)}</label>`).join("");
   $("#main").innerHTML = `<div class="page">
   <h1>The weekly email</h1>
   <p>One email a week with the spending items coming up for a vote in the counties you pick, each with its source link.</p>
   <form class="signup" id="signup" novalidate>
     <div><label for="nl-email"><b>Email</b></label><br><input type="email" id="nl-email" required placeholder="you@example.com" style="width:100%;margin-top:6px"></div>
-    <div><b>Counties</b> <span class="note">(pick any; none means all of Florida)</span>
+    <div><b>Counties</b> <span class="note">(pick at least one, or All of Florida) · <a href="#coverage">Which governments are covered</a></span>
       <div class="county-grid" style="margin-top:8px">${boxes}</div></div>
     <div><button class="btn" type="submit">Subscribe</button></div>
     <p class="status" id="nl-status" role="status"></p>
   </form>
   </div>`;
   $("#signup").addEventListener("submit", subscribe);
+  $("#nl-all").addEventListener("change", (e) => { if (e.target.checked) document.querySelectorAll(".nl-c").forEach(x => x.checked = false); });
+  document.querySelectorAll(".nl-c").forEach(x => x.addEventListener("change", () => { if (x.checked) $("#nl-all").checked = false; }));
 }
 
 async function subscribe(e){
@@ -466,6 +470,7 @@ async function subscribe(e){
   const status = $("#nl-status");
   if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){ status.textContent = "Enter a valid email address."; return; }
   const tags = [...document.querySelectorAll(".county-grid input:checked")].map(i => i.value);
+  if (!tags.length){ status.textContent = "Pick at least one county, or All of Florida."; return; }
   if (!BUTTONDOWN_USER){ status.textContent = "Signups open soon. The newsletter account is not connected yet."; return; }
   const body = new URLSearchParams({ email });
   tags.forEach(t => body.append("tag", t));
@@ -475,7 +480,19 @@ async function subscribe(e){
   } catch { status.textContent = "Signup did not go through. Try again in a minute."; }
 }
 
-const VIEWS = { featured: renderFeatured, all: renderAll, projects: renderProjects, "get-involved": renderGuide, newsletter: renderNewsletter, about: renderAbout };
+function renderCoverage(){
+  const c = state.coverage;
+  if (!c){ $("#main").innerHTML = `<div class="empty">The coverage list did not load.</div>`; return; }
+  const n = Object.keys(c.counties).length;
+  const rows = Object.entries(c.counties).map(([county, govs]) =>
+    `<h2 style="margin:18px 0 2px;font-size:17px">${esc(county)} County</h2><p style="margin:0">${govs.map(esc).join(" · ")}</p>`).join("");
+  $("#main").innerHTML = `<div class="page">
+  <h1>Governments covered</h1>
+  <p>The agendas of these <strong>${c.governments}</strong> local governments in <strong>${n}</strong> counties are read every night. A government is listed once its agendas have produced items. Coverage keeps growing; to suggest one that is missing, <button class="linkbtn" type="button" data-mail="contact">contact us</button>.</p>
+  ${rows}</div>`;
+}
+
+const VIEWS = { coverage: renderCoverage, featured: renderFeatured, all: renderAll, projects: renderProjects, "get-involved": renderGuide, newsletter: renderNewsletter, about: renderAbout };
 const LIST_VIEWS = new Set(["featured", "all", "projects"]);
 
 function currentView(){
@@ -545,6 +562,7 @@ async function load(){
     return;
   }
   try { const p = await (await fetch("data/projects.json", { cache: "no-cache" })).json(); state.projects = p.projects || []; } catch { state.projects = []; }
+  try { state.coverage = await (await fetch("data/coverage.json", { cache: "no-cache" })).json(); } catch { state.coverage = null; }
   state.counties = [...new Set([...state.items.flatMap(i => i.counties), ...state.projects.flatMap(p => p.counties || [])])].filter(c => c !== "Other").sort();
   state.cats = [...new Set(state.items.flatMap(i => i.categories))].sort();
   $("#county-pick").insertAdjacentHTML("beforeend", state.counties.map(c => `<option value="${esc(c)}">${esc(c)} County</option>`).join(""));
