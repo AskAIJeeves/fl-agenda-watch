@@ -73,6 +73,15 @@ def main(today=None):
     out.append(f"Local spending items found on Florida agendas, for the week of {today.strftime('%B')} {today.day}, {today.year}. "
                "Each item links to the public record it came from. Amounts are as stated in the agenda or packet.")
     out.append("")
+    out.append("**How to be heard.** Showing up in person is one of the most effective things you can do, and bringing someone "
+               "with you (a spouse, a neighbor, a friend) multiplies it. Officials notice a full room. Florida law gives the public "
+               "a reasonable opportunity to be heard before a board acts, under rules each board sets (s. 286.0114, Fla. Stat.). "
+               "Many boards take general public comment near the start of the meeting, and you can leave once you have spoken. "
+               "Some hear comment on a specific item only when that item comes up, which can be later, so check the agenda or "
+               "call the clerk's office first, and turn in a speaker card early if the board uses them. If you can't attend, an "
+               "email to each member before the meeting is a public record and still counts. "
+               f"[More on speaking up]({SITE}/#petition).")
+    out.append("")
     shown = 0
     for c in counties:
         a, p = pick(ahead, c), pick(past, c)
@@ -103,6 +112,9 @@ def main(today=None):
     out.append("")
     out.append(f"Counties with nothing new this week are left out. Full list, filters and big projects: [floridaspending.com]({SITE}). "
                f"To speak up before a vote, see [how to push back]({SITE}/#petition).")
+    out.append("")
+    out.append("We are adding local governments every week and working to make this digest as useful as possible before each vote. "
+               "Suggestions and tips are welcome: reply to this email.")
     out.append("")
     out.append("Independent. Not affiliated with any government. To change your counties, unsubscribe below and sign up again on the site.")
     body = "\n".join(out)
