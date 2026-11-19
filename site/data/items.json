@@ -2479,7 +2479,7 @@
     "Buildings & facilities",
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": null,
    "added": "2026-11-15"
   },
@@ -4184,7 +4184,7 @@
     "Consultants",
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": null,
    "added": "2026-11-16"
   },
@@ -4797,7 +4797,7 @@
     "Grants to outside groups",
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 50000.0,
    "added": "2026-11-16"
   },
@@ -5099,7 +5099,7 @@
     "Borrowing & debt",
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 1950000.0,
    "added": "2026-11-16"
   },
@@ -5747,7 +5747,7 @@
    "categories": [
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 50000.0,
    "added": "2026-11-16"
   },
@@ -5819,7 +5819,7 @@
    "categories": [
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 44000.0,
    "added": "2026-11-16"
   },
@@ -6292,7 +6292,7 @@
     "Grants to outside groups",
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": null,
    "added": "2026-11-16"
   },
@@ -6822,7 +6822,7 @@
    "categories": [
     "No competitive bidding"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 350400.0,
    "added": "2026-11-16"
   },
@@ -7912,6 +7912,374 @@
    ],
    "featured": true,
    "project_total": 30000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "d2c427cb4a",
+   "government": "St. Cloud",
+   "governments": [
+    "St. Cloud"
+   ],
+   "level": "city",
+   "counties": [
+    "Osceola"
+   ],
+   "description": "City Council: approves using $460,000 from the OUC Business Development & Customer Retention Fund as the city's government contribution to the Downtown Development Site 1 mixed use project including a parking garage. Outcome not verified",
+   "shortfall": null,
+   "amount": 460000.0,
+   "link": "https://stcloudfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=290,plainText=false)#page=5",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-12",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": true,
+   "project_total": 460000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "649e18bad4",
+   "government": "Fernandina Beach",
+   "governments": [
+    "Fernandina Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Nassau"
+   ],
+   "description": "City Commission: Resolution 2026-155 approves a sole source purchase agreement with BRINC Drones, Inc.; amount not stated in the excerpt. Outcome not verified",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12652,plainText=false)#page=313",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "No competitive bidding"
+   ],
+   "featured": true,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "0e951d9ba3",
+   "government": "Jacksonville",
+   "governments": [
+    "Jacksonville"
+   ],
+   "level": "city",
+   "counties": [
+    "Duval"
+   ],
+   "description": "Rules Committee: Ord 2026-0917 appropriates $225,000 from the Council District 9 CBA contingency account to Myvillage Project, INC. for the Techroots Learning Ctr Coding in Color program; waives competitive nonprofit award process for a direct contract (0.01% of general fund). Outcome not verified",
+   "shortfall": "Nov 9 (Jacksonville Today): CAO Mike Weinstein: $150M to almost $200M less next budget; $300M by FY2028-29; library hours may be reduced.",
+   "amount": 225000.0,
+   "link": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9047",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-16",
+   "categories": [
+    "Grants to outside groups"
+   ],
+   "featured": true,
+   "project_total": 225000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "9706166300",
+   "government": "Jacksonville",
+   "governments": [
+    "Jacksonville"
+   ],
+   "level": "city",
+   "counties": [
+    "Duval"
+   ],
+   "description": "Rules Committee: Ord 2026-0853 appropriates $20,000 from two existing subsidy accounts to Prospera Initiatives, Inc. for a Small Business Assistance program; waives the $25,000 direct appropriation minimum and competitive award process (under 0.01% of general fund). Outcome not verified",
+   "shortfall": "Nov 9 (Jacksonville Today): CAO Mike Weinstein: $150M to almost $200M less next budget; $300M by FY2028-29; library hours may be reduced.",
+   "amount": 20000.0,
+   "link": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=8978",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-16",
+   "categories": [
+    "Grants to outside groups"
+   ],
+   "featured": true,
+   "project_total": 25000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "fd43e1a89b",
+   "government": "St. Lucie County",
+   "governments": [
+    "St. Lucie County"
+   ],
+   "level": "county",
+   "counties": [
+    "St. Lucie"
+   ],
+   "description": "Board of County Commissioners: 2026/2027 funding agreements with the Treasure Coast Sports Commission totaling $250,000 (0.08% of general fund). Outcome not verified",
+   "shortfall": null,
+   "amount": 250000.0,
+   "link": "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12832,plainText=false)#page=85",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-10",
+   "categories": [
+    "Grants to outside groups",
+    "Consultants"
+   ],
+   "featured": false,
+   "project_total": 250000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "54c83849ea",
+   "government": "Titusville",
+   "governments": [
+    "Titusville"
+   ],
+   "level": "city",
+   "counties": [
+    "Brevard"
+   ],
+   "description": "City Council: single-source agreement with Cole Pro Media as strategic communications partner for police public-safety and critical-incident communications, $24,000 for one year from restricted forfeiture funds. Outcome not verified",
+   "shortfall": null,
+   "amount": 24000.0,
+   "link": "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2537,plainText=false)#page=2",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-10",
+   "categories": [
+    "No competitive bidding"
+   ],
+   "featured": true,
+   "project_total": 24000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "247b456265",
+   "government": "Jacksonville",
+   "governments": [
+    "Jacksonville"
+   ],
+   "level": "city",
+   "counties": [
+    "Duval"
+   ],
+   "description": "Rules Committee: Ord 2026-0905 appropriates $50,000 from the Council District 4 CBA contingency account to Community Resource Educational Initiatives Inc. (CREI) for the Bridge Youth Leadership & Wellness Initiative; waives competitive nonprofit award process. (0.003% of general fund) Outcome not verified",
+   "shortfall": "Nov 9 (Jacksonville Today): CAO Mike Weinstein: $150M to almost $200M less next budget; $300M by FY2028-29; library hours may be cut.",
+   "amount": 50000.0,
+   "link": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9035",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-16",
+   "categories": [
+    "Grants to outside groups"
+   ],
+   "featured": true,
+   "project_total": 50000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "5a0bd55e3b",
+   "government": "Jacksonville",
+   "governments": [
+    "Jacksonville"
+   ],
+   "level": "city",
+   "counties": [
+    "Duval"
+   ],
+   "description": "NCSPHS Committee: Ord 2026-0912 appropriates $200,000 from the Council District 7 CBA contingency account as a contribution to the Five Points Dependent Special District; emergency passage requested (0.011% of general fund). Outcome not verified",
+   "shortfall": "Nov 9 (Jacksonville Today): CAO Mike Weinstein: $150M to almost $200M less next budget; $300M by FY2028-29; library hours may be reduced.",
+   "amount": 200000.0,
+   "link": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9042",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-16",
+   "categories": [
+    "Grants to outside groups"
+   ],
+   "featured": true,
+   "project_total": 200000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "98969c184f",
+   "government": "Jacksonville",
+   "governments": [
+    "Jacksonville"
+   ],
+   "level": "city",
+   "counties": [
+    "Duval"
+   ],
+   "description": "Rules Committee: Ord 2026-0849 adds $64,737 from Council District 7 CBA contingency to Jacksonville Association of Firefighters, IAFF Local No. 122, Inc. to restore a WPA-era fire tower (total $309,957); waives competitive nonprofit award process (0.004% of general fund). Outcome not verified",
+   "shortfall": "Nov 9 (Jacksonville Today): CAO Mike Weinstein: $150M to almost $200M less next budget; $300M by FY2028-29; library hours may be reduced.",
+   "amount": 64737.0,
+   "link": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=8974",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-16",
+   "categories": [
+    "Grants to outside groups"
+   ],
+   "featured": true,
+   "project_total": 310000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "c9bba814f1",
+   "government": "Boynton Beach",
+   "governments": [
+    "Boynton Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Palm Beach"
+   ],
+   "description": "CRA Board: Commercial Property Improvement Grant of $30,750 to AJF Dental LLC d/b/a Forbes Dental, 1315 N. Federal Highway, Suite 1. Outcome not verified.",
+   "shortfall": null,
+   "amount": 30750.0,
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=255#page=1",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2025-03-20",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": 30800.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "fb6bb0e4ba",
+   "government": "Coral Springs",
+   "governments": [
+    "Coral Springs"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission item 21: Economic Development Incentive Program grant of up to $5,000 to A&E Health and Wellness, LLC, from the approved operating budget. Outcome not verified.",
+   "shortfall": null,
+   "amount": 5000.0,
+   "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=261#page=4",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2025-05-07",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": 5000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "fb4198d29f",
+   "government": "Stuart",
+   "governments": [
+    "Stuart"
+   ],
+   "level": "city",
+   "counties": [
+    "Martin"
+   ],
+   "description": "CRA Res 12-2019: mural matching grant of $2,000 to the Gilt Complex to install a mural on the exterior north wall of the Gilt Complex building. Outcome not verified.",
+   "shortfall": null,
+   "amount": 2000.0,
+   "link": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=232#page=1",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2019-11-25",
+   "categories": [
+    "Grants to outside groups",
+    "Events, art & branding",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": 2000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "8675f03546",
+   "government": "Coconut Creek",
+   "governments": [
+    "Coconut Creek"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission Res 2026-009: Neighborhood Enhancement Grant to Victoria Isles Homeowners Association for a multi-phase landscape design project to redesign its landscape master plan. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2237#page=5",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-01-22",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "639ab6d4f5",
+   "government": "Coconut Creek",
+   "governments": [
+    "Coconut Creek"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission Res 2026-134: Neighborhood Enhancement Grant matching funds to Antigua II Condominium Association for security enhancements (prior resolutions from 2023, 2024, 2026 attached). Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2467#page=5",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-08-27",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "a6170eb9dc",
+   "government": "Coral Springs",
+   "governments": [
+    "Coral Springs"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission item 11: sole source purchase of teaching pool liner material from Myrtha Pools USA, Inc. for $91,963, plus Aquatic Complex resurfacing contract to Myrtha Contracting USA, Inc. as an exemption to competitive procurement; capital budget. Outcome not verified.",
+   "shortfall": null,
+   "amount": 91963.0,
+   "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=240#page=3",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2025-01-16",
+   "categories": [
+    "No competitive bidding"
+   ],
+   "featured": false,
+   "project_total": 92000.0,
    "added": "2026-11-19"
   }
  ]
