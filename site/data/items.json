@@ -2617,7 +2617,7 @@
     "Grants to outside groups",
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": null,
    "added": "2026-11-16"
   },
@@ -2800,7 +2800,7 @@
     "Private benefit",
     "Events, art & branding"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": null,
    "added": "2026-11-16"
   },
@@ -2901,7 +2901,7 @@
    "categories": [
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": null,
    "added": "2026-11-16"
   },
@@ -3127,7 +3127,7 @@
     "Grants to outside groups",
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 50000.0,
    "added": "2026-11-16"
   },
@@ -3607,7 +3607,7 @@
     "Events, art & branding",
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 25000.0,
    "added": "2026-11-16"
   },
@@ -3780,7 +3780,7 @@
    "categories": [
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 61100.0,
    "added": "2026-11-16"
   },
@@ -3901,7 +3901,7 @@
    "categories": [
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 50000.0,
    "added": "2026-11-16"
   },
@@ -4554,7 +4554,7 @@
    "categories": [
     "No competitive bidding"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 1383000.0,
    "added": "2026-11-16"
   },
@@ -4678,7 +4678,7 @@
     "Events, art & branding",
     "Buildings & facilities"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 2038000.0,
    "added": "2026-11-16"
   },
@@ -5836,7 +5836,7 @@
     "Events, art & branding",
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": null,
    "added": "2026-11-19"
   },
@@ -6215,6 +6215,1624 @@
    ],
    "featured": false,
    "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "efa90439e3",
+   "government": "Clearwater",
+   "governments": [
+    "Clearwater"
+   ],
+   "level": "city",
+   "counties": [
+    "Pinellas"
+   ],
+   "description": "City Council: GMP proposal from PJ Hayes Inc. dba Tandem Construction for Eddie C. Moore Complex Renovations (CMAR, RFQ 13-26), $20,982,456.64, plus a $12,940,000 transfer from retained earnings to the project. Vote pending (Nov 19 meeting).",
+   "shortfall": null,
+   "amount": 20982456.64,
+   "link": "https://clearwater.legistar.com/gateway.aspx?M=L&ID=22792",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-11-19",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": true,
+   "project_total": 20982500.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "ad160e4ee9",
+   "government": "St. Petersburg",
+   "governments": [
+    "St. Petersburg"
+   ],
+   "level": "city",
+   "counties": [
+    "Pinellas"
+   ],
+   "description": "City Council: renewal of agreement with Intergraph Corporation dba Hexagon Safety & Infrastructure for records management and computer-aided dispatch software maintenance and support, $1,335,064.44 (0.25% of general fund). Vote pending (Nov 19 meeting).",
+   "shortfall": null,
+   "amount": 1335064.44,
+   "link": "https://www.stpete.org/2026-11-19 Agenda Packet (compressed).pdf?t=202611061050570#page=8",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-11-19",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 1335100.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "5d06e7d877",
+   "government": "Tampa",
+   "governments": [
+    "Tampa"
+   ],
+   "level": "city",
+   "counties": [
+    "Hillsborough"
+   ],
+   "description": "City Council item 38: Housing Opportunities for Persons with AIDS grant agreement with Catholic Charities Diocese of St. Petersburg, Inc. for housing and supportive services, up to $1,275,000 over three years (HUD program). Vote pending.",
+   "shortfall": null,
+   "amount": 1275000.0,
+   "link": "https://tampagov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/City_Council_Regular_-_November_19,_2026_2941_Agenda_11_19_2026_9_00_00_AM.pdf?documentType=1&meetingId=2941#page=8",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-11-19",
+   "categories": [
+    "Grants to outside groups",
+    "Large dollar amount"
+   ],
+   "featured": true,
+   "project_total": 1275000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "c0a04e3158",
+   "government": "St. Petersburg",
+   "governments": [
+    "St. Petersburg"
+   ],
+   "level": "city",
+   "counties": [
+    "Pinellas"
+   ],
+   "description": "City Council: GMP proposal from The AD Morgan Corporation for construction phase services on the Coliseum Roof Replacement Project (CMAR first amendment), $1,387,595.78, with $400,000 moved from the Fleet Facility Replacement project (1.42% of St. Petersburg's capital projects funds). Vote pending.",
+   "shortfall": null,
+   "amount": 1387595.78,
+   "link": "https://www.stpete.org/2026-11-19 Agenda Packet (compressed).pdf?t=202611061050570#page=8",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-11-19",
+   "categories": [
+    "Large dollar amount",
+    "Buildings & facilities"
+   ],
+   "featured": true,
+   "project_total": 1387600.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "0cce2e8fb9",
+   "government": "Tampa",
+   "governments": [
+    "Tampa"
+   ],
+   "level": "city",
+   "counties": [
+    "Hillsborough"
+   ],
+   "description": "City Council: Housing Opportunities for Persons with AIDS grant agreement with Catholic Charities Diocese of St. Petersburg, Inc. for housing and supportive services, up to $2,745,636 over three years (HUD program). Vote pending.",
+   "shortfall": null,
+   "amount": 2745636.0,
+   "link": "https://tampagov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/City_Council_Regular_-_November_19,_2026_2941_Agenda_11_19_2026_9_00_00_AM.pdf?documentType=1&meetingId=2941#page=9",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-11-19",
+   "categories": [
+    "Grants to outside groups",
+    "Large dollar amount"
+   ],
+   "featured": true,
+   "project_total": 2745600.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "a55acf7c7e",
+   "government": "Lee County",
+   "governments": [
+    "Lee County"
+   ],
+   "level": "county",
+   "counties": [
+    "Lee"
+   ],
+   "description": "BCC item C11: settlement agreement in Eden Oak I, LLC and Eden Oak Shell Point, LLC v. Lee County; county to pay $5,000,000 as purchase of about 306 acres along Shell Point Boulevard. Deferred for further review; approval still ahead.",
+   "shortfall": "Expects about $144M revenue loss over two years; hiring freeze from Dec. 1; Commissioner Pendergrass: \"We're going to reduce services.\"",
+   "amount": 5000000.0,
+   "link": "https://leecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=898,plainText=false)#page=32",
+   "stage": "pending_final",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "Legal costs",
+    "Large dollar amount"
+   ],
+   "featured": true,
+   "project_total": 5000000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "a03419ff3e",
+   "government": "Tampa",
+   "governments": [
+    "Tampa"
+   ],
+   "level": "city",
+   "counties": [
+    "Hillsborough"
+   ],
+   "description": "City Council item 20: renewal of award to Big Dog Express of South Florida, Inc. for Solid Waste Material Hauling Services at McKay Bay Transfer Station, with a 3.4% CPI increase, est. $1,300,000 (0.17% of general fund). Council vote pending.",
+   "shortfall": null,
+   "amount": 1300000.0,
+   "link": "https://tampagov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/City_Council_Regular_-_November_19,_2026_2941_Agenda_11_19_2026_9_00_00_AM.pdf?documentType=1&meetingId=2941#page=5",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-11-19",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 1300000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "5f53fad8d5",
+   "government": "Titusville",
+   "governments": [
+    "Titusville"
+   ],
+   "level": "city",
+   "counties": [
+    "Brevard"
+   ],
+   "description": "City Council special meeting: purchase of ten Stryker Lifepak 35 cardiac monitors and associated equipment via SAVVIK Cooperative Purchasing Contract No. 2024096, $607,961.26; sole source letter in packet (0.91% of general fund). Vote pending.",
+   "shortfall": null,
+   "amount": 607961.26,
+   "link": "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2558,plainText=false)#page=38",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-11-24",
+   "categories": [
+    "No competitive bidding",
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 608000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "dac27ae5bd",
+   "government": "Collier County",
+   "governments": [
+    "Collier County"
+   ],
+   "level": "county",
+   "counties": [
+    "Collier"
+   ],
+   "description": "Tourist Development Council recommends the South Marco Island Beach Renourishment truck haul project (January 2027), tourist development tax spending not to exceed $7,000,000 (1.98% of Collier County's special revenue funds). County Commission approval pending.",
+   "shortfall": null,
+   "amount": 7000000.0,
+   "link": "https://colliercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3743,plainText=false)#page=2",
+   "stage": "pending_final",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": true,
+   "project_total": 7000000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "965db4d7e5",
+   "government": "Coconut Creek",
+   "governments": [
+    "Coconut Creek"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission Res 2026-135: Neighborhood Enhancement Grant matching funds to Martinique II-E Condominium Association for security enhancements. Amount not stated. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2467#page=5",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-08-27",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "9506c03450",
+   "government": "Coconut Creek",
+   "governments": [
+    "Coconut Creek"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission Res 2026-045: Neighborhood Enhancement Grant matching funds to Martinique I Condominium Association for security enhancements. Amount not stated. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2270#page=4",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-04-09",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "22142ecba5",
+   "government": "Jacksonville",
+   "governments": [
+    "Jacksonville"
+   ],
+   "level": "city",
+   "counties": [
+    "Duval"
+   ],
+   "description": "City Council: Ord 2026-0805-E appropriates $125,000 from the Council District 7 CBA contingency to Murray Hill Preservation Association of Jacksonville, Florida, Inc. for its Growth & Development program; waives competitive nonprofit award process. Result: Pass per clerk.",
+   "shortfall": "Jacksonville CAO Mike Weinstein (Nov 9): $150M to almost $200M less next budget; $300M by FY2028-29.",
+   "amount": 125000.0,
+   "link": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=8919",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-10-27",
+   "categories": [
+    "Grants to outside groups",
+    "No competitive bidding"
+   ],
+   "featured": false,
+   "project_total": 125000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "1e6f1988a6",
+   "government": "Santa Rosa County",
+   "governments": [
+    "Santa Rosa County"
+   ],
+   "level": "county",
+   "counties": [
+    "Santa Rosa"
+   ],
+   "description": "Commission Committee: Economic Development Retail Incentive Agreement for Project Clerks (Hwy 90 Corridor Commercial Development Package), up to $1,121,902.15 based on incremental ad valorem revenues over 10 years. Outcome not verified.",
+   "shortfall": null,
+   "amount": 1121902.15,
+   "link": "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3104,plainText=false)#page=3",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-10",
+   "categories": [
+    "Private benefit"
+   ],
+   "featured": true,
+   "project_total": 1121900.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "3f21c4c749",
+   "government": "Escambia County",
+   "governments": [
+    "Escambia County"
+   ],
+   "level": "county",
+   "counties": [
+    "Escambia"
+   ],
+   "description": "BCC: Miscellaneous Appropriations Agreement with Visit Pensacola, Inc., $13,028,558 from Tourist Development Tax funds (4.84% of Escambia County's special revenue funds). Outcome not verified.",
+   "shortfall": null,
+   "amount": 13028558.0,
+   "link": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5361,plainText=false)#page=27",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-05",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 13028600.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "eed5a719e6",
+   "government": "St. Lucie County",
+   "governments": [
+    "St. Lucie County"
+   ],
+   "level": "county",
+   "counties": [
+    "St. Lucie"
+   ],
+   "description": "BCC: Contract Amendment No. 10 for the Central County Water & Wastewater Treatment Facilities, $33,220,133. Outcome not verified.",
+   "shortfall": null,
+   "amount": 33220133.0,
+   "link": "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12765,plainText=false)#page=9",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-10-20",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 33220100.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "c6a8529117",
+   "government": "Orange County",
+   "governments": [
+    "Orange County"
+   ],
+   "level": "county",
+   "counties": [
+    "Orange"
+   ],
+   "description": "BCC: painting services awards (IFB Y26-1008-LS) to Quick Painting Group Corp ($3,000,000), RMK Consulting LLC dba Kodiak Property Maintenance ($3,726,787.50), Greg Brown Painting Co, LLC ($3,976,875); five years, $10,703,662.50 total. Result: Pass per clerk.",
+   "shortfall": null,
+   "amount": 10703662.5,
+   "link": "https://occompt.legistar.com/gateway.aspx?M=L&ID=19528",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-10-27",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 3976900.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "65a1be1b88",
+   "government": "Palm Beach County",
+   "governments": [
+    "Palm Beach County"
+   ],
+   "level": "county",
+   "counties": [
+    "Palm Beach"
+   ],
+   "description": "BCC: raises cumulative limit of annual asphalt, pavers and pathway construction services contracts by $10,000,000 to $13,000,000 (seven prequalified contractors, through May 15, 2028). Outcome not verified.",
+   "shortfall": null,
+   "amount": 10000000.0,
+   "link": "https://discover.pbcgov.org/countycommissioners/Agenda_Master/20261110.pdf#page=27",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-10",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 13000000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "5a1ed9b850",
+   "government": "Pasco County",
+   "governments": [
+    "Pasco County"
+   ],
+   "level": "county",
+   "counties": [
+    "Pasco"
+   ],
+   "description": "BCC C11: first one-year renewal and additional purchasing authority for Air Mechanical & Service Corp., comprehensive building automation and mechanical system services (RFP-CA-23-090), $9,250,000 (1.51% of general fund). Outcome not verified.",
+   "shortfall": null,
+   "amount": 9250000.0,
+   "link": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12083,plainText=false)#page=185",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 9250000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "9b6170db2d",
+   "government": "Orange County",
+   "governments": [
+    "Orange County"
+   ],
+   "level": "county",
+   "counties": [
+    "Orange"
+   ],
+   "description": "BCC: awards IFB Y26-181-ZR traffic signal equipment supply and installation to low bidders Yunex LLC ($26,072,242.11), Traffic Control Devices, LLC ($30,262,664.50), The New Florida Industrial Electric, Inc. ($30,880,050.29); five years, $87,214,956.90 total. Outcome not verified.",
+   "shortfall": null,
+   "amount": 87214956.9,
+   "link": "https://occompt.legistar.com/gateway.aspx?M=L&ID=19612",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-10",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 30880000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "da67830299",
+   "government": "Orange County",
+   "governments": [
+    "Orange County"
+   ],
+   "level": "county",
+   "counties": [
+    "Orange"
+   ],
+   "description": "BCC: awards IFB Y25-1001-GO hot in-place asphalt recycling with resurfacing to low bidder Cutler Repaving, Inc., est. $49,751,975 over five years (3.32% of general fund). Result: Pass per clerk.",
+   "shortfall": null,
+   "amount": 49751975.0,
+   "link": "https://occompt.legistar.com/gateway.aspx?M=L&ID=19531",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-10-27",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 49752000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "6c6cc5300c",
+   "government": "Jacksonville",
+   "governments": [
+    "Jacksonville"
+   ],
+   "level": "city",
+   "counties": [
+    "Duval"
+   ],
+   "description": "City Council: Ord 2026-0813-E disburses $162,640 from the Homelessness Initiatives Special Revenue Fund to Youth Crisis Center, Inc. for the House of Hope program; waives competitive nonprofit award process (0.03% of Jacksonville's special revenue funds). Result: Pass per clerk.",
+   "shortfall": "Nov 9 (Jacksonville Today): CAO Mike Weinstein: $150M to almost $200M less next budget; $300M by FY2028-29; library hours may be cut.",
+   "amount": 162640.0,
+   "link": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=8931",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-10-27",
+   "categories": [
+    "Grants to outside groups",
+    "No competitive bidding"
+   ],
+   "featured": false,
+   "project_total": 162600.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "c993173d5a",
+   "government": "Polk County",
+   "governments": [
+    "Polk County"
+   ],
+   "level": "county",
+   "counties": [
+    "Polk"
+   ],
+   "description": "BCC: agreement with Weikert Ford, Inc. for Ford vehicle acquisitions and services for classes 1-5 vehicles, est. $5,200,000 a year (0.89% of general fund). Result: Pass per clerk.",
+   "shortfall": null,
+   "amount": 5200000.0,
+   "link": "https://polkcountyfl.legistar.com/gateway.aspx?M=L&ID=22374",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-10-20",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 5200000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "ea908d3059",
+   "government": "Coconut Creek",
+   "governments": [
+    "Coconut Creek"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission Res 2026-115: Neighborhood Enhancement Grant to Country Wood Estates PUD No. 1 Homeowners Association for a multi-phase landscape design project to redesign the street tree master landscape plan. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2459#page=4",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-08-13",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "2a6ab34b70",
+   "government": "Coconut Creek",
+   "governments": [
+    "Coconut Creek"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission Res 2026-067: Neighborhood Enhancement Grant matching funds to Antigua II Condominium Association for security enhancements. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2296#page=4",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-05-14",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "168abab6a4",
+   "government": "Pasco County",
+   "governments": [
+    "Pasco County"
+   ],
+   "level": "county",
+   "counties": [
+    "Pasco"
+   ],
+   "description": "BCC C34: First Amendment to Task Order No. FM26-007 with Wharton-Smith, Inc. for the Go Pasco Multimodal Transfer Station at Fox Hollow, $5,047,644. Outcome not verified.",
+   "shortfall": null,
+   "amount": 5047644.0,
+   "link": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12083,plainText=false)#page=8",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 5047600.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "ae66e178e4",
+   "government": "Jupiter",
+   "governments": [
+    "Jupiter"
+   ],
+   "level": "city",
+   "counties": [
+    "Palm Beach"
+   ],
+   "description": "Town Council: Resolution 137-26 sets the legal and financial framework to issue bonds by competitive public sale to finance and refinance fire-rescue facility capital improvements, not to exceed $22,500,000. Outcome not verified.",
+   "shortfall": null,
+   "amount": 22500000.0,
+   "link": "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2160,plainText=false)#page=3",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "Borrowing & debt",
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 22500000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "2b0f926c1f",
+   "government": "Orange County",
+   "governments": [
+    "Orange County"
+   ],
+   "level": "county",
+   "counties": [
+    "Orange"
+   ],
+   "description": "BCC: Amendment No. 17 to Contract Y3-1021 with Waste Management, Inc. of Florida for transfer, processing and marketing of recyclables, up to $7,000,000 a year for a three-year extension, plus authority for two more one-year extensions at the same cap. Outcome not verified.",
+   "shortfall": null,
+   "amount": 7000000.0,
+   "link": "https://occompt.legistar.com/gateway.aspx?M=L&ID=19617",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-10",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 7000000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "59438dae13",
+   "government": "Escambia County",
+   "governments": [
+    "Escambia County"
+   ],
+   "level": "county",
+   "counties": [
+    "Escambia"
+   ],
+   "description": "BCC: purchase order to Thompson Consulting Services, LLC for disaster debris monitoring and support services due to Hurricane Isaias, $13,600,000 (5.1% of Escambia County's special revenue funds). Outcome not verified.",
+   "shortfall": null,
+   "amount": 13600000.0,
+   "link": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5360,plainText=false)#page=30",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-05",
+   "categories": [
+    "Consultants",
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 13600000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "66dd84127d",
+   "government": "Fort Lauderdale",
+   "governments": [
+    "Fort Lauderdale"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission: comprehensive agreement and design-build agreement with David Mancini & Sons, Inc. under Section 255.065, Florida Statutes, for the Riverland Neighborhood Stormwater Improvements Project, $82,643,846. Result: Pass per clerk.",
+   "shortfall": null,
+   "amount": 82643846.0,
+   "link": "https://fortlauderdale.legistar.com/gateway.aspx?M=L&ID=21973",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-10-20",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 217100000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "97aecfd159",
+   "government": "Palatka",
+   "governments": [
+    "Palatka"
+   ],
+   "level": "city",
+   "counties": [
+    "Putnam"
+   ],
+   "description": "CRA: approves the CRA share of Phase II streetscape expenditures for FY2025-2026, $470,346.54, paid through the Better Place Plan Fund using Central Business District TIF funds (16.6% of Palatka's special revenue funds). Outcome not verified.",
+   "shortfall": null,
+   "amount": 470346.54,
+   "link": "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2487,plainText=false)#page=70",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-16",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 470300.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "7a1a8187f2",
+   "government": "Broward County",
+   "governments": [
+    "Broward County"
+   ],
+   "level": "county",
+   "counties": [
+    "Broward"
+   ],
+   "description": "County Commission: agreements with CDM Smith, Inc. and CTS Engineering, Inc. for general planning and consultant services for BCT (FTA), RFP TRN2130715P1, three years plus two one-year renewals, combined not to exceed $25,000,000. Outcome not verified.",
+   "shortfall": null,
+   "amount": 25000000.0,
+   "link": "https://broward.legistar.com/gateway.aspx?M=L&ID=18566",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-10",
+   "categories": [
+    "Consultants",
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 25000000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "57c497e1db",
+   "government": "Orange County",
+   "governments": [
+    "Orange County"
+   ],
+   "level": "county",
+   "counties": [
+    "Orange"
+   ],
+   "description": "BCC: CDBG-DR subrecipient agreements (HUD Program B-23-UN-12-0003) with United Against Poverty, Inc., $15,000,000, and Catholic Charities of Central Florida, Inc., $295,000. Outcome not verified.",
+   "shortfall": null,
+   "amount": 15295000.0,
+   "link": "https://occompt.legistar.com/gateway.aspx?M=L&ID=19635",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-10",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 15000000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "ed045b4700",
+   "government": "Orange County",
+   "governments": [
+    "Orange County"
+   ],
+   "level": "county",
+   "counties": [
+    "Orange"
+   ],
+   "description": "BCC: awards IFB Y26-742-ZR, Emergency Wallington Drive Bridge (No. 754190) and Egret Way Bridge (No. 754187) Replacements, to low responsive and responsible bidder Granite Construction Company, $6,294,664. Result: Pass per clerk.",
+   "shortfall": null,
+   "amount": 6294664.0,
+   "link": "https://occompt.legistar.com/gateway.aspx?M=L&ID=19548",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-10-27",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 6294700.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "0be35dc0b4",
+   "government": "Fort Lauderdale",
+   "governments": [
+    "Fort Lauderdale"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission: comprehensive agreement and design-build agreement with Man-Con, Incorporated under Section 255.065, Florida Statutes, for the Melrose Manors Neighborhood Stormwater Improvements Project, $91,840,159. Result: Pass per clerk.",
+   "shortfall": null,
+   "amount": 91840159.0,
+   "link": "https://fortlauderdale.legistar.com/gateway.aspx?M=L&ID=21974",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-10-20",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 217100000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "ad166dfde1",
+   "government": "Lake Wales",
+   "governments": [
+    "Lake Wales"
+   ],
+   "level": "city",
+   "counties": [
+    "Polk"
+   ],
+   "description": "Lake Wales CRA Board: considers awarding the Food Services Grant to McGowin\u2019s on Park. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&event_id=1594#page=1",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": true,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "1ac0d39405",
+   "government": "Coconut Creek",
+   "governments": [
+    "Coconut Creek"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "Coconut Creek City Commission Res 2025-177-1: Tree Canopy Replacement Grant to Baywood Village II Condominium Association for a multi-category replacement project. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2221#page=4",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2025-12-11",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "b823669a1c",
+   "government": "Winter Haven",
+   "governments": [
+    "Winter Haven"
+   ],
+   "level": "city",
+   "counties": [
+    "Polk"
+   ],
+   "description": "Winter Haven City Commission: rail spur package with a state Job Growth grant agreement, a cooperation agreement with Tratt Properties, LLC and logistics park owners, and construction award to R.W. Summers Railroad Contractor, Inc. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=309#page=5",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-01-12",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "3507708fd3",
+   "government": "Clearwater",
+   "governments": [
+    "Clearwater"
+   ],
+   "level": "city",
+   "counties": [
+    "Pinellas"
+   ],
+   "description": "City Council: construction contract with David Nelson Construction Company, of Palm Harbor, for ITB 22-0017-EN Osceola Corridor Improvements, $10,436,461. Outcome not verified.",
+   "shortfall": null,
+   "amount": 10436461.0,
+   "link": "https://clearwater.legistar.com/gateway.aspx?M=L&ID=22683",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-05",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 10436500.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "5e5858522c",
+   "government": "Escambia County",
+   "governments": [
+    "Escambia County"
+   ],
+   "level": "county",
+   "counties": [
+    "Escambia"
+   ],
+   "description": "BCC: contract with Crucible Construction, LLC under PD 25-26.096 for construction of Myrtle Grove Fire Station 11, $5,236,692. Outcome not verified.",
+   "shortfall": null,
+   "amount": 5236692.0,
+   "link": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5324,plainText=false)#page=42",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-10-15",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 5236700.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "7fb101b237",
+   "government": "Bradenton",
+   "governments": [
+    "Bradenton"
+   ],
+   "level": "city",
+   "counties": [
+    "Manatee"
+   ],
+   "description": "CRA Board: Historic Preservation Grant request for a property located at 530 13th Street West. Amount not stated. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=330#page=1",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-07-23",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "8fdffcbcfa",
+   "government": "Lake Wales",
+   "governments": [
+    "Lake Wales"
+   ],
+   "level": "city",
+   "counties": [
+    "Polk"
+   ],
+   "description": "Lake Wales CRA Board: considers awarding the Food Services Grant to Downtown Pizza & Sports Bar. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&event_id=1594#page=1",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": true,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "9a49d648f5",
+   "government": "Coconut Creek",
+   "governments": [
+    "Coconut Creek"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission Res 2025-191: Neighborhood Enhancement Grant matching funds to 2803 Victoria Village Condominium Association for security enhancements. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2221#page=4",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2025-12-11",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "d73897b291",
+   "government": "Lake County",
+   "governments": [
+    "Lake County"
+   ],
+   "level": "county",
+   "counties": [
+    "Lake"
+   ],
+   "description": "BCC Tab 26: bond resolution for issuance of $50 million in General Obligation Bonds, Series 2026, for the Public Land and Trail Acquisition Program approved by voters in November 2024. Outcome not verified.",
+   "shortfall": null,
+   "amount": 50000000.0,
+   "link": "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7850,plainText=false)#page=8",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "Borrowing & debt",
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 50000000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "b6011b3000",
+   "government": "Pasco County",
+   "governments": [
+    "Pasco County"
+   ],
+   "level": "county",
+   "counties": [
+    "Pasco"
+   ],
+   "description": "BCC C16: exempt purchase and agreement with Matheny Motor Truck Company d/b/a Matheny Fire & Emergency for as-needed fire and ambulance apparatus, equipment, parts and repair services, $75,000,000 (12.2% of general fund). Outcome not verified.",
+   "shortfall": null,
+   "amount": 75000000.0,
+   "link": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12083,plainText=false)#page=35",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "No competitive bidding",
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 75000000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "7e13353172",
+   "government": "Jacksonville",
+   "governments": [
+    "Jacksonville"
+   ],
+   "level": "city",
+   "counties": [
+    "Duval"
+   ],
+   "description": "City Council: ordinance appropriating $70,000 from Council Operating Contingency to buy new furniture for the City Council Suite and conference rooms, with 1-cycle emergency passage requested. Emergency passage failed 8-11 on 11/10/26 per text. Outcome not verified.",
+   "shortfall": "Nov 9 (Jacksonville Today): CAO Mike Weinstein: $150M to almost $200M less next budget; $300M by FY2028-29; library hours may be cut.",
+   "amount": 70000.0,
+   "link": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=8994",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-10-27",
+   "categories": [
+    "Perks for officials",
+    "Buildings & facilities"
+   ],
+   "featured": false,
+   "project_total": 70000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "ced4ca26de",
+   "government": "Lee County",
+   "governments": [
+    "Lee County"
+   ],
+   "level": "county",
+   "counties": [
+    "Lee"
+   ],
+   "description": "BCC item 41: $1,000,000 from the General Fund, not in the current budget, over two years for supplemental economic development activities with SWFL Inc., a partnership the Board directed staff to explore (0.11% of general fund). Outcome not verified.",
+   "shortfall": "Nov 17 (Gulf Coast News Now): about $144M revenue loss expected over two years; hiring freeze on 80 positions starts Dec 1; Commissioner Pendergrass: \"We're going to reduce services.\"",
+   "amount": 1000000.0,
+   "link": "https://leecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=873,plainText=false)#page=15",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-10-20",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": 1000000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "d7b4eb76b1",
+   "government": "Polk County",
+   "governments": [
+    "Polk County"
+   ],
+   "level": "county",
+   "counties": [
+    "Polk"
+   ],
+   "description": "BCC: agreement with &Barr for advertising and marketing services, $5,000,000 estimated annual recurring expense (0.86% of general fund). Outcome not verified.",
+   "shortfall": null,
+   "amount": 5000000.0,
+   "link": "https://polkcountyfl.legistar.com/gateway.aspx?M=L&ID=22732",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "Events, art & branding",
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 5000000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "70d33af81b",
+   "government": "Orange County",
+   "governments": [
+    "Orange County"
+   ],
+   "level": "county",
+   "counties": [
+    "Orange"
+   ],
+   "description": "BCC: awards IFB Y26-153-MV, Staff Augmentation - Administrative, to BJ Concepts, Inc., Blue Arbor, Inc., Naztec International Group, L.L.C. and 22nd Century Technologies, Inc., $2,500,000 each, $10,000,000 over five years (0.67% of general fund). Outcome not verified.",
+   "shortfall": null,
+   "amount": 10000000.0,
+   "link": "https://occompt.legistar.com/gateway.aspx?M=L&ID=19558",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-10",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 10000000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "24cb0a862e",
+   "government": "Polk County",
+   "governments": [
+    "Polk County"
+   ],
+   "level": "county",
+   "counties": [
+    "Polk"
+   ],
+   "description": "BCC: CMAR GMP addendum with Rodda Construction, Inc. for expansion and renovation of the Medical Examiner's Office, $13,342,830 one-time (2.28% of general fund). Result: Pass per clerk.",
+   "shortfall": null,
+   "amount": 13342830.0,
+   "link": "https://polkcountyfl.legistar.com/gateway.aspx?M=L&ID=22606",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-03",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 13342800.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "e5a6605ad7",
+   "government": "Orange County",
+   "governments": [
+    "Orange County"
+   ],
+   "level": "county",
+   "counties": [
+    "Orange"
+   ],
+   "description": "BCC: CDBG-DR capital improvements subrecipient agreement (HUD Program B-23-UN-12-0003) with Coalition for the Homeless of Central Florida, Inc., $15,000,000 (0.92% of Orange County's special revenue funds). Result: Pass per clerk.",
+   "shortfall": null,
+   "amount": 15000000.0,
+   "link": "https://occompt.legistar.com/gateway.aspx?M=L&ID=19578",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-10-27",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 15000000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "357fef3a7c",
+   "government": "Escambia County",
+   "governments": [
+    "Escambia County"
+   ],
+   "level": "county",
+   "counties": [
+    "Escambia"
+   ],
+   "description": "BCC: authorizes use of Sourcewell Contract #031622-SII for earthwork, artificial turf and installation, $13,568,741.04 (4.53% of general fund). Outcome not verified.",
+   "shortfall": null,
+   "amount": 13568741.04,
+   "link": "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5324,plainText=false)#page=30",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-10-15",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 13568700.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "1ea9b002d9",
+   "government": "Coconut Creek",
+   "governments": [
+    "Coconut Creek"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "Coconut Creek City Commission Res 2026-086: Neighborhood Enhancement Grant matching funds to Abaco Village Condominium Association for security enhancements. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2328#page=3",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-06-11",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "360497843e",
+   "government": "Lake Wales",
+   "governments": [
+    "Lake Wales"
+   ],
+   "level": "city",
+   "counties": [
+    "Polk"
+   ],
+   "description": "Lake Wales CRA Board: considers awarding the Food Services Grant to Lady B\u2019s Tea Parlour. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=967#page=1",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-05-12",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "af273f2336",
+   "government": "Lake Wales",
+   "governments": [
+    "Lake Wales"
+   ],
+   "level": "city",
+   "counties": [
+    "Polk"
+   ],
+   "description": "Lake Wales CRA Board: considers awarding the Food Services Grant to Vibin\u2019 Vinny\u2019s at 230 E. Park Avenue, Units 24 and 25. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=902#page=1",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-01-13",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "418a63c701",
+   "government": "Okeechobee County",
+   "governments": [
+    "Okeechobee County"
+   ],
+   "level": "county",
+   "counties": [
+    "Okeechobee"
+   ],
+   "description": "Okeechobee County Tourist Development Council: considers a $4,000 FY 26/27 host funding request for the Southern Most Timed Event Challenge, June 11-13, 2027 (0.01% of Okeechobee County's special revenue funds). Outcome not verified.",
+   "shortfall": null,
+   "amount": 4000.0,
+   "link": "https://okeechobee.granicus.com/AgendaViewer.php?view_id=1&clip_id=4323#page=1",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-09-09",
+   "categories": [
+    "Grants to outside groups",
+    "Events"
+   ],
+   "featured": false,
+   "project_total": 4000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "e4143c24fb",
+   "government": "Polk County",
+   "governments": [
+    "Polk County"
+   ],
+   "level": "county",
+   "counties": [
+    "Polk"
+   ],
+   "description": "BCC: CMAR Guaranteed Maximum Price Addendum No. 4 to Agreement 2023-074 with Wharton-Smith, Inc. for the Northeast Regional Wastewater Facility, $75,930,310 one-time expense. Outcome not verified.",
+   "shortfall": null,
+   "amount": 75930310.0,
+   "link": "https://polkcountyfl.legistar.com/gateway.aspx?M=L&ID=22736",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 75930300.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "0b31c1865b",
+   "government": "St. Cloud",
+   "governments": [
+    "St. Cloud"
+   ],
+   "level": "city",
+   "counties": [
+    "Osceola"
+   ],
+   "description": "City Council: development agreement under which the CRA pays $6,250,000 and the City $460,000 toward a project adding affordable units (CRA share 13.2% of St. Cloud's special revenue funds). Outcome not verified. May repeat an existing entry (2026-11-12).",
+   "shortfall": null,
+   "amount": 6250000.0,
+   "link": "https://stcloudfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=294,plainText=false)#page=150",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-12",
+   "categories": [
+    "Large dollar amount",
+    "Private benefit"
+   ],
+   "featured": true,
+   "project_total": 6250000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "73050515f2",
+   "government": "Lake County",
+   "governments": [
+    "Lake County"
+   ],
+   "level": "county",
+   "counties": [
+    "Lake"
+   ],
+   "description": "BCC: Tourist Development Tax funding for marketing/promotional fees and related expenses for Discover Lake County to be designated a sponsor of Montverde Academy. Amount not stated. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7830,plainText=false)#page=4",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-10-27",
+   "categories": [
+    "Grants to outside groups",
+    "Events, art & branding",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "9839017974",
+   "government": "Largo",
+   "governments": [
+    "Largo"
+   ],
+   "level": "city",
+   "counties": [
+    "Pinellas"
+   ],
+   "description": "City Commission: $1,000,000 federal HOME and $25,000 CDBG award to Denton Centers, Inc. to acquire, demolish and build a quadplex at 510 6th Avenue NW, contingent on environmental review and underwriting (2.2% of Largo's special revenue funds). Outcome not verified.",
+   "shortfall": null,
+   "amount": 1025000.0,
+   "link": "https://largo.civicweb.net/document/342706/City%20Commission%20Directive%20-%2020%20Oct%202026.pdf?handle=5B32EBF28C1C4C85B84AFD1828BD1980#page=2",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-10-20",
+   "categories": [
+    "Grants to outside groups",
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 1000000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "1a4bbc2177",
+   "government": "Polk County",
+   "governments": [
+    "Polk County"
+   ],
+   "level": "county",
+   "counties": [
+    "Polk"
+   ],
+   "description": "BCC: Locally Funded Agreement and Resolution with the Florida Department of Transportation (FDOT) for the Grandview Parkway I-4 Flyover Project, $20,000,000 one-time expense. Outcome not verified.",
+   "shortfall": null,
+   "amount": 20000000.0,
+   "link": "https://polkcountyfl.legistar.com/gateway.aspx?M=L&ID=22738",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 20000000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "149cc128f3",
+   "government": "Deerfield Beach",
+   "governments": [
+    "Deerfield Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "CRA Board: Resolution 2026/011, advertising agreement with Beach Rides FL, LLC for CRA ads on its transportation shuttles, up to $30,000 a year for one year with two one-year renewal options (0.17% of Deerfield Beach's special revenue funds). Outcome not verified.",
+   "shortfall": null,
+   "amount": 30000.0,
+   "link": "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3341,plainText=false)#page=4",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-10",
+   "categories": [
+    "Events, art & branding"
+   ],
+   "featured": false,
+   "project_total": 30000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "b8a62cf128",
+   "government": "Fort Lauderdale",
+   "governments": [
+    "Fort Lauderdale"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission: FY2027 Beach Business Improvement District grant participation agreement with Winterfest, Inc. for the Seminole Hard Rock Winterfest Boat Parade, $25,000. Result: Pass per clerk.",
+   "shortfall": null,
+   "amount": 25000.0,
+   "link": "https://fortlauderdale.legistar.com/gateway.aspx?M=L&ID=21926",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-06",
+   "categories": [
+    "Grants to outside groups",
+    "Events, art & branding"
+   ],
+   "featured": false,
+   "project_total": 25000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "c9596c1ac2",
+   "government": "Deerfield Beach",
+   "governments": [
+    "Deerfield Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission: master services and purchasing agreement with Axon Enterprise, Inc. for police video surveillance equipment and software via Sourcewell Contract No. 101233, $13,216,295 over ten years; waives a Procurement Code term limit. Outcome not verified.",
+   "shortfall": null,
+   "amount": 13216295.43,
+   "link": "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3338,plainText=false)#page=8",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-05",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 13216300.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "80a6eb00f1",
+   "government": "St. Petersburg",
+   "governments": [
+    "St. Petersburg"
+   ],
+   "level": "city",
+   "counties": [
+    "Pinellas"
+   ],
+   "description": "City Council: purchase of eight side loaders, two front end loaders and two tractors from Rush Truck Centers of Florida, Inc. and two rear loaders from Container Systems & Equipment Co., Inc. for Sanitation, $5,410,055. Outcome not verified.",
+   "shortfall": null,
+   "amount": 5410055.38,
+   "link": "https://www.stpete.org/2026-10-15 Agenda Packet w. Updated AddsDeletes.pdf?t=202610151351220#page=8",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-10-15",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 5410100.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "78654011a2",
+   "government": "Seminole County",
+   "governments": [
+    "Seminole County"
+   ],
+   "level": "county",
+   "counties": [
+    "Seminole"
+   ],
+   "description": "BCC: Fiscal Year 2026/27 Service Funding Agreement with Central Florida Regional Transportation Authority (LYNX), $11,745,651. Result: Pass per clerk.",
+   "shortfall": "Nov 10 (WFTV): Sheriff Dennis Lemma expects position cuts \"in the hundreds\"; county projects a 27% drop in county property tax revenue (no dollar figure stated)",
+   "amount": 11745651.0,
+   "link": "https://seminolecountyfl.legistar.com/gateway.aspx?M=L&ID=7201",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-10-27",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 11745700.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "6dc1e5eaac",
+   "government": "Pasco County",
+   "governments": [
+    "Pasco County"
+   ],
+   "level": "county",
+   "counties": [
+    "Pasco"
+   ],
+   "description": "BCC C18: Amendment No. 1 to the Progressive Design Build Agreement with Vogel Bros. Building Co. for the Land O' Lakes Wastewater Treatment Plant Rehabilitation and Expansion, $142,099,260. Outcome not verified.",
+   "shortfall": null,
+   "amount": 142099260.0,
+   "link": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12022,plainText=false)#page=5",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-10-20",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 142099300.0,
    "added": "2026-11-19"
   }
  ]
