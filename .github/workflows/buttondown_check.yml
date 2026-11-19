@@ -1,0 +1,18 @@
+name: Buttondown settings check
+on: workflow_dispatch
+permissions: { contents: read }
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Read newsletter settings (sender and reply-to fields only)
+        env:
+          BUTTONDOWN_API_KEY: ${{ secrets.BUTTONDOWN_API_KEY }}
+        run: |
+          curl -s -H "Authorization: Token $BUTTONDOWN_API_KEY" https://api.buttondown.com/v1/newsletters \
+          | python3 -c "
+          import json,sys
+          d=json.load(sys.stdin); rs=d.get('results',[d])
+          for n in rs:
+              print({k:v for k,v in n.items() if any(w in k for w in ('email','reply','from','sender','name','username','domain'))})
+          "
