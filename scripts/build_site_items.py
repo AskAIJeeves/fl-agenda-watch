@@ -75,6 +75,8 @@ def num(v):
 
 
 def main():
+    global CUTOFF
+    CUTOFF = (__import__("datetime").date.today() - __import__("datetime").timedelta(days=365)).isoformat()
     lookup = json.loads((ROOT / "site/data/counties.json").read_text())["city_to_county"]
     xp = ROOT / "data/review_export.json"
     if not xp.exists():      # no export yet: keep the current items, refresh everything else
@@ -94,6 +96,9 @@ def main():
             continue          # flagged for Matt: held off the site until he sets a Decision
         if kind == "spending" and call not in ("Feature", "Keep"):
             continue
+        when = str(r.get("meeting_date") or r.get("added") or "")[:10]
+        if not when or when < CUTOFF:
+            continue          # site shows the past 12 months and everything ahead; older rows stay in the sheet
         iid = r.get("item_id") or r.get("link")
         if not iid or iid in seen:
             continue
