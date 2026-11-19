@@ -106,9 +106,12 @@ def main():
             "meeting_date": (r.get("meeting_date") or None) and str(r["meeting_date"])[:10],
             "categories": categories(r.get("category")),
             "featured": call == "Feature",
+            "_pick": "reviewer" if decision == "Feature" else ("suggested" if call == "Feature" else None),
             "project_total": num(r.get("project_total")),
             "added": (r.get("added") or None) and str(r["added"])[:10],
         })
+    if not keep:
+        trim_featured(items)
     out = keep or {"updated": date.today().isoformat(), "items": items}
     items = out["items"]
     (ROOT / "site/data/items.json").write_text(json.dumps(out, indent=1))
@@ -125,6 +128,24 @@ def main():
     write_csv(items)
     write_snapshot(items, projects, out["updated"])
     print(f"site items: {len(items)} ({sum(i['featured'] for i in items)} featured); projects: {len(projects)}")
+
+
+FEATURED_CAP = 40
+
+
+def trim_featured(items):
+    """Keep Featured short. The reviewer's own Feature picks always stay. Suggested Feature calls fill the remaining
+    slots: items still up for a vote first (soonest meeting), then the most recent meetings, larger amounts first."""
+    today = date.today().isoformat()
+    picks = [i for i in items if i.get("_pick") == "reviewer"]
+    sugg = [i for i in items if i.get("_pick") == "suggested"]
+    pending = sorted([i for i in sugg if (i.get("meeting_date") or "") >= today], key=lambda i: (i["meeting_date"], -abs(i.get("amount") or 0)))
+    past = sorted([i for i in sugg if i not in pending], key=lambda i: (i.get("meeting_date") or "", abs(i.get("amount") or 0)), reverse=True)
+    room = max(0, FEATURED_CAP - len(picks))
+    chosen = {id(i) for i in picks} | {id(i) for i in (pending + past)[:room]}
+    for i in items:
+        i["featured"] = id(i) in chosen
+        i.pop("_pick", None)
 
 
 def money(n):

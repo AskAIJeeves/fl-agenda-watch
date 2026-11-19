@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-19",
- "governments": 128,
+ "governments": 132,
  "counties": {
   "Alachua": [
    "Gainesville"
@@ -39,6 +39,9 @@
   "Citrus": [
    "Crystal River",
    "Inverness"
+  ],
+  "Clay": [
+   "Clay County"
   ],
   "Collier": [
    "Collier County",
@@ -137,6 +140,7 @@
    "Orange County",
    "Apopka",
    "Ocoee",
+   "Orange County Public Schools",
    "Orlando",
    "Winter Garden",
    "Winter Park"
@@ -186,6 +190,7 @@
   "Sarasota": [
    "Sarasota County",
    "North Port",
+   "Sarasota",
    "Venice"
   ],
   "Seminole": [
@@ -211,6 +216,7 @@
    "Suwannee County"
   ],
   "Volusia": [
+   "Volusia County",
    "Daytona Beach",
    "DeLand",
    "Deltona",
