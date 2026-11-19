@@ -1,6 +1,6 @@
 {
  "list_errors": {},
- "remaining": 3,
+ "remaining": 0,
  "seen": {
   "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3018,plainText=false)": {
    "date": "2026-01-07",
@@ -10890,6 +10890,11 @@
    "hits": 4,
    "status": "ok"
   },
+  "https://miamibeachfl.primegov.com/Public/CompiledDocument?meetingTemplateId=6280&compileOutputType=1": {
+   "date": "2026-11-18",
+   "hits": 31,
+   "status": "ok"
+  },
   "https://miamibeachfl.primegov.com/Public/CompiledDocument?meetingTemplateId=6287&compileOutputType=1": {
    "date": "2026-11-04",
    "hits": 0,
@@ -18651,5 +18656,5 @@
    "status": "ok"
   }
  },
- "updated_utc": "2026-11-19T02:36:29+00:00"
+ "updated_utc": "2026-11-19T11:46:00+00:00"
 }
