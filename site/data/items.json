@@ -2800,7 +2800,7 @@
    "categories": [
     "Debt"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": null,
    "added": "2026-11-15"
   },
@@ -7320,6 +7320,402 @@
    "featured": false,
    "project_total": 100000.0,
    "added": "2026-11-16"
+  },
+  {
+   "id": "3232473924",
+   "government": "Leesburg",
+   "governments": [
+    "Leesburg"
+   ],
+   "level": "city",
+   "counties": [
+    "Lake"
+   ],
+   "description": "City Commission 5.C.1: FY2026-27 civic organization funding agreements, $72,050 total: Leesburg Area Chamber of Commerce $50,000, Leesburg Arts Center $10,670, Yellow Jacket Booster Club $5,000, Community Development Corp. of Leesburg $3,880, LHS band booster $2,500 (0.2% of general fund)",
+   "shortfall": null,
+   "amount": 72050.0,
+   "link": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3367,plainText=false)#page=2",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-11-23",
+   "categories": [
+    "Grant to outside group"
+   ],
+   "featured": true,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "5a9f6c7ef5",
+   "government": "Miami Beach",
+   "governments": [
+    "Miami Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Miami-Dade"
+   ],
+   "description": "Commission C7 BC (Nov 18): directs holding the Stantec feasibility study for a 5th Street pedestrian bridge, seeking a written agreement for TCH 500 Alton, LLC to pay its full cost, and bringing scope and cost back Dec 9. Amount not stated. Outcome not verified.",
+   "shortfall": "Miami Beach: Commissioner Suarez expects about $11.9M loss in FY2028, $22.5M in FY2029 (Miami Herald, Nov 17, 2026)",
+   "amount": null,
+   "link": "https://miamibeachfl.primegov.com/Public/CompiledDocument?meetingTemplateId=6280&compileOutputType=1#page=24",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-18",
+   "categories": [
+    "Consultants",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "be8abeec27",
+   "government": "Gadsden County",
+   "governments": [
+    "Gadsden County"
+   ],
+   "level": "county",
+   "counties": [
+    "Gadsden"
+   ],
+   "description": "BOCC Apr 21, 2025 consent 7.d and 7.e: funding requests for the Havana and Chattahoochee 20th of May celebration and for high school mega reunions (Havana Northside, East Gadsden, Shanks, Greensboro, Chattahoochee). Amounts not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=85#page=2",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2025-04-21",
+   "categories": [
+    "Grant to outside group",
+    "Vanity & events"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "4dd8d6020a",
+   "government": "Coconut Creek",
+   "governments": [
+    "Coconut Creek"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission Res 2025-071: Neighborhood Enhancement Grant matching funds to Lucaya Village I Condominium Association for security enhancements. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2024#page=5",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2025-05-08",
+   "categories": [
+    "Grant to outside group",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "de97f97952",
+   "government": "Coconut Creek",
+   "governments": [
+    "Coconut Creek"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission Res 2025-039: Neighborhood Enhancement Grant matching funds to Cayman Village Condominium Association for security enhancements. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=1978#page=3",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2025-03-13",
+   "categories": [
+    "Grant to outside group",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "6ed544890b",
+   "government": "Coconut Creek",
+   "governments": [
+    "Coconut Creek"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission Res 2025-064: Neighborhood Enhancement Grant matching funds to Aruba Village Condominium Association for security enhancements. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2018#page=4",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2025-04-24",
+   "categories": [
+    "Grant to outside group",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "036701d78f",
+   "government": "Delray Beach",
+   "governments": [
+    "Delray Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Palm Beach"
+   ],
+   "description": "CRA Jan 27, 2026 item 7F: Paint-Up and Signage funding assistance up to $3,661 to Core Shake Studio, LLC for signage at 401 W. Atlantic Ave (0.01% of Delray Beach's special revenue funds). Outcome not verified.",
+   "shortfall": null,
+   "amount": 3661.0,
+   "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3343#page=5",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-01-27",
+   "categories": [
+    "Grant to outside group",
+    "Private benefit",
+    "Vanity & events"
+   ],
+   "featured": false,
+   "project_total": 3700.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "0e8d1c6624",
+   "government": "Delray Beach",
+   "governments": [
+    "Delray Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Palm Beach"
+   ],
+   "description": "CRA Jan 27, 2026 item 7H: reinstates and amends a Site Development Funding Assistance grant to Harvey Insurance Solutions, Inc. (20 NW 6th Ave, Unit 5), extending it and raising it to up to $56,268.71 (0.18% of Delray Beach's special revenue funds). Outcome not verified.",
+   "shortfall": null,
+   "amount": 56268.71,
+   "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3343#page=6",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-01-27",
+   "categories": [
+    "Grant to outside group",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": 56300.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "c63c92b568",
+   "government": "Ocala",
+   "governments": [
+    "Ocala"
+   ],
+   "level": "city",
+   "counties": [
+    "Marion"
+   ],
+   "description": "City Council Apr 7, 2026 consent 6c and 6d: rental of two traveling children's exhibits, $55,000 each, from The Magic House (\"Super WHY!\") and Omaha Children's Museum (\"My Wild Backyard\") (0.07% of general fund). Outcome not verified.",
+   "shortfall": null,
+   "amount": 110000.0,
+   "link": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=3925#page=3",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-04-07",
+   "categories": [
+    "Vanity & events",
+    "No-bid / bidding waived"
+   ],
+   "featured": false,
+   "project_total": 79800.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "d7c62b334b",
+   "government": "Pinecrest",
+   "governments": [
+    "Pinecrest"
+   ],
+   "level": "city",
+   "counties": [
+    "Miami-Dade"
+   ],
+   "description": "Village Council Jun 13, 2023 item 5: resolution waiving competitive bidding for an agreement for the 136 St roundabout sculpture; vendor left blank in the draft. Amount not in feed text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=690#page=6",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2023-06-13",
+   "categories": [
+    "No-bid / bidding waived",
+    "Vanity & events"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "caea371b55",
+   "government": "Zephyrhills",
+   "governments": [
+    "Zephyrhills"
+   ],
+   "level": "city",
+   "counties": [
+    "Pasco"
+   ],
+   "description": "City Council: piggyback of a Sumter County contract for street resurfacing, not to exceed $979,193.21 from gas tax funds (6.1% of Zephyrhills's special revenue funds).",
+   "shortfall": null,
+   "amount": 979193.21,
+   "link": "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1494,plainText=false)#page=68",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-11-23",
+   "categories": [
+    "No-bid / bidding waived"
+   ],
+   "featured": false,
+   "project_total": 1000000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "7aa990c938",
+   "government": "Zephyrhills",
+   "governments": [
+    "Zephyrhills"
+   ],
+   "level": "city",
+   "counties": [
+    "Pasco"
+   ],
+   "description": "City Council: month-to-month Piggyback Extension Agreement No. 41-22-12C with Infotect Design Solutions, Inc. for IT network support while a new procurement is completed. Amount not stated.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://zephyrhillsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1494,plainText=false)#page=248",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-11-23",
+   "categories": [
+    "No-bid / bidding waived"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "cb9cb2cde4",
+   "government": "Port St. Lucie",
+   "governments": [
+    "Port St. Lucie"
+   ],
+   "level": "city",
+   "counties": [
+    "St. Lucie"
+   ],
+   "description": "City Council 2026-920: piggyback of OMNIA contract R-AB-26004-01 for playground and outdoor fitness equipment, site accessories and surfacing (City Contract 20270019). Amount not stated.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://psl.legistar.com/gateway.aspx?M=L&ID=11970",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-11-23",
+   "categories": [
+    "No-bid / bidding waived"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "e59f4d2a97",
+   "government": "Tampa",
+   "governments": [
+    "Tampa"
+   ],
+   "level": "city",
+   "counties": [
+    "Hillsborough"
+   ],
+   "description": "City Council: Microsoft enterprise licensing renewal through reseller CDW Government LLC under State of Florida contract 43230000-23-NASPO-ACS, estimated $6,575,598.39 (0.85% of general fund; fund not named).",
+   "shortfall": null,
+   "amount": 6575598.39,
+   "link": "https://tampagov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/City_Council_Regular_-_November_19,_2026_2941_Agenda_11_19_2026_9_00_00_AM.pdf?documentType=1&meetingId=2941#page=18",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-11-19",
+   "categories": [
+    "No-bid / bidding waived",
+    "Large spending"
+   ],
+   "featured": false,
+   "project_total": 6575600.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "85aacd8864",
+   "government": "Lee County",
+   "governments": [
+    "Lee County"
+   ],
+   "level": "county",
+   "counties": [
+    "Lee"
+   ],
+   "description": "Nov 17 (Gulf Coast News Now): Commissioner Cecil Pendergrass: \"We're going to reduce services, which is unfortunate.\" Expects about $144M revenue loss over two years; hiring freeze on 80 positions starts Dec 1. Commissioner Ruane: no millage increase.",
+   "shortfall": null,
+   "amount": 144000000.0,
+   "link": "https://www.gulfcoastnewsnow.com/article/hiring-freeze-amendment-3-revenue-cut-lee-florida/74458104",
+   "stage": "statement",
+   "kind": "statement",
+   "meeting_date": null,
+   "categories": [
+    "Service cut",
+    "Amendment 3"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "91c1a117a5",
+   "government": "Lee County",
+   "governments": [
+    "Lee County"
+   ],
+   "level": "county",
+   "counties": [
+    "Lee"
+   ],
+   "description": "Gulf Coast News Now, Nov 17: \"Lee County hiring freeze starts Dec. 1 as Amendment 3 could cut $144M in revenue\". 80 positions on hold; raises unlikely for two years.",
+   "shortfall": "Lee County: Commissioner Pendergrass expects about $144M revenue loss over two years; hiring freeze on 80 positions from Dec 1 (Nov 17, 2026)",
+   "amount": 144000000.0,
+   "link": "https://www.gulfcoastnewsnow.com/article/hiring-freeze-amendment-3-revenue-cut-lee-florida/74458104",
+   "stage": "news",
+   "kind": "news",
+   "meeting_date": null,
+   "categories": [
+    "Service cut"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
   }
  ]
 }
