@@ -1,6 +1,9 @@
 {
  "updated": "2026-11-19",
  "governments": 132,
+ "county_governments": 34,
+ "population_share_county": 75,
+ "population_source": "https://www.edr.state.fl.us/Content/population-demographics/data/MediumProjections_2025.pdf",
  "counties": {
   "Alachua": [
    "Gainesville"

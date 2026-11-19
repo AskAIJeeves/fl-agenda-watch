@@ -184,8 +184,15 @@ def write_coverage(lookup):
     for c in by_county:
         by_county[c] = sorted(set(by_county[c]), key=lambda n: (not n.endswith("County"), n))
     total = sum(1 for e in names if e in seen)
+    # Population share: residents of counties whose county government's agendas are read
+    # (Duval counts through the consolidated City of Jacksonville). Conservative: covered cities in other counties add more.
+    pop = json.loads((ROOT / "site/data/county_population.json").read_text())
+    cgov = [c for c, govs in by_county.items() if f"{c} County" in govs or (c == "Duval" and "Jacksonville" in govs)]
+    share = round(100 * sum(pop["counties"].get(c, 0) for c in cgov) / pop["florida"])
     (ROOT / "site/data/coverage.json").write_text(json.dumps(
-        {"updated": date.today().isoformat(), "governments": total, "counties": dict(sorted(by_county.items()))}, indent=1))
+        {"updated": date.today().isoformat(), "governments": total, "county_governments": len(cgov),
+         "population_share_county": share, "population_source": pop["source_url"],
+         "counties": dict(sorted(by_county.items()))}, indent=1))
 
 
 def write_csv(items):

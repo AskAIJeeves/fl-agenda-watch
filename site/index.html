@@ -51,6 +51,8 @@ a{color:inherit}
 :root:not([data-theme="light"]) .wm-fl{filter:drop-shadow(0 0 8px rgba(255,45,135,.5))}}
 .tagline{color:var(--ink);font-size:15px;font-weight:600;margin-top:6px}
 .subhead{color:var(--muted);font-size:13px}
+.covline{display:inline-block;margin-top:8px;font-size:13px;font-weight:600;background:var(--chip);border-radius:12px;padding:5px 12px;color:var(--ink)}
+.covline b{color:var(--teal)}
 :root[data-theme="dark"] .wm-sp{color:#3fe0e4;text-shadow:0 0 10px rgba(63,224,228,.45),2px 2px 0 #5a1238}
 .soon{background:var(--accent-soft);border:1px solid var(--accent);border-radius:10px;padding:12px 14px;margin:0 0 16px;font-weight:600}
 .signup[aria-disabled="true"] input,.signup[aria-disabled="true"] button,.signup[aria-disabled="true"] label{opacity:.55;cursor:not-allowed}
@@ -175,6 +177,7 @@ footer .wrap{padding-block:18px 28px;display:grid;gap:6px}
       <span class="wm-bar" aria-hidden="true"></span>
       <span class="tagline">Local spending and taxes, without the agenda hunt.</span>
       <span class="subhead">Florida local spending, found on the agenda before the vote.</span>
+      <span class="covline" id="covline" hidden></span>
       <span class="indep">Independent. Not affiliated with any government.</span>
     </a>
     <nav class="tabs" aria-label="Sections">
@@ -226,7 +229,7 @@ footer .wrap{padding-block:18px 28px;display:grid;gap:6px}
 <script>
 const SITE_URL = "https://floridaspending.com/";
 /* Set to your Buttondown username once the newsletter account exists. */
-const BUTTONDOWN_USER = "";
+const BUTTONDOWN_USER = "proptaxflorida";
 
 const state = { items: [], projects: [], updated: null, counties: [], cats: [], sel: [], cat: "", kind: "", q: "", sort: "vote" };
 const $ = (s) => document.querySelector(s);
@@ -461,18 +464,21 @@ function renderNewsletter(){
   const live = !!BUTTONDOWN_USER;
   const counties = state.coverage ? Object.keys(state.coverage.counties).filter(c => c !== "Other").sort() : state.counties;
   const dis = live ? "" : " disabled";
-  const all = `<label style="grid-column:1 / -1;font-weight:600"><input type="checkbox" id="nl-all" value="All"${dis}> All of Florida</label>`;
-  const boxes = all + counties.map((c, i) => `<label><input type="checkbox" class="nl-c" id="nl-c-${i}" value="${esc(c)}" ${state.sel.includes(c) ? "checked" : ""}${dis}> ${esc(c)}</label>`).join("");
+  const all = `<label style="grid-column:1 / -1;font-weight:600"><input type="checkbox" name="tag" id="nl-all" value="All Florida"${dis}> All of Florida</label>`;
+  const boxes = all + counties.map((c, i) => `<label><input type="checkbox" name="tag" class="nl-c" id="nl-c-${i}" value="${esc(c)}" ${state.sel.includes(c) ? "checked" : ""}${dis}> ${esc(c)}</label>`).join("");
   $("#main").innerHTML = `<div class="page">
   <h1>The weekly email</h1>
-  ${live ? "" : `<div class="soon" role="note">Coming soon. Signups are not open yet. This page will take subscriptions as soon as the newsletter is ready; until then, the Featured page shows what is coming up for a vote.</div>`}
+  ${live ? "" : `<div class="soon" role="note">Coming soon. Signups are not open yet.</div>`}
   <p>One email a week with the spending items coming up for a vote in the counties you pick, each with its source link. Counties are listed once the agendas of at least one of their local governments are being read; <a href="#coverage">see which governments are covered</a>.</p>
-  <form class="signup" id="signup" novalidate${live ? "" : ' aria-disabled="true"'}>
-    <div><label for="nl-email"><b>Email</b></label><br><input type="email" id="nl-email" required placeholder="you@example.com" style="width:100%;margin-top:6px"${dis}></div>
+  <form class="signup" id="signup" method="post" target="_blank" action="https://buttondown.com/api/emails/embed-subscribe/${esc(BUTTONDOWN_USER)}"${live ? "" : ' aria-disabled="true"'}>
+    <input type="hidden" name="embed" value="1">
+    <input type="hidden" name="utm_source" value="floridaspending.com">
+    <div><label for="nl-email"><b>Email</b></label><br><input type="email" name="email" id="nl-email" required placeholder="you@example.com" style="width:100%;margin-top:6px"${dis}></div>
     <div><b>Counties</b> <span class="note">(pick at least one, or All of Florida)</span>
       <div class="county-grid" style="margin-top:8px">${boxes}</div></div>
     <div><button class="btn" type="submit"${dis}>${live ? "Subscribe" : "Subscribe (coming soon)"}</button></div>
     <p class="status" id="nl-status" role="status"></p>
+    <p class="note">Signups are handled by Buttondown. A confirmation email follows; your subscription starts once you confirm.</p>
   </form>
   </div>`;
   if (!live) return;
@@ -481,20 +487,12 @@ function renderNewsletter(){
   document.querySelectorAll(".nl-c").forEach(x => x.addEventListener("change", () => { if (x.checked) $("#nl-all").checked = false; }));
 }
 
-async function subscribe(e){
-  e.preventDefault();
+function subscribe(e){
   const email = $("#nl-email").value.trim();
   const status = $("#nl-status");
-  if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){ status.textContent = "Enter a valid email address."; return; }
-  const tags = [...document.querySelectorAll(".county-grid input:checked")].map(i => i.value);
-  if (!tags.length){ status.textContent = "Pick at least one county, or All of Florida."; return; }
-  if (!BUTTONDOWN_USER){ status.textContent = "Signups open soon. The newsletter account is not connected yet."; return; }
-  const body = new URLSearchParams({ email });
-  tags.forEach(t => body.append("tag", t));
-  try {
-    await fetch(`https://buttondown.com/api/emails/embed-subscribe/${BUTTONDOWN_USER}`, { method: "POST", body, mode: "no-cors" });
-    status.textContent = "Check your inbox to confirm your subscription.";
-  } catch { status.textContent = "Signup did not go through. Try again in a minute."; }
+  if (!/^[^@\s]+@[^@\s]+\.[^@\s]+$/.test(email)){ e.preventDefault(); status.textContent = "Enter a valid email address."; return; }
+  if (!document.querySelector(".county-grid input:checked")){ e.preventDefault(); status.textContent = "Pick at least one county, or All of Florida."; return; }
+  status.textContent = "Almost done: Buttondown opened in a new tab. Check your inbox to confirm your subscription.";
 }
 
 function renderPetition(){
@@ -544,7 +542,8 @@ function renderCoverage(){
     `<h2 style="margin:18px 0 2px;font-size:17px">${esc(county)} County</h2><p style="margin:0">${govs.map(esc).join(" · ")}</p>`).join("");
   $("#main").innerHTML = `<div class="page">
   <h1>Governments covered</h1>
-  <p>The agendas of these <strong>${c.governments}</strong> local governments in <strong>${n}</strong> counties are read every night. A government is listed once its agendas have produced items. Coverage keeps growing; to suggest one that is missing, <button class="linkbtn" type="button" data-mail="contact">contact us</button>.</p>
+  <p>The agendas of these <strong>${c.governments}</strong> local governments in <strong>${n}</strong> counties are read every night. Their county governments alone serve about <strong>${c.population_share_county}%</strong> of Florida's residents (${c.county_governments} of 67 county governments, counting Jacksonville's consolidated government for Duval County; population from the <a href="${esc(c.population_source)}" target="_blank" rel="noopener">state's April 2025 estimates</a>). Covered cities and school districts in other counties reach more residents than that figure counts.</p>
+  <p>Work is ongoing to add more local governments. A government is listed once its agendas have produced items. To suggest one that is missing, <button class="linkbtn" type="button" data-mail="contact">contact us</button>.</p>
   ${rows}</div>`;
 }
 
@@ -619,6 +618,11 @@ async function load(){
   }
   try { const p = await (await fetch("data/projects.json", { cache: "no-cache" })).json(); state.projects = p.projects || []; } catch { state.projects = []; }
   try { state.coverage = await (await fetch("data/coverage.json", { cache: "no-cache" })).json(); } catch { state.coverage = null; }
+  if (state.coverage && state.coverage.population_share_county){
+    const c = state.coverage, cl = $("#covline");
+    cl.innerHTML = `Coverage: county governments serving about <b>${c.population_share_county}% of Floridians</b>, ${c.governments} local governments in all. More are being added.`;
+    cl.hidden = false;
+  }
   state.counties = [...new Set([...state.items.flatMap(i => i.counties), ...state.projects.flatMap(p => p.counties || [])])].filter(c => c !== "Other").sort();
   state.cats = [...new Set(state.items.flatMap(i => i.categories))].sort();
   $("#county-pick").insertAdjacentHTML("beforeend", state.counties.map(c => `<option value="${esc(c)}">${esc(c)} County</option>`).join(""));
