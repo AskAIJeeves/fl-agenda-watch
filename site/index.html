@@ -38,7 +38,7 @@ a{color:inherit}
 .wrap{max-width:860px;margin:0 auto;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
 
 /* Masthead */
-.mast{border-bottom:1px solid var(--line);background:var(--surface)}
+.mast{border-bottom:1px solid var(--line);background:var(--surface);position:sticky;top:0;z-index:6}
 .mast .wrap{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px 24px;padding-block:22px 16px}
 .brand{text-decoration:none;display:flex;flex-direction:column;gap:2px}
 /* Wordmark: original retro Florida look, a sunset-gradient script over a teal italic block word */
@@ -53,6 +53,13 @@ a{color:inherit}
 .subhead{color:var(--muted);font-size:13px}
 .covline{display:inline-block;margin-top:8px;font-size:13px;font-weight:600;background:var(--chip);border-radius:12px;padding:5px 12px;color:var(--ink)}
 .covline b{color:var(--teal)}
+/* Frozen header: after scrolling, it shrinks to the wordmark and tabs */
+body.compact .mast .wrap{padding-block:8px 8px;align-items:center}
+body.compact .tagline,body.compact .subhead,body.compact .covline,body.compact .indep,body.compact .wm-bar{display:none}
+body.compact .wm-fl{font-size:30px}
+body.compact .wm-sp{font-size:21px}
+body.compact .wm-com{font-size:13px}
+@media (max-width:640px){body.compact nav.tabs a{padding:5px 9px;font-size:13px}}
 :root[data-theme="dark"] .wm-sp{color:#3fe0e4;text-shadow:0 0 10px rgba(63,224,228,.45),2px 2px 0 #5a1238}
 .soon{background:var(--accent-soft);border:1px solid var(--accent);border-radius:10px;padding:12px 14px;margin:0 0 16px;font-weight:600}
 .signup[aria-disabled="true"] input,.signup[aria-disabled="true"] button,.signup[aria-disabled="true"] label{opacity:.55;cursor:not-allowed}
@@ -63,7 +70,7 @@ nav.tabs a:hover:not([aria-current="page"]){background:var(--chip);color:var(--i
 
 /* Filter bar */
 body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:10;background:var(--bg)}
-.filters{position:sticky;top:env(safe-area-inset-top,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+.filters{position:sticky;top:var(--mast-h,0px);z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
 .filters .wrap{display:flex;flex-wrap:wrap;gap:8px 10px;align-items:center;padding-block:10px}
 .filters label{font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:.06em;color:var(--muted)}
 select,input[type=search],input[type=email]{font:inherit;font-size:15px;color:var(--ink);background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:7px 10px;min-width:0}
@@ -228,6 +235,13 @@ footer .wrap{padding-block:18px 28px;display:grid;gap:6px}
 
 <script>
 const SITE_URL = "https://floridaspending.com/";
+/* How the category filter is grouped on the site. Names must match the labels in site/data/items.json. */
+const CAT_GROUPS = [
+  ["What the money is for", ["Grants to outside groups", "Private benefit", "Buildings & facilities", "Consultants", "Events, art & branding", "Perks for officials", "Borrowing & debt", "Legal costs"]],
+  ["How it was approved", ["No competitive bidding", "Large dollar amount"]],
+  ["What officials are saying", ["Shortfall warnings", "Tax or fee increases", "Service cuts", "Amendment 3 impact"]],
+  ["Money coming in", ["Money coming in"]],
+];
 /* Set to your Buttondown username once the newsletter account exists. */
 const BUTTONDOWN_USER = "proptaxflorida";
 
@@ -599,6 +613,16 @@ document.addEventListener("click", async (e) => {
 });
 
 $("#county-pick").addEventListener("change", (e) => { const v = e.target.value; if (v && !state.sel.includes(v)) state.sel.push(v); e.target.value = ""; rerender(); });
+/* Frozen header: keep the filter bar just below it, and shrink it once the page scrolls */
+const mast = document.querySelector(".mast");
+const setMastH = () => document.documentElement.style.setProperty("--mast-h", mast.offsetHeight + "px");
+new ResizeObserver(setMastH).observe(mast);
+let compact = false;
+window.addEventListener("scroll", () => {
+  const c = window.scrollY > (compact ? 20 : 120);
+  if (c !== compact){ compact = c; document.body.classList.toggle("compact", c); }
+}, { passive: true });
+
 $("#cat-pick").addEventListener("change", (e) => { state.cat = e.target.value; rerender(); });
 $("#kind-pick").addEventListener("change", (e) => { state.kind = e.target.value; rerender(); });
 $("#sort-pick").addEventListener("change", (e) => { state.sort = e.target.value; rerender(); });
@@ -626,7 +650,13 @@ async function load(){
   state.counties = [...new Set([...state.items.flatMap(i => i.counties), ...state.projects.flatMap(p => p.counties || [])])].filter(c => c !== "Other").sort();
   state.cats = [...new Set(state.items.flatMap(i => i.categories))].sort();
   $("#county-pick").insertAdjacentHTML("beforeend", state.counties.map(c => `<option value="${esc(c)}">${esc(c)} County</option>`).join(""));
-  $("#cat-pick").insertAdjacentHTML("beforeend", state.cats.map(c => `<option value="${esc(c)}">${esc(c)}</option>`).join(""));
+  const used = new Set(state.cats), placed = new Set();
+  const groups = CAT_GROUPS.map(([label, names]) => {
+    const opts = names.filter(n => used.has(n)); opts.forEach(n => placed.add(n));
+    return opts.length ? `<optgroup label="${esc(label)}">${opts.map(c => `<option value="${esc(c)}">${esc(c)}</option>`).join("")}</optgroup>` : "";
+  }).join("");
+  const rest = state.cats.filter(c => !placed.has(c));
+  $("#cat-pick").insertAdjacentHTML("beforeend", groups + (rest.length ? `<optgroup label="Other">${rest.map(c => `<option value="${esc(c)}">${esc(c)}</option>`).join("")}</optgroup>` : ""));
   try { const s = JSON.parse(localStorage.getItem("fs-counties") || "[]"); state.sel = s.filter(c => state.counties.includes(c)); } catch {}
   if (state.updated) $("#updated").textContent = `List updated ${fmtDate(state.updated)}, ${state.updated.slice(0,4)}.`;
   renderChips();

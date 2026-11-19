@@ -24,12 +24,18 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 
 CAT_NAMES = {
-    "outgoing_grant": "Grant to outside group", "no_bid": "No-bid / bidding waived", "vanity": "Vanity & events",
-    "officials_perks": "Officials' perks", "private_benefit": "Private benefit", "facilities": "Facilities",
-    "consultants": "Consultants", "debt": "Debt", "legal": "Legal", "large_spending": "Large spending",
-    "receipt": "Money received", "deficit projection": "Deficit projection", "tax or fee increase": "Tax or fee increase",
-    "service cut": "Service cut", "amendment 3 impact": "Amendment 3", "amendment 3": "Amendment 3",
-    "bypass": "No-bid / bidding waived", "bypass_competition": "No-bid / bidding waived", "tax increase": "Tax or fee increase",
+    # spending: what the money is for
+    "outgoing_grant": "Grants to outside groups", "private_benefit": "Private benefit", "facilities": "Buildings & facilities",
+    "consultants": "Consultants", "vanity": "Events, art & branding", "officials_perks": "Perks for officials",
+    "debt": "Borrowing & debt", "legal": "Legal costs",
+    # how it was approved
+    "no_bid": "No competitive bidding", "bypass": "No competitive bidding", "bypass_competition": "No competitive bidding",
+    "large_spending": "Large dollar amount",
+    # money in
+    "receipt": "Money coming in",
+    # officials' statements
+    "deficit projection": "Shortfall warnings", "tax or fee increase": "Tax or fee increases", "tax increase": "Tax or fee increases",
+    "service cut": "Service cuts", "amendment 3 impact": "Amendment 3 impact", "amendment 3": "Amendment 3 impact",
 }
 SPLIT = re.compile(r"\s*(?:/|;|,| and )\s*")
 

@@ -19,8 +19,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-16",
    "categories": [
-    "Grant to outside group",
-    "No-bid / bidding waived"
+    "Grants to outside groups",
+    "No competitive bidding"
    ],
    "featured": true,
    "project_total": null,
@@ -44,8 +44,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-16",
    "categories": [
-    "Grant to outside group",
-    "No-bid / bidding waived"
+    "Grants to outside groups",
+    "No competitive bidding"
    ],
    "featured": true,
    "project_total": null,
@@ -69,8 +69,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-17",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events"
+    "Grants to outside groups",
+    "Events, art & branding"
    ],
    "featured": true,
    "project_total": null,
@@ -94,7 +94,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-17",
    "categories": [
-    "Facilities"
+    "Buildings & facilities"
    ],
    "featured": true,
    "project_total": null,
@@ -118,7 +118,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-18",
    "categories": [
-    "Vanity & events"
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": null,
@@ -142,8 +142,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-18",
    "categories": [
-    "Vanity & events",
-    "No-bid / bidding waived"
+    "Events, art & branding",
+    "No competitive bidding"
    ],
    "featured": true,
    "project_total": null,
@@ -167,8 +167,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-19",
    "categories": [
-    "Vanity & events",
-    "Grant to outside group"
+    "Events, art & branding",
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": null,
@@ -192,7 +192,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-17",
    "categories": [
-    "Vanity & events"
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": null,
@@ -216,8 +216,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-11",
    "categories": [
-    "Vanity & events",
-    "Grant to outside group"
+    "Events, art & branding",
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": null,
@@ -241,7 +241,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-05",
    "categories": [
-    "Vanity & events"
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": null,
@@ -265,8 +265,8 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Amendment 3",
-    "Service cut"
+    "Amendment 3 impact",
+    "Service cuts"
    ],
    "featured": false,
    "project_total": null,
@@ -290,7 +290,7 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Tax or fee increase"
+    "Tax or fee increases"
    ],
    "featured": false,
    "project_total": null,
@@ -315,7 +315,7 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Amendment 3"
+    "Amendment 3 impact"
    ],
    "featured": false,
    "project_total": null,
@@ -339,8 +339,8 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Service cut",
-    "Amendment 3"
+    "Service cuts",
+    "Amendment 3 impact"
    ],
    "featured": false,
    "project_total": null,
@@ -364,7 +364,7 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Amendment 3"
+    "Amendment 3 impact"
    ],
    "featured": false,
    "project_total": null,
@@ -388,8 +388,8 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Amendment 3",
-    "Service cut"
+    "Amendment 3 impact",
+    "Service cuts"
    ],
    "featured": false,
    "project_total": null,
@@ -413,7 +413,7 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Deficit projection"
+    "Shortfall warnings"
    ],
    "featured": false,
    "project_total": null,
@@ -437,7 +437,7 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Deficit projection"
+    "Shortfall warnings"
    ],
    "featured": false,
    "project_total": null,
@@ -461,8 +461,8 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Service cut",
-    "Amendment 3"
+    "Service cuts",
+    "Amendment 3 impact"
    ],
    "featured": false,
    "project_total": null,
@@ -486,8 +486,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-16",
    "categories": [
-    "Grant to outside group",
-    "Debt"
+    "Grants to outside groups",
+    "Borrowing & debt"
    ],
    "featured": true,
    "project_total": null,
@@ -511,7 +511,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-17",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": null,
@@ -535,7 +535,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-17",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": null,
@@ -559,7 +559,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-17",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": null,
@@ -583,7 +583,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-17",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": true,
    "project_total": null,
@@ -607,7 +607,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-17",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": null,
@@ -631,7 +631,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-17",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": null,
@@ -655,7 +655,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-18",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": null,
@@ -679,7 +679,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-18",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": null,
@@ -703,7 +703,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-19",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": null,
@@ -727,7 +727,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-19",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": null,
@@ -751,7 +751,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-19",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": null,
@@ -775,7 +775,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-17",
    "categories": [
-    "No-bid / bidding waived"
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": null,
@@ -799,7 +799,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-17",
    "categories": [
-    "No-bid / bidding waived",
+    "No competitive bidding",
     "Consultants"
    ],
    "featured": false,
@@ -824,7 +824,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-17",
    "categories": [
-    "No-bid / bidding waived"
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": null,
@@ -848,7 +848,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-18",
    "categories": [
-    "No-bid / bidding waived"
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": null,
@@ -872,8 +872,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-18",
    "categories": [
-    "No-bid / bidding waived",
-    "Grant to outside group"
+    "No competitive bidding",
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": null,
@@ -897,7 +897,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-10",
    "categories": [
-    "No-bid / bidding waived",
+    "No competitive bidding",
     "Consultants"
    ],
    "featured": false,
@@ -922,8 +922,8 @@
    "kind": "news",
    "meeting_date": null,
    "categories": [
-    "Amendment 3",
-    "Facilities"
+    "Amendment 3 impact",
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": null,
@@ -947,7 +947,7 @@
    "kind": "news",
    "meeting_date": null,
    "categories": [
-    "Tax or fee increase"
+    "Tax or fee increases"
    ],
    "featured": true,
    "project_total": null,
@@ -972,8 +972,8 @@
    "kind": "news",
    "meeting_date": null,
    "categories": [
-    "Officials' perks",
-    "Amendment 3"
+    "Perks for officials",
+    "Amendment 3 impact"
    ],
    "featured": false,
    "project_total": null,
@@ -997,8 +997,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-17",
    "categories": [
-    "Facilities",
-    "No-bid / bidding waived"
+    "Buildings & facilities",
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": null,
@@ -1022,7 +1022,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-18",
    "categories": [
-    "Vanity & events"
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": null,
@@ -1047,7 +1047,7 @@
    "meeting_date": "2026-11-19",
    "categories": [
     "Private benefit",
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": true,
    "project_total": null,
@@ -1071,8 +1071,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-17",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events"
+    "Grants to outside groups",
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": null,
@@ -1096,7 +1096,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-17",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": null,
@@ -1120,7 +1120,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-18",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": null,
@@ -1144,7 +1144,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-19",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": null,
@@ -1168,8 +1168,8 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Service cut",
-    "Amendment 3"
+    "Service cuts",
+    "Amendment 3 impact"
    ],
    "featured": false,
    "project_total": null,
@@ -1193,8 +1193,8 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Service cut",
-    "Amendment 3"
+    "Service cuts",
+    "Amendment 3 impact"
    ],
    "featured": false,
    "project_total": null,
@@ -1219,8 +1219,8 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Deficit projection",
-    "Service cut"
+    "Shortfall warnings",
+    "Service cuts"
    ],
    "featured": false,
    "project_total": null,
@@ -1244,8 +1244,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-18",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events",
+    "Grants to outside groups",
+    "Events, art & branding",
     "Private benefit"
    ],
    "featured": true,
@@ -1270,7 +1270,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-19",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": true,
@@ -1295,7 +1295,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-10",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -1320,7 +1320,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-17",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": null,
@@ -1368,7 +1368,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-18",
    "categories": [
-    "No-bid / bidding waived"
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": null,
@@ -1392,8 +1392,8 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Service cut",
-    "Amendment 3"
+    "Service cuts",
+    "Amendment 3 impact"
    ],
    "featured": false,
    "project_total": null,
@@ -1417,8 +1417,8 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Service cut",
-    "Amendment 3"
+    "Service cuts",
+    "Amendment 3 impact"
    ],
    "featured": false,
    "project_total": null,
@@ -1442,8 +1442,8 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Service cut",
-    "Amendment 3"
+    "Service cuts",
+    "Amendment 3 impact"
    ],
    "featured": false,
    "project_total": null,
@@ -1467,8 +1467,8 @@
    "kind": "news",
    "meeting_date": null,
    "categories": [
-    "Facilities",
-    "Debt"
+    "Buildings & facilities",
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -1492,8 +1492,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-18",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events"
+    "Grants to outside groups",
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": 25000.0,
@@ -1517,8 +1517,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-18",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events"
+    "Grants to outside groups",
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": 10000.0,
@@ -1542,7 +1542,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-18",
    "categories": [
-    "Vanity & events"
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": 10000.0,
@@ -1566,7 +1566,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-18",
    "categories": [
-    "Officials' perks"
+    "Perks for officials"
    ],
    "featured": false,
    "project_total": null,
@@ -1590,8 +1590,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-19",
    "categories": [
-    "Facilities",
-    "Large spending"
+    "Buildings & facilities",
+    "Large dollar amount"
    ],
    "featured": true,
    "project_total": 10000000.0,
@@ -1615,8 +1615,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-19",
    "categories": [
-    "Facilities",
-    "Vanity & events"
+    "Buildings & facilities",
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": 438000.0,
@@ -1640,8 +1640,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-10",
    "categories": [
-    "Facilities",
-    "Debt",
+    "Buildings & facilities",
+    "Borrowing & debt",
     "Private benefit"
    ],
    "featured": true,
@@ -1666,8 +1666,8 @@
    "kind": "spending",
    "meeting_date": null,
    "categories": [
-    "Vanity & events",
-    "No-bid / bidding waived"
+    "Events, art & branding",
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": null,
@@ -1691,8 +1691,8 @@
    "kind": "spending",
    "meeting_date": null,
    "categories": [
-    "Vanity & events",
-    "No-bid / bidding waived"
+    "Events, art & branding",
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": null,
@@ -1716,7 +1716,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-18",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": 85000.0,
@@ -1740,8 +1740,8 @@
    "kind": "spending",
    "meeting_date": "2026-10-29",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events"
+    "Grants to outside groups",
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": 35000.0,
@@ -1765,7 +1765,7 @@
    "kind": "spending",
    "meeting_date": "2026-10-29",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": 30600.0,
@@ -1789,7 +1789,7 @@
    "kind": "spending",
    "meeting_date": null,
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -1814,7 +1814,7 @@
    "kind": "spending",
    "meeting_date": null,
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -1839,7 +1839,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-19",
    "categories": [
-    "No-bid / bidding waived"
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": 2198100.0,
@@ -1863,7 +1863,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-18",
    "categories": [
-    "No-bid / bidding waived"
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": 60300.0,
@@ -1887,8 +1887,8 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Service cut",
-    "Amendment 3"
+    "Service cuts",
+    "Amendment 3 impact"
    ],
    "featured": false,
    "project_total": null,
@@ -1912,8 +1912,8 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Service cut",
-    "Amendment 3"
+    "Service cuts",
+    "Amendment 3 impact"
    ],
    "featured": false,
    "project_total": null,
@@ -1937,8 +1937,8 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Service cut",
-    "Amendment 3"
+    "Service cuts",
+    "Amendment 3 impact"
    ],
    "featured": false,
    "project_total": null,
@@ -1962,8 +1962,8 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Tax or fee increase",
-    "Amendment 3"
+    "Tax or fee increases",
+    "Amendment 3 impact"
    ],
    "featured": false,
    "project_total": null,
@@ -1989,7 +1989,7 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Amendment 3"
+    "Amendment 3 impact"
    ],
    "featured": false,
    "project_total": null,
@@ -2013,8 +2013,8 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Service cut",
-    "Amendment 3"
+    "Service cuts",
+    "Amendment 3 impact"
    ],
    "featured": false,
    "project_total": null,
@@ -2038,8 +2038,8 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Deficit projection",
-    "Amendment 3"
+    "Shortfall warnings",
+    "Amendment 3 impact"
    ],
    "featured": false,
    "project_total": null,
@@ -2063,8 +2063,8 @@
    "kind": "news",
    "meeting_date": null,
    "categories": [
-    "Officials' perks",
-    "Amendment 3"
+    "Perks for officials",
+    "Amendment 3 impact"
    ],
    "featured": false,
    "project_total": null,
@@ -2088,7 +2088,7 @@
    "kind": "news",
    "meeting_date": null,
    "categories": [
-    "Amendment 3"
+    "Amendment 3 impact"
    ],
    "featured": false,
    "project_total": null,
@@ -2114,8 +2114,8 @@
    "kind": "news",
    "meeting_date": null,
    "categories": [
-    "Amendment 3",
-    "Service cut"
+    "Amendment 3 impact",
+    "Service cuts"
    ],
    "featured": false,
    "project_total": null,
@@ -2139,9 +2139,9 @@
    "kind": "spending",
    "meeting_date": "2024-05-14",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events",
-    "Facilities"
+    "Grants to outside groups",
+    "Events, art & branding",
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": null,
@@ -2165,8 +2165,8 @@
    "kind": "spending",
    "meeting_date": "2026-07-28",
    "categories": [
-    "Grant to outside group",
-    "Debt",
+    "Grants to outside groups",
+    "Borrowing & debt",
     "Private benefit"
    ],
    "featured": false,
@@ -2191,8 +2191,8 @@
    "kind": "spending",
    "meeting_date": "2026-01-13",
    "categories": [
-    "Grant to outside group",
-    "Debt",
+    "Grants to outside groups",
+    "Borrowing & debt",
     "Private benefit"
    ],
    "featured": false,
@@ -2217,8 +2217,8 @@
    "kind": "spending",
    "meeting_date": "2026-02-24",
    "categories": [
-    "Grant to outside group",
-    "Debt",
+    "Grants to outside groups",
+    "Borrowing & debt",
     "Private benefit"
    ],
    "featured": false,
@@ -2243,9 +2243,9 @@
    "kind": "spending",
    "meeting_date": "2025-03-17",
    "categories": [
-    "Vanity & events",
-    "Facilities",
-    "Grant to outside group"
+    "Events, art & branding",
+    "Buildings & facilities",
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": null,
@@ -2269,8 +2269,8 @@
    "kind": "spending",
    "meeting_date": "2025-05-27",
    "categories": [
-    "Grant to outside group",
-    "Facilities",
+    "Grants to outside groups",
+    "Buildings & facilities",
     "Private benefit"
    ],
    "featured": false,
@@ -2295,8 +2295,8 @@
    "kind": "spending",
    "meeting_date": "2025-10-14",
    "categories": [
-    "No-bid / bidding waived",
-    "Facilities"
+    "No competitive bidding",
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": null,
@@ -2320,8 +2320,8 @@
    "kind": "spending",
    "meeting_date": "2024-05-28",
    "categories": [
-    "Debt",
-    "Legal",
+    "Borrowing & debt",
+    "Legal costs",
     "Private benefit"
    ],
    "featured": false,
@@ -2346,8 +2346,8 @@
    "kind": "spending",
    "meeting_date": "2024-08-06",
    "categories": [
-    "Grant to outside group",
-    "Facilities"
+    "Grants to outside groups",
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": null,
@@ -2371,8 +2371,8 @@
    "kind": "spending",
    "meeting_date": "2024-10-22",
    "categories": [
-    "Debt",
-    "Legal",
+    "Borrowing & debt",
+    "Legal costs",
     "Private benefit"
    ],
    "featured": false,
@@ -2397,9 +2397,9 @@
    "kind": "spending",
    "meeting_date": "2025-03-31",
    "categories": [
-    "Grant to outside group",
-    "Facilities",
-    "Vanity & events"
+    "Grants to outside groups",
+    "Buildings & facilities",
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": null,
@@ -2423,8 +2423,8 @@
    "kind": "spending",
    "meeting_date": "2026-03-23",
    "categories": [
-    "Grant to outside group",
-    "Debt"
+    "Grants to outside groups",
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -2448,10 +2448,10 @@
    "kind": "spending",
    "meeting_date": "2026-04-28",
    "categories": [
-    "Grant to outside group",
-    "Facilities",
+    "Grants to outside groups",
+    "Buildings & facilities",
     "Private benefit",
-    "No-bid / bidding waived"
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": null,
@@ -2475,8 +2475,8 @@
    "kind": "spending",
    "meeting_date": "2026-10-06",
    "categories": [
-    "Grant to outside group",
-    "Facilities",
+    "Grants to outside groups",
+    "Buildings & facilities",
     "Private benefit"
    ],
    "featured": true,
@@ -2501,7 +2501,7 @@
    "kind": "spending",
    "meeting_date": "2026-03-10",
    "categories": [
-    "Facilities"
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": null,
@@ -2525,8 +2525,8 @@
    "kind": "spending",
    "meeting_date": "2025-08-26",
    "categories": [
-    "Grant to outside group",
-    "Debt"
+    "Grants to outside groups",
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -2550,7 +2550,7 @@
    "kind": "spending",
    "meeting_date": "2025-10-14",
    "categories": [
-    "Facilities",
+    "Buildings & facilities",
     "Consultants"
    ],
    "featured": false,
@@ -2575,8 +2575,8 @@
    "kind": "spending",
    "meeting_date": "2026-06-16",
    "categories": [
-    "Facilities",
-    "Debt"
+    "Buildings & facilities",
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -2600,7 +2600,7 @@
    "kind": "spending",
    "meeting_date": "2025-05-06",
    "categories": [
-    "Facilities",
+    "Buildings & facilities",
     "Consultants"
    ],
    "featured": false,
@@ -2625,8 +2625,8 @@
    "kind": "spending",
    "meeting_date": "2026-08-06",
    "categories": [
-    "No-bid / bidding waived",
-    "Debt"
+    "No competitive bidding",
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -2650,7 +2650,7 @@
    "kind": "spending",
    "meeting_date": "2026-09-14",
    "categories": [
-    "Debt"
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -2674,8 +2674,8 @@
    "kind": "spending",
    "meeting_date": "2024-06-20",
    "categories": [
-    "No-bid / bidding waived",
-    "Debt"
+    "No competitive bidding",
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -2699,7 +2699,7 @@
    "kind": "spending",
    "meeting_date": "2024-02-06",
    "categories": [
-    "Facilities",
+    "Buildings & facilities",
     "Private benefit"
    ],
    "featured": false,
@@ -2724,8 +2724,8 @@
    "kind": "spending",
    "meeting_date": "2025-08-07",
    "categories": [
-    "No-bid / bidding waived",
-    "Debt"
+    "No competitive bidding",
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -2749,8 +2749,8 @@
    "kind": "spending",
    "meeting_date": "2025-12-02",
    "categories": [
-    "Grant to outside group",
-    "Debt"
+    "Grants to outside groups",
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -2774,7 +2774,7 @@
    "kind": "spending",
    "meeting_date": "2026-01-27",
    "categories": [
-    "Facilities"
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": null,
@@ -2798,7 +2798,7 @@
    "kind": "spending",
    "meeting_date": "2026-09-02",
    "categories": [
-    "Debt"
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -2822,8 +2822,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-17",
    "categories": [
-    "No-bid / bidding waived",
-    "Debt"
+    "No competitive bidding",
+    "Borrowing & debt"
    ],
    "featured": true,
    "project_total": null,
@@ -2847,9 +2847,9 @@
    "kind": "spending",
    "meeting_date": "2025-12-02",
    "categories": [
-    "Debt",
+    "Borrowing & debt",
     "Private benefit",
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": null,
@@ -2873,8 +2873,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-03",
    "categories": [
-    "Grant to outside group",
-    "Debt"
+    "Grants to outside groups",
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -2898,9 +2898,9 @@
    "kind": "spending",
    "meeting_date": "2025-03-11",
    "categories": [
-    "Facilities",
+    "Buildings & facilities",
     "Consultants",
-    "No-bid / bidding waived"
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": null,
@@ -2924,8 +2924,8 @@
    "kind": "spending",
    "meeting_date": "2025-06-03",
    "categories": [
-    "Facilities",
-    "Debt"
+    "Buildings & facilities",
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -2949,8 +2949,8 @@
    "kind": "spending",
    "meeting_date": "2024-02-21",
    "categories": [
-    "Vanity & events",
-    "Debt"
+    "Events, art & branding",
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -2974,9 +2974,9 @@
    "kind": "spending",
    "meeting_date": "2024-06-04",
    "categories": [
-    "Vanity & events",
-    "Debt",
-    "Grant to outside group",
+    "Events, art & branding",
+    "Borrowing & debt",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -3001,9 +3001,9 @@
    "kind": "spending",
    "meeting_date": "2025-02-18",
    "categories": [
-    "Debt",
+    "Borrowing & debt",
     "Private benefit",
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": null,
@@ -3027,7 +3027,7 @@
    "kind": "spending",
    "meeting_date": "2025-11-13",
    "categories": [
-    "Facilities"
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": null,
@@ -3051,8 +3051,8 @@
    "kind": "spending",
    "meeting_date": "2026-05-26",
    "categories": [
-    "Grant to outside group",
-    "Debt",
+    "Grants to outside groups",
+    "Borrowing & debt",
     "Private benefit"
    ],
    "featured": false,
@@ -3077,8 +3077,8 @@
    "kind": "spending",
    "meeting_date": "2026-08-04",
    "categories": [
-    "Grant to outside group",
-    "Debt"
+    "Grants to outside groups",
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3102,7 +3102,7 @@
    "kind": "spending",
    "meeting_date": "2024-06-11",
    "categories": [
-    "Facilities",
+    "Buildings & facilities",
     "Consultants"
    ],
    "featured": false,
@@ -3127,8 +3127,8 @@
    "kind": "spending",
    "meeting_date": "2024-06-20",
    "categories": [
-    "Facilities",
-    "Debt"
+    "Buildings & facilities",
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3152,7 +3152,7 @@
    "kind": "spending",
    "meeting_date": "2025-05-27",
    "categories": [
-    "Debt"
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3176,7 +3176,7 @@
    "kind": "spending",
    "meeting_date": "2024-09-30",
    "categories": [
-    "Facilities"
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": null,
@@ -3200,7 +3200,7 @@
    "kind": "spending",
    "meeting_date": "2025-09-16",
    "categories": [
-    "Facilities"
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": null,
@@ -3224,7 +3224,7 @@
    "kind": "spending",
    "meeting_date": "2026-07-02",
    "categories": [
-    "Debt"
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3248,7 +3248,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-03",
    "categories": [
-    "Facilities"
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": null,
@@ -3272,7 +3272,7 @@
    "kind": "spending",
    "meeting_date": "2024-05-28",
    "categories": [
-    "Debt"
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3296,8 +3296,8 @@
    "kind": "spending",
    "meeting_date": "2025-03-11",
    "categories": [
-    "Facilities",
-    "Debt"
+    "Buildings & facilities",
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3321,7 +3321,7 @@
    "kind": "spending",
    "meeting_date": "2025-08-26",
    "categories": [
-    "Debt"
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3345,7 +3345,7 @@
    "kind": "spending",
    "meeting_date": "2026-09-15",
    "categories": [
-    "Debt"
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3369,8 +3369,8 @@
    "kind": "spending",
    "meeting_date": "2024-09-30",
    "categories": [
-    "Facilities",
-    "Debt"
+    "Buildings & facilities",
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3394,7 +3394,7 @@
    "kind": "spending",
    "meeting_date": "2024-11-19",
    "categories": [
-    "Facilities"
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": null,
@@ -3418,7 +3418,7 @@
    "kind": "spending",
    "meeting_date": "2026-05-19",
    "categories": [
-    "Facilities"
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": null,
@@ -3442,7 +3442,7 @@
    "kind": "spending",
    "meeting_date": "2024-04-23",
    "categories": [
-    "Facilities"
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": null,
@@ -3466,7 +3466,7 @@
    "kind": "spending",
    "meeting_date": "2024-06-18",
    "categories": [
-    "Debt"
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3490,7 +3490,7 @@
    "kind": "spending",
    "meeting_date": "2025-10-07",
    "categories": [
-    "Debt"
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3514,7 +3514,7 @@
    "kind": "spending",
    "meeting_date": "2026-08-31",
    "categories": [
-    "Debt"
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3538,7 +3538,7 @@
    "kind": "spending",
    "meeting_date": "2024-01-17",
    "categories": [
-    "Facilities",
+    "Buildings & facilities",
     "Private benefit"
    ],
    "featured": false,
@@ -3563,7 +3563,7 @@
    "kind": "spending",
    "meeting_date": "2024-05-07",
    "categories": [
-    "Facilities"
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": null,
@@ -3587,7 +3587,7 @@
    "kind": "spending",
    "meeting_date": "2025-09-03",
    "categories": [
-    "Debt"
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3611,7 +3611,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-04",
    "categories": [
-    "Debt"
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3635,7 +3635,7 @@
    "kind": "spending",
    "meeting_date": "2024-02-27",
    "categories": [
-    "Facilities"
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": null,
@@ -3659,8 +3659,8 @@
    "kind": "spending",
    "meeting_date": "2024-03-20",
    "categories": [
-    "Facilities",
-    "Debt"
+    "Buildings & facilities",
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3684,7 +3684,7 @@
    "kind": "spending",
    "meeting_date": "2024-02-15",
    "categories": [
-    "Facilities"
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": null,
@@ -3708,8 +3708,8 @@
    "kind": "spending",
    "meeting_date": "2024-11-19",
    "categories": [
-    "Facilities",
-    "Debt"
+    "Buildings & facilities",
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3733,7 +3733,7 @@
    "kind": "spending",
    "meeting_date": "2026-06-22",
    "categories": [
-    "Debt"
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3757,8 +3757,8 @@
    "kind": "spending",
    "meeting_date": "2026-06-30",
    "categories": [
-    "Facilities",
-    "Debt"
+    "Buildings & facilities",
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3782,8 +3782,8 @@
    "kind": "spending",
    "meeting_date": "2024-04-16",
    "categories": [
-    "Debt",
-    "Legal",
+    "Borrowing & debt",
+    "Legal costs",
     "Private benefit"
    ],
    "featured": false,
@@ -3808,8 +3808,8 @@
    "kind": "spending",
    "meeting_date": "2024-05-21",
    "categories": [
-    "Facilities",
-    "Vanity & events"
+    "Buildings & facilities",
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": null,
@@ -3833,7 +3833,7 @@
    "kind": "spending",
    "meeting_date": "2024-09-10",
    "categories": [
-    "Debt"
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3857,7 +3857,7 @@
    "kind": "spending",
    "meeting_date": "2024-11-26",
    "categories": [
-    "Debt"
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3881,8 +3881,8 @@
    "kind": "spending",
    "meeting_date": "2025-11-18",
    "categories": [
-    "Facilities",
-    "Debt"
+    "Buildings & facilities",
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3906,7 +3906,7 @@
    "kind": "spending",
    "meeting_date": "2024-04-23",
    "categories": [
-    "Debt"
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3930,9 +3930,9 @@
    "kind": "spending",
    "meeting_date": "2024-05-28",
    "categories": [
-    "Facilities",
-    "Debt",
-    "Vanity & events"
+    "Buildings & facilities",
+    "Borrowing & debt",
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": null,
@@ -3956,7 +3956,7 @@
    "kind": "spending",
    "meeting_date": "2024-08-12",
    "categories": [
-    "Debt"
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -3980,7 +3980,7 @@
    "kind": "spending",
    "meeting_date": "2024-12-17",
    "categories": [
-    "Facilities"
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": null,
@@ -4004,9 +4004,9 @@
    "kind": "spending",
    "meeting_date": "2025-04-22",
    "categories": [
-    "Facilities",
-    "Grant to outside group",
-    "Vanity & events"
+    "Buildings & facilities",
+    "Grants to outside groups",
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": null,
@@ -4030,9 +4030,9 @@
    "kind": "spending",
    "meeting_date": "2025-06-18",
    "categories": [
-    "Facilities",
-    "Debt",
-    "Vanity & events"
+    "Buildings & facilities",
+    "Borrowing & debt",
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": null,
@@ -4056,8 +4056,8 @@
    "kind": "spending",
    "meeting_date": "2025-08-05",
    "categories": [
-    "Facilities",
-    "Debt"
+    "Buildings & facilities",
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -4081,7 +4081,7 @@
    "kind": "spending",
    "meeting_date": "2025-09-30",
    "categories": [
-    "Debt"
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": null,
@@ -4105,7 +4105,7 @@
    "kind": "spending",
    "meeting_date": "2026-10-14",
    "categories": [
-    "Facilities"
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": null,
@@ -4129,7 +4129,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-10",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": true,
@@ -4154,7 +4154,7 @@
    "kind": "spending",
    "meeting_date": "2025-12-09",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Consultants",
     "Private benefit"
    ],
@@ -4180,7 +4180,7 @@
    "kind": "spending",
    "meeting_date": "2026-09-22",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Consultants",
     "Private benefit"
    ],
@@ -4206,7 +4206,7 @@
    "kind": "spending",
    "meeting_date": "2024-02-06",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Consultants",
     "Private benefit"
    ],
@@ -4232,7 +4232,7 @@
    "kind": "spending",
    "meeting_date": "2025-01-28",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Consultants",
     "Private benefit"
    ],
@@ -4258,8 +4258,8 @@
    "kind": "spending",
    "meeting_date": "2026-03-19",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events",
+    "Grants to outside groups",
+    "Events, art & branding",
     "Private benefit"
    ],
    "featured": false,
@@ -4284,10 +4284,10 @@
    "kind": "spending",
    "meeting_date": "2026-07-07",
    "categories": [
-    "Vanity & events",
-    "Debt",
+    "Events, art & branding",
+    "Borrowing & debt",
     "Private benefit",
-    "No-bid / bidding waived"
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": null,
@@ -4311,8 +4311,8 @@
    "kind": "spending",
    "meeting_date": "2024-10-01",
    "categories": [
-    "Grant to outside group",
-    "Debt",
+    "Grants to outside groups",
+    "Borrowing & debt",
     "Private benefit"
    ],
    "featured": false,
@@ -4337,8 +4337,8 @@
    "kind": "spending",
    "meeting_date": "2025-07-08",
    "categories": [
-    "Grant to outside group",
-    "Officials' perks",
+    "Grants to outside groups",
+    "Perks for officials",
     "Private benefit"
    ],
    "featured": false,
@@ -4363,8 +4363,8 @@
    "kind": "spending",
    "meeting_date": "2026-09-08",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events",
+    "Grants to outside groups",
+    "Events, art & branding",
     "Private benefit"
    ],
    "featured": true,
@@ -4389,7 +4389,7 @@
    "kind": "spending",
    "meeting_date": "2026-09-02",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -4414,10 +4414,10 @@
    "kind": "spending",
    "meeting_date": "2026-11-06",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Consultants",
     "Private benefit",
-    "Vanity & events"
+    "Events, art & branding"
    ],
    "featured": true,
    "project_total": null,
@@ -4466,8 +4466,8 @@
    "kind": "spending",
    "meeting_date": "2026-02-17",
    "categories": [
-    "Vanity & events",
-    "Debt",
+    "Events, art & branding",
+    "Borrowing & debt",
     "Private benefit"
    ],
    "featured": false,
@@ -4492,7 +4492,7 @@
    "kind": "spending",
    "meeting_date": "2026-10-12",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": true,
@@ -4518,7 +4518,7 @@
    "meeting_date": "2025-04-01",
    "categories": [
     "Consultants",
-    "Debt",
+    "Borrowing & debt",
     "Private benefit"
    ],
    "featured": false,
@@ -4543,9 +4543,9 @@
    "kind": "spending",
    "meeting_date": "2026-05-05",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit",
-    "Vanity & events"
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": null,
@@ -4593,7 +4593,7 @@
    "kind": "spending",
    "meeting_date": "2026-03-09",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -4618,7 +4618,7 @@
    "kind": "spending",
    "meeting_date": "2025-12-09",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -4643,7 +4643,7 @@
    "kind": "spending",
    "meeting_date": "2025-08-12",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -4669,7 +4669,7 @@
    "meeting_date": "2026-06-09",
    "categories": [
     "Private benefit",
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": null,
@@ -4693,7 +4693,7 @@
    "kind": "spending",
    "meeting_date": "2026-08-27",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -4718,7 +4718,7 @@
    "kind": "spending",
    "meeting_date": "2026-04-14",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -4743,7 +4743,7 @@
    "kind": "spending",
    "meeting_date": "2026-05-07",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -4768,8 +4768,8 @@
    "kind": "spending",
    "meeting_date": "2026-09-09",
    "categories": [
-    "Grant to outside group",
-    "Debt",
+    "Grants to outside groups",
+    "Borrowing & debt",
     "Private benefit"
    ],
    "featured": true,
@@ -4794,7 +4794,7 @@
    "kind": "spending",
    "meeting_date": "2026-09-23",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": true,
@@ -4819,7 +4819,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-04",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": true,
@@ -4844,7 +4844,7 @@
    "kind": "spending",
    "meeting_date": "2026-03-09",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -4869,7 +4869,7 @@
    "kind": "spending",
    "meeting_date": "2025-08-12",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -4894,9 +4894,9 @@
    "kind": "spending",
    "meeting_date": "2025-07-08",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit",
-    "No-bid / bidding waived"
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": 25000.0,
@@ -4920,7 +4920,7 @@
    "kind": "spending",
    "meeting_date": "2026-02-10",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -4945,9 +4945,9 @@
    "kind": "spending",
    "meeting_date": "2026-04-14",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit",
-    "No-bid / bidding waived"
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": 25000.0,
@@ -4971,7 +4971,7 @@
    "kind": "spending",
    "meeting_date": "2026-04-14",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -4996,7 +4996,7 @@
    "kind": "spending",
    "meeting_date": "2026-01-08",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -5021,7 +5021,7 @@
    "kind": "spending",
    "meeting_date": "2026-02-10",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -5047,7 +5047,7 @@
    "meeting_date": "2026-05-26",
    "categories": [
     "Private benefit",
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": 2200000.0,
@@ -5071,7 +5071,7 @@
    "kind": "spending",
    "meeting_date": "2026-07-07",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -5096,7 +5096,7 @@
    "kind": "spending",
    "meeting_date": "2026-09-16",
    "categories": [
-    "Debt",
+    "Borrowing & debt",
     "Private benefit"
    ],
    "featured": true,
@@ -5121,7 +5121,7 @@
    "kind": "spending",
    "meeting_date": "2026-07-14",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -5146,7 +5146,7 @@
    "kind": "spending",
    "meeting_date": "2026-07-14",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -5171,9 +5171,9 @@
    "kind": "spending",
    "meeting_date": "2026-05-12",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit",
-    "No-bid / bidding waived"
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": null,
@@ -5197,7 +5197,7 @@
    "kind": "spending",
    "meeting_date": "2026-05-12",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -5222,7 +5222,7 @@
    "kind": "spending",
    "meeting_date": "2025-11-10",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -5247,7 +5247,7 @@
    "kind": "spending",
    "meeting_date": "2025-09-09",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -5272,9 +5272,9 @@
    "kind": "spending",
    "meeting_date": "2026-02-10",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit",
-    "No-bid / bidding waived"
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": 2800.0,
@@ -5298,9 +5298,9 @@
    "kind": "spending",
    "meeting_date": "2026-04-14",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit",
-    "No-bid / bidding waived"
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": null,
@@ -5324,7 +5324,7 @@
    "kind": "spending",
    "meeting_date": "2026-02-05",
    "categories": [
-    "Debt",
+    "Borrowing & debt",
     "Private benefit"
    ],
    "featured": false,
@@ -5349,7 +5349,7 @@
    "kind": "spending",
    "meeting_date": "2025-03-25",
    "categories": [
-    "Debt",
+    "Borrowing & debt",
     "Private benefit"
    ],
    "featured": false,
@@ -5375,7 +5375,7 @@
    "meeting_date": "2026-06-02",
    "categories": [
     "Private benefit",
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": 290000.0,
@@ -5399,7 +5399,7 @@
    "kind": "spending",
    "meeting_date": "2026-04-14",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -5424,8 +5424,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-06",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events",
+    "Grants to outside groups",
+    "Events, art & branding",
     "Private benefit"
    ],
    "featured": true,
@@ -5450,7 +5450,7 @@
    "kind": "spending",
    "meeting_date": "2026-08-27",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -5475,7 +5475,7 @@
    "kind": "spending",
    "meeting_date": "2026-08-27",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -5500,7 +5500,7 @@
    "kind": "spending",
    "meeting_date": "2026-08-27",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -5525,7 +5525,7 @@
    "kind": "spending",
    "meeting_date": "2026-10-21",
    "categories": [
-    "Vanity & events"
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": 222700.0,
@@ -5549,7 +5549,7 @@
    "kind": "spending",
    "meeting_date": "2026-04-14",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -5574,7 +5574,7 @@
    "kind": "spending",
    "meeting_date": "2026-08-27",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -5623,7 +5623,7 @@
    "kind": "spending",
    "meeting_date": "2025-11-10",
    "categories": [
-    "Debt",
+    "Borrowing & debt",
     "Private benefit"
    ],
    "featured": false,
@@ -5696,7 +5696,7 @@
    "kind": "spending",
    "meeting_date": "2026-08-19",
    "categories": [
-    "Debt",
+    "Borrowing & debt",
     "Private benefit"
    ],
    "featured": false,
@@ -5841,8 +5841,8 @@
    "kind": "spending",
    "meeting_date": "2026-10-27",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events"
+    "Grants to outside groups",
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": 1536000.0,
@@ -5866,8 +5866,8 @@
    "kind": "spending",
    "meeting_date": "2026-09-10",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events",
+    "Grants to outside groups",
+    "Events, art & branding",
     "Private benefit"
    ],
    "featured": true,
@@ -5892,8 +5892,8 @@
    "kind": "spending",
    "meeting_date": "2026-06-26",
    "categories": [
-    "Grant to outside group",
-    "No-bid / bidding waived"
+    "Grants to outside groups",
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": 465400.0,
@@ -5917,7 +5917,7 @@
    "kind": "spending",
    "meeting_date": "2024-10-01",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": 26901700.0,
@@ -5941,7 +5941,7 @@
    "kind": "spending",
    "meeting_date": "2025-03-25",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": 29935300.0,
@@ -5965,7 +5965,7 @@
    "kind": "spending",
    "meeting_date": "2025-10-28",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": 14500000.0,
@@ -5989,7 +5989,7 @@
    "kind": "spending",
    "meeting_date": "2026-10-27",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": 15300000.0,
@@ -6013,7 +6013,7 @@
    "kind": "spending",
    "meeting_date": "2024-10-29",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": 29935300.0,
@@ -6037,9 +6037,9 @@
    "kind": "spending",
    "meeting_date": "2026-02-24",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events",
-    "Facilities"
+    "Grants to outside groups",
+    "Events, art & branding",
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": null,
@@ -6063,9 +6063,9 @@
    "kind": "spending",
    "meeting_date": "2025-10-28",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events",
-    "Facilities"
+    "Grants to outside groups",
+    "Events, art & branding",
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": null,
@@ -6089,8 +6089,8 @@
    "kind": "spending",
    "meeting_date": "2026-10-06",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events"
+    "Grants to outside groups",
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": 100000.0,
@@ -6114,8 +6114,8 @@
    "kind": "spending",
    "meeting_date": "2024-08-13",
    "categories": [
-    "Grant to outside group",
-    "Debt"
+    "Grants to outside groups",
+    "Borrowing & debt"
    ],
    "featured": false,
    "project_total": 4500000.0,
@@ -6139,7 +6139,7 @@
    "kind": "spending",
    "meeting_date": "2025-10-28",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": 5164700.0,
@@ -6163,8 +6163,8 @@
    "kind": "spending",
    "meeting_date": "2026-09-01",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events"
+    "Grants to outside groups",
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": 4700000.0,
@@ -6188,8 +6188,8 @@
    "kind": "spending",
    "meeting_date": "2026-08-03",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events"
+    "Grants to outside groups",
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": 30000.0,
@@ -6213,10 +6213,10 @@
    "kind": "spending",
    "meeting_date": "2026-09-10",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events",
-    "Officials' perks",
-    "Money received"
+    "Grants to outside groups",
+    "Events, art & branding",
+    "Perks for officials",
+    "Money coming in"
    ],
    "featured": false,
    "project_total": 30000.0,
@@ -6240,7 +6240,7 @@
    "kind": "spending",
    "meeting_date": "2026-05-05",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": 2400000.0,
@@ -6264,7 +6264,7 @@
    "kind": "spending",
    "meeting_date": "2026-08-18",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -6289,7 +6289,7 @@
    "kind": "spending",
    "meeting_date": "2026-09-24",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": true,
@@ -6314,8 +6314,8 @@
    "kind": "spending",
    "meeting_date": "2026-03-26",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events",
+    "Grants to outside groups",
+    "Events, art & branding",
     "Private benefit"
    ],
    "featured": false,
@@ -6340,7 +6340,7 @@
    "kind": "spending",
    "meeting_date": "2026-09-09",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": true,
@@ -6365,8 +6365,8 @@
    "kind": "spending",
    "meeting_date": "2025-12-09",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events",
+    "Grants to outside groups",
+    "Events, art & branding",
     "Private benefit"
    ],
    "featured": false,
@@ -6391,8 +6391,8 @@
    "kind": "spending",
    "meeting_date": "2025-09-09",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events",
+    "Grants to outside groups",
+    "Events, art & branding",
     "Private benefit"
    ],
    "featured": false,
@@ -6417,8 +6417,8 @@
    "kind": "spending",
    "meeting_date": "2025-09-09",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events",
+    "Grants to outside groups",
+    "Events, art & branding",
     "Private benefit"
    ],
    "featured": false,
@@ -6443,8 +6443,8 @@
    "kind": "spending",
    "meeting_date": "2026-05-26",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events"
+    "Grants to outside groups",
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": null,
@@ -6468,9 +6468,9 @@
    "kind": "spending",
    "meeting_date": "2025-04-28",
    "categories": [
-    "No-bid / bidding waived",
-    "Officials' perks",
-    "Facilities"
+    "No competitive bidding",
+    "Perks for officials",
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": 2300000.0,
@@ -6494,9 +6494,9 @@
    "kind": "spending",
    "meeting_date": "2025-11-19",
    "categories": [
-    "No-bid / bidding waived",
-    "Officials' perks",
-    "Facilities"
+    "No competitive bidding",
+    "Perks for officials",
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": 1428800.0,
@@ -6520,9 +6520,9 @@
    "kind": "spending",
    "meeting_date": "2026-01-21",
    "categories": [
-    "No-bid / bidding waived",
-    "Officials' perks",
-    "Facilities"
+    "No competitive bidding",
+    "Perks for officials",
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": 239200.0,
@@ -6546,8 +6546,8 @@
    "kind": "spending",
    "meeting_date": "2026-04-22",
    "categories": [
-    "No-bid / bidding waived",
-    "Officials' perks"
+    "No competitive bidding",
+    "Perks for officials"
    ],
    "featured": false,
    "project_total": 375700.0,
@@ -6571,8 +6571,8 @@
    "kind": "spending",
    "meeting_date": "2024-01-09",
    "categories": [
-    "No-bid / bidding waived",
-    "Facilities",
+    "No competitive bidding",
+    "Buildings & facilities",
     "Private benefit"
    ],
    "featured": false,
@@ -6597,8 +6597,8 @@
    "kind": "spending",
    "meeting_date": "2026-06-10",
    "categories": [
-    "No-bid / bidding waived",
-    "Vanity & events"
+    "No competitive bidding",
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": 78200.0,
@@ -6622,7 +6622,7 @@
    "kind": "spending",
    "meeting_date": "2025-04-01",
    "categories": [
-    "No-bid / bidding waived"
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": 6000000.0,
@@ -6646,8 +6646,8 @@
    "kind": "spending",
    "meeting_date": "2026-01-22",
    "categories": [
-    "No-bid / bidding waived",
-    "Facilities"
+    "No competitive bidding",
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": 6383300.0,
@@ -6671,8 +6671,8 @@
    "kind": "spending",
    "meeting_date": "2025-12-18",
    "categories": [
-    "No-bid / bidding waived",
-    "Facilities"
+    "No competitive bidding",
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": 515000.0,
@@ -6696,8 +6696,8 @@
    "kind": "spending",
    "meeting_date": "2026-07-14",
    "categories": [
-    "No-bid / bidding waived",
-    "Facilities"
+    "No competitive bidding",
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": 189900.0,
@@ -6721,7 +6721,7 @@
    "kind": "spending",
    "meeting_date": "2026-10-14",
    "categories": [
-    "No-bid / bidding waived"
+    "No competitive bidding"
    ],
    "featured": true,
    "project_total": 1383000.0,
@@ -6745,8 +6745,8 @@
    "kind": "spending",
    "meeting_date": "2025-03-25",
    "categories": [
-    "No-bid / bidding waived",
-    "Officials' perks"
+    "No competitive bidding",
+    "Perks for officials"
    ],
    "featured": false,
    "project_total": null,
@@ -6770,8 +6770,8 @@
    "kind": "spending",
    "meeting_date": "2026-09-15",
    "categories": [
-    "No-bid / bidding waived",
-    "Facilities",
+    "No competitive bidding",
+    "Buildings & facilities",
     "Private benefit"
    ],
    "featured": true,
@@ -6796,7 +6796,7 @@
    "kind": "spending",
    "meeting_date": "2026-09-09",
    "categories": [
-    "No-bid / bidding waived"
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": 555000.0,
@@ -6820,7 +6820,7 @@
    "kind": "spending",
    "meeting_date": "2026-09-17",
    "categories": [
-    "No-bid / bidding waived"
+    "No competitive bidding"
    ],
    "featured": true,
    "project_total": 350400.0,
@@ -6844,8 +6844,8 @@
    "kind": "spending",
    "meeting_date": "2026-08-19",
    "categories": [
-    "Vanity & events",
-    "Officials' perks"
+    "Events, art & branding",
+    "Perks for officials"
    ],
    "featured": false,
    "project_total": null,
@@ -6869,7 +6869,7 @@
    "kind": "spending",
    "meeting_date": "2025-04-22",
    "categories": [
-    "Vanity & events",
+    "Events, art & branding",
     "Private benefit"
    ],
    "featured": false,
@@ -6894,8 +6894,8 @@
    "kind": "spending",
    "meeting_date": "2026-10-22",
    "categories": [
-    "Vanity & events",
-    "Facilities"
+    "Events, art & branding",
+    "Buildings & facilities"
    ],
    "featured": true,
    "project_total": 2038000.0,
@@ -6919,7 +6919,7 @@
    "kind": "spending",
    "meeting_date": "2025-12-18",
    "categories": [
-    "Vanity & events"
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": 3427200.0,
@@ -6943,7 +6943,7 @@
    "kind": "spending",
    "meeting_date": "2026-08-25",
    "categories": [
-    "Vanity & events"
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": 2910000.0,
@@ -6967,7 +6967,7 @@
    "kind": "spending",
    "meeting_date": "2026-01-20",
    "categories": [
-    "Vanity & events"
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": 2510700.0,
@@ -6991,7 +6991,7 @@
    "kind": "spending",
    "meeting_date": "2026-05-20",
    "categories": [
-    "Vanity & events",
+    "Events, art & branding",
     "Consultants"
    ],
    "featured": false,
@@ -7016,7 +7016,7 @@
    "kind": "spending",
    "meeting_date": "2026-09-15",
    "categories": [
-    "Officials' perks",
+    "Perks for officials",
     "Consultants"
    ],
    "featured": false,
@@ -7041,7 +7041,7 @@
    "kind": "spending",
    "meeting_date": "2026-09-15",
    "categories": [
-    "Officials' perks",
+    "Perks for officials",
     "Consultants"
    ],
    "featured": false,
@@ -7066,8 +7066,8 @@
    "kind": "spending",
    "meeting_date": "2026-10-14",
    "categories": [
-    "Vanity & events",
-    "Grant to outside group"
+    "Events, art & branding",
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": 964000.0,
@@ -7091,8 +7091,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-10",
    "categories": [
-    "Vanity & events",
-    "Grant to outside group"
+    "Events, art & branding",
+    "Grants to outside groups"
    ],
    "featured": true,
    "project_total": 1050000.0,
@@ -7116,7 +7116,7 @@
    "kind": "spending",
    "meeting_date": "2026-05-19",
    "categories": [
-    "Vanity & events"
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": 851700.0,
@@ -7140,8 +7140,8 @@
    "kind": "spending",
    "meeting_date": "2026-02-18",
    "categories": [
-    "Officials' perks",
-    "Facilities"
+    "Perks for officials",
+    "Buildings & facilities"
    ],
    "featured": false,
    "project_total": 65000.0,
@@ -7165,8 +7165,8 @@
    "kind": "spending",
    "meeting_date": "2026-05-20",
    "categories": [
-    "Vanity & events",
-    "No-bid / bidding waived"
+    "Events, art & branding",
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": null,
@@ -7190,7 +7190,7 @@
    "kind": "spending",
    "meeting_date": "2025-12-18",
    "categories": [
-    "Vanity & events",
+    "Events, art & branding",
     "Consultants"
    ],
    "featured": false,
@@ -7215,7 +7215,7 @@
    "kind": "spending",
    "meeting_date": "2026-10-15",
    "categories": [
-    "Officials' perks",
+    "Perks for officials",
     "Consultants"
    ],
    "featured": false,
@@ -7240,8 +7240,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-10",
    "categories": [
-    "Vanity & events",
-    "Grant to outside group"
+    "Events, art & branding",
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": 190600.0,
@@ -7265,7 +7265,7 @@
    "kind": "spending",
    "meeting_date": "2026-09-10",
    "categories": [
-    "Officials' perks",
+    "Perks for officials",
     "Consultants"
    ],
    "featured": false,
@@ -7290,7 +7290,7 @@
    "kind": "spending",
    "meeting_date": "2026-09-15",
    "categories": [
-    "Vanity & events"
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": 150000.0,
@@ -7314,8 +7314,8 @@
    "kind": "spending",
    "meeting_date": "2026-09-10",
    "categories": [
-    "Vanity & events",
-    "Grant to outside group"
+    "Events, art & branding",
+    "Grants to outside groups"
    ],
    "featured": false,
    "project_total": 100000.0,
@@ -7339,7 +7339,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-23",
    "categories": [
-    "Grant to outside group"
+    "Grants to outside groups"
    ],
    "featured": true,
    "project_total": null,
@@ -7388,8 +7388,8 @@
    "kind": "spending",
    "meeting_date": "2025-04-21",
    "categories": [
-    "Grant to outside group",
-    "Vanity & events"
+    "Grants to outside groups",
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": null,
@@ -7413,7 +7413,7 @@
    "kind": "spending",
    "meeting_date": "2025-05-08",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -7438,7 +7438,7 @@
    "kind": "spending",
    "meeting_date": "2025-03-13",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -7463,7 +7463,7 @@
    "kind": "spending",
    "meeting_date": "2025-04-24",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -7488,9 +7488,9 @@
    "kind": "spending",
    "meeting_date": "2026-01-27",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit",
-    "Vanity & events"
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": 3700.0,
@@ -7514,7 +7514,7 @@
    "kind": "spending",
    "meeting_date": "2026-01-27",
    "categories": [
-    "Grant to outside group",
+    "Grants to outside groups",
     "Private benefit"
    ],
    "featured": false,
@@ -7539,8 +7539,8 @@
    "kind": "spending",
    "meeting_date": "2026-04-07",
    "categories": [
-    "Vanity & events",
-    "No-bid / bidding waived"
+    "Events, art & branding",
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": 79800.0,
@@ -7564,8 +7564,8 @@
    "kind": "spending",
    "meeting_date": "2023-06-13",
    "categories": [
-    "No-bid / bidding waived",
-    "Vanity & events"
+    "No competitive bidding",
+    "Events, art & branding"
    ],
    "featured": false,
    "project_total": null,
@@ -7589,7 +7589,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-23",
    "categories": [
-    "No-bid / bidding waived"
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": 1000000.0,
@@ -7613,7 +7613,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-23",
    "categories": [
-    "No-bid / bidding waived"
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": null,
@@ -7637,7 +7637,7 @@
    "kind": "spending",
    "meeting_date": "2026-11-23",
    "categories": [
-    "No-bid / bidding waived"
+    "No competitive bidding"
    ],
    "featured": false,
    "project_total": null,
@@ -7661,8 +7661,8 @@
    "kind": "spending",
    "meeting_date": "2026-11-19",
    "categories": [
-    "No-bid / bidding waived",
-    "Large spending"
+    "No competitive bidding",
+    "Large dollar amount"
    ],
    "featured": false,
    "project_total": 6575600.0,
@@ -7686,8 +7686,8 @@
    "kind": "statement",
    "meeting_date": null,
    "categories": [
-    "Service cut",
-    "Amendment 3"
+    "Service cuts",
+    "Amendment 3 impact"
    ],
    "featured": false,
    "project_total": null,
@@ -7711,7 +7711,7 @@
    "kind": "news",
    "meeting_date": null,
    "categories": [
-    "Service cut"
+    "Service cuts"
    ],
    "featured": false,
    "project_total": null,
