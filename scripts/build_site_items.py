@@ -15,7 +15,7 @@ Outputs
 Rules
   An item is published when its Decision is Feature or Keep, or, with no Decision yet, when the Suggested call is
   Feature or Keep. Featured = Feature. Statements and news rows are published unless marked Reject.
-  Reject always wins. The reviewer's Note column is never published.
+  Rows flagged in "Needs your review" wait for a Decision. Reject always wins. The reviewer's Note column is never published.
 """
 import csv, hashlib, html, io, json, re
 from datetime import date
@@ -90,6 +90,8 @@ def main():
         call = decision or suggested
         if decision == "Reject":
             continue
+        if not decision and (r.get("needs_review") or "").strip():
+            continue          # flagged for Matt: held off the site until he sets a Decision
         if kind == "spending" and call not in ("Feature", "Keep"):
             continue
         iid = r.get("item_id") or r.get("link")
