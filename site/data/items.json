@@ -1079,54 +1079,6 @@
    "added": "2026-11-16"
   },
   {
-   "id": "bf987b0083",
-   "government": "Pasco County",
-   "governments": [
-    "Pasco County"
-   ],
-   "level": "county",
-   "counties": [
-    "Pasco"
-   ],
-   "description": "BCC C54: CDBG-DR gap funding for Vincent House Pasco affordable member housing project. Amount not stated in feed text.",
-   "shortfall": null,
-   "amount": null,
-   "link": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12083,plainText=false)#page=79",
-   "stage": "upcoming",
-   "kind": "spending",
-   "meeting_date": "2026-11-17",
-   "categories": [
-    "Grants to outside groups"
-   ],
-   "featured": false,
-   "project_total": null,
-   "added": "2026-11-16"
-  },
-  {
-   "id": "ae1af443fc",
-   "government": "Miami Beach",
-   "governments": [
-    "Miami Beach"
-   ],
-   "level": "city",
-   "counties": [
-    "Miami-Dade"
-   ],
-   "description": "Commission R7 AL: FY2026 budget amendment and FY2027 priority for a recurring grant to the Miami Beach Police Athletic League in honor of the late Sgt. David A. Cajuso. Amount not stated. Sponsor: Commissioner Tanya K. Bhatt. Not reached at five prior meetings.",
-   "shortfall": null,
-   "amount": null,
-   "link": "https://miamibeachfl.primegov.com/Public/CompiledDocument?meetingTemplateId=6280&compileOutputType=1#page=49",
-   "stage": "upcoming",
-   "kind": "spending",
-   "meeting_date": "2026-11-18",
-   "categories": [
-    "Grants to outside groups"
-   ],
-   "featured": false,
-   "project_total": null,
-   "added": "2026-11-16"
-  },
-  {
    "id": "f024301c58",
    "government": "St. Petersburg",
    "governments": [
@@ -1300,30 +1252,6 @@
    ],
    "featured": false,
    "project_total": 50900.0,
-   "added": "2026-11-17"
-  },
-  {
-   "id": "b3bffc43ff",
-   "government": "Deerfield Beach",
-   "governments": [
-    "Deerfield Beach"
-   ],
-   "level": "city",
-   "counties": [
-    "Broward"
-   ],
-   "description": "City Commission Res 2026/163: five-year Economic Development Agreement with Deerfield Beach Chamber of Commerce, Inc., with city funding for its economic development activities (Business Recruitment and Retention account). Amount not stated in feed text.",
-   "shortfall": null,
-   "amount": null,
-   "link": "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3352,plainText=false)#page=24",
-   "stage": "upcoming",
-   "kind": "spending",
-   "meeting_date": "2026-11-17",
-   "categories": [
-    "Grants to outside groups"
-   ],
-   "featured": false,
-   "project_total": null,
    "added": "2026-11-17"
   },
   {
@@ -1649,56 +1577,6 @@
    "added": "2026-11-18"
   },
   {
-   "id": "516330d601",
-   "government": "Pinecrest",
-   "governments": [
-    "Pinecrest"
-   ],
-   "level": "city",
-   "counties": [
-    "Miami-Dade"
-   ],
-   "description": "Village Council: authorizes agreement with The Bonnier Gallery, Inc. and Kevin Barrett to commission a roundabout public art sculpture; waives competitive bidding. Amount and meeting date not in feed text. Outcome not verified.",
-   "shortfall": null,
-   "amount": null,
-   "link": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=716#page=4",
-   "stage": "undated",
-   "kind": "spending",
-   "meeting_date": null,
-   "categories": [
-    "Events, art & branding",
-    "No competitive bidding"
-   ],
-   "featured": false,
-   "project_total": null,
-   "added": "2026-11-18"
-  },
-  {
-   "id": "bb6f8ef601",
-   "government": "Pinecrest",
-   "governments": [
-    "Pinecrest"
-   ],
-   "level": "city",
-   "counties": [
-    "Miami-Dade"
-   ],
-   "description": "Village Council: authorizes agreement with Dicro Davis Inc. to commission a roundabout public art sculpture; waives competitive bidding. Amount and meeting date not in feed text. Outcome not verified.",
-   "shortfall": null,
-   "amount": null,
-   "link": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=716#page=4",
-   "stage": "undated",
-   "kind": "spending",
-   "meeting_date": null,
-   "categories": [
-    "Events, art & branding",
-    "No competitive bidding"
-   ],
-   "featured": false,
-   "project_total": null,
-   "added": "2026-11-18"
-  },
-  {
    "id": "9f45ed9df2",
    "government": "Miami Beach",
    "governments": [
@@ -1769,56 +1647,6 @@
    ],
    "featured": false,
    "project_total": 30600.0,
-   "added": "2026-11-18"
-  },
-  {
-   "id": "e1b7d8f227",
-   "government": "Bradenton",
-   "governments": [
-    "Bradenton"
-   ],
-   "level": "city",
-   "counties": [
-    "Manatee"
-   ],
-   "description": "CRA: amended redevelopment grant request for AJA Business Holdings, LLC for a property at 2514 9th Street West. Amount and meeting date not in feed text. Outcome not verified.",
-   "shortfall": null,
-   "amount": null,
-   "link": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=330#page=1",
-   "stage": "undated",
-   "kind": "spending",
-   "meeting_date": null,
-   "categories": [
-    "Grants to outside groups",
-    "Private benefit"
-   ],
-   "featured": false,
-   "project_total": null,
-   "added": "2026-11-18"
-  },
-  {
-   "id": "daa4907b0f",
-   "government": "Winter Haven",
-   "governments": [
-    "Winter Haven"
-   ],
-   "level": "city",
-   "counties": [
-    "Polk"
-   ],
-   "description": "City Commission: appeal of Commercial Improvement Grant applications for Properties on 3rd, LLC (100 & 118 3rd Street SW). Amount and meeting date not in feed text. Outcome not verified.",
-   "shortfall": null,
-   "amount": null,
-   "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=483#page=1",
-   "stage": "undated",
-   "kind": "spending",
-   "meeting_date": null,
-   "categories": [
-    "Grants to outside groups",
-    "Private benefit"
-   ],
-   "featured": false,
-   "project_total": null,
    "added": "2026-11-18"
   },
   {
@@ -2345,30 +2173,6 @@
    "meeting_date": "2026-08-06",
    "categories": [
     "No competitive bidding",
-    "Borrowing & debt"
-   ],
-   "featured": false,
-   "project_total": null,
-   "added": "2026-11-15"
-  },
-  {
-   "id": "bd7e03405b",
-   "government": "Jacksonville",
-   "governments": [
-    "Jacksonville"
-   ],
-   "level": "city",
-   "counties": [
-    "Duval"
-   ],
-   "description": "NCSPHS Committee: authorizes JEA to issue bonds without further Council action up to $3.9 billion electric (was $1.9B) and $3.7 billion water and sewer (was $2.5B). Outcome not verified.",
-   "shortfall": "Jacksonville CAO (Nov 9): $150M to almost $200M less next budget; $300M by FY2028-29; library hours may shrink.",
-   "amount": null,
-   "link": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3777&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "stage": "past_meeting",
-   "kind": "spending",
-   "meeting_date": "2026-09-14",
-   "categories": [
     "Borrowing & debt"
    ],
    "featured": false,
@@ -5665,30 +5469,6 @@
    ],
    "featured": false,
    "project_total": 42000.0,
-   "added": "2026-11-19"
-  },
-  {
-   "id": "1287b3cb9c",
-   "government": "Dania Beach",
-   "governments": [
-    "Dania Beach"
-   ],
-   "level": "city",
-   "counties": [
-    "Broward"
-   ],
-   "description": "City Commission: request to use discretionary funds to support the D5K Walking Club Recruiting & Holiday Event, sponsored by Commissioner Davis. Amount not in feed text. Outcome not verified.",
-   "shortfall": null,
-   "amount": null,
-   "link": "https://daniabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3541,plainText=false)#page=3",
-   "stage": "past_meeting",
-   "kind": "spending",
-   "meeting_date": "2026-11-17",
-   "categories": [
-    "Grants to outside groups"
-   ],
-   "featured": false,
-   "project_total": null,
    "added": "2026-11-19"
   },
   {

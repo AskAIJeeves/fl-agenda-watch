@@ -74,6 +74,10 @@ def num(v):
         return None
 
 
+import re as _re
+QUESTIONABLE = _re.compile(r"private_benefit|vanity|officials|no_bid|bypass|events", _re.I)
+
+
 def main():
     global CUTOFF
     CUTOFF = (__import__("datetime").date.today() - __import__("datetime").timedelta(days=365)).isoformat()
@@ -96,9 +100,11 @@ def main():
             continue          # flagged for Matt: held off the site until he sets a Decision
         if kind == "spending" and call not in ("Feature", "Keep"):
             continue
-        when = str(r.get("meeting_date") or r.get("added") or "")[:10]
+        when = str(r.get("meeting_date") or (r.get("added") if kind != "spending" else "") or "")[:10]
         if not when or when < CUTOFF:
             continue          # site shows the past 12 months and everything ahead; older rows stay in the sheet
+        if kind == "spending" and num(r.get("amount")) is None and not QUESTIONABLE.search(r.get("category") or ""):
+            continue          # no dollar amount and nothing questionable in the record: not worth a reader's time
         iid = r.get("item_id") or r.get("link")
         if not iid or iid in seen:
             continue
