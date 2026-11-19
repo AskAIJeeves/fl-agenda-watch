@@ -214,7 +214,7 @@ def scan_platforms(cfg, store, seen, debug, now):
     # BoardDocs rate-limits fast clients with 403s: wait 3 s between requests, cap item fetches per run,
     # and stop all BoardDocs requests for the run at the first 403. Item fetches are cached in seen, so coverage builds over nights.
     bd_budget = {"items": 0, "blocked": False}
-    BD_MAX_ITEMS = 40
+    BD_MAX_ITEMS = 80
     for g in cfg.get("boarddocs", []):
         if time.time() - T0 > PDF_BUDGET or bd_budget["blocked"]: break
         d = debug[g["entity_id"] + ":boarddocs"] = {"name": g["name"], "platform": "boarddocs", "meetings": 0, "scanned": [], "errors": []}
@@ -259,6 +259,7 @@ def scan_platforms(cfg, store, seen, debug, now):
                     txt = _h.unescape(" ".join(re.sub(r"(?is)<(script|style).*?</\1>|<[^>]+>", " ", det).split()))
                     txt = re.sub(r"^.*?Agenda Item Details\s*", "", txt)
                     txt = re.sub(r"\s*document\.getElementById.*$", "", txt)
+                    txt = re.sub(r"^Meeting .{0,160}? Category .{0,200}? Subject\s*", "", txt)   # drop the meeting/category header
                     tags = rules.classify(txt)
                     if tags:
                         hits += 1
