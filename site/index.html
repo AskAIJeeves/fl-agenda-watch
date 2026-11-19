@@ -3,14 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-<title>Florida Spending</title>
+<title>FloridaSpending.com: Local spending and taxes, without the agenda hunt</title>
 <meta name="claude:viewport-fit-sides" content="cover">
 <meta name="description" content="Florida local government spending items, found on public agendas before the vote, with a source link on every item.">
-<meta property="og:title" content="Florida Spending">
-<meta property="og:description" content="Local government spending in Florida, before the vote. Every item links to the public record.">
+<meta property="og:title" content="FloridaSpending.com">
+<meta property="og:description" content="Local spending and taxes, without the agenda hunt. Florida local spending, found on the agenda before the vote, with a source link on every item.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wdth,wght@62..125,500..800&family=Public+Sans:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,62..125,500..800;1,62..125,700..900&family=Yellowtail&family=Public+Sans:wght@400;500;600;700&display=swap">
 <style>
 /* Layout: a single reading column of county sections, each holding government blocks of item rows; sticky filter bar under the masthead. */
 :root{
@@ -41,9 +41,19 @@ a{color:inherit}
 .mast{border-bottom:1px solid var(--line);background:var(--surface)}
 .mast .wrap{display:flex;flex-wrap:wrap;align-items:flex-end;justify-content:space-between;gap:12px 24px;padding-block:22px 16px}
 .brand{text-decoration:none;display:flex;flex-direction:column;gap:2px}
-.wordmark{font:800 clamp(30px,6vw,44px)/0.95 var(--display);font-stretch:72%;letter-spacing:-0.01em;text-transform:uppercase}
-.wordmark span{color:var(--accent)}
-.tagline{color:var(--muted);font-size:14px}
+/* Wordmark: original retro Florida look, a sunset-gradient script over a teal italic block word */
+.wordmark{display:inline-flex;align-items:baseline;gap:.08em;line-height:1;white-space:nowrap}
+.wm-fl{font:400 clamp(38px,7.4vw,58px)/1 "Yellowtail",cursive;background:linear-gradient(95deg,#ff2d87 0%,#ff5a5f 45%,#ff9a1f 100%);-webkit-background-clip:text;background-clip:text;color:transparent;padding:0 .06em .08em 0;filter:drop-shadow(0 1px 0 rgba(120,0,60,.18))}
+.wm-sp{font:italic 900 clamp(26px,5vw,40px)/1 var(--display);font-stretch:88%;text-transform:uppercase;letter-spacing:.01em;color:#0aa5ab;text-shadow:2px 2px 0 #ffd0e4}
+.wm-com{font:italic 800 clamp(15px,2.6vw,20px)/1 var(--display);color:#ff2d87;letter-spacing:.02em}
+.wm-bar{display:block;height:4px;width:min(100%,360px);margin-top:4px;border-radius:2px;background:linear-gradient(90deg,#ff2d87,#ff9a1f 50%,#0aa5ab)}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .wm-sp{color:#3fe0e4;text-shadow:0 0 10px rgba(63,224,228,.45),2px 2px 0 #5a1238}
+:root:not([data-theme="light"]) .wm-fl{filter:drop-shadow(0 0 8px rgba(255,45,135,.5))}}
+.tagline{color:var(--ink);font-size:15px;font-weight:600;margin-top:6px}
+.subhead{color:var(--muted);font-size:13px}
+:root[data-theme="dark"] .wm-sp{color:#3fe0e4;text-shadow:0 0 10px rgba(63,224,228,.45),2px 2px 0 #5a1238}
+.soon{background:var(--accent-soft);border:1px solid var(--accent);border-radius:10px;padding:12px 14px;margin:0 0 16px;font-weight:600}
+.signup[aria-disabled="true"] input,.signup[aria-disabled="true"] button,.signup[aria-disabled="true"] label{opacity:.55;cursor:not-allowed}
 nav.tabs{display:flex;gap:4px;flex-wrap:wrap}
 nav.tabs a{text-decoration:none;font-weight:600;font-size:14px;padding:7px 12px;border-radius:999px;color:var(--muted)}
 nav.tabs a[aria-current="page"]{background:var(--ink);color:var(--surface)}
@@ -160,9 +170,11 @@ footer .wrap{padding-block:18px 28px;display:grid;gap:6px}
 <body>
 <header class="mast">
   <div class="wrap">
-    <a class="brand" href="#featured" aria-label="Florida Spending home">
-      <span class="wordmark">Florida <span>Spending</span></span>
-      <span class="tagline">Local government spending, found on the agenda before the vote.</span>
+    <a class="brand" href="#featured" aria-label="FloridaSpending.com home">
+      <span class="wordmark"><span class="wm-fl">Florida</span><span class="wm-sp">Spending</span><span class="wm-com">.com</span></span>
+      <span class="wm-bar" aria-hidden="true"></span>
+      <span class="tagline">Local spending and taxes, without the agenda hunt.</span>
+      <span class="subhead">Florida local spending, found on the agenda before the vote.</span>
       <span class="indep">Independent. Not affiliated with any government.</span>
     </a>
     <nav class="tabs" aria-label="Sections">
@@ -206,7 +218,7 @@ footer .wrap{padding-block:18px 28px;display:grid;gap:6px}
 <footer>
   <div class="wrap">
     <span>Items come from published agendas, meeting packets, official statements and Florida news coverage. Each one links to its source. Where an item says the outcome is not verified, check the minutes.</span>
-    <span>Independent. Not affiliated with any government. <a href="#about">How items are chosen</a> · <a href="#coverage">Governments covered</a> · <button class="linkbtn" type="button" data-mail="tip">Submit a tip</button> · <button class="linkbtn" type="button" data-mail="contact">Contact us</button></span>
+    <span>Independent. Not affiliated with any government. <a href="#about">How items are chosen</a> · <a href="#coverage">Governments covered</a> · <a href="#petition">Petition or push back</a> · <button class="linkbtn" type="button" data-mail="tip">Submit a tip</button> · <button class="linkbtn" type="button" data-mail="contact">Contact us</button></span>
     <span id="updated"></span>
   </div>
 </footer>
@@ -215,7 +227,6 @@ footer .wrap{padding-block:18px 28px;display:grid;gap:6px}
 const SITE_URL = "https://floridaspending.com/";
 /* Set to your Buttondown username once the newsletter account exists. */
 const BUTTONDOWN_USER = "";
-const FL_COUNTIES = ["Alachua","Baker","Bay","Bradford","Brevard","Broward","Calhoun","Charlotte","Citrus","Clay","Collier","Columbia","DeSoto","Dixie","Duval","Escambia","Flagler","Franklin","Gadsden","Gilchrist","Glades","Gulf","Hamilton","Hardee","Hendry","Hernando","Highlands","Hillsborough","Holmes","Indian River","Jackson","Jefferson","Lafayette","Lake","Lee","Leon","Levy","Liberty","Madison","Manatee","Marion","Martin","Miami-Dade","Monroe","Nassau","Okaloosa","Okeechobee","Orange","Osceola","Palm Beach","Pasco","Pinellas","Polk","Putnam","St. Johns","St. Lucie","Santa Rosa","Sarasota","Seminole","Sumter","Suwannee","Taylor","Union","Volusia","Wakulla","Walton","Washington"];
 
 const state = { items: [], projects: [], updated: null, counties: [], cats: [], sel: [], cat: "", kind: "", q: "", sort: "vote" };
 const $ = (s) => document.querySelector(s);
@@ -395,6 +406,7 @@ function renderGuide(){
   $("#main").innerHTML = `<div class="page">
   <h1>Get involved</h1>
   <p>Most local spending is approved at regular commission and council meetings, often on a consent agenda with no discussion. The window to weigh in is the week before the vote. These are the main ways residents take part.</p>
+  <p><b>Already voted?</b> See <a href="#petition">Petition or push back</a> for options after a vote, including referendum and charter amendment petitions.</p>
   <h2>Find the agenda</h2>
   <p>Each item here links to the agenda or meeting packet it came from. Florida cities and counties post agendas online, usually several days before the meeting. The packet behind each item holds the staff memo, contract and dollar amounts.</p>
   <h2>Speak at the meeting</h2>
@@ -446,19 +458,24 @@ function renderAbout(){
 }
 
 function renderNewsletter(){
-  const all = `<label style="grid-column:1 / -1;font-weight:600"><input type="checkbox" id="nl-all" value="All"> All of Florida</label>`;
-  const boxes = all + FL_COUNTIES.map((c, i) => `<label><input type="checkbox" class="nl-c" id="nl-c-${i}" value="${esc(c)}" ${state.sel.includes(c) ? "checked" : ""}> ${esc(c)}</label>`).join("");
+  const live = !!BUTTONDOWN_USER;
+  const counties = state.coverage ? Object.keys(state.coverage.counties).filter(c => c !== "Other").sort() : state.counties;
+  const dis = live ? "" : " disabled";
+  const all = `<label style="grid-column:1 / -1;font-weight:600"><input type="checkbox" id="nl-all" value="All"${dis}> All of Florida</label>`;
+  const boxes = all + counties.map((c, i) => `<label><input type="checkbox" class="nl-c" id="nl-c-${i}" value="${esc(c)}" ${state.sel.includes(c) ? "checked" : ""}${dis}> ${esc(c)}</label>`).join("");
   $("#main").innerHTML = `<div class="page">
   <h1>The weekly email</h1>
-  <p>One email a week with the spending items coming up for a vote in the counties you pick, each with its source link.</p>
-  <form class="signup" id="signup" novalidate>
-    <div><label for="nl-email"><b>Email</b></label><br><input type="email" id="nl-email" required placeholder="you@example.com" style="width:100%;margin-top:6px"></div>
-    <div><b>Counties</b> <span class="note">(pick at least one, or All of Florida) · <a href="#coverage">Which governments are covered</a></span>
+  ${live ? "" : `<div class="soon" role="note">Coming soon. Signups are not open yet. This page will take subscriptions as soon as the newsletter is ready; until then, the Featured page shows what is coming up for a vote.</div>`}
+  <p>One email a week with the spending items coming up for a vote in the counties you pick, each with its source link. Counties are listed once the agendas of at least one of their local governments are being read; <a href="#coverage">see which governments are covered</a>.</p>
+  <form class="signup" id="signup" novalidate${live ? "" : ' aria-disabled="true"'}>
+    <div><label for="nl-email"><b>Email</b></label><br><input type="email" id="nl-email" required placeholder="you@example.com" style="width:100%;margin-top:6px"${dis}></div>
+    <div><b>Counties</b> <span class="note">(pick at least one, or All of Florida)</span>
       <div class="county-grid" style="margin-top:8px">${boxes}</div></div>
-    <div><button class="btn" type="submit">Subscribe</button></div>
+    <div><button class="btn" type="submit"${dis}>${live ? "Subscribe" : "Subscribe (coming soon)"}</button></div>
     <p class="status" id="nl-status" role="status"></p>
   </form>
   </div>`;
+  if (!live) return;
   $("#signup").addEventListener("submit", subscribe);
   $("#nl-all").addEventListener("change", (e) => { if (e.target.checked) document.querySelectorAll(".nl-c").forEach(x => x.checked = false); });
   document.querySelectorAll(".nl-c").forEach(x => x.addEventListener("change", () => { if (x.checked) $("#nl-all").checked = false; }));
@@ -480,6 +497,45 @@ async function subscribe(e){
   } catch { status.textContent = "Signup did not go through. Try again in a minute."; }
 }
 
+function renderPetition(){
+  $("#main").innerHTML = `<div class="page">
+  <h1>Petition or push back</h1>
+  <div class="soon" role="note">This is general information, not legal advice. Many of these rules are set in each city's or county's own charter, and the details decide whether a petition succeeds. Before collecting signatures or spending money, read your charter, talk with your city or county clerk, and have a lawyer who handles local election law review the petition wording.</div>
+  <p>Residents have more options before a vote than after one. This page covers both: what to do while an item is still on an agenda, and what is possible once the board has voted.</p>
+
+  <h2>Before the vote</h2>
+  <p>Speak at the meeting, contact your officials, and request the records behind the item. The <a href="#get-involved">Get involved</a> page covers each step, including a public records request template.</p>
+
+  <h2>After the vote: ask the board to revisit it</h2>
+  <p>Many boards' rules of procedure allow a motion to reconsider, usually only at the same or the next meeting and only when made by a member who voted with the majority. After that window, a board can generally rescind or amend an earlier action at a later meeting, but a signed contract or other binding commitment can limit what an undo accomplishes. Each board adopts its own rules; the clerk can provide them.</p>
+  <p>If a contract has been signed, a public records request for the executed contract shows whether it can be ended early (a termination-for-convenience clause) and at what cost.</p>
+
+  <h2>After the vote: referendum petition</h2>
+  <p>Some charters let residents petition to repeal an ordinance the board has just adopted. The deadlines are short and vary: in one Florida local government, for example, <a href="https://flaglerlive.com/codifying-referendum-initiatives/" target="_blank" rel="noopener">such petitions must be filed within 60 days of an ordinance's passage</a>. Under some charters, filing a sufficient petition suspends the ordinance until the vote; a Florida appeals court <a href="https://www.studicata.com/summaries/district-court-of-appeal-of-florida/great-outdoors-v-high-springs-1989-pb1wfc" target="_blank" rel="noopener">upheld such a suspension under the High Springs charter</a>. In November 2026, a Clearwater group <a href="https://baynews9.com/fl/tampa/news/2026/11/06/clearwater-council-rejects-south-garden-avenue-referendum-petition" target="_blank" rel="noopener">collected 7,577 valid signatures, enough for a referendum petition to move forward under the city charter</a>.</p>
+  <p>Limits to know: a referendum petition reaches decisions adopted by ordinance, and many spending approvals are made by resolution or a consent-agenda vote. Petitions aimed at contracts and property sales are often challenged as reaching administrative rather than legislative acts; in one Florida case, a party argued that a <a href="https://hallapproved.com/fl/cases/appeals/1998/1691562/" target="_blank" rel="noopener">referendum on a sale was improper because the ordinance was administrative and the referendum impaired its contract rights</a>.</p>
+
+  <h2>Initiative: propose a new ordinance</h2>
+  <p>Many city charters let residents propose an ordinance by petition, with the board either adopting it or sending it to the voters. These rules come from each charter, and a charter may limit them: the Attorney General has said <a href="https://www.myfloridalegal.com/node/2202" target="_blank" rel="noopener">a municipal charter may limit the subjects of electors' initiatives for ordinances</a>. Budget and spending ordinances are commonly excluded.</p>
+
+  <h2>Charter amendment: available in every Florida city</h2>
+  <p>State law guarantees this route regardless of what a city's charter says. <a href="https://florida.public.law/statutes/fla._stat._166.031" target="_blank" rel="noopener">Section 166.031, Florida Statutes</a>, lets the electors of a city put a charter amendment on the ballot by a petition signed by 10 percent of the registered electors as of the last city general election. The city must place it before voters at the next general election or a special election, and only the part of the charter describing the city's boundaries is off limits. The Attorney General has said <a href="https://www.myfloridalegal.com/node/2582" target="_blank" rel="noopener">it is reasonable to treat signatures on such a petition as valid for two years</a>.</p>
+  <p>This route suits standing rules rather than single decisions. For example, the Attorney General concluded that a city charter <a href="https://ezel.ai/ag-opinions/fl/municipal-charter-voter-approval-of-capital-projects" target="_blank" rel="noopener">may be amended by citizen petition to require voter approval of capital projects over $500,000</a>.</p>
+  <p>Counties work differently: only charter counties have a citizen initiative process, and each county's charter sets its rules.</p>
+
+  <h2>Audits and complaints</h2>
+  <p>The state Auditor General audits local governments as required by law or <a href="https://www.flsenate.gov/Laws/statutes/2015/11.45" target="_blank" rel="noopener">as directed by the Legislative Auditing Committee</a>, which takes requests through state legislators. Some counties and cities also have an inspector general or internal auditor; check your government's website.</p>
+
+  <h2>Steps for a petition</h2>
+  <ol>
+    <li>Read your charter's initiative, referendum and amendment sections. Most are online in the city or county code.</li>
+    <li>Ask the clerk for the signature count, the petition form requirements and every deadline.</li>
+    <li>Ask the clerk or the supervisor of elections what registration is required before your group raises or spends money.</li>
+    <li>Have a lawyer review the petition wording before you collect signatures.</li>
+  </ol>
+  <p>Know a rule or deadline in your city or county that this page gets wrong? <button class="linkbtn" type="button" data-mail="contact">Let us know</button>.</p>
+  </div>`;
+}
+
 function renderCoverage(){
   const c = state.coverage;
   if (!c){ $("#main").innerHTML = `<div class="empty">The coverage list did not load.</div>`; return; }
@@ -492,7 +548,7 @@ function renderCoverage(){
   ${rows}</div>`;
 }
 
-const VIEWS = { coverage: renderCoverage, featured: renderFeatured, all: renderAll, projects: renderProjects, "get-involved": renderGuide, newsletter: renderNewsletter, about: renderAbout };
+const VIEWS = { petition: renderPetition, coverage: renderCoverage, featured: renderFeatured, all: renderAll, projects: renderProjects, "get-involved": renderGuide, newsletter: renderNewsletter, about: renderAbout };
 const LIST_VIEWS = new Set(["featured", "all", "projects"]);
 
 function currentView(){

@@ -1,6 +1,6 @@
 {
  "updated": "2026-11-19",
- "governments": 127,
+ "governments": 128,
  "counties": {
   "Alachua": [
    "Gainesville"
@@ -112,6 +112,7 @@
    "Stuart"
   ],
   "Miami-Dade": [
+   "Coral Gables",
    "Doral",
    "Miami",
    "Miami Beach",
