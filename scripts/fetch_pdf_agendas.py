@@ -2,7 +2,7 @@
 download new agenda PDFs, and flag passages with large dollar amounts.
 Adds items to data/pdf_items.json (same fields as agenda_items) and keeps
 data/pdf_seen.json so each PDF is scanned once. Needs: pypdf."""
-import io, json, re, sys, time, urllib.request, urllib.parse
+import io, json, re, sys, time, urllib.error, urllib.request, urllib.parse
 from datetime import datetime, timedelta, timezone
 from html.parser import HTMLParser
 from pathlib import Path
@@ -211,12 +211,20 @@ def scan_platforms(cfg, store, seen, debug, now):
             if u not in seen: scan_doc(store, seen, d, cfg, now, g["entity_id"], g["name"], "eagenda", body, dt, u, g["base"] + "/home"); n += 1
     # BoardDocs (school districts): meeting list JSON, agenda HTML, then item details for items that look like spending
     money_title = re.compile(r"(?i)\$|approv|award|contract|purchas|agreement|\bbid\b|grant|lease|fund|change order|renewal|amendment|budget|construct|piggyback|sole source|consult|renovat|acqui")
-    bd_budget = {"items": 0}
+    # BoardDocs rate-limits fast clients with 403s: wait 3 s between requests, cap item fetches per run,
+    # and stop all BoardDocs requests for the run at the first 403. Item fetches are cached in seen, so coverage builds over nights.
+    bd_budget = {"items": 0, "blocked": False}
+    BD_MAX_ITEMS = 40
     for g in cfg.get("boarddocs", []):
-        if time.time() - T0 > PDF_BUDGET or bd_budget["items"] >= 300: break
+        if time.time() - T0 > PDF_BUDGET or bd_budget["blocked"]: break
         d = debug[g["entity_id"] + ":boarddocs"] = {"name": g["name"], "platform": "boarddocs", "meetings": 0, "scanned": [], "errors": []}
         base = f"https://go.boarddocs.com/{g['site']}/Board.nsf"
-        post = lambda path, data: OPENER.open(urllib.request.Request(f"{base}/{path}", data=urllib.parse.urlencode(data).encode(), headers=UA), timeout=60).read().decode("utf-8", "replace")
+        def post(path, data, base=base):
+            time.sleep(3)
+            try: return OPENER.open(urllib.request.Request(f"{base}/{path}", data=urllib.parse.urlencode(data).encode(), headers=UA), timeout=60).read().decode("utf-8", "replace")
+            except urllib.error.HTTPError as e:
+                if e.code == 403: bd_budget["blocked"] = True
+                raise
         try:
             cid = g.get("committee")
             if not cid:
@@ -226,9 +234,9 @@ def scan_platforms(cfg, store, seen, debug, now):
         except Exception as e: d["errors"].append(f"list: {e}"); continue
         ms = [m for m in ms if m.get("numberdate") and t0.replace("-", "") <= m["numberdate"] <= t1.replace("-", "") and not skip.search(m.get("name", ""))]
         d["meetings"] = len(ms)
-        for m in sorted(ms, key=lambda m: m["numberdate"])[:4]:
+        for m in sorted(ms, key=lambda m: m["numberdate"])[:2]:
             key = f"boarddocs:{g['site']}:{m['unique']}"
-            if key in seen: continue
+            if key in seen or bd_budget["blocked"]: continue
             mdate = f"{m['numberdate'][:4]}-{m['numberdate'][4:6]}-{m['numberdate'][6:]}"
             mu = f"{base}/goto?open&id={m['unique']}"
             try:
@@ -239,11 +247,14 @@ def scan_platforms(cfg, store, seen, debug, now):
                     title = " ".join(re.sub(r"<[^>]+>", " ", row).split())
                     ikey = f"boarddocs-item:{uid}"
                     if not money_title.search(title) or fetched >= 60 or ikey in seen: continue
-                    if bd_budget["items"] >= 300 or time.time() - T0 > PDF_BUDGET: break
+                    if bd_budget["items"] >= BD_MAX_ITEMS or bd_budget["blocked"] or time.time() - T0 > PDF_BUDGET: break
                     fetched += 1; bd_budget["items"] += 1
                     seen[ikey] = {"status": "ok", "date": now.date().isoformat()}
                     try: det = post("BD-GetAgendaItem?open", {"id": uid, "current_committee_id": cid})
-                    except Exception as e: d["errors"].append(f"item {uid}: {e}"); continue
+                    except Exception as e:
+                        d["errors"].append(f"item {uid}: {e}"); seen.pop(ikey, None)
+                        if bd_budget["blocked"]: break
+                        continue
                     import html as _h
                     txt = _h.unescape(" ".join(re.sub(r"(?is)<(script|style).*?</\1>|<[^>]+>", " ", det).split()))
                     txt = re.sub(r"^.*?Agenda Item Details\s*", "", txt)
@@ -255,8 +266,7 @@ def scan_platforms(cfg, store, seen, debug, now):
                             "meeting_date": mdate, "agenda_number": None, "file_number": None, "title": txt[:1200], **tags,
                             "keywords": sorted({k.group(0).lower() for k in KEYWORDS.finditer(txt)}),
                             "meeting_url": mu, "agenda_pdf": f"{base}/goto?open&id={uid}", "found_utc": now.isoformat(timespec="seconds")})
-                    time.sleep(0.3)
-                if mdate < now.date().isoformat(): seen[key] = {"status": "ok", "hits": hits, "date": now.date().isoformat()}
+                if mdate < now.date().isoformat() and not bd_budget["blocked"] and fetched < 60 and bd_budget["items"] < BD_MAX_ITEMS: seen[key] = {"status": "ok", "hits": hits, "date": now.date().isoformat()}
                 d["scanned"].append({"doc": mu[-60:], "meeting": m["name"], "date": mdate, "items": len(rows), "fetched": fetched, "hits": hits})
             except Exception as e: d["errors"].append(f"meeting {m['unique']}: {e}")
             time.sleep(1)
@@ -280,7 +290,7 @@ def scan_platforms(cfg, store, seen, debug, now):
                 if skip.search(body): continue
                 i = t.find('id="full-agenda"'); t2 = t[i:] if i > 0 else t[t.find("<body"):]
                 pages = html_text(t2.encode())
-                hits = passages(pages)[:60]
+                hits = passages(pages, titles_only=True)[:60]
                 for pno, tags, ch in hits:
                     store["items"].append({"entity_id": g["entity_id"], "government": g["name"], "client": "swagit", "body": body,
                         "meeting_date": mdate, "agenda_number": None, "file_number": None, "title": ch, **tags,
@@ -306,8 +316,10 @@ def scan_platforms(cfg, store, seen, debug, now):
             try:
                 data = OPENER.open(urllib.request.Request(u, headers=UA), timeout=60).read()
                 t = data.decode("utf-8", "replace")
-                tm = re.search(r"([A-Z][a-z]+ \d{1,2}, \d{4}) at \d", re.sub(r"<[^>]+>", " ", t))
-                mdate = datetime.strptime(tm.group(1), "%B %d, %Y").date().isoformat() if tm else None
+                mdate = None
+                for tm in re.finditer(r"\b(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)[a-z]*\.? (\d{1,2}),? (\d{4})", re.sub(r"<[^>]+>", " ", t)):
+                    try: mdate = datetime.strptime(f"{tm.group(1)} {tm.group(2)} {tm.group(3)}", "%b %d %Y").date().isoformat(); break
+                    except ValueError: pass
                 if mdate and mdate < t0: seen[u] = {"status": "old", "date": now.date().isoformat()}; continue
                 body = ml.split("-", 1)[1].replace("-", " ").title()
                 hits = passages(html_text(data), titles_only=True)[:60]
