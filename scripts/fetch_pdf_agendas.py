@@ -20,7 +20,7 @@ def cap_n(n):
     return n if time.time() - T0 < PDF_BUDGET else 0
 
 ACTION = re.compile(r"(?i)\b(approv\w*|award\w*|authoriz\w*|not[- ]to[- ]exceed|contract|agreement|amendment|change order|purchase|resolution|ordinance|appropriat\w*|bond|loan)\b")
-UA = {"User-Agent": "Mozilla/5.0 (fl-agenda-watch; public records research)"}
+UA = {"User-Agent": "Mozilla/5.0 (compatible; floridaspending.com agenda reader; +https://floridaspending.com)"}
 
 class Links(HTMLParser):
     def __init__(self, base):
@@ -428,11 +428,11 @@ def main():
         def udate(u):
             uu = urllib.parse.unquote(u)
             uu = re.sub(r"(?<!\d)202\d(\d)-(\d\d)-(\d\d)", r"202\1-\2-\3", uu)   # typo'd 5-digit years such as 20226-06-16
-            m = re.search(r"(20\d\d)[-_ ]?(\d\d)[-_ ]?(\d\d)", uu)
             try:
-                if m and 1 <= int(m[2]) <= 12: return datetime(int(m[1]), int(m[2]), int(m[3]), tzinfo=timezone.utc)
-                m = re.search(r"_(\d\d)(\d\d)(20\d\d)-", uu)  # CivicPlus _MMDDYYYY-
+                m = re.search(r"_(\d\d)(\d\d)(20\d\d)-", uu)  # CivicPlus AgendaCenter _MMDDYYYY- (check first: '2025-1297' would misparse below)
                 if m: return datetime(int(m[3]), int(m[1]), int(m[2]), tzinfo=timezone.utc)
+                m = re.search(r"(20\d\d)[-_ ]?(\d\d)[-_ ]?(\d\d)", uu)
+                if m and 1 <= int(m[2]) <= 12 and 1 <= int(m[3]) <= 31: return datetime(int(m[1]), int(m[2]), int(m[3]), tzinfo=timezone.utc)
                 m = re.search(r"(?<!\d)(\d\d)[.\-]?(\d\d)[.\-]?(20\d\d)(?!\d)", uu)  # MM.DD.YYYY or MMDDYYYY (Volusia)
                 if m and 1 <= int(m[1]) <= 12: return datetime(int(m[3]), int(m[1]), int(m[2]), tzinfo=timezone.utc)
             except ValueError: pass
