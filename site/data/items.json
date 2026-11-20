@@ -16375,6 +16375,398 @@
    "featured": false,
    "project_total": 17892500.0,
    "added": "2026-11-20"
+  },
+  {
+   "id": "eab01dcde0",
+   "government": "Dunedin",
+   "governments": [
+    "Dunedin"
+   ],
+   "level": "city",
+   "counties": [
+    "Pinellas"
+   ],
+   "description": "City Commission: Addendum No. 3 to the Pinellas County Sheriff's Office contract for law enforcement services, $6,479,308 for FY27 (16.63% of general fund). Outcome not verified.",
+   "shortfall": null,
+   "amount": 6479308.0,
+   "link": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3638#page=4",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-09-17",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "314120ebf8",
+   "government": "Ocala",
+   "governments": [
+    "Ocala"
+   ],
+   "level": "city",
+   "counties": [
+    "Marion"
+   ],
+   "description": "City Council item 10a: one-year renewal of the agreement with C.W. Roberts Contracting, Inc. for Transportation Rehabilitation Improvement Program projects, not to exceed $6,000,000 (4.06% of general fund). Outcome not verified.",
+   "shortfall": null,
+   "amount": 6000000.0,
+   "link": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=4019#page=4",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-06-02",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "b00591cd55",
+   "government": "Seminole County",
+   "governments": [
+    "Seminole County"
+   ],
+   "level": "county",
+   "counties": [
+    "Seminole"
+   ],
+   "description": "BCC: Guaranteed Maximum Price of $12,215,498.56 with Wharton-Smith of Sanford, FL (CMAR Work Order No. 4) to build new Fire Station 25 at 105 Wilshire Boulevard, Casselberry. Result: Pass per clerk.",
+   "shortfall": "Nov 10 (WFTV): County projects a 27% drop in county property tax revenue; Sheriff Lemma expects significant position cuts.",
+   "amount": 12215498.56,
+   "link": "https://seminolecountyfl.legistar.com/gateway.aspx?M=L&ID=6528",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-02-24",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 12215500.0,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "24cdf0bd52",
+   "government": "Pompano Beach",
+   "governments": [
+    "Pompano Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission: awards ITB26-025, SE 6th Terrace New Bridge Replacement, to lowest responsive bidder General Asphalt Co. LLC, $8,530,065.20. Outcome not verified.",
+   "shortfall": null,
+   "amount": 8530065.2,
+   "link": "https://pompano.legistar.com/gateway.aspx?M=L&ID=10946",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-02-24",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 8530100.0,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "44bcf7b0d7",
+   "government": "Orange County",
+   "governments": [
+    "Orange County"
+   ],
+   "level": "county",
+   "counties": [
+    "Orange"
+   ],
+   "description": "BCC: awards IFB Y25-1056-JA, Class III landfill disposal of construction, demolition and yard waste material, to low bidder Hubbard Construction Company d/b/a Mid Florida Materials, estimated $10,080,000 over five years. Result: Pass per clerk.",
+   "shortfall": null,
+   "amount": 10080000.0,
+   "link": "https://occompt.legistar.com/gateway.aspx?M=L&ID=18440",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-02-10",
+   "categories": [
+    "Borrowing & debt",
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 10080000.0,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "b1618b5bb5",
+   "government": "Orange County",
+   "governments": [
+    "Orange County"
+   ],
+   "level": "county",
+   "counties": [
+    "Orange"
+   ],
+   "description": "BCC: awards IFB Y25-102-GO, Traffic Engineering Construction, to low bidders Mercon Construction Company ($12,934,487) and Condor Construction, Corp. ($14,992,447.50), each for five years, $27,926,934.50 combined. Result: Pass per clerk.",
+   "shortfall": null,
+   "amount": 27926934.5,
+   "link": "https://occompt.legistar.com/gateway.aspx?M=L&ID=18397",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-01-27",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 14992400.0,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "0b4f9ba395",
+   "government": "Tallahassee",
+   "governments": [
+    "Tallahassee"
+   ],
+   "level": "city",
+   "counties": [
+    "Leon"
+   ],
+   "description": "CRA Board item 6.01: recommendation for approval of a New Construction Assistance Program grant of $750,000 for 115 West Harrison Street (2.2% of Tallahassee's special revenue funds). Outcome not verified.",
+   "shortfall": null,
+   "amount": 750000.0,
+   "link": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=712,plainText=false)#page=1",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-01-12",
+   "categories": [
+    "Events, art & branding",
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": 750000.0,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "65c24e5c02",
+   "government": "Pompano Beach",
+   "governments": [
+    "Pompano Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission: contract for sale and purchase with OT Property Group, LLC to buy property at 134 NE 3rd Street, $5,000,000 from the Parking Fund. Result: Pass per clerk.",
+   "shortfall": null,
+   "amount": 5000000.0,
+   "link": "https://pompano.legistar.com/gateway.aspx?M=L&ID=10783",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2025-12-09",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 5000000.0,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "822636c3c5",
+   "government": "Delray Beach",
+   "governments": [
+    "Delray Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Palm Beach"
+   ],
+   "description": "City Commission: Amendment No. 1 with Kiewit Corporation setting a Guaranteed Maximum Price of $112,973,126 for CMAR construction of the Northwest Neighborhood Improvements Project, revised agreement total $113,736,942. Outcome not verified.",
+   "shortfall": "Nov 12 (Florida Today): Delray Mayor Carney \"still kind of in a fog\"; Commissioner Casale puts the $21M loss estimate closer to $11M.",
+   "amount": 112973126.0,
+   "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&event_id=2524#page=9",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "3cfd1d89b1",
+   "government": "Doral",
+   "governments": [
+    "Doral"
+   ],
+   "level": "city",
+   "counties": [
+    "Miami-Dade"
+   ],
+   "description": "City Council: approves a sponsorship proposal for the PGA TOUR Enterprises, Inc. Cadillac Championship and a nonexclusive, temporary, revocable parking license to PGA Tour Enterprises; authorizes spending budgeted funds. Amount not in item text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://doral.legistar.com/gateway.aspx?M=L&ID=9479",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-02-18",
+   "categories": [
+    "Grants to outside groups",
+    "Buildings & facilities",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "903d1a6600",
+   "government": "Orange County",
+   "governments": [
+    "Orange County"
+   ],
+   "level": "county",
+   "counties": [
+    "Orange"
+   ],
+   "description": "BCC: approves the Orange County Sheriff's Office spending $2,500 from the FY 2026 Law Enforcement Trust Fund (state forfeitures) for a contribution to the National Latino Peace Officers Association. Result: Pass per clerk.",
+   "shortfall": null,
+   "amount": 2500.0,
+   "link": "https://occompt.legistar.com/gateway.aspx?M=L&ID=18457",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-02-10",
+   "categories": [
+    "Grants to outside groups"
+   ],
+   "featured": false,
+   "project_total": 2500.0,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "bafc4b2055",
+   "government": "Orange County",
+   "governments": [
+    "Orange County"
+   ],
+   "level": "county",
+   "counties": [
+    "Orange"
+   ],
+   "description": "BCC: Sheriff's Office to spend $164,000 in FY 2026 state forfeiture trust funds on contributions: VERB Kind Berk Golf Classic $2,500, Boy Scouts Golden Eagle Dinner $17,500, Harbor House walk $1,500, S.A. Casey Construction ballistic storefront $140,000, NAMI $2,500. Result: Pass per clerk.",
+   "shortfall": null,
+   "amount": 164000.0,
+   "link": "https://occompt.legistar.com/gateway.aspx?M=L&ID=18324",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-01-13",
+   "categories": [
+    "Buildings & facilities"
+   ],
+   "featured": false,
+   "project_total": 164000.0,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "73ae10a4ba",
+   "government": "Tallahassee",
+   "governments": [
+    "Tallahassee"
+   ],
+   "level": "city",
+   "counties": [
+    "Leon"
+   ],
+   "description": "CRA Greater Frenchtown/Southside Citizens' Advisory Committee: request for $750,000 in CRA grant funds for the WeWould REIT, LLC retail development, total project cost $3.06 million (2.2% of Tallahassee's special revenue funds). Outcome not verified.",
+   "shortfall": "Tallahassee Commissioner Williams-Cox: \"significant budget challenges\" (Nov 13).",
+   "amount": 750000.0,
+   "link": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=712,plainText=false)#page=11",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-01-12",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": 3060000.0,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "a4a9b1841f",
+   "government": "Daytona Beach",
+   "governments": [
+    "Daytona Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Volusia"
+   ],
+   "description": "City Commission: Ordinance 2025-466 authorizes borrowing and issuing debt up to $35,500,000 for capital improvements, including the second construction phase at Jackie Robinson Ballpark stadium; record lists it as adopted. May repeat an existing entry (2026-01-07).",
+   "shortfall": null,
+   "amount": 35500000.0,
+   "link": "https://codb.civicweb.net/document/222701/City%20Commission%20-%20Jan%2007%202026.pdf?handle=4946C5D4477F492393E802EE96AEBD97#page=20",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-01-07",
+   "categories": [
+    "Buildings & facilities",
+    "Borrowing & debt",
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 35500000.0,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "d03029ecac",
+   "government": "Broward County",
+   "governments": [
+    "Broward County"
+   ],
+   "level": "county",
+   "counties": [
+    "Broward"
+   ],
+   "description": "County Commission: open-end contract to low bidder Rosco Collision Avoidance LLC for a collision avoidance detection system and support for BCT buses (FTA), initial year $7,606,285, five-year estimate $9,074,685. Outcome not verified.",
+   "shortfall": null,
+   "amount": 9074685.0,
+   "link": "https://broward.legistar.com/gateway.aspx?M=L&ID=17256",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2025-12-09",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 9074700.0,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "3bcad39293",
+   "government": "Pompano Beach",
+   "governments": [
+    "Pompano Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission: award of RFP25-001 Oceanside Parking Garage design-build project to The Whiting-Turner Contracting Co., $32,876,690 (design $3,037,041 available; construction $29,839,649 financed). Result: Fail per clerk.",
+   "shortfall": null,
+   "amount": 32876690.0,
+   "link": "https://pompano.legistar.com/gateway.aspx?M=L&ID=10648",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2025-12-09",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 32876700.0,
+   "added": "2026-11-20"
   }
  ]
 }
