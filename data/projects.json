@@ -1,5 +1,5 @@
 {
-"generated_utc": "2026-11-20T17:32:33+00:00",
+"generated_utc": "2026-11-20T18:14:04+00:00",
 "projects": {
 "c-brevard|ref:file 6566": {
 "government": "Brevard County",
@@ -55321,6 +55321,16 @@
 "first_date": "2026-11-16",
 "last_date": "2026-11-16"
 },
+"m-bartow|item:m-bartow|2026-12-02|51e21cc4|0fd5ce977415": {
+"government": "Bartow",
+"name": "4. Discussion and Take Action on the Approval of Funding to the City of Bartow to purchase the S&P Mobile Home Park",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": "2026-12-02",
+"last_date": "2026-12-02"
+},
 "m-bartow|ref:contract 082025-PMI": {
 "government": "Bartow",
 "name": "Equipment Proposal Proposal # 1201 This Equipment Proposal (the “Proposal”) has been prepared by Ten-8 Fire & Safety, LLC (“Company”) in response to the undersi",
@@ -91881,6 +91891,256 @@
 "first_date": "2026-11-16",
 "last_date": "2026-11-16"
 },
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|0524d8521703": {
+"government": "Groveland",
+"name": "3. Discussion/Direction: Economic Development lncentive Suncoast Proiects. LLC D/B/A Hub Steel Chapter 25 of the City of Groveland's Code of Ordinances, Economi",
+"items": 1,
+"spend_total": null,
+"receipts_total": -30000000.0,
+"total_method": "no amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|257b5dcfceae": {
+"government": "Groveland",
+"name": "vi. A provision specifrTing that any funds paid in excess of the amount to which the Sub-Recipient is entitled under the terms and conditions of the agreement m",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|2ccf88b067f0": {
+"government": "Groveland",
+"name": "5. Reimbursement. In consideration of this easement and as reimbursement for costs of the completed swale and related drainage improvements, the City shall pay ",
+"items": 1,
+"spend_total": null,
+"receipts_total": -44300.0,
+"total_method": "no amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|2e3f193a24fc": {
+"government": "Groveland",
+"name": "Groveland TLORIDA AGENDA ITEM 1 TO: HONORABLE MAYOR& CITY COUNCIL MEMBERS VIA: TIM MASLOW,INTEzuM CITY MANAGER FROM: FRANK CALASCIONE, ECONOMIC DEVELOPMENT & CR",
+"items": 1,
+"spend_total": null,
+"receipts_total": -30000000.0,
+"total_method": "no amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|3ebaaa7a674c": {
+"government": "Groveland",
+"name": "repair of public work, to give up any part of the compensation to which he or she is othenruise entitled. The non-Federal entity must report all suspected or re",
+"items": 1,
+"spend_total": 150000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|43f451722e77": {
+"government": "Groveland",
+"name": "OCTOBER 5,2026 CITY COUNCIL MEETING MINUTES Swearing-ln of Sammv Anderson as the new Groveland Chief of Police lnterim City Manager Maslow announced Sammy Ander",
+"items": 1,
+"spend_total": 16000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|45ccfe4d31a8": {
+"government": "Groveland",
+"name": "(M) \"Retail Wheeling\" - A customer/supplier aruangement whereby an Electric Energy Provider utilizes transmission and/or distribution facilities of Company to m",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|670d7246ab4a": {
+"government": "Groveland",
+"name": "STAFF' RECOMMENDATION: It is recommended that City Council provide consensus direction for staff to negotiate an economic development incentive agreement with H",
+"items": 1,
+"spend_total": 200000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|77a4bde06a16": {
+"government": "Groveland",
+"name": "1. Consideration of Approval: Economic Development Incentive Suncoast Projects, LLC D/B/A Hub steel Chapter 25 of the City of Groveland’s Code of Ordinances, Ec",
+"items": 1,
+"spend_total": null,
+"receipts_total": -30000000.0,
+"total_method": "no amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|7ff1ba03fcf5": {
+"government": "Groveland",
+"name": "3. Approval of Reimbursement. The City Council hereby approves of payment from the City to The Hauff Company in the amount of FORTY-FOUR THOUSAND THREE HUNDRED ",
+"items": 1,
+"spend_total": 44300.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|83f1da945ca3": {
+"government": "Groveland",
+"name": "G TO Groveland FLOIIDA GtdnMfrm CONSENT AGENDA HONORABLE MAYORAND CITY COUNCIL MEMBERS MA: TIM MASLOW, INTERIM CITY MANAGER FROM: T.J. FISH, DIRECTOR OF TRANSPO",
+"items": 1,
+"spend_total": 44300.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|864c99b9d6a4": {
+"government": "Groveland",
+"name": "(1) The propefty will be dedicated and maintained in perpetuity for a use that is compatible with open space, recreational, or wetlands management practices; No",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|8684a96f0539": {
+"government": "Groveland",
+"name": "1. Grant of easement. Grantor grants and conveys to the City, its successors and permitted assigns, a perpetual, nonexclusive easement on, over, across, in, and",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|9a8a2a1d1bc1": {
+"government": "Groveland",
+"name": "SEPTEMBER 28, 2026 CIry COUNCIL SPECIAL MEETING MINUTES Council Member Shylkofski asked Mr. Lynn about his experience managing utilities, considering Groveland'",
+"items": 1,
+"spend_total": 350000000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|9f6039327349": {
+"government": "Groveland",
+"name": "lf this subgrant agreement amount is $100,000 or more, the Sub-Recipient, and subcontractors as applicable, shall sign Attachment K - Certification Regarding Lo",
+"items": 1,
+"spend_total": 100000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|ae570ad8b3e6": {
+"government": "Groveland",
+"name": "Groveland FtoRtoA Cityyirh, k{udCt@l CONSENT AGENDA MEMORANDUM TO CITY COLINCIL MEMBERS VIA: TIMOTHY MASLOW, COMMUNITY DEVELOPMENT DIRECTOR FROM: ANDREW LANDIS,",
+"items": 1,
+"spend_total": 1200000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|b2c858f2b87b": {
+"government": "Groveland",
+"name": "SEPTEMBER 28, 2026 CIry COUNCIL SPECIAL MEETING MINUTES Council Member Carroll apologized to residents for the recurring utility issues and stated that the City",
+"items": 1,
+"spend_total": 500000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|b4308ca54e2c": {
+"government": "Groveland",
+"name": "1. Discussion/Direction: 60-Dav Pause to Utilitv Rate lncrease lnterim City Manager Maslow stated that staff were bringing fonruard a temporary 60-day pause of ",
+"items": 1,
+"spend_total": null,
+"receipts_total": -25000000.0,
+"total_method": "no amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|b79d85a67891": {
+"government": "Groveland",
+"name": "from FDEM and FEMA. Late deliverables may be subject to a five-percent penalty of the applicable deliverable amount unless waived based on a documented reasonab",
+"items": 1,
+"spend_total": 300000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|c59d5c6dbd07": {
+"government": "Groveland",
+"name": "SEPTEMBER 28, 2026 CIry COUNCIL SPECIAL MEETING MINUTES also emphasized advance planning through the Capital lmprovement Program and master planning rather than",
+"items": 1,
+"spend_total": 16000000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|cf797dbdaccf": {
+"government": "Groveland",
+"name": "lf the Sub-Recipient, with the funds authorized by this Agreement, enters into a contract that exceeds $150,000, then any such contract must include the followi",
+"items": 1,
+"spend_total": 150000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|cfe57556c5d1": {
+"government": "Groveland",
+"name": "2. Approval and Ratification.The City Council hereby grants a permanent utility easement to Sumter Electric Cooperative, Inc. d/b/a SECO Energy, as stated in th",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|dd5bbc05038c": {
+"government": "Groveland",
+"name": "SEPTEMBER 28, 2026 CIry COUNCIL SPECIAL MEETING MINUTES dispatch services and obtained funding for services the county had been providing, an arrangement that h",
+"items": 1,
+"spend_total": 6200000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|f8d1605a6df6": {
+"government": "Groveland",
+"name": "Company hereunder. In the event of a conflict between this Ordinance and any other ordinance or regulation adopted by the City or actions (or inactions) of the ",
+"items": 1,
+"spend_total": null,
+"receipts_total": -3000000.0,
+"total_method": "no amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|item:m-groveland|2026-10-19|d61886f9|fecadb1c191a": {
+"government": "Groveland",
+"name": "OCTOBER 8,2026 CITY COUNCIL WORKSHOP MINUTES flushing devices in the Water Plant 5 service area were proceeding. He stated that other recommendations, including",
+"items": 1,
+"spend_total": null,
+"receipts_total": -250000.0,
+"total_method": "no amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
 "m-groveland|item:m-groveland|2026-11-02|b04544a0|15fdf1881d3c": {
 "government": "Groveland",
 "name": "5. SAHFI ELIGIBILITY – HURRICANE IAN IMPACTS TO THE WASTEWATER COLLECTION SYSTEM 5.1 Purpose This section documents the impact of Hurricane Ian on the City wast",
@@ -92030,6 +92290,46 @@
 "total_method": "single amount",
 "first_date": "2026-11-02",
 "last_date": "2026-11-02"
+},
+"m-groveland|item:m-groveland|2026-11-05|28f29c72|28e69bdfe752": {
+"government": "Groveland",
+"name": "While\u0003the\u0003original\u0003PUD was\u0003approved\u0003for\u0003up\u0003to\u0003460 dwelling\u0003units,\u0003only 291 single\u0003family\u0003\u0003\u0003 residential lots\u0003have\u0003been platted\u0003to-date.\u0003Phase\u00031\u0003was\u0003platted\u0003with",
+"items": 1,
+"spend_total": 260000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-11-05",
+"last_date": "2026-11-05"
+},
+"m-groveland|item:m-groveland|2026-11-05|28f29c72|a0a8ac6f1758": {
+"government": "Groveland",
+"name": "STAFF COMMENTS Interim Community and Economic Development Director Andrew Landis announced a campaign to support conservation of Wilson Island and stated that a",
+"items": 1,
+"spend_total": 18000000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-11-05",
+"last_date": "2026-11-05"
+},
+"m-groveland|item:m-groveland|2026-11-05|28f29c72|a7b4e6c6913c": {
+"government": "Groveland",
+"name": "orange\u0003trees\u0003and\u0003mass\u0003graded\u0003in\u0003preparation\u0003for\u0003future\u0003development,\u0003however\u0003since\u0003\u0003\u0003 the\u0003subject property wasn’t to\u0003be\u0003developed\u0003until\u0003the\u0003last phase\u0003of\u0003the\u0003pla",
+"items": 1,
+"spend_total": 150000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-11-05",
+"last_date": "2026-11-05"
+},
+"m-groveland|item:m-groveland|2026-11-10|d5964d40|a0caca2a6b7f": {
+"government": "Groveland",
+"name": " Cherry Lake Park Phase 3– Mike Walker shared that Cherry Lake Park has been put on hold as far as the tennis courts and pickleball courts. However, we were bl",
+"items": 1,
+"spend_total": 300000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-11-10",
+"last_date": "2026-11-10"
 },
 "m-groveland|item:m-groveland|2026-11-16|90785f04|09a0c57faf7a": {
 "government": "Groveland",
@@ -92271,6 +92571,26 @@
 "first_date": "2026-11-16",
 "last_date": "2026-11-16"
 },
+"m-groveland|ref:ord/res 2026-56": {
+"government": "Groveland",
+"name": "RESOLUTION 2026-56 A RESOLUTION OF THE CITY COUNCIL OF THE CITY OF GROVELAND, FLORIDA, GRANTING A PERMANENT UTILITY EASEMENT TO SUMTER ELECTRIC COOPERATIVE, INC",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
+"m-groveland|ref:ord/res 2026-66": {
+"government": "Groveland",
+"name": "ATTACHMENTS: Attachment I : Resolution 2026-66 Attachment 2: Easement Agreement and Exhibit A, including sketch and legal descripion Attachment 3: Exhibit B, co",
+"items": 1,
+"spend_total": 44300.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
+},
 "m-groveland|ref:ord/res 2026-68": {
 "government": "Groveland",
 "name": "Resolution 2026-68 approves a funding agreement proving $3.88 million in grant funding and $3.88 million in loan funding at zero percent interest to improve the",
@@ -92280,6 +92600,16 @@
 "total_method": "distinct amounts summed",
 "first_date": "2026-11-02",
 "last_date": "2026-11-16"
+},
+"m-groveland|ref:ord/res 2026-71": {
+"government": "Groveland",
+"name": "RESOLUTION 2026-71 A RESOLUTION OF CITY OF GROVELAND, FLORIDA, RELATING TO THE FEDERAL EMERGENCY MANAGEMENT AGENCY: HAZARD MITIGATION GRANT PROGRAM; AUTHORIZING",
+"items": 2,
+"spend_total": 525000.0,
+"receipts_total": null,
+"total_method": "distinct amounts summed",
+"first_date": "2026-10-19",
+"last_date": "2026-10-19"
 },
 "m-groveland|ref:ord/res 2026-72": {
 "government": "Groveland",
@@ -145541,6 +145871,366 @@
 "first_date": "2026-11-19",
 "last_date": "2026-11-19"
 },
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|007377efb087": {
+"government": "St. Petersburg",
+"name": "4. A Resolution accepting a Guaranteed Maximum Price (GMP) proposal in the amount of $1,445,108 from Ajax Building Company, LLC (Ajax) for construction phase se",
+"items": 1,
+"spend_total": null,
+"receipts_total": -1445100.0,
+"total_method": "no amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|0655215072be": {
+"government": "St. Petersburg",
+"name": "On May 18, 2024, a notice to proceed was issued for the construction of the Townhomes, consisting of twelve (12) 2-bedroom units and twelve (12) 3-bedroom units",
+"items": 1,
+"spend_total": null,
+"receipts_total": -372800.0,
+"total_method": "no amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|0d4179b0cb70": {
+"government": "St. Petersburg",
+"name": "9. A resolution approving (I) the second amendment to the grant agreement between the City of St. Petersburg (\"City\") and Live Tampa Bay to extend the term unti",
+"items": 1,
+"spend_total": 89200.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|16a9bf767419": {
+"government": "St. Petersburg",
+"name": "1. Determine whether the event requires a review under the City of St. Pete’s Co-Sponsorship Process, in accordance with the Co-sponsored Events Policy: a. Use ",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|1d6c50ac557b": {
+"government": "St. Petersburg",
+"name": "performing, managing, and supervising the work involved. Specified zoning district means the DC-C, DC-1, DC-2, DC-3, EC-2, or CCT-2 zoning districts. Tier 1 pro",
+"items": 1,
+"spend_total": null,
+"receipts_total": -30000000.0,
+"total_method": "no amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|2177fde6415b": {
+"government": "St. Petersburg",
+"name": "ST. PETERSBURG CITY COUNCIL Meeting of December 3, 2026 TO: The Honorable Lisset Hanewicz, Chair and Members of City Council SUBJECT: A resolution accepting the",
+"items": 1,
+"spend_total": null,
+"receipts_total": -372800.0,
+"total_method": "no amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|306bc827dba8": {
+"government": "St. Petersburg",
+"name": "1. Approving an allocation increase for tanker pump out services with Envirowaste Services Group, Inc., for the Water Resources Department, in the amount of $1,",
+"items": 1,
+"spend_total": 1000000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|36a037e82d89": {
+"government": "St. Petersburg",
+"name": "the streamline process will require a reevaluation of the covered project under this article as if it were a new project and is subject to the standard process ",
+"items": 1,
+"spend_total": 150000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|38ac45f03493": {
+"government": "St. Petersburg",
+"name": "The following page(s) contain the backup material for Agenda Item: A resolution accepting the proposal and approving the award of a three-year agreement with tw",
+"items": 1,
+"spend_total": 860000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|3d9585e7ca53": {
+"government": "St. Petersburg",
+"name": "B. Building Resilient Infrastructure and Communities (BRIC): The BRIC provides grants to States and local governments to implement long-term hazard mitigation m",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|502da880f706": {
+"government": "St. Petersburg",
+"name": "3. A resolution accepting the findings of the Community Redevelopment Agency of the City of St. Petersburg that the disposition (the Disposition) of Lots 1 thro",
+"items": 1,
+"spend_total": null,
+"receipts_total": -372800.0,
+"total_method": "no amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|55dce2a40f8e": {
+"government": "St. Petersburg",
+"name": "WHEREAS, the Procurement and Supply Management Department, in cooperation with the Enterprise Facilities Department, recommends approval of this award. NOW THER",
+"items": 1,
+"spend_total": 860000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|5732cc0f1bc0": {
+"government": "St. Petersburg",
+"name": "9 Consent Agenda B December 3, 2026 Note: The Consent Agenda contains matters considered routine and likely to be approved by a single motion. Consent Agenda A ",
+"items": 1,
+"spend_total": 500000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|5e1c2b099a8b": {
+"government": "St. Petersburg",
+"name": "WHEREAS, the City has developed the Property as a community of townhomes to increase the availability of affordable housing and encourage homeownership; and WHE",
+"items": 1,
+"spend_total": null,
+"receipts_total": -372800.0,
+"total_method": "no amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|6564636c6b58": {
+"government": "St. Petersburg",
+"name": "4. A resolution accepting the proposal and approving the award of a three-year agreement with two one-year renewal options with Pier Events, LLC for Events Mana",
+"items": 1,
+"spend_total": 860000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|6896c16058ae": {
+"government": "St. Petersburg",
+"name": "8 outreach assistance, bidding assistance and recommendation of award related to the 22nd St North from 5th Ave South to 1st Ave North Project in an amount not ",
+"items": 1,
+"spend_total": 568700.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|722181a3ed2d": {
+"government": "St. Petersburg",
+"name": "5. Ordinance 660-H, an ordinance in accordance with Section 1.02(c)(3), St. Petersburg City Charter, authorizing the grant of a Public Utility Easement to Duke ",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|76b69e72d359": {
+"government": "St. Petersburg",
+"name": "10. A resolution approving sub-awards for Rapid Unsheltered Survivor Housing (RUSH) disaster funds to (I) Metropolitan Ministries, Inc., in an amount not to exc",
+"items": 1,
+"spend_total": 456500.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|7a0220ebaa7d": {
+"government": "St. Petersburg",
+"name": "00932791 / v24 I-3 of 5 or off site or in transit. Builder’s Risk Insurance must be endorsed to permit occu- pancy until Final Completion of the Phase 2 Constru",
+"items": 1,
+"spend_total": 2000000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|7cb4c50ba4ba": {
+"government": "St. Petersburg",
+"name": "12. A resolution approving an agreement with Directions for Mental Health, Inc. dba Directions for Living for Childhood Homelessness Program Services in an amou",
+"items": 1,
+"spend_total": 260000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|859c75846230": {
+"government": "St. Petersburg",
+"name": "4. A Resolution authorizing the Mayor or his designee to execute Amendment No. 1 to Task Order No. 25-03-CC/TB(C) to the architect/engineering agreement dated J",
+"items": 1,
+"spend_total": 138900.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|8dbbeeafb29c": {
+"government": "St. Petersburg",
+"name": "Drainage project schedules are listed in attached Fund 4013 (Exhibit H), identifying resource funding from SWFWMD grants, additional project matching funds from",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|97e7dda94772": {
+"government": "St. Petersburg",
+"name": "58. CITY ASSISTANCE WITH GRANTS AND OTHER FUNDS. The City shall co- operate and assist Museum in the application for local, state, federal and foundation grants",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|a223e2c0112d": {
+"government": "St. Petersburg",
+"name": "The following page(s) contain the backup material for Agenda Item: A resolution accepting the findings of the Community Redevelopment Agency of the City of St. ",
+"items": 1,
+"spend_total": null,
+"receipts_total": -372800.0,
+"total_method": "no amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|a507d89d7a94": {
+"government": "St. Petersburg",
+"name": "A RESOLUTION ACCEPTING THE FINDINGS OF THE COMMUNITY REDEVELOPMENT AGENCY OF THE CITY OF ST. PETERSBURG, FLORIDA T HAT THE DISPOSITION (“THE DISPOSITION”) OF LO",
+"items": 1,
+"spend_total": 372800.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|b1b22ce6f467": {
+"government": "St. Petersburg",
+"name": "SUBJECT: Accepting the proposal and approving the award of a three-year agreement with two one-year renewal options with Pier Events, LLC for Events Management ",
+"items": 1,
+"spend_total": 860000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|b1d69d64b12d": {
+"government": "St. Petersburg",
+"name": "2. Approval of a resolution of the Community Redevelopment Agency of the City of St. Petersburg, Florida, finding that the disposition (“the Disposition”) of Lo",
+"items": 1,
+"spend_total": 372800.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|c3e70f70a3a1": {
+"government": "St. Petersburg",
+"name": "7 Consent Agenda A December 3, 2026 Note: The Consent Agenda contains matters considered routine and likely to be approved by a single motion. Consent Agenda A ",
+"items": 1,
+"spend_total": 500000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|c3e7e9d033ba": {
+"government": "St. Petersburg",
+"name": "40. Guarantee of Performance and Payment. To guarantee Contractor’s faithful performance of this Agreement and Contractor’s timely payment to each person perfor",
+"items": 1,
+"spend_total": 250000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|c400145ed045": {
+"government": "St. Petersburg",
+"name": "Parades/Public Assembly (this requirement is by city ordinance): Commercial General Liability Insurance with a minimum of $500,000 per occurrence.",
+"items": 1,
+"spend_total": 500000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|cecf0a2e924c": {
+"government": "St. Petersburg",
+"name": "vii. On-site public parking equal to a minimum of 20 percent of all parking spaces required by applicable City Code for the covered project located in a specifi",
+"items": 1,
+"spend_total": 150000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|d94891cd5393": {
+"government": "St. Petersburg",
+"name": "2. Approving the purchase of ESRI software licensing, renewals, and related services with Environmental Systems Research Institute Incorporated (ESRI), for the ",
+"items": 1,
+"spend_total": 612600.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|daae6760efb4": {
+"government": "St. Petersburg",
+"name": "3. A Resolution authorizing the Mayor or his designee to execute Field Order No. 26-NUS- MSR-001 to the Construction Services Agreement dated February 19, 2026 ",
+"items": 1,
+"spend_total": 596100.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|ebd97b35ebf0": {
+"government": "St. Petersburg",
+"name": "CITY OF ST. PETERSBURG REPETITIVE LOSS AREA ANALYSIS RLAA 2026 Page 33 Resident & Homeowner Inquiries (2025)  Under-Contract Buyer on Bay Street Renovation Rul",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|f6aefda71585": {
+"government": "St. Petersburg",
+"name": "23. Nothing contained in this Agreement may be construed to grant or authorize any right to the User, other than the limited temporary right to occupy and use t",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
+"m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|f7d7c248f7f2": {
+"government": "St. Petersburg",
+"name": "68. PHASE 2—GENERALLY. 68.1 AUTHORITY. The Parties acknowledge that the authority for the Museum to under- take Phase 2 Construction is established by and subje",
+"items": 1,
+"spend_total": null,
+"receipts_total": null,
+"total_method": "no amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
+},
 "m-stpetersburg|ref:ord/res 2024-523": {
 "government": "St. Petersburg",
 "name": "On December 12, 2024, City Council, by Resolution No. 2024-523, approved funding to Directions for Living from the City’s HOME ARP funds for nonprofit capacity ",
@@ -145550,6 +146240,16 @@
 "total_method": "single amount",
 "first_date": "2026-10-15",
 "last_date": "2026-10-15"
+},
+"m-stpetersburg|ref:rfp 25-254": {
+"government": "St. Petersburg",
+"name": "RESOLUTION NO. 2026- A RESOLUTION ACCEPTING THE PROPOSAL AND APPROVING THE AWARD OF A THREE-YEAR AGREEMENT WITH TWO ONE-YEAR RENEWAL OPTIONS WITH PIER EVENTS, L",
+"items": 1,
+"spend_total": 860000.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-12-03",
+"last_date": "2026-12-03"
 },
 "m-stuart|item:m-stuart|2019-01-28|e4e7582d|ee4b3c8d4c7a": {
 "government": "Stuart",
@@ -169240,6 +169940,16 @@
 "total_method": "single amount",
 "first_date": "2026-11-10",
 "last_date": "2026-11-10"
+},
+"sd-polk|item:sd-polk|2026-11-17|56c1e284|134e7038dbbf": {
+"government": "Polk County Public Schools",
+"name": "1. Approve Purchase of Countywide Mobile Chiller Unit Type Action (Consent) Recommended Action Approve purchase of Countywide Mobile Chiller Unit   DESCRIPTION:",
+"items": 1,
+"spend_total": 564300.0,
+"receipts_total": null,
+"total_method": "single amount",
+"first_date": "2026-11-17",
+"last_date": "2026-11-17"
 }
 },
 "item_project": {
@@ -174867,6 +175577,7 @@
 "m-bartow|2026-11-16|55564612|8956220937aa": "m-bartow|ref:ord/res 2026-12",
 "m-bartow|2026-11-16|55564612|cdeab2910098": "m-bartow|item:m-bartow|2026-11-16|55564612|cdeab2910098",
 "m-bartow|2026-11-16|55564612|e3fcac32ad35": "m-bartow|item:m-bartow|2026-11-16|55564612|e3fcac32ad35",
+"m-bartow|2026-12-02|51e21cc4|0fd5ce977415": "m-bartow|item:m-bartow|2026-12-02|51e21cc4|0fd5ce977415",
 "m-boyntonbeach|2025-02-18|26e3fe46|8486d803d691": "m-boyntonbeach|ref:rfq CW24-001",
 "m-boyntonbeach|2025-02-18|26e3fe46|8d02bfa2f26a": "m-boyntonbeach|item:m-boyntonbeach|2025-02-18|26e3fe46|8d02bfa2f26a",
 "m-boyntonbeach|2025-02-18|26e3fe46|a759890c3e2b": "m-boyntonbeach|item:m-boyntonbeach|2025-02-18|26e3fe46|a759890c3e2b",
@@ -178778,6 +179489,35 @@
 "m-greenacres|2026-11-16|13d0eed6|cb26f5c2234b": "m-greenacres|item:m-greenacres|2026-11-16|13d0eed6|cb26f5c2234b",
 "m-greenacres|2026-11-16|13d0eed6|eb15fc3c2213": "m-greenacres|item:m-greenacres|2026-11-16|13d0eed6|eb15fc3c2213",
 "m-greenacres|2026-11-16|13d0eed6|eb3aa746eeb5": "m-greenacres|item:m-greenacres|2026-11-16|13d0eed6|eb3aa746eeb5",
+"m-groveland|2026-10-19|d61886f9|0524d8521703": "m-groveland|item:m-groveland|2026-10-19|d61886f9|0524d8521703",
+"m-groveland|2026-10-19|d61886f9|1d784e4afcac": "m-groveland|ref:ord/res 2026-66",
+"m-groveland|2026-10-19|d61886f9|257b5dcfceae": "m-groveland|item:m-groveland|2026-10-19|d61886f9|257b5dcfceae",
+"m-groveland|2026-10-19|d61886f9|2ccf88b067f0": "m-groveland|item:m-groveland|2026-10-19|d61886f9|2ccf88b067f0",
+"m-groveland|2026-10-19|d61886f9|2e3f193a24fc": "m-groveland|item:m-groveland|2026-10-19|d61886f9|2e3f193a24fc",
+"m-groveland|2026-10-19|d61886f9|3ebaaa7a674c": "m-groveland|item:m-groveland|2026-10-19|d61886f9|3ebaaa7a674c",
+"m-groveland|2026-10-19|d61886f9|43f451722e77": "m-groveland|item:m-groveland|2026-10-19|d61886f9|43f451722e77",
+"m-groveland|2026-10-19|d61886f9|45ccfe4d31a8": "m-groveland|item:m-groveland|2026-10-19|d61886f9|45ccfe4d31a8",
+"m-groveland|2026-10-19|d61886f9|50851d2f3de3": "m-groveland|ref:ord/res 2026-71",
+"m-groveland|2026-10-19|d61886f9|670d7246ab4a": "m-groveland|item:m-groveland|2026-10-19|d61886f9|670d7246ab4a",
+"m-groveland|2026-10-19|d61886f9|77a4bde06a16": "m-groveland|item:m-groveland|2026-10-19|d61886f9|77a4bde06a16",
+"m-groveland|2026-10-19|d61886f9|7e2d3d79e6de": "m-groveland|ref:ord/res 2026-56",
+"m-groveland|2026-10-19|d61886f9|7ff1ba03fcf5": "m-groveland|item:m-groveland|2026-10-19|d61886f9|7ff1ba03fcf5",
+"m-groveland|2026-10-19|d61886f9|83f1da945ca3": "m-groveland|item:m-groveland|2026-10-19|d61886f9|83f1da945ca3",
+"m-groveland|2026-10-19|d61886f9|864c99b9d6a4": "m-groveland|item:m-groveland|2026-10-19|d61886f9|864c99b9d6a4",
+"m-groveland|2026-10-19|d61886f9|8684a96f0539": "m-groveland|item:m-groveland|2026-10-19|d61886f9|8684a96f0539",
+"m-groveland|2026-10-19|d61886f9|9a8a2a1d1bc1": "m-groveland|item:m-groveland|2026-10-19|d61886f9|9a8a2a1d1bc1",
+"m-groveland|2026-10-19|d61886f9|9f6039327349": "m-groveland|item:m-groveland|2026-10-19|d61886f9|9f6039327349",
+"m-groveland|2026-10-19|d61886f9|a289bbab20f8": "m-groveland|ref:ord/res 2026-71",
+"m-groveland|2026-10-19|d61886f9|ae570ad8b3e6": "m-groveland|item:m-groveland|2026-10-19|d61886f9|ae570ad8b3e6",
+"m-groveland|2026-10-19|d61886f9|b2c858f2b87b": "m-groveland|item:m-groveland|2026-10-19|d61886f9|b2c858f2b87b",
+"m-groveland|2026-10-19|d61886f9|b4308ca54e2c": "m-groveland|item:m-groveland|2026-10-19|d61886f9|b4308ca54e2c",
+"m-groveland|2026-10-19|d61886f9|b79d85a67891": "m-groveland|item:m-groveland|2026-10-19|d61886f9|b79d85a67891",
+"m-groveland|2026-10-19|d61886f9|c59d5c6dbd07": "m-groveland|item:m-groveland|2026-10-19|d61886f9|c59d5c6dbd07",
+"m-groveland|2026-10-19|d61886f9|cf797dbdaccf": "m-groveland|item:m-groveland|2026-10-19|d61886f9|cf797dbdaccf",
+"m-groveland|2026-10-19|d61886f9|cfe57556c5d1": "m-groveland|item:m-groveland|2026-10-19|d61886f9|cfe57556c5d1",
+"m-groveland|2026-10-19|d61886f9|dd5bbc05038c": "m-groveland|item:m-groveland|2026-10-19|d61886f9|dd5bbc05038c",
+"m-groveland|2026-10-19|d61886f9|f8d1605a6df6": "m-groveland|item:m-groveland|2026-10-19|d61886f9|f8d1605a6df6",
+"m-groveland|2026-10-19|d61886f9|fecadb1c191a": "m-groveland|item:m-groveland|2026-10-19|d61886f9|fecadb1c191a",
 "m-groveland|2026-11-02|b04544a0|15fdf1881d3c": "m-groveland|item:m-groveland|2026-11-02|b04544a0|15fdf1881d3c",
 "m-groveland|2026-11-02|b04544a0|3b79648d74ab": "m-groveland|item:m-groveland|2026-11-02|b04544a0|3b79648d74ab",
 "m-groveland|2026-11-02|b04544a0|3ed30149edd3": "m-groveland|item:m-groveland|2026-11-02|b04544a0|3ed30149edd3",
@@ -178796,6 +179536,10 @@
 "m-groveland|2026-11-02|b04544a0|eaec456b5b6e": "m-groveland|ref:ord/res 2026-68",
 "m-groveland|2026-11-02|b04544a0|f4b3b1a9f2ce": "m-groveland|ref:ord/res 2026-73",
 "m-groveland|2026-11-02|b04544a0|fb2cef63c433": "m-groveland|item:m-groveland|2026-11-02|b04544a0|fb2cef63c433",
+"m-groveland|2026-11-05|28f29c72|28e69bdfe752": "m-groveland|item:m-groveland|2026-11-05|28f29c72|28e69bdfe752",
+"m-groveland|2026-11-05|28f29c72|a0a8ac6f1758": "m-groveland|item:m-groveland|2026-11-05|28f29c72|a0a8ac6f1758",
+"m-groveland|2026-11-05|28f29c72|a7b4e6c6913c": "m-groveland|item:m-groveland|2026-11-05|28f29c72|a7b4e6c6913c",
+"m-groveland|2026-11-10|d5964d40|a0caca2a6b7f": "m-groveland|item:m-groveland|2026-11-10|d5964d40|a0caca2a6b7f",
 "m-groveland|2026-11-16|90785f04|09a0c57faf7a": "m-groveland|item:m-groveland|2026-11-16|90785f04|09a0c57faf7a",
 "m-groveland|2026-11-16|90785f04|0b6714f63cfd": "m-groveland|item:m-groveland|2026-11-16|90785f04|0b6714f63cfd",
 "m-groveland|2026-11-16|90785f04|12ccfa1d0fe8": "m-groveland|item:m-groveland|2026-11-16|90785f04|12ccfa1d0fe8",
@@ -184655,6 +185399,43 @@
 "m-stpetersburg|2026-11-19|edfbd71e|ebb3c5cb7361": "m-stpetersburg|item:m-stpetersburg|2026-11-19|edfbd71e|ebb3c5cb7361",
 "m-stpetersburg|2026-11-19|edfbd71e|f5e2c9db9a8c": "m-stpetersburg|item:m-stpetersburg|2026-11-19|edfbd71e|f5e2c9db9a8c",
 "m-stpetersburg|2026-11-19|edfbd71e|fe0c438fa126": "m-stpetersburg|item:m-stpetersburg|2026-11-19|edfbd71e|fe0c438fa126",
+"m-stpetersburg|2026-12-03|3c934b2d|007377efb087": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|007377efb087",
+"m-stpetersburg|2026-12-03|3c934b2d|0655215072be": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|0655215072be",
+"m-stpetersburg|2026-12-03|3c934b2d|0d4179b0cb70": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|0d4179b0cb70",
+"m-stpetersburg|2026-12-03|3c934b2d|16a9bf767419": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|16a9bf767419",
+"m-stpetersburg|2026-12-03|3c934b2d|1d6c50ac557b": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|1d6c50ac557b",
+"m-stpetersburg|2026-12-03|3c934b2d|2177fde6415b": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|2177fde6415b",
+"m-stpetersburg|2026-12-03|3c934b2d|306bc827dba8": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|306bc827dba8",
+"m-stpetersburg|2026-12-03|3c934b2d|36a037e82d89": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|36a037e82d89",
+"m-stpetersburg|2026-12-03|3c934b2d|38ac45f03493": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|38ac45f03493",
+"m-stpetersburg|2026-12-03|3c934b2d|3d9585e7ca53": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|3d9585e7ca53",
+"m-stpetersburg|2026-12-03|3c934b2d|502da880f706": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|502da880f706",
+"m-stpetersburg|2026-12-03|3c934b2d|55dce2a40f8e": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|55dce2a40f8e",
+"m-stpetersburg|2026-12-03|3c934b2d|5732cc0f1bc0": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|5732cc0f1bc0",
+"m-stpetersburg|2026-12-03|3c934b2d|5e1c2b099a8b": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|5e1c2b099a8b",
+"m-stpetersburg|2026-12-03|3c934b2d|6564636c6b58": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|6564636c6b58",
+"m-stpetersburg|2026-12-03|3c934b2d|6896c16058ae": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|6896c16058ae",
+"m-stpetersburg|2026-12-03|3c934b2d|708dece01481": "m-stpetersburg|ref:rfp 25-254",
+"m-stpetersburg|2026-12-03|3c934b2d|722181a3ed2d": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|722181a3ed2d",
+"m-stpetersburg|2026-12-03|3c934b2d|76b69e72d359": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|76b69e72d359",
+"m-stpetersburg|2026-12-03|3c934b2d|7a0220ebaa7d": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|7a0220ebaa7d",
+"m-stpetersburg|2026-12-03|3c934b2d|7cb4c50ba4ba": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|7cb4c50ba4ba",
+"m-stpetersburg|2026-12-03|3c934b2d|859c75846230": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|859c75846230",
+"m-stpetersburg|2026-12-03|3c934b2d|8dbbeeafb29c": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|8dbbeeafb29c",
+"m-stpetersburg|2026-12-03|3c934b2d|97e7dda94772": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|97e7dda94772",
+"m-stpetersburg|2026-12-03|3c934b2d|a223e2c0112d": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|a223e2c0112d",
+"m-stpetersburg|2026-12-03|3c934b2d|a507d89d7a94": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|a507d89d7a94",
+"m-stpetersburg|2026-12-03|3c934b2d|b1b22ce6f467": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|b1b22ce6f467",
+"m-stpetersburg|2026-12-03|3c934b2d|b1d69d64b12d": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|b1d69d64b12d",
+"m-stpetersburg|2026-12-03|3c934b2d|c3e70f70a3a1": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|c3e70f70a3a1",
+"m-stpetersburg|2026-12-03|3c934b2d|c3e7e9d033ba": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|c3e7e9d033ba",
+"m-stpetersburg|2026-12-03|3c934b2d|c400145ed045": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|c400145ed045",
+"m-stpetersburg|2026-12-03|3c934b2d|cecf0a2e924c": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|cecf0a2e924c",
+"m-stpetersburg|2026-12-03|3c934b2d|d94891cd5393": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|d94891cd5393",
+"m-stpetersburg|2026-12-03|3c934b2d|daae6760efb4": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|daae6760efb4",
+"m-stpetersburg|2026-12-03|3c934b2d|ebd97b35ebf0": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|ebd97b35ebf0",
+"m-stpetersburg|2026-12-03|3c934b2d|f6aefda71585": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|f6aefda71585",
+"m-stpetersburg|2026-12-03|3c934b2d|f7d7c248f7f2": "m-stpetersburg|item:m-stpetersburg|2026-12-03|3c934b2d|f7d7c248f7f2",
 "m-stuart|2018-09-24|9162ff0d|2d24431cdf0c": "m-stuart|ref:ord/res 89-2018",
 "m-stuart|2018-11-13|5ce72eda|b6004cfe0ae0": "m-stuart|ref:ord/res 105-2018",
 "m-stuart|2018-12-10|01ca9116|58b19ac539e8": "m-stuart|ref:ord/res 118-2018",
@@ -187100,6 +187881,7 @@
 "sd-orange|2026-11-10|94ed31ad|a6bc24a9bda6": "sd-orange|item:sd-orange|2026-11-10|94ed31ad|a6bc24a9bda6",
 "sd-orange|2026-11-10|b3688c86|761fb835464b": "sd-orange|item:sd-orange|2026-11-10|b3688c86|761fb835464b",
 "sd-orange|2026-11-10|df16c0d7|86941b03b773": "sd-orange|item:sd-orange|2026-11-10|df16c0d7|86941b03b773",
-"sd-orange|2026-11-10|e28b3f74|526233662f9b": "sd-orange|item:sd-orange|2026-11-10|e28b3f74|526233662f9b"
+"sd-orange|2026-11-10|e28b3f74|526233662f9b": "sd-orange|item:sd-orange|2026-11-10|e28b3f74|526233662f9b",
+"sd-polk|2026-11-17|56c1e284|134e7038dbbf": "sd-polk|item:sd-polk|2026-11-17|56c1e284|134e7038dbbf"
 }
 }

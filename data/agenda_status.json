@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-20T17:15:01+00:00",
- "count": 149,
+ "generated_utc": "2026-11-20T17:58:22+00:00",
+ "count": 147,
  "governments": {
   "m-fortlauderdale": {
    "name": "Fort Lauderdale",
@@ -208,7 +208,7 @@
    "status": "ok",
    "client": "martin",
    "events": 10,
-   "flagged": 4
+   "flagged": 2
   },
   "c-hernando": {
    "name": "Hernando County",

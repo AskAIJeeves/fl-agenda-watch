@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-20T17:15:45+00:00",
+ "generated_utc": "2026-11-20T17:59:11+00:00",
  "sources": {
   "m-stpetersburg": {
    "name": "St. Petersburg",
@@ -271,8 +271,14 @@
      ]
     }
    ],
-   "pdfs_found": 463,
-   "scanned": [],
+   "pdfs_found": 464,
+   "scanned": [
+    {
+     "pdf": "https://www.stpete.org/2026-12-03 Agenda Packet.pdf?t=202611201225180",
+     "pages": 400,
+     "hits": 37
+    }
+   ],
    "errors": [],
    "followed": [
     {
@@ -323,7 +329,7 @@
     },
     {
      "url": "https://www.stpete.org/government/mayor___city_council/city_council/agendas.php",
-     "links": 956,
+     "links": 957,
      "sample": [
       [
        "http://www.stpete.org/calendar.php?calendar=9",
@@ -352,6 +358,10 @@
       [
        "https://www.stpete.org/Government/Agendas and Documents/agenda order/2026-11-19 Proposed Agenda Order.pdf?t=202611180927530",
        "View Proposed Agenda Order"
+      ],
+      [
+       "https://www.stpete.org/2026-12-03 Agenda Packet.pdf?t=202611201225180",
+       "Agenda"
       ],
       [
        "https://www.stpete.org/2026-11-19 Agenda Packet w. AddsDeletes.pdf?t=202611161211250",
@@ -560,10 +570,6 @@
       [
        "https://www.stpete.org/2026-02-12 Council Agenda AddsDeletes.pdf?t=202602061146120",
        "Agenda"
-      ],
-      [
-       "https://www.stpete.org/2026-02-05 Agenda Packet w_AddsDeletes.pdf?t=202601301137190",
-       "Agenda"
       ]
      ]
     },
@@ -616,6 +622,7 @@
    ],
    "pdf_sample": [
     "https://www.stpete.org/Government/Agendas and Documents/agenda order/2026-11-19 Proposed Agenda Order.pdf?t=202611180927530",
+    "https://www.stpete.org/2026-12-03 Agenda Packet.pdf?t=202611201225180",
     "https://www.stpete.org/2026-11-19 Agenda Packet w. AddsDeletes.pdf?t=202611161211250",
     "https://www.stpete.org/2026-11-19 Council Agenda AddsDeletes.pdf?t=202611131409360",
     "https://www.stpete.org/2026-11-05 Agenda Packet w. Revised AddsDeletes.pdf?t=202611041055140",
@@ -628,8 +635,7 @@
     "https://www.stpete.org/2026-10-01 Council Agenda AddsDeletes.pdf?t=202609291016010",
     "https://www.stpete.org/2026-09-17 Agenda Packet3 w_AddsDeletes.pdf?t=202609161029200",
     "https://www.stpete.org/2026-09-17 Council Agenda AddsDeletes3.pdf?t=202609161028440",
-    "https://www.stpete.org/2026-09-10 Agenda Packet w_AddsDeletes.pdf?t=202609081628220",
-    "https://www.stpete.org/2026-09-10 Council Agenda AddsDeletes.pdf?t=202609081625140"
+    "https://www.stpete.org/2026-09-10 Agenda Packet w_AddsDeletes.pdf?t=202609081628220"
    ]
   },
   "m-orlando": {
@@ -5290,13 +5296,7 @@
     }
    ],
    "pdfs_found": 100,
-   "scanned": [
-    {
-     "pdf": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3650",
-     "pages": 3,
-     "hits": 0
-    }
-   ],
+   "scanned": [],
    "errors": [],
    "pdf_sample": [
     "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3650",
@@ -8088,10 +8088,6 @@
        "City Council - Oct 12, 2026"
       ],
       [
-       "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1398",
-       "Board of Zoning Appeals - Sep 29, 2026"
-      ],
-      [
        "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1406",
        "Board of Zoning Appeals - Sep 29, 2026"
       ],
@@ -8418,18 +8414,16 @@
       [
        "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1174",
        "Development Review Committee - Mar 27, 2026"
+      ],
+      [
+       "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1176",
+       "Board of Zoning Appeals - Mar 27, 2026"
       ]
      ]
     }
    ],
    "pdfs_found": 101,
-   "scanned": [
-    {
-     "pdf": "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1436",
-     "pages": 2,
-     "hits": 0
-    }
-   ],
+   "scanned": [],
    "errors": [],
    "pdf_sample": [
     "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&event_id=945",
@@ -15883,48 +15877,7 @@
     }
    ],
    "pdfs_found": 59,
-   "scanned": [
-    {
-     "pdf": "https://www.cityofaventura.com/AgendaCenter/ViewFile/Agenda/_11202026-529",
-     "pages": 7,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.cityofaventura.com/AgendaCenter/ViewFile/Agenda/_11192026-531",
-     "pages": 4,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.cityofaventura.com/AgendaCenter/ViewFile/Agenda/_10232026-526",
-     "pages": 4,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.cityofaventura.com/AgendaCenter/ViewFile/Agenda/_11192026-528",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.cityofaventura.com/AgendaCenter/ViewFile/Agenda/_11172026-530",
-     "pages": 197,
-     "hits": 16
-    },
-    {
-     "pdf": "https://www.cityofaventura.com/AgendaCenter/ViewFile/Agenda/_11172026-527",
-     "pages": 72,
-     "hits": 1
-    },
-    {
-     "pdf": "https://www.cityofaventura.com/AgendaCenter/ViewFile/Agenda/_10152026-525",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.cityofaventura.com/AgendaCenter/ViewFile/Agenda/_10062026-524",
-     "pages": 147,
-     "hits": 5
-    }
-   ],
+   "scanned": [],
    "errors": [],
    "pdf_sample": [
     "https://www.cityofaventura.com/AgendaCenter/ViewFile/Agenda/_09242026-523",
@@ -16436,23 +16389,7 @@
     }
    ],
    "pdfs_found": 83,
-   "scanned": [
-    {
-     "pdf": "https://www.northmiamifl.gov/AgendaCenter/ViewFile/Agenda/_10212026-503",
-     "pages": 2,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.northmiamifl.gov/AgendaCenter/ViewFile/Agenda/_10212026-504",
-     "pages": 25,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.northmiamifl.gov/AgendaCenter/ViewFile/Agenda/_11122026-505",
-     "pages": 79,
-     "hits": 0
-    }
-   ],
+   "scanned": [],
    "errors": [],
    "pdf_sample": [
     "https://www.northmiamifl.gov/AgendaCenter/ViewFile/Agenda/_09112024-400",
@@ -16836,48 +16773,7 @@
     }
    ],
    "pdfs_found": 38,
-   "scanned": [
-    {
-     "pdf": "https://cityofsweetwater.fl.gov/AgendaCenter/ViewFile/Agenda/_11162026-189",
-     "pages": 84,
-     "hits": 0
-    },
-    {
-     "pdf": "https://cityofsweetwater.fl.gov/AgendaCenter/ViewFile/Agenda/_11162026-190",
-     "pages": 2,
-     "hits": 0
-    },
-    {
-     "pdf": "https://cityofsweetwater.fl.gov/AgendaCenter/ViewFile/Agenda/_11022026-188",
-     "pages": 314,
-     "hits": 0
-    },
-    {
-     "pdf": "https://cityofsweetwater.fl.gov/AgendaCenter/ViewFile/Agenda/_10282026-186",
-     "pages": 2,
-     "hits": 0
-    },
-    {
-     "pdf": "https://cityofsweetwater.fl.gov/AgendaCenter/ViewFile/Agenda/_11232026-192",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://cityofsweetwater.fl.gov/AgendaCenter/ViewFile/Agenda/_11192026-187",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://cityofsweetwater.fl.gov/AgendaCenter/ViewFile/Agenda/_11182026-191",
-     "pages": 37,
-     "hits": 0
-    },
-    {
-     "pdf": "https://cityofsweetwater.fl.gov/AgendaCenter/ViewFile/Agenda/_10082026-184",
-     "pages": 2,
-     "hits": 0
-    }
-   ],
+   "scanned": [],
    "errors": [],
    "pdf_sample": [
     "https://cityofsweetwater.fl.gov/AgendaCenter/ViewFile/Agenda/_11162026-189",
@@ -17903,44 +17799,44 @@
    "pdfs_found": 95,
    "scanned": [
     {
-     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_02242025-1297",
-     "pages": 16,
-     "hits": 0
+     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_10192026-1481",
+     "pages": 367,
+     "hits": 29
     },
     {
-     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_02192025-1296",
-     "pages": 4,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_02102025-1294",
-     "pages": 50,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_02042025-1288",
-     "pages": 24,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11192026-1488",
+     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_10152026-1479",
      "pages": 5,
      "hits": 0
     },
     {
-     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11192026-1490",
-     "pages": 16,
+     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_10082026-1475",
+     "pages": 5,
      "hits": 0
     },
     {
-     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11162026-1487",
-     "pages": 400,
-     "hits": 29
+     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_02102025-1289",
+     "pages": 3,
+     "hits": 0
     },
     {
-     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11022026-1484",
-     "pages": 374,
-     "hits": 18
+     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_10072026-1474",
+     "pages": 3,
+     "hits": 0
+    },
+    {
+     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_10142026-1478",
+     "pages": 28,
+     "hits": 0
+    },
+    {
+     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11052026-1483",
+     "pages": 276,
+     "hits": 3
+    },
+    {
+     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11102026-1485",
+     "pages": 34,
+     "hits": 1
     }
    ],
    "errors": [],
@@ -18456,43 +18352,43 @@
    "pdfs_found": 84,
    "scanned": [
     {
-     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_10212026-478",
+     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_10152026-474",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_11242026-490",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_11162026-487",
-     "pages": 73,
-     "hits": 6
+     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_12022026-491",
+     "pages": 2,
+     "hits": 1
     },
     {
-     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_11022026-486",
-     "pages": 400,
-     "hits": 13
+     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_11122026-485",
+     "pages": 2,
+     "hits": 0
     },
     {
-     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_11022026-482",
+     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_10282026-476",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_10272026-484",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_10222026-475",
+     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_10152026-466",
      "pages": 1,
      "hits": 0
     },
     {
-     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_10192026-479",
-     "pages": 245,
-     "hits": 6
-    },
-    {
-     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_10192026-480",
-     "pages": 4,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_10192026-477",
-     "pages": 22,
+     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_10142026-473",
+     "pages": 2,
      "hits": 0
     }
    ],
@@ -19485,36 +19381,7 @@
     "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2354,plainText=false)",
     "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2356,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2352,plainText=false)",
-     "pages": 2,
-     "hits": 0,
-     "chars": 4315,
-     "meeting_date": "2026-11-23"
-    },
-    {
-     "pdf": "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2353,plainText=false)",
-     "pages": 43,
-     "hits": 5,
-     "chars": 102681,
-     "meeting_date": "2026-11-23"
-    },
-    {
-     "pdf": "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2354,plainText=false)",
-     "pages": 3,
-     "hits": 0,
-     "chars": 5281,
-     "meeting_date": "2026-11-23"
-    },
-    {
-     "pdf": "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2356,plainText=false)",
-     "pages": 60,
-     "hits": 0,
-     "chars": 116232,
-     "meeting_date": "2026-11-23"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-winterpark:civicclerk": {
@@ -19535,60 +19402,60 @@
    ],
    "scanned": [
     {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6721,plainText=false)",
+     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6745,plainText=false)",
      "pages": 2,
      "hits": 0,
-     "chars": 1613,
-     "meeting_date": "2026-11-10"
+     "chars": 2746,
+     "meeting_date": "2026-11-16"
     },
     {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6722,plainText=false)",
-     "pages": 26,
+     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6746,plainText=false)",
+     "pages": 18,
      "hits": 0,
-     "chars": 62644,
-     "meeting_date": "2026-11-10"
+     "chars": 27169,
+     "meeting_date": "2026-11-16"
     },
     {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6727,plainText=false)",
+     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6753,plainText=false)",
      "pages": 2,
      "hits": 0,
-     "chars": 3235,
-     "meeting_date": "2026-11-10"
+     "chars": 2412,
+     "meeting_date": "2026-11-16"
     },
     {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6728,plainText=false)",
-     "pages": 55,
+     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6754,plainText=false)",
+     "pages": 4,
      "hits": 0,
-     "chars": 16884,
-     "meeting_date": "2026-11-10"
+     "chars": 5481,
+     "meeting_date": "2026-11-16"
     },
     {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6729,plainText=false)",
-     "pages": 5,
-     "hits": 2,
-     "chars": 7785,
-     "meeting_date": "2026-11-11"
-    },
-    {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6730,plainText=false)",
-     "pages": 354,
-     "hits": 9,
-     "chars": 546705,
-     "meeting_date": "2026-11-11"
-    },
-    {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6736,plainText=false)",
-     "pages": 3,
+     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6738,plainText=false)",
+     "pages": 2,
      "hits": 0,
-     "chars": 3738,
-     "meeting_date": "2026-11-12"
+     "chars": 2886,
+     "meeting_date": "2026-11-16"
     },
     {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6737,plainText=false)",
+     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6739,plainText=false)",
+     "pages": 25,
+     "hits": 0,
+     "chars": 19464,
+     "meeting_date": "2026-11-16"
+    },
+    {
+     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6740,plainText=false)",
+     "pages": 2,
+     "hits": 0,
+     "chars": 3840,
+     "meeting_date": "2026-11-17"
+    },
+    {
+     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6741,plainText=false)",
      "pages": 63,
-     "hits": 1,
-     "chars": 25344,
-     "meeting_date": "2026-11-12"
+     "hits": 0,
+     "chars": 78233,
+     "meeting_date": "2026-11-17"
     }
    ],
    "errors": []
@@ -19603,36 +19470,7 @@
     "https://cocoabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1219,plainText=false)",
     "https://cocoabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1209,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://cocoabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1206,plainText=false)",
-     "pages": 3,
-     "hits": 0,
-     "chars": 5111,
-     "meeting_date": "2026-11-18"
-    },
-    {
-     "pdf": "https://cocoabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1208,plainText=false)",
-     "pages": 1,
-     "hits": 0,
-     "chars": 1975,
-     "meeting_date": "2026-11-18"
-    },
-    {
-     "pdf": "https://cocoabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1219,plainText=false)",
-     "pages": 1,
-     "hits": 0,
-     "chars": 939,
-     "meeting_date": "2026-11-19"
-    },
-    {
-     "pdf": "https://cocoabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1209,plainText=false)",
-     "pages": 1,
-     "hits": 0,
-     "chars": 2013,
-     "meeting_date": "2026-11-23"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-largo:civicweb": {
@@ -19754,12 +19592,19 @@
      "meeting": "Reorganization Meeting-Board Election Year",
      "date": "2026-11-17",
      "items": 44,
-     "fetched": 6,
-     "hits": 0
+     "fetched": 5,
+     "hits": 1
     }
    ],
+   "errors": []
+  },
+  "sd-lee:boarddocs": {
+   "name": "School District of Lee County",
+   "platform": "boarddocs",
+   "meetings": 0,
+   "scanned": [],
    "errors": [
-    "item DZBKQ952F180: HTTP Error 403: Forbidden"
+    "list: HTTP Error 403: Forbidden"
    ]
   },
   "c-clay:swagit": {
@@ -19938,26 +19783,7 @@
    "platform": "onbase",
    "meetings": 14,
    "with_agenda": 3,
-   "scanned": [
-    {
-     "pdf": "_2026_-_Land_Use_Meeting_817_Agenda_11_19_2026_9_00_00_AM.pdf?documentType=1&meetingId=817",
-     "meeting": "November 19, 2026 - Land Use Meeting",
-     "pages": 5,
-     "hits": 0
-    },
-    {
-     "pdf": ",_2026_-_Regular_Meeting_813_Agenda_11_18_2026_9_00_00_AM.pdf?documentType=1&meetingId=813",
-     "meeting": "November 18, 2026 - Regular Meeting",
-     "pages": 9,
-     "hits": 11
-    },
-    {
-     "pdf": "26_-_Planning_Commission_818_Agenda_11_12_2026_9_00_00_AM.pdf?documentType=1&meetingId=818",
-     "meeting": "November 12, 2026 - Planning Commission",
-     "pages": 2,
-     "hits": 0
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "c-palmbeach:date": {
