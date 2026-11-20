@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-20T17:59:11+00:00",
+ "generated_utc": "2026-11-20T18:54:22+00:00",
  "sources": {
   "m-stpetersburg": {
    "name": "St. Petersburg",
@@ -274,9 +274,9 @@
    "pdfs_found": 464,
    "scanned": [
     {
-     "pdf": "https://www.stpete.org/2026-12-03 Agenda Packet.pdf?t=202611201225180",
-     "pages": 400,
-     "hits": 37
+     "pdf": "https://www.stpete.org/Government/Agendas and Documents/agenda order/Check Back for Proposed Agenda Order.pdf?t=202611201333330",
+     "pages": 1,
+     "hits": 0
     }
    ],
    "errors": [],
@@ -356,7 +356,7 @@
        "City Council Meeting Schedule"
       ],
       [
-       "https://www.stpete.org/Government/Agendas and Documents/agenda order/2026-11-19 Proposed Agenda Order.pdf?t=202611180927530",
+       "https://www.stpete.org/Government/Agendas and Documents/agenda order/Check Back for Proposed Agenda Order.pdf?t=202611201333330",
        "View Proposed Agenda Order"
       ],
       [
@@ -621,7 +621,7 @@
     }
    ],
    "pdf_sample": [
-    "https://www.stpete.org/Government/Agendas and Documents/agenda order/2026-11-19 Proposed Agenda Order.pdf?t=202611180927530",
+    "https://www.stpete.org/Government/Agendas and Documents/agenda order/Check Back for Proposed Agenda Order.pdf?t=202611201333330",
     "https://www.stpete.org/2026-12-03 Agenda Packet.pdf?t=202611201225180",
     "https://www.stpete.org/2026-11-19 Agenda Packet w. AddsDeletes.pdf?t=202611161211250",
     "https://www.stpete.org/2026-11-19 Council Agenda AddsDeletes.pdf?t=202611131409360",
@@ -6708,13 +6708,9 @@
    "listing": [
     {
      "url": "https://cityofbradenton.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-     "links": 101,
+     "links": 100,
      "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>Bradenton, FL: Bradenton FL  Cont",
      "sample": [
-      [
-       "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&event_id=362",
-       "Tree &amp; Land Preservation Board Meeting - Nov 20, 2026"
-      ],
       [
        "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=364",
        "Community Redevelopment Agency Board Meeting - Nov 19, 2026"
@@ -7118,11 +7114,10 @@
      ]
     }
    ],
-   "pdfs_found": 101,
+   "pdfs_found": 100,
    "scanned": [],
    "errors": [],
    "pdf_sample": [
-    "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&event_id=362",
     "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=364",
     "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=363",
     "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=362",
@@ -7136,7 +7131,8 @@
     "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=354",
     "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=353",
     "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=352",
-    "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=351"
+    "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=351",
+    "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=350"
    ]
   },
   "m-winterhaven": {
@@ -8452,10 +8448,6 @@
      "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>Venice, FL: New View (Agenda Feed",
      "sample": [
       [
-       "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=2012",
-       "City Council on 2026-11-20 10:00 AM - Equipment Test - Nov 20, 2026"
-      ],
-      [
        "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=2011",
        "City Council on 2026-11-17 9:00 AM - Nov 17, 2026"
       ],
@@ -8850,17 +8842,18 @@
       [
        "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1862",
        "Planning Commission on 2025-07-01 1:30 PM - Jul 01, 2025"
+      ],
+      [
+       "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1861",
+       "City Council on 2025-06-30 1:00 PM - Flamingo Ditch Workshop - Jun 30, 2025"
       ]
      ]
     }
    ],
    "pdfs_found": 100,
    "scanned": [],
-   "errors": [
-    "pdf https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=2012: HTTP Error 404: Not Found"
-   ],
+   "errors": [],
    "pdf_sample": [
-    "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=2012",
     "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=2011",
     "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=2009",
     "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=2008",
@@ -8874,7 +8867,8 @@
     "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1993",
     "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1981",
     "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1979",
-    "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1980"
+    "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1980",
+    "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1978"
    ]
   },
   "m-keywest": {
@@ -17799,44 +17793,9 @@
    "pdfs_found": 95,
    "scanned": [
     {
-     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_10192026-1481",
-     "pages": 367,
-     "hits": 29
-    },
-    {
-     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_10152026-1479",
-     "pages": 5,
+     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_10132026-1480",
+     "pages": 36,
      "hits": 0
-    },
-    {
-     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_10082026-1475",
-     "pages": 5,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_02102025-1289",
-     "pages": 3,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_10072026-1474",
-     "pages": 3,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_10142026-1478",
-     "pages": 28,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11052026-1483",
-     "pages": 276,
-     "hits": 3
-    },
-    {
-     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11102026-1485",
-     "pages": 34,
-     "hits": 1
     }
    ],
    "errors": [],
@@ -18352,43 +18311,18 @@
    "pdfs_found": 84,
    "scanned": [
     {
-     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_10152026-474",
+     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_11242026-488",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_10272026-483",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_10222026-481",
      "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_11242026-490",
-     "pages": 2,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_12022026-491",
-     "pages": 2,
-     "hits": 1
-    },
-    {
-     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_11122026-485",
-     "pages": 2,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_10282026-476",
-     "pages": 2,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_10272026-484",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_10152026-466",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_10142026-473",
-     "pages": 2,
      "hits": 0
     }
    ],
@@ -18413,13 +18347,556 @@
   },
   "m-lakepark": {
    "name": "Lake Park",
-   "listing": [],
-   "pdfs_found": 0,
-   "scanned": [],
-   "errors": [
-    "listing https://lakepark-fl.municodemeetings.com/: Remote end closed connection without response"
+   "listing": [
+    {
+     "url": "https://lakepark-fl.municodemeetings.com/",
+     "links": 146,
+     "head": "<!DOCTYPE html>\r\n<html id=\"html_background\" lang=\"en\" >\r\n\r\n<head>\r\n    <meta charset=\"utf-8\" />\r\n    <meta http-equiv=\"x-ua-compatible\" content=\"ie=edge\" />\r\n    <meta name=\"MobileOptimized\" content=\"width\" />\r\n    <meta name=\"HandheldFriendly\" content=\"true\" />\r\n    <meta name=\"viewport\" content=\"w",
+     "sample": [
+      [
+       "https://lakepark-fl.municodemeetings.com/",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/",
+       "Meetings"
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/calendar",
+       "Calendar"
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc",
+       "Boards"
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc",
+       "Board Directory"
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc/directory",
+       "Board Member Directory"
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cc/page/regular-commission-meeting-104",
+       "View Details"
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-pz/page/planning-and-zoning-board-meeting-19",
+       "View Details"
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cra/page/community-redevelopment-agency-meeting-8",
+       "View Details"
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cc/page/regular-commission-meeting-103",
+       "View Details"
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-9191cf3617e543db927003949c6d46a3.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=9191cf3617e543db927003949c6d46a3&ip=False",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-9191cf3617e543db927003949c6d46a3.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=9191cf3617e543db927003949c6d46a3&ip=True",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cc/page/regular-commission-meeting-102",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cc/page/regular-commission-meeting-102",
+       "View Details"
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-8a66df26b7784624b28284d32031ff27.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=8a66df26b7784624b28284d32031ff27&ip=False",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-8a66df26b7784624b28284d32031ff27.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=8a66df26b7784624b28284d32031ff27&ip=True",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cra/page/special-called-community-redevelopment-agency-meeting-12",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cra/page/special-called-community-redevelopment-agency-meeting-12",
+       "View Details"
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-53685c83ed6a495f988737ab48a92ce6.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=53685c83ed6a495f988737ab48a92ce6&ip=False",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-53685c83ed6a495f988737ab48a92ce6.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=53685c83ed6a495f988737ab48a92ce6&ip=True",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-53685c83ed6a495f988737ab48a92ce6.pdf",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cc/page/regular-commission-meeting-101",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cc/page/regular-commission-meeting-101",
+       "View Details"
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-b33729d6955749b89359099217e56b29.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=b33729d6955749b89359099217e56b29&ip=False",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-b33729d6955749b89359099217e56b29.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=b33729d6955749b89359099217e56b29&ip=True",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-b33729d6955749b89359099217e56b29.pdf",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cra/page/special-called-community-redevelopment-agency-meeting-11",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cra/page/special-called-community-redevelopment-agency-meeting-11",
+       "View Details"
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cc/page/cancelled-regular-commission-meeting-1",
+       "View Details"
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-a65be5e6a62642459c08f4da58fd61a0.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=a65be5e6a62642459c08f4da58fd61a0&ip=False",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-a65be5e6a62642459c08f4da58fd61a0.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=a65be5e6a62642459c08f4da58fd61a0&ip=True",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-tb/page/tree-board-meeting-11",
+       "View Details"
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-fd70ab869e084748b3e5a6829c343fb5.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=fd70ab869e084748b3e5a6829c343fb5&ip=False",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-fd70ab869e084748b3e5a6829c343fb5.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=fd70ab869e084748b3e5a6829c343fb5&ip=True",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-fd70ab869e084748b3e5a6829c343fb5.pdf",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cc/page/regular-commission-meeting-100",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cc/page/regular-commission-meeting-100",
+       "View Details"
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-74171384ca6e428098c939798c909bcd.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=74171384ca6e428098c939798c909bcd&ip=False",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-74171384ca6e428098c939798c909bcd.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=74171384ca6e428098c939798c909bcd&ip=True",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-pz/page/planning-and-zoning-board-meeting-18",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-pz/page/planning-and-zoning-board-meeting-18",
+       "View Details"
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-d10b3c771d8943caa5038029a999c7b4.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=d10b3c771d8943caa5038029a999c7b4&ip=False",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-d10b3c771d8943caa5038029a999c7b4.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=d10b3c771d8943caa5038029a999c7b4&ip=True",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-hpb/page/historic-preservation-board-meeting-4",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-hpb/page/historic-preservation-board-meeting-4",
+       "View Details"
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-5121a07a83f5437a843d77fee1bad84d.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=5121a07a83f5437a843d77fee1bad84d&ip=False",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-5121a07a83f5437a843d77fee1bad84d.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=5121a07a83f5437a843d77fee1bad84d&ip=True",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-5121a07a83f5437a843d77fee1bad84d.pdf",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cc/page/attorney-client-session-0",
+       "View Details"
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-e19adc56e9e74309aa1786d5d2aa3f9e.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=e19adc56e9e74309aa1786d5d2aa3f9e&ip=False",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=e19adc56e9e74309aa1786d5d2aa3f9e&ip=True",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-e19adc56e9e74309aa1786d5d2aa3f9e.pdf",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cc/page/regular-commission-meeting-99",
+       "View Details"
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-242540a16d8f4b69a4b49e0c6d9fb5c5.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=242540a16d8f4b69a4b49e0c6d9fb5c5&ip=False",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-242540a16d8f4b69a4b49e0c6d9fb5c5.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=242540a16d8f4b69a4b49e0c6d9fb5c5&ip=True",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-242540a16d8f4b69a4b49e0c6d9fb5c5.pdf",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cc/page/final-public-hearing-budget-1",
+       "View Details"
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-eb9e6062b45d4080b1214e1b44f2e9f5.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=eb9e6062b45d4080b1214e1b44f2e9f5&ip=False",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-eb9e6062b45d4080b1214e1b44f2e9f5.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=eb9e6062b45d4080b1214e1b44f2e9f5&ip=True",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-eb9e6062b45d4080b1214e1b44f2e9f5.pdf",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cc/page/attorney-client-session",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cc/page/attorney-client-session",
+       "View Details"
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-f1b2c2c6fcd54e2b8691b9852ca103e6.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=f1b2c2c6fcd54e2b8691b9852ca103e6&ip=False",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-f1b2c2c6fcd54e2b8691b9852ca103e6.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=f1b2c2c6fcd54e2b8691b9852ca103e6&ip=True",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-f1b2c2c6fcd54e2b8691b9852ca103e6.pdf",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cc/page/first-public-hearing-budget-1",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cc/page/first-public-hearing-budget-1",
+       "View Details"
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-8a6b6a80103a4b86b5b0e51c5d706703.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=8a6b6a80103a4b86b5b0e51c5d706703&ip=False",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-8a6b6a80103a4b86b5b0e51c5d706703.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=8a6b6a80103a4b86b5b0e51c5d706703&ip=True",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-8a6b6a80103a4b86b5b0e51c5d706703.pdf",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cra/page/special-called-community-redevelopment-agency-meeting-10",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cra/page/special-called-community-redevelopment-agency-meeting-10",
+       "View Details"
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-142dc3f0a44c4c97bd504b0f921e3d51.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=142dc3f0a44c4c97bd504b0f921e3d51&ip=False",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-142dc3f0a44c4c97bd504b0f921e3d51.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=142dc3f0a44c4c97bd504b0f921e3d51&ip=True",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-142dc3f0a44c4c97bd504b0f921e3d51.pdf",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cra/page/community-redevelopment-agency-meeting-7",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cra/page/community-redevelopment-agency-meeting-7",
+       "View Details"
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-186f602f0c994da2bbd46fb827063944.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=186f602f0c994da2bbd46fb827063944&ip=False",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-186f602f0c994da2bbd46fb827063944.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=186f602f0c994da2bbd46fb827063944&ip=True",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-186f602f0c994da2bbd46fb827063944.pdf",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cc/page/regular-commission-meeting-98",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cc/page/regular-commission-meeting-98",
+       "View Details"
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-9103db5e42d947999cbd2c2753ed2252.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=9103db5e42d947999cbd2c2753ed2252&ip=False",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-9103db5e42d947999cbd2c2753ed2252.pdf",
+       ""
+      ],
+      [
+       "https://meetings.municode.com/adaHtmlDocument/index?cc=LAKEPARKFL&me=9103db5e42d947999cbd2c2753ed2252&ip=True",
+       ""
+      ],
+      [
+       "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-9103db5e42d947999cbd2c2753ed2252.pdf",
+       ""
+      ],
+      [
+       "https://lakepark-fl.municodemeetings.com/bc-cc/page/commission-budget-workshop-4",
+       "View Details"
+      ]
+     ]
+    }
    ],
-   "pdf_sample": []
+   "pdfs_found": 55,
+   "scanned": [
+    {
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-9191cf3617e543db927003949c6d46a3.pdf",
+     "pages": 3,
+     "hits": 0
+    },
+    {
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-9191cf3617e543db927003949c6d46a3.pdf",
+     "pages": 267,
+     "hits": 14
+    },
+    {
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-8a66df26b7784624b28284d32031ff27.pdf",
+     "pages": 3,
+     "hits": 2
+    },
+    {
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-8a66df26b7784624b28284d32031ff27.pdf",
+     "pages": 384,
+     "hits": 38
+    },
+    {
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-53685c83ed6a495f988737ab48a92ce6.pdf",
+     "pages": 4,
+     "hits": 6
+    },
+    {
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-53685c83ed6a495f988737ab48a92ce6.pdf",
+     "pages": 400,
+     "hits": 53
+    },
+    {
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-53685c83ed6a495f988737ab48a92ce6.pdf",
+     "pages": 31,
+     "hits": 8
+    },
+    {
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-b33729d6955749b89359099217e56b29.pdf",
+     "pages": 3,
+     "hits": 1
+    }
+   ],
+   "errors": [],
+   "pdf_sample": [
+    "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-9191cf3617e543db927003949c6d46a3.pdf",
+    "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-9191cf3617e543db927003949c6d46a3.pdf",
+    "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-8a66df26b7784624b28284d32031ff27.pdf",
+    "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-8a66df26b7784624b28284d32031ff27.pdf",
+    "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-53685c83ed6a495f988737ab48a92ce6.pdf",
+    "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-53685c83ed6a495f988737ab48a92ce6.pdf",
+    "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-53685c83ed6a495f988737ab48a92ce6.pdf",
+    "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-b33729d6955749b89359099217e56b29.pdf",
+    "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-b33729d6955749b89359099217e56b29.pdf",
+    "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-b33729d6955749b89359099217e56b29.pdf",
+    "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-a65be5e6a62642459c08f4da58fd61a0.pdf",
+    "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-a65be5e6a62642459c08f4da58fd61a0.pdf",
+    "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-fd70ab869e084748b3e5a6829c343fb5.pdf",
+    "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-fd70ab869e084748b3e5a6829c343fb5.pdf",
+    "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-fd70ab869e084748b3e5a6829c343fb5.pdf"
+   ]
   },
   "m-tarponsprings:civicclerk": {
    "name": "Tarpon Springs",
@@ -18724,10 +19201,18 @@
     "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1677,plainText=false)",
     "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1691,plainText=false)",
     "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1699,plainText=false)",
-    "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1698,plainText=false)",
+    "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1700,plainText=false)",
     "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1693,plainText=false)"
    ],
-   "scanned": [],
+   "scanned": [
+    {
+     "pdf": "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1700,plainText=false)",
+     "pages": 1,
+     "hits": 0,
+     "chars": 2392,
+     "meeting_date": "2026-12-01"
+    }
+   ],
    "errors": []
   },
   "m-stcloud:civicclerk": {
@@ -19220,7 +19705,7 @@
   "c-nassau:civicclerk": {
    "name": "Nassau County",
    "platform": "civicclerk",
-   "events": 7,
+   "events": 8,
    "files": [
     "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4375,plainText=false)",
     "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4376,plainText=false)",
@@ -19233,7 +19718,22 @@
     "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4388,plainText=false)",
     "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4385,plainText=false)"
    ],
-   "scanned": [],
+   "scanned": [
+    {
+     "pdf": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4391,plainText=false)",
+     "pages": 2,
+     "hits": 0,
+     "chars": 1950,
+     "meeting_date": "2026-11-24"
+    },
+    {
+     "pdf": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4392,plainText=false)",
+     "pages": 87,
+     "hits": 0,
+     "chars": 188927,
+     "meeting_date": "2026-11-24"
+    }
+   ],
    "errors": []
   },
   "c-santarosa:civicclerk": {
@@ -19402,60 +19902,32 @@
    ],
    "scanned": [
     {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6745,plainText=false)",
+     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6749,plainText=false)",
      "pages": 2,
      "hits": 0,
-     "chars": 2746,
-     "meeting_date": "2026-11-16"
+     "chars": 2745,
+     "meeting_date": "2026-11-18"
     },
     {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6746,plainText=false)",
-     "pages": 18,
+     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6750,plainText=false)",
+     "pages": 22,
      "hits": 0,
-     "chars": 27169,
-     "meeting_date": "2026-11-16"
+     "chars": 36902,
+     "meeting_date": "2026-11-18"
     },
     {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6753,plainText=false)",
+     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6751,plainText=false)",
      "pages": 2,
      "hits": 0,
-     "chars": 2412,
-     "meeting_date": "2026-11-16"
+     "chars": 2985,
+     "meeting_date": "2026-11-19"
     },
     {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6754,plainText=false)",
-     "pages": 4,
+     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6752,plainText=false)",
+     "pages": 31,
      "hits": 0,
-     "chars": 5481,
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6738,plainText=false)",
-     "pages": 2,
-     "hits": 0,
-     "chars": 2886,
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6739,plainText=false)",
-     "pages": 25,
-     "hits": 0,
-     "chars": 19464,
-     "meeting_date": "2026-11-16"
-    },
-    {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6740,plainText=false)",
-     "pages": 2,
-     "hits": 0,
-     "chars": 3840,
-     "meeting_date": "2026-11-17"
-    },
-    {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6741,plainText=false)",
-     "pages": 63,
-     "hits": 0,
-     "chars": 78233,
-     "meeting_date": "2026-11-17"
+     "chars": 32111,
+     "meeting_date": "2026-11-19"
     }
    ],
    "errors": []
@@ -19586,25 +20058,25 @@
    "name": "Polk County Public Schools",
    "platform": "boarddocs",
    "meetings": 2,
-   "scanned": [
-    {
-     "doc": "go.boarddocs.com/fl/polk/Board.nsf/goto?open&id=DYTPL36508BC",
-     "meeting": "Reorganization Meeting-Board Election Year",
-     "date": "2026-11-17",
-     "items": 44,
-     "fetched": 5,
-     "hits": 1
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "sd-lee:boarddocs": {
    "name": "School District of Lee County",
    "platform": "boarddocs",
-   "meetings": 0,
-   "scanned": [],
+   "meetings": 2,
+   "scanned": [
+    {
+     "doc": "/go.boarddocs.com/fl/lee/Board.nsf/goto?open&id=DRCK3A4FAFD4",
+     "meeting": "School Board Meeting (Board Organization) 6:00 PM",
+     "date": "2026-11-17",
+     "items": 77,
+     "fetched": 3,
+     "hits": 0
+    }
+   ],
    "errors": [
-    "list: HTTP Error 403: Forbidden"
+    "item DU7P5Q62FA76: HTTP Error 403: Forbidden"
    ]
   },
   "c-clay:swagit": {
@@ -19719,32 +20191,82 @@
   "m-miami:iqm2": {
    "name": "Miami",
    "platform": "iqm2",
-   "meetings": 0,
-   "scanned": [],
-   "errors": [
-    "Services/RSS.aspx?Feed=Calendar: The read operation timed out",
-    "Citizens/Default.aspx: The read operation timed out"
-   ]
+   "meetings": 4,
+   "scanned": [
+    {
+     "doc": "https://miamifl.iqm2.com/Citizens/FileOpen.aspx?Type=1&ID=4085&Inline=True",
+     "meeting": "2026/11/19 10:00 AM Southeast Overtown/Park West CRA Regular - Miami, FL",
+     "date": "2026-11-19",
+     "pages": 131,
+     "hits": 11
+    },
+    {
+     "doc": "https://miamifl.iqm2.com/Citizens/FileOpen.aspx?Type=1&ID=4084&Inline=True",
+     "meeting": "2026/11/16 06:00 PM Miami Forever Bond Program Citizens' Oversight Board Regular Meeting - Miami, FL",
+     "date": "2026-11-16",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "doc": "https://miamifl.iqm2.com/Citizens/FileOpen.aspx?Type=1&ID=4078&Inline=True",
+     "meeting": "2026/11/19 09:30 AM OMNI Community Redevelopment Agency Regular Meeting - Miami, FL",
+     "date": "2026-11-19",
+     "pages": 35,
+     "hits": 8
+    },
+    {
+     "doc": "https://miamifl.iqm2.com/Citizens/FileOpen.aspx?Type=1&ID=4077&Inline=True",
+     "meeting": "2026/11/09 02:00 PM Miami Tree Ordinance Advisory Committee Regular Meeting - Miami, FL",
+     "date": "2026-11-09",
+     "pages": 12,
+     "hits": 0
+    }
+   ],
+   "errors": []
   },
   "c-okaloosa:iqm2": {
    "name": "Okaloosa County",
    "platform": "iqm2",
-   "meetings": 0,
-   "scanned": [],
-   "errors": [
-    "Services/RSS.aspx?Feed=Calendar: The read operation timed out",
-    "Citizens/Default.aspx: The read operation timed out"
-   ]
+   "meetings": 1,
+   "scanned": [
+    {
+     "doc": "https://okaloosacountyfl.iqm2.com/Citizens/FileOpen.aspx?Type=1&ID=1878&Inline=True",
+     "meeting": "2026/11/17 08:30 AM Board of County Commissioners Regular Meeting (South) - Okaloosa County, Florida",
+     "date": "2026-11-17",
+     "pages": 400,
+     "hits": 60
+    }
+   ],
+   "errors": []
   },
   "m-fortwaltonbeach:iqm2": {
    "name": "Fort Walton Beach",
    "platform": "iqm2",
-   "meetings": 0,
-   "scanned": [],
-   "errors": [
-    "Services/RSS.aspx?Feed=Calendar: The read operation timed out",
-    "Citizens/Default.aspx: The read operation timed out"
-   ]
+   "meetings": 3,
+   "scanned": [
+    {
+     "doc": "https://fortwaltonbeachcityfl.iqm2.com/Citizens/FileOpen.aspx?Type=1&ID=2291&Inline=True",
+     "meeting": "2026/11/10 05:30 PM City Council Workshop - City of Fort Walton Beach, Florida",
+     "date": "2026-11-10",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "doc": "https://fortwaltonbeachcityfl.iqm2.com/Citizens/FileOpen.aspx?Type=1&ID=2295&Inline=True",
+     "meeting": "2026/11/17 05:00 PM City Council Special Meeting - City of Fort Walton Beach, Florida",
+     "date": "2026-11-17",
+     "pages": 1,
+     "hits": 0
+    },
+    {
+     "doc": "https://fortwaltonbeachcityfl.iqm2.com/Citizens/FileOpen.aspx?Type=1&ID=2288&Inline=True",
+     "meeting": "2026/11/17 06:00 PM City Council Regular Meeting - City of Fort Walton Beach, Florida",
+     "date": "2026-11-17",
+     "pages": 256,
+     "hits": 32
+    }
+   ],
+   "errors": []
   },
   "m-tampa:onbase": {
    "name": "Tampa",
@@ -19796,8 +20318,16 @@
   "c-manatee:date": {
    "name": "Manatee County",
    "platform": "date_template",
-   "found": [],
-   "scanned": [],
+   "found": [
+    "https://records.manateeclerk.com/BoardRecords/Browse/Agendas/Board-of-County-Commissioners/2026/11/BC20261119DOC001.pdf"
+   ],
+   "scanned": [
+    {
+     "pdf": "https://records.manateeclerk.com/BoardRecords/Browse/Agendas/Board-of-County-Commissioners/2026/11/BC20261119DOC001.pdf",
+     "pages": 15,
+     "hits": 0
+    }
+   ],
    "errors": [
     "https://records.manateeclerk.com/BoardRecords/Browse/Agendas/Board-of-County-Commissioners/2026/11/BC20261113DOC001.pdf: HTTP Error 410: Gone",
     "https://records.manateeclerk.com/BoardRecords/Browse/Agendas/Board-of-County-Commissioners/2026/11/BC20261114DOC001.pdf: HTTP Error 410: Gone",
@@ -19828,13 +20358,30 @@
   "c-leon:date": {
    "name": "Leon County",
    "platform": "date_template",
+   "found": [
+    "https://www2.leoncountyfl.gov/coadmin/agenda/book/261116/agenda.pdf",
+    "https://www2.leoncountyfl.gov/coadmin/agenda/book/261117/agenda.pdf"
+   ],
+   "scanned": [
+    {
+     "pdf": "https://www2.leoncountyfl.gov/coadmin/agenda/book/261116/agenda.pdf",
+     "pages": 36,
+     "hits": 3
+    },
+    {
+     "pdf": "https://www2.leoncountyfl.gov/coadmin/agenda/book/261117/agenda.pdf",
+     "pages": 400,
+     "hits": 60
+    }
+   ],
+   "errors": []
+  },
+  "m-seminolecity:date": {
+   "name": "Seminole (city)",
+   "platform": "date_template",
    "found": [],
    "scanned": [],
-   "errors": [
-    "https://www2.leoncountyfl.gov/coadmin/agenda/book/261113/revisedagendaoutline.pdf: HTTP Error 403: Forbidden",
-    "https://www2.leoncountyfl.gov/coadmin/agenda/book/261113/RevisedAgendaOutline.pdf: HTTP Error 403: Forbidden",
-    "https://www2.leoncountyfl.gov/coadmin/agenda/book/261114/revisedagendaoutline.pdf: HTTP Error 403: Forbidden"
-   ]
+   "errors": []
   },
   "c-miamidade": {
    "name": "Miami-Dade County",
