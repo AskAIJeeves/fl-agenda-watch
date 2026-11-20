@@ -190,17 +190,6 @@
    "notes": "added 2026-11-16 from Granicus discovery probe"
   },
   {
-   "entity_id": "m-margate",
-   "name": "Margate",
-   "platform": "granicus",
-   "listing_urls": [
-    "https://margatefl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
-   ],
-   "follow": "",
-   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
-   "notes": "added 2026-11-16 from Granicus discovery probe"
-  },
-  {
    "entity_id": "m-coconutcreek",
    "name": "Coconut Creek",
    "platform": "granicus",
@@ -228,28 +217,6 @@
    "platform": "granicus",
    "listing_urls": [
     "https://cityofbradenton.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
-   ],
-   "follow": "",
-   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
-   "notes": "added 2026-11-16 from Granicus discovery probe"
-  },
-  {
-   "entity_id": "m-coralgables",
-   "name": "Coral Gables",
-   "platform": "granicus",
-   "listing_urls": [
-    "https://coralgables.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
-   ],
-   "follow": "",
-   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
-   "notes": "added 2026-11-16 from Granicus discovery probe"
-  },
-  {
-   "entity_id": "m-cutlerbay",
-   "name": "Cutler Bay",
-   "platform": "granicus",
-   "listing_urls": [
-    "https://cutlerbay.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
    ],
    "follow": "",
    "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
@@ -294,28 +261,6 @@
    "platform": "granicus",
    "listing_urls": [
     "https://venice.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
-   ],
-   "follow": "",
-   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
-   "notes": "added 2026-11-16 from Granicus discovery probe"
-  },
-  {
-   "entity_id": "m-winterpark",
-   "name": "Winter Park",
-   "platform": "granicus",
-   "listing_urls": [
-    "https://winterpark.granicus.com/ViewPublisherRSS.php?view_id=6&mode=agendas"
-   ],
-   "follow": "",
-   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
-   "notes": "added 2026-11-16 from Granicus discovery probe"
-  },
-  {
-   "entity_id": "m-hallandalebeach",
-   "name": "Hallandale Beach",
-   "platform": "granicus",
-   "listing_urls": [
-    "https://hallandalebeach.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
    ],
    "follow": "",
    "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
@@ -388,17 +333,6 @@
    "notes": "added 2026-11-16 from Granicus discovery probe"
   },
   {
-   "entity_id": "m-cocoabeach",
-   "name": "Cocoa Beach",
-   "platform": "granicus",
-   "listing_urls": [
-    "https://cocoabeach.granicus.com/ViewPublisherRSS.php?view_id=4&mode=agendas"
-   ],
-   "follow": "",
-   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
-   "notes": "added 2026-11-16 from Granicus discovery probe"
-  },
-  {
    "entity_id": "m-satellitebeach",
    "name": "Satellite Beach",
    "platform": "granicus",
@@ -410,33 +344,11 @@
    "notes": "added 2026-11-16 from Granicus discovery probe"
   },
   {
-   "entity_id": "m-stuart",
-   "name": "Stuart",
-   "platform": "granicus",
-   "listing_urls": [
-    "https://cityofstuart.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
-   ],
-   "follow": "",
-   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
-   "notes": "added 2026-11-16 from Granicus discovery probe"
-  },
-  {
    "entity_id": "m-oaklandpark",
    "name": "Oakland Park",
    "platform": "granicus",
    "listing_urls": [
     "https://oaklandparkfl.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas"
-   ],
-   "follow": "",
-   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
-   "notes": "added 2026-11-16 from Granicus discovery probe"
-  },
-  {
-   "entity_id": "m-sweetwater",
-   "name": "Sweetwater",
-   "platform": "granicus",
-   "listing_urls": [
-    "https://cityofsweetwater.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
    ],
    "follow": "",
    "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
@@ -476,33 +388,11 @@
    "notes": "added 2026-11-16 from Granicus discovery probe"
   },
   {
-   "entity_id": "c-hernando",
-   "name": "Hernando County",
-   "platform": "granicus",
-   "listing_urls": [
-    "https://hernandocountyfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
-   ],
-   "follow": "",
-   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
-   "notes": "added 2026-11-16 from Granicus discovery probe"
-  },
-  {
    "entity_id": "c-monroe",
    "name": "Monroe County",
    "platform": "granicus",
    "listing_urls": [
     "https://monroecountyfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas"
-   ],
-   "follow": "",
-   "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
-   "notes": "added 2026-11-16 from Granicus discovery probe"
-  },
-  {
-   "entity_id": "c-martin",
-   "name": "Martin County",
-   "platform": "granicus",
-   "listing_urls": [
-    "https://martin.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas"
    ],
    "follow": "",
    "pdf": "(?i)(AgendaViewer\\.php|MetaViewer\\.php|GeneratedAgendaViewer\\.php)",
@@ -551,6 +441,76 @@
    "follow": "",
    "pdf": "(?i)/file/5903/.*action-list.*\\.pdf",
    "notes": "County Council action lists: each item with the council's action and vote, posted after the meeting. The agenda app (vcservices.vcgov.org) is a script-driven page and is not read yet."
+  },
+  {
+   "entity_id": "m-aventura",
+   "name": "Aventura",
+   "platform": "agendacenter",
+   "listing_urls": [
+    "https://www.cityofaventura.com/AgendaCenter"
+   ],
+   "follow": "",
+   "pdf": "(?i)/AgendaCenter/ViewFile/Agenda/_\\d{8}-\\d+"
+  },
+  {
+   "entity_id": "m-northmiami",
+   "name": "North Miami",
+   "platform": "agendacenter",
+   "listing_urls": [
+    "https://www.northmiamifl.gov/AgendaCenter"
+   ],
+   "follow": "",
+   "pdf": "(?i)/AgendaCenter/ViewFile/Agenda/_\\d{8}-\\d+"
+  },
+  {
+   "entity_id": "m-sweetwater",
+   "name": "Sweetwater",
+   "platform": "agendacenter",
+   "listing_urls": [
+    "https://cityofsweetwater.fl.gov/AgendaCenter"
+   ],
+   "follow": "",
+   "pdf": "(?i)/AgendaCenter/ViewFile/Agenda/_\\d{8}-\\d+"
+  },
+  {
+   "entity_id": "m-lakemary",
+   "name": "Lake Mary",
+   "platform": "agendacenter",
+   "listing_urls": [
+    "https://www.lakemaryfl.com/AgendaCenter"
+   ],
+   "follow": "",
+   "pdf": "(?i)/AgendaCenter/ViewFile/Agenda/_\\d{8}-\\d+"
+  },
+  {
+   "entity_id": "m-groveland",
+   "name": "Groveland",
+   "platform": "agendacenter",
+   "listing_urls": [
+    "https://www.groveland-fl.gov/AgendaCenter"
+   ],
+   "follow": "",
+   "pdf": "(?i)/AgendaCenter/ViewFile/Agenda/_\\d{8}-\\d+"
+  },
+  {
+   "entity_id": "m-bartow",
+   "name": "Bartow",
+   "platform": "agendacenter",
+   "listing_urls": [
+    "https://www.cityofbartow.net/AgendaCenter"
+   ],
+   "follow": "",
+   "pdf": "(?i)/AgendaCenter/ViewFile/Agenda/_\\d{8}-\\d+"
+  },
+  {
+   "entity_id": "m-lakepark",
+   "name": "Lake Park",
+   "platform": "municode",
+   "listing_urls": [
+    "https://lakepark-fl.municodemeetings.com/"
+   ],
+   "follow": "",
+   "pdf": "(?i)mccmeetings.*\\.pdf"
   }
  ],
  "sequential": [
@@ -683,11 +643,6 @@
    "entity_id": "m-destin",
    "name": "Destin",
    "tenant": "destinfl"
-  },
-  {
-   "entity_id": "m-fortwaltonbeach",
-   "name": "Fort Walton Beach",
-   "tenant": "fortwaltonbeachfl"
   },
   {
    "entity_id": "m-crestview",
@@ -888,6 +843,21 @@
    "entity_id": "m-templeterrace",
    "name": "Temple Terrace",
    "tenant": "templeterracefl"
+  },
+  {
+   "entity_id": "m-stuart",
+   "name": "Stuart",
+   "tenant": "stuartfl"
+  },
+  {
+   "entity_id": "m-winterpark",
+   "name": "Winter Park",
+   "tenant": "winterparkfl"
+  },
+  {
+   "entity_id": "m-cocoabeach",
+   "name": "Cocoa Beach",
+   "tenant": "cocoabeachfl"
   }
  ],
  "_platforms_checked": "CivicPlus Agenda Center RSS feeds were empty for Tarpon Springs, Safety Harbor, Oldsmar, St. Pete Beach (they use other systems). Oldsmar uses CivicWeb (myoldsmar.civicweb.net).",
@@ -944,6 +914,12 @@
    "name": "Sarasota County",
    "base": "https://egenda.scgov.net/OnBaseAgendaOnline",
    "skip": "(?i)special magistrate|code enforcement|value adjustment"
+  },
+  {
+   "entity_id": "c-manatee",
+   "name": "Manatee County",
+   "base": "https://agendaonline.mymanatee.org/OnBaseAgendaOnline",
+   "skip": "(?i)code enforcement|special magistrate"
   }
  ],
  "_blocked": "Leon County (www2.leoncountyfl.gov) and West Palm Beach (wpb.org) return 403 to GitHub's servers.",
@@ -994,6 +970,11 @@
    "entity_id": "m-hainescity",
    "name": "Haines City",
    "host": "pub-hainescity.escribemeetings.com"
+  },
+  {
+   "entity_id": "m-cutlerbay",
+   "name": "Cutler Bay",
+   "host": "pub-cutlerbay-fl.escribemeetings.com"
   }
  ],
  "primegov": [
@@ -1038,6 +1019,11 @@
    "entity_id": "c-okaloosa",
    "name": "Okaloosa County",
    "host": "okaloosacountyfl.iqm2.com"
+  },
+  {
+   "entity_id": "m-fortwaltonbeach",
+   "name": "Fort Walton Beach",
+   "host": "fortwaltonbeachcityfl.iqm2.com"
   }
  ],
  "meeting_skip": "(?i)code enforcement|special magistrate|value adjustment|board of adjustment|cancel+ed|pre-?application|bid opening|nuisance abatement",

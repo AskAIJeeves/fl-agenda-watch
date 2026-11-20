@@ -362,8 +362,12 @@ def scan_platforms(cfg, store, seen, debug, now):
     # iQM2: calendar RSS (HTML view), meeting detail page, agenda FileOpen Type=1
     for g in cfg.get("iqm2", []):
         d = debug[g["entity_id"] + ":iqm2"] = {"name": g["name"], "platform": "iqm2", "meetings": 0, "scanned": [], "errors": []}
-        try: portal = OPENER.open(urllib.request.Request(f"https://{g['host']}/Citizens/Default.aspx", headers=UA), timeout=180).read().decode("utf-8", "replace")
-        except Exception as e: d["errors"].append(f"portal: {e}"); continue
+        portal = ""
+        for path in ("Services/RSS.aspx?Feed=Calendar", "Citizens/Default.aspx"):   # the RSS feed is small and fast; the portal page can time out
+            try: portal = OPENER.open(urllib.request.Request(f"https://{g['host']}/{path}", headers=UA), timeout=90).read().decode("utf-8", "replace")
+            except Exception as e: d["errors"].append(f"{path}: {e}"); continue
+            if re.search(r"Detail_Meeting\.aspx\?ID=\d+", portal): break
+        if not portal: continue
         ids = sorted({int(x) for x in re.findall(r"Detail_Meeting\.aspx\?ID=(\d+)", portal)}, reverse=True)[:25]
         out = []
         for mid in ids:

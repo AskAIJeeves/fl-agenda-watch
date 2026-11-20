@@ -211,6 +211,41 @@
    "candidates": [
     "desotobocc"
    ]
+  },
+  {
+   "entity_id": "c-martin",
+   "name": "Martin County",
+   "candidates": [
+    "martin"
+   ]
+  },
+  {
+   "entity_id": "c-hernando",
+   "name": "Hernando County",
+   "candidates": [
+    "hernandocountyfl"
+   ]
+  },
+  {
+   "entity_id": "m-coralgables",
+   "name": "Coral Gables",
+   "candidates": [
+    "coralgables"
+   ]
+  },
+  {
+   "entity_id": "m-margate",
+   "name": "Margate",
+   "candidates": [
+    "margatefl"
+   ]
+  },
+  {
+   "entity_id": "m-hallandalebeach",
+   "name": "Hallandale Beach",
+   "candidates": [
+    "hallandalebeach"
+   ]
   }
  ]
 }
