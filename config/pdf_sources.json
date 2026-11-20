@@ -1063,12 +1063,14 @@
   {
    "entity_id": "sd-pasco",
    "name": "Pasco County Schools",
-   "site": "fl/pasco"
+   "site": "fl/pasco",
+   "disabled": "moved off BoardDocs (no meetings / 403 on list)"
   },
   {
    "entity_id": "sd-palmbeach",
    "name": "School District of Palm Beach County",
-   "site": "fl/palmbeach"
+   "site": "fl/palmbeach",
+   "disabled": "moved off BoardDocs (no meetings / 403 on list)"
   },
   {
    "entity_id": "sd-polk",

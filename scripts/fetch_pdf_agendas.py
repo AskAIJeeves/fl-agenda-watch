@@ -212,18 +212,25 @@ def scan_platforms(cfg, store, seen, debug, now):
     # BoardDocs (school districts): meeting list JSON, agenda HTML, then item details for items that look like spending
     money_title = re.compile(r"(?i)\$|approv|award|contract|purchas|agreement|\bbid\b|grant|lease|fund|change order|renewal|amendment|budget|construct|piggyback|sole source|consult|renovat|acqui")
     # BoardDocs rate-limits fast clients with 403s: wait 6 s between requests, cap item fetches per run,
-    # and stop all BoardDocs requests for the run at the first 403. Item fetches are cached in seen, so coverage builds over nights.
-    bd_budget = {"items": 0, "blocked": False}
-    BD_MAX_ITEMS = 50
-    for g in cfg.get("boarddocs", []):
+    # skip a district for the run at its first 403, and stop all BoardDocs requests after three districts in a row refuse. Item fetches are cached in seen, so coverage builds over nights.
+    bd_budget = {"items": 0, "blocked": False, "site_403": 0}
+    BD_MAX_ITEMS, BD_PER_SITE = 60, 12
+    bd_list = [g for g in cfg.get("boarddocs", []) if not g.get("disabled")]
+    if bd_list:   # rotate the starting district each day so one slow district cannot starve the rest
+        k = now.toordinal() % len(bd_list); bd_list = bd_list[k:] + bd_list[:k]
+    for g in bd_list:
         if time.time() - T0 > PDF_BUDGET or bd_budget["blocked"]: break
+        site_blocked = {"v": False}
         d = debug[g["entity_id"] + ":boarddocs"] = {"name": g["name"], "platform": "boarddocs", "meetings": 0, "scanned": [], "errors": []}
         base = f"https://go.boarddocs.com/{g['site']}/Board.nsf"
         def post(path, data, base=base):
             time.sleep(6)
             try: return OPENER.open(urllib.request.Request(f"{base}/{path}", data=urllib.parse.urlencode(data).encode(), headers=UA), timeout=60).read().decode("utf-8", "replace")
             except urllib.error.HTTPError as e:
-                if e.code == 403: bd_budget["blocked"] = True
+                if e.code == 403:
+                    site_blocked["v"] = True          # this district only; stop everything after 3 districts in a row refuse
+                    bd_budget["site_403"] += 1
+                    if bd_budget["site_403"] >= 3: bd_budget["blocked"] = True
                 raise
         try:
             cid = g.get("committee")
@@ -236,7 +243,7 @@ def scan_platforms(cfg, store, seen, debug, now):
         d["meetings"] = len(ms)
         for m in sorted(ms, key=lambda m: m["numberdate"])[:2]:
             key = f"boarddocs:{g['site']}:{m['unique']}"
-            if key in seen or bd_budget["blocked"]: continue
+            if key in seen or bd_budget["blocked"] or site_blocked["v"]: continue
             mdate = f"{m['numberdate'][:4]}-{m['numberdate'][4:6]}-{m['numberdate'][6:]}"
             mu = f"{base}/goto?open&id={m['unique']}"
             try:
@@ -247,13 +254,13 @@ def scan_platforms(cfg, store, seen, debug, now):
                     title = " ".join(re.sub(r"<[^>]+>", " ", row).split())
                     ikey = f"boarddocs-item:{uid}"
                     if not money_title.search(title) or fetched >= 60 or ikey in seen: continue
-                    if bd_budget["items"] >= BD_MAX_ITEMS or bd_budget["blocked"] or time.time() - T0 > PDF_BUDGET: break
+                    if fetched >= BD_PER_SITE or bd_budget["items"] >= BD_MAX_ITEMS or bd_budget["blocked"] or site_blocked["v"] or time.time() - T0 > PDF_BUDGET: break
                     fetched += 1; bd_budget["items"] += 1
                     seen[ikey] = {"status": "ok", "date": now.date().isoformat()}
                     try: det = post("BD-GetAgendaItem?open", {"id": uid, "current_committee_id": cid})
                     except Exception as e:
                         d["errors"].append(f"item {uid}: {e}"); seen.pop(ikey, None)
-                        if bd_budget["blocked"]: break
+                        if bd_budget["blocked"] or site_blocked["v"]: break
                         continue
                     import html as _h
                     txt = _h.unescape(" ".join(re.sub(r"(?is)<(script|style).*?</\1>|<[^>]+>", " ", det).split()))
@@ -267,7 +274,8 @@ def scan_platforms(cfg, store, seen, debug, now):
                             "meeting_date": mdate, "agenda_number": None, "file_number": None, "title": txt[:1200], **tags,
                             "keywords": sorted({k.group(0).lower() for k in KEYWORDS.finditer(txt)}),
                             "meeting_url": mu, "agenda_pdf": f"{base}/goto?open&id={uid}", "found_utc": now.isoformat(timespec="seconds")})
-                if mdate < now.date().isoformat() and not bd_budget["blocked"] and fetched < 60 and bd_budget["items"] < BD_MAX_ITEMS: seen[key] = {"status": "ok", "hits": hits, "date": now.date().isoformat()}
+                if site_blocked["v"] is False: bd_budget["site_403"] = 0
+                if mdate < now.date().isoformat() and not bd_budget["blocked"] and not site_blocked["v"] and fetched < BD_PER_SITE and bd_budget["items"] < BD_MAX_ITEMS: seen[key] = {"status": "ok", "hits": hits, "date": now.date().isoformat()}
                 d["scanned"].append({"doc": mu[-60:], "meeting": m["name"], "date": mdate, "items": len(rows), "fetched": fetched, "hits": hits})
             except Exception as e: d["errors"].append(f"meeting {m['unique']}: {e}")
             time.sleep(1)
