@@ -538,43 +538,7 @@
    "with_amount_90d": 0,
    "undated_total": 0,
    "last_meeting": "2026-04-29",
-   "on_site": 0,
-   "verdict": "stale"
-  },
-  {
-   "id": "m-boyntonbeach",
-   "government": "Boynton Beach",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 328,
-   "last_meeting": "",
-   "on_site": 21,
-   "verdict": "stale"
-  },
-  {
-   "id": "m-bradenton",
-   "government": "Bradenton",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 43,
-   "last_meeting": "",
-   "on_site": 2,
-   "verdict": "stale"
-  },
-  {
-   "id": "m-coconutcreek",
-   "government": "Coconut Creek",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 64,
-   "last_meeting": "",
-   "on_site": 15,
+   "on_site": 1,
    "verdict": "stale"
   },
   {
@@ -584,105 +548,9 @@
    "status": null,
    "items_90d": 0,
    "with_amount_90d": 0,
-   "undated_total": 2,
-   "last_meeting": "",
+   "undated_total": 0,
+   "last_meeting": "2026-06-16",
    "on_site": 0,
-   "verdict": "stale"
-  },
-  {
-   "id": "m-coralsprings",
-   "government": "Coral Springs",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 200,
-   "last_meeting": "",
-   "on_site": 4,
-   "verdict": "stale"
-  },
-  {
-   "id": "m-crystalriver",
-   "government": "Crystal River",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 101,
-   "last_meeting": "",
-   "on_site": 0,
-   "verdict": "stale"
-  },
-  {
-   "id": "m-delraybeach",
-   "government": "Delray Beach",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 123,
-   "last_meeting": "",
-   "on_site": 4,
-   "verdict": "stale"
-  },
-  {
-   "id": "m-dunedin",
-   "government": "Dunedin",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 154,
-   "last_meeting": "",
-   "on_site": 4,
-   "verdict": "stale"
-  },
-  {
-   "id": "m-edgewater",
-   "government": "Edgewater",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 6,
-   "last_meeting": "",
-   "on_site": 0,
-   "verdict": "stale"
-  },
-  {
-   "id": "c-gadsden",
-   "government": "Gadsden County",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 58,
-   "last_meeting": "",
-   "on_site": 0,
-   "verdict": "stale"
-  },
-  {
-   "id": "c-hardee",
-   "government": "Hardee County",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 274,
-   "last_meeting": "",
-   "on_site": 0,
-   "verdict": "stale"
-  },
-  {
-   "id": "m-lakewales",
-   "government": "Lake Wales",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 106,
-   "last_meeting": "",
-   "on_site": 5,
    "verdict": "stale"
   },
   {
@@ -694,7 +562,7 @@
    "with_amount_90d": 0,
    "undated_total": 0,
    "last_meeting": "2026-06-23",
-   "on_site": 0,
+   "on_site": 3,
    "verdict": "stale"
   },
   {
@@ -710,18 +578,6 @@
    "verdict": "stale"
   },
   {
-   "id": "m-marcoisland",
-   "government": "Marco Island",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 34,
-   "last_meeting": "",
-   "on_site": 1,
-   "verdict": "stale"
-  },
-  {
    "id": "m-miami",
    "government": "Miami",
    "platform": "iqm2",
@@ -730,42 +586,6 @@
    "with_amount_90d": 0,
    "undated_total": 0,
    "last_meeting": "2026-06-04",
-   "on_site": 2,
-   "verdict": "stale"
-  },
-  {
-   "id": "m-oaklandpark",
-   "government": "Oakland Park",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 112,
-   "last_meeting": "",
-   "on_site": 1,
-   "verdict": "stale"
-  },
-  {
-   "id": "m-ocala",
-   "government": "Ocala",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 45,
-   "last_meeting": "",
-   "on_site": 1,
-   "verdict": "stale"
-  },
-  {
-   "id": "c-okeechobee",
-   "government": "Okeechobee County",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 62,
-   "last_meeting": "",
    "on_site": 2,
    "verdict": "stale"
   },
@@ -782,30 +602,6 @@
    "verdict": "stale"
   },
   {
-   "id": "m-palmettobay",
-   "government": "Palmetto Bay",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 58,
-   "last_meeting": "",
-   "on_site": 0,
-   "verdict": "stale"
-  },
-  {
-   "id": "m-pinecrest",
-   "government": "Pinecrest",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 39,
-   "last_meeting": "",
-   "on_site": 0,
-   "verdict": "stale"
-  },
-  {
    "id": "m-pinellaspark",
    "government": "Pinellas Park",
    "platform": "api:pinellaspark",
@@ -815,30 +611,6 @@
    "undated_total": 0,
    "last_meeting": "2026-08-11",
    "on_site": 0,
-   "verdict": "stale"
-  },
-  {
-   "id": "m-puntagorda",
-   "government": "Punta Gorda",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 14,
-   "last_meeting": "",
-   "on_site": 0,
-   "verdict": "stale"
-  },
-  {
-   "id": "m-sanford",
-   "government": "Sanford",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 62,
-   "last_meeting": "",
-   "on_site": 4,
    "verdict": "stale"
   },
   {
@@ -860,21 +632,9 @@
    "status": null,
    "items_90d": 0,
    "with_amount_90d": 0,
-   "undated_total": 47,
-   "last_meeting": "",
+   "undated_total": 0,
+   "last_meeting": "2020-12-14",
    "on_site": 0,
-   "verdict": "stale"
-  },
-  {
-   "id": "m-sunrise",
-   "government": "Sunrise",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 946,
-   "last_meeting": "",
-   "on_site": 3,
    "verdict": "stale"
   },
   {
@@ -884,45 +644,9 @@
    "status": null,
    "items_90d": 0,
    "with_amount_90d": 0,
-   "undated_total": 3,
-   "last_meeting": "",
+   "undated_total": 0,
+   "last_meeting": "2026-08-19",
    "on_site": 0,
-   "verdict": "stale"
-  },
-  {
-   "id": "m-venice",
-   "government": "Venice",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 28,
-   "last_meeting": "",
-   "on_site": 0,
-   "verdict": "stale"
-  },
-  {
-   "id": "m-wellington",
-   "government": "Wellington",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 192,
-   "last_meeting": "",
-   "on_site": 0,
-   "verdict": "stale"
-  },
-  {
-   "id": "m-winterhaven",
-   "government": "Winter Haven",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 40,
-   "last_meeting": "",
-   "on_site": 1,
    "verdict": "stale"
   },
   {
@@ -932,20 +656,8 @@
    "status": null,
    "items_90d": 0,
    "with_amount_90d": 0,
-   "undated_total": 23,
-   "last_meeting": "",
-   "on_site": 0,
-   "verdict": "stale"
-  },
-  {
-   "id": "m-wintersprings",
-   "government": "Winter Springs",
-   "platform": "sources",
-   "status": null,
-   "items_90d": 0,
-   "with_amount_90d": 0,
-   "undated_total": 3,
-   "last_meeting": "",
+   "undated_total": 0,
+   "last_meeting": "2023-09-27",
    "on_site": 0,
    "verdict": "stale"
   },
@@ -986,6 +698,18 @@
    "verdict": "thin"
   },
   {
+   "id": "m-crystalriver",
+   "government": "Crystal River",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 8,
+   "with_amount_90d": 8,
+   "undated_total": 0,
+   "last_meeting": "2026-11-09",
+   "on_site": 0,
+   "verdict": "thin"
+  },
+  {
    "id": "c-desoto",
    "government": "DeSoto County",
    "platform": "api:desotobocc",
@@ -1006,6 +730,30 @@
    "with_amount_90d": 5,
    "undated_total": 0,
    "last_meeting": "2026-11-18",
+   "on_site": 0,
+   "verdict": "thin"
+  },
+  {
+   "id": "m-edgewater",
+   "government": "Edgewater",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 1,
+   "with_amount_90d": 0,
+   "undated_total": 0,
+   "last_meeting": "2026-11-09",
+   "on_site": 0,
+   "verdict": "thin"
+  },
+  {
+   "id": "c-gadsden",
+   "government": "Gadsden County",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 5,
+   "with_amount_90d": 1,
+   "undated_total": 0,
+   "last_meeting": "2026-11-17",
    "on_site": 0,
    "verdict": "thin"
   },
@@ -1082,6 +830,18 @@
    "verdict": "thin"
   },
   {
+   "id": "m-pinecrest",
+   "government": "Pinecrest",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 2,
+   "with_amount_90d": 0,
+   "undated_total": 0,
+   "last_meeting": "2026-10-13",
+   "on_site": 0,
+   "verdict": "thin"
+  },
+  {
    "id": "c-pinellas",
    "government": "Pinellas County",
    "platform": "api:pinellas",
@@ -1102,6 +862,18 @@
    "with_amount_90d": 1,
    "undated_total": 0,
    "last_meeting": "2026-09-28",
+   "on_site": 0,
+   "verdict": "thin"
+  },
+  {
+   "id": "m-puntagorda",
+   "government": "Punta Gorda",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 9,
+   "with_amount_90d": 7,
+   "undated_total": 0,
+   "last_meeting": "2026-09-17",
    "on_site": 0,
    "verdict": "thin"
   },
@@ -1142,6 +914,18 @@
    "verdict": "thin"
   },
   {
+   "id": "m-venice",
+   "government": "Venice",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 9,
+   "with_amount_90d": 8,
+   "undated_total": 0,
+   "last_meeting": "2026-11-17",
+   "on_site": 0,
+   "verdict": "thin"
+  },
+  {
    "id": "c-volusia",
    "government": "Volusia County",
    "platform": "sources",
@@ -1151,6 +935,30 @@
    "undated_total": 0,
    "last_meeting": "2026-10-06",
    "on_site": 1,
+   "verdict": "thin"
+  },
+  {
+   "id": "m-winterhaven",
+   "government": "Winter Haven",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 4,
+   "with_amount_90d": 0,
+   "undated_total": 0,
+   "last_meeting": "2026-10-26",
+   "on_site": 1,
+   "verdict": "thin"
+  },
+  {
+   "id": "m-wintersprings",
+   "government": "Winter Springs",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 1,
+   "with_amount_90d": 0,
+   "undated_total": 0,
+   "last_meeting": "2026-10-26",
+   "on_site": 0,
    "verdict": "thin"
   },
   {
@@ -1214,6 +1022,30 @@
    "verdict": "ok"
   },
   {
+   "id": "m-boyntonbeach",
+   "government": "Boynton Beach",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 49,
+   "with_amount_90d": 45,
+   "undated_total": 0,
+   "last_meeting": "2026-11-17",
+   "on_site": 21,
+   "verdict": "ok"
+  },
+  {
+   "id": "m-bradenton",
+   "government": "Bradenton",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 20,
+   "with_amount_90d": 10,
+   "undated_total": 0,
+   "last_meeting": "2026-11-19",
+   "on_site": 2,
+   "verdict": "ok"
+  },
+  {
    "id": "c-broward",
    "government": "Broward County",
    "platform": "api:broward",
@@ -1222,7 +1054,7 @@
    "with_amount_90d": 77,
    "undated_total": 0,
    "last_meeting": "2026-11-10",
-   "on_site": 30,
+   "on_site": 50,
    "verdict": "ok"
   },
   {
@@ -1258,7 +1090,7 @@
    "with_amount_90d": 57,
    "undated_total": 0,
    "last_meeting": "2026-11-19",
-   "on_site": 14,
+   "on_site": 17,
    "verdict": "ok"
   },
   {
@@ -1286,6 +1118,18 @@
    "verdict": "ok"
   },
   {
+   "id": "m-coconutcreek",
+   "government": "Coconut Creek",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 11,
+   "with_amount_90d": 3,
+   "undated_total": 0,
+   "last_meeting": "2026-11-12",
+   "on_site": 15,
+   "verdict": "ok"
+  },
+  {
    "id": "c-collier",
    "government": "Collier County",
    "platform": "civicclerk",
@@ -1295,6 +1139,18 @@
    "undated_total": 0,
    "last_meeting": "2026-11-19",
    "on_site": 5,
+   "verdict": "ok"
+  },
+  {
+   "id": "m-coralsprings",
+   "government": "Coral Springs",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 15,
+   "with_amount_90d": 10,
+   "undated_total": 0,
+   "last_meeting": "2026-11-16",
+   "on_site": 4,
    "verdict": "ok"
   },
   {
@@ -1318,7 +1174,7 @@
    "with_amount_90d": 272,
    "undated_total": 0,
    "last_meeting": "2026-11-18",
-   "on_site": 17,
+   "on_site": 22,
    "verdict": "ok"
   },
   {
@@ -1342,7 +1198,19 @@
    "with_amount_90d": 163,
    "undated_total": 0,
    "last_meeting": "2026-11-17",
-   "on_site": 3,
+   "on_site": 5,
+   "verdict": "ok"
+  },
+  {
+   "id": "m-delraybeach",
+   "government": "Delray Beach",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 38,
+   "with_amount_90d": 30,
+   "undated_total": 0,
+   "last_meeting": "2026-11-18",
+   "on_site": 4,
    "verdict": "ok"
   },
   {
@@ -1366,6 +1234,18 @@
    "with_amount_90d": 15,
    "undated_total": 0,
    "last_meeting": "2026-11-18",
+   "on_site": 5,
+   "verdict": "ok"
+  },
+  {
+   "id": "m-dunedin",
+   "government": "Dunedin",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 30,
+   "with_amount_90d": 27,
+   "undated_total": 0,
+   "last_meeting": "2026-11-19",
    "on_site": 4,
    "verdict": "ok"
   },
@@ -1426,7 +1306,7 @@
    "with_amount_90d": 51,
    "undated_total": 0,
    "last_meeting": "2026-11-17",
-   "on_site": 20,
+   "on_site": 29,
    "verdict": "ok"
   },
   {
@@ -1454,6 +1334,18 @@
    "verdict": "ok"
   },
   {
+   "id": "c-hardee",
+   "government": "Hardee County",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 26,
+   "with_amount_90d": 25,
+   "undated_total": 0,
+   "last_meeting": "2026-11-17",
+   "on_site": 0,
+   "verdict": "ok"
+  },
+  {
    "id": "c-highlands",
    "government": "Highlands County",
    "platform": "civicclerk",
@@ -1462,7 +1354,7 @@
    "with_amount_90d": 73,
    "undated_total": 0,
    "last_meeting": "2026-11-17",
-   "on_site": 1,
+   "on_site": 2,
    "verdict": "ok"
   },
   {
@@ -1474,7 +1366,7 @@
    "with_amount_90d": 53,
    "undated_total": 0,
    "last_meeting": "2026-11-10",
-   "on_site": 5,
+   "on_site": 7,
    "verdict": "ok"
   },
   {
@@ -1486,7 +1378,7 @@
    "with_amount_90d": 60,
    "undated_total": 0,
    "last_meeting": "2026-11-05",
-   "on_site": 7,
+   "on_site": 9,
    "verdict": "ok"
   },
   {
@@ -1534,7 +1426,7 @@
    "with_amount_90d": 200,
    "undated_total": 0,
    "last_meeting": "2026-11-17",
-   "on_site": 52,
+   "on_site": 68,
    "verdict": "ok"
   },
   {
@@ -1570,7 +1462,7 @@
    "with_amount_90d": 119,
    "undated_total": 0,
    "last_meeting": "2026-11-19",
-   "on_site": 4,
+   "on_site": 5,
    "verdict": "ok"
   },
   {
@@ -1594,7 +1486,19 @@
    "with_amount_90d": 30,
    "undated_total": 0,
    "last_meeting": "2026-11-18",
-   "on_site": 3,
+   "on_site": 4,
+   "verdict": "ok"
+  },
+  {
+   "id": "m-lakewales",
+   "government": "Lake Wales",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 40,
+   "with_amount_90d": 23,
+   "undated_total": 0,
+   "last_meeting": "2026-11-17",
+   "on_site": 5,
    "verdict": "ok"
   },
   {
@@ -1618,7 +1522,7 @@
    "with_amount_90d": 306,
    "undated_total": 0,
    "last_meeting": "2026-11-17",
-   "on_site": 15,
+   "on_site": 19,
    "verdict": "ok"
   },
   {
@@ -1658,6 +1562,18 @@
    "verdict": "ok"
   },
   {
+   "id": "m-marcoisland",
+   "government": "Marco Island",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 11,
+   "with_amount_90d": 10,
+   "undated_total": 0,
+   "last_meeting": "2026-11-16",
+   "on_site": 1,
+   "verdict": "ok"
+  },
+  {
    "id": "c-marion",
    "government": "Marion County",
    "platform": "api:marionfl",
@@ -1666,7 +1582,7 @@
    "with_amount_90d": 109,
    "undated_total": 0,
    "last_meeting": "2026-11-17",
-   "on_site": 1,
+   "on_site": 4,
    "verdict": "ok"
   },
   {
@@ -1690,7 +1606,7 @@
    "with_amount_90d": 88,
    "undated_total": 0,
    "last_meeting": "2026-11-18",
-   "on_site": 23,
+   "on_site": 29,
    "verdict": "ok"
   },
   {
@@ -1702,7 +1618,7 @@
    "with_amount_90d": 55,
    "undated_total": 0,
    "last_meeting": "2026-10-28",
-   "on_site": 1,
+   "on_site": 3,
    "verdict": "ok"
   },
   {
@@ -1750,7 +1666,7 @@
    "with_amount_90d": 79,
    "undated_total": 0,
    "last_meeting": "2026-11-18",
-   "on_site": 6,
+   "on_site": 7,
    "verdict": "ok"
   },
   {
@@ -1762,6 +1678,42 @@
    "with_amount_90d": 53,
    "undated_total": 0,
    "last_meeting": "2026-11-17",
+   "on_site": 3,
+   "verdict": "ok"
+  },
+  {
+   "id": "m-oaklandpark",
+   "government": "Oakland Park",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 63,
+   "with_amount_90d": 33,
+   "undated_total": 0,
+   "last_meeting": "2026-11-09",
+   "on_site": 1,
+   "verdict": "ok"
+  },
+  {
+   "id": "m-ocala",
+   "government": "Ocala",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 16,
+   "with_amount_90d": 15,
+   "undated_total": 0,
+   "last_meeting": "2026-11-17",
+   "on_site": 1,
+   "verdict": "ok"
+  },
+  {
+   "id": "c-okeechobee",
+   "government": "Okeechobee County",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 48,
+   "with_amount_90d": 35,
+   "undated_total": 0,
+   "last_meeting": "2026-11-19",
    "on_site": 2,
    "verdict": "ok"
   },
@@ -1786,7 +1738,7 @@
    "with_amount_90d": 134,
    "undated_total": 0,
    "last_meeting": "2026-11-10",
-   "on_site": 28,
+   "on_site": 43,
    "verdict": "ok"
   },
   {
@@ -1826,6 +1778,18 @@
    "verdict": "ok"
   },
   {
+   "id": "m-palmettobay",
+   "government": "Palmetto Bay",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 10,
+   "with_amount_90d": 10,
+   "undated_total": 0,
+   "last_meeting": "2026-09-14",
+   "on_site": 0,
+   "verdict": "ok"
+  },
+  {
    "id": "m-parkland",
    "government": "Parkland",
    "platform": "civicclerk",
@@ -1834,7 +1798,7 @@
    "with_amount_90d": 33,
    "undated_total": 0,
    "last_meeting": "2026-11-18",
-   "on_site": 0,
+   "on_site": 1,
    "verdict": "ok"
   },
   {
@@ -1846,7 +1810,7 @@
    "with_amount_90d": 143,
    "undated_total": 0,
    "last_meeting": "2026-11-18",
-   "on_site": 24,
+   "on_site": 25,
    "verdict": "ok"
   },
   {
@@ -1858,7 +1822,7 @@
    "with_amount_90d": 30,
    "undated_total": 0,
    "last_meeting": "2026-11-18",
-   "on_site": 1,
+   "on_site": 2,
    "verdict": "ok"
   },
   {
@@ -1898,6 +1862,18 @@
    "verdict": "ok"
   },
   {
+   "id": "m-sanford",
+   "government": "Sanford",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 54,
+   "with_amount_90d": 48,
+   "undated_total": 0,
+   "last_meeting": "2026-11-09",
+   "on_site": 4,
+   "verdict": "ok"
+  },
+  {
    "id": "c-santarosa",
    "government": "Santa Rosa County",
    "platform": "civicclerk",
@@ -1906,7 +1882,7 @@
    "with_amount_90d": 174,
    "undated_total": 0,
    "last_meeting": "2026-11-19",
-   "on_site": 9,
+   "on_site": 10,
    "verdict": "ok"
   },
   {
@@ -1966,7 +1942,7 @@
    "with_amount_90d": 79,
    "undated_total": 0,
    "last_meeting": "2026-11-19",
-   "on_site": 2,
+   "on_site": 3,
    "verdict": "ok"
   },
   {
@@ -1994,6 +1970,18 @@
    "verdict": "ok"
   },
   {
+   "id": "m-sunrise",
+   "government": "Sunrise",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 18,
+   "with_amount_90d": 7,
+   "undated_total": 0,
+   "last_meeting": "2026-11-10",
+   "on_site": 3,
+   "verdict": "ok"
+  },
+  {
    "id": "c-suwannee",
    "government": "Suwannee County",
    "platform": "civicclerk",
@@ -2014,7 +2002,7 @@
    "with_amount_90d": 240,
    "undated_total": 0,
    "last_meeting": "2026-11-23",
-   "on_site": 13,
+   "on_site": 27,
    "verdict": "ok"
   },
   {
@@ -2050,7 +2038,7 @@
    "with_amount_90d": 25,
    "undated_total": 0,
    "last_meeting": "2026-11-17",
-   "on_site": 1,
+   "on_site": 3,
    "verdict": "ok"
   },
   {
@@ -2063,6 +2051,18 @@
    "undated_total": 0,
    "last_meeting": "2026-11-24",
    "on_site": 2,
+   "verdict": "ok"
+  },
+  {
+   "id": "m-wellington",
+   "government": "Wellington",
+   "platform": "sources",
+   "status": null,
+   "items_90d": 24,
+   "with_amount_90d": 24,
+   "undated_total": 0,
+   "last_meeting": "2026-10-13",
+   "on_site": 0,
    "verdict": "ok"
   },
   {

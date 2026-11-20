@@ -423,7 +423,19 @@ def main():
                 if m and 1 <= int(m[1]) <= 12: return datetime(int(m[3]), int(m[1]), int(m[2]), tzinfo=timezone.utc)
             except ValueError: pass
             return None
-        recent = [c for c in cands if not udate(c[0]) or (now - udate(c[0])).days <= 45]
+        MON = {m: i + 1 for i, m in enumerate(["jan", "feb", "mar", "apr", "may", "jun", "jul", "aug", "sep", "oct", "nov", "dec"])}
+        def tdate(t):
+            """Meeting date from the link text, e.g. Granicus RSS titles 'City Commission Meeting - May 12, 2026'."""
+            t = str(t or "")
+            try:
+                m = re.search(r"(?i)\b(jan|feb|mar|apr|may|jun|jul|aug|sep|oct|nov|dec)[a-z]*\.?\s+(\d{1,2}),?\s+(20\d\d)\b", t)
+                if m: return datetime(int(m[3]), MON[m[1][:3].lower()], int(m[2]), tzinfo=timezone.utc)
+                m = re.search(r"\b(\d{1,2})/(\d{1,2})/(20\d\d)\b", t)
+                if m: return datetime(int(m[3]), int(m[1]), int(m[2]), tzinfo=timezone.utc)
+            except ValueError: pass
+            return None
+        def cdate(c): return udate(c[0]) or tdate(c[1])
+        recent = [c for c in cands if not cdate(c) or (now - cdate(c)).days <= 45]
         new = [c for c in recent if c[0] not in seen][: cap_n(cfg["max_new_pdfs_per_run"])]
         if time.time() - T0 > SOURCES_BUDGET:
             d.setdefault("errors", []).append("time budget reached; new PDFs deferred to next run")
@@ -445,7 +457,7 @@ def main():
                 for pno, tags, ch in hits:
                     store["items"].append({
                         "entity_id": src["entity_id"], "government": src["name"], "client": "pdf",
-                        "body": title or None, "meeting_date": udate(u).date().isoformat() if udate(u) else None, "agenda_number": f"p.{pno}",
+                        "body": title or None, "meeting_date": cdate((u, title)).date().isoformat() if cdate((u, title)) else None, "agenda_number": f"p.{pno}",
                         "file_number": None, "title": ch, **tags,
                         "keywords": sorted({m.group(0).lower() for m in KEYWORDS.finditer(ch)}),
                         "meeting_url": page, "agenda_pdf": u, "found_utc": now.isoformat(timespec="seconds")})
