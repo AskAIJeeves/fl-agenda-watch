@@ -96,7 +96,7 @@ def main():
         call = decision or suggested
         if decision == "Reject":
             continue
-        if not decision and (r.get("needs_review") or "").strip():
+        if not decision and (r.get("needs_review") or "").strip().lower() not in ("", "no", "none", "n/a", "null", "false"):
             continue          # flagged for Matt: held off the site until he sets a Decision
         if kind == "spending" and call not in ("Feature", "Keep"):
             continue

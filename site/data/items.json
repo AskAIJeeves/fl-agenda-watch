@@ -4849,7 +4849,7 @@
     "Events, art & branding",
     "Grants to outside groups"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 1050000.0,
    "added": "2026-11-16"
   },
@@ -5662,7 +5662,7 @@
    "categories": [
     "No competitive bidding"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 24000.0,
    "added": "2026-11-19"
   },
@@ -6192,6 +6192,55 @@
    "added": "2026-11-19"
   },
   {
+   "id": "3663f087a8",
+   "government": "Titusville",
+   "governments": [
+    "Titusville"
+   ],
+   "level": "city",
+   "counties": [
+    "Brevard"
+   ],
+   "description": "City Council special meeting: use of Brevard County Contract B-6-23-70 with VA Paving Inc. of Cocoa for the FY27 annual road resurfacing and reconstruction program, $1,181,849. Vote pending.",
+   "shortfall": null,
+   "amount": 1181849.0,
+   "link": "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2558,plainText=false)#page=38",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-11-24",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 1181800.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "ff49b82710",
+   "government": "Deerfield Beach",
+   "governments": [
+    "Deerfield Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission public hearing: Ord 2026/012 authorizes debt obligations up to $10,500,000 to buy public safety vehicles, including reimbursement for vehicles already bought. Issuance still needs a supplemental resolution.",
+   "shortfall": null,
+   "amount": 10500000.0,
+   "link": "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3339,plainText=false)#page=35",
+   "stage": "pending_final",
+   "kind": "spending",
+   "meeting_date": "2026-11-05",
+   "categories": [
+    "Borrowing & debt",
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 10500000.0,
+   "added": "2026-11-19"
+  },
+  {
    "id": "efa90439e3",
    "government": "Clearwater",
    "governments": [
@@ -6410,6 +6459,30 @@
    ],
    "featured": true,
    "project_total": 7000000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "c6cefe24df",
+   "government": "Titusville",
+   "governments": [
+    "Titusville"
+   ],
+   "level": "city",
+   "counties": [
+    "Brevard"
+   ],
+   "description": "City Council special meeting: lobbying retainer agreement with Smith & Associates for lobbying services during fiscal year 2027, not to exceed $35,000. Vote pending.",
+   "shortfall": null,
+   "amount": 35000.0,
+   "link": "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2558,plainText=false)#page=10",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-11-24",
+   "categories": [
+    "Perks for officials"
+   ],
+   "featured": true,
+   "project_total": 35000.0,
    "added": "2026-11-19"
   },
   {
@@ -7810,6 +7883,103 @@
    "added": "2026-11-19"
   },
   {
+   "id": "95b3eb3434",
+   "government": "Jacksonville",
+   "governments": [
+    "Jacksonville"
+   ],
+   "level": "city",
+   "counties": [
+    "Duval"
+   ],
+   "description": "NCSPHS Committee: Economic Development Grant Agreement with Jax Yacht Charter, Inc., $70,000 reimbursement grant for inspections and repairs to meet U.S. Coast Guard approvals for the Royal Princess vessel (0.004% of general fund). Full council vote pending.",
+   "shortfall": "Nov 9 (Jacksonville Today): CAO Mike Weinstein expects $150M to almost $200M less next budget; $300M by FY2028-29.",
+   "amount": 70000.0,
+   "link": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3779&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "stage": "pending_final",
+   "kind": "spending",
+   "meeting_date": "2026-10-05",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": 70000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "c82f1bc29e",
+   "government": "Collier County",
+   "governments": [
+    "Collier County"
+   ],
+   "level": "county",
+   "counties": [
+    "Collier"
+   ],
+   "description": "Tourist Development Council recommends the fall truck haul Naples Beach Renourishment (November 2026), tourist development tax spending at an estimated $8,000,000 (2.26% of Collier County's special revenue funds). County Commission approval pending.",
+   "shortfall": null,
+   "amount": 8000000.0,
+   "link": "https://colliercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3626,plainText=false)#page=2",
+   "stage": "pending_final",
+   "kind": "spending",
+   "meeting_date": "2026-09-15",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 8000000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "64838154c2",
+   "government": "Jacksonville",
+   "governments": [
+    "Jacksonville"
+   ],
+   "level": "city",
+   "counties": [
+    "Duval"
+   ],
+   "description": "Finance Committee: amended ordinance for 1st Amendment to Interlocal Agreement with JTA lets JTA use up to $30,000,000 of unexpended LOGT II gas tax funds for its outstanding debt and related operating costs by 9/30/27 (4.69% of Jacksonville's special revenue funds). Full council vote pending.",
+   "shortfall": "Nov 9 (Jacksonville Today): CAO Mike Weinstein expects $150M to almost $200M less next budget; $300M by FY2028-29.",
+   "amount": 30000000.0,
+   "link": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3817&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "stage": "pending_final",
+   "kind": "spending",
+   "meeting_date": "2026-10-06",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 30000000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "0ac49857ed",
+   "government": "Jacksonville",
+   "governments": [
+    "Jacksonville"
+   ],
+   "level": "city",
+   "counties": [
+    "Duval"
+   ],
+   "description": "NCSPHS Committee: appropriates $717,482 from General Fund debt service savings: $154,800 for a Parks project manager for Downtown public space projects and $562,682 for a one-year Services Agreement with DVI (0.041% of general fund). Full council vote pending.",
+   "shortfall": "Nov 9 (Jacksonville Today): CAO Mike Weinstein expects $150M to almost $200M less next budget; $300M by FY2028-29.",
+   "amount": 717482.0,
+   "link": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3777&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "stage": "pending_final",
+   "kind": "spending",
+   "meeting_date": "2026-09-14",
+   "categories": [
+    "Grants to outside groups"
+   ],
+   "featured": false,
+   "project_total": 717500.0,
+   "added": "2026-11-19"
+  },
+  {
    "id": "49187652d5",
    "government": "Lee County",
    "governments": [
@@ -8492,6 +8662,31 @@
    ],
    "featured": false,
    "project_total": 140600.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "3c96cd4ba7",
+   "government": "Nassau County",
+   "governments": [
+    "Nassau County"
+   ],
+   "level": "county",
+   "counties": [
+    "Nassau"
+   ],
+   "description": "Amelia Island Tourist Development Council: recommends $30,000 in Tourist Development Tax revenue to sponsor Keep Nassau Beautiful, Inc. for the Wild Amelia Nature Festival and ecotourism programs (0.04% of Nassau County's special revenue funds). County Commission approval still ahead.",
+   "shortfall": null,
+   "amount": 30000.0,
+   "link": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3792,plainText=false)#page=1",
+   "stage": "pending_final",
+   "kind": "spending",
+   "meeting_date": "2026-10-07",
+   "categories": [
+    "Events, art & branding",
+    "Grants to outside groups"
+   ],
+   "featured": false,
+   "project_total": 30000.0,
    "added": "2026-11-19"
   },
   {
@@ -10211,6 +10406,30 @@
    "added": "2026-11-19"
   },
   {
+   "id": "1cc4794458",
+   "government": "Hillsborough County",
+   "governments": [
+    "Hillsborough County"
+   ],
+   "level": "county",
+   "counties": [
+    "Hillsborough"
+   ],
+   "description": "BOCC: Commissioner Boles item to reallocate $62,500 of $125,000 in Commissioner Flagged funding from Meacham Farms to Madi's Movement for young adults aging out of foster care, in the FY 27 Budget. Final approval pending (FY 27 budget adoption hearing, Sept 24, 2026).",
+   "shortfall": null,
+   "amount": 62500.0,
+   "link": "https://eagenda.hillsboroughcounty.org/portal/PTL29560/open/OBJ3Y722L#page=20",
+   "stage": "pending_final",
+   "kind": "spending",
+   "meeting_date": "2026-07-15",
+   "categories": [
+    "Grants to outside groups"
+   ],
+   "featured": false,
+   "project_total": 125000.0,
+   "added": "2026-11-20"
+  },
+  {
    "id": "c2c89e1c0f",
    "government": "Jacksonville",
    "governments": [
@@ -10332,6 +10551,54 @@
    ],
    "featured": false,
    "project_total": 125000.0,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "8f3007a382",
+   "government": "Jacksonville",
+   "governments": [
+    "Jacksonville"
+   ],
+   "level": "city",
+   "counties": [
+    "Duval"
+   ],
+   "description": "NCSPHS Committee: expresses support for a Culinary Institute of America Southeast Campus in downtown Jacksonville and authorizes negotiating an economic development incentive package of up to $35,000,000. Final vote pending (future Council approval and appropriation).",
+   "shortfall": "Nov 9 (Jacksonville Today): CAO Mike Weinstein expects $150M to almost $200M less next budget; $300M by FY2028-29.",
+   "amount": 35000000.0,
+   "link": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3512&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "stage": "pending_final",
+   "kind": "spending",
+   "meeting_date": "2026-05-18",
+   "categories": [
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": 35000000.0,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "a7b73f482f",
+   "government": "Santa Rosa County",
+   "governments": [
+    "Santa Rosa County"
+   ],
+   "level": "county",
+   "counties": [
+    "Santa Rosa"
+   ],
+   "description": "Commission Committee: purchase from KUBOTA Water & Environment USA (Pump & Process) of one 0.250 MGD treatment train to expand the MIP WWTP from 0.25 to 0.5 MGD, $1,170,000. Final vote pending (full Commission approval).",
+   "shortfall": null,
+   "amount": 1170000.0,
+   "link": "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2968,plainText=false)#page=3",
+   "stage": "pending_final",
+   "kind": "spending",
+   "meeting_date": "2026-05-21",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 1170000.0,
    "added": "2026-11-20"
   },
   {
@@ -11805,6 +12072,32 @@
    ],
    "featured": false,
    "project_total": 41500.0,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "721f13f90f",
+   "government": "Hillsborough County",
+   "governments": [
+    "Hillsborough County"
+   ],
+   "level": "county",
+   "counties": [
+    "Hillsborough"
+   ],
+   "description": "BOCC: approves non-binding MOU with Tampa Bay Rays entities, City of Tampa and its CRA on a new ballpark at Hillsborough College Dale Mabry Campus. Definitive agreements still need Board approval and could commit up to $360M in CIT funds plus $303M in tourist tax. Outcome not verified.",
+   "shortfall": null,
+   "amount": 360000000.0,
+   "link": "https://eagenda.hillsboroughcounty.org/portal/PTL29560/open/OBJ6LY568#page=4",
+   "stage": "pending_final",
+   "kind": "spending",
+   "meeting_date": "2026-05-20",
+   "categories": [
+    "Buildings & facilities",
+    "Borrowing & debt",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": 796000000.0,
    "added": "2026-11-20"
   },
   {
@@ -16987,6 +17280,31 @@
    ],
    "featured": false,
    "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "0dd81d6c17",
+   "government": "Leesburg",
+   "governments": [
+    "Leesburg"
+   ],
+   "level": "city",
+   "counties": [
+    "Lake"
+   ],
+   "description": "City Commission (Nov 23): purchase of 515 Visa gift cards from Corporate Traditions, Inc. for distribution to the city's regular full-time and part-time employees during the holiday season, $52,812.50 (0.15% of general fund). Vote pending.",
+   "shortfall": null,
+   "amount": 52812.5,
+   "link": "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)#page=30",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-11-23",
+   "categories": [
+    "Discretionary",
+    "Employee perks"
+   ],
+   "featured": true,
+   "project_total": 52800.0,
    "added": "2026-11-20"
   },
   {
