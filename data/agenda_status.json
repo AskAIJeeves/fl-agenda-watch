@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-20T16:51:20+00:00",
- "count": 136,
+ "generated_utc": "2026-11-20T17:15:01+00:00",
+ "count": 149,
  "governments": {
   "m-fortlauderdale": {
    "name": "Fort Lauderdale",
@@ -201,6 +201,41 @@
    "status": "ok",
    "client": "desotobocc",
    "events": 0,
+   "flagged": 0
+  },
+  "c-martin": {
+   "name": "Martin County",
+   "status": "ok",
+   "client": "martin",
+   "events": 10,
+   "flagged": 4
+  },
+  "c-hernando": {
+   "name": "Hernando County",
+   "status": "ok",
+   "client": "hernandocountyfl",
+   "events": 7,
+   "flagged": 7
+  },
+  "m-coralgables": {
+   "name": "Coral Gables",
+   "status": "ok",
+   "client": "coralgables",
+   "events": 18,
+   "flagged": 1
+  },
+  "m-margate": {
+   "name": "Margate",
+   "status": "ok",
+   "client": "margatefl",
+   "events": 7,
+   "flagged": 1
+  },
+  "m-hallandalebeach": {
+   "name": "Hallandale Beach",
+   "status": "ok",
+   "client": "hallandalebeach",
+   "events": 2,
    "flagged": 0
   }
  }

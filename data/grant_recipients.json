@@ -1029,14 +1029,23 @@
      "amount": null,
      "text": "C. All equipment purchased with grant funds is the property of the grantee, and is subject to Chapter 273, Florida Sta tutes, dealing with state-owned tangible personal property and the disposition thereof. For research institutions not covered under Chapter 1000, Florida Statutes, eq uipment no lon",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1212"
+    },
+    {
+     "entity_id": "m-aventura",
+     "government": "Aventura",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "3) A MAXIMUM FLOOR AREA RATIO ( FAR) OF 2. 0 PURSUANT TO THE CITY' S GREEN BUILDING PROGRAM, FOR THE PROPERTY LOCATED AT 2845 AVENTURA BOULEVARD; PROVIDING FOR CONDITIONS OF APPROVAL; AND PROVIDING FOR AN EFFECTIVE DATE. WHEREAS, pursuant to Chapter 31, \" Land Development Regulation\", Article VII, U",
+     "link": "https://www.cityofaventura.com/AgendaCenter/ViewFile/Agenda/_11172026-530"
     }
    ],
    "governments": [
+    "Aventura",
     "Eustis",
     "Lake County",
     "Sunrise"
    ],
-   "award_count": 4,
+   "award_count": 5,
    "total_amount": 0
   },
   "federal transit administration": {
@@ -1241,16 +1250,33 @@
      "amount": null,
      "text": "G. - Motion to approve Resolution 2024-72, A Resolution of the Board of County Commissioners of Hardee County, approving the submission of the Pioneer Park water and sewer improvement grant application to the Florida Department of Environmental Protection (FDEP) for a water quality improvement state",
      "link": "https://hardeecountyfl.granicus.com/AgendaViewer.php?view_id=4&clip_id=147"
+    },
+    {
+     "entity_id": "m-groveland",
+     "government": "Groveland",
+     "meeting_date": "2026-11-16",
+     "amount": 19000000.0,
+     "text": "NOVEMBVER 2, 2026 CITY COUNCIL SPECIAL MEETING MINUTES work was expected to be funded through approximately $19 million in available grant funding, subject to FDEP approval. Council discussed the extent of inspections, prioritization of future system evaluations, expected useful life of rehabilitate",
+     "link": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11162026-1487"
+    },
+    {
+     "entity_id": "m-groveland",
+     "government": "Groveland",
+     "meeting_date": "2026-11-02",
+     "amount": null,
+     "text": "GHF Groveland FIONIDA firJa,idlAhudClffi AGENDA ITEM T TO: HONORABLE MAYOR & CITY COUNCIL MEMBERS VIA: TIM MASLOW,INTEzuM CITY MANAGER FROM: T.J. FISH, DIRECTOR OF TRANSPORTATION & PUBLIC WORKS SUBJECT CONSIDERATION OF APPROVAL OF RESOLUTION 2026-75 RELATING TO THE FLORIDA DEPARTMENT OF ENVIRONMENTA",
+     "link": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11022026-1484"
     }
    ],
    "governments": [
+    "Groveland",
     "Hardee County",
     "Melbourne",
     "Okeechobee County",
     "Sunrise"
    ],
-   "award_count": 16,
-   "total_amount": 12595846.0
+   "award_count": 18,
+   "total_amount": 31595846.0
   },
   "council": {
    "name": "Council",
@@ -1874,9 +1900,26 @@
      "amount": null,
      "text": "CONSEQUENCES FOR NON-PERFORMANCE: For each task deliverable not received and accepted by the Department at one hundred percent (100%) completion on or before the Agreement\u2019s Date of Expiration, the Department will reduce the relevant Task Funding Amount(s) paid to Grantee in proportion to the percen",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1223"
+    },
+    {
+     "entity_id": "m-bartow",
+     "government": "Bartow",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "Page 3 of 12 but not be limited to, electric light, heat, power and energy facilities, and a generation, transmission, and distribution system, with such extensions thereof and additions hereto as shall hereafter be made. (I) \u201cFacilities\u201d \u2013 Conduits, cables, poles, wires, street lighting, supports a",
+     "link": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_11162026-487"
+    },
+    {
+     "entity_id": "m-bartow",
+     "government": "Bartow",
+     "meeting_date": "2026-11-02",
+     "amount": null,
+     "text": "(A) This grant of authority is limited to the provision by Grantee to have, maintain, or place its Facilities within the Rights of Way for its electric utility services. Accordingly, the City hereby grants to the Grantee, its successors and assigns the non-exclusive right, authority, and franchise t",
+     "link": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_11022026-486"
     }
    ],
    "governments": [
+    "Bartow",
     "Fernandina Beach",
     "Jackson County",
     "Kissimmee",
@@ -1884,7 +1927,7 @@
     "St. Lucie County",
     "Sunrise"
    ],
-   "award_count": 21,
+   "award_count": 23,
    "total_amount": 45000.0
   },
   "clean air act": {
@@ -3945,13 +3988,22 @@
      "amount": null,
      "text": "Typically, Federal and State grants come to Commission for approval once the grant agreement has been obtained and the City has agreed to the terms of the grant. These grants are required to be reported in the City\u2019s Annual Comprehensive Financial Report (ACFR).",
      "link": "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1657,plainText=false)"
+    },
+    {
+     "entity_id": "m-bartow",
+     "government": "Bartow",
+     "meeting_date": "2026-10-19",
+     "amount": null,
+     "text": "ITEM NO. 7.a.2 2 EVALUATION, OVERSIGHT, AND PUBLIC INFORMATION A role-based evaluation committee should include procurement, planning or CRA, finance, historic adaptive- reuse, and real estate or economic-development perspectives. Final membership and procedures are subject to City Attorney and Purc",
+     "link": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_10192026-479"
     }
    ],
    "governments": [
+    "Bartow",
     "Deerfield Beach",
     "Eustis"
    ],
-   "award_count": 2,
+   "award_count": 3,
    "total_amount": 434500000.0
   },
   "cove shopping center": {
@@ -9966,12 +10018,37 @@
      "amount": null,
      "text": "2. If the Subrecipient has received no payment of the Grant Proceeds, any Subsequent DOB Proceeds shall be used by Commerce to reduce payments of the Grant Proceeds to the Subrecipient, and all Subsequent DOB Proceeds shall be returned to the Subrecipient.",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=988"
+    },
+    {
+     "entity_id": "m-groveland",
+     "government": "Groveland",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "DocuSign Envelope lD: 65C4860D-8897-4879-9382-FCBCE5AF6613 Attachment L - CDBG-CV Subrogation Agreement State of Florida Department of Economic Opportunity Federally-Funded Community Development Block Grant CARES (CDBG-CV) Subrogation Agreement This Subrogation and Assignment Agreement (\"Agreement\")",
+     "link": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11162026-1487"
+    },
+    {
+     "entity_id": "m-groveland",
+     "government": "Groveland",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "2. tf the Subtecipient has received no payment of the Grant Proceeds, any Subsequent DOB Proceeds shall be used by DEO to teduce payments of dre Grant Proceeds to the Subrecipient, and all Subsequent DOB Proceeds shall be r:eturned to the Subrecipient.",
+     "link": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11162026-1487"
+    },
+    {
+     "entity_id": "m-groveland",
+     "government": "Groveland",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "4. If DEO makes the determination that the Subrecrpient does not qualify to particrpate in the CDBG-CV Program or the Subtecipient detetmines not to participate in the CDBG-CV Program, the Subsequent DOB Proceeds shall be Eturned to the Subrecipient, and this Agreement shall teffninate. Once DEO has",
+     "link": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11162026-1487"
     }
    ],
    "governments": [
+    "Groveland",
     "Sunrise"
    ],
-   "award_count": 4,
+   "award_count": 7,
    "total_amount": 1093430.0
   },
   "sunrise police department": {
@@ -14473,15 +14550,24 @@
      "amount": null,
      "text": "3. No costs may be incurred prior to the effective date of this Agreement, except for those eligible application preparation costs outlined in the original CDBG-CV Application for Funding submitted to Commerce, unless pre- agreement costs were approved in writing by Commerce.",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=988"
+    },
+    {
+     "entity_id": "m-groveland",
+     "government": "Groveland",
+     "meeting_date": "2026-11-16",
+     "amount": 200.319,
+     "text": "2. The Recipient shall maintain records of expenditure of funds from all sources that will allow accurate and ready comparison between the expenditures and the budget/acuvity hne items as defined in Attachment B -Project Detail 3udget, Attachment A- Project Description and Deliverables, Recipient Re",
+     "link": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11162026-1487"
     }
    ],
    "governments": [
+    "Groveland",
     "Lake City",
     "Okeechobee County",
     "Sunrise"
    ],
-   "award_count": 5,
-   "total_amount": 16250.0
+   "award_count": 6,
+   "total_amount": 16450.319
   },
   "elderly": {
    "name": "Elderly",
@@ -15235,13 +15321,22 @@
      "amount": 885000.0,
      "text": "DocuSign En velope ID: CDD76790-542E-4BFE-898F-11 F3738844O7 STATE OF FLORIDA DEPARTMENT OF TRANSPORTATION PUBLIC TRANSPORTATION GRANT AGREEMENT EXHIBITS EXHIBIT G AUDIT REQUIREMENTS FOR AWARDS OF STATE FINANCIAL ASSISTANCE Form 725--000--02 STRATEGIC DEVELOPMENT OGC 02/20 THE STATE RESOURCES AWARDE",
      "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=979"
+    },
+    {
+     "entity_id": "m-aventura",
+     "government": "Aventura",
+     "meeting_date": "2026-11-17",
+     "amount": 1.0,
+     "text": "STATE OF FLORIDA DEPARTMENT OF TRANSPORTATION Form 725-000- 02 PUBLIC TRANSPORTATION STRATEGIC DEVELOPMENT GRANT AGREEMENT EXHIBITS OGC 04/ 26 EXHIBIT G AUDIT REQUIREMENTS FOR AWARDS OF STATE FINANCIAL ASSISTANCE THE STATE RESOURCES AWARDED PURSUANT TO THIS AGREEMENT CONSIST OF THE FOLLOWING: SUBJEC",
+     "link": "https://www.cityofaventura.com/AgendaCenter/ViewFile/Agenda/_11172026-530"
     }
    ],
    "governments": [
+    "Aventura",
     "Sunrise"
    ],
-   "award_count": 2,
-   "total_amount": 1770000.0
+   "award_count": 3,
+   "total_amount": 1770001.0
   },
   "extension public transportation grant agreement": {
    "name": "Extension of Public Transportation Grant Agreement",
@@ -18173,12 +18268,21 @@
      "amount": 20000.0,
      "text": "That the Board of County Commissioners approve and ratify with an effective date of August 6, 2026, the submission of the Florida Firefighter Cancer Decontamination Equipment Grant Program application by Fire Rescue to the Department of Financial Services, Division of State Fire Marshal for decontam",
      "link": "https://okeechobee.granicus.com/AgendaViewer.php?view_id=1&clip_id=4314"
+    },
+    {
+     "entity_id": "m-aventura",
+     "government": "Aventura",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "STATE OF FLORIDA DEPARTMENT OF TRANSPORTATION 525- 010- 60 STATE - FUNDED GRANT AGREEMENT PROGRAM MANAGEMENT 03/ 25 payment ( voucher) to the Department of Financial Services. The 20 days are measured from the latter of the date the invoice is received or the deliverables and costs incurred are rece",
+     "link": "https://www.cityofaventura.com/AgendaCenter/ViewFile/Agenda/_11172026-530"
     }
    ],
    "governments": [
+    "Aventura",
     "Okeechobee County"
    ],
-   "award_count": 2,
+   "award_count": 3,
    "total_amount": 40000.0
   },
   "rural infrastructure fund grant agreement": {
@@ -24951,21 +25055,693 @@
    ],
    "award_count": 1,
    "total_amount": 0
+  },
+  "apply for florida commerce for job growth grant for brooksville": {
+   "name": "Apply for Florida Commerce for Job Growth Grant for Brooksville",
+   "awards": [
+    {
+     "entity_id": "c-hernando",
+     "government": "Hernando County",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "Request to Apply for Florida Commerce for Job Growth Grant for Brooksville - Tampa Bay Regional Airport & Technology Center Infrastructure Development Project",
+     "link": "https://hernandocountyfl.legistar1.com/hernandocountyfl/meetings/2026/11/1497_A_Board_of_County_Commissioners_26-11-17_Agenda.pdf"
+    }
+   ],
+   "governments": [
+    "Hernando County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "airfield pavement rehabilitation design project located": {
+   "name": "Airfield Pavement Rehabilitation Design Project Located",
+   "awards": [
+    {
+     "entity_id": "c-hernando",
+     "government": "Hernando County",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "Ratification of Public Transportation Grant Agreement With State Department of Transportation for Airfield Pavement Rehabilitation Design Project Located at Brooksville-Tampa Bay Regional Airport and Associated Budget Resolution",
+     "link": "https://hernandocountyfl.legistar1.com/hernandocountyfl/meetings/2026/11/1497_A_Board_of_County_Commissioners_26-11-17_Agenda.pdf"
+    }
+   ],
+   "governments": [
+    "Hernando County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "firefighters grant for hernando county fire emergency services": {
+   "name": "Firefighters Grant for Hernando County Fire and Emergency Services",
+   "awards": [
+    {
+     "entity_id": "c-hernando",
+     "government": "Hernando County",
+     "meeting_date": "2026-11-17",
+     "amount": null,
+     "text": "Award of US Department of Homeland Security for FY 2025-26 Assistance to Firefighters Grant for Hernando County Fire and Emergency Services and Associated Budget Resolution",
+     "link": "https://hernandocountyfl.legistar1.com/hernandocountyfl/meetings/2026/11/1497_A_Board_of_County_Commissioners_26-11-17_Agenda.pdf"
+    }
+   ],
+   "governments": [
+    "Hernando County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "fdot public transportation grant agreement": {
+   "name": "FDOT Public Transportation Grant Agreement",
+   "awards": [
+    {
+     "entity_id": "m-aventura",
+     "government": "Aventura",
+     "meeting_date": "2026-11-17",
+     "amount": 877.0,
+     "text": "CITY OF AVENTURA OFFICE OF THE CITY MANAGER MEMORANDUM TO: City Commission FROM: Bryan Pegues, City Manager /' DATE: November 13, 2026 SUBJECT: Acceptance of Amendment No. 1 to the FDOT Public Transportation Grant Agreement ( G3G02) - Additional Funding of $ 321, 706 for On - Demand Transit Operatio",
+     "link": "https://www.cityofaventura.com/AgendaCenter/ViewFile/Agenda/_11172026-530"
+    }
+   ],
+   "governments": [
+    "Aventura"
+   ],
+   "award_count": 1,
+   "total_amount": 877.0
+  },
+  "financial statements june": {
+   "name": "Financial Statements June",
+   "awards": [
+    {
+     "entity_id": "m-aventura",
+     "government": "Aventura",
+     "meeting_date": "2026-10-06",
+     "amount": 858.0,
+     "text": "Aventura City of Excellence School Notes to Financial Statements June 30, 2026 Note 9 - Risk Management ( continued): As disclosed in Note 7, CSUSA employs all of the employees of the School. As a result, the School is not exposed to medical or workers' compensation claims for these individuals. In ",
+     "link": "https://www.cityofaventura.com/AgendaCenter/ViewFile/Agenda/_10062026-524"
+    },
+    {
+     "entity_id": "m-aventura",
+     "government": "Aventura",
+     "meeting_date": "2026-10-06",
+     "amount": null,
+     "text": "Don Soffer Aventura High School Notes to Financial Statements June 30, 2026 Note 8 - Employee Benefit Plan During the year ended June 30, 2026, the School offered all of its full- time employees who had attained 21 years of age, a retirement plan ( the \" Plan\") under Internal Revenue Code Section 40",
+     "link": "https://www.cityofaventura.com/AgendaCenter/ViewFile/Agenda/_10062026-524"
+    }
+   ],
+   "governments": [
+    "Aventura"
+   ],
+   "award_count": 2,
+   "total_amount": 858.0
+  },
+  "attachment j": {
+   "name": "Attachment J",
+   "awards": [
+    {
+     "entity_id": "m-groveland",
+     "government": "Groveland",
+     "meeting_date": "2026-11-16",
+     "amount": 765000.0,
+     "text": "DocuSign Envelope lD: 65C4860D-B897 -4879-9382-FC8CE5AF661 3 Exhibit 1. to Attachment J - Funding Sources Federal Resoutces Awarded to the Recipient Putsuant to this Agteement Consist of the Following: Federal Awatding Agency: Federal Funds Obligated to Recipient: Catelog of Fedeml Domestic Assistan",
+     "link": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11162026-1487"
+    }
+   ],
+   "governments": [
+    "Groveland"
+   ],
+   "award_count": 1,
+   "total_amount": 765000.0
+  },
+  "groveland": {
+   "name": "Groveland",
+   "awards": [
+    {
+     "entity_id": "m-groveland",
+     "government": "Groveland",
+     "meeting_date": "2026-11-16",
+     "amount": 250000.0,
+     "text": "5. Located such that the interior point of access is in an area that is conspicuous and visible to the employees of the...fire station;\" and WHEREAS, Safe Haven Baby Boxes, Inc. constructs and installs such safety devices \"fit fc.r use\" for surrendering infants under the foregoing statute (the \"Baby",
+     "link": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11162026-1487"
+    }
+   ],
+   "governments": [
+    "Groveland"
+   ],
+   "award_count": 1,
+   "total_amount": 250000.0
+  },
+  "design activities": {
+   "name": "Design Activities",
+   "awards": [
+    {
+     "entity_id": "m-groveland",
+     "government": "Groveland",
+     "meeting_date": "2026-11-16",
+     "amount": 2600.0,
+     "text": "The Project Sponsor agrees to the following estimates of Project costs: TASKS Planning Activities Design Activities Construction and Demolition Contingencies Technical Services After Bid Opening SUBTOTAL (Disbursabb Amount) Less Principal Forgiveness TOTAL (Loan Principal Amount) APPROVED CONTINGENT",
+     "link": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11162026-1487"
+    }
+   ],
+   "governments": [
+    "Groveland"
+   ],
+   "award_count": 1,
+   "total_amount": 2600.0
+  },
+  "sumter electric cooperative": {
+   "name": "Sumter Electric Cooperative",
+   "awards": [
+    {
+     "entity_id": "m-groveland",
+     "government": "Groveland",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "OCTOBER 19,2026 CITY COUNCIL MEETING MINUTES Resolution 2026-56 approves the granting of a perpetual utility easement to Sumter Electric Cooperative, lnc. (SECO Energy), allowing the cooperative to bring electrical power to the new Villa City Water Treatment Plant. The easement provides fhe necessar",
+     "link": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11162026-1487"
+    }
+   ],
+   "governments": [
+    "Groveland"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "design construction": {
+   "name": "Design and Construction",
+   "awards": [
+    {
+     "entity_id": "m-groveland",
+     "government": "Groveland",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "(3) The Project Sponsor understands and agrees by execution of this Agreement that funding for Design and Construction is contingent upon acceptance of the Planning Documentation, as defined by subsection 62-552.700(2) FAC, as well as acceptance of project eligibility under the American Relief Act, ",
+     "link": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11162026-1487"
+    }
+   ],
+   "governments": [
+    "Groveland"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "south lake avenue": {
+   "name": "South Lake Avenue",
+   "awards": [
+    {
+     "entity_id": "m-groveland",
+     "government": "Groveland",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "RESOLUTION 2026-72 A RESOLUTION OF THE CITY COUNCIL OF' THE CITY OF GROVELAND, LAKE couNTY, F',LORIDA, APPROVING THE SIGNING OF MODIFICATION FOUR TO THE GRANT AGREEMENT BETWEEN THE CITY OF GROVELAND AND FLORIDA COMMERCE AS PROVIDED IOR IN THE AGREEMENT EXECUTED BETWEEN THOSE PARTIES DATED DECEMBER 1",
+     "link": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11162026-1487"
+    }
+   ],
+   "governments": [
+    "Groveland"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "company": {
+   "name": "Company",
+   "awards": [
+    {
+     "entity_id": "m-groveland",
+     "government": "Groveland",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "(M) \"Retail Wheeling\" - A customer/supplier arrangement whereby an Electric Energy Provider utilizes transmission and/or distribution facilities of Company to make energy sales directly to an end use customer locaied within the Franchise Area. SECTION 4 - Grant of Authoritv (A) This grant of authori",
+     "link": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11162026-1487"
+    }
+   ],
+   "governments": [
+    "Groveland"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "environmental protection agency": {
+   "name": "Environmental Protection Agency",
+   "awards": [
+    {
+     "entity_id": "m-groveland",
+     "government": "Groveland",
+     "meeting_date": "2026-11-02",
+     "amount": 1100000000.0,
+     "text": "I. BACKGROUND On December 29, 2022, the President signed P.L. 117-328, the Consolidated Appropriations Act, 2023, (\u201cthe Act\u201d) into law. The funding in Division N of the Act for the Environmental Protection Agency (EPA) includes approximately $1.1 billion in disaster relief supplemental funding for t",
+     "link": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11022026-1484"
+    }
+   ],
+   "governments": [
+    "Groveland"
+   ],
+   "award_count": 1,
+   "total_amount": 1100000000.0
+  },
+  "tribes": {
+   "name": "Tribes",
+   "awards": [
+    {
+     "entity_id": "m-groveland",
+     "government": "Groveland",
+     "meeting_date": "2026-11-02",
+     "amount": 1044999999.9999999,
+     "text": "appropriated) for grants to Tribes per the FY 2023 Consolidated Appropriations Act.6 The remaining $1.045 billion is available for additional capitalization grants to the eligible states pursuant to Title VI of the CWA and SDWA section 1452: $651.3 million to CWSRF and $393.6 million to the DWSRF.",
+     "link": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11022026-1484"
+    },
+    {
+     "entity_id": "m-groveland",
+     "government": "Groveland",
+     "meeting_date": "2026-11-02",
+     "amount": 30000000.0,
+     "text": "6 FY 2023 Consolidated Appropriations Act, P.L. 117-328, Division G, Title II (providing that for FY 2023 EPA may retain up to a total of 2% of CWSRF funds appropriated, or $30 million, whichever is greater, and up to a total of 2% of DWSRF funds appropriated, or $20 million, whichever is greater, t",
+     "link": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11022026-1484"
+    },
+    {
+     "entity_id": "m-groveland",
+     "government": "Groveland",
+     "meeting_date": "2026-11-02",
+     "amount": null,
+     "text": "Finally, the states should consult the Bipartisan Infrastructure Law SRF Memorandum for additional guidance and tools on how best this funding can be directed to Tribes and disadvantaged communities.",
+     "link": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11022026-1484"
+    }
+   ],
+   "governments": [
+    "Groveland"
+   ],
+   "award_count": 3,
+   "total_amount": 1075000000.0
+  },
+  "hurricane ian": {
+   "name": "Hurricane Ian",
+   "awards": [
+    {
+     "entity_id": "m-groveland",
+     "government": "Groveland",
+     "meeting_date": "2026-11-02",
+     "amount": 317415000.0,
+     "text": "5. SAHFI ELIGIBILITY \u2013 HURRICANE IAN IMPACTS TO THE WASTEWATER COLLECTION SYSTEM 5.1 Purpose This section documents the impact of Hurricane Ian on the City wastewater collection system and establishes the nexus between those impacts and the collection system improvements recommended in this Faciliti",
+     "link": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11022026-1484"
+    }
+   ],
+   "governments": [
+    "Groveland"
+   ],
+   "award_count": 1,
+   "total_amount": 317415000.0
+  },
+  "florida department environmental protection in march": {
+   "name": "Florida Department of Environmental Protection in March",
+   "awards": [
+    {
+     "entity_id": "m-groveland",
+     "government": "Groveland",
+     "meeting_date": "2026-11-02",
+     "amount": 3880000.0,
+     "text": "(ii*iF Groveland FLOR'OA ft.tarir} A'd6dcr@ AGENDA ITEM 2 TO: HONORABLE MAYOR & CITY COUNCIL MEMBERS VIA: TIM MASLOW, INTERIM CITY MANAGER FROM: T.J. FISH, DIRECTOR OF TRANSPORTATION & PUBLIC WORKS SUBJECT CONSIDERATION OF APPROVAL OF RESOLUTION 2026-68 RELATING TO THE STATE REVOLVING FI.IND (SRF) P",
+     "link": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_11022026-1484"
+    }
+   ],
+   "governments": [
+    "Groveland"
+   ],
+   "award_count": 1,
+   "total_amount": 3880000.0
+  },
+  "lakeland now": {
+   "name": "Lakeland. NOW",
+   "awards": [
+    {
+     "entity_id": "m-bartow",
+     "government": "Bartow",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "Page 1 of 12 ORDINANCE NO. 2026-12 AN ORDINANCE GRANTING TO THE CITY OF LAKELAND, ON BEHALF OF ITS MUNICIPAL UTILITY, LAKELAND ELECTRIC, AN ELECTRIC UTILITY RIGHTS OF WAY UTILIZATION FRANCHISE; PRESCRIBING THE TERMS AND CONDITIONS RELATED TO THE OCCUPANCY OF MUNICIPAL STREETS AND RIGHTS OF WAY IN TH",
+     "link": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_11162026-487"
+    }
+   ],
+   "governments": [
+    "Bartow"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "lakeland electric": {
+   "name": "Lakeland Electric",
+   "awards": [
+    {
+     "entity_id": "m-bartow",
+     "government": "Bartow",
+     "meeting_date": "2026-11-16",
+     "amount": null,
+     "text": "10. HEARINGS \u2013 FIRST AND SECOND READINGS AND PUBLIC HEARINGS a. First reading and consideration of Ordinance No. 2026-12 \u2013 AN ORDINANCE GRANTING TO THE CITY OF LAKELAND, ON BEHALF OF ITS MUNICIPAL UTILITY, LAKELAND ELECTRIC, AN ELECTRIC UTILITY RIGHTS OF WAY UTILIZATION FRANCHISE; PRESCRIBING THE TE",
+     "link": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_11162026-487"
+    }
+   ],
+   "governments": [
+    "Bartow"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "remove grant": {
+   "name": "Remove Grant",
+   "awards": [
+    {
+     "entity_id": "m-bartow",
+     "government": "Bartow",
+     "meeting_date": "2026-11-02",
+     "amount": 26122260.0,
+     "text": "Water System Wastewater System Projects in Utility\u2019s Five-Year CIP $26,122,260 $23,475,416 Adjustment to add Construction Work in Process [1] (0) 27,240,967 Adjustment to Remove Grant/Developer Funded Projects [2] (0) (29,263,550) Adjustment to Remove Distribution/Collection-Related Projects (18,745",
+     "link": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_11022026-486"
+    }
+   ],
+   "governments": [
+    "Bartow"
+   ],
+   "award_count": 1,
+   "total_amount": 26122260.0
+  },
+  "lakeland": {
+   "name": "Lakeland",
+   "awards": [
+    {
+     "entity_id": "m-bartow",
+     "government": "Bartow",
+     "meeting_date": "2026-11-02",
+     "amount": null,
+     "text": "WHEREAS, the City Commission finds that it is in the public interest of its citizens to grant this franchise to the Lakeland.",
+     "link": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_11022026-486"
+    }
+   ],
+   "governments": [
+    "Bartow"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "florida recreation development assistance program": {
+   "name": "Florida Recreation Development Assistance Program",
+   "awards": [
+    {
+     "entity_id": "m-bartow",
+     "government": "Bartow",
+     "meeting_date": "2026-11-02",
+     "amount": null,
+     "text": "Parks and trails. Mr. Herr discussed three park-related items. For the proposed bike pump track at Mary Holland Park, he recommended a dual strategy: staff should contact the Florida Department of Environmental Protection to determine whether the State will support restoring more historic funding le",
+     "link": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_11022026-486"
+    }
+   ],
+   "governments": [
+    "Bartow"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "water wastewater systems": {
+   "name": "Water and Wastewater Systems",
+   "awards": [
+    {
+     "entity_id": "m-bartow",
+     "government": "Bartow",
+     "meeting_date": "2026-11-02",
+     "amount": null,
+     "text": "Funding Sources for Water and Wastewater Systems",
+     "link": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_11022026-486"
+    }
+   ],
+   "governments": [
+    "Bartow"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "u s department transportation": {
+   "name": "U.S. Department of Transportation",
+   "awards": [
+    {
+     "entity_id": "m-stuart",
+     "government": "Stuart",
+     "meeting_date": "2026-11-23",
+     "amount": null,
+     "text": "Summary Explanation/Background Information on Agenda Request: The U.S. Department of Transportation, Federal Railroad Administration published a Notice of Funding Opportunity for a Crossing Safety Program to fund highway-rail or pathway-rail grade crossing improvement projects, including, but not li",
+     "link": "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2353,plainText=false)"
+    },
+    {
+     "entity_id": "m-stuart",
+     "government": "Stuart",
+     "meeting_date": "2026-11-23",
+     "amount": null,
+     "text": "WHEREAS, the City of Stuart partnered with GrantWorks, under Contract Number RFP 2025-300: Grant Writing and Grant Management Services in order to prepare and submit a grant application to the U.S. Department of Transportation (\u201cUSDOT\u201d), FY 2025-2026 Railroad Crossing Elimination (\u201cCrossing Safety\u201d)",
+     "link": "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2353,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Stuart"
+   ],
+   "award_count": 2,
+   "total_amount": 0
+  },
+  "affordable workforce housing trust fund": {
+   "name": "Affordable and Workforce Housing Trust Fund. The",
+   "awards": [
+    {
+     "entity_id": "m-winterpark",
+     "government": "Winter Park",
+     "meeting_date": "2026-11-11",
+     "amount": 250000.0,
+     "text": "1. It also seeks conditional-use approval to construct a one-story office project comprising individual office buildings with a total area of approximately 27,500 square feet on the 1.72-acre property at the southeast corner of Morse and Pennsylvania. Under the comprehensive plan policy, compensatio",
+     "link": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6730,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Winter Park"
+   ],
+   "award_count": 1,
+   "total_amount": 250000.0
+  },
+  "early education orlando gifted academy orlando gifted academy": {
+   "name": "Early Education and Orlando Gifted Academy. Orlando Gifted Academy",
+   "awards": [
+    {
+     "entity_id": "m-winterpark",
+     "government": "Winter Park",
+     "meeting_date": "2026-11-12",
+     "amount": null,
+     "text": "6. Staff Updates a. Natural Resources & Sustainability Green School Grant Deliverables \u2013 Nicole Marshall presented the last two Green School grant deliverables from Methodist School for Early Education and Orlando Gifted Academy. Orlando Gifted Academy built an Urban Habitat Patch for native flora a",
+     "link": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6737,plainText=false)"
+    }
+   ],
+   "governments": [
+    "Winter Park"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "allocate additional budgeted funding": {
+   "name": "Allocate Additional Budgeted Funding",
+   "awards": [
+    {
+     "entity_id": "c-manatee",
+     "government": "Manatee County",
+     "meeting_date": "2026-11-18",
+     "amount": null,
+     "text": "15. Authorization to Allocate Additional Budgeted Funding to Piggyback Blanket Purchase Order No. P2400535 Groundskeeping Materials, Fertilizers, Pesticides, Herbicides, Grass Seed, and Related Items and Services for Property Management Department, David Shurmur, Parks Operations Manager \u2013 Multiple ",
+     "link": "https://agendaonline.mymanatee.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/November_18,_2026_-_Regular_Meeting_813_Agenda_11_18_2026_9_00_00_AM.pdf?documentType=1&meetingId=813"
+    }
+   ],
+   "governments": [
+    "Manatee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "florida": {
+   "name": "Florida",
+   "awards": [
+    {
+     "entity_id": "c-manatee",
+     "government": "Manatee County",
+     "meeting_date": "2026-11-18",
+     "amount": 35000.0,
+     "text": "9. Approval of $35,000 in One-Time Funding for the Florida vs. Florida State Legacy Weekend Tailgate and Watch Party, Bradenton Area Convention and Visitors Bureau - Countywide",
+     "link": "https://agendaonline.mymanatee.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/November_18,_2026_-_Regular_Meeting_813_Agenda_11_18_2026_9_00_00_AM.pdf?documentType=1&meetingId=813"
+    }
+   ],
+   "governments": [
+    "Manatee County"
+   ],
+   "award_count": 1,
+   "total_amount": 35000.0
+  },
+  "allocate additional departmental budgeted funding": {
+   "name": "Allocate Additional Departmental Budgeted Funding",
+   "awards": [
+    {
+     "entity_id": "c-manatee",
+     "government": "Manatee County",
+     "meeting_date": "2026-11-18",
+     "amount": null,
+     "text": "14. Authorization to Allocate Additional Departmental Budgeted Funding to Agreement No. 21- R076625TB for Portable Sanitation Services, David Shurmur, Parks Operations Manager - Countywide",
+     "link": "https://agendaonline.mymanatee.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/November_18,_2026_-_Regular_Meeting_813_Agenda_11_18_2026_9_00_00_AM.pdf?documentType=1&meetingId=813"
+    },
+    {
+     "entity_id": "c-manatee",
+     "government": "Manatee County",
+     "meeting_date": "2026-11-18",
+     "amount": null,
+     "text": "16. Authorization to Allocate Additional Departmental Budgeted Funding to Purchase Order T2020417 for Event and Venue Management Software Upgrade and Annual Renewals, Mitch Conner, Convention and Visitors Bureau \u2013 Multiple Districts",
+     "link": "https://agendaonline.mymanatee.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/November_18,_2026_-_Regular_Meeting_813_Agenda_11_18_2026_9_00_00_AM.pdf?documentType=1&meetingId=813"
+    }
+   ],
+   "governments": [
+    "Manatee County"
+   ],
+   "award_count": 2,
+   "total_amount": 0
+  },
+  "capital operating assistance grant applications for fta section": {
+   "name": "Capital and Operating Assistance Grant Applications for FTA Section",
+   "awards": [
+    {
+     "entity_id": "c-manatee",
+     "government": "Manatee County",
+     "meeting_date": "2026-11-18",
+     "amount": null,
+     "text": "51. Adoption of Resolution R-26-151, authorizing the execution of a Public Transportation Grant Agreement for the Capital and Operating Assistance Grant Applications for FTA Section 5310 Enhanced Mobility of Seniors and Individuals with Disabilities Program Funding, Benita Zarr, Interim Transit Divi",
+     "link": "https://agendaonline.mymanatee.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/November_18,_2026_-_Regular_Meeting_813_Agenda_11_18_2026_9_00_00_AM.pdf?documentType=1&meetingId=813"
+    }
+   ],
+   "governments": [
+    "Manatee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "fdot sr": {
+   "name": "FDOT SR",
+   "awards": [
+    {
+     "entity_id": "c-manatee",
+     "government": "Manatee County",
+     "meeting_date": "2026-11-18",
+     "amount": null,
+     "text": "52. Adoption of Resolution R-26-152, authorizing the signing and submission of a Public Transportation Grant Agreement for FDOT SR 789 Corridor Program Funding (Anna Maria Island Trolley), Benita Zarr, Interim Transit Division Manager",
+     "link": "https://agendaonline.mymanatee.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/November_18,_2026_-_Regular_Meeting_813_Agenda_11_18_2026_9_00_00_AM.pdf?documentType=1&meetingId=813"
+    }
+   ],
+   "governments": [
+    "Manatee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "fdot route": {
+   "name": "FDOT Route",
+   "awards": [
+    {
+     "entity_id": "c-manatee",
+     "government": "Manatee County",
+     "meeting_date": "2026-11-18",
+     "amount": null,
+     "text": "53. Adoption of Resolution R-26-153, authorizing the signing and submission of a Public Transportation Grant Agreement for FDOT Route 6/Cortez Road Program Funding, Benita Zarr, Interim Transit Division Manager",
+     "link": "https://agendaonline.mymanatee.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/November_18,_2026_-_Regular_Meeting_813_Agenda_11_18_2026_9_00_00_AM.pdf?documentType=1&meetingId=813"
+    }
+   ],
+   "governments": [
+    "Manatee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "fdot public transit block grant program funding": {
+   "name": "FDOT Public Transit Block Grant Program Funding",
+   "awards": [
+    {
+     "entity_id": "c-manatee",
+     "government": "Manatee County",
+     "meeting_date": "2026-11-18",
+     "amount": null,
+     "text": "54. Adoption of Resolution R-26-155, authorizing the signing and submission of a Public Transportation Grant Agreement (PTGA) for FDOT Public Transit Block Grant Program Funding, Benita Zarr, Interim Division Manager",
+     "link": "https://agendaonline.mymanatee.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/November_18,_2026_-_Regular_Meeting_813_Agenda_11_18_2026_9_00_00_AM.pdf?documentType=1&meetingId=813"
+    }
+   ],
+   "governments": [
+    "Manatee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "operating assistance grant award for fta section": {
+   "name": "Operating Assistance Grant Award for FTA Section",
+   "awards": [
+    {
+     "entity_id": "c-manatee",
+     "government": "Manatee County",
+     "meeting_date": "2026-11-18",
+     "amount": null,
+     "text": "55. Adoption of Resolution R-26-156, authorizing the signing and submission of a Public Transportation Grant Agreement for Operating Assistance Grant Award for FTA Section 5310",
+     "link": "https://agendaonline.mymanatee.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/November_18,_2026_-_Regular_Meeting_813_Agenda_11_18_2026_9_00_00_AM.pdf?documentType=1&meetingId=813"
+    }
+   ],
+   "governments": [
+    "Manatee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "fta section": {
+   "name": "FTA Section",
+   "awards": [
+    {
+     "entity_id": "c-manatee",
+     "government": "Manatee County",
+     "meeting_date": "2026-11-18",
+     "amount": null,
+     "text": "56. Adoption of Resolution R-26-157, authorizing the signing and submission of annual Capital and Operating Assistance Grant Applications for FTA Section 5310 Enhanced Mobility of Seniors and Individuals with Disabilities Program Funding, Benita Zarr, Interim Transit Division Manager - Countywide",
+     "link": "https://agendaonline.mymanatee.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/November_18,_2026_-_Regular_Meeting_813_Agenda_11_18_2026_9_00_00_AM.pdf?documentType=1&meetingId=813"
+    }
+   ],
+   "governments": [
+    "Manatee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
+  },
+  "transit corridor development program funding for fy": {
+   "name": "Transit Corridor Development Program Funding for FY",
+   "awards": [
+    {
+     "entity_id": "c-manatee",
+     "government": "Manatee County",
+     "meeting_date": "2026-11-18",
+     "amount": null,
+     "text": "57. Adoption of Resolution R-26-158, authorizing the signing and submission of a Public Transit Grant Agreement for Transit Corridor Development Program Funding for FY 2026/2027, FPID No. 448716-1-84-05, Public Transportation Grant Agreement (PTGA) for Route 99 (US 41), Benita Zarr, Interim Transit ",
+     "link": "https://agendaonline.mymanatee.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/November_18,_2026_-_Regular_Meeting_813_Agenda_11_18_2026_9_00_00_AM.pdf?documentType=1&meetingId=813"
+    }
+   ],
+   "governments": [
+    "Manatee County"
+   ],
+   "award_count": 1,
+   "total_amount": 0
   }
  },
- "generated_utc": "2026-11-20T17:03:52+00:00",
+ "generated_utc": "2026-11-20T17:32:33+00:00",
  "multi_government": [
   "commission",
   "section",
+  "florida department environmental protection",
   "contractor",
   "fy2025",
-  "florida department environmental protection",
   "general fund",
   "martin luther king jr avenue",
   "improvements",
   "american",
   "florida statute",
+  "csfa number",
   "interlocal agreement",
+  "subrecipient",
   "cra board",
   "district",
   "department",
@@ -24976,6 +25752,7 @@
   "agency",
   "recipient",
   "grantee",
+  "department financial services",
   "agreement",
   "funding",
   "chapter",

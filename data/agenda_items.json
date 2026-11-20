@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-20T16:51:20+00:00",
- "count": 136,
+ "generated_utc": "2026-11-20T17:15:01+00:00",
+ "count": 149,
  "items": [
   {
    "entity_id": "m-jacksonville",
@@ -533,6 +533,37 @@
    ]
   },
   {
+   "entity_id": "c-hernando",
+   "government": "Hernando County",
+   "client": "hernandocountyfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "6.",
+   "file_number": "17890",
+   "title": "Request to Apply for Florida Commerce for Job Growth Grant for Brooksville - Tampa Bay Regional Airport & Technology Center Infrastructure Development Project",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [
+    "private_benefit"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Apply for Florida Commerce for Job Growth Grant for Brooksville",
+   "signal_score": 4,
+   "keywords": [],
+   "meeting_url": "https://hernandocountyfl.legistar.com/MeetingDetail.aspx?LEGID=1497&GID=881&G=6D9E70B1-EE34-4778-AE40-08B82D73C4B2",
+   "agenda_pdf": "https://hernandocountyfl.legistar1.com/hernandocountyfl/meetings/2026/11/1497_A_Board_of_County_Commissioners_26-11-17_Agenda.pdf",
+   "item_url": "https://hernandocountyfl.legistar.com/gateway.aspx?M=L&ID=8998",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "m-doral",
    "government": "Doral",
    "client": "doral",
@@ -744,6 +775,38 @@
     {
      "body": "City Council",
      "meeting_date": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-hernando",
+   "government": "Hernando County",
+   "client": "hernandocountyfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "15.",
+   "file_number": "18060",
+   "title": "Award of Term Sole Source Contract to Linder Industrial Machinery Company for  Crawler Dozer Rental for Solid Waste Department (Contract No. 27-TSS0003; Amount $419,761.60)",
+   "max_amount": 419761.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 419761.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.6,
+   "keywords": [
+    "contract",
+    "sole source"
+   ],
+   "meeting_url": "https://hernandocountyfl.legistar.com/MeetingDetail.aspx?LEGID=1497&GID=881&G=6D9E70B1-EE34-4778-AE40-08B82D73C4B2",
+   "agenda_pdf": "https://hernandocountyfl.legistar1.com/hernandocountyfl/meetings/2026/11/1497_A_Board_of_County_Commissioners_26-11-17_Agenda.pdf",
+   "item_url": "https://hernandocountyfl.legistar.com/gateway.aspx?M=L&ID=25521",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
     }
    ]
   },
@@ -1393,6 +1456,38 @@
    ]
   },
   {
+   "entity_id": "c-hernando",
+   "government": "Hernando County",
+   "client": "hernandocountyfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "20.",
+   "file_number": "17970",
+   "title": "Ratification of Emergency Purchase Order With Kenyon & Partners, LLC, for Emergency Air Conditioning Replacement Project at West Hernando Branch Library for Facilities Department (Amount: $157,988.35)",
+   "max_amount": 157988.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 157988.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.2,
+   "keywords": [
+    "library",
+    "purchase"
+   ],
+   "meeting_url": "https://hernandocountyfl.legistar.com/MeetingDetail.aspx?LEGID=1497&GID=881&G=6D9E70B1-EE34-4778-AE40-08B82D73C4B2",
+   "agenda_pdf": "https://hernandocountyfl.legistar1.com/hernandocountyfl/meetings/2026/11/1497_A_Board_of_County_Commissioners_26-11-17_Agenda.pdf",
+   "item_url": "https://hernandocountyfl.legistar.com/gateway.aspx?M=L&ID=9078",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "m-jacksonville",
    "government": "Jacksonville",
    "client": "jaxcityc",
@@ -1578,6 +1673,37 @@
    "appearances": [
     {
      "body": "Board of County Commissioners (Organizational)",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-hernando",
+   "government": "Hernando County",
+   "client": "hernandocountyfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "19.",
+   "file_number": "18109",
+   "title": "Ratification of Emergency Purchase Order With Citrus Well Drilling, LLC, for Pump Shaft and Well Pump Repairs for Utilities Department (Amount: $57,594.00)",
+   "max_amount": 57594.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 57594.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2.8,
+   "keywords": [
+    "purchase"
+   ],
+   "meeting_url": "https://hernandocountyfl.legistar.com/MeetingDetail.aspx?LEGID=1497&GID=881&G=6D9E70B1-EE34-4778-AE40-08B82D73C4B2",
+   "agenda_pdf": "https://hernandocountyfl.legistar1.com/hernandocountyfl/meetings/2026/11/1497_A_Board_of_County_Commissioners_26-11-17_Agenda.pdf",
+   "item_url": "https://hernandocountyfl.legistar.com/gateway.aspx?M=L&ID=25570",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
      "meeting_date": "2026-11-17"
     }
    ]
@@ -2269,6 +2395,37 @@
    ]
   },
   {
+   "entity_id": "c-hernando",
+   "government": "Hernando County",
+   "client": "hernandocountyfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "14.",
+   "file_number": "18044",
+   "title": "Award of Term Contracts to (A) Edelwise Med Supplies, Inc., (B) Henry Schein, Inc., (C) Life-Assist, Inc., and (D) Revelation Wholesale, LLC, for Fire Rescue Medical Supplies, Equipment, and Pharmaceuticals for Hernando County Fire Rescue Department (Contract Nos. 26-T01399 (A,B,C and D); Amount: $1,950,000.00 for 3-Years)",
+   "max_amount": 1950000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 1950000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2.3,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://hernandocountyfl.legistar.com/MeetingDetail.aspx?LEGID=1497&GID=881&G=6D9E70B1-EE34-4778-AE40-08B82D73C4B2",
+   "agenda_pdf": "https://hernandocountyfl.legistar1.com/hernandocountyfl/meetings/2026/11/1497_A_Board_of_County_Commissioners_26-11-17_Agenda.pdf",
+   "item_url": "https://hernandocountyfl.legistar.com/gateway.aspx?M=L&ID=25505",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "m-miramar",
    "government": "Miramar",
    "client": "miramar",
@@ -2615,6 +2772,124 @@
    ]
   },
   {
+   "entity_id": "c-martin",
+   "government": "Martin County",
+   "client": "martin",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "DEPT-2",
+   "file_number": "27-0025",
+   "title": "CONTRACTS THAT MEET THE THRESHOLD FOR BOARD APPROVAL $1 MILLION OR GREATER",
+   "max_amount": 1000000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 1000000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2.0,
+   "keywords": [],
+   "meeting_url": "https://martin.legistar.com/MeetingDetail.aspx?LEGID=2919&GID=685&G=0675433D-D3FD-43F6-B38F-E10C5045B29E",
+   "agenda_pdf": "https://martin.legistar1.com/martin/meetings/2026/11/2919_A_Board_of_County_Commissioners_26-11-17_BOCC_Meeting_Agenda.pdf",
+   "item_url": "https://martin.legistar.com/gateway.aspx?M=L&ID=11546",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-martin",
+   "government": "Martin County",
+   "client": "martin",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "DEPT-4",
+   "file_number": "27-0242",
+   "title": "DISCUSSION OF POTENTIAL FUNDING MECHANISMS FOR RESIDENTIAL FLOODING IMPACTS",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://martin.legistar.com/MeetingDetail.aspx?LEGID=2919&GID=685&G=0675433D-D3FD-43F6-B38F-E10C5045B29E",
+   "agenda_pdf": "https://martin.legistar1.com/martin/meetings/2026/11/2919_A_Board_of_County_Commissioners_26-11-17_BOCC_Meeting_Agenda.pdf",
+   "item_url": "https://martin.legistar.com/gateway.aspx?M=L&ID=11764",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-hernando",
+   "government": "Hernando County",
+   "client": "hernandocountyfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "5.",
+   "file_number": "18043",
+   "title": "Ratification of Public Transportation Grant Agreement With State Department of Transportation for Airfield Pavement Rehabilitation Design Project Located at Brooksville-Tampa Bay Regional Airport and Associated Budget Resolution",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Airfield Pavement Rehabilitation Design Project Located",
+   "signal_score": 2,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://hernandocountyfl.legistar.com/MeetingDetail.aspx?LEGID=1497&GID=881&G=6D9E70B1-EE34-4778-AE40-08B82D73C4B2",
+   "agenda_pdf": "https://hernandocountyfl.legistar1.com/hernandocountyfl/meetings/2026/11/1497_A_Board_of_County_Commissioners_26-11-17_Agenda.pdf",
+   "item_url": "https://hernandocountyfl.legistar.com/gateway.aspx?M=L&ID=25504",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-hernando",
+   "government": "Hernando County",
+   "client": "hernandocountyfl",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-11-17",
+   "agenda_number": "1.",
+   "file_number": "18118",
+   "title": "Award of US Department of Homeland Security for FY 2025-26 Assistance to Firefighters Grant for Hernando County Fire and Emergency Services and Associated Budget Resolution",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Firefighters Grant for Hernando County Fire and Emergency Services",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://hernandocountyfl.legistar.com/MeetingDetail.aspx?LEGID=1497&GID=881&G=6D9E70B1-EE34-4778-AE40-08B82D73C4B2",
+   "agenda_pdf": "https://hernandocountyfl.legistar1.com/hernandocountyfl/meetings/2026/11/1497_A_Board_of_County_Commissioners_26-11-17_Agenda.pdf",
+   "item_url": "https://hernandocountyfl.legistar.com/gateway.aspx?M=L&ID=25579",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
    "entity_id": "m-miramar",
    "government": "Miramar",
    "client": "miramar",
@@ -2675,6 +2950,35 @@
    "appearances": [
     {
      "body": "Council Meeting",
+     "meeting_date": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-coralgables",
+   "government": "Coral Gables",
+   "client": "coralgables",
+   "body": "Cultural Development Board",
+   "meeting_date": "2026-11-18",
+   "agenda_number": null,
+   "file_number": "25-8543",
+   "title": "Cultural Grant Updates 2025-2026 / 2026-2027",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://coralgables.legistar.com/MeetingDetail.aspx?LEGID=5310&GID=62&G=C03FECCE-1BDD-4BC9-824E-247E8F7F967D",
+   "agenda_pdf": "https://coralgables.legistar1.com/coralgables/meetings/2026/11/5310_A_Cultural_Development_Board_26-11-18_Agenda.pdf",
+   "item_url": "https://coralgables.legistar.com/gateway.aspx?M=L&ID=27142",
+   "appearances": [
+    {
+     "body": "Cultural Development Board",
      "meeting_date": "2026-11-18"
     }
    ]
@@ -2797,6 +3101,95 @@
     {
      "body": "City Council",
      "meeting_date": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-margate",
+   "government": "Margate",
+   "client": "margatefl",
+   "body": "Northwest Focal Point Senior Center District",
+   "meeting_date": "2026-11-24",
+   "agenda_number": "A.",
+   "file_number": "ID 2026-326",
+   "title": "APPROVE AND ACCEPT CONTRACT JA 127-08-2027 BETWEEN THE AREAWIDE COUNCIL ON AGING AND THE NORTHWEST FOCAL POINT SENIOR CENTER DISTRICT FOR OLDER AMERICANS ACT FUNDING FOR THE PERIOD OF JANUARY 1, 2027, THROUGH DECEMBER 31, 2027.",
+   "max_amount": null,
+   "flow": "in",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://margatefl.legistar.com/MeetingDetail.aspx?LEGID=3160&GID=382&G=AD4AD81A-F307-41A8-941C-E916F9DFA73B",
+   "agenda_pdf": "https://legistar2.granicus.com/margatefl/meetings/2026/11/3160_A_Northwest_Focal_Point_Senior_Center_District_26-11-24_Summary_Agenda.pdf",
+   "item_url": "https://margatefl.legistar.com/gateway.aspx?M=L&ID=10873",
+   "appearances": [
+    {
+     "body": "Northwest Focal Point Senior Center District",
+     "meeting_date": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-martin",
+   "government": "Martin County",
+   "client": "martin",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-12-01",
+   "agenda_number": "CNST-4",
+   "file_number": "27-0207",
+   "title": "ADOPT A RESOLUTION SUPPORTING THE FLORIDA DEPARTMENT OF TRANSPORTATION FUNDING FOR A PROJECT ANTICIPATED TO BE PRIORITIZED BY THE METROPOLITAN PLANNING ORGANIZATION IN COUNTY OWNED RIGHT-OF-WAY",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://martin.legistar.com/MeetingDetail.aspx?LEGID=2920&GID=685&G=0675433D-D3FD-43F6-B38F-E10C5045B29E",
+   "agenda_pdf": "https://martin.legistar1.com/martin/meetings/2026/12/2920_A_Board_of_County_Commissioners_26-12-01_BOCC_Meeting_Agenda.pdf",
+   "item_url": "https://martin.legistar.com/gateway.aspx?M=L&ID=11729",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-12-01"
+    }
+   ]
+  },
+  {
+   "entity_id": "c-martin",
+   "government": "Martin County",
+   "client": "martin",
+   "body": "Board of County Commissioners",
+   "meeting_date": "2026-12-01",
+   "agenda_number": "CNST-5",
+   "file_number": "27-0208",
+   "title": "ADOPT A RESOLUTION SUPPORTING THE FLORIDA DEPARTMENT OF TRANSPORTATION FUNDING FOR A PROJECT ANTICIPATED TO BE PRIORITIZED BY THE METROPOLITAN PLANNING ORGANIZATION IN COUNTY OWNED RIGHT-OF-WAY",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://martin.legistar.com/MeetingDetail.aspx?LEGID=2920&GID=685&G=0675433D-D3FD-43F6-B38F-E10C5045B29E",
+   "agenda_pdf": "https://martin.legistar1.com/martin/meetings/2026/12/2920_A_Board_of_County_Commissioners_26-12-01_BOCC_Meeting_Agenda.pdf",
+   "item_url": "https://martin.legistar.com/gateway.aspx?M=L&ID=11730",
+   "appearances": [
+    {
+     "body": "Board of County Commissioners",
+     "meeting_date": "2026-12-01"
     }
    ]
   },
