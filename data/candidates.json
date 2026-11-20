@@ -1,27 +1,27 @@
 {
- "generated_utc": "2026-11-20T15:10:43+00:00",
+ "generated_utc": "2026-11-20T17:03:52+00:00",
  "counts": {
-  "pool": 1951,
-  "outgoing_grants": 620,
-  "bypass": 201,
+  "pool": 1830,
+  "outgoing_grants": 593,
+  "bypass": 186,
   "other_top": 150,
   "by_stage": {
    "upcoming": 139,
-   "past_meeting": 1812
+   "past_meeting": 1691
   },
   "by_category": {
-   "officials_perks": 32,
-   "consultants": 151,
-   "outgoing_grant": 620,
-   "vanity": 108,
-   "legal": 28,
-   "debt": 107,
-   "large_spending": 838,
-   "no_bid": 202,
-   "facilities": 44,
-   "private_benefit": 32
+   "officials_perks": 30,
+   "consultants": 144,
+   "outgoing_grant": 593,
+   "vanity": 105,
+   "legal": 27,
+   "debt": 102,
+   "large_spending": 770,
+   "no_bid": 187,
+   "facilities": 42,
+   "private_benefit": 31
   },
-  "possible_duplicates": 436,
+  "possible_duplicates": 388,
   "missing_link": 0
  },
  "upcoming": [
@@ -2762,7 +2762,13 @@
    "pct_of_paying_fund": 1.72,
    "general_fund": 24355869,
    "pct_of_general_fund": 1.72,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|81f56d40c9b2",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -2836,7 +2842,7 @@
    "signal_score": 4.2,
    "keywords": [],
    "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3737&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": null,
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3737_A_City_Council_26-11-24_Agenda.pdf",
    "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9086",
    "appearances": [
     {
@@ -2934,7 +2940,13 @@
    "pct_of_paying_fund": 0.041,
    "general_fund": 24355869,
    "pct_of_general_fund": 0.041,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|f74978f7d605",
+     "meeting_date": "2026-11-24",
+     "reason": "similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -2976,7 +2988,13 @@
    "pct_of_paying_fund": 0.041,
    "general_fund": 24355869,
    "pct_of_general_fund": 0.041,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|800874af6f81",
+     "meeting_date": "2026-11-24",
+     "reason": "similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -3016,7 +3034,13 @@
    "pct_of_paying_fund": 298.294,
    "general_fund": 24355869,
    "pct_of_general_fund": 298.294,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|16dfc74d128b",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -3106,7 +3130,13 @@
    "pct_of_paying_fund": 18.552,
    "general_fund": 24355869,
    "pct_of_general_fund": 18.552,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|e7f36d734651",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -3437,7 +3467,7 @@
     "construction"
    ],
    "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3737&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": null,
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3737_A_City_Council_26-11-24_Agenda.pdf",
    "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9082",
    "appearances": [
     {
@@ -3826,7 +3856,7 @@
    "signal_score": 2.7,
    "keywords": [],
    "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3737&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": null,
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3737_A_City_Council_26-11-24_Agenda.pdf",
    "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9076",
    "appearances": [
     {
@@ -3877,7 +3907,7 @@
    "signal_score": 2.7,
    "keywords": [],
    "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3737&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": null,
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3737_A_City_Council_26-11-24_Agenda.pdf",
    "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9083",
    "appearances": [
     {
@@ -3984,7 +4014,13 @@
    "pct_of_paying_fund": 31.666,
    "general_fund": 24355869,
    "pct_of_general_fund": null,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|b7cc5e4fe77c",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -4380,7 +4416,13 @@
    "pct_of_paying_fund": 0.518,
    "general_fund": 24355869,
    "pct_of_general_fund": 0.518,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|0be2feef0d00",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -4416,13 +4458,18 @@
    "link": "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7127,plainText=false)#page=93",
    "id": "m-wiltonmanors|2026-11-24|136d8585|59f7968a0e0d",
    "project_id": "m-wiltonmanors|ref:ord/res 2026-095",
-   "project_total": 1474900.0,
+   "project_total": 1354200.0,
    "paying_fund": "general",
    "paying_fund_expenditures": 24355869,
    "pct_of_paying_fund": 5.56,
    "general_fund": 24355869,
    "pct_of_general_fund": 5.56,
    "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|59f7968a0e0d",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    },
     {
      "id": "m-wiltonmanors|2026-11-24|136d8585|013e971653f4",
      "meeting_date": "2026-11-24",
@@ -4476,6 +4523,11 @@
    "general_fund": 24355869,
    "pct_of_general_fund": 5.56,
    "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|013e971653f4",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    },
     {
      "id": "m-wiltonmanors|2026-11-24|136d8585|59f7968a0e0d",
      "meeting_date": "2026-11-24",
@@ -4531,6 +4583,11 @@
    "pct_of_general_fund": 5.56,
    "possible_duplicates": [
     {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|f21c6145e73a",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    },
+    {
      "id": "m-wiltonmanors|2026-11-24|136d8585|013e971653f4",
      "meeting_date": "2026-11-24",
      "reason": "same amount"
@@ -4568,7 +4625,7 @@
    "signal_score": 2,
    "keywords": [],
    "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3737&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": null,
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3737_A_City_Council_26-11-24_Agenda.pdf",
    "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9097",
    "appearances": [
     {
@@ -4615,7 +4672,7 @@
     "contract"
    ],
    "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3737&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": null,
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3737_A_City_Council_26-11-24_Agenda.pdf",
    "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9073",
    "appearances": [
     {
@@ -4660,7 +4717,7 @@
    "signal_score": 2,
    "keywords": [],
    "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3737&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": null,
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3737_A_City_Council_26-11-24_Agenda.pdf",
    "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9078",
    "appearances": [
     {
@@ -4802,6 +4859,11 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-wiltonmanors|2026-11-24|07ee3b8b|4dc4569125c3",
+     "meeting_date": "2026-11-24",
+     "reason": "similar text 1.00"
+    },
+    {
      "id": "m-wiltonmanors|2026-11-24|136d8585|2fb4082da6f2",
      "meeting_date": "2026-11-24",
      "reason": "similar text 0.94"
@@ -4852,6 +4914,11 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-wiltonmanors|2026-11-24|07ee3b8b|bef7adbe3b9d",
+     "meeting_date": "2026-11-24",
+     "reason": "similar text 1.00"
+    },
+    {
      "id": "m-wiltonmanors|2026-11-24|136d8585|1edb4b7b879c",
      "meeting_date": "2026-11-24",
      "reason": "similar text 0.93"
@@ -4900,7 +4967,13 @@
    "pct_of_paying_fund": null,
    "general_fund": 24355869,
    "pct_of_general_fund": null,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|9f33d89cbdac",
+     "meeting_date": "2026-11-24",
+     "reason": "similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -4949,6 +5022,11 @@
      "id": "m-wiltonmanors|2026-10-27|4131b3e8|da19922f9f3a",
      "meeting_date": "2026-10-27",
      "reason": "similar text 1.00"
+    },
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|504abebbb75a",
+     "meeting_date": "2026-11-24",
+     "reason": "similar text 1.00"
     }
    ],
    "possible_duplicate_label": "2026-01-27 (similar text 0.70); 2026-10-27 (similar text 1.00)",
@@ -4991,14 +5069,19 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-wiltonmanors|2026-11-24|07ee3b8b|4dc4569125c3",
+     "meeting_date": "2026-11-24",
+     "reason": "similar text 0.94"
+    },
+    {
      "id": "m-wiltonmanors|2026-11-24|136d8585|4dc4569125c3",
      "meeting_date": "2026-11-24",
      "reason": "similar text 0.94"
     },
     {
-     "id": "m-wiltonmanors|2026-11-24|a8cc2f1f|4dc4569125c3",
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|2fb4082da6f2",
      "meeting_date": "2026-11-24",
-     "reason": "similar text 0.94"
+     "reason": "similar text 1.00"
     }
    ],
    "possible_duplicate_label": null,
@@ -5041,14 +5124,19 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-wiltonmanors|2026-11-24|07ee3b8b|bef7adbe3b9d",
+     "meeting_date": "2026-11-24",
+     "reason": "similar text 0.93"
+    },
+    {
      "id": "m-wiltonmanors|2026-11-24|136d8585|bef7adbe3b9d",
      "meeting_date": "2026-11-24",
      "reason": "similar text 0.93"
     },
     {
-     "id": "m-wiltonmanors|2026-11-24|a8cc2f1f|bef7adbe3b9d",
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|1edb4b7b879c",
      "meeting_date": "2026-11-24",
-     "reason": "similar text 0.93"
+     "reason": "similar text 1.00"
     }
    ],
    "possible_duplicate_label": null,
@@ -5089,7 +5177,13 @@
    "pct_of_paying_fund": null,
    "general_fund": 24355869,
    "pct_of_general_fund": null,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|3790eaa5bab4",
+     "meeting_date": "2026-11-24",
+     "reason": "similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -5587,7 +5681,13 @@
    "pct_of_paying_fund": 0.205,
    "general_fund": 24355869,
    "pct_of_general_fund": 0.205,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|d4edd101db9b",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -5675,7 +5775,13 @@
    "pct_of_paying_fund": 0.786,
    "general_fund": 24355869,
    "pct_of_general_fund": 0.786,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|c5f726ba61e9",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -5714,7 +5820,13 @@
    "pct_of_paying_fund": 0.813,
    "general_fund": 24355869,
    "pct_of_general_fund": 0.813,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|c4736b630bb4",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -5854,14 +5966,20 @@
    "found_utc": "2026-11-20T14:55:53+00:00",
    "link": "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7127,plainText=false)#page=95",
    "id": "m-wiltonmanors|2026-11-24|136d8585|454a1a82977a",
-   "project_id": "m-wiltonmanors|ref:ord/res 2026-095",
-   "project_total": 1474900.0,
+   "project_id": "m-wiltonmanors|ref:itb 2026-10",
+   "project_total": 120700.0,
    "paying_fund": "general",
    "paying_fund_expenditures": 24355869,
    "pct_of_paying_fund": 0.496,
    "general_fund": 24355869,
    "pct_of_general_fund": 0.496,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|454a1a82977a",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -6036,7 +6154,13 @@
    "pct_of_paying_fund": 0.65,
    "general_fund": 24355869,
    "pct_of_general_fund": null,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|cdd864351c64",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -6711,7 +6835,7 @@
    "signal_score": 4.2,
    "keywords": [],
    "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3737&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": null,
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3737_A_City_Council_26-11-24_Agenda.pdf",
    "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9086",
    "appearances": [
     {
@@ -6983,7 +7107,13 @@
    "pct_of_paying_fund": 0.041,
    "general_fund": 24355869,
    "pct_of_general_fund": 0.041,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|f74978f7d605",
+     "meeting_date": "2026-11-24",
+     "reason": "similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -7025,7 +7155,13 @@
    "pct_of_paying_fund": 0.041,
    "general_fund": 24355869,
    "pct_of_general_fund": 0.041,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|800874af6f81",
+     "meeting_date": "2026-11-24",
+     "reason": "similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -7142,7 +7278,7 @@
     "construction"
    ],
    "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3737&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": null,
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3737_A_City_Council_26-11-24_Agenda.pdf",
    "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9082",
    "appearances": [
     {
@@ -7313,7 +7449,7 @@
    "signal_score": 2.7,
    "keywords": [],
    "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3737&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": null,
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3737_A_City_Council_26-11-24_Agenda.pdf",
    "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9076",
    "appearances": [
     {
@@ -7364,7 +7500,7 @@
    "signal_score": 2.7,
    "keywords": [],
    "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3737&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": null,
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3737_A_City_Council_26-11-24_Agenda.pdf",
    "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9083",
    "appearances": [
     {
@@ -7470,7 +7606,7 @@
    "signal_score": 2,
    "keywords": [],
    "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3737&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": null,
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3737_A_City_Council_26-11-24_Agenda.pdf",
    "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9097",
    "appearances": [
     {
@@ -7517,7 +7653,7 @@
     "contract"
    ],
    "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3737&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": null,
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3737_A_City_Council_26-11-24_Agenda.pdf",
    "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9073",
    "appearances": [
     {
@@ -7562,7 +7698,7 @@
    "signal_score": 2,
    "keywords": [],
    "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3737&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
-   "agenda_pdf": null,
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3737_A_City_Council_26-11-24_Agenda.pdf",
    "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9078",
    "appearances": [
     {
@@ -8140,6 +8276,11 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-wiltonmanors|2026-11-24|07ee3b8b|4dc4569125c3",
+     "meeting_date": "2026-11-24",
+     "reason": "similar text 1.00"
+    },
+    {
      "id": "m-wiltonmanors|2026-11-24|136d8585|2fb4082da6f2",
      "meeting_date": "2026-11-24",
      "reason": "similar text 0.94"
@@ -8190,6 +8331,11 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-wiltonmanors|2026-11-24|07ee3b8b|bef7adbe3b9d",
+     "meeting_date": "2026-11-24",
+     "reason": "similar text 1.00"
+    },
+    {
      "id": "m-wiltonmanors|2026-11-24|136d8585|1edb4b7b879c",
      "meeting_date": "2026-11-24",
      "reason": "similar text 0.93"
@@ -8238,7 +8384,13 @@
    "pct_of_paying_fund": null,
    "general_fund": 24355869,
    "pct_of_general_fund": null,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|9f33d89cbdac",
+     "meeting_date": "2026-11-24",
+     "reason": "similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -8287,6 +8439,11 @@
      "id": "m-wiltonmanors|2026-10-27|4131b3e8|da19922f9f3a",
      "meeting_date": "2026-10-27",
      "reason": "similar text 1.00"
+    },
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|504abebbb75a",
+     "meeting_date": "2026-11-24",
+     "reason": "similar text 1.00"
     }
    ],
    "possible_duplicate_label": "2026-01-27 (similar text 0.70); 2026-10-27 (similar text 1.00)",
@@ -8329,14 +8486,19 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-wiltonmanors|2026-11-24|07ee3b8b|4dc4569125c3",
+     "meeting_date": "2026-11-24",
+     "reason": "similar text 0.94"
+    },
+    {
      "id": "m-wiltonmanors|2026-11-24|136d8585|4dc4569125c3",
      "meeting_date": "2026-11-24",
      "reason": "similar text 0.94"
     },
     {
-     "id": "m-wiltonmanors|2026-11-24|a8cc2f1f|4dc4569125c3",
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|2fb4082da6f2",
      "meeting_date": "2026-11-24",
-     "reason": "similar text 0.94"
+     "reason": "similar text 1.00"
     }
    ],
    "possible_duplicate_label": null,
@@ -8379,14 +8541,19 @@
    "pct_of_general_fund": null,
    "possible_duplicates": [
     {
+     "id": "m-wiltonmanors|2026-11-24|07ee3b8b|bef7adbe3b9d",
+     "meeting_date": "2026-11-24",
+     "reason": "similar text 0.93"
+    },
+    {
      "id": "m-wiltonmanors|2026-11-24|136d8585|bef7adbe3b9d",
      "meeting_date": "2026-11-24",
      "reason": "similar text 0.93"
     },
     {
-     "id": "m-wiltonmanors|2026-11-24|a8cc2f1f|bef7adbe3b9d",
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|1edb4b7b879c",
      "meeting_date": "2026-11-24",
-     "reason": "similar text 0.93"
+     "reason": "similar text 1.00"
     }
    ],
    "possible_duplicate_label": null,
@@ -8427,7 +8594,13 @@
    "pct_of_paying_fund": null,
    "general_fund": 24355869,
    "pct_of_general_fund": null,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|3790eaa5bab4",
+     "meeting_date": "2026-11-24",
+     "reason": "similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -10714,45 +10887,6 @@
    "categories": [
     "outgoing_grant",
     "facilities"
-   ]
-  },
-  {
-   "entity_id": "m-crystalriver",
-   "government": "Crystal River",
-   "client": "pdf",
-   "body": "City Council Meeting - Nov 10, 2025",
-   "meeting_date": "2025-11-10",
-   "agenda_number": "p.2",
-   "file_number": null,
-   "title": "D. Motion to approve Resolution #26-R-02 to approve an allocation of funding from various funds totaling $8,735,572.42 for the FY25 Rollforward funding for FY2026.",
-   "max_amount": 8735572.0,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": 8735572.0,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "FY25 Rollforward",
-   "signal_score": 4.9,
-   "keywords": [],
-   "meeting_url": "https://crystalriverfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=329",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=329#page=2",
-   "id": "m-crystalriver|2025-11-10|4671a325|dac89bc2e974",
-   "project_id": "m-crystalriver|item:m-crystalriver|2025-11-10|4671a325|dac89bc2e974",
-   "project_total": 8735600.0,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 10325480,
-   "pct_of_paying_fund": 84.602,
-   "general_fund": 10325480,
-   "pct_of_general_fund": 84.602,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -375,
-   "categories": [
-    "outgoing_grant"
    ]
   },
   {
@@ -14020,219 +14154,6 @@
    ]
   },
   {
-   "entity_id": "m-winterhaven",
-   "government": "Winter Haven",
-   "client": "pdf",
-   "body": "Community Redevelopment Agency (CRA) Downtown Advisory Committee - Apr 20, 2026",
-   "meeting_date": "2026-04-20",
-   "agenda_number": "p.1",
-   "file_number": null,
-   "title": "Staff Contact: Angela Hibbard, CRA Manager, AHibbard@MyWinterHaven.com Summary - Budget Amendment - Additional Funding for Commercial Improvement Grant COMMUNITY REDEVELOPMENT AGENCY (CRA) DOWNTOWN ADVISORY COMMITTEE \u2013 APRIL 20, 2026",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "special_revenue",
-   "signed_amount": null,
-   "signals": [
-    "private_benefit"
-   ],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Commercial Improvement Grant COMMUNITY REDEVELOPMENT AGENCY",
-   "signal_score": 4,
-   "keywords": [],
-   "meeting_url": "https://winterhaven-fl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=482",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=482#page=1",
-   "id": "m-winterhaven|2026-04-20|10baabc5|38b0ac1e14e8",
-   "project_id": "m-winterhaven|item:m-winterhaven|2026-04-20|10baabc5|38b0ac1e14e8",
-   "project_total": null,
-   "paying_fund": "special_revenue",
-   "paying_fund_expenditures": 18940951,
-   "pct_of_paying_fund": null,
-   "general_fund": 74411087,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -214,
-   "categories": [
-    "outgoing_grant",
-    "private_benefit"
-   ]
-  },
-  {
-   "entity_id": "m-venice",
-   "government": "Venice",
-   "client": "pdf",
-   "body": "City Council on 2026-05-26 9:00 AM - May 26, 2026",
-   "meeting_date": "2026-05-26",
-   "agenda_number": "p.2",
-   "file_number": null,
-   "title": "B. CITY MANAGER Engineering 26-0617 Authorize the Mayor to Execute the State of Florida Division of Emergency Management Federally-Funded Subaward (Grant #4673-213-R) for $937,125.00 to Install an Emergency Generator and Wind Protection at the Public Works Building Located at 1350 Ridgewood Avenue Memorandum Grant Agreement 4673-213-R Attachments: Utilities 26-0618 Authorize the Mayor to Execute the Florida Department of Environmental Protection (FDEP) General Appropriations Grant for $850,000 for the Utilities Equalization Basin Tank Project Memorandum Grant Agreement Attachments: IV. ITEMS REMOVED FROM CONSENT",
-   "max_amount": 937125.0,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": 937125.0,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Execute the State of Florida Division of Emergency Management Federally-Funded",
-   "signal_score": 4.0,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://venice.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
-   "agenda_pdf": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1940",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://venice.granicus.com/AgendaViewer.php?view_id=2&clip_id=1940#page=2",
-   "id": "m-venice|2026-05-26|a1247706|6a5b4a0b05c3",
-   "project_id": "m-venice|item:m-venice|2026-05-26|a1247706|6a5b4a0b05c3",
-   "project_total": 937100.0,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 52375073,
-   "pct_of_paying_fund": 1.789,
-   "general_fund": 52375073,
-   "pct_of_general_fund": 1.789,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -178,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "m-wintersprings",
-   "government": "Winter Springs",
-   "client": "pdf",
-   "body": "City Commission - May 11, 2026",
-   "meeting_date": "2026-05-11",
-   "agenda_number": "p.3",
-   "file_number": null,
-   "title": "Naming Rights and Sponsorship Agreements for Eagle Nest Park",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [
-    "vanity"
-   ],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Eagle Nest Park",
-   "signal_score": 4,
-   "keywords": [],
-   "meeting_url": "https://winterspringsfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1149",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1149#page=3",
-   "id": "m-wintersprings|2026-05-11|35225afb|bde9f3c83074",
-   "project_id": "m-wintersprings|item:m-wintersprings|2026-05-11|35225afb|bde9f3c83074",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 27727898,
-   "pct_of_paying_fund": null,
-   "general_fund": 27727898,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -193,
-   "categories": [
-    "outgoing_grant",
-    "vanity"
-   ]
-  },
-  {
-   "entity_id": "m-stuart",
-   "government": "Stuart",
-   "client": "pdf",
-   "body": "Regular City Commission Meeting - Jan 13, 2020",
-   "meeting_date": "2020-01-13",
-   "agenda_number": "p.1",
-   "file_number": null,
-   "title": "RESOLUTION No. 08-2020; A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF STUART, FLORIDA, AUTHORIZING THE MAYOR AND THE CITY CLERK TO EXECUTE A THREE (3) YEAR 50% MATCHING PUBLIC TRANSPORTATION GRANT AGREEMENT WITH THE FLORIDA DEPARTMENT OF TRANSPORTATION FOR ACTIVE TRAM MARKETING; PROVIDING FOR AN EFFECTIVE DATE AND OTHER PURPOSES.",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [
-    "vanity"
-   ],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 4,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://cityofstuart.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=246",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=246#page=1",
-   "id": "m-stuart|2020-01-13|41657092|1115b674022b",
-   "project_id": "m-stuart|ref:ord/res 08-2020",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 47708426,
-   "pct_of_paying_fund": null,
-   "general_fund": 47708426,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -2503,
-   "categories": [
-    "outgoing_grant",
-    "vanity"
-   ]
-  },
-  {
-   "entity_id": "m-stuart",
-   "government": "Stuart",
-   "client": "pdf",
-   "body": "Community Redevelopment Agency (CRA) - Nov 25, 2019",
-   "meeting_date": "2019-11-25",
-   "agenda_number": "p.1",
-   "file_number": null,
-   "title": "RESOLUTION No. 12-2019 CRA; A RESOLUTION OF THE COMMUNITY REDEVELOPMENT AGENCY OF THE CITY OF STUART, FLORIDA, AUTHORIZING THE BOARD CHAIR TO EXECUTE AN AGREEMENT BETWEEN THE STUART COMMUNITY REDEVELOPMENT AGENCY AND THE GILT COMPLEX, FOR A MURAL MATCHING GRANT IN THE AMOUNT OF $2,000 TO INSTALL MURAL ON THE EXTERIOR NORTH WALL OF THE GILT COMPLEX BUILDING; PROVIDING AN EFFECTIVE DATE; PROVIDING FOR CONDITIONS OF APPROVAL; AND FOR OTHER PURPOSES.",
-   "max_amount": 2000.0,
-   "flow": "out",
-   "funding_source": "special_revenue",
-   "signed_amount": 2000.0,
-   "signals": [
-    "vanity"
-   ],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 4,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://cityofstuart.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=232",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://cityofstuart.granicus.com/AgendaViewer.php?view_id=1&clip_id=232#page=1",
-   "id": "m-stuart|2019-11-25|2588faf3|c328a0fdfb71",
-   "project_id": "m-stuart|ref:ord/res 12-2019",
-   "project_total": 2000.0,
-   "paying_fund": "special_revenue",
-   "paying_fund_expenditures": 7447455,
-   "pct_of_paying_fund": 0.027,
-   "general_fund": 47708426,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -2552,
-   "categories": [
-    "outgoing_grant",
-    "vanity"
-   ]
-  },
-  {
    "entity_id": "m-wiltonmanors",
    "government": "Wilton Manors",
    "client": "civicclerk",
@@ -14274,6 +14195,47 @@
    "categories": [
     "outgoing_grant",
     "vanity"
+   ]
+  },
+  {
+   "entity_id": "m-oaklandpark",
+   "government": "Oakland Park",
+   "client": "pdf",
+   "body": "City Commission Meeting - Jun 17, 2026",
+   "meeting_date": "2026-06-17",
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF OAKLAND PARK, FLORIDA, APPROVING AND AUTHORIZING THE PROPER CITY OFFICIALS TO EXECUTE ALL APPROPRIATE DOCUMENTS TO SUBMIT A GRANT APPLICATION TO THE FLORIDA DIVISION OF ARTS AND CULTURE CULTURAL FACILITIES PROGRAM REQUESTING $500,000.00 FOR THE CONSTRUCTION OF THE CENTENNIAL PARK PERFORMANCE SPACE PROJECT AND FURTHER AUTHORIZING AN AMOUNT OF $1,000,000.00 AS THE CITY\u2019S MATCHING FUNDS; PROVIDING FOR CONFLICTS; PROVIDING FOR SEVERABILITY; PROVIDING FOR AN EFFECTIVE DATE .",
+   "max_amount": 1000000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 1000000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 4.0,
+   "keywords": [
+    "construction"
+   ],
+   "meeting_url": "https://oaklandparkfl.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas",
+   "agenda_pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4408",
+   "found_utc": "2026-11-17T19:11:08+00:00",
+   "link": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4408#page=1",
+   "id": "m-oaklandpark|2026-06-17|fce7574c|f47f465ba15f",
+   "project_id": "m-oaklandpark|item:m-oaklandpark|2026-06-17|fce7574c|f47f465ba15f",
+   "project_total": 1000000.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 92393339,
+   "pct_of_paying_fund": 1.082,
+   "general_fund": 92393339,
+   "pct_of_general_fund": 1.082,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "past_meeting",
+   "days_until_meeting": -156,
+   "categories": [
+    "outgoing_grant"
    ]
   },
   {
@@ -17470,48 +17432,6 @@
    ]
   },
   {
-   "entity_id": "m-coconutcreek",
-   "government": "Coconut Creek",
-   "client": "pdf",
-   "body": "City Commission on 2025-11-13 7:00 PM - Nov 13, 2025",
-   "meeting_date": "2025-11-13",
-   "agenda_number": "p.5",
-   "file_number": null,
-   "title": "11. RES 2025-178 A RESOLUTION APPROVING THE LANDINGS AT VICTORIA ISLES HOMEOWNERS ASSOCIATION APPLICATION FOR GRANT FUNDS FROM THE NEIGHBORHOOD ENHANCEMENT GRANT PROGRAM FOR A MULTI-PHASE LANDSCAPE DESIGN PROJECT TO REDESIGN THE LANDSCAPE MASTER PLAN. RESOLUTION 2025-178-Landings at Victoria Isles NEG BACKUP-Location Map-Landings at Victoria Isles NEG BACKUP-Scope of Work-Landings at Victoria Isles NEG Attachments: Public Works Department",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "special_revenue",
-   "signed_amount": null,
-   "signals": [
-    "consultants"
-   ],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 3,
-   "keywords": [],
-   "meeting_url": "https://coconutcreek.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2208",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2208#page=5",
-   "id": "m-coconutcreek|2025-11-13|316e7d0b|dd6dd28a2019",
-   "project_id": "m-coconutcreek|ref:ord/res 2025-178",
-   "project_total": null,
-   "paying_fund": "special_revenue",
-   "paying_fund_expenditures": 7946646,
-   "pct_of_paying_fund": null,
-   "general_fund": 106392129,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -372,
-   "categories": [
-    "outgoing_grant",
-    "consultants"
-   ]
-  },
-  {
    "entity_id": "c-gadsden",
    "government": "Gadsden County",
    "client": "pdf",
@@ -18240,45 +18160,6 @@
    "possible_duplicate_label": null,
    "stage": "past_meeting",
    "days_until_meeting": -1,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "m-crystalriver",
-   "government": "Crystal River",
-   "client": "pdf",
-   "body": "City Council Meeting - Oct 27, 2025",
-   "meeting_date": "2025-10-27",
-   "agenda_number": "p.2",
-   "file_number": null,
-   "title": "C. Motion to adopt Resolution No. 26-R-01 and approve additional funding in the amount of $8,964 for Kimley Horn IPO No. 2 as a part of IPO No. 24 executed on November 13, 2023, to assess expansion areas for the Crystal River Community Redevelopment Area as well as update the CRA Redevelopment Plan for a total project amount of $63,964.",
-   "max_amount": 63964.0,
-   "flow": "out",
-   "funding_source": "special_revenue",
-   "signed_amount": 63964.0,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Kimley Horn IPO No",
-   "signal_score": 2.8,
-   "keywords": [],
-   "meeting_url": "https://crystalriverfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=328",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=328#page=2",
-   "id": "m-crystalriver|2025-10-27|6cd03cda|1f639ad7c2b3",
-   "project_id": "m-crystalriver|item:m-crystalriver|2025-10-27|6cd03cda|1f639ad7c2b3",
-   "project_total": 64000.0,
-   "paying_fund": "special_revenue",
-   "paying_fund_expenditures": 2932076,
-   "pct_of_paying_fund": 2.182,
-   "general_fund": 10325480,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -389,
    "categories": [
     "outgoing_grant"
    ]
@@ -20392,7 +20273,13 @@
    "pct_of_paying_fund": null,
    "general_fund": 38960693,
    "pct_of_general_fund": null,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-dunedin|2026-11-19|2237bf41|b0f970bd2d58",
+     "meeting_date": "2026-11-19",
+     "reason": "similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "past_meeting",
    "days_until_meeting": -1,
@@ -27704,1007 +27591,6 @@
    "entity_id": "m-delraybeach",
    "government": "Delray Beach",
    "client": "pdf",
-   "body": "City Commission - Regular Meeting - Jul 21, 2026",
-   "meeting_date": "2026-07-21",
-   "agenda_number": "p.6",
-   "file_number": null,
-   "title": "July 21, 2026City Commission Regular Commission Meeting Agenda Cover Report Drowning Prevention_Legal Review.pdf Drowning Prevention Standard Municipal Agreement Delray Beach FINAL 6.9.26.pdf Attachments: APPROVAL OF REQUESTS FOR FUNDING FROM THE LAW ENFORCEMENT TRUST FUND (LETF) FOR FISCAL YEAR 2025-2026 6.I. Recommendation: Motion to approve requests for funding from the Law Enforcement Trust Fund (LETF) for fiscal year 2025-2026 pursuant to Florida Statute 932.7055, Disposition of Liens and Forfeited Property. Sponsors: Police Department Agenda Cover Report LETF - 4 Knowledge is Power - signed by vendor LETF - Community Child Care Center - signed by vendor LETF - Emanuel Jackson Sr. Project - signed by vendor LETF - GBDC Entrepreneurship Institute - signed by vendor LETF - Gulf Stream Council of Boy Scouts of America - signed by vendor LETF - Jewish Volunteer Ambulance Corps - signed by vendor LETF - Keith Straghn Memorial Founding - signed by vendor LETF - Knights Of Pythagoras Mentoring Network - signed by vendor LETF - Living Skills in the Schools - signed by vendor LETF - Miracle League of Delray Beach - signed by vendor LETF - National Coalition of 100 Black Women - signed ",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Florida Statute",
-   "signal_score": 2,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://delraybeach.granicus.com/ViewPublisherRSS.php?view_id=3&mode=agendas",
-   "agenda_pdf": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3545",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3545#page=6",
-   "id": "m-delraybeach|2026-07-21|17491d92|f43d7c48da85",
-   "project_id": "m-delraybeach|item:m-delraybeach|2026-07-21|17491d92|f43d7c48da85",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 184493354,
-   "pct_of_paying_fund": null,
-   "general_fund": 184493354,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -122,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "m-delraybeach",
-   "government": "Delray Beach",
-   "client": "pdf",
-   "body": "City Commission - Regular Meeting - Jul 14, 2026",
-   "meeting_date": "2026-07-14",
-   "agenda_number": "p.5",
-   "file_number": null,
-   "title": "Sponsors: Neighborhood & Community Services Agenda Cover Report Solid Waste Authority and Distressed Property Clean-Up Grant Application 2025 Perimeter Wall Boy Scout Park 1 Perimeter Wall Boy Scout Park 2 Perimeter Wall Boy Scout Park 3 Attachments: RESOLUTION NO. 105-26 FUNDING COMMITMENTS TO CONTINUE TO SUPPORT THE BEACH RENOURISHMENT PROGRAM 6.D. Recommendation: Motion to Approve Resolution No. 105-26 in support of the City of Delray Beach Renourishment Program. This resolution supports the beach and coastal management programs of the Florida Department of Environmental Protection (FDEP), advising the State of Florida that the City of Delray Beach (City) will consider participation and will provide the local funding share necessary to implement any State beach and coastal management program approved by the City Commission for participation.",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Approve Resolution No",
-   "signal_score": 2,
-   "keywords": [],
-   "meeting_url": "https://delraybeach.granicus.com/ViewPublisherRSS.php?view_id=3&mode=agendas",
-   "agenda_pdf": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3538",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3538#page=5",
-   "id": "m-delraybeach|2026-07-14|ade63a09|37682fd67fbb",
-   "project_id": "m-delraybeach|item:m-delraybeach|2026-07-14|ade63a09|37682fd67fbb",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 184493354,
-   "pct_of_paying_fund": null,
-   "general_fund": 184493354,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -129,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "m-coconutcreek",
-   "government": "Coconut Creek",
-   "client": "pdf",
-   "body": "City Commission on 2025-12-11 7:00 PM - Dec 11, 2025",
-   "meeting_date": "2025-12-11",
-   "agenda_number": "p.4",
-   "file_number": null,
-   "title": "8. RES 2025-177-1 A RESOLUTION APPROVING THE BAYWOOD VILLAGE II CONDOMINIUM ASSOCIATION APPLICATION FOR GRANT FUNDS FROM THE TREE CANOPY REPLACEMENT GRANT PROGRAM FOR A MULTI-CATEGORY REPLACEMENT PROJECT. (POSTPONED FROM 11/13/25 COMMISSION MEETING) RESOLUTION 2025-177-Baywood Village II Tree Canopy Grant BACKUP-Location Map-Baywood Village II Tree Canopy Grant BACKUP-Scope of Work-Baywood Village II Tree Canopy Grant Attachments:",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "special_revenue",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2,
-   "keywords": [],
-   "meeting_url": "https://coconutcreek.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2221",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2221#page=4",
-   "id": "m-coconutcreek|2025-12-11|693cff50|59d82eed4d18",
-   "project_id": "m-coconutcreek|ref:ord/res 2025-177",
-   "project_total": null,
-   "paying_fund": "special_revenue",
-   "paying_fund_expenditures": 7946646,
-   "pct_of_paying_fund": null,
-   "general_fund": 106392129,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [
-    {
-     "id": "m-coconutcreek|2025-11-13|316e7d0b|d33b40904cde",
-     "meeting_date": "2025-11-13",
-     "reason": "similar text 0.92"
-    }
-   ],
-   "possible_duplicate_label": "2025-11-13 (similar text 0.92)",
-   "stage": "past_meeting",
-   "days_until_meeting": -344,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "m-coconutcreek",
-   "government": "Coconut Creek",
-   "client": "pdf",
-   "body": "City Commission on 2025-12-11 7:00 PM - Dec 11, 2025",
-   "meeting_date": "2025-12-11",
-   "agenda_number": "p.4",
-   "file_number": null,
-   "title": "9. RES 2025-191 A RESOLUTION APPROVING THE 2803 VICTORIA VILLAGE CONDOMINIUM ASSOCIATION APPLICATION FOR MATCHING GRANT FUNDS FROM THE NEIGHBORHOOD ENHANCEMENT GRANT PROGRAM FOR SECURITY ENHANCEMENTS. RESOLUTION 2025-191-2803 Victoria Village Security NEGAttachments: Public Works Department",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "special_revenue",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2,
-   "keywords": [],
-   "meeting_url": "https://coconutcreek.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2221",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2221#page=4",
-   "id": "m-coconutcreek|2025-12-11|693cff50|3680be49c17b",
-   "project_id": "m-coconutcreek|ref:ord/res 2025-191",
-   "project_total": null,
-   "paying_fund": "special_revenue",
-   "paying_fund_expenditures": 7946646,
-   "pct_of_paying_fund": null,
-   "general_fund": 106392129,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -344,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "m-coconutcreek",
-   "government": "Coconut Creek",
-   "client": "pdf",
-   "body": "City Commission on 2025-11-13 7:00 PM - Nov 13, 2025",
-   "meeting_date": "2025-11-13",
-   "agenda_number": "p.5",
-   "file_number": null,
-   "title": "10. RES 2025-177 A RESOLUTION APPROVING THE BAYWOOD VILLAGE II CONDOMINIUM ASSOCIATION APPLICATION FOR GRANT FUNDS FROM THE TREE CANOPY REPLACEMENT GRANT PROGRAM FOR A MULTI-CATEGORY REPLACEMENT PROJECT. RESOLUTION 2025-177-Baywood Village II Tree Canopy Grant BACKUP-Location Map-Baywood Village II Tree Canopy Grant BACKUP-Scope of Work-Baywood Village II Tree Canopy Grant Attachments:",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "special_revenue",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2,
-   "keywords": [],
-   "meeting_url": "https://coconutcreek.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2208",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2208#page=5",
-   "id": "m-coconutcreek|2025-11-13|316e7d0b|d33b40904cde",
-   "project_id": "m-coconutcreek|ref:ord/res 2025-177",
-   "project_total": null,
-   "paying_fund": "special_revenue",
-   "paying_fund_expenditures": 7946646,
-   "pct_of_paying_fund": null,
-   "general_fund": 106392129,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [
-    {
-     "id": "m-coconutcreek|2025-12-11|693cff50|59d82eed4d18",
-     "meeting_date": "2025-12-11",
-     "reason": "similar text 0.92"
-    }
-   ],
-   "possible_duplicate_label": "2025-12-11 (similar text 0.92)",
-   "stage": "past_meeting",
-   "days_until_meeting": -372,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "m-ocala",
-   "government": "Ocala",
-   "client": "pdf",
-   "body": "Airport Advisory Board - Jul 14, 2026",
-   "meeting_date": "2026-07-14",
-   "agenda_number": "p.2",
-   "file_number": null,
-   "title": "7. Airport Director's Report a. FDOT Pond Relocation Design b. MALSR/RPZ RY36 Grading Grant Application for Construction c. A9 Driveway Permitting d. T-Hangar Campus Rehab Permitting e. A12 Infrastructure Funding f. Concrete Pads Permitting g. TWY-C Phase I Funding/Permitting h. Airshow Planning Page 1 of 2",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Construction",
-   "signal_score": 2,
-   "keywords": [
-    "construction"
-   ],
-   "meeting_url": "https://ocala.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas",
-   "agenda_pdf": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=4104",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://ocala.granicus.com/AgendaViewer.php?view_id=5&clip_id=4104#page=2",
-   "id": "m-ocala|2026-07-14|243b137f|bf3efb1957a2",
-   "project_id": "m-ocala|item:m-ocala|2026-07-14|243b137f|bf3efb1957a2",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 147885494,
-   "pct_of_paying_fund": null,
-   "general_fund": 147885494,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -129,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "m-bradenton",
-   "government": "Bradenton",
-   "client": "pdf",
-   "body": "Tamiami Trail Community Advisory Committee Meeting - Jun 29, 2026",
-   "meeting_date": "2026-06-29",
-   "agenda_number": "p.1",
-   "file_number": null,
-   "title": "d) Community Redevelopment Agency : Roof Grant Request for Additional Funds from Carol Daste for a property located at 1105 12th Street West",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "special_revenue",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Additional Funds",
-   "signal_score": 2,
-   "keywords": [],
-   "meeting_url": "https://cityofbradenton.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=322",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=322#page=1",
-   "id": "m-bradenton|2026-06-29|d22549ac|06875a87f809",
-   "project_id": "m-bradenton|item:m-bradenton|2026-06-29|d22549ac|06875a87f809",
-   "project_total": null,
-   "paying_fund": "special_revenue",
-   "paying_fund_expenditures": 14228362,
-   "pct_of_paying_fund": null,
-   "general_fund": 62942605,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [
-    {
-     "id": "m-bradenton|2026-02-10|2674f85f|06875a87f809",
-     "meeting_date": "2026-02-10",
-     "reason": "similar text 1.00"
-    }
-   ],
-   "possible_duplicate_label": "2026-02-10 (similar text 1.00)",
-   "stage": "past_meeting",
-   "days_until_meeting": -144,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "m-winterhaven",
-   "government": "Winter Haven",
-   "client": "pdf",
-   "body": "City Commission Meeting - Apr 13, 2026",
-   "meeting_date": "2026-04-13",
-   "agenda_number": "p.1",
-   "file_number": null,
-   "title": "Equipment Donation from Polk County to Chain of Lakes Park via Interlocal Agreement",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Chain of Lakes Park",
-   "signal_score": 2,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://winterhaven-fl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=423",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=423#page=1",
-   "id": "m-winterhaven|2026-04-13|7e2d6959|b9b93da0abce",
-   "project_id": "m-winterhaven|item:m-winterhaven|2026-04-13|7e2d6959|b9b93da0abce",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 74411087,
-   "pct_of_paying_fund": null,
-   "general_fund": 74411087,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [
-    {
-     "id": "m-winterhaven|2026-04-08|75c2b32c|b1ddb0458e3e",
-     "meeting_date": "2026-04-08",
-     "reason": "similar text 0.73"
-    },
-    {
-     "id": "m-winterhaven|2026-04-08|75c2b32c|b9e25131084e",
-     "meeting_date": "2026-04-08",
-     "reason": "similar text 0.89"
-    },
-    {
-     "id": "m-winterhaven|2026-04-13|7e2d6959|514627bc7913",
-     "meeting_date": "2026-04-13",
-     "reason": "similar text 0.89"
-    }
-   ],
-   "possible_duplicate_label": "2026-04-08 (similar text 0.73)",
-   "stage": "past_meeting",
-   "days_until_meeting": -221,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "m-winterhaven",
-   "government": "Winter Haven",
-   "client": "pdf",
-   "body": "City Commission Meeting - Apr 13, 2026",
-   "meeting_date": "2026-04-13",
-   "agenda_number": "p.1",
-   "file_number": null,
-   "title": "Summary - Equipment Donation from Polk County to Chain of Lakes Park via Interlocal Agreement",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Chain of Lakes Park",
-   "signal_score": 2,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://winterhaven-fl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=423",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=423#page=1",
-   "id": "m-winterhaven|2026-04-13|7e2d6959|514627bc7913",
-   "project_id": "m-winterhaven|item:m-winterhaven|2026-04-13|7e2d6959|514627bc7913",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 74411087,
-   "pct_of_paying_fund": null,
-   "general_fund": 74411087,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [
-    {
-     "id": "m-winterhaven|2026-04-08|75c2b32c|b1ddb0458e3e",
-     "meeting_date": "2026-04-08",
-     "reason": "similar text 0.67"
-    },
-    {
-     "id": "m-winterhaven|2026-04-08|75c2b32c|b9e25131084e",
-     "meeting_date": "2026-04-08",
-     "reason": "similar text 0.80"
-    },
-    {
-     "id": "m-winterhaven|2026-04-13|7e2d6959|b9b93da0abce",
-     "meeting_date": "2026-04-13",
-     "reason": "similar text 0.89"
-    }
-   ],
-   "possible_duplicate_label": "2026-04-08 (similar text 0.67)",
-   "stage": "past_meeting",
-   "days_until_meeting": -221,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "m-winterhaven",
-   "government": "Winter Haven",
-   "client": "pdf",
-   "body": "City Commission Agenda Review Session - Apr 08, 2026",
-   "meeting_date": "2026-04-08",
-   "agenda_number": "p.1",
-   "file_number": null,
-   "title": "10. CONSENT AGENDA 10.A Equipment Donation from Polk County to Chain of Lakes Park via Interlocal Agreement CITY COMMISSION MEETING",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Chain of Lakes Park",
-   "signal_score": 2,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://winterhaven-fl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=433",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=433#page=1",
-   "id": "m-winterhaven|2026-04-08|75c2b32c|b1ddb0458e3e",
-   "project_id": "m-winterhaven|item:m-winterhaven|2026-04-08|75c2b32c|b1ddb0458e3e",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 74411087,
-   "pct_of_paying_fund": null,
-   "general_fund": 74411087,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [
-    {
-     "id": "m-winterhaven|2026-04-08|75c2b32c|b9e25131084e",
-     "meeting_date": "2026-04-08",
-     "reason": "similar text 0.67"
-    },
-    {
-     "id": "m-winterhaven|2026-04-13|7e2d6959|514627bc7913",
-     "meeting_date": "2026-04-13",
-     "reason": "similar text 0.67"
-    },
-    {
-     "id": "m-winterhaven|2026-04-13|7e2d6959|b9b93da0abce",
-     "meeting_date": "2026-04-13",
-     "reason": "similar text 0.73"
-    }
-   ],
-   "possible_duplicate_label": "2026-04-13 (similar text 0.67)",
-   "stage": "past_meeting",
-   "days_until_meeting": -226,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "m-winterhaven",
-   "government": "Winter Haven",
-   "client": "pdf",
-   "body": "City Commission Agenda Review Session - Apr 08, 2026",
-   "meeting_date": "2026-04-08",
-   "agenda_number": "p.2",
-   "file_number": null,
-   "title": "12. ORDINANCE(S) - FIRST READING 12.A O-26-10 - Request by Langley Gault to rezone two parcels from Commercial- Highway (C-3) zoning district to Mixed Use (MX) zoning district (120 and 124 Avenue H, SE) Summary - Equipment Donation from Polk County to Chain of Lakes Park via Interlocal Agreement Interlocal Agreement and Release of Waiver of Liability and Indemnification for Receipt of Donated Equipment",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Mixed Use",
-   "signal_score": 2,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://winterhaven-fl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=433",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=433#page=2",
-   "id": "m-winterhaven|2026-04-08|75c2b32c|a19b86fb7a1f",
-   "project_id": "m-winterhaven|item:m-winterhaven|2026-04-08|75c2b32c|a19b86fb7a1f",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 74411087,
-   "pct_of_paying_fund": null,
-   "general_fund": 74411087,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -226,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "m-winterhaven",
-   "government": "Winter Haven",
-   "client": "pdf",
-   "body": "City Commission Agenda Review Session - Apr 08, 2026",
-   "meeting_date": "2026-04-08",
-   "agenda_number": "p.16",
-   "file_number": null,
-   "title": "SUBJECT: Equipment Donation from Polk County to Chain of Lakes Park via Interlocal Agreement",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Chain of Lakes Park",
-   "signal_score": 2,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://winterhaven-fl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=433",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=433#page=16",
-   "id": "m-winterhaven|2026-04-08|75c2b32c|b9e25131084e",
-   "project_id": "m-winterhaven|item:m-winterhaven|2026-04-08|75c2b32c|b9e25131084e",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 74411087,
-   "pct_of_paying_fund": null,
-   "general_fund": 74411087,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [
-    {
-     "id": "m-winterhaven|2026-04-08|75c2b32c|b1ddb0458e3e",
-     "meeting_date": "2026-04-08",
-     "reason": "similar text 0.67"
-    },
-    {
-     "id": "m-winterhaven|2026-04-13|7e2d6959|514627bc7913",
-     "meeting_date": "2026-04-13",
-     "reason": "similar text 0.80"
-    },
-    {
-     "id": "m-winterhaven|2026-04-13|7e2d6959|b9b93da0abce",
-     "meeting_date": "2026-04-13",
-     "reason": "similar text 0.89"
-    }
-   ],
-   "possible_duplicate_label": "2026-04-13 (similar text 0.80)",
-   "stage": "past_meeting",
-   "days_until_meeting": -226,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "m-winterhaven",
-   "government": "Winter Haven",
-   "client": "pdf",
-   "body": "City Commission Meeting - Mar 23, 2026",
-   "meeting_date": "2026-03-23",
-   "agenda_number": "p.4",
-   "file_number": null,
-   "title": "20. ADJOURNMENT Summary - Resolution R-26-09 FDEP WRP16 Grant Award Resolution R-26-09 Exhibit A to Resolution R-26-09 (FDEP WRP16 Grant Agreement) East Winter Haven Aquifer Recharge and Wetland Restoration Concept",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Resolution R-26-09",
-   "signal_score": 2,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://winterhaven-fl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=347",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=347#page=4",
-   "id": "m-winterhaven|2026-03-23|ea430ed6|f188099a0c2d",
-   "project_id": "m-winterhaven|item:m-winterhaven|2026-03-23|ea430ed6|f188099a0c2d",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 74411087,
-   "pct_of_paying_fund": null,
-   "general_fund": 74411087,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [
-    {
-     "id": "m-winterhaven|2026-03-18|f626fc61|f188099a0c2d",
-     "meeting_date": "2026-03-18",
-     "reason": "similar text 1.00"
-    }
-   ],
-   "possible_duplicate_label": "2026-03-18 (similar text 1.00)",
-   "stage": "past_meeting",
-   "days_until_meeting": -242,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "m-winterhaven",
-   "government": "Winter Haven",
-   "client": "pdf",
-   "body": "City Commission Meeting - Mar 09, 2026",
-   "meeting_date": "2026-03-09",
-   "agenda_number": "p.3",
-   "file_number": null,
-   "title": "13. NEW BUSINESS 13.A 2026-2027 CDBG Allocation Funding Support and Public Comment for R.H. Malcom Park Staff Contact: AJ Nicholson, Assistant to the City Manager, anicholson@mywinterhaven.com Summary - FLC FAST Fly In",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "special_revenue",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "R.H. Malcom Park Staff Contact",
-   "signal_score": 2,
-   "keywords": [],
-   "meeting_url": "https://winterhaven-fl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=330",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=330#page=3",
-   "id": "m-winterhaven|2026-03-09|bb7d0ba5|0b45ea0e9fdf",
-   "project_id": "m-winterhaven|item:m-winterhaven|2026-03-09|bb7d0ba5|0b45ea0e9fdf",
-   "project_total": null,
-   "paying_fund": "special_revenue",
-   "paying_fund_expenditures": 18940951,
-   "pct_of_paying_fund": null,
-   "general_fund": 74411087,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [
-    {
-     "id": "m-winterhaven|2026-03-04|21bf3263|0b45ea0e9fdf",
-     "meeting_date": "2026-03-04",
-     "reason": "similar text 1.00"
-    }
-   ],
-   "possible_duplicate_label": "2026-03-04 (similar text 1.00)",
-   "stage": "past_meeting",
-   "days_until_meeting": -256,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "m-oaklandpark",
-   "government": "Oakland Park",
-   "client": "pdf",
-   "body": "City Commission Meeting - Jul 15, 2026",
-   "meeting_date": "2026-07-15",
-   "agenda_number": "p.1",
-   "file_number": null,
-   "title": "Resolution of support for a Grant Application for the Roads for Economic Vitality (REV) for the Main Street/NE 12th Avenue Project.",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Roads for Economic Vitality",
-   "signal_score": 2,
-   "keywords": [],
-   "meeting_url": "https://oaklandparkfl.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas",
-   "agenda_pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4495",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4495#page=1",
-   "id": "m-oaklandpark|2026-07-15|99851a0f|738e25026ea5",
-   "project_id": "m-oaklandpark|item:m-oaklandpark|2026-07-15|99851a0f|738e25026ea5",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 92393339,
-   "pct_of_paying_fund": null,
-   "general_fund": 92393339,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [
-    {
-     "id": "m-oaklandpark|2026-07-15|28f6d56e|65c80a9f9ff4",
-     "meeting_date": "2026-07-15",
-     "reason": "similar text 1.00"
-    },
-    {
-     "id": "m-oaklandpark|2026-07-15|2e15eaa9|65c80a9f9ff4",
-     "meeting_date": "2026-07-15",
-     "reason": "similar text 1.00"
-    }
-   ],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -128,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "m-oaklandpark",
-   "government": "Oakland Park",
-   "client": "pdf",
-   "body": "City Commission Meeting - Jul 15, 2026",
-   "meeting_date": "2026-07-15",
-   "agenda_number": "p.1",
-   "file_number": null,
-   "title": "A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF OAKLAND PARK, FLORIDA, SUPPORTING THE SUBMISSION OF THE ROADS FOR ECONOMIC VITALITY GRANT PROGRAM FOR THE MAIN STREET/NE 12TH AVENUE IMPROVEMENT PROJECT TO THE BROWARD METROPOLITAN PLANNING ORGANIZATION (MPO), AND TO AUTHORIZE CITY STAFF TO DESIGN AND CONSTRUCT THE PROJECT SUBJECT TO THE PROJECT RECEIVING MPO FUNDING; PROVIDING AN EFFECTIVE DATE; PROVIDING FOR CONFLICTS; PROVIDING FOR SEVERABILITY; PROVIDING FOR AN EFFECTIVE DATE.",
-   "max_amount": null,
-   "flow": "in",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2,
-   "keywords": [],
-   "meeting_url": "https://oaklandparkfl.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas",
-   "agenda_pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4495",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4495#page=1",
-   "id": "m-oaklandpark|2026-07-15|99851a0f|6b84c6899bb1",
-   "project_id": "m-oaklandpark|item:m-oaklandpark|2026-07-15|99851a0f|6b84c6899bb1",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 92393339,
-   "pct_of_paying_fund": null,
-   "general_fund": 92393339,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [
-    {
-     "id": "m-oaklandpark|2026-07-15|28f6d56e|6b84c6899bb1",
-     "meeting_date": "2026-07-15",
-     "reason": "similar text 1.00"
-    },
-    {
-     "id": "m-oaklandpark|2026-07-15|2e15eaa9|6b84c6899bb1",
-     "meeting_date": "2026-07-15",
-     "reason": "similar text 1.00"
-    }
-   ],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -128,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "m-oaklandpark",
-   "government": "Oakland Park",
-   "client": "pdf",
-   "body": "07-16-25 - FY26 Recommended Budget Summary - Jul 15, 2026",
-   "meeting_date": "2026-07-15",
-   "agenda_number": "p.1",
-   "file_number": null,
-   "title": "3. Resolution of support for a Grant Application for the Roads for Economic Vitality (REV) for the Main Street/NE 12th Avenue Project..",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Roads for Economic Vitality",
-   "signal_score": 2,
-   "keywords": [],
-   "meeting_url": "https://oaklandparkfl.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas",
-   "agenda_pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4524",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4524#page=1",
-   "id": "m-oaklandpark|2026-07-15|2e15eaa9|65c80a9f9ff4",
-   "project_id": "m-oaklandpark|item:m-oaklandpark|2026-07-15|2e15eaa9|65c80a9f9ff4",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 92393339,
-   "pct_of_paying_fund": null,
-   "general_fund": 92393339,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [
-    {
-     "id": "m-oaklandpark|2026-07-15|28f6d56e|65c80a9f9ff4",
-     "meeting_date": "2026-07-15",
-     "reason": "similar text 1.00"
-    },
-    {
-     "id": "m-oaklandpark|2026-07-15|99851a0f|738e25026ea5",
-     "meeting_date": "2026-07-15",
-     "reason": "similar text 1.00"
-    }
-   ],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -128,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "m-crystalriver",
-   "government": "Crystal River",
-   "client": "pdf",
-   "body": "City Council Meeting - Nov 10, 2025",
-   "meeting_date": "2025-11-10",
-   "agenda_number": "p.3",
-   "file_number": null,
-   "title": "D. Update on Hazard Mitigation Grant Program (HMGP) Funding for Home Elevations.",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Home Elevations",
-   "signal_score": 2,
-   "keywords": [],
-   "meeting_url": "https://crystalriverfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=329",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=329#page=3",
-   "id": "m-crystalriver|2025-11-10|4671a325|d36735659a29",
-   "project_id": "m-crystalriver|item:m-crystalriver|2025-11-10|4671a325|d36735659a29",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 10325480,
-   "pct_of_paying_fund": null,
-   "general_fund": 10325480,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -375,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "c-gadsden",
-   "government": "Gadsden County",
-   "client": "pdf",
-   "body": "BOARD OF COUNTY COMMISSIONERS - Feb 03, 2026",
-   "meeting_date": "2026-02-03",
-   "agenda_number": "p.2",
-   "file_number": null,
-   "title": "11.a Approval of Resolution 2026-011 Grant Budget Amendment for FY26",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2,
-   "keywords": [],
-   "meeting_url": "https://gadsdencountyfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=140",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=140#page=2",
-   "id": "c-gadsden|2026-02-03|3484af01|b860644579a3",
-   "project_id": "c-gadsden|ref:ord/res 2026-011",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 41142440,
-   "pct_of_paying_fund": null,
-   "general_fund": 41142440,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -290,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "c-gadsden",
-   "government": "Gadsden County",
-   "client": "pdf",
-   "body": "BOARD OF COUNTY COMMISSIONERS - Jan 06, 2026",
-   "meeting_date": "2026-01-06",
-   "agenda_number": "p.1",
-   "file_number": null,
-   "title": "Item 10.a Approval of funding from a Due to Liability owed Midway Senior Center moved to FY 25-26 Budget",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Liability",
-   "signal_score": 2,
-   "keywords": [],
-   "meeting_url": "https://gadsdencountyfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=136",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=136#page=1",
-   "id": "c-gadsden|2026-01-06|86cbefec|e4bf37efe174",
-   "project_id": "c-gadsden|item:c-gadsden|2026-01-06|86cbefec|e4bf37efe174",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 41142440,
-   "pct_of_paying_fund": null,
-   "general_fund": 41142440,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -318,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "c-gadsden",
-   "government": "Gadsden County",
-   "client": "pdf",
-   "body": "BOARD OF COUNTY COMMISSIONERS - Jan 06, 2026",
-   "meeting_date": "2026-01-06",
-   "agenda_number": "p.2",
-   "file_number": null,
-   "title": "10.a Approval to reallocate funding from a Due to Liability (Reginald James, Interim County Administrator/Curtis Young, Public Works Director)",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Liability",
-   "signal_score": 2,
-   "keywords": [],
-   "meeting_url": "https://gadsdencountyfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=136",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=136#page=2",
-   "id": "c-gadsden|2026-01-06|86cbefec|a112381c28cb",
-   "project_id": "c-gadsden|item:c-gadsden|2026-01-06|86cbefec|a112381c28cb",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 41142440,
-   "pct_of_paying_fund": null,
-   "general_fund": 41142440,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -318,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "c-gadsden",
-   "government": "Gadsden County",
-   "client": "pdf",
-   "body": "Board of County Commissioners - Dec 16, 2025",
-   "meeting_date": "2025-12-16",
-   "agenda_number": "p.3",
-   "file_number": null,
-   "title": "11.a Approval to reallocate funding from as Due To Liability (Reginald James, Interim County Administrator/Rose Raynak, Finance Director)",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": null,
-   "signal_score": 2,
-   "keywords": [],
-   "meeting_url": "https://gadsdencountyfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=133",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=133#page=3",
-   "id": "c-gadsden|2025-12-16|e2ad5afa|ec838dd236e2",
-   "project_id": "c-gadsden|item:c-gadsden|2025-12-16|e2ad5afa|ec838dd236e2",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 41142440,
-   "pct_of_paying_fund": null,
-   "general_fund": 41142440,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -339,
-   "categories": [
-    "outgoing_grant"
-   ]
-  },
-  {
-   "entity_id": "m-delraybeach",
-   "government": "Delray Beach",
-   "client": "pdf",
    "body": "City Commission - Regular Meeting - Jun 09, 2026",
    "meeting_date": "2026-06-09",
    "agenda_number": "p.5",
@@ -29064,6 +27950,51 @@
    "possible_duplicate_label": null,
    "stage": "past_meeting",
    "days_until_meeting": -449,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-winterhaven",
+   "government": "Winter Haven",
+   "client": "pdf",
+   "body": "City Commission Agenda Review Session - Mar 04, 2026",
+   "meeting_date": "2026-03-04",
+   "agenda_number": "p.3",
+   "file_number": null,
+   "title": "13. NEW BUSINESS 13.A 2026-2027 CDBG Allocation Funding Support and Public Comment for R.H. Malcom Park Staff Contact: AJ Nicholson, Assistant to the City Manager, anicholson@mywinterhaven.com Summary - FLC FAST Fly In",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "special_revenue",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "R.H. Malcom Park Staff Contact",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://winterhaven-fl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=351",
+   "found_utc": "2026-11-17T17:30:57+00:00",
+   "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=351#page=3",
+   "id": "m-winterhaven|2026-03-04|21bf3263|0b45ea0e9fdf",
+   "project_id": "m-winterhaven|item:m-winterhaven|2026-03-04|21bf3263|0b45ea0e9fdf",
+   "project_total": null,
+   "paying_fund": "special_revenue",
+   "paying_fund_expenditures": 18940951,
+   "pct_of_paying_fund": null,
+   "general_fund": 74411087,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [
+    {
+     "id": "m-winterhaven|2026-03-09|bb7d0ba5|0b45ea0e9fdf",
+     "meeting_date": "2026-03-09",
+     "reason": "similar text 1.00"
+    }
+   ],
+   "possible_duplicate_label": "2026-03-09 (similar text 1.00)",
+   "stage": "past_meeting",
+   "days_until_meeting": -261,
    "categories": [
     "outgoing_grant"
    ]
@@ -32603,6 +31534,51 @@
    ]
   },
   {
+   "entity_id": "m-bradenton",
+   "government": "Bradenton",
+   "client": "pdf",
+   "body": "Tamiami Trail Community Advisory Committee Meeting - Feb 10, 2026",
+   "meeting_date": "2026-02-10",
+   "agenda_number": "p.1",
+   "file_number": null,
+   "title": "d) Community Redevelopment Agency : Roof Grant Request for Additional Funds from Carol Daste for a property located at 1105 12th Street West",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "special_revenue",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Additional Funds",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://cityofbradenton.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+   "agenda_pdf": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=282",
+   "found_utc": "2026-11-18T18:23:45+00:00",
+   "link": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=282#page=1",
+   "id": "m-bradenton|2026-02-10|2674f85f|06875a87f809",
+   "project_id": "m-bradenton|item:m-bradenton|2026-02-10|2674f85f|06875a87f809",
+   "project_total": null,
+   "paying_fund": "special_revenue",
+   "paying_fund_expenditures": 14228362,
+   "pct_of_paying_fund": null,
+   "general_fund": 62942605,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [
+    {
+     "id": "m-bradenton|2026-06-29|d22549ac|06875a87f809",
+     "meeting_date": "2026-06-29",
+     "reason": "similar text 1.00"
+    }
+   ],
+   "possible_duplicate_label": "2026-06-29 (similar text 1.00)",
+   "stage": "past_meeting",
+   "days_until_meeting": -283,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
    "entity_id": "m-lakewales",
    "government": "Lake Wales",
    "client": "pdf",
@@ -35803,54 +34779,6 @@
    "entity_id": "m-lakewales",
    "government": "Lake Wales",
    "client": "pdf",
-   "body": "City Commission Workshop Meeting 02-25-26 - Feb 25, 2026",
-   "meeting_date": "2026-02-25",
-   "agenda_number": "p.1",
-   "file_number": null,
-   "title": "CITY OF LAKE WALES CITY COMMISSION WORKSHOP MEETING Official Agenda February 25, 2026 2:00 p.m. City Administration Building Commission Chambers 201 W. Central Avenue Lake Wales, FL 33853 CALL TO ORDER & ROLL CALL City Manager Comments Developer Credit Agreement -Hunt Club Grove South - Revised The city requested developer provide some off-site improvements in relationship to the Hunt Club Grove South development. MEMO HCG SOUTH DEVELOPER IMPACT FEE CREDIT.PDF HCG SOUTH DA POST SALTER AND UTILITY IMPROVEMENT FINAL FOR CC APPROVAL.PDF ORDINANCE 2026-03- Amendment To Chapter 7, Buildings And Building Regulations \u2013 First Reading The main purpose of this ordinance is to add an allowance for the City Manager to waive certain building permit fees if the project meets requirements of the city\u2019s Business Impact Fee Mitigation program. CC MEMO ORD 2026-03 EXEMPTIONS TO PERMIT FEE.PDF ORDINANCE 2026-03 EXEMPTION TO PERMIT FEE CH7.PDF Contractual Services \u2013 PFM Financial Advisors LLC The Commissioners will consider approving PFM Financial Advisors LLC relating to financial planning, budget and strategic advice and planning, policy development and services related to debt issuance. MEMO - FINA",
-   "max_amount": 75327.0,
-   "flow": "out",
-   "funding_source": "special_revenue",
-   "signed_amount": 75327.0,
-   "signals": [
-    "consultants",
-    "facilities"
-   ],
-   "outgoing_grant": false,
-   "bypass_competition": true,
-   "recipient": null,
-   "signal_score": 4.9,
-   "keywords": [
-    "agreement",
-    "debt"
-   ],
-   "meeting_url": "https://lakewales.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=921",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=921#page=1",
-   "id": "m-lakewales|2026-02-25|2c6ea79c|0f75c4d5b316",
-   "project_id": "m-lakewales|item:m-lakewales|2026-02-25|2c6ea79c|0f75c4d5b316",
-   "project_total": 75300.0,
-   "paying_fund": "special_revenue",
-   "paying_fund_expenditures": 17311875,
-   "pct_of_paying_fund": 0.435,
-   "general_fund": 27610085,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -268,
-   "categories": [
-    "no_bid",
-    "facilities",
-    "consultants",
-    "debt"
-   ]
-  },
-  {
-   "entity_id": "m-lakewales",
-   "government": "Lake Wales",
-   "client": "pdf",
    "body": "City Commission Regular Meeting 08-19-2025 - Aug 19, 2025",
    "meeting_date": "2025-08-19",
    "agenda_number": "p.1",
@@ -38102,102 +37030,6 @@
    ]
   },
   {
-   "entity_id": "m-wellington",
-   "government": "Wellington",
-   "client": "pdf",
-   "body": "Village Council  on 2026-05-12 6:30 PM - May 12, 2026",
-   "meeting_date": "2026-05-12",
-   "agenda_number": "p.3",
-   "file_number": null,
-   "title": "E. 26-7519 AUTHORIZATION TO 1) ENTER INTO A SOLE SOURCE CONTINUING CONTRACT FOR WATER TREATMENT PLANT (WTP) STORAGE TANK INSPECTIONS, MAINTENANCE AND UPGRADES AND 2) AUTHORIZATION TO EXECUTE A TASK ORDER FOR FIVE (5) YEAR WATER TREATMENT PLANT (WTP) STORAGE TANK CLEANING AND INSPECTION SERVICES PROJECT Authorization to 1) Enter into a sole source continuing contract with CROM, LLC DBA CROM Coatings and Restorations for Water Treatment Plant (WTP) Storage Tank Inspections, Maintenance and Upgrades and 2) Authorization to execute a task order for the Five (5) Year Water Treatment Plant (WTP) Storage Tank Cleaning and Inspection Services Project in the amount of $337,935.35. Page 3 Village of Wellington",
-   "max_amount": 337935.0,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": 337935.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": true,
-   "recipient": null,
-   "signal_score": 3.5,
-   "keywords": [
-    "contract",
-    "sole source"
-   ],
-   "meeting_url": "https://wellington.granicus.com/ViewPublisherRSS.php?view_id=3&mode=agendas",
-   "agenda_pdf": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1774",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1774#page=3",
-   "id": "m-wellington|2026-05-12|36cfb7b8|e5eb5d8490be",
-   "project_id": "m-wellington|item:m-wellington|2026-05-12|36cfb7b8|e5eb5d8490be",
-   "project_total": 337900.0,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 65115284,
-   "pct_of_paying_fund": 0.519,
-   "general_fund": 65115284,
-   "pct_of_general_fund": 0.519,
-   "possible_duplicates": [
-    {
-     "id": "m-wellington|2026-05-11|26a1b76d|fc7c41372e00",
-     "meeting_date": "2026-05-11",
-     "reason": "same amount, similar text 0.91"
-    }
-   ],
-   "possible_duplicate_label": "2026-05-11 (same amount, similar text 0.91)",
-   "stage": "past_meeting",
-   "days_until_meeting": -192,
-   "categories": [
-    "no_bid"
-   ]
-  },
-  {
-   "entity_id": "m-wellington",
-   "government": "Wellington",
-   "client": "pdf",
-   "body": "Village Council Workshop on 2026-05-11 4:30 PM - May 11, 2026",
-   "meeting_date": "2026-05-11",
-   "agenda_number": "p.3",
-   "file_number": null,
-   "title": "J. 26-7519 AUTHORIZATION TO 1) ENTER INTO A SOLE SOURCE CONTINUING CONTRACT FOR WATER TREATMENT PLANT (WTP) STORAGE TANK INSPECTIONS, MAINTENANCE AND UPGRADES AND 2) AUTHORIZATION TO EXECUTE A TASK ORDER FOR FIVE (5) YEAR WATER TREATMENT PLANT (WTP) STORAGE TANK CLEANING AND INSPECTION SERVICES PROJECT Authorization to 1) Enter into a sole source continuing contract with CROM, LLC DBA CROM Coatings and Restorations for Water Treatment Plant (WTP) Storage Tank Inspections, Maintenance and Upgrades and 2) Authorization to execute a task order for the Five (5) Year Water Treatment Plant (WTP) Storage Tank Cleaning and Inspection Services Project in the amount of $337,935.35.",
-   "max_amount": 337935.0,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": 337935.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": true,
-   "recipient": null,
-   "signal_score": 3.5,
-   "keywords": [
-    "contract",
-    "sole source"
-   ],
-   "meeting_url": "https://wellington.granicus.com/ViewPublisherRSS.php?view_id=3&mode=agendas",
-   "agenda_pdf": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1773",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1773#page=3",
-   "id": "m-wellington|2026-05-11|26a1b76d|fc7c41372e00",
-   "project_id": "m-wellington|item:m-wellington|2026-05-11|26a1b76d|fc7c41372e00",
-   "project_total": 337900.0,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 65115284,
-   "pct_of_paying_fund": 0.519,
-   "general_fund": 65115284,
-   "pct_of_general_fund": 0.519,
-   "possible_duplicates": [
-    {
-     "id": "m-wellington|2026-05-12|36cfb7b8|e5eb5d8490be",
-     "meeting_date": "2026-05-12",
-     "reason": "same amount, similar text 0.91"
-    }
-   ],
-   "possible_duplicate_label": "2026-05-12 (same amount, similar text 0.91)",
-   "stage": "past_meeting",
-   "days_until_meeting": -193,
-   "categories": [
-    "no_bid"
-   ]
-  },
-  {
    "entity_id": "m-clearwater",
    "government": "Clearwater",
    "client": "clearwater",
@@ -38245,49 +37077,6 @@
    "possible_duplicate_label": null,
    "stage": "past_meeting",
    "days_until_meeting": -3,
-   "categories": [
-    "no_bid"
-   ]
-  },
-  {
-   "entity_id": "m-winterpark",
-   "government": "Winter Park",
-   "client": "pdf",
-   "body": "City Commission - Jul 26, 2023",
-   "meeting_date": "2023-07-26",
-   "agenda_number": "p.2",
-   "file_number": null,
-   "title": "c. Approval of the following piggyback contract: 1 . Control Technologies, Inc. - Florida Department of Transportation Contract #DOT-ITB-23-9037-SJ - Approved Products List Traffic Equipment; For goods on an as-needed basis during the term of the Agreement through March 14, 2024; Amount: $225,000",
-   "max_amount": 225000.0,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": 225000.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": true,
-   "recipient": null,
-   "signal_score": 3.4,
-   "keywords": [
-    "agreement",
-    "contract",
-    "piggyback"
-   ],
-   "meeting_url": "https://winterpark.granicus.com/ViewPublisherRSS.php?view_id=6&mode=agendas",
-   "agenda_pdf": "https://winterpark.granicus.com/AgendaViewer.php?view_id=6&clip_id=1213",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://winterpark.granicus.com/AgendaViewer.php?view_id=6&clip_id=1213#page=2",
-   "id": "m-winterpark|2023-07-26|610f14e9|328cf1071a4c",
-   "project_id": "m-winterpark|ref:contract DOT-ITB-23-9037-SJ",
-   "project_total": 225000.0,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 79812140,
-   "pct_of_paying_fund": 0.282,
-   "general_fund": 79812140,
-   "pct_of_general_fund": 0.282,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -1213,
    "categories": [
     "no_bid"
    ]
@@ -39260,50 +38049,6 @@
    ]
   },
   {
-   "entity_id": "m-pinecrest",
-   "government": "Pinecrest",
-   "client": "pdf",
-   "body": "Village Council - Feb 11, 2025",
-   "meeting_date": "2025-02-11",
-   "agenda_number": "p.4",
-   "file_number": null,
-   "title": "7. A RESOLUTION OF THE VILLAGE OF PINECREST, FLORIDA, WAIVING THE COMPETITIVE BID REQUIREMENTS AND AUTHORIZING THE VILLAGE MANAGER TO ENTER INTO AN AGREEMENT WITH ZOO SOLUTIONS FOR PINECREST GARDENS FEASIBILITY STUDY PROPOSAL; PROVIDING FOR AN EFFECTIVE DATE. (MANAGER) TAB 8-Consent - PG Feasibility Study IV. AGENDA/ORDER OF BUSINESS",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [
-    "consultants"
-   ],
-   "outgoing_grant": false,
-   "bypass_competition": true,
-   "recipient": null,
-   "signal_score": 3,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://pinecrest.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
-   "agenda_pdf": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=763",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://pinecrest.granicus.com/AgendaViewer.php?view_id=2&clip_id=763#page=4",
-   "id": "m-pinecrest|2025-02-11|7ec61a37|cca35cce1512",
-   "project_id": "m-pinecrest|item:m-pinecrest|2025-02-11|7ec61a37|cca35cce1512",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 40057295,
-   "pct_of_paying_fund": null,
-   "general_fund": 40057295,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -647,
-   "categories": [
-    "no_bid",
-    "consultants"
-   ]
-  },
-  {
    "entity_id": "m-wellington",
    "government": "Wellington",
    "client": "pdf",
@@ -39696,59 +38441,6 @@
    ]
   },
   {
-   "entity_id": "m-oaklandpark",
-   "government": "Oakland Park",
-   "client": "pdf",
-   "body": "City Commission Meeting - Jul 15, 2026",
-   "meeting_date": "2026-07-15",
-   "agenda_number": "p.1",
-   "file_number": null,
-   "title": "A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF OAKLAND PARK, FLORIDA, APPROVING AND AUTHORIZING THE PROPER CITY OFFICIALS TO ENTER INTO AN AGREEMENT WITH FLORIDA ENGINEERING AND DEVELOPMENT CORPORATION FOR DRAINAGE IMPROVEMENTS TO NW 43 PLACE IN THE AMOUNT OF $85,490.83, PIGGYBACKING THE SOURCEWELL #FL-R6-CC-092524-FEDC CONTRACT; PROVIDING FOR CONFLICTS; PROVIDING FOR SEVERABILITY; PROVIDING FOR AN EFFECTIVE DATE.",
-   "max_amount": 85490.0,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": 85490.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": true,
-   "recipient": null,
-   "signal_score": 2.9,
-   "keywords": [
-    "agreement",
-    "contract"
-   ],
-   "meeting_url": "https://oaklandparkfl.granicus.com/ViewPublisherRSS.php?view_id=5&mode=agendas",
-   "agenda_pdf": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4495",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4495#page=1",
-   "id": "m-oaklandpark|2026-07-15|99851a0f|b894675d19a4",
-   "project_id": "m-oaklandpark|item:m-oaklandpark|2026-07-15|99851a0f|b894675d19a4",
-   "project_total": 85500.0,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 92393339,
-   "pct_of_paying_fund": 0.093,
-   "general_fund": 92393339,
-   "pct_of_general_fund": 0.093,
-   "possible_duplicates": [
-    {
-     "id": "m-oaklandpark|2026-07-15|28f6d56e|b894675d19a4",
-     "meeting_date": "2026-07-15",
-     "reason": "same amount, similar text 1.00"
-    },
-    {
-     "id": "m-oaklandpark|2026-07-15|2e15eaa9|b894675d19a4",
-     "meeting_date": "2026-07-15",
-     "reason": "same amount, similar text 1.00"
-    }
-   ],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -128,
-   "categories": [
-    "no_bid"
-   ]
-  },
-  {
    "entity_id": "m-ocala",
    "government": "Ocala",
    "client": "pdf",
@@ -40001,104 +38693,6 @@
    "possible_duplicate_label": null,
    "stage": "past_meeting",
    "days_until_meeting": -3,
-   "categories": [
-    "no_bid"
-   ]
-  },
-  {
-   "entity_id": "m-wellington",
-   "government": "Wellington",
-   "client": "pdf",
-   "body": "Village Council  on 2026-05-12 6:30 PM - May 12, 2026",
-   "meeting_date": "2026-05-12",
-   "agenda_number": "p.5",
-   "file_number": null,
-   "title": "P. 26-7710 AUTHORIZATION TO AWARD A SOLE SOURCE CONTRACT TO THOR GUARD, INC. FOR THE PURCHASE, INSTALLATION, AND SERVICE OF A LIGHTNING PREDICTION AND WARNING SYSTEM Authorization to award a sole source contract to Thor Guard, Inc. for the purchase, installation, and service of a lightning prediction and warning system, in the amount of $58,065.00.",
-   "max_amount": 58065.0,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": 58065.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": true,
-   "recipient": null,
-   "signal_score": 2.8,
-   "keywords": [
-    "contract",
-    "purchase",
-    "sole source"
-   ],
-   "meeting_url": "https://wellington.granicus.com/ViewPublisherRSS.php?view_id=3&mode=agendas",
-   "agenda_pdf": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1774",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1774#page=5",
-   "id": "m-wellington|2026-05-12|36cfb7b8|4e6e8cae5ea7",
-   "project_id": "m-wellington|item:m-wellington|2026-05-12|36cfb7b8|4e6e8cae5ea7",
-   "project_total": 58100.0,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 65115284,
-   "pct_of_paying_fund": 0.089,
-   "general_fund": 65115284,
-   "pct_of_general_fund": 0.089,
-   "possible_duplicates": [
-    {
-     "id": "m-wellington|2026-05-11|26a1b76d|b766b7ff7351",
-     "meeting_date": "2026-05-11",
-     "reason": "same amount, similar text 1.00"
-    }
-   ],
-   "possible_duplicate_label": "2026-05-11 (same amount, similar text 1.00)",
-   "stage": "past_meeting",
-   "days_until_meeting": -192,
-   "categories": [
-    "no_bid"
-   ]
-  },
-  {
-   "entity_id": "m-wellington",
-   "government": "Wellington",
-   "client": "pdf",
-   "body": "Village Council Workshop on 2026-05-11 4:30 PM - May 11, 2026",
-   "meeting_date": "2026-05-11",
-   "agenda_number": "p.5",
-   "file_number": null,
-   "title": "U. 26-7710 AUTHORIZATION TO AWARD A SOLE SOURCE CONTRACT TO THOR GUARD, INC. FOR THE PURCHASE, INSTALLATION, AND SERVICE OF A LIGHTNING PREDICTION AND WARNING SYSTEM Authorization to award a sole source contract to Thor Guard, Inc. for the purchase, installation, and service of a lightning prediction and warning system, in the amount of $58,065.00.",
-   "max_amount": 58065.0,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": 58065.0,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": true,
-   "recipient": null,
-   "signal_score": 2.8,
-   "keywords": [
-    "contract",
-    "purchase",
-    "sole source"
-   ],
-   "meeting_url": "https://wellington.granicus.com/ViewPublisherRSS.php?view_id=3&mode=agendas",
-   "agenda_pdf": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1773",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://wellington.granicus.com/AgendaViewer.php?view_id=3&clip_id=1773#page=5",
-   "id": "m-wellington|2026-05-11|26a1b76d|b766b7ff7351",
-   "project_id": "m-wellington|item:m-wellington|2026-05-11|26a1b76d|b766b7ff7351",
-   "project_total": 58100.0,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 65115284,
-   "pct_of_paying_fund": 0.089,
-   "general_fund": 65115284,
-   "pct_of_general_fund": 0.089,
-   "possible_duplicates": [
-    {
-     "id": "m-wellington|2026-05-12|36cfb7b8|4e6e8cae5ea7",
-     "meeting_date": "2026-05-12",
-     "reason": "same amount, similar text 1.00"
-    }
-   ],
-   "possible_duplicate_label": "2026-05-12 (same amount, similar text 1.00)",
-   "stage": "past_meeting",
-   "days_until_meeting": -193,
    "categories": [
     "no_bid"
    ]
@@ -43146,311 +41740,6 @@
    ]
   },
   {
-   "entity_id": "m-coconutcreek",
-   "government": "Coconut Creek",
-   "client": "pdf",
-   "body": "City Commission on 2025-12-11 7:00 PM - Dec 11, 2025",
-   "meeting_date": "2025-12-11",
-   "agenda_number": "p.4",
-   "file_number": null,
-   "title": "7. RES 2025-186 A RESOLUTION AUTHORIZING THE CITY MANAGER, OR DESIGNEE, TO EXECUTE A SINGLE SOURCE SUBSCRIPTION AND SERVICES AGREEMENT WITH GRANICUS, LLC TO PROVIDE FOR THE CONTINUED USE OF THE LEGISLATIVE MANAGEMENT SOFTWARE SUITE FOR A THREE (3) YEAR TERM. RESOLUTION 2025-186-Granicus Subscription and Services Agrmt AGREEMENT-Granicus Subscription and Services Attachments: Resilient Design & Development",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": true,
-   "recipient": null,
-   "signal_score": 2,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://coconutcreek.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2221",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2221#page=4",
-   "id": "m-coconutcreek|2025-12-11|693cff50|d60f6d124d34",
-   "project_id": "m-coconutcreek|ref:ord/res 2025-186",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 106392129,
-   "pct_of_paying_fund": null,
-   "general_fund": 106392129,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -344,
-   "categories": [
-    "no_bid"
-   ]
-  },
-  {
-   "entity_id": "m-coconutcreek",
-   "government": "Coconut Creek",
-   "client": "pdf",
-   "body": "City Commission on 2025-12-11 7:00 PM - Dec 11, 2025",
-   "meeting_date": "2025-12-11",
-   "agenda_number": "p.4",
-   "file_number": null,
-   "title": "10. RES 2025-190 A RESOLUTION AUTHORIZING THE CITY MANAGER, OR DESIGNEE, TO EXECUTE AN AGREEMENT WITH THOR GUARD, INC. FOR THE SINGLE SOURCE PURCHASE OF LIGHTNING PREDICTION AND WARNING SYSTEMS FROM THOR GUARD, INC. FOR A THREE (3) YEAR PERIOD. Page 4 City of Coconut Creek Printed on 12/9/2025",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": true,
-   "recipient": null,
-   "signal_score": 2,
-   "keywords": [
-    "agreement",
-    "purchase"
-   ],
-   "meeting_url": "https://coconutcreek.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2221",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2221#page=4",
-   "id": "m-coconutcreek|2025-12-11|693cff50|9c8be3352e4c",
-   "project_id": "m-coconutcreek|ref:ord/res 2025-190",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 106392129,
-   "pct_of_paying_fund": null,
-   "general_fund": 106392129,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -344,
-   "categories": [
-    "no_bid"
-   ]
-  },
-  {
-   "entity_id": "m-coconutcreek",
-   "government": "Coconut Creek",
-   "client": "pdf",
-   "body": "City Commission on 2025-12-11 7:00 PM - Dec 11, 2025",
-   "meeting_date": "2025-12-11",
-   "agenda_number": "p.5",
-   "file_number": null,
-   "title": "December 11, 2025City Commission Meeting Agenda - Final-revised RESOLUTION 2025-190-Thor Guard Lightning Prediction Systems Agrmt AGREEMENT-Thor Guard Lightning Prediction Systems BACKUP-Thor Guard Single Source Justification Attachments:",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": true,
-   "recipient": null,
-   "signal_score": 2,
-   "keywords": [
-    "agreement"
-   ],
-   "meeting_url": "https://coconutcreek.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2221",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://coconutcreek.granicus.com/AgendaViewer.php?view_id=1&clip_id=2221#page=5",
-   "id": "m-coconutcreek|2025-12-11|693cff50|8652ea8babb7",
-   "project_id": "m-coconutcreek|item:m-coconutcreek|2025-12-11|693cff50|8652ea8babb7",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 106392129,
-   "pct_of_paying_fund": null,
-   "general_fund": 106392129,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -344,
-   "categories": [
-    "no_bid"
-   ]
-  },
-  {
-   "entity_id": "m-winterhaven",
-   "government": "Winter Haven",
-   "client": "pdf",
-   "body": "City Commission Meeting - Mar 23, 2026",
-   "meeting_date": "2026-03-23",
-   "agenda_number": "p.3",
-   "file_number": null,
-   "title": "10.D Fairfax Water Treatment Plant, High Service Pump Replacement 10.E Wastewater Treatment Plant #2 Emergency Purchase Justification 10.F ITB-26-20 - 3rd Street NW Complete Street Project - Award of Contract to Tucker Paving Inc. 10.G Safe Streets for All (SS4A) Grant Agreement 10.H CEI Services for Rail Spur Construction - Task order with Carter Kaye Engineering, LLC 10.I Approving corrective documents regarding lands purchased from Astute Financial Corporation",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": true,
-   "recipient": null,
-   "signal_score": 2,
-   "keywords": [
-    "agreement",
-    "construction",
-    "contract",
-    "purchase"
-   ],
-   "meeting_url": "https://winterhaven-fl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=347",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=347#page=3",
-   "id": "m-winterhaven|2026-03-23|ea430ed6|31024db5a20b",
-   "project_id": "m-winterhaven|item:m-winterhaven|2026-03-23|ea430ed6|31024db5a20b",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 74411087,
-   "pct_of_paying_fund": null,
-   "general_fund": 74411087,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [
-    {
-     "id": "m-winterhaven|2026-03-18|f626fc61|31024db5a20b",
-     "meeting_date": "2026-03-18",
-     "reason": "similar text 1.00"
-    }
-   ],
-   "possible_duplicate_label": "2026-03-18 (similar text 1.00)",
-   "stage": "past_meeting",
-   "days_until_meeting": -242,
-   "categories": [
-    "no_bid"
-   ]
-  },
-  {
-   "entity_id": "m-winterhaven",
-   "government": "Winter Haven",
-   "client": "pdf",
-   "body": "City Commission Meeting - Mar 23, 2026",
-   "meeting_date": "2026-03-23",
-   "agenda_number": "p.3",
-   "file_number": null,
-   "title": "11. RESOLUTION(S) 11.A R-26-09 - Florida Department of Environmental Protection (FDEP), WRP16 Grant Award, A Sapphire Necklace Project Summary - Emergency Generator Replacement for the 3rd Street WTP Ring Power, Quotation No 31627975-26 No Tank Sourcewell Participation Agreement - Caterpillar Inc - Ring Power Approved Sole Source Certificate for Ring Power Systems. 3rd St WTP Generator Replacement, Technical Memorandum",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": true,
-   "recipient": null,
-   "signal_score": 2,
-   "keywords": [
-    "agreement",
-    "sole source"
-   ],
-   "meeting_url": "https://winterhaven-fl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=347",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://winterhaven-fl.granicus.com/AgendaViewer.php?view_id=1&clip_id=347#page=3",
-   "id": "m-winterhaven|2026-03-23|ea430ed6|f125c704f4ab",
-   "project_id": "m-winterhaven|item:m-winterhaven|2026-03-23|ea430ed6|f125c704f4ab",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 74411087,
-   "pct_of_paying_fund": null,
-   "general_fund": 74411087,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [
-    {
-     "id": "m-winterhaven|2026-03-18|f626fc61|f125c704f4ab",
-     "meeting_date": "2026-03-18",
-     "reason": "similar text 1.00"
-    }
-   ],
-   "possible_duplicate_label": "2026-03-18 (similar text 1.00)",
-   "stage": "past_meeting",
-   "days_until_meeting": -242,
-   "categories": [
-    "no_bid"
-   ]
-  },
-  {
-   "entity_id": "m-lakewales",
-   "government": "Lake Wales",
-   "client": "pdf",
-   "body": "City Commission Regular Meeting 03-03-2026 - Mar 03, 2026",
-   "meeting_date": "2026-03-03",
-   "agenda_number": "p.1",
-   "file_number": null,
-   "title": "Staff is requesting authorization to procure one (1) skid steer loader utilizing the Florida Sheriff\u2019s Association (FSA) cooperative purchasing contract (FSA Bid No. FSA23-EQU21.0).",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": true,
-   "recipient": null,
-   "signal_score": 2,
-   "keywords": [
-    "contract"
-   ],
-   "meeting_url": "https://lakewales.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=923",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=923#page=1",
-   "id": "m-lakewales|2026-03-03|a152f585|b7c14d692bef",
-   "project_id": "m-lakewales|ref:bid FSA23-EQU21",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 27610085,
-   "pct_of_paying_fund": null,
-   "general_fund": 27610085,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -262,
-   "categories": [
-    "no_bid"
-   ]
-  },
-  {
-   "entity_id": "m-crystalriver",
-   "government": "Crystal River",
-   "client": "pdf",
-   "body": "City Council Meeting - Dec 08, 2025",
-   "meeting_date": "2025-12-08",
-   "agenda_number": "p.4",
-   "file_number": null,
-   "title": "A. Consideration and approval of a Cooperative Purchasing Agreement with Brannen Banks of Florida, Inc. to procure Banking Services under the same terms and conditions of a piggyback agreement between Brannen Bank and Citrus County School Board with a termination date of June 30, 2027.",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": false,
-   "bypass_competition": true,
-   "recipient": null,
-   "signal_score": 2,
-   "keywords": [
-    "agreement",
-    "piggyback"
-   ],
-   "meeting_url": "https://crystalriverfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-   "agenda_pdf": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=331",
-   "found_utc": "2026-11-17T17:01:45+00:00",
-   "link": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=331#page=4",
-   "id": "m-crystalriver|2025-12-08|5b948ff4|90bfd6092a2b",
-   "project_id": "m-crystalriver|item:m-crystalriver|2025-12-08|5b948ff4|90bfd6092a2b",
-   "project_total": null,
-   "paying_fund": "general",
-   "paying_fund_expenditures": 10325480,
-   "pct_of_paying_fund": null,
-   "general_fund": 10325480,
-   "pct_of_general_fund": null,
-   "possible_duplicates": [],
-   "possible_duplicate_label": null,
-   "stage": "past_meeting",
-   "days_until_meeting": -347,
-   "categories": [
-    "no_bid"
-   ]
-  },
-  {
    "entity_id": "m-winterhaven",
    "government": "Winter Haven",
    "client": "pdf",
@@ -44406,7 +42695,13 @@
    "pct_of_paying_fund": 1.72,
    "general_fund": 24355869,
    "pct_of_general_fund": 1.72,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|81f56d40c9b2",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -44572,7 +42867,13 @@
    "pct_of_paying_fund": 298.294,
    "general_fund": 24355869,
    "pct_of_general_fund": 298.294,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|16dfc74d128b",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -44662,7 +42963,13 @@
    "pct_of_paying_fund": 18.552,
    "general_fund": 24355869,
    "pct_of_general_fund": 18.552,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|e7f36d734651",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -45289,7 +43596,13 @@
    "pct_of_paying_fund": 31.666,
    "general_fund": 24355869,
    "pct_of_general_fund": null,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|b7cc5e4fe77c",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -45667,7 +43980,13 @@
    "pct_of_paying_fund": 0.518,
    "general_fund": 24355869,
    "pct_of_general_fund": 0.518,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|0be2feef0d00",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -45703,13 +44022,18 @@
    "link": "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7127,plainText=false)#page=93",
    "id": "m-wiltonmanors|2026-11-24|136d8585|59f7968a0e0d",
    "project_id": "m-wiltonmanors|ref:ord/res 2026-095",
-   "project_total": 1474900.0,
+   "project_total": 1354200.0,
    "paying_fund": "general",
    "paying_fund_expenditures": 24355869,
    "pct_of_paying_fund": 5.56,
    "general_fund": 24355869,
    "pct_of_general_fund": 5.56,
    "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|59f7968a0e0d",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    },
     {
      "id": "m-wiltonmanors|2026-11-24|136d8585|013e971653f4",
      "meeting_date": "2026-11-24",
@@ -45764,6 +44088,11 @@
    "pct_of_general_fund": 5.56,
    "possible_duplicates": [
     {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|013e971653f4",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    },
+    {
      "id": "m-wiltonmanors|2026-11-24|136d8585|59f7968a0e0d",
      "meeting_date": "2026-11-24",
      "reason": "same amount"
@@ -45817,6 +44146,11 @@
    "general_fund": 24355869,
    "pct_of_general_fund": 5.56,
    "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|f21c6145e73a",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    },
     {
      "id": "m-wiltonmanors|2026-11-24|136d8585|013e971653f4",
      "meeting_date": "2026-11-24",
@@ -46437,7 +44771,13 @@
    "pct_of_paying_fund": 0.205,
    "general_fund": 24355869,
    "pct_of_general_fund": 0.205,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|d4edd101db9b",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -46818,7 +45158,13 @@
    "pct_of_paying_fund": 0.786,
    "general_fund": 24355869,
    "pct_of_general_fund": 0.786,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|c5f726ba61e9",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -46857,7 +45203,13 @@
    "pct_of_paying_fund": 0.813,
    "general_fund": 24355869,
    "pct_of_general_fund": 0.813,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|c4736b630bb4",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -47038,14 +45390,20 @@
    "found_utc": "2026-11-20T14:55:53+00:00",
    "link": "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7127,plainText=false)#page=95",
    "id": "m-wiltonmanors|2026-11-24|136d8585|454a1a82977a",
-   "project_id": "m-wiltonmanors|ref:ord/res 2026-095",
-   "project_total": 1474900.0,
+   "project_id": "m-wiltonmanors|ref:itb 2026-10",
+   "project_total": 120700.0,
    "paying_fund": "general",
    "paying_fund_expenditures": 24355869,
    "pct_of_paying_fund": 0.496,
    "general_fund": 24355869,
    "pct_of_general_fund": 0.496,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|454a1a82977a",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,
@@ -47220,7 +45578,13 @@
    "pct_of_paying_fund": 0.65,
    "general_fund": 24355869,
    "pct_of_general_fund": null,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-wiltonmanors|2026-11-24|9cd517a5|cdd864351c64",
+     "meeting_date": "2026-11-24",
+     "reason": "same amount, similar text 1.00"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "upcoming",
    "days_until_meeting": 4,

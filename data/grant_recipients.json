@@ -1485,15 +1485,24 @@
      "amount": 100000.0,
      "text": "This Resolution will amend the FY 2026/2027 Adopted Budget for the General Fund to allow staff to move forward with these smaller, non-reportable grants/donations without going to Commission for approval. The requested approval is for $100,000 in Unappropriated Grants/Donations revenue and expenditu",
      "link": "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1657,plainText=false)"
+    },
+    {
+     "entity_id": "m-wiltonmanors",
+     "government": "Wilton Manors",
+     "meeting_date": "2026-11-24",
+     "amount": 696982.0,
+     "text": "4917-9013-1938, v. 1 RESOLUTION NO. 2026-098 1 2 A RESOLUTION OF THE CITY COMMISSION OF THE CITY OF 3 WILTON MANORS, FLORIDA, AMENDING RESOLUTION NO. 4 2026-082 TO APPROPRIATE ADDITIONAL FUNDING FOR THE 5 FISCAL YEAR 2026-27 BUDGET; PROVIDING FOR 6 CONFLICTS; PROVIDING FOR SEVERABILITY; AND 7 PROVID",
+     "link": "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7129,plainText=false)"
     }
    ],
    "governments": [
     "Clermont",
     "Deerfield Beach",
-    "Eustis"
+    "Eustis",
+    "Wilton Manors"
    ],
-   "award_count": 3,
-   "total_amount": 3826518.0
+   "award_count": 4,
+   "total_amount": 4523500.0
   },
   "housing authority": {
    "name": "Housing Authority",
@@ -24944,16 +24953,16 @@
    "total_amount": 0
   }
  },
- "generated_utc": "2026-11-20T15:10:43+00:00",
+ "generated_utc": "2026-11-20T17:03:52+00:00",
  "multi_government": [
   "commission",
   "section",
   "contractor",
   "fy2025",
   "florida department environmental protection",
+  "general fund",
   "martin luther king jr avenue",
   "improvements",
-  "general fund",
   "american",
   "florida statute",
   "interlocal agreement",

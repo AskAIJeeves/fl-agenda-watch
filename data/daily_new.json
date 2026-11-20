@@ -1,5 +1,5 @@
 {
-"generated_utc": "2026-11-20T15:10:43+00:00",
+"generated_utc": "2026-11-20T17:03:52+00:00",
 "count": 306,
 "items": [
 {
@@ -2167,7 +2167,7 @@
 "recipient": null,
 "link": "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7127,plainText=false)#page=93",
 "project_id": "m-wiltonmanors|ref:ord/res 2026-095",
-"project_total": 1474900.0,
+"project_total": 1354200.0,
 "funding_source": "unstated",
 "paying_fund": "general",
 "paying_fund_expenditures": 24355869,
@@ -2862,8 +2862,8 @@
 "flow": "out",
 "recipient": null,
 "link": "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7127,plainText=false)#page=95",
-"project_id": "m-wiltonmanors|ref:ord/res 2026-095",
-"project_total": 1474900.0,
+"project_id": "m-wiltonmanors|ref:itb 2026-10",
+"project_total": 120700.0,
 "funding_source": "unstated",
 "paying_fund": "general",
 "paying_fund_expenditures": 24355869,
