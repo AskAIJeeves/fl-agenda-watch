@@ -17,7 +17,7 @@ import openpyxl
 
 ROOT = Path(__file__).resolve().parent.parent
 BASE = "https://www.edr.state.fl.us/Content/local-government/data/revenues-expenditures/"
-UA = {"User-Agent": "Mozilla/5.0 (fl-agenda-watch; public finance research)"}
+UA = {"User-Agent": "Mozilla/5.0 (compatible; floridaspending.com agenda reader; +https://floridaspending.com)"}
 
 
 def governments():

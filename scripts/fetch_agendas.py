@@ -9,7 +9,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
 API = "https://webapi.legistar.com/v1/{client}/{path}"
-UA = {"User-Agent": "fl-agenda-watch (public records research)", "Accept": "application/json"}
+UA = {"User-Agent": "Mozilla/5.0 (compatible; floridaspending.com agenda reader; +https://floridaspending.com)", "Accept": "application/json"}
 
 KEYWORDS = re.compile(r"\b(bonds?|debt|loan|refund(ing)?|design[- ]build|construction|change order|"
                       r"guaranteed maximum price|gmp|contract|agreement|purchase|lease|"
