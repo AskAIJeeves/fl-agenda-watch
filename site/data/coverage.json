@@ -1,8 +1,8 @@
 {
  "updated": "2026-11-20",
- "governments": 132,
- "county_governments": 34,
- "population_share_county": 75,
+ "governments": 143,
+ "county_governments": 39,
+ "population_share_county": 81,
  "population_source": "https://www.edr.state.fl.us/Content/population-demographics/data/MediumProjections_2025.pdf",
  "counties": {
   "Alachua": [
@@ -26,6 +26,7 @@
    "Fort Lauderdale",
    "Hollywood",
    "Lauderdale Lakes",
+   "Margate",
    "Miramar",
    "Oakland Park",
    "Parkland",
@@ -73,6 +74,9 @@
   "Hardee": [
    "Hardee County"
   ],
+  "Hernando": [
+   "Hernando County"
+  ],
   "Highlands": [
    "Highlands County"
   ],
@@ -92,6 +96,7 @@
    "Lake County",
    "Clermont",
    "Eustis",
+   "Groveland",
    "Leesburg",
    "Minneola",
    "Mount Dora",
@@ -102,12 +107,14 @@
    "Cape Coral"
   ],
   "Leon": [
+   "Leon County",
    "Tallahassee"
   ],
   "Levy": [
    "Levy County"
   ],
   "Manatee": [
+   "Manatee County",
    "Bradenton"
   ],
   "Marion": [
@@ -115,9 +122,11 @@
    "Ocala"
   ],
   "Martin": [
+   "Martin County",
    "Stuart"
   ],
   "Miami-Dade": [
+   "Aventura",
    "Coral Gables",
    "Doral",
    "Miami",
@@ -133,8 +142,10 @@
    "Fernandina Beach"
   ],
   "Okaloosa": [
+   "Okaloosa County",
    "Crestview",
-   "Destin"
+   "Destin",
+   "Fort Walton Beach"
   ],
   "Okeechobee": [
    "Okeechobee County"
@@ -159,6 +170,7 @@
    "Delray Beach",
    "Greenacres",
    "Jupiter",
+   "Lake Park",
    "Wellington"
   ],
   "Pasco": [
@@ -182,6 +194,7 @@
    "Haines City",
    "Lake Wales",
    "Lakeland",
+   "Polk County Public Schools",
    "Winter Haven"
   ],
   "Putnam": [

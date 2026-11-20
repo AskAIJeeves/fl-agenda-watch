@@ -5541,7 +5541,7 @@
     "Grants to outside groups",
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 460000.0,
    "added": "2026-11-19"
   },
@@ -5786,6 +5786,56 @@
    ],
    "featured": false,
    "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "10b795f114",
+   "government": "Lake Wales",
+   "governments": [
+    "Lake Wales"
+   ],
+   "level": "city",
+   "counties": [
+    "Polk"
+   ],
+   "description": "Lake Wales CRA Board: considers awarding a $19,382 grant to Charles Elam, Jr. (0.11% of Lake Wales's special revenue funds). Outcome not verified.",
+   "shortfall": null,
+   "amount": 19382.0,
+   "link": "https://lakewales.granicus.com/AgendaViewer.php?view_id=1&clip_id=1020#page=1",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-09-15",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": 19400.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "526f18e3d3",
+   "government": "Volusia County",
+   "governments": [
+    "Volusia County"
+   ],
+   "level": "county",
+   "counties": [
+    "Volusia"
+   ],
+   "description": "Volusia County Council: approved a master scope change and interim grant agreement for the Cici & Hyatt Brown Museum covering ECHO grants 2002-17 through 2015-12; $192,952 for the scope change (0.03% of Volusia County's special revenue funds).",
+   "shortfall": "Nov 16: Sheriff Mike Chitwood said cuts are coming; Sheriff's budget $37M less next year.",
+   "amount": 192952.0,
+   "link": "https://www.volusia.org/file/5903/20226-05-19-Action-List-ADA.pdf#page=2",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-05-19",
+   "categories": [
+    "Grants to outside groups",
+    "Events, art & branding"
+   ],
+   "featured": false,
+   "project_total": 193000.0,
    "added": "2026-11-19"
   },
   {
@@ -6192,6 +6242,31 @@
    "added": "2026-11-19"
   },
   {
+   "id": "d109f4146a",
+   "government": "Bradenton",
+   "governments": [
+    "Bradenton"
+   ],
+   "level": "city",
+   "counties": [
+    "Manatee"
+   ],
+   "description": "Bradenton Tamiami Trail Community Advisory Committee (CRA): roof grant request for additional funds from Carol Daste for a property at 1105 12th Street West. Amount not stated. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=322#page=1",
+   "stage": "undated",
+   "kind": "spending",
+   "meeting_date": "2026-06-29",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-19"
+  },
+  {
    "id": "3663f087a8",
    "government": "Titusville",
    "governments": [
@@ -6286,6 +6361,30 @@
    ],
    "featured": false,
    "project_total": 1335100.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "3bb9fb06a0",
+   "government": "Palatka",
+   "governments": [
+    "Palatka"
+   ],
+   "level": "city",
+   "counties": [
+    "Putnam"
+   ],
+   "description": "CRA: agreement provision making remaining reimbursement under an existing CRA agreement payable to Steamboat Willies LLC instead of the original recipient, total payments capped at $25,000 (0.9% of Palatka's special revenue funds). Outcome not verified.",
+   "shortfall": null,
+   "amount": 25000.0,
+   "link": "https://palatkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2487,plainText=false)#page=20",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-16",
+   "categories": [
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": 25000.0,
    "added": "2026-11-19"
   },
   {
@@ -6580,7 +6679,7 @@
    "categories": [
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 1121900.0,
    "added": "2026-11-19"
   },
@@ -8690,6 +8789,54 @@
    "added": "2026-11-19"
   },
   {
+   "id": "76b72351ab",
+   "government": "Jacksonville",
+   "governments": [
+    "Jacksonville"
+   ],
+   "level": "city",
+   "counties": [
+    "Duval"
+   ],
+   "description": "NCSPHS Committee amendment: waives the Public Investment Policy to allow Completion Grant incentives totaling $28,250,000 for about 259 residential units and ground-floor retail, at least 30,000 sq ft designed for Publix or a similar grocer. The item does not name the developer. Full council vote pending.",
+   "shortfall": "Nov 9 (Jacksonville Today): CAO Mike Weinstein: \"Maybe the libraries will be open not quite as long.\" $150M to almost $200M less next budget; $300M by FY2028-29.",
+   "amount": 28250000.0,
+   "link": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3779&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "stage": "pending_final",
+   "kind": "spending",
+   "meeting_date": "2026-10-05",
+   "categories": [
+    "Private benefit"
+   ],
+   "featured": true,
+   "project_total": 28250000.0,
+   "added": "2026-11-19"
+  },
+  {
+   "id": "0ca816cf1c",
+   "government": "Pasco County",
+   "governments": [
+    "Pasco County"
+   ],
+   "level": "county",
+   "counties": [
+    "Pasco"
+   ],
+   "description": "Pasco County Commission considered a joint funding agreement with Lennar Homes, LLC and six other landowner companies for the State Road 52/Old Pasco Road Utilities Corridor, $40,722,000; county share not stated. Outcome not verified.",
+   "shortfall": null,
+   "amount": 40722000.0,
+   "link": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10705,plainText=false)#page=67",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-06-16",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": 40722000.0,
+   "added": "2026-11-19"
+  },
+  {
    "id": "11b04091fc",
    "government": "Jacksonville",
    "governments": [
@@ -10599,6 +10746,31 @@
    ],
    "featured": false,
    "project_total": 1170000.0,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "560667f652",
+   "government": "Tallahassee",
+   "governments": [
+    "Tallahassee"
+   ],
+   "level": "city",
+   "counties": [
+    "Leon"
+   ],
+   "description": "CRA Board: Commercial Property Improvement Program grant request of $200,000 for 125 S Gadsden Street (Elise Fisher). Outcome not verified.",
+   "shortfall": null,
+   "amount": 200000.0,
+   "link": "https://tallahasseefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=716,plainText=false)#page=95",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-05-28",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": 200000.0,
    "added": "2026-11-20"
   },
   {
@@ -15048,6 +15220,56 @@
    "added": "2026-11-20"
   },
   {
+   "id": "57455868b3",
+   "government": "Sunrise",
+   "governments": [
+    "Sunrise"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission item 4C: Contract for Purchase and Sale of Public Art with Flaminio Antonio, $25,000 from the Public Art project account (Sculptures/Artwork). Outcome not verified.",
+   "shortfall": null,
+   "amount": 25000.0,
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1200#page=44",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-02-24",
+   "categories": [
+    "Events, art & branding"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "a10b739453",
+   "government": "Coral Springs",
+   "governments": [
+    "Coral Springs"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "Coral Springs City Commission item 9: waives competitive procurement (Sec. 2-305.1(7)) to award Contract 26-A-268NC for Sponsorship Consulting Services to Sports Facilities Management, LLC, June 2026 through May 2034. No amount stated; funding source listed as Not Applicable. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=322#page=2",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-08-07",
+   "categories": [
+    "Grants to outside groups",
+    "Consultants",
+    "No competitive bidding"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
    "id": "5dd015b649",
    "government": "Miami Beach",
    "governments": [
@@ -16227,6 +16449,55 @@
    "added": "2026-11-20"
   },
   {
+   "id": "fcad4de717",
+   "government": "Coral Springs",
+   "governments": [
+    "Coral Springs"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission item 7: allocates $30,000 from the Public Art Fund toward design and installation of two murals, \"Feature Wall 1\" and \"Paseo Mural\" by Sonny Behan, at Modera Coral Springs (Cornerstone). Outcome not verified.",
+   "shortfall": null,
+   "amount": 30000.0,
+   "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=283#page=2",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2025-12-04",
+   "categories": [
+    "Events, art & branding"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "af64d84e87",
+   "government": "Hillsborough County",
+   "governments": [
+    "Hillsborough County"
+   ],
+   "level": "county",
+   "counties": [
+    "Hillsborough"
+   ],
+   "description": "Hillsborough BOCC B-2: amended and restated Arena Renovation Improvements Agreement with Lightning Hockey LP and Tampa Bay Arena, LLC, plus lease, sublease and guaranty amendments; raises the maximum amount payable from $108.5 million to $358.5 million, a $250,000,000 increase (13.4% of general fund). Outcome not verified.",
+   "shortfall": null,
+   "amount": 250000000.0,
+   "link": "https://eagenda.hillsboroughcounty.org/portal/PTL29560/open/OBJ7Q3748#page=3",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-01-21",
+   "categories": [
+    "Buildings & facilities",
+    "Private benefit"
+   ],
+   "featured": true,
+   "project_total": 358500000.0,
+   "added": "2026-11-20"
+  },
+  {
    "id": "0720002dd4",
    "government": "Lake Wales",
    "governments": [
@@ -16667,6 +16938,30 @@
    ],
    "featured": false,
    "project_total": 17892500.0,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "0043069e13",
+   "government": "Delray Beach",
+   "governments": [
+    "Delray Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Palm Beach"
+   ],
+   "description": "City Commission: Amendment No. 1 to agreement with Man Con, Inc. setting a guaranteed maximum price for construction manager at risk services for the Historic Marine Way seawall; largest figure in item $55,409,005. Outcome not verified.",
+   "shortfall": "Delray Beach Commissioner Casale puts the Amendment 3 loss estimate closer to $11M than $21M (Nov 12).",
+   "amount": 55409005.0,
+   "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&event_id=2524#page=10",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": null,
    "added": "2026-11-20"
   },
   {

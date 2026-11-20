@@ -5369,15 +5369,15 @@
    "category": "outgoing_grant; private_benefit",
    "added": "2026-11-19",
    "project_total": 19400.0,
-   "needs_review": "The recipient is a private individual and the record does not say what the grant is for; publish with the name?"
+   "needs_review": null
   },
   {
    "sheet": "Queue",
    "item_id": "c-volusia|nodate|6ebaef73|46953f227166",
-   "decision": null,
+   "decision": "Keep",
    "suggested": "Keep",
    "government": "Volusia County",
-   "description": "Volusia County Council: approves a master scope change and interim grant agreement for the Cici & Hyatt Brown Museum covering ECHO grants 2002-17 through 2015-12. Feed lists $192,952 (0.03% of Volusia County's special revenue funds). Outcome not verified.",
+   "description": "Volusia County Council: approved a master scope change and interim grant agreement for the Cici & Hyatt Brown Museum covering ECHO grants 2002-17 through 2015-12; $192,952 for the scope change (0.03% of Volusia County's special revenue funds).",
    "shortfall": "Nov 16: Sheriff Mike Chitwood said cuts are coming; Sheriff's budget $37M less next year.",
    "amount": 192952.0,
    "link": "https://www.volusia.org/file/5903/20226-05-19-Action-List-ADA.pdf#page=2",
@@ -5386,7 +5386,7 @@
    "category": "outgoing_grant; vanity",
    "added": "2026-11-19",
    "project_total": 193000.0,
-   "needs_review": "Is $192,952 new money for the museum, or only a scope change to past ECHO grants?"
+   "needs_review": null
   },
   {
    "sheet": "Queue",
@@ -5403,7 +5403,7 @@
    "category": "outgoing_grant; private_benefit",
    "added": "2026-11-19",
    "project_total": null,
-   "needs_review": "Names a private individual and gives no amount or purpose; publish as described?"
+   "needs_review": null
   },
   {
    "sheet": "Backlog",
@@ -5998,7 +5998,7 @@
    "category": "outgoing_grant; private_benefit",
    "added": "2026-11-19",
    "project_total": null,
-   "needs_review": "Names a private individual as the grant recipient; publish the name as described?"
+   "needs_review": null
   },
   {
    "sheet": "Queue",
@@ -6015,7 +6015,7 @@
    "category": "outgoing_grant; private_benefit",
    "added": "2026-11-19",
    "project_total": null,
-   "needs_review": "Names a private individual and gives no amount or purpose; publish as described?"
+   "needs_review": null
   },
   {
    "sheet": "Queue",
@@ -6032,7 +6032,7 @@
    "category": "large_spending",
    "added": "2026-11-19",
    "project_total": 1181800.0,
-   "needs_review": "No"
+   "needs_review": null
   },
   {
    "sheet": "Queue",
@@ -6049,7 +6049,7 @@
    "category": "debt; large_spending",
    "added": "2026-11-19",
    "project_total": 10500000.0,
-   "needs_review": "No"
+   "needs_review": null
   },
   {
    "sheet": "Queue",
@@ -6100,12 +6100,12 @@
    "category": "outgoing_grant; private_benefit",
    "added": "2026-11-19",
    "project_total": null,
-   "needs_review": "Names a private individual and gives no amount or purpose; publish as described?"
+   "needs_review": null
   },
   {
    "sheet": "Queue",
    "item_id": "m-palatka|2026-11-16|4e8ea773|47481ff9cce5",
-   "decision": null,
+   "decision": "Keep",
    "suggested": "Keep",
    "government": "Palatka",
    "description": "CRA: agreement provision making remaining reimbursement under an existing CRA agreement payable to Steamboat Willies LLC instead of the original recipient, total payments capped at $25,000 (0.9% of Palatka's special revenue funds). Outcome not verified.",
@@ -6117,7 +6117,7 @@
    "category": "private_benefit",
    "added": "2026-11-19",
    "project_total": 25000.0,
-   "needs_review": "Record shows only the payee clause; is this a new CRA payment to Steamboat Willies LLC or a reassignment of an existing award? Publish as described?"
+   "needs_review": null
   },
   {
    "sheet": "Queue",
@@ -6139,7 +6139,7 @@
   {
    "sheet": "Queue",
    "item_id": "c-gadsden|nodate|2ad05055|9e35a33ca0d5",
-   "decision": null,
+   "decision": "Keep",
    "suggested": "Keep",
    "government": "Gadsden County",
    "description": "Gadsden County BOCC item 11.a: funding request for Stallworth & Associates Global. Amount and purpose not in feed text. Outcome not verified.",
@@ -6151,7 +6151,7 @@
    "category": "outgoing_grant; private_benefit",
    "added": "2026-11-19",
    "project_total": null,
-   "needs_review": "The record gives no amount or purpose for the funding request; publish as described?"
+   "needs_review": null
   },
   {
    "sheet": "Queue",
@@ -6270,7 +6270,7 @@
    "category": "officials_perks",
    "added": "2026-11-19",
    "project_total": 35000.0,
-   "needs_review": "No"
+   "needs_review": null
   },
   {
    "sheet": "Backlog",
@@ -7460,7 +7460,7 @@
    "category": "outgoing_grant; private_benefit",
    "added": "2026-11-19",
    "project_total": 70000.0,
-   "needs_review": "No"
+   "needs_review": null
   },
   {
    "sheet": "Queue",
@@ -7477,7 +7477,7 @@
    "category": "large_spending",
    "added": "2026-11-19",
    "project_total": 8000000.0,
-   "needs_review": "No"
+   "needs_review": null
   },
   {
    "sheet": "Queue",
@@ -7494,7 +7494,7 @@
    "category": "large_spending",
    "added": "2026-11-19",
    "project_total": 30000000.0,
-   "needs_review": "No"
+   "needs_review": null
   },
   {
    "sheet": "Queue",
@@ -7511,7 +7511,7 @@
    "category": "outgoing_grant",
    "added": "2026-11-19",
    "project_total": 717500.0,
-   "needs_review": "No"
+   "needs_review": null
   },
   {
    "sheet": "Backlog",
@@ -8004,15 +8004,15 @@
    "category": "vanity; outgoing_grant",
    "added": "2026-11-19",
    "project_total": 30000.0,
-   "needs_review": "No"
+   "needs_review": null
   },
   {
    "sheet": "Queue",
    "item_id": "m-jacksonville|2026-10-05|dba23752|103e3e2da804",
-   "decision": null,
+   "decision": "Feature",
    "suggested": "Feature",
    "government": "Jacksonville",
-   "description": "NCSPHS Committee amendment: waives the Public Investment Policy to allow Completion Grant incentives totaling $28,250,000 for about 259 residential units and ground-floor retail, at least 30,000 sq ft designed for Publix or a similar grocer. Full council vote pending.",
+   "description": "NCSPHS Committee amendment: waives the Public Investment Policy to allow Completion Grant incentives totaling $28,250,000 for about 259 residential units and ground-floor retail, at least 30,000 sq ft designed for Publix or a similar grocer. The item does not name the developer. Full council vote pending.",
    "shortfall": "Nov 9 (Jacksonville Today): CAO Mike Weinstein: \"Maybe the libraries will be open not quite as long.\" $150M to almost $200M less next budget; $300M by FY2028-29.",
    "amount": 28250000.0,
    "link": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3779&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
@@ -8021,15 +8021,15 @@
    "category": "private_benefit",
    "added": "2026-11-19",
    "project_total": 28250000.0,
-   "needs_review": "The excerpt does not name the developer receiving the grant; publish as described?"
+   "needs_review": null
   },
   {
    "sheet": "Queue",
    "item_id": "c-pasco|2026-06-16|637398d1|f2dcf68fa2bd",
-   "decision": null,
+   "decision": "Keep",
    "suggested": "Keep",
    "government": "Pasco County",
-   "description": "Pasco County Commission considered a joint funding agreement with Lennar Homes, LLC and six other landowner companies for the State Road 52/Old Pasco Road Utilities Corridor, $40,722,000; county share not stated. Direction unclear. Outcome not verified",
+   "description": "Pasco County Commission considered a joint funding agreement with Lennar Homes, LLC and six other landowner companies for the State Road 52/Old Pasco Road Utilities Corridor, $40,722,000; county share not stated. Outcome not verified.",
    "shortfall": null,
    "amount": 40722000.0,
    "link": "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10705,plainText=false)#page=67",
@@ -8038,7 +8038,7 @@
    "category": "large_spending",
    "added": "2026-11-19",
    "project_total": 40722000.0,
-   "needs_review": "Yes. The record does not show the county share of the $40,722,000 or which party pays."
+   "needs_review": null
   },
   {
    "sheet": "Queue",
@@ -9245,7 +9245,7 @@
    "category": "outgoing_grant",
    "added": "2026-11-20",
    "project_total": 125000.0,
-   "needs_review": "No"
+   "needs_review": null
   },
   {
    "sheet": "Queue",
@@ -9347,7 +9347,7 @@
    "category": "private_benefit",
    "added": "2026-11-20",
    "project_total": 35000000.0,
-   "needs_review": "No"
+   "needs_review": null
   },
   {
    "sheet": "Queue",
@@ -9364,7 +9364,7 @@
    "category": "large_spending",
    "added": "2026-11-20",
    "project_total": 1170000.0,
-   "needs_review": "No"
+   "needs_review": null
   },
   {
    "sheet": "Queue",
@@ -9381,7 +9381,7 @@
    "category": "outgoing_grant; private_benefit",
    "added": "2026-11-20",
    "project_total": 200000.0,
-   "needs_review": "Yes. Names a private individual (Elise Fisher) as the grant applicant; publish as described?"
+   "needs_review": null
   },
   {
    "sheet": "Backlog",
@@ -10418,7 +10418,7 @@
    "category": "facilities; debt; private_benefit",
    "added": "2026-11-20",
    "project_total": 796000000.0,
-   "needs_review": "No"
+   "needs_review": null
   },
   {
    "sheet": "Backlog",
@@ -12475,15 +12475,15 @@
    "category": "vanity",
    "added": "2026-11-20",
    "project_total": null,
-   "needs_review": "Names a private individual (artist Flaminio Antonio) as the seller; publish the name as described?"
+   "needs_review": null
   },
   {
    "sheet": "Queue",
    "item_id": "m-coralsprings|2026-08-07|b6465e01|286e6129e304",
-   "decision": null,
+   "decision": "Keep",
    "suggested": "Keep",
    "government": "Coral Springs",
-   "description": "City Commission item 9: waives competitive procurement (Sec. 2-305.1(7)) to award Contract 26-A-268NC for Sponsorship Consulting Services to Sports Facilities Management, LLC, June 2026 through May 2034. No amount stated; funding source listed as Not Applicable. Direction unclear. Outcome not verified.",
+   "description": "Coral Springs City Commission item 9: waives competitive procurement (Sec. 2-305.1(7)) to award Contract 26-A-268NC for Sponsorship Consulting Services to Sports Facilities Management, LLC, June 2026 through May 2034. No amount stated; funding source listed as Not Applicable. Outcome not verified.",
    "shortfall": null,
    "amount": null,
    "link": "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&clip_id=322#page=2",
@@ -12492,7 +12492,7 @@
    "category": "outgoing_grant; consultants; no_bid",
    "added": "2026-11-20",
    "project_total": null,
-   "needs_review": "No amount is stated and funding is listed as Not Applicable, so it is unclear whether the city pays or receives money under this 8-year no-bid contract; publish as described?"
+   "needs_review": null
   },
   {
    "sheet": "Backlog",
@@ -13325,15 +13325,15 @@
    "category": "vanity",
    "added": "2026-11-20",
    "project_total": null,
-   "needs_review": "Names a private individual (artist Sonny Behan); publish the name as described?"
+   "needs_review": null
   },
   {
    "sheet": "Queue",
    "item_id": "c-hillsborough|2026-01-21|2b0662d3|188449bc7714",
-   "decision": null,
+   "decision": "Feature",
    "suggested": "Feature",
    "government": "Hillsborough County",
-   "description": "BOCC B-2: amended and restated Arena Renovation Improvements Agreement with Lightning Hockey LP and Tampa Bay Arena, LLC, plus lease, sublease and guaranty amendments; largest figure in item $250,000,000 (13.4% of general fund). Outcome not verified.",
+   "description": "Hillsborough BOCC B-2: amended and restated Arena Renovation Improvements Agreement with Lightning Hockey LP and Tampa Bay Arena, LLC, plus lease, sublease and guaranty amendments; raises the maximum amount payable from $108.5 million to $358.5 million, a $250,000,000 increase (13.4% of general fund). Outcome not verified.",
    "shortfall": null,
    "amount": 250000000.0,
    "link": "https://eagenda.hillsboroughcounty.org/portal/PTL29560/open/OBJ7Q3748#page=3",
@@ -13342,7 +13342,7 @@
    "category": "facilities; private_benefit",
    "added": "2026-11-20",
    "project_total": 358500000.0,
-   "needs_review": "Item text is cut off; $250,000,000 is the largest figure in it, not a confirmed county commitment. Publish as described?"
+   "needs_review": null
   },
   {
    "sheet": "Backlog",
@@ -13653,7 +13653,7 @@
   {
    "sheet": "Queue",
    "item_id": "m-delraybeach|2026-11-17|63580ca5|9a837f86c82d",
-   "decision": null,
+   "decision": "Keep",
    "suggested": "Keep",
    "government": "Delray Beach",
    "description": "City Commission: Amendment No. 1 to agreement with Man Con, Inc. setting a guaranteed maximum price for construction manager at risk services for the Historic Marine Way seawall; largest figure in item $55,409,005. Outcome not verified.",
@@ -13665,7 +13665,7 @@
    "category": "large_spending",
    "added": "2026-11-20",
    "project_total": null,
-   "needs_review": "Item text is cut off; $55,409,005 is the largest figure in it, not a confirmed GMP. Publish as described?"
+   "needs_review": null
   },
   {
    "sheet": "Backlog",
@@ -14107,7 +14107,7 @@
    "category": "discretionary; employee perks",
    "added": "2026-11-20",
    "project_total": 52800.0,
-   "needs_review": "No"
+   "needs_review": null
   },
   {
    "sheet": "Queue",
