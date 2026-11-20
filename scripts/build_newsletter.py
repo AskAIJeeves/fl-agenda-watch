@@ -62,7 +62,10 @@ def main(today=None):
     t0, t14, t7 = today.isoformat(), (today + dt.timedelta(days=14)).isoformat(), (today - dt.timedelta(days=7)).isoformat()
     spend = [i for i in items if i.get("kind") == "spending" and i.get("meeting_date") and i.get("link")]
     ahead = [i for i in spend if t0 <= i["meeting_date"] <= t14]
-    past = [i for i in spend if t7 <= i["meeting_date"] < t0]
+    t60 = (today - dt.timedelta(days=60)).isoformat()
+    pend = [i for i in spend if i.get("stage") == "pending_final" and t60 <= i["meeting_date"] < t0]
+    pend_ids = {id(i) for i in pend}
+    past = [i for i in spend if t7 <= i["meeting_date"] < t0 and id(i) not in pend_ids]
 
     def pick(rows, county):
         rows = [i for i in rows if county in (i.get("counties") or [])]
@@ -84,8 +87,8 @@ def main(today=None):
     out.append("")
     shown = 0
     for c in counties:
-        a, p = pick(ahead, c), pick(past, c)
-        if not a and not p:
+        a, f, p = pick(ahead, c), pick(pend, c), pick(past, c)
+        if not a and not f and not p:
             continue
         shown += 1
         out.append(f'{{% if "{esc_tag(ALL_TAG)}" in subscriber.tags or "{esc_tag(c)}" in subscriber.tags or not subscriber.tags %}}')
@@ -97,6 +100,13 @@ def main(today=None):
             out += [line(i) for i in a[:PER_SECTION]]
             if len(a) > PER_SECTION:
                 out.append(f"- Plus {len(a) - PER_SECTION} more on [the site]({SITE}/#all).")
+            out.append("")
+        if f:
+            out.append("**Final approval still ahead** (a committee or first reading has acted; the full board has not)")
+            out.append("")
+            out += [line(i) for i in f[:PER_SECTION]]
+            if len(f) > PER_SECTION:
+                out.append(f"- Plus {len(f) - PER_SECTION} more on [the site]({SITE}/#all).")
             out.append("")
         if p:
             out.append("**On an agenda last week**")
