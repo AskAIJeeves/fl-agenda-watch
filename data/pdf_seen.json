@@ -27667,5 +27667,299 @@
   "status": "ok",
   "hits": 1,
   "date": "2026-11-19"
+ },
+ "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3669": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "date": "2026-11-20"
+ },
+ "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=1881": {
+  "status": "ok",
+  "pages": 25,
+  "hits": 0,
+  "date": "2026-11-20"
+ },
+ "https://coralsprings.granicus.com/AgendaViewer.php?view_id=1&event_id=2316": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "date": "2026-11-20"
+ },
+ "https://bocaraton.granicus.com/AgendaViewer.php?view_id=9&clip_id=3137": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "date": "2026-11-20"
+ },
+ "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3646": {
+  "status": "ok",
+  "pages": 3,
+  "hits": 0,
+  "date": "2026-11-20"
+ },
+ "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&event_id=1526": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "date": "2026-11-20"
+ },
+ "https://margatefl.granicus.com/AgendaViewer.php?view_id=1&event_id=1525": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "date": "2026-11-20"
+ },
+ "https://keywestcity.granicus.com/AgendaViewer.php?view_id=1&clip_id=2092": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "date": "2026-11-20"
+ },
+ "https://keywestcity.granicus.com/AgendaViewer.php?view_id=1&clip_id=2091": {
+  "status": "not_pdf",
+  "date": "2026-11-20"
+ },
+ "https://winterspringsfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=1232": {
+  "status": "ok",
+  "pages": 3,
+  "hits": 0,
+  "date": "2026-11-20"
+ },
+ "https://cityofedgewater.granicus.com/AgendaViewer.php?view_id=2&clip_id=1794": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "date": "2026-11-20"
+ },
+ "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&event_id=2294": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "date": "2026-11-20"
+ },
+ "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4629": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "date": "2026-11-20"
+ },
+ "https://oaklandparkfl.granicus.com/AgendaViewer.php?view_id=5&clip_id=4626": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "date": "2026-11-20"
+ },
+ "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10234,plainText=false)": {
+  "status": "ok",
+  "pages": 4,
+  "hits": 0,
+  "chars": 7343,
+  "date": "2026-11-20"
+ },
+ "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10237,plainText=false)": {
+  "status": "ok",
+  "pages": 400,
+  "hits": 13,
+  "chars": 420884,
+  "date": "2026-11-20"
+ },
+ "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10238,plainText=false)": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "chars": 1060,
+  "date": "2026-11-20"
+ },
+ "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9743,plainText=false)": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "chars": 3389,
+  "date": "2026-11-20"
+ },
+ "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9744,plainText=false)": {
+  "status": "ok",
+  "pages": 6,
+  "hits": 0,
+  "chars": 7990,
+  "date": "2026-11-20"
+ },
+ "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2566,plainText=false)": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "chars": 1599,
+  "date": "2026-11-20"
+ },
+ "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2567,plainText=false)": {
+  "status": "ok",
+  "pages": 24,
+  "hits": 0,
+  "chars": 11217,
+  "date": "2026-11-20"
+ },
+ "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3946,plainText=false)": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "chars": 1474,
+  "date": "2026-11-20"
+ },
+ "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3947,plainText=false)": {
+  "status": "ok",
+  "pages": 14,
+  "hits": 0,
+  "chars": 22517,
+  "date": "2026-11-20"
+ },
+ "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7123,plainText=false)": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "chars": 2197,
+  "date": "2026-11-20"
+ },
+ "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7124,plainText=false)": {
+  "status": "ok",
+  "pages": 9,
+  "hits": 0,
+  "chars": 10993,
+  "date": "2026-11-20"
+ },
+ "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7126,plainText=false)": {
+  "status": "ok",
+  "pages": 4,
+  "hits": 2,
+  "chars": 7248,
+  "date": "2026-11-20"
+ },
+ "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7127,plainText=false)": {
+  "status": "ok",
+  "pages": 358,
+  "hits": 22,
+  "chars": 548492,
+  "date": "2026-11-20"
+ },
+ "https://lynnhavenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2185,plainText=false)": {
+  "status": "ok",
+  "pages": 16,
+  "hits": 0,
+  "chars": 29182,
+  "date": "2026-11-20"
+ },
+ "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4390,plainText=false)": {
+  "status": "ok",
+  "pages": 27,
+  "hits": 0,
+  "chars": 27996,
+  "date": "2026-11-20"
+ },
+ "https://jacksoncofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3917,plainText=false)": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "chars": 2728,
+  "date": "2026-11-20"
+ },
+ "https://jacksoncofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3922,plainText=false)": {
+  "status": "ok",
+  "pages": 177,
+  "hits": 21,
+  "chars": 312886,
+  "date": "2026-11-20"
+ },
+ "https://codb.civicweb.net/document/234163/Planning%20Board%20-%20Nov%2019%202026.pdf?handle=0EBEF4B48D86407E8293D0CA38A24518": {
+  "status": "ok",
+  "pages": 165,
+  "hits": 0,
+  "date": "2026-11-20"
+ },
+ "https://pub-miamilakes.escribemeetings.com/Meeting.aspx?Id=e7df1a5a-2f09-4bd4-8969-32a497437d0f&Agenda=Agenda&lang=English": {
+  "status": "ok",
+  "hits": 0,
+  "date": "2026-11-20"
+ },
+ "https://pub-hainescity.escribemeetings.com/Meeting.aspx?Id=3f68f14e-298e-4ebb-900f-05fd2c6598f8&Agenda=Agenda&lang=English": {
+  "status": "ok",
+  "hits": 1,
+  "date": "2026-11-20"
+ },
+ "https://pub-hainescity.escribemeetings.com/Meeting.aspx?Id=8eec43cd-f605-4c3e-876a-0973f065b1b4&Agenda=Agenda&lang=English": {
+  "status": "ok",
+  "hits": 0,
+  "date": "2026-11-20"
+ },
+ "https://pub-hainescity.escribemeetings.com/Meeting.aspx?Id=d6e43e98-fd51-4fef-98fc-bd4b9e8d6114&Agenda=Agenda&lang=English": {
+  "status": "ok",
+  "hits": 0,
+  "date": "2026-11-20"
+ },
+ "https://pub-hainescity.escribemeetings.com/Meeting.aspx?Id=3796f530-9405-4f2a-a651-fd3c48e80b99&Agenda=Agenda&lang=English": {
+  "status": "ok",
+  "hits": 0,
+  "date": "2026-11-20"
+ },
+ "boarddocs-item:DZ9N3N5DFD4D": {
+  "status": "ok",
+  "date": "2026-11-20"
+ },
+ "boarddocs-item:DZKQRT6A9CE0": {
+  "status": "ok",
+  "date": "2026-11-20"
+ },
+ "boarddocs-item:DZGQHA695C58": {
+  "status": "ok",
+  "date": "2026-11-20"
+ },
+ "boarddocs-item:DZPJCJ4C8A5D": {
+  "status": "ok",
+  "date": "2026-11-20"
+ },
+ "boarddocs-item:DZPQRD6A8C5F": {
+  "status": "ok",
+  "date": "2026-11-20"
+ },
+ "boarddocs-item:DZJP4X62DE00": {
+  "status": "ok",
+  "date": "2026-11-20"
+ },
+ "boarddocs-item:DZJP66630B17": {
+  "status": "ok",
+  "date": "2026-11-20"
+ },
+ "boarddocs-item:DZVM5Y59A498": {
+  "status": "ok",
+  "date": "2026-11-20"
+ },
+ "boarddocs-item:DZWKKG523E89": {
+  "status": "ok",
+  "date": "2026-11-20"
+ },
+ "boarddocs-item:DZWLVW5875C5": {
+  "status": "ok",
+  "date": "2026-11-20"
+ },
+ "boarddocs:fl/putnam:DXTHZD4AA9FF": {
+  "status": "ok",
+  "hits": 0,
+  "date": "2026-11-20"
+ },
+ "boarddocs:fl/putnam:DY2GYP461E65": {
+  "status": "ok",
+  "hits": 0,
+  "date": "2026-11-20"
+ },
+ "https://miamibeachfl.primegov.com/Public/CompiledDocument?meetingTemplateId=5727&compileOutputType=1": {
+  "status": "ok",
+  "pages": 3,
+  "hits": 0,
+  "date": "2026-11-20"
+ },
+ "https://tampagov.hylandcloud.com/251agendaonline/Documents/DownloadFileBytes/City_Council_Regular_-_November_19,_2026_2941_Agenda_11_19_2026_9_00_00_AM.pdf?documentType=1&meetingId=2941": {
+  "status": "ok",
+  "pages": 25,
+  "hits": 37,
+  "date": "2026-11-20"
  }
 }

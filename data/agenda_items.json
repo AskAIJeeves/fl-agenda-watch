@@ -1,6 +1,6 @@
 {
- "generated_utc": "2026-11-19T18:35:36+00:00",
- "count": 122,
+ "generated_utc": "2026-11-20T14:54:51+00:00",
+ "count": 136,
  "items": [
   {
    "entity_id": "m-jacksonville",
@@ -42,6 +42,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -124,6 +128,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -159,6 +167,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -291,6 +303,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -324,6 +340,39 @@
      "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
      "meeting_date": "2026-11-16"
     },
+    {
+     "body": "Finance Committee",
+     "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "Finance Committee",
+   "meeting_date": "2026-11-17",
+   "agenda_number": null,
+   "file_number": null,
+   "title": "Council Auditor Phillip Peterson to discuss Report #909: Budget Summary Fiscal Year 2026/27\r\n\r\nMr. Peterson reviewed report #909, which covers all of the approved budget items for this fiscal year. CM Lahnen noted that the budget is essentially flat compared to last year. CM Salem asked about estimates for the cost to move police and fire employees into the state retirement plan.\r\nMr. Peterson also spoke about the impact of the passing of Amendment 3 and the reduction in revenue in FY 27-28 of roughly $200 million. CM Johnson asked about the commercial property revenue estimated from the N7 project. ",
+   "max_amount": 200000000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 200000000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 4.3,
+   "keywords": [],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3822&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": "https://jaxcityc.legistar1.com/jaxcityc/meetings/2026/11/3822_A_Finance_Committee_26-11-17_Agenda.pdf",
+   "item_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3822&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "appearances": [
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
@@ -363,6 +412,41 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "City Council",
+   "meeting_date": "2026-11-24",
+   "agenda_number": "143.",
+   "file_number": "2026-0950",
+   "title": "ORD Approp $15,000 from the Council Operating Contingency - Contingency Acct to the SEEL Elections-Other Gen Governmental - Advertising & Promotion Acct to Prov Funding to the SOE for Advertising Related to the 2027 Gen Election (Staffopoulos) (Introduced by CM Howland)\r\n11/24/26 CO Introduced: NCSPHS, F \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 12/8/26",
+   "max_amount": 15000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 15000.0,
+   "signals": [
+    "vanity"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "SEEL Elections-Other Gen Governmental",
+   "signal_score": 4.2,
+   "keywords": [],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3737&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": null,
+   "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9086",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -398,6 +482,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -437,6 +525,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -505,6 +597,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -572,6 +668,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -640,6 +740,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -679,6 +783,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -715,6 +823,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -859,6 +971,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -1030,6 +1146,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -1063,6 +1183,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -1223,6 +1347,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -1268,6 +1396,68 @@
    "entity_id": "m-jacksonville",
    "government": "Jacksonville",
    "client": "jaxcityc",
+   "body": "City Council",
+   "meeting_date": "2026-11-24",
+   "agenda_number": "139.",
+   "file_number": "2026-0946",
+   "title": "ORD Approp $157,498.00, Which Includes $78,747.00 in Grant Funding From the FL FWC Commission  Funded Through the FL Boating Improvement Prog, & a Required City Match of $78,751.00 From the Federal Matching Grants Activity Acct, to Fund the Construction of Improvements to the Arlington Rd Boat Ramp; Amend the 2027-2031 5-Yr CIP Appvd by Ord 2026-505-E to Prov Funding for the Proj Entitled \u201cArlington Road Boat Ramp\u201d; Prov for Oversight by the Parks, Recreation & Community Svcs Dept (B.T. 27-030) (Dillard) (Req of the Mayor)\r\n11/24/26 CO Introduced: NCSPHS, F, JWC\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 12/8/26",
+   "max_amount": 157498.0,
+   "flow": "out",
+   "funding_source": "special_revenue",
+   "signed_amount": 157498.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Fund the Construction of Improvements",
+   "signal_score": 3.2,
+   "keywords": [
+    "construction"
+   ],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3737&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": null,
+   "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9082",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-hollywood",
+   "government": "Hollywood",
+   "client": "hollywoodfl",
+   "body": "Regular City Commission Meeting",
+   "meeting_date": "2026-11-30",
+   "agenda_number": "12",
+   "file_number": "R-2026-380",
+   "title": "A Resolution Of The City Commission Of The City Of Hollywood, Florida, Authorizing The Appropriate City Officials To Execute Applicable Documents With EAN Services, LLC For Short-Term Vehicle Rental Services In An Annual Amount Up To $150,000.00 Over A Five-Year Period Based Upon Contract #26-C-141F In Accordance With Section 38.41(C)(12) Of The Procurement Code. (Cooperative Purchasing)",
+   "max_amount": 150000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 150000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3.2,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://hollywoodfl.legistar.com/MeetingDetail.aspx?LEGID=2744&GID=353&G=7678503F-1AF8-4553-B6C1-FBE4E5357BA8",
+   "agenda_pdf": "https://legistar.granicus.com/hollywoodfl/meetings/2026/11/2744_A_Regular_City_Commission_Meeting_26-11-30_Meeting_Agenda.pdf",
+   "item_url": "https://hollywoodfl.legistar.com/gateway.aspx?M=L&ID=21379",
+   "appearances": [
+    {
+     "body": "Regular City Commission Meeting",
+     "meeting_date": "2026-11-30"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
    "body": "Neighborhoods, Community Services, Public Health and Safety Committee",
    "meeting_date": "2026-11-16",
    "agenda_number": null,
@@ -1294,6 +1484,39 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-portstlucie",
+   "government": "Port St. Lucie",
+   "client": "psl",
+   "body": "City Council",
+   "meeting_date": "2026-11-20",
+   "agenda_number": "7.b",
+   "file_number": "2026-1073",
+   "title": "Approve Piggybacking the City of West Palm Beach Contract #35325.001 for Utility Rate and Financial Consulting Services under City Contract #20270006.",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [
+    "consultants"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 3,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://psl.legistar.com/MeetingDetail.aspx?LEGID=3048&GID=747&G=597EF6D8-E9C6-40B6-8081-E988A76B06A6",
+   "agenda_pdf": null,
+   "item_url": "https://psl.legistar.com/gateway.aspx?M=L&ID=12122",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-20"
     }
    ]
   },
@@ -1395,6 +1618,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -1424,6 +1651,64 @@
     {
      "body": "Road and Drainage District Governing Body",
      "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "City Council",
+   "meeting_date": "2026-11-24",
+   "agenda_number": "133.",
+   "file_number": "2026-0940",
+   "title": "ORD Approp $50,000.00 in Grant Funding From the State of FL, Dept of State, Div of Historical Resources Funded Through a Small Matching Grant to Prov Funding for the Durkeeville Neighborhood Survey Update Proj; Prov for Oversight by the Planning & Dev Dept (B.T. 27-034) (Dillard) (Req of the Mayor)\r\n11/24/26 CO Introduced: NCSPHS, F\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 12/8/26",
+   "max_amount": 50000.0,
+   "flow": "out",
+   "funding_source": "special_revenue",
+   "signed_amount": 50000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Prov Funding for the Durkeeville Neighborhood Survey Update Proj",
+   "signal_score": 2.7,
+   "keywords": [],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3737&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": null,
+   "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9076",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "City Council",
+   "meeting_date": "2026-11-24",
+   "agenda_number": "140.",
+   "file_number": "2026-0947",
+   "title": "ORD Approp $50,000.00 in Grant Funding From the State of FL, Dept of State, Div of Historical Resources Funded Through the Abandoned African-American Cemeteries Grant Prog; Amend the 2027-2031 5-Yr CIP Appvd by Ord 2026-505-E to Prov Funding for the Proj Entitled \u201cMt. Herman Cemetery\u201d; Prov for Oversight by the Parks, Recreation & Community Svcs Dept (B.T. 27-031) (Dillard) (Req of the Mayor)\r\n11/24/26 CO Introduced: NCSPHS, F\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 12/8/26",
+   "max_amount": 50000.0,
+   "flow": "out",
+   "funding_source": "special_revenue",
+   "signed_amount": 50000.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Prov Funding for the Proj Entitled",
+   "signal_score": 2.7,
+   "keywords": [],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3737&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": null,
+   "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9083",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -1484,6 +1769,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -1611,6 +1900,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -1708,6 +2001,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -1935,6 +2232,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -1997,6 +2298,38 @@
     {
      "body": "CITY COMMISSION REGULAR MEETING",
      "meeting_date": "2026-11-18"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-hollywood",
+   "government": "Hollywood",
+   "client": "hollywoodfl",
+   "body": "Regular City Commission Meeting",
+   "meeting_date": "2026-11-30",
+   "agenda_number": "16",
+   "file_number": "R-2026-382",
+   "title": "A Resolution Of The City Commission Of The City Of Hollywood, Florida, Authorizing The Appropriate City Officials To Execute An Agreement With Axon Enterprise, Inc. For Body-Worn Cameras, Tasers, Software, Maintenance, And Other Investigative Equipment In An Amount Up To $2,000,000.00 Annually For A Five-Year Period In Accordance With Section 38.41(C)(9) Of The Procurement Code. (Best Interest)",
+   "max_amount": 2000000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 2000000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2.3,
+   "keywords": [
+    "agreement",
+    "contract"
+   ],
+   "meeting_url": "https://hollywoodfl.legistar.com/MeetingDetail.aspx?LEGID=2744&GID=353&G=7678503F-1AF8-4553-B6C1-FBE4E5357BA8",
+   "agenda_pdf": "https://legistar.granicus.com/hollywoodfl/meetings/2026/11/2744_A_Regular_City_Commission_Meeting_26-11-30_Meeting_Agenda.pdf",
+   "item_url": "https://hollywoodfl.legistar.com/gateway.aspx?M=L&ID=21266",
+   "appearances": [
+    {
+     "body": "Regular City Commission Meeting",
+     "meeting_date": "2026-11-30"
     }
    ]
   },
@@ -2090,6 +2423,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -2156,35 +2493,6 @@
    ]
   },
   {
-   "entity_id": "c-desoto",
-   "government": "DeSoto County",
-   "client": "desotobocc",
-   "body": "Economic Development Advisory Committee",
-   "meeting_date": "2026-11-12",
-   "agenda_number": null,
-   "file_number": "26-2139",
-   "title": "SFSC Grant for Agriculture Innovation",
-   "max_amount": null,
-   "flow": "out",
-   "funding_source": "unstated",
-   "signed_amount": null,
-   "signals": [],
-   "outgoing_grant": true,
-   "bypass_competition": false,
-   "recipient": "Agriculture Innovation",
-   "signal_score": 2,
-   "keywords": [],
-   "meeting_url": "https://desotobocc.legistar.com/MeetingDetail.aspx?LEGID=3766&GID=814&G=C2D09B7C-BEF7-4276-A1C7-C5CC55E06B6D",
-   "agenda_pdf": "https://desotobocc.legistar1.com/desotobocc/meetings/2026/11/3766_A_Economic_Development_Advisory_Committee_26-11-12_Meeting_Agenda_%28Published_with_Hyperlinks%29.pdf",
-   "item_url": "https://desotobocc.legistar.com/gateway.aspx?M=L&ID=7207",
-   "appearances": [
-    {
-     "body": "Economic Development Advisory Committee",
-     "meeting_date": "2026-11-12"
-    }
-   ]
-  },
-  {
    "entity_id": "c-pinellas",
    "government": "Pinellas County",
    "client": "pinellas",
@@ -2241,6 +2549,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
@@ -2400,6 +2712,95 @@
    ]
   },
   {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "City Council",
+   "meeting_date": "2026-11-24",
+   "agenda_number": "120.",
+   "file_number": "2026-0962",
+   "title": "RESO Conf the Mayor\u2019s Reappt of Dr. Thomas Geismar, a Duval County Resident, as a Member of the PSG Council With Grant Experience, Pursuant to Ch 80 (Public Service Grant Council), Ord Code, for a 2nd Full Term to Exp on 12/31/2029 (Smith) (Req of the Mayor)\r\n11/24/26 CO Introduced: R",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3737&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": null,
+   "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9097",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "City Council",
+   "meeting_date": "2026-11-24",
+   "agenda_number": "130.",
+   "file_number": "2026-0937",
+   "title": "ORD Apv & Auth the Mayor, or Her Desig, & the Corp Sec, to Execute & Deliver an Amended & Restated Financial Svcs Contract btwn the City & the PFPF, to Include an Updated Scope of Svcs & Billing Structure, Clarify the Timing of City\u2019s Annual Employer Contribution to the Police & Firefighters Pension Plan, & Prov for Quarterly Reimbursement of the City\u2019s Pension Benefit Payments; Further Auth the Director of Finance, or Her Desig, to Execute Amdts to the Scope of Svcs of the Agrmt That Do Not Increase the Financial Obligations of the City; Prov for Oversight by the Finance Dept (Dillard) (Req of Mayor)\r\n11/24/26 CO Introduced: F \r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 12/8/26",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Execute",
+   "signal_score": 2,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3737&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": null,
+   "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9073",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-jacksonville",
+   "government": "Jacksonville",
+   "client": "jaxcityc",
+   "body": "City Council",
+   "meeting_date": "2026-11-24",
+   "agenda_number": "135.",
+   "file_number": "2026-0942",
+   "title": "ORD Auth the Mayor to Apply to the FL Inland Navigation Dist (FIND) for 2027 Grants to Undertake Specified Waterways-Related Projs; Auth the Mayor, or Her Desig, & the Corp Sec to Execute & Deliver All Grant Agrmts Btwn the City & FIND, as Well as All Docs Related to Such Grants; Acknowledging Willingness to Meet Funding Reqs; Prov for City Oversight by the Dept of Parks, Recreation & Community Svcs (Dillard) (Req of the Mayor)\r\n11/24/26 CO Introduced: NCSPHS, F, JWC\r\nPublic Hearing Pursuant to Ch 166, F.S. & C.R. 3.601 - 12/8/26",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "FL Inland Navigation Dist",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://jaxcityc.legistar.com/MeetingDetail.aspx?LEGID=3737&GID=756&G=5C328780-15E9-4A99-A06C-56338DCE410E",
+   "agenda_pdf": null,
+   "item_url": "https://jaxcityc.legistar.com/gateway.aspx?M=L&ID=9078",
+   "appearances": [
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
+    }
+   ]
+  },
+  {
    "entity_id": "m-clearwater",
    "government": "Clearwater",
    "client": "clearwater",
@@ -2463,6 +2864,35 @@
     {
      "body": "Solid Waste District Governing Body",
      "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-hollywood",
+   "government": "Hollywood",
+   "client": "hollywoodfl",
+   "body": "Regular City Commission Meeting",
+   "meeting_date": "2026-11-30",
+   "agenda_number": "10",
+   "file_number": "R-2026-378",
+   "title": "A Resolution Of The City Commission Of The City Of Hollywood, Florida, Approving And Authorizing The Appropriate City Officials To Execute Agreements With Quality Wiring, Inc., Unitec Inc., And GA Technical Services, Inc., The Lowest Responsive And Responsible Bidders, To Provide Telecommunication Wiring, Wireless Radio, And Antenna Installation Services In A Combined Annual Amount Up To $750,000.00 Among All Bidders Over An Initial Six-Year Term.",
+   "max_amount": 750000.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 750000.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.9,
+   "keywords": [],
+   "meeting_url": "https://hollywoodfl.legistar.com/MeetingDetail.aspx?LEGID=2744&GID=353&G=7678503F-1AF8-4553-B6C1-FBE4E5357BA8",
+   "agenda_pdf": "https://legistar.granicus.com/hollywoodfl/meetings/2026/11/2744_A_Regular_City_Commission_Meeting_26-11-30_Meeting_Agenda.pdf",
+   "item_url": "https://hollywoodfl.legistar.com/gateway.aspx?M=L&ID=21369",
+   "appearances": [
+    {
+     "body": "Regular City Commission Meeting",
+     "meeting_date": "2026-11-30"
     }
    ]
   },
@@ -2593,6 +3023,35 @@
    ]
   },
   {
+   "entity_id": "m-hollywood",
+   "government": "Hollywood",
+   "client": "hollywoodfl",
+   "body": "Regular City Commission Meeting",
+   "meeting_date": "2026-11-30",
+   "agenda_number": "9",
+   "file_number": "R-2026-377",
+   "title": "A Resolution Of The City Commission Of The City Of Hollywood, Florida, Approving And Authorizing The Appropriate City Officials To Execute Authorization To Proceed Number One For R.J. Behar & Company, Inc. For Professional Engineering Services For The Design Of The Johnson Street Complete Streets Project (Holl-038), A Broward County Transportation Surtax Project, In An Amount Up To $469,138.25; Amending The Fiscal Year 2027 Operating Budget And Capital Improvement Plan.",
+   "max_amount": 469138.0,
+   "flow": "out",
+   "funding_source": "special_revenue",
+   "signed_amount": 469138.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.7,
+   "keywords": [],
+   "meeting_url": "https://hollywoodfl.legistar.com/MeetingDetail.aspx?LEGID=2744&GID=353&G=7678503F-1AF8-4553-B6C1-FBE4E5357BA8",
+   "agenda_pdf": "https://legistar.granicus.com/hollywoodfl/meetings/2026/11/2744_A_Regular_City_Commission_Meeting_26-11-30_Meeting_Agenda.pdf",
+   "item_url": "https://hollywoodfl.legistar.com/gateway.aspx?M=L&ID=21344",
+   "appearances": [
+    {
+     "body": "Regular City Commission Meeting",
+     "meeting_date": "2026-11-30"
+    }
+   ]
+  },
+  {
    "entity_id": "c-marion",
    "government": "Marion County",
    "client": "marionfl",
@@ -2653,6 +3112,39 @@
     {
      "body": "Board of County Commissioners",
      "meeting_date": "2026-11-17"
+    }
+   ]
+  },
+  {
+   "entity_id": "m-hollywood",
+   "government": "Hollywood",
+   "client": "hollywoodfl",
+   "body": "Regular City Commission Meeting",
+   "meeting_date": "2026-11-30",
+   "agenda_number": "8",
+   "file_number": "R-2026-376",
+   "title": "A Resolution Of The City Commission Of The City Of Hollywood, Florida, Approving And Authorizing The Appropriate City Officials To Execute A Construction Management At Risk Phase II Construction Services Agreement With Journey C&D Group Inc. To Provide Construction Management At Risk Services For The Poinciana Park Restroom Project, A Capital Improvement Project, For A Total Guaranteed Maximum Price In An Amount Up To $397,012.02.",
+   "max_amount": 397012.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 397012.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.6,
+   "keywords": [
+    "agreement",
+    "construction",
+    "guaranteed maximum price"
+   ],
+   "meeting_url": "https://hollywoodfl.legistar.com/MeetingDetail.aspx?LEGID=2744&GID=353&G=7678503F-1AF8-4553-B6C1-FBE4E5357BA8",
+   "agenda_pdf": "https://legistar.granicus.com/hollywoodfl/meetings/2026/11/2744_A_Regular_City_Commission_Meeting_26-11-30_Meeting_Agenda.pdf",
+   "item_url": "https://hollywoodfl.legistar.com/gateway.aspx?M=L&ID=21335",
+   "appearances": [
+    {
+     "body": "Regular City Commission Meeting",
+     "meeting_date": "2026-11-30"
     }
    ]
   },
@@ -2881,6 +3373,40 @@
    ]
   },
   {
+   "entity_id": "m-hollywood",
+   "government": "Hollywood",
+   "client": "hollywoodfl",
+   "body": "Regular City Commission Meeting",
+   "meeting_date": "2026-11-30",
+   "agenda_number": "7",
+   "file_number": "R-2026-375",
+   "title": "A Resolution Of The City Commission Of The City Of Hollywood, Florida, Approving And Authorizing The Appropriate City Officials To Execute A Construction Management At Risk Phase II Construction Services Agreement With Journey C&D Group Inc. To Provide Construction Management At Risk Services For The Oak Lake Adult Daycare Center Project, A Capital Improvement Project, For A Total Guaranteed Maximum Price In An Amount Up To $336,252.40.",
+   "max_amount": 336252.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 336252.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": false,
+   "recipient": null,
+   "signal_score": 1.5,
+   "keywords": [
+    "agreement",
+    "construction",
+    "gmp",
+    "guaranteed maximum price"
+   ],
+   "meeting_url": "https://hollywoodfl.legistar.com/MeetingDetail.aspx?LEGID=2744&GID=353&G=7678503F-1AF8-4553-B6C1-FBE4E5357BA8",
+   "agenda_pdf": "https://legistar.granicus.com/hollywoodfl/meetings/2026/11/2744_A_Regular_City_Commission_Meeting_26-11-30_Meeting_Agenda.pdf",
+   "item_url": "https://hollywoodfl.legistar.com/gateway.aspx?M=L&ID=21334",
+   "appearances": [
+    {
+     "body": "Regular City Commission Meeting",
+     "meeting_date": "2026-11-30"
+    }
+   ]
+  },
+  {
    "entity_id": "m-jacksonville",
    "government": "Jacksonville",
    "client": "jaxcityc",
@@ -2912,6 +3438,10 @@
     {
      "body": "Finance Committee",
      "meeting_date": "2026-11-17"
+    },
+    {
+     "body": "City Council",
+     "meeting_date": "2026-11-24"
     }
    ]
   },
