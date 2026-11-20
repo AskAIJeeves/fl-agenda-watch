@@ -10700,6 +10700,11 @@
    "hits": 0,
    "status": "ok"
   },
+  "https://miamibeachfl.primegov.com/Public/CompiledDocument?meetingTemplateId=5727&compileOutputType=1": {
+   "date": "2026-11-19",
+   "hits": 0,
+   "status": "ok"
+  },
   "https://miamibeachfl.primegov.com/Public/CompiledDocument?meetingTemplateId=5742&compileOutputType=1": {
    "date": "2026-02-10",
    "hits": 0,
@@ -18806,5 +18811,5 @@
    "status": "ok"
   }
  },
- "updated_utc": "2026-11-20T02:22:05+00:00"
+ "updated_utc": "2026-11-20T11:46:51+00:00"
 }
