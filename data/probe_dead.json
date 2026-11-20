@@ -1,0 +1,491 @@
+{
+ "generated_utc": "2026-11-20T17:10:09+00:00",
+ "results": {
+  "legistar:martin": {
+   "url": "https://webapi.legistar.com/v1/martin/events?$top=3&$orderby=EventDate%20desc",
+   "status": 200,
+   "final_url": "https://webapi.legistar.com/v1/martin/events?$top=3&$orderby=EventDate%20desc",
+   "bytes": 2791,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 9,
+   "snippet": "[{\"EventId\":2930,\"EventGuid\":\"AEEB4E2E-297F-4687-9E00-0B8E0F121CED\",\"EventLastModifiedUtc\":\"2026-10-07T14:39:39.547\",\"EventRowVersion\":\"AAAAAAEWW8w=\",\"EventBodyId\":210,\"EventBodyName\":\"Tourist Development Council\",\"EventDate\":\"2026-12-09T00:00:00\",\"EventTime\":\"3:00 PM\",\"EventVideoStatus\":\"Public\",\"E"
+  },
+  "legistar:hernandocountyfl": {
+   "url": "https://webapi.legistar.com/v1/hernandocountyfl/events?$top=3&$orderby=EventDate%20desc",
+   "status": 200,
+   "final_url": "https://webapi.legistar.com/v1/hernandocountyfl/events?$top=3&$orderby=EventDate%20desc",
+   "bytes": 2749,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 7,
+   "snippet": "[{\"EventId\":1500,\"EventGuid\":\"BD75F1AD-B4B7-4722-A418-A0FBA7C78E8A\",\"EventLastModifiedUtc\":\"2025-09-25T17:32:33.63\",\"EventRowVersion\":\"AAAAAAFWDZ8=\",\"EventBodyId\":138,\"EventBodyName\":\"Board of County Commissioners\",\"EventDate\":\"2026-12-01T00:00:00\",\"EventTime\":\"9:00 AM\",\"EventVideoStatus\":\"Public\",\""
+  },
+  "legistar:coralgables": {
+   "url": "https://webapi.legistar.com/v1/coralgables/events?$top=3&$orderby=EventDate%20desc",
+   "status": 200,
+   "final_url": "https://webapi.legistar.com/v1/coralgables/events?$top=3&$orderby=EventDate%20desc",
+   "bytes": 2782,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 7,
+   "snippet": "[{\"EventId\":5146,\"EventGuid\":\"DC9DB46E-A9CA-43C4-A4CC-6D6FC2CE85D2\",\"EventLastModifiedUtc\":\"2025-12-12T22:21:05.703\",\"EventRowVersion\":\"AAAAAAH5WFc=\",\"EventBodyId\":32,\"EventBodyName\":\"Construction Regulation Board\",\"EventDate\":\"2026-12-14T00:00:00\",\"EventTime\":\"2:00 PM\",\"EventVideoStatus\":\"Public\",\""
+  },
+  "legistar:margatefl": {
+   "url": "https://webapi.legistar.com/v1/margatefl/events?$top=3&$orderby=EventDate%20desc",
+   "status": 200,
+   "final_url": "https://webapi.legistar.com/v1/margatefl/events?$top=3&$orderby=EventDate%20desc",
+   "bytes": 2561,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 8,
+   "snippet": "[{\"EventId\":3118,\"EventGuid\":\"105FFBB8-AEDF-4BF8-B4B3-1BDE64574D86\",\"EventLastModifiedUtc\":\"2026-07-02T15:50:52.603\",\"EventRowVersion\":\"AAAAAADDpdI=\",\"EventBodyId\":199,\"EventBodyName\":\"Special Magistrate\",\"EventDate\":\"2026-12-15T00:00:00\",\"EventTime\":\"2:00 PM\",\"EventVideoStatus\":\"Public\",\"EventAgend"
+  },
+  "legistar:hallandalebeach": {
+   "url": "https://webapi.legistar.com/v1/hallandalebeach/events?$top=3&$orderby=EventDate%20desc",
+   "status": 200,
+   "final_url": "https://webapi.legistar.com/v1/hallandalebeach/events?$top=3&$orderby=EventDate%20desc",
+   "bytes": 2461,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 5,
+   "snippet": "[{\"EventId\":2211,\"EventGuid\":\"E5A4A00B-49A9-4A1A-A597-B195A753D794\",\"EventLastModifiedUtc\":\"2025-10-23T17:49:12.05\",\"EventRowVersion\":\"AAAAAADcFEI=\",\"EventBodyId\":138,\"EventBodyName\":\"City Commission\",\"EventDate\":\"2026-12-16T00:00:00\",\"EventTime\":\"5:30 PM\",\"EventVideoStatus\":\"Public\",\"EventAgendaSta"
+  },
+  "legistar-web:martin": {
+   "url": "https://martin.legistar.com/Calendar.aspx",
+   "status": 200,
+   "final_url": "https://martin.legistar.com/Calendar.aspx",
+   "bytes": 277544,
+   "challenge": false,
+   "pdf_links": 38,
+   "dates_2026": 105,
+   "snippet": "Martin County - Meetings .skip-to-content { position: absolute; left: -9999px; top: auto; width: 1px; height: 1px; overflow: hidden; z-index: 100; color: #0443B0; padding: 10px; text-decoration: none; font-family: \"Segoe UI\", Arial, Helvetica, sans-serif; font-size: 14px; background: #fff; } .skip-t"
+  },
+  "iqm2:okaloosa rss": {
+   "url": "https://okaloosacountyfl.iqm2.com/Services/RSS.aspx?Feed=Calendar",
+   "status": 200,
+   "final_url": "https://okaloosacountyfl.iqm2.com/Services/RSS.aspx?Feed=Calendar",
+   "bytes": 10268,
+   "challenge": false,
+   "pdf_links": 24,
+   "dates_2026": 8,
+   "snippet": "RSS Feed RSS Feed Okaloosa County - Meeting Calendar Okaloosa County, Florida - Meeting Calendar of Agendas, Minutes and Media Board of County Commissioners - Agenda - Nov 17, 2026 8:30 AM View Web Agenda Downloads: Public Agenda | Full Agenda Published on: Mon, 16 Nov 2026 23:58:00 GMT Board of Cou"
+  },
+  "iqm2:okaloosa cal": {
+   "url": "https://okaloosacountyfl.iqm2.com/Citizens/Calendar.aspx",
+   "status": 200,
+   "final_url": "https://okaloosacountyfl.iqm2.com/Citizens/Calendar.aspx",
+   "bytes": 108773,
+   "challenge": false,
+   "pdf_links": 68,
+   "dates_2026": 10,
+   "snippet": "Meeting Calendar - Okaloosa County, Florida !function () { var a, b, c, d = window, e = document, f = arguments, g = \"script\", h = [\"config\", \"track\", \"trackForm\", \"trackClick\", \"identify\", \"visit\", \"push\", \"call\"], i = function () { var a, b = this, c = function (a) { b[a] = function () { return b."
+  },
+  "iqm2:miami rss": {
+   "url": "https://miamifl.iqm2.com/Services/RSS.aspx?Feed=Calendar",
+   "status": 200,
+   "final_url": "https://miamifl.iqm2.com/Services/RSS.aspx?Feed=Calendar",
+   "bytes": 56008,
+   "challenge": false,
+   "pdf_links": 213,
+   "dates_2026": 73,
+   "snippet": "RSS Feed RSS Feed City of Miami - Meeting Calendar Miami, FL - Meeting Calendar of Agendas, Minutes and Media Southeast Overtown/Park West CRA - Agenda - Nov 19, 2026 10:00 AM View Web Agenda Downloads: Public Agenda | Full Agenda Published on: Thu, 12 Nov 2026 22:53:29 GMT OMNI Community Redevelopm"
+  },
+  "iqm2:miami cal": {
+   "url": "https://miamifl.iqm2.com/Citizens/Calendar.aspx",
+   "status": 200,
+   "final_url": "https://miamifl.iqm2.com/Citizens/Calendar.aspx",
+   "bytes": 399992,
+   "challenge": false,
+   "pdf_links": 469,
+   "dates_2026": 4,
+   "snippet": "Meeting Calendar - Miami, FL !function () { var a, b, c, d = window, e = document, f = arguments, g = \"script\", h = [\"config\", \"track\", \"trackForm\", \"trackClick\", \"identify\", \"visit\", \"push\", \"call\"], i = function () { var a, b = this, c = function (a) { b[a] = function () { return b._e.push([a].con"
+  },
+  "iqm2:fwb rss": {
+   "url": "https://fortwaltonbeachcityfl.iqm2.com/Services/RSS.aspx?Feed=Calendar",
+   "status": 200,
+   "final_url": "https://fortwaltonbeachcityfl.iqm2.com/Services/RSS.aspx?Feed=Calendar",
+   "bytes": 27966,
+   "challenge": false,
+   "pdf_links": 60,
+   "dates_2026": 29,
+   "snippet": "RSS Feed RSS Feed City of Fort Walton Beach - Meeting Calendar City of Fort Walton Beach, Florida - Meeting Calendar of Agendas, Minutes and Media Special Magistrate - Agenda - Nov 18, 2026 9:00 AM View Web Agenda Downloads: Public Agenda | Full Agenda Published on: Fri, 13 Nov 2026 13:48:21 GMT Spe"
+  },
+  "escribe:alachua": {
+   "url": "https://pub-alachuacounty.escribemeetings.com/MeetingsCalendarView.aspx",
+   "status": 200,
+   "final_url": "https://pub-alachuacounty.escribemeetings.com/MeetingsCalendarView.aspx",
+   "bytes": 395462,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 0,
+   "snippet": "eSCRIBE Published Meetings (function () { 'use strict'; const isEnabled = 'False' === 'True'; if (!isEnabled) { console.info('Datadog RUM: Disabled via configuration'); return; } try { const clientToken = 'pub06d575527398fc2f343aaebc77371bba'; const applicationId = '48881eb5-15dd-41f0-8f24-652ddea42"
+  },
+  "escribe:cutlerbay": {
+   "url": "https://pub-cutlerbay-fl.escribemeetings.com/MeetingsCalendarView.aspx",
+   "status": 200,
+   "final_url": "https://pub-cutlerbay-fl.escribemeetings.com/MeetingsCalendarView.aspx",
+   "bytes": 247817,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 0,
+   "snippet": "eSCRIBE Published Meetings (function () { 'use strict'; const isEnabled = 'False' === 'True'; if (!isEnabled) { console.info('Datadog RUM: Disabled via configuration'); return; } try { const clientToken = 'pub06d575527398fc2f343aaebc77371bba'; const applicationId = '48881eb5-15dd-41f0-8f24-652ddea42"
+  },
+  "primegov:bay upcoming": {
+   "url": "https://baycountyfl.primegov.com/api/v2/PublicPortal/ListUpcomingMeetings",
+   "status": 200,
+   "final_url": "https://baycountyfl.primegov.com/api/v2/PublicPortal/ListUpcomingMeetings",
+   "bytes": 2,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 0,
+   "snippet": "[]"
+  },
+  "primegov:bay archived": {
+   "url": "https://baycountyfl.primegov.com/api/v2/PublicPortal/ListArchivedMeetings?year=2026",
+   "status": 200,
+   "final_url": "https://baycountyfl.primegov.com/api/v2/PublicPortal/ListArchivedMeetings?year=2026",
+   "bytes": 25509,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 100,
+   "snippet": "[{\"id\":383,\"meetingTypeId\":2,\"committeeId\":3,\"dateTime\":\"2026-01-06T09:00:00\",\"endDateTime\":\"2026-01-06T17:00:00\",\"date\":\"Jan 06, 2026\",\"time\":\"09:00 AM\",\"endTime\":null,\"documentList\":[{\"id\":4523,\"language\":\"en-US\",\"compileOutputType\":3,\"publishStatus\":1,\"publishDate\":\"2026-01-02T19:54:00.503\",\"temp"
+  },
+  "granicus:monroe": {
+   "url": "https://monroecountyfl.granicus.com/ViewPublisher.php?view_id=1",
+   "status": 200,
+   "final_url": "https://monroecountyfl.granicus.com/ViewPublisher.php?view_id=1",
+   "bytes": 9548,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 0,
+   "snippet": "Test View - Granicus Content --> window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-NKV5QY03CZ', { 'request_origin':'external' }); /* General Styles */ body { margin: 5px; color: ; font-size: ; font-family: ; } .display"
+  },
+  "granicus:boca": {
+   "url": "https://bocaraton.granicus.com/ViewPublisher.php?view_id=2",
+   "status": 403,
+   "bytes": 834,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 0,
+   "snippet": "Permission Denied. Please contact your System Administrator to obtain additional permissions."
+  },
+  "granicus:plantation": {
+   "url": "https://plantation.granicus.com/ViewPublisher.php?view_id=2",
+   "status": 200,
+   "final_url": "https://plantation.granicus.com/ViewPublisher.php?view_id=2",
+   "bytes": 400000,
+   "challenge": false,
+   "pdf_links": 112,
+   "dates_2026": 0,
+   "snippet": "Public View - Granicus Content window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-0T79SKXRQT', { 'request_origin':'external' }); /* General Styles */ body { margin: 5px; color: #000000; font-size: 14px; font-family: \"He"
+  },
+  "granicus:tamarac": {
+   "url": "https://tamarac.granicus.com/ViewPublisher.php?view_id=2",
+   "status": 200,
+   "final_url": "https://tamarac.granicus.com/ViewPublisher.php?view_id=2",
+   "bytes": 38616,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 0,
+   "snippet": "Training Videos - Granicus Content window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-X3WG668887', { 'request_origin':'external' }); /* General Styles */ body { margin: 5px; color: #000000; font-size: 14px; font-family:"
+  },
+  "granicus:lighthousepoint": {
+   "url": "https://city-lighthousepoint.granicus.com/ViewPublisher.php?view_id=1",
+   "status": 200,
+   "final_url": "https://city-lighthousepoint.granicus.com/ViewPublisher.php?view_id=1",
+   "bytes": 400000,
+   "challenge": false,
+   "pdf_links": 107,
+   "dates_2026": 0,
+   "snippet": "Lighthouse Point - Granicus Content --> window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-3T1SG40DL9', { 'request_origin':'external' }); /* General Styles */ body { margin: 5px; color: #2e2e2e; font-size: 14px; font-fa"
+  },
+  "granicus:safetyharbor": {
+   "url": "https://safetyharbor.granicus.com/ViewPublisher.php?view_id=1",
+   "status": 404,
+   "bytes": 16,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 0,
+   "snippet": "Page not found."
+  },
+  "agendacenter:aventura": {
+   "url": "https://www.cityofaventura.com/AgendaCenter",
+   "status": 200,
+   "final_url": "https://www.cityofaventura.com/AgendaCenter",
+   "bytes": 231129,
+   "challenge": false,
+   "pdf_links": 118,
+   "dates_2026": 25,
+   "snippet": "(function(w,d,s,l,i){w.GAMeasurementID='G-JFD09J15NV';w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode."
+  },
+  "agendacenter:aventura rss": {
+   "url": "https://www.cityofaventura.com/RSSFeed.aspx?ModID=65&CID=All-0",
+   "status": 200,
+   "final_url": "https://www.cityofaventura.com/RSSFeed.aspx?ModID=65&CID=All-0",
+   "bytes": 2366,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 0,
+   "snippet": "Aventura, FL - Agenda Creator https://www.cityofaventura.com/AgendaCenter Fri, 20 Nov 2026 12:11:14 -0500 Aventura, FL - Get the latest agendas en-us City Commission Regular Meeting https://www.cityofaventura.com/AgendaCenter/PreviousVersions/530 Wed, 18 Nov 2026 14:13:11 -0500 City Commission Regul"
+  },
+  "agendacenter:northmiami": {
+   "url": "https://www.northmiamifl.gov/AgendaCenter",
+   "status": 200,
+   "final_url": "https://www.northmiamifl.gov/AgendaCenter",
+   "bytes": 274717,
+   "challenge": false,
+   "pdf_links": 164,
+   "dates_2026": 6,
+   "snippet": "(function(w,d,s,l,i){w.GAMeasurementID='G-5Z6MNN84PK';w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode."
+  },
+  "agendacenter:sweetwater": {
+   "url": "https://cityofsweetwater.fl.gov/AgendaCenter",
+   "status": 200,
+   "final_url": "https://cityofsweetwater.fl.gov/AgendaCenter",
+   "bytes": 188007,
+   "challenge": false,
+   "pdf_links": 74,
+   "dates_2026": 49,
+   "snippet": "(function(w,d,s,l,i){w.GAMeasurementID='G-360R2YS1QL';w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode."
+  },
+  "agendacenter:davie": {
+   "url": "https://www.davie-fl.gov/AgendaCenter",
+   "status": 403,
+   "bytes": 5660,
+   "challenge": true,
+   "pdf_links": 0,
+   "dates_2026": 0,
+   "snippet": "Attention Required! | Cloudflare body{margin:0;padding:0} if (!navigator.cookieEnabled) { window.addEventListener('DOMContentLoaded', function () { var cookieEl = document.getElementById('cookie-alert'); cookieEl.style.display = 'block'; }) } Please enable cookies. Sorry, you have been blocked You a"
+  },
+  "agendacenter:keywest": {
+   "url": "https://www.cityofkeywest-fl.gov/AgendaCenter",
+   "status": 200,
+   "final_url": "https://www.cityofkeywest-fl.gov/AgendaCenter",
+   "bytes": 111450,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 0,
+   "snippet": "(function(w,d,s,l,i){w.GAMeasurementID='G-XM3R8XEK87';w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode."
+  },
+  "agendacenter:lakemary": {
+   "url": "https://www.lakemaryfl.com/AgendaCenter",
+   "status": 200,
+   "final_url": "https://www.lakemaryfl.com/AgendaCenter",
+   "bytes": 221415,
+   "challenge": false,
+   "pdf_links": 130,
+   "dates_2026": 0,
+   "snippet": "(function(w,d,s,l,i){w.GAMeasurementID='G-T55T7MQSD7';w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode."
+  },
+  "agendacenter:groveland": {
+   "url": "https://www.groveland-fl.gov/AgendaCenter",
+   "status": 200,
+   "final_url": "https://www.groveland-fl.gov/AgendaCenter",
+   "bytes": 399968,
+   "challenge": false,
+   "pdf_links": 189,
+   "dates_2026": 74,
+   "snippet": "(function(w,d,s,l,i){w.GAMeasurementID='G-46LVHB1GEY';w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode."
+  },
+  "agendacenter:bartow": {
+   "url": "https://www.cityofbartow.net/AgendaCenter",
+   "status": 200,
+   "final_url": "https://www.cityofbartow.net/AgendaCenter",
+   "bytes": 254579,
+   "challenge": false,
+   "pdf_links": 168,
+   "dates_2026": 101,
+   "snippet": "(function(w,d,s,l,i){w.GAMeasurementID='G-PBJTJHBC66';w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode."
+  },
+  "agendacenter:pinellaspark": {
+   "url": "https://www.pinellaspark.gov/AgendaCenter",
+   "status": 200,
+   "final_url": "https://www.pinellaspark.gov/AgendaCenter",
+   "bytes": 90492,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 0,
+   "snippet": "(function(w,d,s,l,i){w.GAMeasurementID='G-P2DL20HXXZ';w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode."
+  },
+  "agendacenter:levy": {
+   "url": "https://www.levycounty.org/AgendaCenter",
+   "status": 200,
+   "final_url": "https://www.levycounty.org/AgendaCenter",
+   "bytes": 90603,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 0,
+   "snippet": "(function(w,d,s,l,i){w.GAMeasurementID='G-CB0230W0FG';w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode."
+  },
+  "agendacenter:seminole": {
+   "url": "https://www.myseminole.com/AgendaCenter",
+   "status": 200,
+   "final_url": "https://www.myseminole.com/AgendaCenter",
+   "bytes": 99224,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 0,
+   "snippet": "(function(w,d,s,l,i){w.GAMeasurementID='G-ZKV121G3TQ';w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode."
+  },
+  "novus:lauderdalelakes": {
+   "url": "https://lauderdalelakes.novusagenda.com/agendapublic/",
+   "status": 200,
+   "final_url": "https://lauderdalelakes.novusagenda.com/agendapublic/",
+   "bytes": 85415,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 49,
+   "snippet": "NovusAGENDA (function (i, s, o, g, r, a, m) { i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m) })(window, "
+  },
+  "novus:davie": {
+   "url": "https://davie.novusagenda.com/agendapublic/",
+   "status": 200,
+   "final_url": "https://davie.novusagenda.com/agendapublic/",
+   "bytes": 137698,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 53,
+   "snippet": "NovusAGENDA (function (i, s, o, g, r, a, m) { i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () { (i[r].q = i[r].q || []).push(arguments) }, i[r].l = 1 * new Date(); a = s.createElement(o), m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m) })(window, "
+  },
+  "municode:lakepark": {
+   "url": "https://lakepark-fl.municodemeetings.com/",
+   "status": 200,
+   "final_url": "https://lakepark-fl.municodemeetings.com/",
+   "bytes": 87209,
+   "challenge": false,
+   "pdf_links": 55,
+   "dates_2026": 185,
+   "snippet": "Agendas/Minutes | Lake Park Florida Meetings Hub Skip to main content Navigation Town Website Meetings Calendar Boards Board Directory Board Member Directory Search form Search Website --> --> Agendas/Minutes From From Month -From Month Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec From Day -From "
+  },
+  "civicclerk:stuart": {
+   "url": "https://stuartfl.api.civicclerk.com/v1/Events?$top=3&$orderby=startDateTime%20desc",
+   "status": 200,
+   "final_url": "https://stuartfl.api.civicclerk.com/v1/Events?$top=3&$orderby=startDateTime%20desc",
+   "bytes": 9409,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 8,
+   "snippet": "{\"@odata.context\":\"https://stuartfl.api.civicclerk.com/v1/$metadata#Events\",\"value\":[{\"id\":1355,\"eventName\":\"Regular City Commission Meeting\",\"eventDescription\":\"\",\"eventTemplateId\":18,\"eventDate\":\"2027-01-11T16:00:00Z\",\"startDateTime\":\"2027-01-11T16:00:00Z\",\"secondaryIanaTimeZone\":\"\",\"secondaryAbbr"
+  },
+  "civicclerk:winterpark": {
+   "url": "https://winterparkfl.api.civicclerk.com/v1/Events?$top=3&$orderby=startDateTime%20desc",
+   "status": 200,
+   "final_url": "https://winterparkfl.api.civicclerk.com/v1/Events?$top=3&$orderby=startDateTime%20desc",
+   "bytes": 9660,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 3,
+   "snippet": "{\"@odata.context\":\"https://winterparkfl.api.civicclerk.com/v1/$metadata#Events\",\"value\":[{\"id\":3282,\"eventName\":\"Winter Park Firefighters' Pension Board Regular Meeting\",\"eventDescription\":\"\",\"eventTemplateId\":29,\"eventDate\":\"2030-08-01T16:00:00Z\",\"startDateTime\":\"2030-08-01T16:00:00Z\",\"secondaryIan"
+  },
+  "civicclerk:cocoabeach": {
+   "url": "https://cocoabeachfl.api.civicclerk.com/v1/Events?$top=3&$orderby=startDateTime%20desc",
+   "status": 200,
+   "final_url": "https://cocoabeachfl.api.civicclerk.com/v1/Events?$top=3&$orderby=startDateTime%20desc",
+   "bytes": 9387,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 3,
+   "snippet": "{\"@odata.context\":\"https://cocoabeachfl.api.civicclerk.com/v1/$metadata#Events\",\"value\":[{\"id\":635,\"eventName\":\"City Commission Meeting\",\"eventDescription\":\"\",\"eventTemplateId\":24,\"eventDate\":\"2027-06-17T18:00:00Z\",\"startDateTime\":\"2027-06-17T18:00:00Z\",\"secondaryIanaTimeZone\":\"\",\"secondaryAbbreviat"
+  },
+  "miamidade:list": {
+   "url": "https://www.miamidade.gov/govaction/agendas.asp?Action=Agendas&Oper=DisplayList",
+   "status": 200,
+   "final_url": "https://www.miamidade.gov/govaction/agendas.asp?Action=Agendas&Oper=DisplayList",
+   "bytes": 33598,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 0,
+   "snippet": "Miami-Dade County - Legislative Information - Board of County Commission's Agendas --> window.jQuery || document.write(' ') //if inside an iFrame add CSS to only show the selector on the page if (window.top!=window.self) { $('head').prepend(' '); } //Setting up redirects for all the pages with drop-"
+  },
+  "manatee:onbase": {
+   "url": "https://agendaonline.mymanatee.org/OnBaseAgendaOnline/",
+   "status": 200,
+   "final_url": "https://agendaonline.mymanatee.org/OnBaseAgendaOnline/",
+   "bytes": 47407,
+   "challenge": false,
+   "pdf_links": 4,
+   "dates_2026": 43,
+   "snippet": "Home - OnBase Agenda Online (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.inser"
+  },
+  "leon:list": {
+   "url": "https://www2.leoncountyfl.gov/coadmin/agenda/list.asp",
+   "status": 200,
+   "final_url": "https://www2.leoncountyfl.gov/coadmin/agenda/list.asp",
+   "bytes": 61642,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 106,
+   "snippet": "Home :: LeonCountyFl.gov --> --> // add png support to IE6 DD_belatedPNG.fix('.png, img, .sf-sub-indicator, .btn-icon, .sb-prev, .sb-next, .bread-arrow, .photo-frame, .thumbnail-box, .person-promo-box, .icon-24, .icon-32'); $(function(){ /* horizontal slide-out menu */ // $('ul.sf-menu').superfish({"
+  },
+  "palmcoast:list": {
+   "url": "https://www.palmcoast.gov/agendas/meetings/city-council/2026",
+   "status": 200,
+   "final_url": "https://www.palmcoast.gov/agendas/meetings/city-council/2026",
+   "bytes": 215666,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 173,
+   "snippet": "Meetings | Palm Coast Connect :root { --pc-primary-color: #006fa7; --pc-secondary-color: #1ea256; --pc-accent-color: #ffc323; --pc-text-dark: #333; --pc-text-light: #6c757d; --pc-border-color: #dee2e6; --pc-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075); --pc-shadow-lg: 0 0.5rem 1rem rgba(0, 0, 0, "
+  },
+  "weston:list": {
+   "url": "https://www.westonfl.org/government/agendas-minutes",
+   "status": 403,
+   "bytes": 442,
+   "challenge": true,
+   "pdf_links": 0,
+   "dates_2026": 0,
+   "snippet": "Access Denied Access Denied You don't have permission to access \"http&#58;&#47;&#47;www&#46;westonfl&#46;org&#47;&#36;&#40;SERVE&#95;403&#41;&#47;government&#47;agendas&#45;minutes&#63;\" on this server. Reference&#32;&#35;18&#46;d50c0317&#46;1795194753&#46;2ada5141 https&#58;&#47;&#47;errors&#46;edg"
+  },
+  "satellitebeach:cc": {
+   "url": "https://www.satellitebeach.gov/government/city-council/",
+   "status": 200,
+   "final_url": "https://www.satellitebeach.gov/government/city-council/",
+   "bytes": 74352,
+   "challenge": false,
+   "pdf_links": 1,
+   "dates_2026": 2,
+   "snippet": "City Council | City of Satellite Beach var notificationExDays = 365; window.dataLayer = window.dataLayer || []; function gtag() { dataLayer.push(arguments); } gtag('js', new Date()); gtag('config', 'G-FZ204C4JNT'); This website uses cookies to enhance usability and provide you with a more personal e"
+  },
+  "newportrichey:docs": {
+   "url": "https://www.cityofnewportrichey.org/",
+   "status": 200,
+   "final_url": "https://www.cityofnewportrichey.org/Home",
+   "bytes": 148524,
+   "challenge": false,
+   "pdf_links": 1,
+   "dates_2026": 6,
+   "snippet": "Home - City of NPR --> (function () { if (window.__UNLOAD_LAZY_PATCH__) return; window.__UNLOAD_LAZY_PATCH__ = true; var supportsPageHide = (\"onpagehide\" in window); var mappedType = supportsPageHide ? \"pagehide\" : \"beforeunload\"; var nativeAdd = window.addEventListener; var nativeRemove = window.re"
+  },
+  "diligent:pasco": {
+   "url": "https://pasco-k12-fl.community.diligentoneplatform.com/portal/",
+   "status": 200,
+   "final_url": "https://pasco-k12-fl.community.diligentoneplatform.com/portal/",
+   "bytes": 56657,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 0,
+   "snippet": "District School Board of Pasco County - Home pattern = /%3c[0-9A-Za-z]*script/ if (pattern.test(window.location.href.toLowerCase())) { window.location.href = window.location.pathname; } Skip Navigation Jump to SideBar // // jQuery(document).ready(function ($) {Global.Controls.HeaderMenus.createInsta"
+  },
+  "diligent:palmbeach": {
+   "url": "https://palmbeachschools-org.community.diligentoneplatform.com/Portal/",
+   "status": 200,
+   "final_url": "https://palmbeachschools-org.community.diligentoneplatform.com/Portal/",
+   "bytes": 56853,
+   "challenge": false,
+   "pdf_links": 0,
+   "dates_2026": 0,
+   "snippet": "School District of Palm Beach County, Florida - Home pattern = /%3c[0-9A-Za-z]*script/ if (pattern.test(window.location.href.toLowerCase())) { window.location.href = window.location.pathname; } Skip Navigation Jump to SideBar // // jQuery(document).ready(function ($) {Global.Controls.HeaderMenus.cre"
+  },
+  "stlucie-sd:agendas": {
+   "url": "https://www.stlucie.k12.fl.us/our-district/board-agendas-and-minutes/",
+   "status": 200,
+   "final_url": "https://www.stlucie.k12.fl.us/our-district/board-agendas-and-minutes/",
+   "bytes": 303119,
+   "challenge": false,
+   "pdf_links": 245,
+   "dates_2026": 0,
+   "snippet": "Board Agendas and Minutes - St Lucie Public Schools img:is([sizes=\"auto\" i], [sizes^=\"auto,\" i]) { contain-intrinsic-size: 3000px 1500px } var $TS_VCSC_CurrentPluginRelease = \"5.6.1\";var $TS_VCSC_CurrentComposerRelease = \"8.5\";var $TS_VCSC_Lightbox_Activated = true;var $TS_VCSC_Lightbox_Thumbs = \"bo"
+  }
+ }
+}
