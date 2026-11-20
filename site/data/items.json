@@ -1572,7 +1572,7 @@
     "Borrowing & debt",
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 796000000.0,
    "added": "2026-11-18"
   },
@@ -16984,6 +16984,156 @@
    "meeting_date": "2026-02-24",
    "categories": [
     "Events, art & branding"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "5b98134a70",
+   "government": "Wakulla County",
+   "governments": [
+    "Wakulla County"
+   ],
+   "level": "county",
+   "counties": [
+    "Wakulla"
+   ],
+   "description": "Nov 17 (WCTV): Commissioner Fred Nicholas II: \"They want a tax cut; they want us to tighten our belts.\" County projects about $5M less revenue in FY2027-28 and another $1M the next year; senior council and other outside funding approved for two quarters pending a budget workshop.",
+   "shortfall": null,
+   "amount": 5000000.0,
+   "link": "https://www.wctv.tv/2026/11/18/citizens-have-spoken-wakulla-county-weighs-potential-budget-cuts-after-amendment-3-passes/",
+   "stage": "statement",
+   "kind": "statement",
+   "meeting_date": null,
+   "categories": [
+    "Service cuts",
+    "Amendment 3 impact"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "c20259e32c",
+   "government": "Manatee County",
+   "governments": [
+    "Manatee County"
+   ],
+   "level": "county",
+   "counties": [
+    "Manatee"
+   ],
+   "description": "Nov 19 (Suncoast Searchlight): Chairman Tal Siddique: \"Building new parks, new libraries, extensions, all that needs to just stop.\" Staff estimate $63M less in year one, $113M in year two; $2B five-year CIP to be paused and reconsidered.",
+   "shortfall": null,
+   "amount": 63000000.0,
+   "link": "https://suncoastsearchlight.org/manatee-county-amendment-3-budget-cuts/",
+   "stage": "statement",
+   "kind": "statement",
+   "meeting_date": null,
+   "categories": [
+    "Capital pause",
+    "Amendment 3 impact"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "0c717393b8",
+   "government": "Sarasota County",
+   "governments": [
+    "Sarasota County"
+   ],
+   "level": "county",
+   "counties": [
+    "Sarasota"
+   ],
+   "description": "Nov 18 (The Center Square): Commissioner Mark Smith: \"This SAFER grant buys us some time\" ($7.6M federal grant for 25 firefighters). Administrator Jonathan Lewis says funded groups were warned money \"may not be there October of next year.\"",
+   "shortfall": null,
+   "amount": 7600000.0,
+   "link": "https://www.newslinelocal.com/2026/11/18/sarasota-county-scales-back-firefighter-hiring-after-amendment-3/",
+   "stage": "statement",
+   "kind": "statement",
+   "meeting_date": null,
+   "categories": [
+    "Service cuts",
+    "Amendment 3 impact"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "080cfff275",
+   "government": "Pinellas Suncoast Transit Authority",
+   "governments": [
+    "Pinellas Suncoast Transit Authority"
+   ],
+   "level": "city",
+   "counties": [
+    "Other"
+   ],
+   "description": "Nov 19 (Florida Daily): PSTA CEO Brad Miller says PSTA's board faces the \"same difficult decisions\" after Amendment 3; up to 25 of 40 routes could be eliminated; projected shortfall approaching $34M. Pairs with St. Pete Beach ending its trolley funding.",
+   "shortfall": null,
+   "amount": 34000000.0,
+   "link": "https://floridadaily.com/amendment-3-prompts-pinellas-county-officials-to-cut-several-public-transportation-services",
+   "stage": "statement",
+   "kind": "statement",
+   "meeting_date": null,
+   "categories": [
+    "Service cuts",
+    "Amendment 3 impact"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "7799c5e9d0",
+   "government": "Daytona Beach",
+   "governments": [
+    "Daytona Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Volusia"
+   ],
+   "description": "WFTV, Nov 19: \"Florida auditors question over $1.5 million in Daytona Beach permit fund expenses\". Preliminary Auditor General findings: $480,376 in non-allowable permit fund charges (City Hall AV upgrades, charity golf sponsorships), $1,050,979 in wages; $775 commissioner p-card meal.",
+   "shortfall": null,
+   "amount": 1531355.0,
+   "link": "https://www.wftv.com/news/local/florida-auditors-question-over-15-million-daytona-beach-permit-fund-expenses/FMMCUDXE5BHABJ2XOY2RYJUZR4/",
+   "stage": "news",
+   "kind": "news",
+   "meeting_date": "2026-11-19",
+   "categories": [
+    "Audit",
+    "Officials perks"
+   ],
+   "featured": true,
+   "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "8c55ce460a",
+   "government": "Pinellas Suncoast Transit Authority / St. Pete Beach",
+   "governments": [
+    "Pinellas Suncoast Transit Authority",
+    "St. Pete Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Pinellas"
+   ],
+   "description": "Florida Daily, Nov 19: \"Amendment 3 Prompts Pinellas County Officials to Cut Several Public Transportation Services\". St. Pete Beach ends $242,000 FY2027 trolley funding; PSTA projects a shortfall approaching $34M.",
+   "shortfall": "PSTA: projected shortfall approaching $34M; up to 25 of 40 routes at risk (Nov 19, 2026)",
+   "amount": 242000.0,
+   "link": "https://floridadaily.com/amendment-3-prompts-pinellas-county-officials-to-cut-several-public-transportation-services",
+   "stage": "news",
+   "kind": "news",
+   "meeting_date": null,
+   "categories": [
+    "Service cuts"
    ],
    "featured": false,
    "project_total": null,
