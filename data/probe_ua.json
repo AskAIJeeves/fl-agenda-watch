@@ -1,0 +1,58 @@
+{
+ "old okaloosacountyfl.iqm2.com/Servic": [
+  [
+   "err",
+   "The read operation timed out"
+  ],
+  60.3
+ ],
+ "new okaloosacountyfl.iqm2.com/Servic": [
+  [
+   200,
+   10268
+  ],
+  0.8
+ ],
+ "old miamifl.iqm2.com/Services/RSS.as": [
+  [
+   "err",
+   "The read operation timed out"
+  ],
+  60.2
+ ],
+ "new miamifl.iqm2.com/Services/RSS.as": [
+  [
+   200,
+   56387
+  ],
+  1.0
+ ],
+ "old fortwaltonbeachcityfl.iqm2.com/S": [
+  [
+   "err",
+   "The read operation timed out"
+  ],
+  60.3
+ ],
+ "new fortwaltonbeachcityfl.iqm2.com/S": [
+  [
+   200,
+   27966
+  ],
+  0.4
+ ],
+ "old lakepark-fl.municodemeetings.com": [
+  [
+   "err",
+   "Remote end closed connection without response"
+  ],
+  0.5
+ ],
+ "new lakepark-fl.municodemeetings.com": [
+  [
+   200,
+   87209
+  ],
+  0.4
+ ]
+}
