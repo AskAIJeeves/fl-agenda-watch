@@ -212,7 +212,7 @@ def scan_platforms(cfg, store, seen, debug, now):
     # BoardDocs (school districts): meeting list JSON, agenda HTML, then item details for items that look like spending
     money_title = re.compile(r"(?i)\$|approv|award|contract|purchas|agreement|\bbid\b|grant|lease|fund|change order|renewal|amendment|budget|construct|piggyback|sole source|consult|renovat|acqui")
     # BoardDocs rate-limits fast clients with 403s: wait 6 s between requests, cap item fetches per run,
-    # skip a district for the run at its first 403, and stop all BoardDocs requests after three districts in a row refuse. Item fetches are cached in seen, so coverage builds over nights.
+    # stop all BoardDocs requests for the run at the first 403 (it refuses by client, not by district); the starting district rotates daily so each gets a turn. Item fetches are cached in seen, so coverage builds over nights.
     bd_budget = {"items": 0, "blocked": False, "site_403": 0}
     BD_MAX_ITEMS, BD_PER_SITE = 60, 12
     bd_list = [g for g in cfg.get("boarddocs", []) if not g.get("disabled")]
@@ -228,14 +228,16 @@ def scan_platforms(cfg, store, seen, debug, now):
             try: return OPENER.open(urllib.request.Request(f"{base}/{path}", data=urllib.parse.urlencode(data).encode(), headers=UA), timeout=60).read().decode("utf-8", "replace")
             except urllib.error.HTTPError as e:
                 if e.code == 403:
-                    site_blocked["v"] = True          # this district only; stop everything after 3 districts in a row refuse
-                    bd_budget["site_403"] += 1
-                    if bd_budget["site_403"] >= 3: bd_budget["blocked"] = True
+                    site_blocked["v"] = True          # BoardDocs refuses by client, not by district: stop all BoardDocs for the run
+                    bd_budget["blocked"] = True
                 raise
         try:
             cid = g.get("committee")
             if not cid:
-                pub = OPENER.open(urllib.request.Request(f"{base}/Public", headers=UA), timeout=60).read().decode("utf-8", "replace")
+                try: pub = OPENER.open(urllib.request.Request(f"{base}/Public", headers=UA), timeout=60).read().decode("utf-8", "replace")
+                except urllib.error.HTTPError as e:
+                    if e.code == 403: bd_budget["blocked"] = True
+                    raise
                 cid = (re.findall(r'committeeid="([A-Z0-9]{12})"', pub) or [None])[0]
             ms = json.loads(post("BD-GetMeetingsList?open", {"current_committee_id": cid}))
         except Exception as e: d["errors"].append(f"list: {e}"); continue
