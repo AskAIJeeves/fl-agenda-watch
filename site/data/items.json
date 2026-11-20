@@ -16767,6 +16767,227 @@
    "featured": false,
    "project_total": 32876700.0,
    "added": "2026-11-20"
+  },
+  {
+   "id": "dd2ed1276a",
+   "government": "Crystal River",
+   "governments": [
+    "Crystal River"
+   ],
+   "level": "city",
+   "counties": [
+    "Citrus"
+   ],
+   "description": "City Council: agreement with Monarch Design Group for construction documents for the Crystal River Government Center Project, $1,009,640 (9.8% of general fund). Outcome not verified.",
+   "shortfall": null,
+   "amount": 1009640.0,
+   "link": "https://crystalriverfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=335#page=4",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-01-12",
+   "categories": [
+    "Buildings & facilities",
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "b3d18e465d",
+   "government": "Delray Beach",
+   "governments": [
+    "Delray Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Palm Beach"
+   ],
+   "description": "City Commission: Amendment No. 1 with Holtz Consulting Engineers, Inc. for Phase II Owner's Representative Services on the Northwest Neighborhood Improvements project, $5,043,306, for a revised agreement amount of $5,441,345.20. Outcome not verified.",
+   "shortfall": "Nov 12 (Florida Today): Delray Beach loss from Amendment 3 estimated at $21M; Commissioner Casale puts it closer to $11M.",
+   "amount": 5043306.0,
+   "link": "https://delraybeach.granicus.com/AgendaViewer.php?view_id=3&clip_id=3605#page=6",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-10-06",
+   "categories": [
+    "Consultants",
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "6d44756d4f",
+   "government": "Sunrise",
+   "governments": [
+    "Sunrise"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission item 4E: approves the Flamingo Linear Park Signature Sculptures design proposal and a contract for commission and purchase of public art with Silverwater Creative LLC d/b/a Sijia Chen Studio, $143,000 from the Public Art project account. Outcome not verified.",
+   "shortfall": null,
+   "amount": 143000.0,
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1200#page=72",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-02-24",
+   "categories": [
+    "Events, art & branding"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "9eca5d6301",
+   "government": "Boynton Beach",
+   "governments": [
+    "Boynton Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Palm Beach"
+   ],
+   "description": "CRA Board: Second Amendment for additional funding under the Tax Increment Revenue Funding Agreement (TIRFA) for the Ocean One Project at 114-222 N. Federal Highway. Amount not stated in item text. Outcome not verified.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=329#page=1",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-01-08",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "ffe8a23b5d",
+   "government": "Marco Island",
+   "governments": [
+    "Marco Island"
+   ],
+   "level": "city",
+   "counties": [
+    "Collier"
+   ],
+   "description": "Marco Island City Council: Resolution 26-49 authorizing issuance of up to $23,000,000 in General Obligation Bonds, Series 2027, payable from ad valorem taxes, to finance construction and transportation improvements. Outcome not verified.",
+   "shortfall": null,
+   "amount": 23000000.0,
+   "link": "https://marcoisland.granicus.com/AgendaViewer.php?view_id=2&clip_id=2099#page=6",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-09-10",
+   "categories": [
+    "Borrowing & debt",
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "71620642e1",
+   "government": "Boynton Beach",
+   "governments": [
+    "Boynton Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Palm Beach"
+   ],
+   "description": "Boynton Beach City Commission: Resolution R26-146 approves a Master Equipment Lease Purchase Agreement (Equipment Schedules 1 to 4) with Lease Servicing Center, Inc. dba NCL Government Capital via Sourcewell Contract 092424-NCL, $8,978,759.60 total. Outcome not verified.",
+   "shortfall": null,
+   "amount": 8978759.6,
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=369#page=1",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-08-25",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "db23a96bc5",
+   "government": "Sunrise",
+   "governments": [
+    "Sunrise"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "Sunrise City Commission: awards Bid 26-47-03-MS, Springtree WWTP Odor Control and Sludge Holding Tank Improvements Project, to Daniel O'Connell's Sons, Inc., $6,758,700. Outcome not verified.",
+   "shortfall": null,
+   "amount": 6758700.0,
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1230#page=268",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-07-14",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "53e4e7620c",
+   "government": "Boynton Beach",
+   "governments": [
+    "Boynton Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Palm Beach"
+   ],
+   "description": "Boynton Beach City Commission: Resolution R26-047 approves a sole source agreement with FLOCK Group, Inc. for the Flock Safe City Initiative, up to $7,701,600 plus a 10% allowance of $770,160, over a ten-year term. Outcome not verified.",
+   "shortfall": null,
+   "amount": 7701600.0,
+   "link": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=343#page=1",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-03-23",
+   "categories": [
+    "No competitive bidding",
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-20"
+  },
+  {
+   "id": "a5d8f56959",
+   "government": "Sunrise",
+   "governments": [
+    "Sunrise"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "Sunrise City Commission: approves the MGA Sculpture Studio, LLC design \"Checkered Flamingo\" and a contract for commission and purchase of public art for the Flamingo Linear Park Signature Sculptures project; largest figure in item $150,000. Outcome not verified.",
+   "shortfall": null,
+   "amount": 150000.0,
+   "link": "https://sunrisefl.granicus.com/AgendaViewer.php?view_id=2&clip_id=1200#page=139",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-02-24",
+   "categories": [
+    "Events, art & branding"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-20"
   }
  ]
 }
