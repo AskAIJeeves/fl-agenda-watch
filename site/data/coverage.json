@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-20",
- "governments": 143,
- "county_governments": 39,
+ "updated": "2026-11-21",
+ "governments": 150,
+ "county_governments": 40,
  "population_share_county": 81,
  "population_source": "https://www.edr.state.fl.us/Content/population-demographics/data/MediumProjections_2025.pdf",
  "counties": {
@@ -14,6 +14,7 @@
   "Brevard": [
    "Brevard County",
    "Cocoa",
+   "Cocoa Beach",
    "Melbourne",
    "Titusville"
   ],
@@ -24,6 +25,7 @@
    "Dania Beach",
    "Deerfield Beach",
    "Fort Lauderdale",
+   "Hallandale Beach",
    "Hollywood",
    "Lauderdale Lakes",
    "Margate",
@@ -49,6 +51,7 @@
   ],
   "Collier": [
    "Collier County",
+   "Collier County Public Schools",
    "Marco Island"
   ],
   "Columbia": [
@@ -62,7 +65,8 @@
    "Jacksonville Beach"
   ],
   "Escambia": [
-   "Escambia County"
+   "Escambia County",
+   "Escambia County School District"
   ],
   "Flagler": [
    "Flagler County",
@@ -119,6 +123,7 @@
   ],
   "Marion": [
    "Marion County",
+   "Marion County Public Schools",
    "Ocala"
   ],
   "Martin": [
@@ -209,6 +214,9 @@
    "Sarasota",
    "Venice"
   ],
+  "School District of Lee": [
+   "School District of Lee County"
+  ],
   "Seminole": [
    "Seminole County",
    "Casselberry",
@@ -223,7 +231,8 @@
   ],
   "St. Lucie": [
    "St. Lucie County",
-   "Port St. Lucie"
+   "Port St. Lucie",
+   "St. Lucie Public Schools"
   ],
   "Sumter": [
    "Wildwood"

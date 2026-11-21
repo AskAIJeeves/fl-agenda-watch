@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20",
+ "updated": "2026-11-21",
  "items": [
   {
    "id": "6e756efba7",
@@ -5516,7 +5516,7 @@
     "No competitive bidding",
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 30000.0,
    "added": "2026-11-19"
   },
@@ -5589,7 +5589,7 @@
    "categories": [
     "Grants to outside groups"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 225000.0,
    "added": "2026-11-19"
   },
@@ -5613,7 +5613,7 @@
    "categories": [
     "Grants to outside groups"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 25000.0,
    "added": "2026-11-19"
   },
@@ -5686,7 +5686,7 @@
    "categories": [
     "Grants to outside groups"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 50000.0,
    "added": "2026-11-19"
   },
@@ -5710,7 +5710,7 @@
    "categories": [
     "Grants to outside groups"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 200000.0,
    "added": "2026-11-19"
   },
@@ -5734,7 +5734,7 @@
    "categories": [
     "Grants to outside groups"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 310000.0,
    "added": "2026-11-19"
   },
@@ -7757,7 +7757,7 @@
     "Large dollar amount",
     "Private benefit"
    ],
-   "featured": true,
+   "featured": false,
    "project_total": 6250000.0,
    "added": "2026-11-19"
   },
@@ -7771,7 +7771,7 @@
    "counties": [
     "Lake"
    ],
-   "description": "BCC: Tourist Development Tax funding for marketing/promotional fees and related expenses for Discover Lake County to be designated a sponsor of Montverde Academy. Amount not stated. Outcome not verified.",
+   "description": "BCC: Tourist Development Tax funding for marketing/promotional fees and related expenses for Discover Lake County to be designated a sponsor of Montverde Academy. Amount not stated. Outcome not verified. Dec 1 packet minutes show $250,000; Commr. Parks recused, citing a nonpaid advisory role with Montverde Academy.",
    "shortfall": null,
    "amount": null,
    "link": "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7830,plainText=false)#page=4",
@@ -17751,6 +17751,550 @@
    "featured": false,
    "project_total": null,
    "added": "2026-11-20"
+  },
+  {
+   "id": "00f2271bfc",
+   "government": "Bartow",
+   "governments": [
+    "Bartow"
+   ],
+   "level": "city",
+   "counties": [
+    "Polk"
+   ],
+   "description": "CRA Board, Dec 2: vote on funding to the City to buy the S&P Mobile Home Park (west of the County Administration complex). City Commission ratified the purchase contract Nov 16; staff memo says the owner set a $9M price and would not negotiate. CRA share and purpose not stated.",
+   "shortfall": null,
+   "amount": 9000000.0,
+   "link": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_12022026-491#page=1",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-12-02",
+   "categories": [
+    "Buildings & facilities",
+    "Large dollar amount"
+   ],
+   "featured": true,
+   "project_total": null,
+   "added": "2026-11-21"
+  },
+  {
+   "id": "952a636ced",
+   "government": "Stuart",
+   "governments": [
+    "Stuart"
+   ],
+   "level": "city",
+   "counties": [
+    "Martin"
+   ],
+   "description": "CRA Board, Dec 1: Res. 01-2027, $3,000 mural matching grant to Downtown Stuart Retail, LLC, the property owner, for a mural on the north wall of its building at 37 SW Osceola St; CRA vote ahead (0.04% of Stuart's special revenue funds).",
+   "shortfall": null,
+   "amount": 3000.0,
+   "link": "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2359,plainText=false)#page=2",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-12-01",
+   "categories": [
+    "Grants to outside groups",
+    "Events, art & branding",
+    "Private benefit"
+   ],
+   "featured": true,
+   "project_total": null,
+   "added": "2026-11-21"
+  },
+  {
+   "id": "6a0adad4a0",
+   "government": "Groveland",
+   "governments": [
+    "Groveland"
+   ],
+   "level": "city",
+   "counties": [
+    "Lake"
+   ],
+   "description": "City Council, Oct 19: staff sought consensus to negotiate an incentive agreement with Hub Steel for up to $200,000 in building permit fee reimbursement for a manufacturing expansion, paid from the Building Fund and/or General Fund; final agreement returns to Council (0.8% of general fund).",
+   "shortfall": "Interim City Manager Maslow (Sept 28 minutes): about $16M ad valorem revenue, initial Amendment 3 reduction forecast about $3.5M",
+   "amount": 200000.0,
+   "link": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_10192026-1481#page=311",
+   "stage": "pending_final",
+   "kind": "spending",
+   "meeting_date": "2026-10-19",
+   "categories": [
+    "Private benefit",
+    "Grants to outside groups"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-21"
+  },
+  {
+   "id": "940724f27b",
+   "government": "Leon County",
+   "governments": [
+    "Leon County"
+   ],
+   "level": "county",
+   "counties": [
+    "Leon"
+   ],
+   "description": "BCC, Nov 16: MOU with Tallahassee contemplating County purchase of six city fire stations for $1.9M, leased back to the City for $1, once a new long-term master agreement is adopted; also contemplates higher FY2028 fire assessment and fee rates after a rate study.",
+   "shortfall": "Leon commissioners discussed deeper cuts after Amendment 3 (Tallahassee Democrat, Nov 13)",
+   "amount": 1900000.0,
+   "link": "https://www2.leoncountyfl.gov/coadmin/agenda/book/261116/agenda.pdf#page=15",
+   "stage": "pending_final",
+   "kind": "spending",
+   "meeting_date": "2026-11-16",
+   "categories": [
+    "Buildings & facilities",
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-21"
+  },
+  {
+   "id": "8ff1fcad8f",
+   "government": "St. Petersburg",
+   "governments": [
+    "St. Petersburg"
+   ],
+   "level": "city",
+   "counties": [
+    "Pinellas"
+   ],
+   "description": "City Council, Dec 3: three-year agreement, two one-year renewals, with Pier Events, LLC for events management services for the Enterprise Facilities Department, up to $860,000 for the initial term; vote ahead. Paying fund not stated.",
+   "shortfall": null,
+   "amount": 860000.0,
+   "link": "https://www.stpete.org/2026-12-03 Agenda Packet.pdf?t=202611201225180#page=4",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-12-03",
+   "categories": [
+    "Events, art & branding",
+    "Consultants"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-21"
+  },
+  {
+   "id": "f539f40814",
+   "government": "St. Petersburg",
+   "governments": [
+    "St. Petersburg"
+   ],
+   "level": "city",
+   "counties": [
+    "Pinellas"
+   ],
+   "description": "City Council consent, Dec 3: $1,000,000 allocation increase for tanker pump-out services with Envirowaste Services Group, Inc. for the Water Resources Department; vote ahead. Paying fund not stated.",
+   "shortfall": null,
+   "amount": 1000000.0,
+   "link": "https://www.stpete.org/2026-12-03 Agenda Packet.pdf?t=202611201225180#page=8",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-12-03",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-21"
+  },
+  {
+   "id": "dbf68adfdc",
+   "government": "Jackson County",
+   "governments": [
+    "Jackson County"
+   ],
+   "level": "county",
+   "counties": [
+    "Jackson"
+   ],
+   "description": "BCC, Nov 24: Blue Springs Phase 3A sewer extension (about 4,117 LF gravity main, 5,296 LF force main, 35 services); item text cites $4,281,765; funding source not shown in the excerpt; vote ahead.",
+   "shortfall": null,
+   "amount": 4281765.0,
+   "link": "https://jacksoncofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3922,plainText=false)#page=131",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-11-24",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-21"
+  },
+  {
+   "id": "93644ad1cc",
+   "government": "Jackson County",
+   "governments": [
+    "Jackson County"
+   ],
+   "level": "county",
+   "counties": [
+    "Jackson"
+   ],
+   "description": "BCC, Nov 24: award of bid 2627-02, milling and resurfacing Old US Road (CR 167), to low bidder Southeast Construction Company, LLC at $1,809,550.80 of 5 bids; FDOT funding of $3,469,324 covers it; vote ahead.",
+   "shortfall": null,
+   "amount": 1809550.8,
+   "link": "https://jacksoncofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3922,plainText=false)#page=122",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-11-24",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-21"
+  },
+  {
+   "id": "fc3bf53d27",
+   "government": "Wilton Manors",
+   "governments": [
+    "Wilton Manors"
+   ],
+   "level": "city",
+   "counties": [
+    "Broward"
+   ],
+   "description": "City Commission, Nov 24: Res. 2026-095, $1,354,231.30 contract with Southern Underground Industries, Inc. for the Tidal Valve Program; $1,000,000 EPA grant plus $354,231.30 from the Drainage Fund; vote ahead.",
+   "shortfall": null,
+   "amount": 1354231.3,
+   "link": "https://wiltonmanorsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7127,plainText=false)#page=93",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-11-24",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-21"
+  },
+  {
+   "id": "af7005a311",
+   "government": "Fort Walton Beach",
+   "governments": [
+    "Fort Walton Beach"
+   ],
+   "level": "city",
+   "counties": [
+    "Okaloosa"
+   ],
+   "description": "City Council, Nov 17: sole-source purchase of five Trackman golf simulator bays, $319,661, as an exception to purchasing policy; staff says the Okaloosa County TDC approved the funding. Same agenda: Toro autonomous range mower package, $150,678.49 in TDC funds. Outcome not verified.",
+   "shortfall": null,
+   "amount": 319661.0,
+   "link": "https://fortwaltonbeachcityfl.iqm2.com/Citizens/FileOpen.aspx?Type=1&ID=2288&Inline=True#page=143",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "Events, art & branding",
+    "No competitive bidding",
+    "Buildings & facilities"
+   ],
+   "featured": true,
+   "project_total": null,
+   "added": "2026-11-21"
+  },
+  {
+   "id": "a6307dba1f",
+   "government": "Miami (OMNI CRA)",
+   "governments": [
+    "Miami (OMNI CRA)"
+   ],
+   "level": "city",
+   "counties": [
+    "Other"
+   ],
+   "description": "OMNI CRA Board, Nov 19: by 4/5 vote, waives competitive bidding to pay Global Flow PR and More, Inc. up to $200,000 for a pilot of public art wraps and streetscape work on eight columns along NE 15th St (0.04% of Miami's special revenue funds). Outcome not verified.",
+   "shortfall": null,
+   "amount": 200000.0,
+   "link": "https://miamifl.iqm2.com/Citizens/FileOpen.aspx?Type=1&ID=4078&Inline=True#page=34",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-19",
+   "categories": [
+    "Events, art & branding",
+    "No competitive bidding"
+   ],
+   "featured": true,
+   "project_total": null,
+   "added": "2026-11-21"
+  },
+  {
+   "id": "5afce170df",
+   "government": "Manatee County",
+   "governments": [
+    "Manatee County"
+   ],
+   "level": "county",
+   "counties": [
+    "Manatee"
+   ],
+   "description": "BCC, Nov 18: $35,000 in one-time funding for the Florida vs. Florida State Legacy Weekend Tailgate and Watch Party, a Bradenton Area Convention and Visitors Bureau item (0.005% of general fund; paying fund not stated). Outcome not verified.",
+   "shortfall": "Chairman Tal Siddique: new parks, libraries \"needs to just stop\"; staff estimate $63M (Suncoast Searchlight, Nov 19)",
+   "amount": 35000.0,
+   "link": "https://agendaonline.mymanatee.org/OnBaseAgendaOnline/Documents/DownloadFileBytes/November_18,_2026_-_Regular_Meeting_813_Agenda_11_18_2026_9_00_00_AM.pdf?documentType=1&meetingId=813#page=8",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-18",
+   "categories": [
+    "Events, art & branding",
+    "Grants to outside groups"
+   ],
+   "featured": true,
+   "project_total": null,
+   "added": "2026-11-21"
+  },
+  {
+   "id": "a63e5d1685",
+   "government": "Okaloosa County",
+   "governments": [
+    "Okaloosa County"
+   ],
+   "level": "county",
+   "counties": [
+    "Okaloosa"
+   ],
+   "description": "BCC, Nov 17: $8,650,040.88 contract with ECSC, LLC for Project Opal Bid Package No. 2 site improvements at the Shoal River Gigasite; a companion item names Project Opal as the Williams International Co, LLC economic development project. Funding source not stated. Outcome not verified.",
+   "shortfall": null,
+   "amount": 8650040.88,
+   "link": "https://okaloosacountyfl.iqm2.com/Citizens/FileOpen.aspx?Type=1&ID=1878&Inline=True#page=12",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "Private benefit",
+    "Large dollar amount"
+   ],
+   "featured": true,
+   "project_total": null,
+   "added": "2026-11-21"
+  },
+  {
+   "id": "32f0848a94",
+   "government": "Miami (SEOPW CRA)",
+   "governments": [
+    "Miami (SEOPW CRA)"
+   ],
+   "level": "city",
+   "counties": [
+    "Other"
+   ],
+   "description": "SEOPW CRA Board, Nov 19: development agreement granting AMC HTG 2, Ltd. up to $1,000,000 from Series 2025 CRA bond proceeds for affordable housing; any excess funds returned to the CRA go back to the developer as an additional grant. Outcome not verified.",
+   "shortfall": null,
+   "amount": 1000000.0,
+   "link": "https://miamifl.iqm2.com/Citizens/FileOpen.aspx?Type=1&ID=4085&Inline=True#page=98",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-19",
+   "categories": [
+    "Grants to outside groups",
+    "Private benefit",
+    "Borrowing & debt"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-21"
+  },
+  {
+   "id": "9fe1c8c897",
+   "government": "Leon County",
+   "governments": [
+    "Leon County"
+   ],
+   "level": "county",
+   "counties": [
+    "Leon"
+   ],
+   "description": "BCC, Nov 17: Community Human Service Partnership (CHSP) funding item, $1,445,000 per item text, pulled from consent; Commissioner Maddox recused, citing his position as CEO of Family Promise of the Big Bend. Recipients not listed in the excerpt. Outcome not verified.",
+   "shortfall": "Leon commissioners discussed deeper cuts after Amendment 3 (Tallahassee Democrat, Nov 13)",
+   "amount": 1445000.0,
+   "link": "https://www2.leoncountyfl.gov/coadmin/agenda/book/261117/agenda.pdf#page=24",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "Grants to outside groups"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-21"
+  },
+  {
+   "id": "35d1822d91",
+   "government": "Aventura",
+   "governments": [
+    "Aventura"
+   ],
+   "level": "city",
+   "counties": [
+    "Miami-Dade"
+   ],
+   "description": "City Commission, Nov 17: sole-source procurement from Packetalk, LLC, up to $500,000, waiving competitive procurement, for camera system expansion and a Real-Time Crime Center, funded by an FY26 federal COPS Technology and Equipment grant. Outcome not verified.",
+   "shortfall": null,
+   "amount": 500000.0,
+   "link": "https://www.cityofaventura.com/AgendaCenter/ViewFile/Agenda/_11172026-530#page=94",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-17",
+   "categories": [
+    "No competitive bidding"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-21"
+  },
+  {
+   "id": "b50488f944",
+   "government": "School District of Lee County",
+   "governments": [
+    "School District of Lee County"
+   ],
+   "level": "county",
+   "counties": [
+    "School District of Lee"
+   ],
+   "description": "School Board special meeting, Nov 20: approval to complete the Royal Palm School partial renovation, up to $5,300,000 from capital millage; more funding may be needed outside the construction scope. Outcome not verified.",
+   "shortfall": null,
+   "amount": 5300000.0,
+   "link": "https://go.boarddocs.com/fl/lee/Board.nsf/goto?open&id=DZX4FL0B5D1D",
+   "stage": "past_meeting",
+   "kind": "spending",
+   "meeting_date": "2026-11-20",
+   "categories": [
+    "Large dollar amount"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-21"
+  },
+  {
+   "id": "3dc5a32947",
+   "government": "Gulfport",
+   "governments": [
+    "Gulfport"
+   ],
+   "level": "city",
+   "counties": [
+    "Pinellas"
+   ],
+   "description": "Nov 20 (Newsweek): Mayor Karen Love on the budget gap: \"This is not going to be an easy discussion.\" City must cut $1.1M in services or raise $1.1M in revenue.",
+   "shortfall": "Must cut or raise $1.1M (Nov 20, 2026)",
+   "amount": 1100000.0,
+   "link": "https://www.newsweek.com/florida-officials-cut-back-public-services-after-amendment-3-passes-12746516",
+   "stage": "statement",
+   "kind": "statement",
+   "meeting_date": null,
+   "categories": [
+    "Shortfall"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-21"
+  },
+  {
+   "id": "cb32f6c355",
+   "government": "Sarasota County",
+   "governments": [
+    "Sarasota County"
+   ],
+   "level": "county",
+   "counties": [
+    "Sarasota"
+   ],
+   "description": "Nov 20 (WGCU/Suncoast Searchlight): County Administrator Jonathan Lewis paused hiring for 250 vacancies; memo tells outside partners to \"plan for the potential of funding reduction.\" Projected loss $134M within two years.",
+   "shortfall": "Projected loss $134M in two years, $386.6M in five (FAC)",
+   "amount": 134000000.0,
+   "link": "https://www.wgcu.org/government-politics/2026-11-20/after-amendment-3-sarasota-county-will-review-planned-projects-heres-what-they-cost",
+   "stage": "statement",
+   "kind": "statement",
+   "meeting_date": null,
+   "categories": [
+    "Shortfall"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-21"
+  },
+  {
+   "id": "12c03d0909",
+   "government": "Sarasota County",
+   "governments": [
+    "Sarasota County"
+   ],
+   "level": "county",
+   "counties": [
+    "Sarasota"
+   ],
+   "description": "WGCU/Suncoast Searchlight, Nov 20: \"After Amendment 3, Sarasota County will review planned projects; Here's what they cost\". Includes $84.8M sheriff HQ expansion, $20M Benderson Park sports complex share, $13.2M Longboat Key Library; review set for Dec 15.",
+   "shortfall": "Projected loss $134M in two years (FAC)",
+   "amount": 84800000.0,
+   "link": "https://www.wgcu.org/government-politics/2026-11-20/after-amendment-3-sarasota-county-will-review-planned-projects-heres-what-they-cost",
+   "stage": "news",
+   "kind": "news",
+   "meeting_date": null,
+   "categories": [
+    "Buildings & facilities"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-21"
+  },
+  {
+   "id": "853086a74a",
+   "government": "St. Pete Beach / Gulfport / St. Johns County",
+   "governments": [
+    "St. Pete Beach",
+    "Gulfport",
+    "St. Johns County"
+   ],
+   "level": "city",
+   "counties": [
+    "Pinellas",
+    "St. Johns"
+   ],
+   "description": "Newsweek, Nov 20: \"Florida officials cut back public services after Amendment 3 passes\". Cites St. Pete Beach trolley cut, Gulfport $1.1M gap, and a paused $100M St. Johns County fire station project.",
+   "shortfall": null,
+   "amount": 100000000.0,
+   "link": "https://www.newsweek.com/florida-officials-cut-back-public-services-after-amendment-3-passes-12746516",
+   "stage": "news",
+   "kind": "news",
+   "meeting_date": null,
+   "categories": [
+    "Service cuts"
+   ],
+   "featured": false,
+   "project_total": null,
+   "added": "2026-11-21"
+  },
+  {
+   "id": "ba0842c10a",
+   "government": "St. Petersburg",
+   "governments": [
+    "St. Petersburg"
+   ],
+   "level": "city",
+   "counties": [
+    "Pinellas"
+   ],
+   "description": "CRA, Dec 3: finds that disposing of the Deuces Rising Replat lots (Lots 1-12, Blocks 1 and 2, plus common tracts) at 2250 Fairfield Ave S and 23rd St S for less than fair value fits the South St. Pete CRA plan; recommends City Council approval. Buyer and price not stated.",
+   "shortfall": null,
+   "amount": null,
+   "link": "https://www.stpete.org/2026-12-03 Agenda Packet.pdf?t=202611201225180#page=7",
+   "stage": "upcoming",
+   "kind": "spending",
+   "meeting_date": "2026-12-03",
+   "categories": [
+    "Private benefit"
+   ],
+   "featured": true,
+   "project_total": null,
+   "added": "2026-11-21"
   }
  ]
 }
