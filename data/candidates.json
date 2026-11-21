@@ -1,26 +1,26 @@
 {
- "generated_utc": "2026-11-21T07:29:49+00:00",
+ "generated_utc": "2026-11-21T16:06:23+00:00",
  "counts": {
-  "pool": 1551,
-  "outgoing_grants": 531,
-  "bypass": 181,
+  "pool": 1584,
+  "outgoing_grants": 542,
+  "bypass": 187,
   "other_top": 150,
   "by_stage": {
    "upcoming": 209,
-   "past_meeting": 1197,
-   "undated": 145
+   "past_meeting": 1200,
+   "undated": 175
   },
   "by_category": {
-   "outgoing_grant": 531,
-   "vanity": 88,
-   "debt": 98,
+   "outgoing_grant": 542,
+   "vanity": 96,
+   "debt": 100,
    "private_benefit": 35,
-   "officials_perks": 27,
-   "consultants": 129,
-   "legal": 21,
-   "large_spending": 585,
-   "no_bid": 183,
-   "facilities": 41
+   "officials_perks": 29,
+   "consultants": 130,
+   "legal": 22,
+   "large_spending": 597,
+   "no_bid": 189,
+   "facilities": 42
   },
   "possible_duplicates": 230,
   "missing_link": 0
@@ -15466,6 +15466,56 @@
    ]
   },
   {
+   "entity_id": "sd-lee",
+   "government": "School District of Lee County",
+   "client": "boarddocs",
+   "body": "School Board Meeting (Board Organization) 6:00 PM",
+   "meeting_date": "2026-11-17",
+   "agenda_number": null,
+   "file_number": null,
+   "title": "8. Approval of the 26-27 Capitalization Incentive Grant Type Action (Consent) Fiscal Impact Yes Dollar Amount 1,573,879.00 Budgeted Yes Budget Source If approved and awarded, the grant will provide $1,573,879.00 for program costs (including $67,050.00 in indirect costs). There is no additional direct cost to the District. Recommended Action Approval of the 26-27 Capitalization Incentive Grant requesting $1,573,879.00. Approval authorizes the Superintendent to execute all related and contractual documents. Approval authorizes the Superintendent to execute all related and contractual documents when required by the funder and to approve normal and customary accounting, bookkeeping, and payroll processes to maintain continuity of federal and state grant expenditures during fiscal year changes and other technical transitions. Any processes approved by the Superintendent will reflect best practices and conform to funding agency regulations. The Department of Grants and Program Development is submitting the 26-27 Workforce Development Capitalization Incentive Grant Application to the Florida Department of Education, a State agency,\u00a0under the provisions of School Board Policy 6110. \u00a0 Autho",
+   "max_amount": 1573879.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 1573879.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "District. Recommended Action Approval of",
+   "signal_score": 4.2,
+   "keywords": [],
+   "meeting_url": "https://go.boarddocs.com/fl/lee/Board.nsf/goto?open&id=DRCK3A4FAFD4",
+   "agenda_pdf": "https://go.boarddocs.com/fl/lee/Board.nsf/goto?open&id=DZ5JFZ4D0C34",
+   "found_utc": "2026-11-21T16:00:38+00:00",
+   "link": "https://go.boarddocs.com/fl/lee/Board.nsf/goto?open&id=DZ5JFZ4D0C34",
+   "id": "sd-lee|2026-11-17|ae5e8b6f|700a7d99f74c",
+   "project_id": "sd-lee|item:sd-lee|2026-11-17|ae5e8b6f|700a7d99f74c",
+   "project_total": 1573900.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": null,
+   "pct_of_paying_fund": null,
+   "general_fund": null,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [
+    {
+     "id": "sd-lee|2026-11-17|01ee503f|e199aa1acfe3",
+     "meeting_date": "2026-11-17",
+     "reason": "similar text 0.81"
+    },
+    {
+     "id": "sd-lee|2026-11-17|41a155be|ec96cc42dadb",
+     "meeting_date": "2026-11-17",
+     "reason": "similar text 0.65"
+    }
+   ],
+   "possible_duplicate_label": null,
+   "stage": "past_meeting",
+   "days_until_meeting": -4,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
    "entity_id": "c-leon",
    "government": "Leon County",
    "client": "pdf",
@@ -17162,7 +17212,18 @@
    "pct_of_paying_fund": null,
    "general_fund": null,
    "pct_of_general_fund": null,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "sd-lee|2026-11-17|41a155be|ec96cc42dadb",
+     "meeting_date": "2026-11-17",
+     "reason": "similar text 0.60"
+    },
+    {
+     "id": "sd-lee|2026-11-17|ae5e8b6f|700a7d99f74c",
+     "meeting_date": "2026-11-17",
+     "reason": "similar text 0.81"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "past_meeting",
    "days_until_meeting": -4,
@@ -18538,6 +18599,56 @@
    "possible_duplicate_label": "2026-10-27 (same amount)",
    "stage": "past_meeting",
    "days_until_meeting": -347,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "sd-lee",
+   "government": "School District of Lee County",
+   "client": "boarddocs",
+   "body": "School Board Meeting (Board Organization) 6:00 PM",
+   "meeting_date": "2026-11-17",
+   "agenda_number": null,
+   "file_number": null,
+   "title": "9. Approval of Budget Amendment 4 for the 24-25 Workforce Capitalization Grant Type Action (Consent) Fiscal Impact Yes Dollar Amount 211,679.00 Budgeted Yes Budget Source Funding to be reallocated within previously approved amount. Recommended Action This amendment moves $211,679.00 to the correct account lines to finalize the spend of the funds, per the approved application. Approval authorizes the Superintendent to execute all related and contractual documents. Approval authorizes the Superintendent to execute all related and contractual documents when required by the funder and to approve normal and customary accounting, bookkeeping, and payroll processes to maintain continuity of federal and state grant expenditures during fiscal year changes and other technical transitions. Any processes approved by the Superintendent will reflect best practices and conform to funding agency regulations. Background Information \u00a0 The Department of Grants and Program Development is submitting the 24-25 Workforce Development Capitalization Incentive Grant Amendment 4 to the Florida Department of Education, a State agency,\u00a0under the provisions of School Board Policy 6110. \u00a0 Authorization: \u00a0 This p",
+   "max_amount": 211679.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 211679.0,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Florida Department of Education",
+   "signal_score": 3.3,
+   "keywords": [],
+   "meeting_url": "https://go.boarddocs.com/fl/lee/Board.nsf/goto?open&id=DRCK3A4FAFD4",
+   "agenda_pdf": "https://go.boarddocs.com/fl/lee/Board.nsf/goto?open&id=DZ8KD65151CC",
+   "found_utc": "2026-11-21T16:00:38+00:00",
+   "link": "https://go.boarddocs.com/fl/lee/Board.nsf/goto?open&id=DZ8KD65151CC",
+   "id": "sd-lee|2026-11-17|41a155be|ec96cc42dadb",
+   "project_id": "sd-lee|item:sd-lee|2026-11-17|41a155be|ec96cc42dadb",
+   "project_total": 211700.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": null,
+   "pct_of_paying_fund": null,
+   "general_fund": null,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [
+    {
+     "id": "sd-lee|2026-11-17|01ee503f|e199aa1acfe3",
+     "meeting_date": "2026-11-17",
+     "reason": "similar text 0.60"
+    },
+    {
+     "id": "sd-lee|2026-11-17|ae5e8b6f|700a7d99f74c",
+     "meeting_date": "2026-11-17",
+     "reason": "similar text 0.65"
+    }
+   ],
+   "possible_duplicate_label": null,
+   "stage": "past_meeting",
+   "days_until_meeting": -4,
    "categories": [
     "outgoing_grant"
    ]
@@ -31823,6 +31934,57 @@
    "client": "pdf",
    "body": null,
    "meeting_date": null,
+   "agenda_number": "p.319",
+   "file_number": null,
+   "title": "myfloridacfo.com/docs-sf/accounting-and-auditing-libraries/state-agencies/reference-guide-for-state- expenditures.pdf?sfvrsn=b4cc3337_2 . Grant funds may not be used for the purchase or construction of a library building or library quarters. 11 . Travel Expenses. The Grantee must pay any travel expenses, from grant or local matching funds, in accordance to the provisions of Section 112.061, Florida Statutes. 12 . Unobligated and Unearned Funds and Allowable Costs. In accordance with Section 215.971, Florida Statutes , the Grantee shall refund to the State of Florida any balance of unobligated funds which has been advanced or paid to the Grantee. In addition, funds paid in excess of the amount to which the recipient is entitled under the terms and conditions of the agreement must be refunded to the state agency. Further, the recipient may expend funds only for allowable costs resulting from obligations incurred during the specified agreement period. Expenditures of state financial assistance must be in compliance with the laws, rules and regulations applicable to expenditures of State funds as outlined in the Department of Financial Service\u2019s Reference Guide for State Expenditures (",
+   "max_amount": 750000.0,
+   "flow": "mixed",
+   "funding_source": "special_revenue",
+   "signed_amount": 750000.0,
+   "signals": [
+    "legal",
+    "officials"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Grantee. In",
+   "signal_score": 6.9,
+   "keywords": [
+    "agreement",
+    "construction",
+    "library",
+    "purchase",
+    "refund"
+   ],
+   "meeting_url": "https://lakepark-fl.municodemeetings.com/",
+   "agenda_pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf",
+   "found_utc": "2026-11-21T16:00:38+00:00",
+   "link": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf#page=319",
+   "id": "m-lakepark|nodate|07d2c4b8|f19791e5e6c5",
+   "project_id": "m-lakepark|item:m-lakepark|nodate|07d2c4b8|f19791e5e6c5",
+   "project_total": 750000.0,
+   "paying_fund": "special_revenue",
+   "paying_fund_expenditures": 4651544,
+   "pct_of_paying_fund": 16.124,
+   "general_fund": 13613476,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant",
+    "officials_perks",
+    "debt",
+    "legal"
+   ]
+  },
+  {
+   "entity_id": "m-lakepark",
+   "government": "Lake Park",
+   "client": "pdf",
+   "body": null,
+   "meeting_date": null,
    "agenda_number": "p.258",
    "file_number": null,
    "title": "RESOLUTION 117-11-26 A RESOLUTION OF THE COMMUNITY REDEVELOPMENT AGENCY OF THE TOWN OF LAKE PARK, FLORIDA APPROVING A GRANT AND AUTHORIZING THE CHAIR TO EXECUTE A GRANT AGREEMENT WITH CROWN ENTERPRISES LLC, UNDER THE FACADE AND EXTERIOR IMPROVEMENT GRANT PROGRAM FOR IMPROVEMENTS TO THE PROPERTY LOCATED AT 1454 & 1456 10TH STREET; AND PROVIDING FOR AN EFFECTIVE DATE. WHEREAS, the Town of Lake Park Community Redevelopment Agency (\u201cCRA\u201d), organized and having the powers and authority conferred upon it by Chapter 163, Part III, Florida Statutes; and WHEREAS, the CRA has adopted the Lake Park Redevelopment Master Plan pursuant to Fla. Stat. \u00a7163.360(7)(d) (the \u201cMaster Plan\u201d); and WHEREAS, the Master Plan identifies aesthetic improvement grants as an opportunity for the rehabilitation and redevelopment of properties located within the Redevelopment Area governed by the Master Plan; and WHEREAS, in furtherance of its goals, the CRA adopted Redevelopment Incentive Programs to provide grants to eligible recipients for certain property improvements; and WHEREAS, Crown Enterprises LLC (\u201cGrantee\u201d) is the owner of property having an address at 1454 and 1456 10th Street in the Town of Lake Park,",
@@ -32130,6 +32292,48 @@
    "categories": [
     "outgoing_grant",
     "consultants"
+   ]
+  },
+  {
+   "entity_id": "m-lakepark",
+   "government": "Lake Park",
+   "client": "pdf",
+   "body": null,
+   "meeting_date": null,
+   "agenda_number": "p.374",
+   "file_number": null,
+   "title": "1. Marketing Specialist (Full-Time) \u2013 Reclassify an existing funded position (Marketing Specialist) within the Communications & Grants Department from Pay Grade 90 to Pay Grade 120 to align the position with the similar CRA Project/Marketing Coordinator position. The annual salary range (or pay grade) for this reclassified position is proposed to be moved from Pay Grade 90 to Pay Grade 120 within the proposed FY 2027 Pay Grade Chart.",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "special_revenue",
+   "signed_amount": null,
+   "signals": [
+    "vanity"
+   ],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Pay Grade",
+   "signal_score": 4,
+   "keywords": [],
+   "meeting_url": "https://lakepark-fl.municodemeetings.com/",
+   "agenda_pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf",
+   "found_utc": "2026-11-21T16:00:38+00:00",
+   "link": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf#page=374",
+   "id": "m-lakepark|nodate|07d2c4b8|7866a3b0095f",
+   "project_id": "m-lakepark|item:m-lakepark|nodate|07d2c4b8|7866a3b0095f",
+   "project_total": null,
+   "paying_fund": "special_revenue",
+   "paying_fund_expenditures": 4651544,
+   "pct_of_paying_fund": null,
+   "general_fund": 13613476,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant",
+    "vanity"
    ]
   },
   {
@@ -33229,6 +33433,290 @@
    "link": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-fd70ab869e084748b3e5a6829c343fb5.pdf#page=210",
    "id": "m-lakepark|nodate|07f924a5|514a7cb3c5e1",
    "project_id": "m-lakepark|ref:itb 25-1",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 13613476,
+   "pct_of_paying_fund": null,
+   "general_fund": 13613476,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-lakepark",
+   "government": "Lake Park",
+   "client": "pdf",
+   "body": null,
+   "meeting_date": null,
+   "agenda_number": "p.119",
+   "file_number": null,
+   "title": "WHEREAS, effective July 1, 2003, the Florida Legislature amended Chapter 257 F.S. to allow municipalities to apply for funding from the State Aid to Libraries program; and",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Libraries",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://lakepark-fl.municodemeetings.com/",
+   "agenda_pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf",
+   "found_utc": "2026-11-21T16:00:38+00:00",
+   "link": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf#page=119",
+   "id": "m-lakepark|nodate|07d2c4b8|ea8e707acee2",
+   "project_id": "m-lakepark|item:m-lakepark|nodate|07d2c4b8|ea8e707acee2",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 13613476,
+   "pct_of_paying_fund": null,
+   "general_fund": 13613476,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-lakepark",
+   "government": "Lake Park",
+   "client": "pdf",
+   "body": null,
+   "meeting_date": null,
+   "agenda_number": "p.314",
+   "file_number": null,
+   "title": "WHEREAS, the Town Manager recommends that the Commission authorize the submission of an application to the Department seeking funding for the Town of Lake Park; and",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Department",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://lakepark-fl.municodemeetings.com/",
+   "agenda_pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf",
+   "found_utc": "2026-11-21T16:00:38+00:00",
+   "link": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf#page=314",
+   "id": "m-lakepark|nodate|07d2c4b8|035ca4a09788",
+   "project_id": "m-lakepark|item:m-lakepark|nodate|07d2c4b8|035ca4a09788",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 13613476,
+   "pct_of_paying_fund": null,
+   "general_fund": 13613476,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-lakepark",
+   "government": "Lake Park",
+   "client": "pdf",
+   "body": null,
+   "meeting_date": null,
+   "agenda_number": "p.316",
+   "file_number": null,
+   "title": "a ) b ) 27-ST-58 Lake Park Public Library STATE AID TO LIBRARIES GRANT AGREEMENT BETWEEN THE STATE OF FLORIDA, DEPARTMENT OF STATE AND Lake Park Public Library for and on behalf of Lake Park Public Library This Agreement is by and between the State of Florida, Department of State, Division of Library and Information Services, hereinafter referred to as the \u201cDivision,\" and the Lake Park Public Library for and on behalf of Lake Park Public Library , hereinafter referred to as the \"Grantee.\" The Grantee has submitted an application and has met all eligibility requirements and has been awarded a State Aid to Libraries Grant (CSFA 45.030) by the Division in the amount specified on the \u201cFiscal Year 2026-2027 State Aid to Libraries Final Grants\u201d document (which is incorporated as part of this Agreement and entitled Attachment B). The Division has the authority to administer this grant in accordance with Section 257, Florida Statutes. By reference, the application and any approved revisions are hereby made a part of this agreement. In consideration of the mutual covenants and promises contained herein, the parties agree as follows: 1 . Grant Purpose. This grant shall be used exclusively fo",
+   "max_amount": null,
+   "flow": "mixed",
+   "funding_source": "special_revenue",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Libraries Grant",
+   "signal_score": 2,
+   "keywords": [
+    "agreement",
+    "library"
+   ],
+   "meeting_url": "https://lakepark-fl.municodemeetings.com/",
+   "agenda_pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf",
+   "found_utc": "2026-11-21T16:00:38+00:00",
+   "link": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf#page=316",
+   "id": "m-lakepark|nodate|07d2c4b8|16d19cfd8774",
+   "project_id": "m-lakepark|item:m-lakepark|nodate|07d2c4b8|16d19cfd8774",
+   "project_total": null,
+   "paying_fund": "special_revenue",
+   "paying_fund_expenditures": 4651544,
+   "pct_of_paying_fund": null,
+   "general_fund": 13613476,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-lakepark",
+   "government": "Lake Park",
+   "client": "pdf",
+   "body": null,
+   "meeting_date": null,
+   "agenda_number": "p.318",
+   "file_number": null,
+   "title": "The form also includes tools and information that allow you to check on payments. 7 . Florida Substitute Form W-9. A completed Substitute Form W-9 is required from any entity that receives a payment from the State of Florida that may be subject to 1099 reporting. The Department of Financial Services (DFS) must have the correct Taxpayer Identification Number (TIN) and other related information in order to report accurate tax information to the Internal Revenue Service (IRS). To register or access a Florida Substitute Form W-9 visit flvendor.myfloridacfo.com . A copy of the Grantee\u2019s Florida Substitute Form W-9 must be submitted by the Grantee to the Division with the executed Agreement. 8 . Financial Consequences. The Department shall apply the following financial consequences for failure to perform the minimum level of services required by this Agreement in accordance with Sections 215.971 and 287.058, Florida Statutes : The Department shall require the return of the award in a prorated amount based upon the percentage of time that the library failed to perform the minimum level of services. The prorated reduction will be in the same percentage as the percentage of time that the li",
+   "max_amount": null,
+   "flow": "mixed",
+   "funding_source": "special_revenue",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Internal Revenue Service",
+   "signal_score": 2,
+   "keywords": [
+    "agreement",
+    "library"
+   ],
+   "meeting_url": "https://lakepark-fl.municodemeetings.com/",
+   "agenda_pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf",
+   "found_utc": "2026-11-21T16:00:38+00:00",
+   "link": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf#page=318",
+   "id": "m-lakepark|nodate|07d2c4b8|e831b81712e7",
+   "project_id": "m-lakepark|item:m-lakepark|nodate|07d2c4b8|e831b81712e7",
+   "project_total": null,
+   "paying_fund": "special_revenue",
+   "paying_fund_expenditures": 4651544,
+   "pct_of_paying_fund": null,
+   "general_fund": 13613476,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-lakepark",
+   "government": "Lake Park",
+   "client": "pdf",
+   "body": null,
+   "meeting_date": null,
+   "agenda_number": "p.321",
+   "file_number": null,
+   "title": "a ) b ) c ) d ) 24 . Liability. The Division will not assume any liability for the acts, omissions to act or negligence of the Grantee, its agents, servants or employees; nor may the Grantee exclude liability for its own acts, omissions to act or negligence to the Division. The Grantee shall be responsible for claims of any nature, including but not limited to injury, death and property damage arising out of activities related to this Agreement by the Grantee, its agents, servants, employees and subcontractors. The Grantee shall indemnify and hold the Division harmless from any and all claims of any nature and shall investigate all such claims at its own expense. If the Grantee is governed by Section 768.28, Florida Statutes , it shall only be obligated in accordance with this Section. Neither the state nor any agency or subdivision of the state waives any defense of sovereign immunity or increases the limits of its liability by entering into this Agreement. The Division shall not be liable for attorney fees, interest, late charges or service fees, or cost of collection related to this Agreement. The Grantee shall be responsible for all work performed and all expenses incurred in c",
+   "max_amount": null,
+   "flow": "mixed",
+   "funding_source": "special_revenue",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Division. The Grantee",
+   "signal_score": 2,
+   "keywords": [
+    "agreement"
+   ],
+   "meeting_url": "https://lakepark-fl.municodemeetings.com/",
+   "agenda_pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf",
+   "found_utc": "2026-11-21T16:00:38+00:00",
+   "link": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf#page=321",
+   "id": "m-lakepark|nodate|07d2c4b8|ce7fffa348af",
+   "project_id": "m-lakepark|item:m-lakepark|nodate|07d2c4b8|ce7fffa348af",
+   "project_total": null,
+   "paying_fund": "special_revenue",
+   "paying_fund_expenditures": 4651544,
+   "pct_of_paying_fund": null,
+   "general_fund": 13613476,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-lakepark",
+   "government": "Lake Park",
+   "client": "pdf",
+   "body": null,
+   "meeting_date": null,
+   "agenda_number": "p.323",
+   "file_number": null,
+   "title": "a ) b ) c ) 34 . Conflicts of Interest. The Grantee hereby certifies that it is cognizant of the prohibition of conflicts of interest described in Sections 112.311 through 112.326, Florida Statutes and affirms that it will not enter into or maintain a business or other relationship with any employee of the Department of State that would violate those provisions. The Grantee further agrees to seek authorization from the General Counsel for the Department of State prior to entering into any business or other relationship with a Department of State Employee to avoid a potential violation of those statutes. 35 . Binding of Successors. This Agreement shall bind the successors, assigns and legal representatives of the Grantee and of any legal entity that succeeds to the obligations of the Division of Library and Information Services. 36 . Employment of Unauthorized Aliens. The employment of unauthorized aliens by the Grantee is considered a violation of Section 274A (a) of the Immigration and Nationality Act (8 USC 1324(a) (as of January 2023)), incorporated by reference. If the Grantee knowingly employs unauthorized aliens, such violation shall be cause for unilateral cancellation of th",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Department of State",
+   "signal_score": 2,
+   "keywords": [
+    "agreement",
+    "library"
+   ],
+   "meeting_url": "https://lakepark-fl.municodemeetings.com/",
+   "agenda_pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf",
+   "found_utc": "2026-11-21T16:00:38+00:00",
+   "link": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf#page=323",
+   "id": "m-lakepark|nodate|07d2c4b8|8e7107a58960",
+   "project_id": "m-lakepark|item:m-lakepark|nodate|07d2c4b8|8e7107a58960",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 13613476,
+   "pct_of_paying_fund": null,
+   "general_fund": 13613476,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "outgoing_grant"
+   ]
+  },
+  {
+   "entity_id": "m-lakepark",
+   "government": "Lake Park",
+   "client": "pdf",
+   "body": null,
+   "meeting_date": null,
+   "agenda_number": "p.329",
+   "file_number": null,
+   "title": "ATTACHMENT B Fiscal Year 2026-2027 State Aid to Libraries Final Grants Page: 14 State Aid to Libraries Grant Chapter 1B-2.011(2)(a), Florida Administrative Code , Effective 09-2025 329 Item 17.",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [],
+   "outgoing_grant": true,
+   "bypass_competition": false,
+   "recipient": "Libraries Final Grants Page",
+   "signal_score": 2,
+   "keywords": [],
+   "meeting_url": "https://lakepark-fl.municodemeetings.com/",
+   "agenda_pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf",
+   "found_utc": "2026-11-21T16:00:38+00:00",
+   "link": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf#page=329",
+   "id": "m-lakepark|nodate|07d2c4b8|80b7991802c6",
+   "project_id": "m-lakepark|item:m-lakepark|nodate|07d2c4b8|80b7991802c6",
    "project_total": null,
    "paying_fund": "general",
    "paying_fund_expenditures": 13613476,
@@ -34611,6 +35099,51 @@
    "days_until_meeting": -4,
    "categories": [
     "no_bid"
+   ]
+  },
+  {
+   "entity_id": "sd-lee",
+   "government": "School District of Lee County",
+   "client": "boarddocs",
+   "body": "School Board Meeting (Board Organization) 6:00 PM",
+   "meeting_date": "2026-11-17",
+   "agenda_number": null,
+   "file_number": null,
+   "title": "1. Approval to Piggyback The State of Florida Department of Management Services State Term Contract No. 80101500-25-STC \u2013 Management Consulting Services Type Action (Consent) Fiscal Impact Yes Dollar Amount 292,850.00 Budgeted Yes Budget Source This agenda item is specifically for the approval of the piggyback. Funds will only be expended within the existing resources of the applicable location. Recommended Action Approval to piggyback The State of Florida Department of Management Services State Term Contract No. 80101500-25-STC, for Management Consulting Services, awarded to MGT Impact Solutions, LLC, in Tampa, FL, for the period of November 17, 2026 through June 30, 2027, for up to $292,850.00, with an option to cancel if deemed to be in the best interest of the District. Approval authorizes the Superintendent to execute all related and contractual documents. The State of Florida Department of Management Services State Term Contract No. 80101500-25-STC, for Management Consulting Services, was awarded to MGT Impact Solutions, LLC, in Tampa, FL, for the period of March 3, 2026 through November 30, 2028. This contract will provide the District with professional advisory support to h",
+   "max_amount": 292850.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 292850.0,
+   "signals": [
+    "consultants"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 4.5,
+   "keywords": [
+    "contract",
+    "piggyback"
+   ],
+   "meeting_url": "https://go.boarddocs.com/fl/lee/Board.nsf/goto?open&id=DRCK3A4FAFD4",
+   "agenda_pdf": "https://go.boarddocs.com/fl/lee/Board.nsf/goto?open&id=DYPNXW622095",
+   "found_utc": "2026-11-21T16:00:38+00:00",
+   "link": "https://go.boarddocs.com/fl/lee/Board.nsf/goto?open&id=DYPNXW622095",
+   "id": "sd-lee|2026-11-17|246ba014|26b5a7bac2f0",
+   "project_id": "sd-lee|ref:contract 80101500-25-STC",
+   "project_total": 292800.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": null,
+   "pct_of_paying_fund": null,
+   "general_fund": null,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "past_meeting",
+   "days_until_meeting": -4,
+   "categories": [
+    "no_bid",
+    "consultants"
    ]
   },
   {
@@ -39196,6 +39729,162 @@
    "client": "pdf",
    "body": null,
    "meeting_date": null,
+   "agenda_number": "p.300",
+   "file_number": null,
+   "title": "Recommended Motion: I move to approve Resolution 87-09-26 and authorize the (piggyback) purchase of twelve (12) Dell Pro 14 Plus Laptops from Dell Marketing L.P., in the total amount of $17,152.92; and authorize the Mayor to execute the purchase documents. 300 Item 16.",
+   "max_amount": 17152.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 17152.0,
+   "signals": [
+    "vanity"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 4.2,
+   "keywords": [
+    "piggyback",
+    "purchase"
+   ],
+   "meeting_url": "https://lakepark-fl.municodemeetings.com/",
+   "agenda_pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf",
+   "found_utc": "2026-11-21T16:00:38+00:00",
+   "link": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf#page=300",
+   "id": "m-lakepark|nodate|07d2c4b8|08d8b5253033",
+   "project_id": "m-lakepark|ref:ord/res 87-09",
+   "project_total": 17200.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 13613476,
+   "pct_of_paying_fund": 0.126,
+   "general_fund": 13613476,
+   "pct_of_general_fund": 0.126,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid",
+    "vanity"
+   ]
+  },
+  {
+   "entity_id": "m-lakepark",
+   "government": "Lake Park",
+   "client": "pdf",
+   "body": null,
+   "meeting_date": null,
+   "agenda_number": "p.299",
+   "file_number": null,
+   "title": "To ensure the lowest possible price, staff is recommending that the Town piggyback off the Florida Department of Management Services (FDMS) state bid list, which was awarded to Dell Marketing L.P. through a competitive selection process (Contract #43210000-23-NASPO-ACS) for the provision of laptops and related software.",
+   "max_amount": null,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [
+    "vanity"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 4,
+   "keywords": [
+    "contract",
+    "piggyback"
+   ],
+   "meeting_url": "https://lakepark-fl.municodemeetings.com/",
+   "agenda_pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf",
+   "found_utc": "2026-11-21T16:00:38+00:00",
+   "link": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf#page=299",
+   "id": "m-lakepark|nodate|07d2c4b8|52695ad71de6",
+   "project_id": "m-lakepark|ref:contract 43210000-23-NASPO-ACS",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 13613476,
+   "pct_of_paying_fund": null,
+   "general_fund": 13613476,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [
+    {
+     "id": "m-lakepark|nodate|07f924a5|57e384825b5b",
+     "meeting_date": null,
+     "reason": "similar text 0.61"
+    }
+   ],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid",
+    "vanity"
+   ]
+  },
+  {
+   "entity_id": "m-lakepark",
+   "government": "Lake Park",
+   "client": "pdf",
+   "body": null,
+   "meeting_date": null,
+   "agenda_number": "p.300",
+   "file_number": null,
+   "title": "If approved, the Town Commission would accept Dell Marketing\u2019s pricing by piggybacking the Department of Management Services (FDMS) state bid list, including all terms, conditions and pricing therein. The Town will not expend more than the amount within the approved budget as it may be adopted/amended each year for these goods and services over the term of this contract.",
+   "max_amount": null,
+   "flow": "mixed",
+   "funding_source": "unstated",
+   "signed_amount": null,
+   "signals": [
+    "vanity"
+   ],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 4,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://lakepark-fl.municodemeetings.com/",
+   "agenda_pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf",
+   "found_utc": "2026-11-21T16:00:38+00:00",
+   "link": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf#page=300",
+   "id": "m-lakepark|nodate|07d2c4b8|a856f1b41e08",
+   "project_id": "m-lakepark|item:m-lakepark|nodate|07d2c4b8|a856f1b41e08",
+   "project_total": null,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 13613476,
+   "pct_of_paying_fund": null,
+   "general_fund": 13613476,
+   "pct_of_general_fund": null,
+   "possible_duplicates": [
+    {
+     "id": "m-lakepark|nodate|07b371b8|2ce12cc41ae8",
+     "meeting_date": null,
+     "reason": "similar text 0.61"
+    },
+    {
+     "id": "m-lakepark|nodate|07f924a5|f361d9ee0b07",
+     "meeting_date": null,
+     "reason": "similar text 0.94"
+    },
+    {
+     "id": "m-lakepark|nodate|f7f7d6bb|2ce12cc41ae8",
+     "meeting_date": null,
+     "reason": "similar text 0.61"
+    }
+   ],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid",
+    "vanity"
+   ]
+  },
+  {
+   "entity_id": "m-lakepark",
+   "government": "Lake Park",
+   "client": "pdf",
+   "body": null,
+   "meeting_date": null,
    "agenda_number": "p.11",
    "file_number": null,
    "title": "19. Resolution 100-10-26 \u2013 Agreement (Piggyback) \u2013 Approve Purchase of One (1) 2026 Mack Granite Vac- Con Sewer Combination Cleaner (Vacuum Truck) - Nextran Truck Centers - $589,866. Public Works Director Morales explained the item (Exhibit E). Town Manager Reade spoke about the benefit and savings of using the piggyback agreement. Motion to approve Resolution 100-10-26 made by Commissioner O'Rourke, Seconded by Commissioner Thomas. Voting Yea: Mayor Michaud, Vice Mayor Hensley, Commissioner Thomas, Commissioner Linden, Commissioner O'Rourke.",
@@ -39421,6 +40110,47 @@
    "client": "pdf",
    "body": null,
    "meeting_date": null,
+   "agenda_number": "p.54",
+   "file_number": null,
+   "title": "5. Resolution 71- 09-26 - Work Authorization (#WA -FY26-STW-002) - Stormwater Geographic Information System (GIS) & Computer -Aided Design (CAD) Mapping - Calvin, Giordano & Associates, Inc. - $37,575 Commissioner Linden questioned how Calvin, Giordano performed in the past and why there was no bidding process. Public Works Director Jaime Morales explained that this falls within a continuing services contract Motion to approve the agenda item made by Commissioner Thomas. Seconded by Vice Mayor Hensley. Voting Aye: Mayor Michaud, Vice Mayor Hensley, Commissioner Thomas, Commissioner O'Rourke. Voting Nay; Commissioner Linden.",
+   "max_amount": 37575.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 37575.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2.6,
+   "keywords": [
+    "contract"
+   ],
+   "meeting_url": "https://lakepark-fl.municodemeetings.com/",
+   "agenda_pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf",
+   "found_utc": "2026-11-21T16:00:38+00:00",
+   "link": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf#page=54",
+   "id": "m-lakepark|nodate|07d2c4b8|ef5cbe814f56",
+   "project_id": "m-lakepark|item:m-lakepark|nodate|07d2c4b8|ef5cbe814f56",
+   "project_total": 37600.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 13613476,
+   "pct_of_paying_fund": 0.276,
+   "general_fund": 13613476,
+   "pct_of_general_fund": 0.276,
+   "possible_duplicates": [],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
+   "entity_id": "m-lakepark",
+   "government": "Lake Park",
+   "client": "pdf",
+   "body": null,
+   "meeting_date": null,
    "agenda_number": "p.25",
    "file_number": null,
    "title": "16. Resolution 87-09-26 \u2013 Agreement (Piggyback) \u2013 Approve Purchase of Twelve (12) Dell Pro 14 Plus Laptops \u2013 $17,152.92 2026 (LSTA Grant). 25 Item 4.",
@@ -39444,6 +40174,61 @@
    "link": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-fd70ab869e084748b3e5a6829c343fb5.pdf#page=25",
    "id": "m-lakepark|nodate|07f924a5|c2a33bc3e74b",
    "project_id": "m-lakepark|ref:ord/res 87-09",
+   "project_total": 17200.0,
+   "paying_fund": "general",
+   "paying_fund_expenditures": 13613476,
+   "pct_of_paying_fund": 0.126,
+   "general_fund": 13613476,
+   "pct_of_general_fund": 0.126,
+   "possible_duplicates": [
+    {
+     "id": "m-lakepark|nodate|07d2c4b8|227cebd9df74",
+     "meeting_date": null,
+     "reason": "similar text 1.00"
+    },
+    {
+     "id": "m-lakepark|nodate|3e77e849|de643a5cbc2e",
+     "meeting_date": null,
+     "reason": "similar text 1.00"
+    }
+   ],
+   "possible_duplicate_label": null,
+   "stage": "undated",
+   "days_until_meeting": null,
+   "categories": [
+    "no_bid"
+   ]
+  },
+  {
+   "entity_id": "m-lakepark",
+   "government": "Lake Park",
+   "client": "pdf",
+   "body": null,
+   "meeting_date": null,
+   "agenda_number": "p.299",
+   "file_number": null,
+   "title": "Meeting Date: September 16, 2026 Originating Department: Library Agenda Title: Resolution 87-09-26 \u2013 Agreement (Piggyback) \u2013 Approve Purchase of Twelve (12) Dell Pro 14 Plus Laptops \u2013 $17,152.92 2026 (LSTA Grant) Agenda Category: New Business",
+   "max_amount": 17152.0,
+   "flow": "out",
+   "funding_source": "unstated",
+   "signed_amount": 17152.0,
+   "signals": [],
+   "outgoing_grant": false,
+   "bypass_competition": true,
+   "recipient": null,
+   "signal_score": 2.2,
+   "keywords": [
+    "agreement",
+    "library",
+    "piggyback",
+    "purchase"
+   ],
+   "meeting_url": "https://lakepark-fl.municodemeetings.com/",
+   "agenda_pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf",
+   "found_utc": "2026-11-21T16:00:38+00:00",
+   "link": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf#page=299",
+   "id": "m-lakepark|nodate|07d2c4b8|5f65e6a0e571",
+   "project_id": "m-lakepark|item:m-lakepark|nodate|07d2c4b8|5f65e6a0e571",
    "project_total": 17200.0,
    "paying_fund": "general",
    "paying_fund_expenditures": 13613476,
@@ -40314,14 +41099,14 @@
      "reason": "similar text 0.62"
     },
     {
+     "id": "m-lakepark|nodate|07d2c4b8|a856f1b41e08",
+     "meeting_date": null,
+     "reason": "similar text 0.61"
+    },
+    {
      "id": "m-lakepark|nodate|07f924a5|f361d9ee0b07",
      "meeting_date": null,
      "reason": "similar text 0.64"
-    },
-    {
-     "id": "m-lakepark|nodate|f7f7d6bb|2ce12cc41ae8",
-     "meeting_date": null,
-     "reason": "similar text 1.00"
     }
    ],
    "possible_duplicate_label": null,
@@ -41898,7 +42683,13 @@
    "pct_of_paying_fund": null,
    "general_fund": 13613476,
    "pct_of_general_fund": null,
-   "possible_duplicates": [],
+   "possible_duplicates": [
+    {
+     "id": "m-lakepark|nodate|07d2c4b8|52695ad71de6",
+     "meeting_date": null,
+     "reason": "similar text 0.61"
+    }
+   ],
    "possible_duplicate_label": null,
    "stage": "undated",
    "days_until_meeting": null,
@@ -41944,6 +42735,11 @@
      "id": "m-lakepark|nodate|07b371b8|2ce12cc41ae8",
      "meeting_date": null,
      "reason": "similar text 0.64"
+    },
+    {
+     "id": "m-lakepark|nodate|07d2c4b8|a856f1b41e08",
+     "meeting_date": null,
+     "reason": "similar text 0.94"
     },
     {
      "id": "m-lakepark|nodate|f7f7d6bb|2ce12cc41ae8",

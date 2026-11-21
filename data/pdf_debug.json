@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-21T07:09:10+00:00",
+ "generated_utc": "2026-11-21T16:00:38+00:00",
  "sources": {
   "m-stpetersburg": {
    "name": "St. Petersburg",
@@ -672,7 +672,7 @@
     },
     {
      "url": "https://www.orlando.gov/Our-Government/Public-Meetings",
-     "links": 674,
+     "links": 672,
      "head": "<!DOCTYPE html>\r\n<!--[if lt IE 7]>      <html class=\"no-js lt-ie9 lt-ie8 lt-ie7\" lang=\"en\"> <![endif]-->\r\n<!--[if IE 7]>         <html class=\"no-js lt-ie9 lt-ie8\" lang=\"en\"> <![endif]-->\r\n<!--[if IE 8]>         <html class=\"no-js lt-ie9\" lang=\"en\"> <![endif]-->\r\n<!--[if gt IE 8]><!-->\r\n<html class=\"",
      "sample": [
       [
@@ -784,14 +784,6 @@
        "Vehicle For Hire (VFH) Administrator's Public Hearing"
       ],
       [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/After-Midnight-Alcohol-Sales-Hearing-112026",
-       "After Midnight Alcohol Sales Hearing"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/2nd-Committee-Meeting-for-RQS26-0612-Design-Services-for-Orlando-Flood-Mitigation-by-Drainwell-Replacement-Block-Grant-112026",
-       "2nd Committee Meeting for RQS26-0612"
-      ],
-      [
        "https://www.orlando.gov/Our-Government/Public-Meetings/EDV-Small-Business-Fa\u00e7ade-Committee-112426",
        "EDV Small Business Fa\u00e7ade Committee"
       ],
@@ -818,14 +810,6 @@
       [
        "https://www.orlando.gov/Our-Government/Contact-Us/Mayor-City-Council",
        "Mayor & City Council"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/After-Midnight-Alcohol-Sales-Hearing-112026",
-       "After Midnight Alcohol Sales Hearing November 20, 2026 In-Person Meeting"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/2nd-Committee-Meeting-for-RQS26-0612-Design-Services-for-Orlando-Flood-Mitigation-by-Drainwell-Replacement-Block-Grant-112026",
-       "2nd Committee Meeting for RQS26-0612 November 20, 2026 In-Person Meeting"
       ],
       [
        "https://www.orlando.gov/Our-Government/Public-Meetings/EDV-Small-Business-Fa\u00e7ade-Committee-112426",
@@ -858,6 +842,14 @@
       [
        "https://www.orlando.gov/Our-Government/Public-Meetings/Vehicle-For-Hire-VFH-Administrators-Public-Hearing-12326",
        "Vehicle For Hire (VFH) Administrator's Public Hearing December 03, 2026 In-Person Meeting"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/3rd-Committee-Meeting-for-RFP26-0012-Pressure-Washing-Services-12326",
+       "3rd Committee Meeting for RFP26-0012 December 03, 2026 In-Person Meeting"
+      ],
+      [
+       "https://www.orlando.gov/Our-Government/Public-Meetings/Bid-Opening-for-Construction-Project-IFB27-0027-Lift-Station-No.-85-Replacement-12426",
+       "Bid Opening for Construction Project IFB27-0027 December 04, 2026 Bid Opening"
       ],
       [
        "https://www.orlando.gov/Events/City-Council-Meeting",
@@ -900,7 +892,7 @@
    "followed": [
     {
      "url": "https://www.orlando.gov/Our-Government/Public-Meetings/Downtown-Development-BoardCRA-Advisory-Board-Meeting-12226",
-     "links": 653,
+     "links": 651,
      "sample": [
       [
        "https://www.orlando.gov/Our-Government/Public-Meetings/Downtown-Development-BoardCRA-Advisory-Board-Meeting-12226?oc_lang=en-US",
@@ -1041,14 +1033,6 @@
       [
        "https://www.orlando.gov/Our-Government/Public-Meetings/Vehicle-For-Hire-VFH-Administrators-Public-Hearing-12326",
        "Vehicle For Hire (VFH) Administrator's Public Hearing"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/After-Midnight-Alcohol-Sales-Hearing-112026",
-       "After Midnight Alcohol Sales Hearing"
-      ],
-      [
-       "https://www.orlando.gov/Our-Government/Public-Meetings/2nd-Committee-Meeting-for-RQS26-0612-Design-Services-for-Orlando-Flood-Mitigation-by-Drainwell-Replacement-Block-Grant-112026",
-       "2nd Committee Meeting for RQS26-0612"
       ],
       [
        "https://www.orlando.gov/Our-Government/Public-Meetings/EDV-Small-Business-Fa\u00e7ade-Committee-112426",
@@ -1522,13 +1506,7 @@
     }
    ],
    "pdfs_found": 101,
-   "scanned": [
-    {
-     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1623",
-     "pages": 2,
-     "hits": 0
-    }
-   ],
+   "scanned": [],
    "errors": [],
    "pdf_sample": [
     "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1623",
@@ -4314,13 +4292,7 @@
     }
    ],
    "pdfs_found": 100,
-   "scanned": [
-    {
-     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=386",
-     "pages": 1,
-     "hits": 0
-    }
-   ],
+   "scanned": [],
    "errors": [],
    "pdf_sample": [
     "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=386",
@@ -7125,13 +7097,7 @@
     }
    ],
    "pdfs_found": 100,
-   "scanned": [
-    {
-     "pdf": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=365",
-     "pages": 1,
-     "hits": 0
-    }
-   ],
+   "scanned": [],
    "errors": [],
    "pdf_sample": [
     "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=365",
@@ -8439,13 +8405,7 @@
     }
    ],
    "pdfs_found": 102,
-   "scanned": [
-    {
-     "pdf": "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&event_id=1162",
-     "pages": 3,
-     "hits": 0
-    }
-   ],
+   "scanned": [],
    "errors": [],
    "pdf_sample": [
     "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&event_id=1162",
@@ -14547,13 +14507,435 @@
   },
   "c-gadsden": {
    "name": "Gadsden County",
-   "listing": [],
-   "pdfs_found": 0,
-   "scanned": [],
-   "errors": [
-    "listing https://gadsdencountyfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas: Remote end closed connection without response"
+   "listing": [
+    {
+     "url": "https://gadsdencountyfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
+     "links": 100,
+     "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>Gadsden County, FL: All Meeting B",
+     "sample": [
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=188",
+       "BOARD OF COUNTY COMMISSIONERS - Nov 17, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=187",
+       "Planning Commission - Nov 12, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=186",
+       "BOARD OF COUNTY COMMISSIONERS - Oct 20, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=185",
+       "BOARD OF COUNTY COMMISSIONERS - Oct 15, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=184",
+       "Planning Commission - Oct 08, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=183",
+       "BOARD OF COUNTY COMMISSIONERS - Oct 06, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=182",
+       "BOARD OF COUNTY COMMISSIONERS - Sep 22, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=181",
+       "BOARD OF COUNTY COMMISSIONERS - Sep 14, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=180",
+       "Planning Commission - Sep 10, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=179",
+       "BOARD OF COUNTY COMMISSIONERS - Sep 08, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=178",
+       "BOARD OF COUNTY COMMISSIONERS - Sep 01, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=177",
+       "BOARD OF COUNTY COMMISSIONERS - Aug 31, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=174",
+       "BOARD OF COUNTY COMMISSIONERS - Aug 25, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=175",
+       "BOARD OF COUNTY COMMISSIONERS - Aug 25, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=176",
+       "BOARD OF COUNTY COMMISSIONERS - Aug 25, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=173",
+       "Planning Commission - Aug 13, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=172",
+       "BOARD OF COUNTY COMMISSIONERS - Aug 04, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=170",
+       "BOARD OF COUNTY COMMISSIONERS - Jul 28, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=171",
+       "BOARD OF COUNTY COMMISSIONERS - Jul 28, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=167",
+       "BOARD OF COUNTY COMMISSIONERS - Jun 16, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=169",
+       "BOARD OF COUNTY COMMISSIONERS - Jun 16, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=164",
+       "BOARD OF COUNTY COMMISSIONERS - Jun 11, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=161",
+       "BOARD OF COUNTY COMMISSIONERS - Jun 02, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=163",
+       "BOARD OF COUNTY COMMISSIONERS - Jun 02, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=159",
+       "BOARD OF COUNTY COMMISSIONERS - May 26, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=156",
+       "BOARD OF COUNTY COMMISSIONERS - May 19, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=158",
+       "BOARD OF COUNTY COMMISSIONERS - May 19, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=153",
+       "BOARD OF COUNTY COMMISSIONERS - May 05, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=154",
+       "BOARD OF COUNTY COMMISSIONERS - May 05, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=152",
+       "Planning Commission - Apr 23, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=150",
+       "BOARD OF COUNTY COMMISSIONERS - Apr 21, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=151",
+       "BOARD OF COUNTY COMMISSIONERS - Apr 21, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=149",
+       "Planning Commission - Apr 09, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=147",
+       "BOARD OF COUNTY COMMISSIONERS - Apr 07, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=148",
+       "BOARD OF COUNTY COMMISSIONERS - Apr 07, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=146",
+       "BOARD OF COUNTY COMMISSIONERS - Mar 17, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=145",
+       "Planning Commission - Mar 12, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=144",
+       "BOARD OF COUNTY COMMISSIONERS - Mar 03, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=142",
+       "BOARD OF COUNTY COMMISSIONERS - Feb 17, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=143",
+       "BOARD OF COUNTY COMMISSIONERS - Feb 17, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=141",
+       "Planning Commission - Feb 12, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=140",
+       "BOARD OF COUNTY COMMISSIONERS - Feb 03, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=139",
+       "BOARD OF COUNTY COMMISSIONERS - Jan 29, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=138",
+       "BOARD OF COUNTY COMMISSIONERS - Jan 20, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=136",
+       "BOARD OF COUNTY COMMISSIONERS - Jan 06, 2026"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=135",
+       "BOARD OF COUNTY COMMISSIONERS - Dec 18, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=134",
+       "BOARD OF COUNTY COMMISSIONERS - Dec 17, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=133",
+       "Board of County Commissioners - Dec 16, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=132",
+       "BOARD OF COUNTY COMMISSIONERS - Dec 11, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=126",
+       "Board of County Commissioners - Dec 02, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=125",
+       "Board of County Commissioners - Nov 17, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=124",
+       "Planning Commission - Nov 13, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=123",
+       "Planning Commission - Nov 05, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=122",
+       "Board of County Commissioners - Nov 04, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=121",
+       "BOARD OF COUNTY COMMISSIONERS - Oct 30, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=120",
+       "Parks &amp; Recreation - Oct 27, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=118",
+       "Board of County Commissioners - Oct 21, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=117",
+       "Board of County Commissioners - Oct 07, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=115",
+       "BOARD OF COUNTY COMMISSIONERS - Sep 30, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=116",
+       "Board of County Commissioners - Sep 30, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=113",
+       "Parks &amp; Recreation - Sep 22, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=114",
+       "BOARD OF COUNTY COMMISSIONERS - Sep 22, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=112",
+       "Board of County Commissioners - Sep 16, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=111",
+       "BOARD OF COUNTY COMMISSIONERS - Sep 15, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=110",
+       "Planning Commission - Sep 11, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=109",
+       "Board of County Commissioners - Sep 02, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=108",
+       "BOARD OF COUNTY COMMISSIONERS - Aug 26, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=106",
+       "BOARD OF COUNTY COMMISSIONERS - Aug 19, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=107",
+       "Board of County Commissioners - Aug 19, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=105",
+       "BOARD OF COUNTY COMMISSIONERS - Aug 18, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=104",
+       "Planning Commission - Aug 14, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=103",
+       "BOARD OF COUNTY COMMISSIONERS - Aug 14, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=101",
+       "BOARD OF COUNTY COMMISSIONERS - Aug 11, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=102",
+       "BOARD OF COUNTY COMMISSIONERS - Aug 11, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=99",
+       "BOARD OF COUNTY COMMISSIONERS - Aug 05, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=100",
+       "BOARD OF COUNTY COMMISSIONERS - Aug 05, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=98",
+       "BOARD OF COUNTY COMMISSIONERS - Aug 04, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=97",
+       "BOARD OF COUNTY COMMISSIONERS - Jul 25, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=94",
+       "BOARD OF COUNTY COMMISSIONERS - Jun 30, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=93",
+       "Board of County Commissioners - Jun 17, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=92",
+       "BOARD OF COUNTY COMMISSIONERS - Jun 11, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=90",
+       "BOARD OF COUNTY COMMISSIONERS - Jun 03, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=91",
+       "Board of County Commissioners - Jun 03, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=89",
+       "Board of County Commissioners - May 27, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=88",
+       "Planning Commission - May 15, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=87",
+       "BOARD OF COUNTY COMMISSIONERS - May 14, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=86",
+       "Board of County Commissioners - May 06, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=85",
+       "BOARD OF COUNTY COMMISSIONERS - Apr 21, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=84",
+       "Board of County Commissioners - Apr 15, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=83",
+       "Planning Commission - Apr 10, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=82",
+       "Board of County Commissioners - Apr 01, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=81",
+       "BOARD OF COUNTY COMMISSIONERS - Mar 28, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=80",
+       "Board of County Commissioners - Mar 18, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=79",
+       "BOARD OF COUNTY COMMISSIONERS - Mar 17, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=78",
+       "BOARD OF COUNTY COMMISSIONERS - Mar 13, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=77",
+       "BOARD OF COUNTY COMMISSIONERS - Mar 10, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=76",
+       "BOARD OF COUNTY COMMISSIONERS - Mar 06, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=75",
+       "Board of County Commissioners - Mar 04, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=74",
+       "BOARD OF COUNTY COMMISSIONERS - Feb 24, 2025"
+      ],
+      [
+       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=72",
+       "Board of County Commissioners - Feb 18, 2025"
+      ]
+     ]
+    }
    ],
-   "pdf_sample": []
+   "pdfs_found": 100,
+   "scanned": [],
+   "errors": [],
+   "pdf_sample": [
+    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=188",
+    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=187",
+    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=186",
+    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=185",
+    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=184",
+    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=183",
+    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=182",
+    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=181",
+    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=180",
+    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=179",
+    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=178",
+    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=177",
+    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=174",
+    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=175",
+    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=176"
+   ]
   },
   "c-hardee": {
    "name": "Hardee County",
@@ -18425,44 +18807,44 @@
    "pdfs_found": 55,
    "scanned": [
     {
-     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-b33729d6955749b89359099217e56b29.pdf",
-     "pages": 281,
-     "hits": 10
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-74171384ca6e428098c939798c909bcd.pdf",
+     "pages": 30,
+     "hits": 0
     },
     {
-     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-b33729d6955749b89359099217e56b29.pdf",
-     "pages": 40,
-     "hits": 5
-    },
-    {
-     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-a65be5e6a62642459c08f4da58fd61a0.pdf",
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-d10b3c771d8943caa5038029a999c7b4.pdf",
      "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-a65be5e6a62642459c08f4da58fd61a0.pdf",
-     "pages": 17,
-     "hits": 1
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-d10b3c771d8943caa5038029a999c7b4.pdf",
+     "pages": 85,
+     "hits": 0
     },
     {
-     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-fd70ab869e084748b3e5a6829c343fb5.pdf",
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-5121a07a83f5437a843d77fee1bad84d.pdf",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-5121a07a83f5437a843d77fee1bad84d.pdf",
+     "pages": 2,
+     "hits": 0
+    },
+    {
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-5121a07a83f5437a843d77fee1bad84d.pdf",
+     "pages": 3,
+     "hits": 0
+    },
+    {
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-e19adc56e9e74309aa1786d5d2aa3f9e.pdf",
      "pages": 4,
-     "hits": 9
+     "hits": 2
     },
     {
-     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-fd70ab869e084748b3e5a6829c343fb5.pdf",
-     "pages": 400,
-     "hits": 45
-    },
-    {
-     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-fd70ab869e084748b3e5a6829c343fb5.pdf",
-     "pages": 22,
-     "hits": 15
-    },
-    {
-     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-74171384ca6e428098c939798c909bcd.pdf",
-     "pages": 2,
-     "hits": 0
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-e19adc56e9e74309aa1786d5d2aa3f9e.pdf",
+     "pages": 376,
+     "hits": 34
     }
    ],
    "errors": [],
@@ -18529,15 +18911,7 @@
    "files": [
     "https://seminolefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=752,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://seminolefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=752,plainText=false)",
-     "pages": 2,
-     "hits": 0,
-     "chars": 2643,
-     "meeting_date": "2026-11-24"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-gainesville:civicclerk": {
@@ -18556,50 +18930,7 @@
     "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=359,plainText=false)",
     "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=360,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=386,plainText=false)",
-     "pages": 3,
-     "hits": 0,
-     "chars": 4048,
-     "meeting_date": "2026-11-18"
-    },
-    {
-     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=387,plainText=false)",
-     "pages": 81,
-     "hits": 9,
-     "chars": 108023,
-     "meeting_date": "2026-11-18"
-    },
-    {
-     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=400,plainText=false)",
-     "pages": 4,
-     "hits": 0,
-     "chars": 7156,
-     "meeting_date": "2026-11-18"
-    },
-    {
-     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=401,plainText=false)",
-     "pages": 72,
-     "hits": 1,
-     "chars": 57583,
-     "meeting_date": "2026-11-18"
-    },
-    {
-     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=365,plainText=false)",
-     "pages": 2,
-     "hits": 0,
-     "chars": 1489,
-     "meeting_date": "2026-11-18"
-    },
-    {
-     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=366,plainText=false)",
-     "pages": 10,
-     "hits": 0,
-     "chars": 7862,
-     "meeting_date": "2026-11-18"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "c-lake:civicclerk": {
@@ -18616,22 +18947,7 @@
     "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7865,plainText=false)",
     "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7866,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7865,plainText=false)",
-     "pages": 6,
-     "hits": 0,
-     "chars": 7855,
-     "meeting_date": "2026-12-01"
-    },
-    {
-     "pdf": "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7866,plainText=false)",
-     "pages": 400,
-     "hits": 11,
-     "chars": 518701,
-     "meeting_date": "2026-12-01"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-tallahassee:civicclerk": {
@@ -18698,22 +19014,7 @@
     "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3365,plainText=false)",
     "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3366,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3365,plainText=false)",
-     "pages": 3,
-     "hits": 0,
-     "chars": 3125,
-     "meeting_date": "2026-12-03"
-    },
-    {
-     "pdf": "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3366,plainText=false)",
-     "pages": 400,
-     "hits": 2,
-     "chars": 334214,
-     "meeting_date": "2026-12-03"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-kissimmee:civicclerk": {
@@ -18895,22 +19196,7 @@
     "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2502,plainText=false)",
     "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2552,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2573,plainText=false)",
-     "pages": 5,
-     "hits": 2,
-     "chars": 9172,
-     "meeting_date": "2026-11-24"
-    },
-    {
-     "pdf": "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2574,plainText=false)",
-     "pages": 317,
-     "hits": 11,
-     "chars": 399943,
-     "meeting_date": "2026-11-24"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-ormondbeach:civicclerk": {
@@ -19016,15 +19302,7 @@
     "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7962,plainText=false)",
     "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7965,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7965,plainText=false)",
-     "pages": 1,
-     "hits": 0,
-     "chars": 2370,
-     "meeting_date": "2026-12-09"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-bartow:civicclerk": {
@@ -19506,22 +19784,7 @@
     "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2359,plainText=false)",
     "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2360,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2359,plainText=false)",
-     "pages": 3,
-     "hits": 1,
-     "chars": 5320,
-     "meeting_date": "2026-12-01"
-    },
-    {
-     "pdf": "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2360,plainText=false)",
-     "pages": 86,
-     "hits": 4,
-     "chars": 64531,
-     "meeting_date": "2026-12-01"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-winterpark:civicclerk": {
@@ -19540,22 +19803,7 @@
     "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6738,plainText=false)",
     "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6739,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6747,plainText=false)",
-     "pages": 2,
-     "hits": 0,
-     "chars": 1582,
-     "meeting_date": "2026-11-19"
-    },
-    {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6748,plainText=false)",
-     "pages": 154,
-     "hits": 2,
-     "chars": 210433,
-     "meeting_date": "2026-11-19"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-cocoabeach:civicclerk": {
@@ -19701,157 +19949,13 @@
      "meeting": "School Board Meeting (Board Organization) 6:00 PM",
      "date": "2026-11-17",
      "items": 77,
-     "fetched": 12,
-     "hits": 1
-    },
-    {
-     "doc": "/go.boarddocs.com/fl/lee/Board.nsf/goto?open&id=DZX3UV089EFF",
-     "meeting": "School Board Special Meeting Agenda 2:00PM",
-     "date": "2026-11-20",
-     "items": 9,
-     "fetched": 2,
-     "hits": 1
+     "fetched": 5,
+     "hits": 3
     }
    ],
-   "errors": []
-  },
-  "sd-osceola:boarddocs": {
-   "name": "Osceola County School District",
-   "platform": "boarddocs",
-   "meetings": 0,
-   "scanned": [],
-   "errors": []
-  },
-  "sd-collier:boarddocs": {
-   "name": "Collier County Public Schools",
-   "platform": "boarddocs",
-   "meetings": 3,
-   "scanned": [
-    {
-     "doc": "boarddocs.com/fl/collier/Board.nsf/goto?open&id=DXXFWN412256",
-     "meeting": "Regular School Board Meeting",
-     "date": "2026-11-11",
-     "items": 70,
-     "fetched": 12,
-     "hits": 5
-    },
-    {
-     "doc": "boarddocs.com/fl/collier/Board.nsf/goto?open&id=DNYPUX66620F",
-     "meeting": "School Board Organizational Meeting",
-     "date": "2026-11-17",
-     "items": 15,
-     "fetched": 0,
-     "hits": 0
-    }
-   ],
-   "errors": []
-  },
-  "sd-marion:boarddocs": {
-   "name": "Marion County Public Schools",
-   "platform": "boarddocs",
-   "meetings": 5,
-   "scanned": [
-    {
-     "doc": ".boarddocs.com/fl/marion/Board.nsf/goto?open&id=DNESD2721D6B",
-     "meeting": "School Board Meeting",
-     "date": "2026-11-10",
-     "items": 43,
-     "fetched": 12,
-     "hits": 11
-    },
-    {
-     "doc": ".boarddocs.com/fl/marion/Board.nsf/goto?open&id=DNHLUG583F50",
-     "meeting": "Board of Directors, Leasing Corporation Organizational Meeting",
-     "date": "2026-11-17",
-     "items": 6,
-     "fetched": 0,
-     "hits": 0
-    }
-   ],
-   "errors": []
-  },
-  "sd-stjohns:boarddocs": {
-   "name": "St. Johns County School District",
-   "platform": "boarddocs",
-   "meetings": 0,
-   "scanned": [],
-   "errors": []
-  },
-  "sd-escambia:boarddocs": {
-   "name": "Escambia County School District",
-   "platform": "boarddocs",
-   "meetings": 4,
-   "scanned": [
-    {
-     "doc": "oarddocs.com/fl/escambia/Board.nsf/goto?open&id=DZBNEZ5FA67B",
-     "meeting": "REGULAR WORKSHOP AGENDA (1:00 PM)",
-     "date": "2026-11-12",
-     "items": 11,
-     "fetched": 2,
-     "hits": 0
-    },
-    {
-     "doc": "oarddocs.com/fl/escambia/Board.nsf/goto?open&id=DZBNDP5F763D",
-     "meeting": "REGULAR MEETING AGENDA (5:30 PM)",
-     "date": "2026-11-17",
-     "items": 50,
-     "fetched": 12,
-     "hits": 7
-    }
-   ],
-   "errors": []
-  },
-  "sd-okaloosa:boarddocs": {
-   "name": "Okaloosa County School District",
-   "platform": "boarddocs",
-   "meetings": 0,
-   "scanned": [],
-   "errors": []
-  },
-  "sd-citrus:boarddocs": {
-   "name": "Citrus County Schools",
-   "platform": "boarddocs",
-   "meetings": 0,
-   "scanned": [],
-   "errors": []
-  },
-  "sd-stlucie:boarddocs": {
-   "name": "St. Lucie Public Schools",
-   "platform": "boarddocs",
-   "meetings": 2,
-   "scanned": [
-    {
-     "doc": "boarddocs.com/fl/stlucie/Board.nsf/goto?open&id=DYSP3E62A40A",
-     "meeting": "THE SCHOOL BOARD OF ST. LUCIE COUNTY - REGULAR MEETING - NOVEMBER 17, 2026 - 5:10 P.M.",
-     "date": "2026-11-17",
-     "items": 59,
-     "fetched": 6,
-     "hits": 1
-    },
-    {
-     "doc": "boarddocs.com/fl/stlucie/Board.nsf/goto?open&id=DZPN7X5E9D1F",
-     "meeting": "THE SCHOOL BOARD OF ST. LUCIE COUNTY - ORGANIZATIONAL & LEASING CORPORATION MEETINGS - NOVEMBER 17, 2026 - 5:00 P.M.",
-     "date": "2026-11-17",
-     "items": 16,
-     "fetched": 0,
-     "hits": 0
-    }
-   ],
-   "errors": []
-  },
-  "sd-martin:boarddocs": {
-   "name": "Martin County School District",
-   "platform": "boarddocs",
-   "meetings": 0,
-   "scanned": [],
-   "errors": []
-  },
-  "sd-nassau:boarddocs": {
-   "name": "Nassau County School District",
-   "platform": "boarddocs",
-   "meetings": 0,
-   "scanned": [],
-   "errors": []
+   "errors": [
+    "item DYZQ3H675747: HTTP Error 403: Forbidden"
+   ]
   },
   "c-clay:swagit": {
    "name": "Clay County",
@@ -20074,11 +20178,7 @@
    "platform": "date_template",
    "found": [],
    "scanned": [],
-   "errors": [
-    "https://www.myseminole.com/Agendas/2026/11.14.26_CA.pdf: HTTP Error 403: Forbidden",
-    "https://www.myseminole.com/Agendas/2026/11.15.26_CA.pdf: HTTP Error 403: Forbidden",
-    "https://www.myseminole.com/Agendas/2026/11.16.26_CA.pdf: HTTP Error 403: Forbidden"
-   ]
+   "errors": []
   },
   "c-miamidade": {
    "name": "Miami-Dade County",
