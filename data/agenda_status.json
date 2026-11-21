@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-20T18:53:16+00:00",
+ "generated_utc": "2026-11-21T07:08:38+00:00",
  "count": 147,
  "governments": {
   "m-fortlauderdale": {
@@ -116,7 +116,7 @@
    "name": "North Port",
    "status": "ok",
    "client": "cityofnorthport",
-   "events": 18,
+   "events": 17,
    "flagged": 5
   },
   "m-doral": {
@@ -179,7 +179,7 @@
    "name": "Marion County",
    "status": "ok",
    "client": "marionfl",
-   "events": 7,
+   "events": 8,
    "flagged": 23
   },
   "m-pompanobeach": {
@@ -214,14 +214,14 @@
    "name": "Hernando County",
    "status": "ok",
    "client": "hernandocountyfl",
-   "events": 7,
+   "events": 6,
    "flagged": 7
   },
   "m-coralgables": {
    "name": "Coral Gables",
    "status": "ok",
    "client": "coralgables",
-   "events": 18,
+   "events": 17,
    "flagged": 1
   },
   "m-margate": {
@@ -235,7 +235,7 @@
    "name": "Hallandale Beach",
    "status": "ok",
    "client": "hallandalebeach",
-   "events": 2,
+   "events": 1,
    "flagged": 0
   }
  }

@@ -28783,5 +28783,469 @@
   "pages": 400,
   "hits": 60,
   "date": "2026-11-20"
+ },
+ "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1623": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "date": "2026-11-21"
+ },
+ "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=386": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "date": "2026-11-21"
+ },
+ "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=365": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "date": "2026-11-21"
+ },
+ "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&event_id=1162": {
+  "status": "ok",
+  "pages": 3,
+  "hits": 0,
+  "date": "2026-11-21"
+ },
+ "https://safetyharbor.granicus.com/AgendaViewer.php?view_id=6&event_id=3149": {
+  "status": "not_pdf",
+  "date": "2026-11-21"
+ },
+ "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-b33729d6955749b89359099217e56b29.pdf": {
+  "status": "ok",
+  "pages": 281,
+  "hits": 10,
+  "date": "2026-11-21"
+ },
+ "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-b33729d6955749b89359099217e56b29.pdf": {
+  "status": "ok",
+  "pages": 40,
+  "hits": 5,
+  "date": "2026-11-21"
+ },
+ "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-a65be5e6a62642459c08f4da58fd61a0.pdf": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "date": "2026-11-21"
+ },
+ "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-a65be5e6a62642459c08f4da58fd61a0.pdf": {
+  "status": "ok",
+  "pages": 17,
+  "hits": 1,
+  "date": "2026-11-21"
+ },
+ "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-fd70ab869e084748b3e5a6829c343fb5.pdf": {
+  "status": "ok",
+  "pages": 4,
+  "hits": 9,
+  "date": "2026-11-21"
+ },
+ "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-fd70ab869e084748b3e5a6829c343fb5.pdf": {
+  "status": "ok",
+  "pages": 400,
+  "hits": 45,
+  "date": "2026-11-21"
+ },
+ "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-fd70ab869e084748b3e5a6829c343fb5.pdf": {
+  "status": "ok",
+  "pages": 22,
+  "hits": 15,
+  "date": "2026-11-21"
+ },
+ "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-74171384ca6e428098c939798c909bcd.pdf": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "date": "2026-11-21"
+ },
+ "https://seminolefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=752,plainText=false)": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "chars": 2643,
+  "date": "2026-11-21"
+ },
+ "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=386,plainText=false)": {
+  "status": "ok",
+  "pages": 3,
+  "hits": 0,
+  "chars": 4048,
+  "date": "2026-11-21"
+ },
+ "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=387,plainText=false)": {
+  "status": "ok",
+  "pages": 81,
+  "hits": 9,
+  "chars": 108023,
+  "date": "2026-11-21"
+ },
+ "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=400,plainText=false)": {
+  "status": "ok",
+  "pages": 4,
+  "hits": 0,
+  "chars": 7156,
+  "date": "2026-11-21"
+ },
+ "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=401,plainText=false)": {
+  "status": "ok",
+  "pages": 72,
+  "hits": 1,
+  "chars": 57583,
+  "date": "2026-11-21"
+ },
+ "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=365,plainText=false)": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "chars": 1489,
+  "date": "2026-11-21"
+ },
+ "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=366,plainText=false)": {
+  "status": "ok",
+  "pages": 10,
+  "hits": 0,
+  "chars": 7862,
+  "date": "2026-11-21"
+ },
+ "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7865,plainText=false)": {
+  "status": "ok",
+  "pages": 6,
+  "hits": 0,
+  "chars": 7855,
+  "date": "2026-11-21"
+ },
+ "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7866,plainText=false)": {
+  "status": "ok",
+  "pages": 400,
+  "hits": 11,
+  "chars": 518701,
+  "date": "2026-11-21"
+ },
+ "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3365,plainText=false)": {
+  "status": "ok",
+  "pages": 3,
+  "hits": 0,
+  "chars": 3125,
+  "date": "2026-11-21"
+ },
+ "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3366,plainText=false)": {
+  "status": "ok",
+  "pages": 400,
+  "hits": 2,
+  "chars": 334214,
+  "date": "2026-11-21"
+ },
+ "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2573,plainText=false)": {
+  "status": "ok",
+  "pages": 5,
+  "hits": 2,
+  "chars": 9172,
+  "date": "2026-11-21"
+ },
+ "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2574,plainText=false)": {
+  "status": "ok",
+  "pages": 317,
+  "hits": 11,
+  "chars": 399943,
+  "date": "2026-11-21"
+ },
+ "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7965,plainText=false)": {
+  "status": "ok",
+  "pages": 1,
+  "hits": 0,
+  "chars": 2370,
+  "date": "2026-11-21"
+ },
+ "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2359,plainText=false)": {
+  "status": "ok",
+  "pages": 3,
+  "hits": 1,
+  "chars": 5320,
+  "date": "2026-11-21"
+ },
+ "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2360,plainText=false)": {
+  "status": "ok",
+  "pages": 86,
+  "hits": 4,
+  "chars": 64531,
+  "date": "2026-11-21"
+ },
+ "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6747,plainText=false)": {
+  "status": "ok",
+  "pages": 2,
+  "hits": 0,
+  "chars": 1582,
+  "date": "2026-11-21"
+ },
+ "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6748,plainText=false)": {
+  "status": "ok",
+  "pages": 154,
+  "hits": 2,
+  "chars": 210433,
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DU7P5Q62FA76": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZKQXC6B6C06": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DASQVR6B3054": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DTEMK25B8E09": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZJSE27242E8": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DYPPHB64AE20": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZ8QG2692A08": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZAGF7438E12": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DYKHZT4AF849": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DYLN6R5E713C": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DYGJBM4C68BC": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZ5J684B9D48": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZX3V2089F0A": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZX4FL0B5D1D": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs:fl/lee:DZX3UV089EFF": {
+  "status": "ok",
+  "hits": 1,
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DXXFX44122B4": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DYZFCN3E7EB2": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DYZFFZ3EFC4A": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DYZFKE3F7C28": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DYZFND3FEB05": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DYZFR54052C1": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DYZFTL40AF32": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DYZFWF411A33": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DYZFXV414FAE": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZ3J4T4B6933": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZ3J884BE899": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZ3JF24CE7BE": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs:fl/collier:DNYPUX66620F": {
+  "status": "ok",
+  "hits": 0,
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DYVN5F5E3FD4": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DYVPWL669F59": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DYZKCM513D4E": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZ2GM5446C50": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DYMLMR574428": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DYEGFG43989E": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DYPH7G471C5A": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZ5GB342F3D7": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZ5LJR56D3F3": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZ5L5Z54F522": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZ5LRN57D68E": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZ5LQY57BABB": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs:fl/marion:DNHLUG583F50": {
+  "status": "ok",
+  "hits": 0,
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZHRT96F82AB": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZGTKR77C884": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs:fl/escambia:DZBNEZ5FA67B": {
+  "status": "ok",
+  "hits": 0,
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZHNHY60160C": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZHNK2603C87": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZGMYW5D9656": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DKYM8859F8E7": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DQ2MLS5BCEE6": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DQ2MMK5BED18": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DVVR9W6CF7D8": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DWHT97763CD7": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZVMH25B436E": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZGKJA5211F8": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZCM5C598AF3": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZCMPU5C4284": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DYSP4X62A43E": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZBPPV65A410": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZBQAU686B2A": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZNMSC5CA0B0": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZCMYJ5D887F": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs-item:DZ4Q6267B675": {
+  "status": "ok",
+  "date": "2026-11-21"
+ },
+ "boarddocs:fl/stlucie:DYSP3E62A40A": {
+  "status": "ok",
+  "hits": 1,
+  "date": "2026-11-21"
+ },
+ "boarddocs:fl/stlucie:DZPN7X5E9D1F": {
+  "status": "ok",
+  "hits": 0,
+  "date": "2026-11-21"
  }
 }

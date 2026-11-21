@@ -1,5 +1,5 @@
 {
- "generated_utc": "2026-11-20T18:54:22+00:00",
+ "generated_utc": "2026-11-21T07:09:10+00:00",
  "sources": {
   "m-stpetersburg": {
    "name": "St. Petersburg",
@@ -272,13 +272,7 @@
     }
    ],
    "pdfs_found": 464,
-   "scanned": [
-    {
-     "pdf": "https://www.stpete.org/Government/Agendas and Documents/agenda order/Check Back for Proposed Agenda Order.pdf?t=202611201333330",
-     "pages": 1,
-     "hits": 0
-    }
-   ],
+   "scanned": [],
    "errors": [],
    "followed": [
     {
@@ -678,7 +672,7 @@
     },
     {
      "url": "https://www.orlando.gov/Our-Government/Public-Meetings",
-     "links": 676,
+     "links": 674,
      "head": "<!DOCTYPE html>\r\n<!--[if lt IE 7]>      <html class=\"no-js lt-ie9 lt-ie8 lt-ie7\" lang=\"en\"> <![endif]-->\r\n<!--[if IE 7]>         <html class=\"no-js lt-ie9 lt-ie8\" lang=\"en\"> <![endif]-->\r\n<!--[if IE 8]>         <html class=\"no-js lt-ie9\" lang=\"en\"> <![endif]-->\r\n<!--[if gt IE 8]><!-->\r\n<html class=\"",
      "sample": [
       [
@@ -906,7 +900,7 @@
    "followed": [
     {
      "url": "https://www.orlando.gov/Our-Government/Public-Meetings/Downtown-Development-BoardCRA-Advisory-Board-Meeting-12226",
-     "links": 655,
+     "links": 653,
      "sample": [
       [
        "https://www.orlando.gov/Our-Government/Public-Meetings/Downtown-Development-BoardCRA-Advisory-Board-Meeting-12226?oc_lang=en-US",
@@ -1117,9 +1111,13 @@
    "listing": [
     {
      "url": "https://dunedin.granicus.com/ViewPublisherRSS.php?view_id=2&mode=agendas",
-     "links": 100,
+     "links": 101,
      "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>City of Dunedin, Florida: zRETIRE",
      "sample": [
+      [
+       "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1623",
+       "CITY COMMISSION SPECIAL MEETING - Dec 02, 2026"
+      ],
       [
        "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3669",
        "COMMUNITY REDEVELOPMENT AGENCY SPECIAL MEETING - Nov 19, 2026"
@@ -1523,10 +1521,17 @@
      ]
     }
    ],
-   "pdfs_found": 100,
-   "scanned": [],
+   "pdfs_found": 101,
+   "scanned": [
+    {
+     "pdf": "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1623",
+     "pages": 2,
+     "hits": 0
+    }
+   ],
    "errors": [],
    "pdf_sample": [
+    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&event_id=1623",
     "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3669",
     "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3670",
     "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3666",
@@ -1540,8 +1545,7 @@
     "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3637",
     "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3634",
     "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3638",
-    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3633",
-    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3630"
+    "https://dunedin.granicus.com/AgendaViewer.php?view_id=2&clip_id=3633"
    ]
   },
   "m-tampa": {
@@ -3907,6 +3911,10 @@
      "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>Boynton Beach, FL: Boynton Beach ",
      "sample": [
       [
+       "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=386",
+       "CRA Advisory Board - CANCELLED - Nov 20, 2026"
+      ],
+      [
        "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=382",
        "Community Redevelopment Agency Board - Nov 17, 2026"
       ],
@@ -4301,18 +4309,21 @@
       [
        "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=257",
        "City Commission - Apr 01, 2025"
-      ],
-      [
-       "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=255",
-       "Community Redevelopment Agency Board - Mar 20, 2025"
       ]
      ]
     }
    ],
    "pdfs_found": 100,
-   "scanned": [],
+   "scanned": [
+    {
+     "pdf": "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=386",
+     "pages": 1,
+     "hits": 0
+    }
+   ],
    "errors": [],
    "pdf_sample": [
+    "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=386",
     "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=382",
     "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=383",
     "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=381",
@@ -4326,8 +4337,7 @@
     "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=373",
     "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=371",
     "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=370",
-    "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=369",
-    "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=368"
+    "https://boynton-beach.granicus.com/AgendaViewer.php?view_id=1&clip_id=369"
    ]
   },
   "c-volusia": {
@@ -6712,6 +6722,10 @@
      "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>Bradenton, FL: Bradenton FL  Cont",
      "sample": [
       [
+       "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=365",
+       "Tree &amp; Land Preservation Board Meeting - Nov 20, 2026"
+      ],
+      [
        "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=364",
        "Community Redevelopment Agency Board Meeting - Nov 19, 2026"
       ],
@@ -7106,18 +7120,21 @@
       [
        "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=265",
        "Special Magistrate Meeting - Jan 07, 2026"
-      ],
-      [
-       "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=266",
-       "Firefighters&apos; Retirement System Pension Board of Trustees Meeting - Jan 07, 2026"
       ]
      ]
     }
    ],
    "pdfs_found": 100,
-   "scanned": [],
+   "scanned": [
+    {
+     "pdf": "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=365",
+     "pages": 1,
+     "hits": 0
+    }
+   ],
    "errors": [],
    "pdf_sample": [
+    "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=365",
     "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=364",
     "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=363",
     "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=362",
@@ -7131,8 +7148,7 @@
     "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=354",
     "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=353",
     "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=352",
-    "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=351",
-    "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=350"
+    "https://cityofbradenton.granicus.com/AgendaViewer.php?view_id=1&clip_id=351"
    ]
   },
   "m-winterhaven": {
@@ -8008,9 +8024,13 @@
    "listing": [
     {
      "url": "https://puntagorda.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-     "links": 101,
+     "links": 102,
      "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>City of Punta Gorda, FL: New View",
      "sample": [
+      [
+       "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&event_id=1162",
+       "City Council - Dec 02, 2026"
+      ],
       [
        "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&event_id=945",
        "Board of Zoning Appeals - Nov 23, 2026"
@@ -8264,6 +8284,10 @@
        "Code Enforcement Board - Jun 19, 2026"
       ],
       [
+       "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1439",
+       "General Employees&apos; Pension Board - Jun 18, 2026"
+      ],
+      [
        "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1275",
        "City Council - Jun 17, 2026"
       ],
@@ -8410,18 +8434,21 @@
       [
        "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1174",
        "Development Review Committee - Mar 27, 2026"
-      ],
-      [
-       "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1176",
-       "Board of Zoning Appeals - Mar 27, 2026"
       ]
      ]
     }
    ],
-   "pdfs_found": 101,
-   "scanned": [],
+   "pdfs_found": 102,
+   "scanned": [
+    {
+     "pdf": "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&event_id=1162",
+     "pages": 3,
+     "hits": 0
+    }
+   ],
    "errors": [],
    "pdf_sample": [
+    "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&event_id=1162",
     "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&event_id=945",
     "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1436",
     "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1435",
@@ -8435,8 +8462,7 @@
     "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1408",
     "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1409",
     "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1425",
-    "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1407",
-    "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1430"
+    "https://puntagorda.granicus.com/AgendaViewer.php?view_id=1&clip_id=1407"
    ]
   },
   "m-venice": {
@@ -10176,9 +10202,13 @@
    "listing": [
     {
      "url": "https://safetyharbor.granicus.com/ViewPublisherRSS.php?view_id=6&mode=agendas",
-     "links": 100,
+     "links": 101,
      "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>City of Safety Harbor, Florida: D",
      "sample": [
+      [
+       "https://safetyharbor.granicus.com/AgendaViewer.php?view_id=6&event_id=3149",
+       "SUSTAINABILITY ADVISORY BOARD - Dec 01, 2026"
+      ],
       [
        "https://safetyharbor.granicus.com/AgendaViewer.php?view_id=6&clip_id=3193",
        "CODE ENFORCEMENT BOARD - Nov 18, 2026"
@@ -10582,10 +10612,11 @@
      ]
     }
    ],
-   "pdfs_found": 100,
+   "pdfs_found": 101,
    "scanned": [],
    "errors": [],
    "pdf_sample": [
+    "https://safetyharbor.granicus.com/AgendaViewer.php?view_id=6&event_id=3149",
     "https://safetyharbor.granicus.com/AgendaViewer.php?view_id=6&clip_id=3193",
     "https://safetyharbor.granicus.com/AgendaViewer.php?view_id=6&clip_id=3189",
     "https://safetyharbor.granicus.com/AgendaViewer.php?view_id=6&clip_id=3190",
@@ -10599,8 +10630,7 @@
     "https://safetyharbor.granicus.com/AgendaViewer.php?view_id=6&clip_id=3174",
     "https://safetyharbor.granicus.com/AgendaViewer.php?view_id=6&clip_id=3172",
     "https://safetyharbor.granicus.com/AgendaViewer.php?view_id=6&clip_id=3171",
-    "https://safetyharbor.granicus.com/AgendaViewer.php?view_id=6&clip_id=3169",
-    "https://safetyharbor.granicus.com/AgendaViewer.php?view_id=6&clip_id=3166"
+    "https://safetyharbor.granicus.com/AgendaViewer.php?view_id=6&clip_id=3169"
    ]
   },
   "m-wintersprings": {
@@ -14517,435 +14547,13 @@
   },
   "c-gadsden": {
    "name": "Gadsden County",
-   "listing": [
-    {
-     "url": "https://gadsdencountyfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas",
-     "links": 100,
-     "head": "<?xml version=\"1.0\" ?>\n<?xml-stylesheet href=\"browserfriendlyRSS_Layout.xslt\" type=\"text/xsl\" media=\"screen\"?>\n<rss version=\"2.0\" \n    xmlns:dc=\"https://purl.org/dc/elements/1.1/\" \n    xmlns:gran=\"https://www.granicus.com/schema/rss-supplements\" >\n<channel>\n  <title>Gadsden County, FL: All Meeting B",
-     "sample": [
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=188",
-       "BOARD OF COUNTY COMMISSIONERS - Nov 17, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=187",
-       "Planning Commission - Nov 12, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=186",
-       "BOARD OF COUNTY COMMISSIONERS - Oct 20, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=185",
-       "BOARD OF COUNTY COMMISSIONERS - Oct 15, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=184",
-       "Planning Commission - Oct 08, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=183",
-       "BOARD OF COUNTY COMMISSIONERS - Oct 06, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=182",
-       "BOARD OF COUNTY COMMISSIONERS - Sep 22, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=181",
-       "BOARD OF COUNTY COMMISSIONERS - Sep 14, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=180",
-       "Planning Commission - Sep 10, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=179",
-       "BOARD OF COUNTY COMMISSIONERS - Sep 08, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=178",
-       "BOARD OF COUNTY COMMISSIONERS - Sep 01, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=177",
-       "BOARD OF COUNTY COMMISSIONERS - Aug 31, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=174",
-       "BOARD OF COUNTY COMMISSIONERS - Aug 25, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=175",
-       "BOARD OF COUNTY COMMISSIONERS - Aug 25, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=176",
-       "BOARD OF COUNTY COMMISSIONERS - Aug 25, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=173",
-       "Planning Commission - Aug 13, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=172",
-       "BOARD OF COUNTY COMMISSIONERS - Aug 04, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=170",
-       "BOARD OF COUNTY COMMISSIONERS - Jul 28, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=171",
-       "BOARD OF COUNTY COMMISSIONERS - Jul 28, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=167",
-       "BOARD OF COUNTY COMMISSIONERS - Jun 16, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=169",
-       "BOARD OF COUNTY COMMISSIONERS - Jun 16, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=164",
-       "BOARD OF COUNTY COMMISSIONERS - Jun 11, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=161",
-       "BOARD OF COUNTY COMMISSIONERS - Jun 02, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=163",
-       "BOARD OF COUNTY COMMISSIONERS - Jun 02, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=159",
-       "BOARD OF COUNTY COMMISSIONERS - May 26, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=156",
-       "BOARD OF COUNTY COMMISSIONERS - May 19, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=158",
-       "BOARD OF COUNTY COMMISSIONERS - May 19, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=153",
-       "BOARD OF COUNTY COMMISSIONERS - May 05, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=154",
-       "BOARD OF COUNTY COMMISSIONERS - May 05, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=152",
-       "Planning Commission - Apr 23, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=150",
-       "BOARD OF COUNTY COMMISSIONERS - Apr 21, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=151",
-       "BOARD OF COUNTY COMMISSIONERS - Apr 21, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=149",
-       "Planning Commission - Apr 09, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=147",
-       "BOARD OF COUNTY COMMISSIONERS - Apr 07, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=148",
-       "BOARD OF COUNTY COMMISSIONERS - Apr 07, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=146",
-       "BOARD OF COUNTY COMMISSIONERS - Mar 17, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=145",
-       "Planning Commission - Mar 12, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=144",
-       "BOARD OF COUNTY COMMISSIONERS - Mar 03, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=142",
-       "BOARD OF COUNTY COMMISSIONERS - Feb 17, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=143",
-       "BOARD OF COUNTY COMMISSIONERS - Feb 17, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=141",
-       "Planning Commission - Feb 12, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=140",
-       "BOARD OF COUNTY COMMISSIONERS - Feb 03, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=139",
-       "BOARD OF COUNTY COMMISSIONERS - Jan 29, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=138",
-       "BOARD OF COUNTY COMMISSIONERS - Jan 20, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=136",
-       "BOARD OF COUNTY COMMISSIONERS - Jan 06, 2026"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=135",
-       "BOARD OF COUNTY COMMISSIONERS - Dec 18, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=134",
-       "BOARD OF COUNTY COMMISSIONERS - Dec 17, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=133",
-       "Board of County Commissioners - Dec 16, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=132",
-       "BOARD OF COUNTY COMMISSIONERS - Dec 11, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=126",
-       "Board of County Commissioners - Dec 02, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=125",
-       "Board of County Commissioners - Nov 17, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=124",
-       "Planning Commission - Nov 13, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=123",
-       "Planning Commission - Nov 05, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=122",
-       "Board of County Commissioners - Nov 04, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=121",
-       "BOARD OF COUNTY COMMISSIONERS - Oct 30, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=120",
-       "Parks &amp; Recreation - Oct 27, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=118",
-       "Board of County Commissioners - Oct 21, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=117",
-       "Board of County Commissioners - Oct 07, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=115",
-       "BOARD OF COUNTY COMMISSIONERS - Sep 30, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=116",
-       "Board of County Commissioners - Sep 30, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=113",
-       "Parks &amp; Recreation - Sep 22, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=114",
-       "BOARD OF COUNTY COMMISSIONERS - Sep 22, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=112",
-       "Board of County Commissioners - Sep 16, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=111",
-       "BOARD OF COUNTY COMMISSIONERS - Sep 15, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=110",
-       "Planning Commission - Sep 11, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=109",
-       "Board of County Commissioners - Sep 02, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=108",
-       "BOARD OF COUNTY COMMISSIONERS - Aug 26, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=106",
-       "BOARD OF COUNTY COMMISSIONERS - Aug 19, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=107",
-       "Board of County Commissioners - Aug 19, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=105",
-       "BOARD OF COUNTY COMMISSIONERS - Aug 18, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=104",
-       "Planning Commission - Aug 14, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=103",
-       "BOARD OF COUNTY COMMISSIONERS - Aug 14, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=101",
-       "BOARD OF COUNTY COMMISSIONERS - Aug 11, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=102",
-       "BOARD OF COUNTY COMMISSIONERS - Aug 11, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=99",
-       "BOARD OF COUNTY COMMISSIONERS - Aug 05, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=100",
-       "BOARD OF COUNTY COMMISSIONERS - Aug 05, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=98",
-       "BOARD OF COUNTY COMMISSIONERS - Aug 04, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=97",
-       "BOARD OF COUNTY COMMISSIONERS - Jul 25, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=94",
-       "BOARD OF COUNTY COMMISSIONERS - Jun 30, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=93",
-       "Board of County Commissioners - Jun 17, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=92",
-       "BOARD OF COUNTY COMMISSIONERS - Jun 11, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=90",
-       "BOARD OF COUNTY COMMISSIONERS - Jun 03, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=91",
-       "Board of County Commissioners - Jun 03, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=89",
-       "Board of County Commissioners - May 27, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=88",
-       "Planning Commission - May 15, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=87",
-       "BOARD OF COUNTY COMMISSIONERS - May 14, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=86",
-       "Board of County Commissioners - May 06, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=85",
-       "BOARD OF COUNTY COMMISSIONERS - Apr 21, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=84",
-       "Board of County Commissioners - Apr 15, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=83",
-       "Planning Commission - Apr 10, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=82",
-       "Board of County Commissioners - Apr 01, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=81",
-       "BOARD OF COUNTY COMMISSIONERS - Mar 28, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=80",
-       "Board of County Commissioners - Mar 18, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=79",
-       "BOARD OF COUNTY COMMISSIONERS - Mar 17, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=78",
-       "BOARD OF COUNTY COMMISSIONERS - Mar 13, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=77",
-       "BOARD OF COUNTY COMMISSIONERS - Mar 10, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=76",
-       "BOARD OF COUNTY COMMISSIONERS - Mar 06, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=75",
-       "Board of County Commissioners - Mar 04, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=74",
-       "BOARD OF COUNTY COMMISSIONERS - Feb 24, 2025"
-      ],
-      [
-       "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=72",
-       "Board of County Commissioners - Feb 18, 2025"
-      ]
-     ]
-    }
-   ],
-   "pdfs_found": 100,
+   "listing": [],
+   "pdfs_found": 0,
    "scanned": [],
-   "errors": [],
-   "pdf_sample": [
-    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=188",
-    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=187",
-    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=186",
-    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=185",
-    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=184",
-    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=183",
-    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=182",
-    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=181",
-    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=180",
-    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=179",
-    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=178",
-    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=177",
-    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=174",
-    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=175",
-    "https://gadsdencountyfl.granicus.com/AgendaViewer.php?view_id=1&clip_id=176"
-   ]
+   "errors": [
+    "listing https://gadsdencountyfl.granicus.com/ViewPublisherRSS.php?view_id=1&mode=agendas: Remote end closed connection without response"
+   ],
+   "pdf_sample": []
   },
   "c-hardee": {
    "name": "Hardee County",
@@ -17791,13 +17399,7 @@
     }
    ],
    "pdfs_found": 95,
-   "scanned": [
-    {
-     "pdf": "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_10132026-1480",
-     "pages": 36,
-     "hits": 0
-    }
-   ],
+   "scanned": [],
    "errors": [],
    "pdf_sample": [
     "https://www.groveland-fl.gov/AgendaCenter/ViewFile/Agenda/_04252025-1322",
@@ -18309,23 +17911,7 @@
     }
    ],
    "pdfs_found": 84,
-   "scanned": [
-    {
-     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_11242026-488",
-     "pages": 2,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_10272026-483",
-     "pages": 2,
-     "hits": 0
-    },
-    {
-     "pdf": "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_10222026-481",
-     "pages": 1,
-     "hits": 0
-    }
-   ],
+   "scanned": [],
    "errors": [],
    "pdf_sample": [
     "https://www.cityofbartow.net/AgendaCenter/ViewFile/Agenda/_10212026-478",
@@ -18839,44 +18425,44 @@
    "pdfs_found": 55,
    "scanned": [
     {
-     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-9191cf3617e543db927003949c6d46a3.pdf",
-     "pages": 3,
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-b33729d6955749b89359099217e56b29.pdf",
+     "pages": 281,
+     "hits": 10
+    },
+    {
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-b33729d6955749b89359099217e56b29.pdf",
+     "pages": 40,
+     "hits": 5
+    },
+    {
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-a65be5e6a62642459c08f4da58fd61a0.pdf",
+     "pages": 2,
      "hits": 0
     },
     {
-     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-9191cf3617e543db927003949c6d46a3.pdf",
-     "pages": 267,
-     "hits": 14
-    },
-    {
-     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-8a66df26b7784624b28284d32031ff27.pdf",
-     "pages": 3,
-     "hits": 2
-    },
-    {
-     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-8a66df26b7784624b28284d32031ff27.pdf",
-     "pages": 384,
-     "hits": 38
-    },
-    {
-     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-53685c83ed6a495f988737ab48a92ce6.pdf",
-     "pages": 4,
-     "hits": 6
-    },
-    {
-     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-53685c83ed6a495f988737ab48a92ce6.pdf",
-     "pages": 400,
-     "hits": 53
-    },
-    {
-     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-53685c83ed6a495f988737ab48a92ce6.pdf",
-     "pages": 31,
-     "hits": 8
-    },
-    {
-     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-b33729d6955749b89359099217e56b29.pdf",
-     "pages": 3,
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-a65be5e6a62642459c08f4da58fd61a0.pdf",
+     "pages": 17,
      "hits": 1
+    },
+    {
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-fd70ab869e084748b3e5a6829c343fb5.pdf",
+     "pages": 4,
+     "hits": 9
+    },
+    {
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Packet-fd70ab869e084748b3e5a6829c343fb5.pdf",
+     "pages": 400,
+     "hits": 45
+    },
+    {
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Minutes-fd70ab869e084748b3e5a6829c343fb5.pdf",
+     "pages": 22,
+     "hits": 15
+    },
+    {
+     "pdf": "https://mccmeetings.blob.core.usgovcloudapi.net/lakeparkfl-pubu/MEET-Agenda-74171384ca6e428098c939798c909bcd.pdf",
+     "pages": 2,
+     "hits": 0
     }
    ],
    "errors": [],
@@ -18903,16 +18489,16 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3781,plainText=false)",
-    "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3782,plainText=false)",
-    "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3777,plainText=false)",
-    "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3783,plainText=false)",
     "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3790,plainText=false)",
     "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3791,plainText=false)",
     "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3784,plainText=false)",
     "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3785,plainText=false)",
     "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3802,plainText=false)",
-    "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3806,plainText=false)"
+    "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3806,plainText=false)",
+    "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3792,plainText=false)",
+    "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3804,plainText=false)",
+    "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3807,plainText=false)",
+    "https://tarponspringsfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3808,plainText=false)"
    ],
    "scanned": [],
    "errors": []
@@ -18939,11 +18525,19 @@
   "m-seminolecity:civicclerk": {
    "name": "Seminole (city)",
    "platform": "civicclerk",
-   "events": 6,
+   "events": 5,
    "files": [
-    "https://seminolefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=747,plainText=false)"
+    "https://seminolefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=752,plainText=false)"
    ],
-   "scanned": [],
+   "scanned": [
+    {
+     "pdf": "https://seminolefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=752,plainText=false)",
+     "pages": 2,
+     "hits": 0,
+     "chars": 2643,
+     "meeting_date": "2026-11-24"
+    }
+   ],
    "errors": []
   },
   "m-gainesville:civicclerk": {
@@ -18951,8 +18545,6 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=367,plainText=false)",
-    "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=272,plainText=false)",
     "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=375,plainText=false)",
     "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=376,plainText=false)",
     "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=350,plainText=false)",
@@ -18960,9 +18552,54 @@
     "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=311,plainText=false)",
     "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=312,plainText=false)",
     "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=392,plainText=false)",
-    "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=393,plainText=false)"
+    "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=393,plainText=false)",
+    "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=359,plainText=false)",
+    "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=360,plainText=false)"
    ],
-   "scanned": [],
+   "scanned": [
+    {
+     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=386,plainText=false)",
+     "pages": 3,
+     "hits": 0,
+     "chars": 4048,
+     "meeting_date": "2026-11-18"
+    },
+    {
+     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=387,plainText=false)",
+     "pages": 81,
+     "hits": 9,
+     "chars": 108023,
+     "meeting_date": "2026-11-18"
+    },
+    {
+     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=400,plainText=false)",
+     "pages": 4,
+     "hits": 0,
+     "chars": 7156,
+     "meeting_date": "2026-11-18"
+    },
+    {
+     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=401,plainText=false)",
+     "pages": 72,
+     "hits": 1,
+     "chars": 57583,
+     "meeting_date": "2026-11-18"
+    },
+    {
+     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=365,plainText=false)",
+     "pages": 2,
+     "hits": 0,
+     "chars": 1489,
+     "meeting_date": "2026-11-18"
+    },
+    {
+     "pdf": "https://gainesvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=366,plainText=false)",
+     "pages": 10,
+     "hits": 0,
+     "chars": 7862,
+     "meeting_date": "2026-11-18"
+    }
+   ],
    "errors": []
   },
   "c-lake:civicclerk": {
@@ -18975,9 +18612,26 @@
     "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7840,plainText=false)",
     "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7843,plainText=false)",
     "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7853,plainText=false)",
-    "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7858,plainText=false)"
+    "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7858,plainText=false)",
+    "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7865,plainText=false)",
+    "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7866,plainText=false)"
    ],
-   "scanned": [],
+   "scanned": [
+    {
+     "pdf": "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7865,plainText=false)",
+     "pages": 6,
+     "hits": 0,
+     "chars": 7855,
+     "meeting_date": "2026-12-01"
+    },
+    {
+     "pdf": "https://lakecountyfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7866,plainText=false)",
+     "pages": 400,
+     "hits": 11,
+     "chars": 518701,
+     "meeting_date": "2026-12-01"
+    }
+   ],
    "errors": []
   },
   "m-tallahassee:civicclerk": {
@@ -19020,16 +18674,16 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10188,plainText=false)",
-    "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10190,plainText=false)",
-    "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10179,plainText=false)",
     "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10180,plainText=false)",
     "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10193,plainText=false)",
     "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10195,plainText=false)",
     "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10197,plainText=false)",
     "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10203,plainText=false)",
     "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10204,plainText=false)",
-    "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10208,plainText=false)"
+    "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10208,plainText=false)",
+    "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10210,plainText=false)",
+    "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10212,plainText=false)",
+    "https://melbournefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=10213,plainText=false)"
    ],
    "scanned": [],
    "errors": []
@@ -19037,16 +18691,29 @@
   "m-deerfieldbeach:civicclerk": {
    "name": "Deerfield Beach",
    "platform": "civicclerk",
-   "events": 3,
+   "events": 2,
    "files": [
-    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3346,plainText=false)",
-    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3347,plainText=false)",
-    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3340,plainText=false)",
-    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3341,plainText=false)",
     "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3358,plainText=false)",
-    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3364,plainText=false)"
+    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3364,plainText=false)",
+    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3365,plainText=false)",
+    "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3366,plainText=false)"
    ],
-   "scanned": [],
+   "scanned": [
+    {
+     "pdf": "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3365,plainText=false)",
+     "pages": 3,
+     "hits": 0,
+     "chars": 3125,
+     "meeting_date": "2026-12-03"
+    },
+    {
+     "pdf": "https://deerfieldbeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3366,plainText=false)",
+     "pages": 400,
+     "hits": 2,
+     "chars": 334214,
+     "meeting_date": "2026-12-03"
+    }
+   ],
    "errors": []
   },
   "m-kissimmee:civicclerk": {
@@ -19085,8 +18752,6 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5353,plainText=false)",
-    "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5356,plainText=false)",
     "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5374,plainText=false)",
     "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5376,plainText=false)",
     "https://escambiacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5370,plainText=false)",
@@ -19104,8 +18769,6 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12059,plainText=false)",
-    "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12060,plainText=false)",
     "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12080,plainText=false)",
     "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12081,plainText=false)",
     "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12061,plainText=false)",
@@ -19113,7 +18776,9 @@
     "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12085,plainText=false)",
     "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12086,plainText=false)",
     "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12082,plainText=false)",
-    "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12083,plainText=false)"
+    "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12083,plainText=false)",
+    "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12094,plainText=false)",
+    "https://pascocofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12095,plainText=false)"
    ],
    "scanned": [],
    "errors": []
@@ -19123,8 +18788,6 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2158,plainText=false)",
-    "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2159,plainText=false)",
     "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2166,plainText=false)",
     "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2167,plainText=false)",
     "https://jupiterfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2160,plainText=false)",
@@ -19139,7 +18802,6 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9718,plainText=false)",
     "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9733,plainText=false)",
     "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9730,plainText=false)",
     "https://portorangefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=9731,plainText=false)",
@@ -19157,16 +18819,14 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4339,plainText=false)",
-    "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4341,plainText=false)",
-    "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4342,plainText=false)",
     "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4343,plainText=false)",
     "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4344,plainText=false)",
     "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4345,plainText=false)",
     "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4346,plainText=false)",
     "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4349,plainText=false)",
     "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4351,plainText=false)",
-    "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4347,plainText=false)"
+    "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4347,plainText=false)",
+    "https://apopkafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4352,plainText=false)"
    ],
    "scanned": [],
    "errors": []
@@ -19176,8 +18836,6 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1648,plainText=false)",
-    "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1649,plainText=false)",
     "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1650,plainText=false)",
     "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1651,plainText=false)",
     "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1646,plainText=false)",
@@ -19185,7 +18843,9 @@
     "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1652,plainText=false)",
     "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1653,plainText=false)",
     "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1643,plainText=false)",
-    "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1644,plainText=false)"
+    "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1644,plainText=false)",
+    "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1654,plainText=false)",
+    "https://ocoeefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1658,plainText=false)"
    ],
    "scanned": [],
    "errors": []
@@ -19195,7 +18855,6 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1675,plainText=false)",
     "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1688,plainText=false)",
     "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1689,plainText=false)",
     "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1677,plainText=false)",
@@ -19204,15 +18863,7 @@
     "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1700,plainText=false)",
     "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1693,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://wintergardenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1700,plainText=false)",
-     "pages": 1,
-     "hits": 0,
-     "chars": 2392,
-     "meeting_date": "2026-12-01"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-stcloud:civicclerk": {
@@ -19233,18 +18884,33 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2535,plainText=false)",
-    "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2536,plainText=false)",
-    "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2537,plainText=false)",
-    "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2538,plainText=false)",
     "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2539,plainText=false)",
     "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2540,plainText=false)",
     "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2461,plainText=false)",
     "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2462,plainText=false)",
     "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2541,plainText=false)",
-    "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2542,plainText=false)"
+    "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2542,plainText=false)",
+    "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2551,plainText=false)",
+    "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2501,plainText=false)",
+    "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2502,plainText=false)",
+    "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2552,plainText=false)"
    ],
-   "scanned": [],
+   "scanned": [
+    {
+     "pdf": "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2573,plainText=false)",
+     "pages": 5,
+     "hits": 2,
+     "chars": 9172,
+     "meeting_date": "2026-11-24"
+    },
+    {
+     "pdf": "https://titusvillefl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2574,plainText=false)",
+     "pages": 317,
+     "hits": 11,
+     "chars": 399943,
+     "meeting_date": "2026-11-24"
+    }
+   ],
    "errors": []
   },
   "m-ormondbeach:civicclerk": {
@@ -19275,8 +18941,6 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3929,plainText=false)",
-    "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3930,plainText=false)",
     "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3931,plainText=false)",
     "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3932,plainText=false)",
     "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3933,plainText=false)",
@@ -19284,7 +18948,9 @@
     "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3934,plainText=false)",
     "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3935,plainText=false)",
     "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3938,plainText=false)",
-    "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3939,plainText=false)"
+    "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3939,plainText=false)",
+    "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3936,plainText=false)",
+    "https://destinfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3937,plainText=false)"
    ],
    "scanned": [],
    "errors": []
@@ -19302,9 +18968,8 @@
   "m-leesburg:civicclerk": {
    "name": "Leesburg",
    "platform": "civicclerk",
-   "events": 15,
+   "events": 14,
    "files": [
-    "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3360,plainText=false)",
     "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3367,plainText=false)",
     "https://leesburgfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3368,plainText=false)"
    ],
@@ -19314,14 +18979,8 @@
   "m-clermont:civicclerk": {
    "name": "Clermont",
    "platform": "civicclerk",
-   "events": 3,
+   "events": 1,
    "files": [
-    "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5856,plainText=false)",
-    "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5857,plainText=false)",
-    "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5863,plainText=false)",
-    "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5854,plainText=false)",
-    "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5855,plainText=false)",
-    "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5862,plainText=false)",
     "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5864,plainText=false)",
     "https://clermontfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5865,plainText=false)"
    ],
@@ -19333,8 +18992,6 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1646,plainText=false)",
-    "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1663,plainText=false)",
     "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1650,plainText=false)",
     "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1659,plainText=false)",
     "https://eustisfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1656,plainText=false)",
@@ -19348,7 +19005,6 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7950,plainText=false)",
     "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7951,plainText=false)",
     "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7958,plainText=false)",
     "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7953,plainText=false)",
@@ -19357,9 +19013,18 @@
     "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7959,plainText=false)",
     "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7960,plainText=false)",
     "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7961,plainText=false)",
-    "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7962,plainText=false)"
+    "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7962,plainText=false)",
+    "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7965,plainText=false)"
    ],
-   "scanned": [],
+   "scanned": [
+    {
+     "pdf": "https://mountdorafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=7965,plainText=false)",
+     "pages": 1,
+     "hits": 0,
+     "chars": 2370,
+     "meeting_date": "2026-12-09"
+    }
+   ],
    "errors": []
   },
   "m-bartow:civicclerk": {
@@ -19402,8 +19067,6 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12607,plainText=false)",
-    "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12608,plainText=false)",
     "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12613,plainText=false)",
     "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12614,plainText=false)",
     "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12616,plainText=false)",
@@ -19411,7 +19074,9 @@
     "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12624,plainText=false)",
     "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12625,plainText=false)",
     "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12622,plainText=false)",
-    "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12623,plainText=false)"
+    "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12623,plainText=false)",
+    "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12662,plainText=false)",
+    "https://fernandinabeachfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12632,plainText=false)"
    ],
    "scanned": [],
    "errors": []
@@ -19460,7 +19125,6 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://longwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1623,plainText=false)",
     "https://longwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1617,plainText=false)",
     "https://longwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1618,plainText=false)",
     "https://longwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1634,plainText=false)",
@@ -19477,8 +19141,6 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2608,plainText=false)",
-    "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2624,plainText=false)",
     "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2619,plainText=false)",
     "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2629,plainText=false)",
     "https://cocoafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2633,plainText=false)"
@@ -19528,8 +19190,6 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2771,plainText=false)",
-    "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2772,plainText=false)",
     "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2782,plainText=false)",
     "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2783,plainText=false)",
     "https://parklandfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2786,plainText=false)",
@@ -19551,11 +19211,8 @@
   "m-opalocka:civicclerk": {
    "name": "Opa-locka",
    "platform": "civicclerk",
-   "events": 5,
-   "files": [
-    "https://opalockafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8146,plainText=false)",
-    "https://opalockafl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=8150,plainText=false)"
-   ],
+   "events": 3,
+   "files": [],
    "scanned": [],
    "errors": []
   },
@@ -19564,11 +19221,6 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1372,plainText=false)",
-    "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1373,plainText=false)",
-    "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1376,plainText=false)",
-    "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1377,plainText=false)",
-    "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1374,plainText=false)",
     "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1385,plainText=false)",
     "https://lakecityfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1386,plainText=false)"
    ],
@@ -19597,10 +19249,6 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://lynnhavenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1160,plainText=false)",
-    "https://lynnhavenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1161,plainText=false)",
-    "https://lynnhavenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1158,plainText=false)",
-    "https://lynnhavenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1164,plainText=false)",
     "https://lynnhavenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1180,plainText=false)",
     "https://lynnhavenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=1176,plainText=false)",
     "https://lynnhavenfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2179,plainText=false)",
@@ -19659,8 +19307,6 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5932,plainText=false)",
-    "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5933,plainText=false)",
     "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5937,plainText=false)",
     "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5938,plainText=false)",
     "https://wildwoodfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=5942,plainText=false)",
@@ -19674,16 +19320,16 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://colliercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3733,plainText=false)",
-    "https://colliercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3735,plainText=false)",
-    "https://colliercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3742,plainText=false)",
     "https://colliercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3736,plainText=false)",
     "https://colliercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3737,plainText=false)",
     "https://colliercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3738,plainText=false)",
     "https://colliercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3739,plainText=false)",
     "https://colliercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3743,plainText=false)",
     "https://colliercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3744,plainText=false)",
-    "https://colliercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3731,plainText=false)"
+    "https://colliercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3731,plainText=false)",
+    "https://colliercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3732,plainText=false)",
+    "https://colliercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3748,plainText=false)",
+    "https://colliercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3750,plainText=false)"
    ],
    "scanned": [],
    "errors": []
@@ -19691,10 +19337,8 @@
   "c-flagler:civicclerk": {
    "name": "Flagler County",
    "platform": "civicclerk",
-   "events": 13,
+   "events": 12,
    "files": [
-    "https://flaglercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2113,plainText=false)",
-    "https://flaglercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2117,plainText=false)",
     "https://flaglercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2120,plainText=false)",
     "https://flaglercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2121,plainText=false)",
     "https://flaglercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2119,plainText=false)"
@@ -19705,52 +19349,33 @@
   "c-nassau:civicclerk": {
    "name": "Nassau County",
    "platform": "civicclerk",
-   "events": 8,
+   "events": 6,
    "files": [
-    "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4375,plainText=false)",
-    "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4376,plainText=false)",
-    "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4351,plainText=false)",
-    "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4369,plainText=false)",
     "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4372,plainText=false)",
     "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4384,plainText=false)",
     "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4389,plainText=false)",
     "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4387,plainText=false)",
     "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4388,plainText=false)",
-    "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4385,plainText=false)"
+    "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4385,plainText=false)",
+    "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4390,plainText=false)",
+    "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4391,plainText=false)",
+    "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4392,plainText=false)"
    ],
-   "scanned": [
-    {
-     "pdf": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4391,plainText=false)",
-     "pages": 2,
-     "hits": 0,
-     "chars": 1950,
-     "meeting_date": "2026-11-24"
-    },
-    {
-     "pdf": "https://nassaucofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4392,plainText=false)",
-     "pages": 87,
-     "hits": 0,
-     "chars": 188927,
-     "meeting_date": "2026-11-24"
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "c-santarosa:civicclerk": {
    "name": "Santa Rosa County",
    "platform": "civicclerk",
-   "events": 15,
+   "events": 13,
    "files": [
-    "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3103,plainText=false)",
-    "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3104,plainText=false)",
-    "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3094,plainText=false)",
-    "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3095,plainText=false)",
     "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3108,plainText=false)",
     "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3109,plainText=false)",
     "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3098,plainText=false)",
     "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3099,plainText=false)",
     "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3115,plainText=false)",
-    "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3113,plainText=false)"
+    "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3113,plainText=false)",
+    "https://santarosacofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3114,plainText=false)"
    ],
    "scanned": [],
    "errors": []
@@ -19760,8 +19385,6 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3447,plainText=false)",
-    "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3453,plainText=false)",
     "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3450,plainText=false)",
     "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3454,plainText=false)",
     "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3449,plainText=false)",
@@ -19769,7 +19392,9 @@
     "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3462,plainText=false)",
     "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3455,plainText=false)",
     "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3456,plainText=false)",
-    "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3461,plainText=false)"
+    "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3461,plainText=false)",
+    "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3446,plainText=false)",
+    "https://indianrivercofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3457,plainText=false)"
    ],
    "scanned": [],
    "errors": []
@@ -19779,16 +19404,16 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12831,plainText=false)",
-    "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12832,plainText=false)",
-    "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12816,plainText=false)",
-    "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12817,plainText=false)",
-    "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12810,plainText=false)",
-    "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12814,plainText=false)",
-    "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12808,plainText=false)",
-    "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12809,plainText=false)",
-    "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12818,plainText=false)",
-    "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12819,plainText=false)"
+    "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12850,plainText=false)",
+    "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12851,plainText=false)",
+    "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12874,plainText=false)",
+    "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12875,plainText=false)",
+    "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12881,plainText=false)",
+    "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12882,plainText=false)",
+    "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12884,plainText=false)",
+    "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12879,plainText=false)",
+    "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12844,plainText=false)",
+    "https://stluciecofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=12845,plainText=false)"
    ],
    "scanned": [],
    "errors": []
@@ -19796,7 +19421,7 @@
   "c-highlands:civicclerk": {
    "name": "Highlands County",
    "platform": "civicclerk",
-   "events": 15,
+   "events": 13,
    "files": [
     "https://highlandscofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4691,plainText=false)",
     "https://highlandscofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=4692,plainText=false)",
@@ -19821,8 +19446,6 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://jacksoncofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3912,plainText=false)",
-    "https://jacksoncofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3911,plainText=false)",
     "https://jacksoncofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3916,plainText=false)",
     "https://jacksoncofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3917,plainText=false)",
     "https://jacksoncofl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=3922,plainText=false)"
@@ -19879,9 +19502,26 @@
     "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2352,plainText=false)",
     "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2353,plainText=false)",
     "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2354,plainText=false)",
-    "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2356,plainText=false)"
+    "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2356,plainText=false)",
+    "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2359,plainText=false)",
+    "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2360,plainText=false)"
    ],
-   "scanned": [],
+   "scanned": [
+    {
+     "pdf": "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2359,plainText=false)",
+     "pages": 3,
+     "hits": 1,
+     "chars": 5320,
+     "meeting_date": "2026-12-01"
+    },
+    {
+     "pdf": "https://stuartfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=2360,plainText=false)",
+     "pages": 86,
+     "hits": 4,
+     "chars": 64531,
+     "meeting_date": "2026-12-01"
+    }
+   ],
    "errors": []
   },
   "m-winterpark:civicclerk": {
@@ -19889,44 +19529,30 @@
    "platform": "civicclerk",
    "events": 15,
    "files": [
-    "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6721,plainText=false)",
-    "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6722,plainText=false)",
-    "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6727,plainText=false)",
-    "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6728,plainText=false)",
     "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6729,plainText=false)",
     "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6730,plainText=false)",
     "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6736,plainText=false)",
     "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6737,plainText=false)",
     "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6745,plainText=false)",
-    "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6746,plainText=false)"
+    "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6746,plainText=false)",
+    "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6753,plainText=false)",
+    "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6754,plainText=false)",
+    "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6738,plainText=false)",
+    "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6739,plainText=false)"
    ],
    "scanned": [
     {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6749,plainText=false)",
+     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6747,plainText=false)",
      "pages": 2,
      "hits": 0,
-     "chars": 2745,
-     "meeting_date": "2026-11-18"
-    },
-    {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6750,plainText=false)",
-     "pages": 22,
-     "hits": 0,
-     "chars": 36902,
-     "meeting_date": "2026-11-18"
-    },
-    {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6751,plainText=false)",
-     "pages": 2,
-     "hits": 0,
-     "chars": 2985,
+     "chars": 1582,
      "meeting_date": "2026-11-19"
     },
     {
-     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6752,plainText=false)",
-     "pages": 31,
-     "hits": 0,
-     "chars": 32111,
+     "pdf": "https://winterparkfl.api.civicclerk.com/v1/Meetings/GetMeetingFileStream(fileId=6748,plainText=false)",
+     "pages": 154,
+     "hits": 2,
+     "chars": 210433,
      "meeting_date": "2026-11-19"
     }
    ],
@@ -19977,8 +19603,19 @@
    "name": "St. Johns County",
    "platform": "escribe",
    "meetings": 3,
-   "scanned": [],
-   "errors": []
+   "scanned": [
+    {
+     "doc": "/Meeting.aspx?Id=e559b96e-08c9-4070-8f23-0ce82de3cf2b&Agenda=Agenda&lang=English",
+     "meeting": "Committee of the Whole",
+     "date": "2026-11-24",
+     "pages": 1,
+     "hits": 0,
+     "pdf": false
+    }
+   ],
+   "errors": [
+    "filestream: HTTP Error 403: Forbidden"
+   ]
   },
   "m-capecoral:escribe": {
    "name": "Cape Coral",
@@ -20033,13 +19670,6 @@
    "scanned": [],
    "errors": []
   },
-  "sd-nassau:boarddocs": {
-   "name": "Nassau County School District",
-   "platform": "boarddocs",
-   "meetings": 0,
-   "scanned": [],
-   "errors": []
-  },
   "sd-putnam:boarddocs": {
    "name": "Putnam County School District",
    "platform": "boarddocs",
@@ -20071,13 +19701,157 @@
      "meeting": "School Board Meeting (Board Organization) 6:00 PM",
      "date": "2026-11-17",
      "items": 77,
-     "fetched": 3,
+     "fetched": 12,
+     "hits": 1
+    },
+    {
+     "doc": "/go.boarddocs.com/fl/lee/Board.nsf/goto?open&id=DZX3UV089EFF",
+     "meeting": "School Board Special Meeting Agenda 2:00PM",
+     "date": "2026-11-20",
+     "items": 9,
+     "fetched": 2,
+     "hits": 1
+    }
+   ],
+   "errors": []
+  },
+  "sd-osceola:boarddocs": {
+   "name": "Osceola County School District",
+   "platform": "boarddocs",
+   "meetings": 0,
+   "scanned": [],
+   "errors": []
+  },
+  "sd-collier:boarddocs": {
+   "name": "Collier County Public Schools",
+   "platform": "boarddocs",
+   "meetings": 3,
+   "scanned": [
+    {
+     "doc": "boarddocs.com/fl/collier/Board.nsf/goto?open&id=DXXFWN412256",
+     "meeting": "Regular School Board Meeting",
+     "date": "2026-11-11",
+     "items": 70,
+     "fetched": 12,
+     "hits": 5
+    },
+    {
+     "doc": "boarddocs.com/fl/collier/Board.nsf/goto?open&id=DNYPUX66620F",
+     "meeting": "School Board Organizational Meeting",
+     "date": "2026-11-17",
+     "items": 15,
+     "fetched": 0,
      "hits": 0
     }
    ],
-   "errors": [
-    "item DU7P5Q62FA76: HTTP Error 403: Forbidden"
-   ]
+   "errors": []
+  },
+  "sd-marion:boarddocs": {
+   "name": "Marion County Public Schools",
+   "platform": "boarddocs",
+   "meetings": 5,
+   "scanned": [
+    {
+     "doc": ".boarddocs.com/fl/marion/Board.nsf/goto?open&id=DNESD2721D6B",
+     "meeting": "School Board Meeting",
+     "date": "2026-11-10",
+     "items": 43,
+     "fetched": 12,
+     "hits": 11
+    },
+    {
+     "doc": ".boarddocs.com/fl/marion/Board.nsf/goto?open&id=DNHLUG583F50",
+     "meeting": "Board of Directors, Leasing Corporation Organizational Meeting",
+     "date": "2026-11-17",
+     "items": 6,
+     "fetched": 0,
+     "hits": 0
+    }
+   ],
+   "errors": []
+  },
+  "sd-stjohns:boarddocs": {
+   "name": "St. Johns County School District",
+   "platform": "boarddocs",
+   "meetings": 0,
+   "scanned": [],
+   "errors": []
+  },
+  "sd-escambia:boarddocs": {
+   "name": "Escambia County School District",
+   "platform": "boarddocs",
+   "meetings": 4,
+   "scanned": [
+    {
+     "doc": "oarddocs.com/fl/escambia/Board.nsf/goto?open&id=DZBNEZ5FA67B",
+     "meeting": "REGULAR WORKSHOP AGENDA (1:00 PM)",
+     "date": "2026-11-12",
+     "items": 11,
+     "fetched": 2,
+     "hits": 0
+    },
+    {
+     "doc": "oarddocs.com/fl/escambia/Board.nsf/goto?open&id=DZBNDP5F763D",
+     "meeting": "REGULAR MEETING AGENDA (5:30 PM)",
+     "date": "2026-11-17",
+     "items": 50,
+     "fetched": 12,
+     "hits": 7
+    }
+   ],
+   "errors": []
+  },
+  "sd-okaloosa:boarddocs": {
+   "name": "Okaloosa County School District",
+   "platform": "boarddocs",
+   "meetings": 0,
+   "scanned": [],
+   "errors": []
+  },
+  "sd-citrus:boarddocs": {
+   "name": "Citrus County Schools",
+   "platform": "boarddocs",
+   "meetings": 0,
+   "scanned": [],
+   "errors": []
+  },
+  "sd-stlucie:boarddocs": {
+   "name": "St. Lucie Public Schools",
+   "platform": "boarddocs",
+   "meetings": 2,
+   "scanned": [
+    {
+     "doc": "boarddocs.com/fl/stlucie/Board.nsf/goto?open&id=DYSP3E62A40A",
+     "meeting": "THE SCHOOL BOARD OF ST. LUCIE COUNTY - REGULAR MEETING - NOVEMBER 17, 2026 - 5:10 P.M.",
+     "date": "2026-11-17",
+     "items": 59,
+     "fetched": 6,
+     "hits": 1
+    },
+    {
+     "doc": "boarddocs.com/fl/stlucie/Board.nsf/goto?open&id=DZPN7X5E9D1F",
+     "meeting": "THE SCHOOL BOARD OF ST. LUCIE COUNTY - ORGANIZATIONAL & LEASING CORPORATION MEETINGS - NOVEMBER 17, 2026 - 5:00 P.M.",
+     "date": "2026-11-17",
+     "items": 16,
+     "fetched": 0,
+     "hits": 0
+    }
+   ],
+   "errors": []
+  },
+  "sd-martin:boarddocs": {
+   "name": "Martin County School District",
+   "platform": "boarddocs",
+   "meetings": 0,
+   "scanned": [],
+   "errors": []
+  },
+  "sd-nassau:boarddocs": {
+   "name": "Nassau County School District",
+   "platform": "boarddocs",
+   "meetings": 0,
+   "scanned": [],
+   "errors": []
   },
   "c-clay:swagit": {
    "name": "Clay County",
@@ -20184,7 +19958,7 @@
   "c-bay:primegov": {
    "name": "Bay County",
    "platform": "primegov",
-   "meetings": 1,
+   "meetings": 2,
    "scanned": [],
    "errors": []
   },
@@ -20192,86 +19966,27 @@
    "name": "Miami",
    "platform": "iqm2",
    "meetings": 4,
-   "scanned": [
-    {
-     "doc": "https://miamifl.iqm2.com/Citizens/FileOpen.aspx?Type=1&ID=4085&Inline=True",
-     "meeting": "2026/11/19 10:00 AM Southeast Overtown/Park West CRA Regular - Miami, FL",
-     "date": "2026-11-19",
-     "pages": 131,
-     "hits": 11
-    },
-    {
-     "doc": "https://miamifl.iqm2.com/Citizens/FileOpen.aspx?Type=1&ID=4084&Inline=True",
-     "meeting": "2026/11/16 06:00 PM Miami Forever Bond Program Citizens' Oversight Board Regular Meeting - Miami, FL",
-     "date": "2026-11-16",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "doc": "https://miamifl.iqm2.com/Citizens/FileOpen.aspx?Type=1&ID=4078&Inline=True",
-     "meeting": "2026/11/19 09:30 AM OMNI Community Redevelopment Agency Regular Meeting - Miami, FL",
-     "date": "2026-11-19",
-     "pages": 35,
-     "hits": 8
-    },
-    {
-     "doc": "https://miamifl.iqm2.com/Citizens/FileOpen.aspx?Type=1&ID=4077&Inline=True",
-     "meeting": "2026/11/09 02:00 PM Miami Tree Ordinance Advisory Committee Regular Meeting - Miami, FL",
-     "date": "2026-11-09",
-     "pages": 12,
-     "hits": 0
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "c-okaloosa:iqm2": {
    "name": "Okaloosa County",
    "platform": "iqm2",
    "meetings": 1,
-   "scanned": [
-    {
-     "doc": "https://okaloosacountyfl.iqm2.com/Citizens/FileOpen.aspx?Type=1&ID=1878&Inline=True",
-     "meeting": "2026/11/17 08:30 AM Board of County Commissioners Regular Meeting (South) - Okaloosa County, Florida",
-     "date": "2026-11-17",
-     "pages": 400,
-     "hits": 60
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-fortwaltonbeach:iqm2": {
    "name": "Fort Walton Beach",
    "platform": "iqm2",
    "meetings": 3,
-   "scanned": [
-    {
-     "doc": "https://fortwaltonbeachcityfl.iqm2.com/Citizens/FileOpen.aspx?Type=1&ID=2291&Inline=True",
-     "meeting": "2026/11/10 05:30 PM City Council Workshop - City of Fort Walton Beach, Florida",
-     "date": "2026-11-10",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "doc": "https://fortwaltonbeachcityfl.iqm2.com/Citizens/FileOpen.aspx?Type=1&ID=2295&Inline=True",
-     "meeting": "2026/11/17 05:00 PM City Council Special Meeting - City of Fort Walton Beach, Florida",
-     "date": "2026-11-17",
-     "pages": 1,
-     "hits": 0
-    },
-    {
-     "doc": "https://fortwaltonbeachcityfl.iqm2.com/Citizens/FileOpen.aspx?Type=1&ID=2288&Inline=True",
-     "meeting": "2026/11/17 06:00 PM City Council Regular Meeting - City of Fort Walton Beach, Florida",
-     "date": "2026-11-17",
-     "pages": 256,
-     "hits": 32
-    }
-   ],
+   "scanned": [],
    "errors": []
   },
   "m-tampa:onbase": {
    "name": "Tampa",
    "platform": "onbase",
-   "meetings": 49,
+   "meetings": 50,
    "with_agenda": 4,
    "scanned": [],
    "errors": []
@@ -20279,7 +19994,7 @@
   "c-osceola:onbase": {
    "name": "Osceola County",
    "platform": "onbase",
-   "meetings": 7,
+   "meetings": 11,
    "with_agenda": 5,
    "scanned": [
     {
@@ -20318,20 +20033,12 @@
   "c-manatee:date": {
    "name": "Manatee County",
    "platform": "date_template",
-   "found": [
-    "https://records.manateeclerk.com/BoardRecords/Browse/Agendas/Board-of-County-Commissioners/2026/11/BC20261119DOC001.pdf"
-   ],
-   "scanned": [
-    {
-     "pdf": "https://records.manateeclerk.com/BoardRecords/Browse/Agendas/Board-of-County-Commissioners/2026/11/BC20261119DOC001.pdf",
-     "pages": 15,
-     "hits": 0
-    }
-   ],
+   "found": [],
+   "scanned": [],
    "errors": [
-    "https://records.manateeclerk.com/BoardRecords/Browse/Agendas/Board-of-County-Commissioners/2026/11/BC20261113DOC001.pdf: HTTP Error 410: Gone",
     "https://records.manateeclerk.com/BoardRecords/Browse/Agendas/Board-of-County-Commissioners/2026/11/BC20261114DOC001.pdf: HTTP Error 410: Gone",
-    "https://records.manateeclerk.com/BoardRecords/Browse/Agendas/Board-of-County-Commissioners/2026/11/BC20261115DOC001.pdf: HTTP Error 410: Gone"
+    "https://records.manateeclerk.com/BoardRecords/Browse/Agendas/Board-of-County-Commissioners/2026/11/BC20261115DOC001.pdf: HTTP Error 410: Gone",
+    "https://records.manateeclerk.com/BoardRecords/Browse/Agendas/Board-of-County-Commissioners/2026/11/BC20261116DOC001.pdf: HTTP Error 410: Gone"
    ]
   },
   "m-lakeland:date": {
@@ -20358,22 +20065,8 @@
   "c-leon:date": {
    "name": "Leon County",
    "platform": "date_template",
-   "found": [
-    "https://www2.leoncountyfl.gov/coadmin/agenda/book/261116/agenda.pdf",
-    "https://www2.leoncountyfl.gov/coadmin/agenda/book/261117/agenda.pdf"
-   ],
-   "scanned": [
-    {
-     "pdf": "https://www2.leoncountyfl.gov/coadmin/agenda/book/261116/agenda.pdf",
-     "pages": 36,
-     "hits": 3
-    },
-    {
-     "pdf": "https://www2.leoncountyfl.gov/coadmin/agenda/book/261117/agenda.pdf",
-     "pages": 400,
-     "hits": 60
-    }
-   ],
+   "found": [],
+   "scanned": [],
    "errors": []
   },
   "m-seminolecity:date": {
@@ -20381,7 +20074,11 @@
    "platform": "date_template",
    "found": [],
    "scanned": [],
-   "errors": []
+   "errors": [
+    "https://www.myseminole.com/Agendas/2026/11.14.26_CA.pdf: HTTP Error 403: Forbidden",
+    "https://www.myseminole.com/Agendas/2026/11.15.26_CA.pdf: HTTP Error 403: Forbidden",
+    "https://www.myseminole.com/Agendas/2026/11.16.26_CA.pdf: HTTP Error 403: Forbidden"
+   ]
   },
   "c-miamidade": {
    "name": "Miami-Dade County",
